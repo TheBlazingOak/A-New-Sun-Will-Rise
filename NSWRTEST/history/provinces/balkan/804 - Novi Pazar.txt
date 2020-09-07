@@ -1,0 +1,6 @@
+owner = BOS
+controller = BOS
+add_core = BOS
+add_core = SER
+trade_goods = iron
+life_rating = 35
