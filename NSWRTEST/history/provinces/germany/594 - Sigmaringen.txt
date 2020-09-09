@@ -1,7 +1,6 @@
-owner = SGM
-controller = SGM
-add_core = SGM
-add_core = PRU
+owner = ULM
+controller = ULM
+add_core = ULM
 add_core = GER
 trade_goods = grain
 life_rating = 40
