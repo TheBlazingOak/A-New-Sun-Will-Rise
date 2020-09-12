@@ -50,7 +50,8 @@ country_event = {
     	}
 		ai_chance = {
             factor = 85
-        }
+        	}
+    	}
     }
     option = {
     	name = "EVT52009OPTB" #Give up
@@ -62,7 +63,6 @@ country_event = {
         	}    
     	}
     }
-}
 #Final Statue Event
 country_event = {
 	id = 52010
@@ -117,10 +117,10 @@ country_event = {
     	add_country_modifier = {
 		name = new_american_national_identity
 		duration = 3036.1.1
-		}
+				}
+    		}
     	}
-
-    }
+	}
 }
 
 #Response from american nations
@@ -137,8 +137,10 @@ country_event = {
 			add_country_modifier = {
 			name = new_american_national_identity
 			duration = 3036.1.1
+			}
 		}
 	}
+}
 
 #Help Unciv american country
 country_event = {
@@ -169,8 +171,9 @@ country_event = {
         		}
 			}
 		}
+
 		option = {
-		name = "EVT52013OPTB"
+		name = "EVT52013OPTB" #Refuse to help
 		FROM = {
 		prestige = -5
 		relation = {
@@ -187,8 +190,9 @@ country_event = {
             factor = 1.50
             NOT = {
             money = 250000
-            	}
-        	}
+            		}
+        		}
+			}
 		}
 	}
 
@@ -215,8 +219,10 @@ country_event = {
 		}
 		ai_chance = {
             factor = 100
-        }		
+        	}		
+		}
 	}
+
 #Unciv no event
 country_event = {
 	id = 52015
@@ -279,7 +285,7 @@ country_event = {
 	exists = NEN
 	tag = NEN
 	year = 1840
-	220 = { owned_by = {is_culture_group = }}
+	220 = { owned_by = { is_culture_group = american_cultures } }
 	NOT = {
 	owns = 220
 	}
@@ -386,7 +392,6 @@ country_event = {
 				}
 			}
 		}
-	}
 #Washington Sold!
 country_event = {
 	id = 52019

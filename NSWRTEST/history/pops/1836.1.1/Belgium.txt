@@ -752,19 +752,19 @@
     artisans = {
         culture = rhine_german
         religion = catholic
-        size = 450
+        size = 650
     }
 
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 1200
+        size = 1000
     }
 
     farmers = {
         culture = flemish
         religion = catholic
-        size = 8375
+        size = 2375
     }
 
     artisans = {
@@ -777,6 +777,12 @@
         culture = wallonian
         religion = catholic
         size = 2175
+    }
+
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 6000
     }
 
 }
@@ -820,13 +826,13 @@
     }
 
     artisans = {
-        culture = french
+        culture = alsatian
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = french
+        culture = alsatian
         religion = catholic
         size = 4200
     }
