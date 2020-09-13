@@ -5345,7 +5345,7 @@ EVT52011OPTA;We must pass on this legacy. For, uh... America!;;;;;;;;;;;;;
 EVTNAME52012;A Man on the Moon;;;;;;;;;;;;;
 EVTDESC52012;We've recieved word of an archaelogical expedition succeeding in Washington, finding that a country known as America had once stood on the continent, and that it could even send men to the moon. While it seems a little ridiculous, maybe it isn't such a bad thing, to begin to see ourselves as more of a people, rather than individual nations.;;;;;;;;;;;;;
 EVT52012OPTA;It's a coinflip on whether they'll succeed.;;;;;;;;;;;;;
-EVTNAME52013;An American Cry
+EVTNAME52013;An American Cry;;;;;;;;;;;;;
 EVTDESC52013;We've just recieved wind that a small American nation is attempting to advance their technologies, and have requested aid. If we do so, I'm sure we'd gain some favor internationally.;;;;;;;;;;;;;
 EVT52013OPTA;We have a few coins we could spare.;;;;;;;;;;;;;
 EVT52013OPTB;We owe them nothing...;;;;;;;;;;;;;
@@ -5354,7 +5354,6 @@ EVTDESC52014;We've just recieved word that our call for assistance has been reci
 EVT52014OPTA;What Luck!;;;;;;;;;;;;;
 EVTNAME52015;Unsuccesful Petition for Assistance;;;;;;;;;;;;;
 EVTDESC52015;We've just heard that our call for help has been ignored. It's unfortunate, but it isn't our will to simply move forward. It relies on outside help as well... But there is no point in dwelling on it, we will just have to find another way.;;;;;;;;;;;;;
-EVTDESC52015;
 EVT52015OPTA;Look to the horizons. Maybe there we can find an answer to our call.;;;;;;;;;;;;;
 EVTNAME52016;The Ternith Theory;;;;;;;;;;;;;
 EVTDESC52016;A New Englander, Professor Oliver Ternith of Harvard, has recently published a book known as "The Ternith Theory," which focuses on the history of the world. He suspects that some sort of major catastrophe had set the world back hundreds of years. A proceeds to talk of civilizations of common ancestory to many nations today. It remains to be seen how others in his field will react to his theory.;;;;;;;;;;;;;
@@ -5368,10 +5367,10 @@ EVTNAME52018;New England Asks To Buy Washington;;;;;;;;;;;;;
 EVTDESC52018;We've just recieved a request from New England to sell Washington. Washington has been under our governance, and it has been a symbol of our nation.;;;;;;;;;;;;;
 EVT52018OPTA;Perhaps selling Washington would be beneficial for us.;;;;;;;;;;;;;
 EVT52018OPTB;I can't see how we could sell it, its to important to us.;;;;;;;;;;;;;
-EVTNAME52019;Washington Sold!
+EVTNAME52019;Washington Sold!;;;;;;;;;;;;;
 EVTDESC52019;We have successfully bought Washington. With Washington under new management, we'll be able to fix up the city, and bring it to the height it once had, instead of the dirty ruins it now presents itself as.;;;;;;;;;;;;;
-EVT52019OPTA;It may taste of dust, but the smell is of greatness.
-EVTNAME52020;Washington Offer Declined
+EVT52019OPTA;It may taste of dust, but the smell is of greatness.;;;;;;;;;;;;;
+EVTNAME52020;Washington Offer Declined;;;;;;;;;;;;;
 EVTDESC52020;We attempted to negotiate, but the deal feel through. Unfortunate as it is, it is easy to understand their reasoning, due to the city's cultural significance. Of course, we could always cite this as a cause to declaring war...;;;;;;;;;;;;;
 EVT52020OPTA;Washington shall be ours!;;;;;;;;;;;;;
 EVT52020OPTB;I'd rather not, let's simply respect their wishes.;;;;;;;;;;;;;

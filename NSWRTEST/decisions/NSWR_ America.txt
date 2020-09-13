@@ -12,6 +12,7 @@ political_decisions = {
 	allow = {
 	owns = 232
 	nationalism_n_imperialism = 1
+
 	}
 	effect = {
 	prestige = 10
@@ -53,7 +54,7 @@ political_decisions = {
 		}
 		allow = {
 		prestige = 50
-		220 = {
+		2146 = {
 		owned_by = THIS
 		OR = {
 		owner = { in_sphere = THIS }
@@ -62,7 +63,14 @@ political_decisions = {
 		}
 		effect = {
 		prestige = 10
+		random_country = {
+		limit = {
+		is_culture_group = american_cultures
+		tag = THIS
+		}
 		country_event = { id=52009 days=256}
+		}
+		
 		}
 		ai_will_do = { factor = 1}
 	}
@@ -72,11 +80,13 @@ political_decisions = {
 	potential = {
 	NOT = {
                 has_global_flag = statue_of_liberty_has_been_built
+                }
             }
-    is_culture_group = american_cultures
-	    owns = 232
-	    has_country_flag = statue_plans_discovered
-		}
+   	is_culture_group = american_cultures
+	owns = 232 #New York
+	has_country_flag = statue_plans_discovered
+	}
+
 		allow = {
 		owns = 232
 		has_country_flag = statue_plans_discovered
@@ -87,11 +97,11 @@ political_decisions = {
 		money = -500000
 		any_country = {
 			limit = {
+			is_culture_group = american_cultures
 			tag = THIS
 			}
-			country_event = { id=52010 days=1500 }
+			country_event = { id=52010 days=1500 } #Event to finish Statue
 			}
 		}
 		ai_will_do = { factor = 1}
 	}
-}
