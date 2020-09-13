@@ -420,8 +420,6 @@ political_decisions = {
                 is_culture_group = east_asian
                 is_culture_group = south_asian
                 is_culture_group = polish_culture_group
-                is_culture_group = british
-                is_culture_group = french
                 tag = FSA
                 tag = CSA
             }
@@ -1272,6 +1270,59 @@ political_decisions = {
                 factor = 0
                 badboy = 0.8
             }
+        }
+    }
+
+    become_holstein = {
+        picture = gtfo
+        potential = {
+            tag = SWH
+            any_owned_province = { is_core = HOL }
+            NOT = {
+                any_owned_province = {
+                    is_core = GER
+                    NOT = { is_core = HOL }
+                }
+            }
+        }
+
+        allow = {
+            owns = 369
+        }
+
+        effect = {
+            capital = 369
+            prestige = -5
+            all_core = { remove_core = THIS }
+            random_owned = {
+                limit = {
+                    HOL = { exists = no }
+                }
+                owner = { change_tag = HOL }
+            }
+            random_owned = {
+                limit = {
+                    HOL = { exists = yes }
+                }
+                owner = { annex_to = HOL }
+            }
+            clr_country_flag = crown_from_the_gutter
+            clr_country_flag = secondary_union_formation
+            any_pop = {
+                limit = { is_primary_culture = yes }
+                militancy = -6
+            }
+            random_country = {
+                limit = {
+                    is_greater_power = yes
+                    primary_culture = north_german
+                }
+                diplomatic_influence = { who = THIS value = 100 }
+            }
+        }
+
+        ai_will_do = {
+            factor = 1
         }
     }
 

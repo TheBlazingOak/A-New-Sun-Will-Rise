@@ -1,41 +1,14 @@
 political_decisions = {
-	
-	#Statue of Liberity start decision
-	the_statue = {
-	potential = {
-	NOT = {
-                has_global_flag = statue_of_liberty_has_been_built
-            }
-    is_culture_group = american_cultures
-    owns = 232
-	}
-	allow = {
-	owns = 232
-	nationalism_n_imperialism = 1
-
-	}
-	effect = {
-	prestige = 10
-	any_country = {
-		limit = {
-		tag = THIS
-		}
-		country_event = { id=52008 days = 365 }
-	}
-	}
-	ai_will_do = { factor = 1}
-	}
 
 	#USA/NWE/QUE Core for Maritime union
 	maritime_cores = {
 	picture = map_new_brunswick
 		potential = {
-		is_culture_group = yankee
-		OR = {
-		primary_culture = french_canadian
-		}
-		AND = {
 		exists = MRU
+		primary_culture = yankee
+		OR = {
+		exists = MRU
+		primary_culture = french_canadian
 		}
 		}
 		allow = {
@@ -53,40 +26,61 @@ political_decisions = {
 		is_culture_group = american_cultures
 		}
 		allow = {
-		prestige = 50
-		2146 = {
-		owned_by = THIS
+			prestige = 50
+			2146 = { owned_by = THIS }
 		OR = {
-		owner = { in_sphere = THIS }
+			prestige = 65
+			2146 ={
+				owner = { in_sphere = THIS }
 				}
 			}
 		}
 		effect = {
-		prestige = 10
-		random_country = {
-		limit = {
-		is_culture_group = american_cultures
-		tag = THIS
-		}
-		country_event = { id=52009 days=256}
-		}
-		
+			prestige = 10
+			random_country = {
+			limit = {
+			is_culture_group = american_cultures
+			tag = THIS
+			}
+			country_event = { id=52009 days=256}
+			}
 		}
 		ai_will_do = { factor = 1}
 	}
 
-	#Build Statue of Liberity
-	constuction_on_the_lady = {
-	potential = {
-	NOT = {
-                has_global_flag = statue_of_liberty_has_been_built
-                }
-            }
-   	is_culture_group = american_cultures
-	owns = 232 #New York
-	has_country_flag = statue_plans_discovered
+	#Statue of Liberity start decision
+	the_statue = {
+		potential = {
+
+		NOT = {
+	            has_global_flag = statue_of_liberty_has_been_built
+	        }
+
+		    is_culture_group = american_cultures
+		    owns = 232
+		}
+		allow = {
+			owns = 232
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			prestige = 10
+			THIS = { country_event = { id=52008 days = 365 } }
+			}
+		ai_will_do = { factor = 1 }
 	}
 
+	#Build Statue of Liberity
+	construction_on_the_lady = {
+	potential = {
+	NOT = {
+        has_global_flag = statue_of_liberty_has_been_built
+        }
+
+	   	is_culture_group = american_cultures
+		owns = 232 #New York
+		has_country_flag = statue_plans_discovered
+		}
 		allow = {
 		owns = 232
 		has_country_flag = statue_plans_discovered
@@ -95,13 +89,11 @@ political_decisions = {
 		}
 		effect = {
 		money = -500000
-		any_country = {
-			limit = {
-			is_culture_group = american_cultures
-			tag = THIS
-			}
-			country_event = { id=52010 days=1500 } #Event to finish Statue
-			}
+		THIS = { country_event = { id=52010 days=1500 } } #Event to finish Statue 
 		}
 		ai_will_do = { factor = 1}
 	}
+
+
+#End of political_decisions brackets	
+}

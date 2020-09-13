@@ -4,7 +4,7 @@ political_decisions = {
 	picture = vive_la_france
 		potential = {
 			is_culture_group = french
-			not = {
+			NOT = {
 				exists = FRE
 			}
 		}
@@ -52,9 +52,7 @@ political_decisions = {
             }
             add_accepted_culture = union
         }
-        ai_will_do = {
-            factor = 1
-        }
+        ai_will_do = { factor = 1 }    
     }
 
     #French nation owns Parii
@@ -63,22 +61,20 @@ political_decisions = {
         potential = {
             is_culture_group = french
             owns = 425
-            not = {
-            capital = 425
-            tag = PRP
-            tag = DPA
+            NOT = {
+                capital = 425
+                tag = PRP
+                tag = DPA
+                }
             }
+            allow = {
+                owns = 425
             }
-        allow = {
-            owns = 425
-        }
-        effect = {
-        capital = 425
-        prestige = 10
-        }
-        ai_will_do = {
-            factor = 1
-        }
+            effect = {
+                capital = 425
+                prestige = 10
+            }
+        ai_will_do = { factor = 1 }
     }
 
     #PRP wins Parish civil war
@@ -95,6 +91,7 @@ political_decisions = {
             exists = DPA
             }
         }
+
         effect = {
         prestige = 20
         FRA_404 = { add_core = PRP remove_core = DPA }
@@ -121,14 +118,15 @@ political_decisions = {
             exists = PRP
             }
         }
+
         effect = {
-        prestige = 10
-        capital = 425
-        FRA_400 = { add_core = DPA remove_core = PRP }
-        FRA_425 = { add_core = DPA remove_core = PRP }
+            prestige = 10
+            capital = 425
+            FRA_400 = { add_core = DPA remove_core = PRP }
+            FRA_425 = { add_core = DPA remove_core = PRP }
         }
-        ai_will_do = {
-            factor = 1
-        }
+        ai_will_do = { factor = 1 }
     }
+
+#End of political_decisions brackets    
 }

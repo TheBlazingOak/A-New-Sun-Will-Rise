@@ -4,7 +4,7 @@ country_event = {
 	title = "EVTNAME52008" #First step in Statue of Liberity construction
     desc = "EVTDESC52008"
     picture = hudson_river
-    is_trigger_only = yes
+    is_triggered_only = yes
     fire_only_once = yes
 
     option = {
@@ -35,10 +35,10 @@ country_event = {
 #Step two
 country_event = {
 	id = 52009
-	title = "EVTNAME52009" #Second step in Statue of Liberity construction
+	title = "EVTNAME52009" #Second step in Statue of Liberty construction
     desc = "EVTDESC52009"
     picture = hudson_river
-    is_trigger_only = yes
+    is_triggered_only = yes
     fire_only_once = yes
 
     option = {
@@ -69,7 +69,7 @@ country_event = {
 	title = "EVTNAME52010" #Final construction event
     desc = "EVTDESC52010"
     major = yes
-    is_trigger_only = yes
+    is_triggered_only = yes
     fire_only_once = yes
 
     option = {
@@ -99,7 +99,7 @@ country_event = {
 	title = "EVTNAME52011" 
 	desc = "EVTDESC52011"
 	major = yes
-    is_trigger_only = yes
+    is_triggered_only = yes
     fire_only_once = yes
 
     option = {
@@ -128,7 +128,7 @@ country_event = {
 	id = 52012
 	title = "EVTNAME52012" 
 	desc = "EVTDESC52012"
-	is_trigger_only = yes
+	is_triggered_only = yes
 	fire_only_once = yes
 
 		option = {
@@ -148,7 +148,7 @@ country_event = {
 	title = "EVTNAME52013" 
 	desc = "EVTDESC52013"
 	picture = wasteland_evt
-	is_trigger_only = yes
+	is_triggered_only = yes
 
 		option = {
 		name = "EVT52013OPTA" #agree to help
@@ -202,7 +202,7 @@ country_event = {
 	title = "EVTNAME52014" 
 	desc = "EVTDESC52014"
 	picture = wasteland_evt
-	is_trigger_only = yes
+	is_triggered_only = yes
 
 		option = {
 		name = "EVT52014OPTA" #We look towards the horizons
@@ -229,7 +229,7 @@ country_event = {
 	title = "EVTNAME52015" 
 	desc = "EVTDESC52015"
 	picture = wasteland_evt
-	is_trigger_only = yes
+	is_triggered_only = yes
 
 		option = {
 		name = "EVT52015OPTA" #We look towards the horizons
@@ -273,6 +273,7 @@ country_event = {
         		}
 	}
 }
+
 #Quest for Washington
 country_event = {
 	id = 52017
@@ -294,10 +295,10 @@ country_event = {
 	name = "EVT52017OPTA" #Washington is ours!
 	effect = {
 	prestige = 5
-	add_core = 220
+	add_core = 2146
 	any_country = {
 	limit = {
-	owns = 220
+	owns = 2146
 		}
 	relation = {
 		who = NEN
@@ -308,8 +309,8 @@ country_event = {
 	ai_chance = {
             factor = 60
             modifier = {
-            factor = 2
-            stronger_army_than = { any_country = { owns = 220 } }
+            factor = 75
+            stronger_army_than = { any_country = { owns = 2146 } }
         		}
             }
 		}
@@ -327,11 +328,11 @@ country_event = {
 	ai_chance = {
 	factor = 30
 	modifier = {
-            factor = 0.75
-            stronger_army_than = { any_country = { owns = 220 } }
+            factor = 20
+            stronger_army_than = { any_country = { owns = 2146 } }
         		}
    	modifier = {
-   			factor = 0
+   			factor = 50
    			NOT = { money = 125000 }
    	}
 			}
@@ -345,8 +346,8 @@ country_event = {
 	ai_chance = {
 	factor = 10
 	modifier = {
-            factor = 0.25
-            stronger_army_than = { any_country = { owns = 220 } }
+            factor = 5
+            stronger_army_than = { any_country = { owns = 2146 } }
         		}
 		}
 	}
@@ -357,7 +358,7 @@ country_event = {
 	title = "EVTNAME52018" #Proposal for Washington
 	desc = "EVTDESC52018"
 	picture = treaty_of_tientsin
-	is_trigger_only = yes
+	is_triggered_only = yes
 
 	option = {
 	name = "EVT52018OPTA" #Agree to $100000
@@ -387,7 +388,7 @@ country_event = {
 		ai_chance = {
 		factor = 25
 		modifier = { 
-		factor = 5
+		factor = 95
 		stronger_army_than = FROM 
 				}
 			}
@@ -398,7 +399,7 @@ country_event = {
 	title = "EVTNAME52019" #Gain Washington
 	desc = "EVTDESC52019"
 	picture = big_parade
-	is_trigger_only = yes
+	is_triggered_only = yes
 
 	option = {
 	name = "EVT52019OPTA" #Great
@@ -413,7 +414,7 @@ country_event = {
 	title = "EVTNAME52020" #Money back
 	desc = "EVTDESC52020"
 	picture = yankee
-	is_trigger_only = yes
+	is_triggered_only = yes
 
 	option = {
 	name = "EVT52020OPTA" #It's our rightful clay!
