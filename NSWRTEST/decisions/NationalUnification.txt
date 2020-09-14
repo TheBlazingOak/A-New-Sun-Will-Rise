@@ -53,7 +53,7 @@ political_decisions = {
             random_owned = { limit = { owner = { accepted_culture = danish } } owner = { remove_accepted_culture = danish } }
             random_owned = { limit = { owner = { accepted_culture = hungarian } } owner = { remove_accepted_culture = hungarian } }
             prestige = 10
-            FRA_412 = { add_core = GER }
+            FRA_411 = { add_core = GER }
             random_owned = {
                 limit = { owner = { tag = KUK } }
                 HUN = { all_core = { remove_core = KUK } }
@@ -156,7 +156,7 @@ political_decisions = {
 
         effect = {
             prestige = 10
-            FRA_412 = { add_core = GER }
+            FRA_411 = { add_core = GER }
             random_owned = { limit = { owner = { accepted_culture = french } } owner = { remove_accepted_culture = french } }
             random_owned = { limit = { owner = { accepted_culture = polish } } owner = { remove_accepted_culture = polish } }
             random_owned = { limit = { owner = { accepted_culture = danish } } owner = { remove_accepted_culture = danish } }
@@ -264,7 +264,7 @@ political_decisions = {
                 }
                 owner = { badboy = 10 }
             }
-            FRA_412 = { add_core = GER }
+            FRA_411 = { add_core = GER }
             all_core = {
                 add_core = GER
                 add_core = SGF
@@ -357,7 +357,7 @@ political_decisions = {
                 limit = { is_primary_culture = yes }
                 militancy = -1
             }
-            FRA_412 = { add_core = GER }
+            FRA_411 = { add_core = GER }
             random_owned = {
                 limit = { owner = { ai = yes } }
                 owner = { add_country_modifier = { name = law_changed_by_force duration = 365 } }
@@ -1273,60 +1273,7 @@ political_decisions = {
         }
     }
 
-    become_holstein = {
-        picture = gtfo
-        potential = {
-            tag = SWH
-            any_owned_province = { is_core = HOL }
-            NOT = {
-                any_owned_province = {
-                    is_core = GER
-                    NOT = { is_core = HOL }
-                }
-            }
-        }
-
-        allow = {
-            owns = 369
-        }
-
-        effect = {
-            capital = 369
-            prestige = -5
-            all_core = { remove_core = THIS }
-            random_owned = {
-                limit = {
-                    HOL = { exists = no }
-                }
-                owner = { change_tag = HOL }
-            }
-            random_owned = {
-                limit = {
-                    HOL = { exists = yes }
-                }
-                owner = { annex_to = HOL }
-            }
-            clr_country_flag = crown_from_the_gutter
-            clr_country_flag = secondary_union_formation
-            any_pop = {
-                limit = { is_primary_culture = yes }
-                militancy = -6
-            }
-            random_country = {
-                limit = {
-                    is_greater_power = yes
-                    primary_culture = north_german
-                }
-                diplomatic_influence = { who = THIS value = 100 }
-            }
-        }
-
-        ai_will_do = {
-            factor = 1
-        }
-    }
-
-    become_yemen = {
+     become_yemen = {
         picture = map_arabia
         potential = {
             OR = {

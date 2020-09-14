@@ -59,21 +59,23 @@ political_decisions = {
     french_center = {
     picture = parii_map
         potential = {
-            is_culture_group = french
-            owns = 425
+                is_culture_group = french
+                owns = 425
             NOT = {
                 capital = 425
-                tag = PRP
-                tag = DPA
+                is_culture = french
                 }
             }
+
             allow = {
                 owns = 425
             }
+
             effect = {
                 capital = 425
                 prestige = 10
             }
+
         ai_will_do = { factor = 1 }
     }
 
@@ -88,20 +90,18 @@ political_decisions = {
             war = no
             owns = 418
             NOT = {
-            exists = DPA
+                exists = DPA
             }
         }
 
         effect = {
-        prestige = 20
-        FRA_404 = { add_core = PRP remove_core = DPA }
-        FRA_418 = { add_core = PRP remove_core = DPA }
-        FRA_435 = { add_core = PRP remove_core = DPA }
-        FRA_399 = { add_core = PRP remove_core = DPA }
+            prestige = 20
+            FRA_404 = { add_core = PRP remove_core = DPA }
+            FRA_418 = { add_core = PRP remove_core = DPA }
+            FRA_435 = { add_core = PRP remove_core = DPA }
+            FRA_399 = { add_core = PRP remove_core = DPA }
         }
-        ai_will_do = {
-            factor = 1
-        }
+        ai_will_do = { factor = 1 }
     }
 
     #DPA wins Parish civil war

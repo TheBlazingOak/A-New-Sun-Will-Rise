@@ -4,16 +4,14 @@ political_decisions = {
 	backwards_unciv_usa = {
 		picture = broken_unciv
 			potential = {
-			civilized = no
-			is_culture_group = american_cultures
-			NOT = {
-			has_country_flag = unciv_petition_sent
+				civilized = no
+				is_culture_group = american_cultures
+				NOT = { has_country_flag = unciv_petition_sent }
 			}
-		}
 			allow = {
-			war = no
-			prestige = 5
-			literacy = .3
+				war = no
+				prestige = 5
+				literacy = .3
 			}
 
 		effect = {
