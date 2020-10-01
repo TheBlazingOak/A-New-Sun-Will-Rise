@@ -139,24 +139,24 @@ ENG_280 = { 280 281 282 283 } #North East England
 
 ENG_284 = { 284 286 287 288 289 290 } #Midlands
 
-ENG_291 = { 291 292 293 } #Eastern Counties
+ENG_291 = { 291 292 293 295 } #Eastern Counties
 
 ENG_296 = { 296 299 297 298 419 } #South West England
 
-ENG_300 = { 300 294 301 302 303 295 } #South East England
+ENG_300 = { 300 294 301 302 303 } #South East England
 
 
 ### Scandinavia
 
 DEN_251 = { 251 252 253 2636 } #Iceland & Greenland
 
-SWE_308 = { 320 321 306 307 } #Nordnoge
+SWE_308 = { 308 305 306 307 } #Nordnoge
 
 SWE_309 = { 309 311 310 312 } #Vestlandet
 
 SWE_313 = { 313 316 314 315 } #Ostlandet
 
-SWE_318 = { 318 317 319 308 305 } #Norrland
+SWE_318 = { 318 317 319 320 321 } #Norrland
 
 SWE_322 = { 322 324 326 325 } #Stockholm
 
@@ -196,21 +196,23 @@ BEL_394 = { 394 392 393 395 398 } #Wallonia
 
 FRA_399 = { 403 402 2570 } #Picardie - used to be { 403 405 406 408 402 2570 }
 
-FRA_400 = { 408 406 407 428 429 } #Champagne
+FRA_400 = { 408 405 406 407 } #Champagne
 
-FRA_404 = { 401 404 405 } #Nord-Pas-De-Calais/Artois
+FRA_404 = { 399 400 401 404 } #Nord-Pas-De-Calais/Artois
 
 FRA_411 = { 411 413 412 } #Ardennes
 
-FRA_409 = { 409 410 414 } #Alsace
+FRA_412 = { 409 410 414 } #Alsace
 
 FRA_418 = { 418 415 416 417 } #Normandie
 
 FRA_420 = { 420 421 422 424 423 } #Bretagne
 
-FRA_425 = { 425 426 427 438 439 } #Ile de France
+FRA_425 = { 425 426 427 } #Ile de France
 
-FRA_435 = { 435 434 440 441 436 } #Loire
+FRA_435 = { 435 434 } #Loire
+
+FRA_438 = { 438 436 439 440 441 428 429 } #Region Centre
 
 FRA_442 = { 442 444 443 437 } #Poitou
 
@@ -235,13 +237,13 @@ FRA_467 = { 467 468 469 470 471 454 } #Provence
 
 SPA_474 = { 474 476 } #Galicia
 
-SPA_477 = { 477 479 480 482 483 475 478 494} #León-Castilla
+SPA_477 = { 477 479 480 481 482 483 475 478 } #León-Castilla
 
 SPA_484 = { 484 485 486 } #Extremadura
 
-SPA_487 = { 487 488 489 490 491 481 497} #Castilla la Nueva
+SPA_487 = { 487 488 489 490 491 } #Castilla la Nueva
 
-SPA_492 = { 492 493 495 496 } #Vasconia-Aragón
+SPA_492 = { 492 493 494 495 496 497 } #Vasconia-Aragón
 
 SPA_498 = { 498 499 500 501 502 } #Catalonia
 
@@ -262,11 +264,11 @@ POR_2134 = { 2134 2135 2136 } #Macaronesia
 
 ### Germany & Switzerland
 
-HAN_528 = { 528 531 532 535 539 540 541 } #Lower Elbe
+HAN_528 = { 528 531 532 535 } #Lower Elbe
 
-HAN_534 = { 534 536 585 582 } #Hannover
+HAN_534 = { 534 536 537 585 } #Hannover
 
-HAN_540 = { 543 542 1743 581 538 } #East Friesland
+HAN_540 = { 539 540 543 542 541 1743 } #East Friesland
 
 PRU_544 = { 544 545 547 548 } #Mecklenburg
 
@@ -276,7 +278,7 @@ PRU_549 = { 549 550 551 552 } #Brandenburg
 
 PRU_553 = { 553 555 556 557 } #Magdeburg
 
-PRU_554 = { 554 561 562  537 } #Thuringia
+PRU_554 = { 554 561 562 563 } #Thuringia
 
 SAX_558 = { 558 559 560 687 } #Saxony
 
@@ -286,13 +288,15 @@ PRU_570 = { 570 573 574 571 } #Palatinate
 
 PRU_575 = { 575 576 577 572 397 396 } #Rheinland
 
-PRU_578 = { 578 579 2561 583 580 584 } #Eastern Rheinland
+PRU_578 = { 578 579 2561 583 } #Eastern Rheinland
 
-BAD_586 = { 586 587 588 591 } #Baden
+PRU_581 = { 580 581 582 584 538 } #Westfalen
 
-WUR_589 = { 589 590 593 594 569 } #Wurttemburg
+BAD_586 = { 586 587 588 569 } #Baden
 
-BAV_595 = { 595 596 597 598 563 } #Franconia
+WUR_589 = { 589 590 591 593 594 } #Wurttemburg
+
+BAV_595 = { 595 596 597 598 } #Franconia
 
 BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
 
