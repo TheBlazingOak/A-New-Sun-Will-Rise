@@ -3,9 +3,9 @@ trade_goods = fish
 life_rating = 20
 colonial = 1
 1861.1.1 = {
-owner = USA
-controller = USA
-add_core = USA
+owner = 
+controller = 
+add_core = 
 remove_core = COL
 colonial = 2
 }

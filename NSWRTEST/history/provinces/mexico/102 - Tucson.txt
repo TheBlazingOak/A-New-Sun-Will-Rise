@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = 
+controller = 
+add_core = 
 trade_goods = cattle
 life_rating = 31
 terrain = new_world_semidesert
@@ -8,8 +8,8 @@ colonial = 2
 1861.1.1 = {
     controller = CSA
     owner = CSA
-    add_core = USA
+    add_core = 
     add_core = CSA
-    remove_core = MEX
+    remove_core = 
     colonial = 0
 }

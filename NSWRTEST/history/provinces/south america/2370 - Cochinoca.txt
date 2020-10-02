@@ -1,12 +1,12 @@
-owner = PBC
-controller = PBC
-add_core = BOL
+owner = 
+controller = 
+add_core = 
 trade_goods = wool
 life_rating = 33
 1860.1.1 = {
-    owner = ARG
-    controller = ARG
-    add_core = ARG
+    owner = 
+    controller = 
+    add_core = 
     remove_core = ARC
-    remove_core = BOL
+    remove_core = 
 }

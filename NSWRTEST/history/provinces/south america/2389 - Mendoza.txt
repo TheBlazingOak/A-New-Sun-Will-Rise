@@ -7,8 +7,8 @@ trade_goods = fruit
 terrain = dryhills
 life_rating = 35
 1861.1.1 = {
-    owner = ARG
-    controller = ARG
-    add_core = ARG
+    owner = 
+    controller = 
+    add_core = 
     remove_core = ARC
     }

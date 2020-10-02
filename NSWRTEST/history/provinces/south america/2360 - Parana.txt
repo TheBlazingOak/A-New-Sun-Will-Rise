@@ -1,8 +1,8 @@
-owner = ENT
+owner = 
 
-controller = ENT
+controller = 
 
-add_core = ENT
+add_core = 
 add_core = ARC
 
 trade_goods = cattle
@@ -10,9 +10,9 @@ life_rating = 35
 1861.1.1 = {
     railroad = 1
     naval_base = 2
-    owner = ARG
-    controller = ARG
-    add_core = ARG
-    remove_core = ENT
+    owner = 
+    controller = 
+    add_core = 
+    remove_core = 
     remove_core = ARC
 }

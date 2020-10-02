@@ -1,14 +1,14 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = 
+controller = 
+add_core = 
 colonial = 2
 trade_goods = grain
 terrain = mountain
 life_rating = 35
 1861.1.1 = {
     colonial = 0
-    owner = USA
-    controller = USA
-    remove_core = MEX
-    add_core = USA
+    owner = 
+    controller = 
+    remove_core = 
+    add_core = 
 }

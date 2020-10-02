@@ -1,9 +1,9 @@
-owner = PBC
-controller = PBC
-add_core = BOL
+owner = 
+controller = 
+add_core = 
 trade_goods = fruit
 life_rating = 35
 1860.1.1 = {
-    owner = BOL
-    controller = BOL
+    owner = 
+    controller = 
 }

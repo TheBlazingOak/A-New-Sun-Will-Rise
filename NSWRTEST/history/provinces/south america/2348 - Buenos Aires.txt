@@ -8,9 +8,9 @@ naval_base = 1
 1861.1.1 = {
     railroad = 1
     naval_base = 2
-    owner = ARG
-    controller = ARG
-    add_core = ARG
+    owner = 
+    controller = 
+    add_core = 
     remove_core = SBA
     remove_core = ARC
 }
