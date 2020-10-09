@@ -1,0 +1,13 @@
+owner = PRV
+controller = PRV
+add_core = PRV
+trade_goods = fruit
+life_rating = 32
+1861.1.1 = {
+    state_building = {
+        level = 2
+        building = clipper_shipyard
+        upgrade = yes
+    }
+}
+1861.1.1 = { railroad = 3 }

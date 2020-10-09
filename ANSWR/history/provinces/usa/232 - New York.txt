@@ -1,0 +1,24 @@
+owner = NEN
+controller = NEN
+add_core = NEN
+add_core = NYO
+trade_goods = grain
+life_rating = 35
+railroad = 1
+fort = 1
+naval_base = 1
+state_building = {
+    level = 1
+    building = cement_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = lumber_mill
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = steamer_shipyard
+    upgrade = yes
+}

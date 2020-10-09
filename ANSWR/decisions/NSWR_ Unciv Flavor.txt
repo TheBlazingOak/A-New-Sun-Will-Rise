@@ -1,0 +1,31 @@
+political_decisions = {
+
+	#USA Uncivs decision
+	backwards_unciv_usa = {
+		picture = broken_unciv
+			potential = {
+				civilized = no
+				is_culture_group = american_cultures
+				NOT = { has_country_flag = unciv_petition_sent }
+			}
+			allow = {
+				war = no
+				prestige = 5
+				literacy = .3
+			}
+
+		effect = {
+		set_country_flag = unciv_petition_sent
+		random_country = {
+			limit = {
+			is_culture_group = american_cultures
+			money = 100000
+			}
+			country_event = { id = 52013 days = 30 }
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+#End of political_decisions brackets	
+}

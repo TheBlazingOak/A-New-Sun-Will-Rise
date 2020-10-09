@@ -1,9 +1,0 @@
-owner = 
-controller = 
-add_core = ELS
-trade_goods = tropical_wood
-life_rating = 35
-1861.1.1 = {
-    owner = ELS
-    controller = ELS
-}

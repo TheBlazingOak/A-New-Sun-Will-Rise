@@ -1,0 +1,7 @@
+owner = GUA
+controller = GUA
+add_core = NIC
+add_core = HON
+add_core = ELS
+trade_goods = coffee
+life_rating = 25

@@ -1,0 +1,100 @@
+political_decisions = {
+
+	#USA/NWE/QUE Core for Maritime union
+	maritime_cores = {
+	picture = map_new_brunswick
+		potential = {
+			exists = MRU
+			primary_culture = yankee
+				OR = {
+				exists = MRU
+				primary_culture = french_canadian
+					}
+			}
+
+		allow = {
+			relation = { who = MRU value = 200 }
+			prestige = 25
+			}
+
+		effect = {
+			inherit = MRU
+			}
+	}
+
+	#USA First Decision
+	dc_excavation = {
+		potential = {
+		is_culture_group = american_cultures
+		}
+
+		allow = {
+				prestige = 50
+				2146 = { owned_by = THIS }
+			OR = {
+				prestige = 65
+				2146 ={
+					owner = { in_sphere = THIS }
+					}
+				}
+			}
+
+		effect = {
+			prestige = 10
+			random_country = {
+			limit = {
+			is_culture_group = american_cultures
+			tag = THIS
+			}
+			country_event = { id=52009 days=256}
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	#Statue of Liberity start decision
+	the_statue = {
+		potential = {
+		    is_culture_group = american_cultures
+		    owns = 232
+		    NOT = { has_global_flag = statue_of_liberty_has_been_built }
+		}
+
+		allow = {
+			owns = 232
+			nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			prestige = 10
+			THIS = { country_event = { id=52008 days = 365 } }
+			}
+		ai_will_do = { factor = 1 }
+	}
+
+	#Build Statue of Liberity
+	construction_on_the_lady = {
+		potential = {
+		   	is_culture_group = american_cultures
+			owns = 232 #New York
+			has_country_flag = statue_plans_discovered
+			NOT = { has_global_flag = statue_of_liberty_has_been_built }
+			}
+
+		allow = {
+			owns = 232
+			has_country_flag = statue_plans_discovered
+			money = 500000
+			invention = martin_steel
+		}
+
+		effect = {
+			money = -500000
+			THIS = { country_event = { id=52010 days=1500 } } #Event to finish Statue 
+			}
+		ai_will_do = { factor = 1 }
+	}
+
+
+#End of political_decisions brackets	
+}
