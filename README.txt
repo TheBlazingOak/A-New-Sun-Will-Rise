@@ -1,6 +1,6 @@
 # A-New-Sun-Will-Rise
 A Victoria 2 Mod based off of HPM. Currently in early devolopment.
-The mod is currently in Verstion 0.01
+The mod is currently in Version 0.01
 (This is a test version NOT COMPLETE)
 Installation:
 Move both the NSWRTEST, and NSWRTEST.mod files into your Victoria 2 mod folder. You can find it by going into steam, and find your copy of Victoria 2 in your libary.

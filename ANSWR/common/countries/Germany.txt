@@ -6,8 +6,8 @@ graphical_culture = PrussianGC
 
 party = {
     name = "GER_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -22,7 +22,7 @@ party = {
 party = {
     name = "GER_conservative"
     start_date = 1878.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -36,8 +36,8 @@ party = {
 
 party = {
     name = "GER_liberal_2"
-    start_date = 1861.1.1
-    end_date = 2000.1.1
+    start_date = 2861.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -51,8 +51,8 @@ party = {
 
 party = {
     name = "GER_liberal_3"
-    start_date = 1861.1.1
-    end_date = 2000.1.1
+    start_date = 2861.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -66,7 +66,7 @@ party = {
 
 party = {
     name = "GER_socialist"
-    start_date = 1860.1.1
+    start_date = 2860.1.1
     end_date = 1875.1.1
 
     ideology = socialist
@@ -81,7 +81,7 @@ party = {
 
 party = {
     name = "GER_socialist_2"
-    start_date = 1848.1.1
+    start_date = 2848.1.1
     end_date = 1875.1.1
 
     ideology = socialist
@@ -97,7 +97,7 @@ party = {
 party = {
     name = "GER_socialist_3"
     start_date = 1875.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -111,8 +111,8 @@ party = {
 
 party = {
     name = "GER_reactionary"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -126,8 +126,8 @@ party = {
 
 party = {
     name = "GER_conservative_2"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -142,7 +142,7 @@ party = {
 party = {
     name = "GER_conservative_3"
     start_date = 1878.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -156,8 +156,8 @@ party = {
 
 party = {
     name = "GER_anarcho_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -171,8 +171,8 @@ party = {
 
 party = {
     name = "GER_communist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -186,8 +186,8 @@ party = {
 
 party = {
     name = "GER_fascist"
-    start_date = 1900.1.1
-    end_date = 2000.1.1
+    start_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 

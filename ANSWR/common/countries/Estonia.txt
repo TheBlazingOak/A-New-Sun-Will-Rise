@@ -4,7 +4,7 @@ graphical_culture = EuropeanGC
 party = {
     name = "EST_conservative"
     start_date = 1800.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -19,7 +19,7 @@ party = {
 party = {
     name = "EST_conservative_2"
     start_date = 1800.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -33,8 +33,8 @@ party = {
 
 party = {
     name = "EST_liberal"
-    start_date = 1820.1.1
-    end_date = 1936.1.1
+    start_date = 2820.1.1
+    end_date = 2936.1.1
 
     ideology = liberal
 
@@ -48,8 +48,8 @@ party = {
 
 party = {
     name = "EST_reactionary"
-    start_date = 1820.1.1
-    end_date = 1890.1.1
+    start_date = 2820.1.1
+    end_date = 2890.1.1
 
     ideology = reactionary
 
@@ -63,8 +63,8 @@ party = {
 
 party = {
     name = "EST_reactionary_2"
-    start_date = 1890.1.1
-    end_date = 2000.1.1
+    start_date = 2890.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -78,8 +78,8 @@ party = {
 
 party = {
     name = "EST_anarcho_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -93,8 +93,8 @@ party = {
 
 party = {
     name = "EST_socialist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -108,8 +108,8 @@ party = {
 
 party = {
     name = "EST_socialist_2"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -123,8 +123,8 @@ party = {
 
 party = {
     name = "EST_communist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -138,8 +138,8 @@ party = {
 
 party = {
     name = "EST_fascist"
-    start_date = 1900.1.1
-    end_date = 2000.1.1
+    start_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 

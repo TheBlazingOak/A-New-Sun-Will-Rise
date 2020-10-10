@@ -58,10 +58,10 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "PRK_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/PRK_oob.txt"
 }
-1861.1.1 = {
+2861.1.1 = {
     literacy = 0.05
     non_state_culture_literacy = 0.02
 

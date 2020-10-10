@@ -9,7 +9,7 @@ WUR = {
 
 leader = {
     name = "Leopold of Baden"
-    date = 1830.1.1
+    date = 2830.1.1
     type = land
     personality = mediocre
     background = aristocrat

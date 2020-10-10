@@ -6,7 +6,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1836_1"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -28,7 +28,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1836_2"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -50,7 +50,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1836_3"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -72,7 +72,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1836_4"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -94,7 +94,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1836_5"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -116,7 +116,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1836_6"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -138,7 +138,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1836_8"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -160,7 +160,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1836_9"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -182,7 +182,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1836_10"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -204,7 +204,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1836_11"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -226,7 +226,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1836_12"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -248,7 +248,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1836_13"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -270,7 +270,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1836_14"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -296,7 +296,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1850_1"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1850.1.1 }    NOT = { date_greater = { 0 1860.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 1850.1.1 }    NOT = { date_greater = { 0 2860.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -318,7 +318,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1850_2"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1850.1.1 }    NOT = { date_greater = { 0 1860.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 1850.1.1 }    NOT = { date_greater = { 0 2860.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -340,7 +340,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1850_3"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1850.1.1 }    NOT = { date_greater = { 0 1860.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 1850.1.1 }    NOT = { date_greater = { 0 2860.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -366,7 +366,7 @@ generator_selector ={ #lincoln killed
     type = "FAKE"
     name = "some_fake_1860_1"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
     case = { trigger = { has_news_flag = "lincoln_saved" } value = -999    }
 }
@@ -396,7 +396,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1860_2"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
     case = { trigger = { has_news_flag = "lincoln_killed" } value = -999    }
 }
@@ -426,7 +426,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1860_3"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -448,7 +448,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1860_5"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -470,7 +470,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1860_6"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -492,7 +492,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1860_7"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -514,7 +514,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1860_8"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -536,7 +536,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1860_9"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -558,7 +558,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1860_10"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -580,7 +580,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1860_11"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -676,7 +676,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1880_1"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 1890.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 2890.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -698,7 +698,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1880_2"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 1890.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 2890.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -720,7 +720,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1880_3"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 1890.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 2890.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -742,7 +742,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1880_4"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 1890.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 2890.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -764,7 +764,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1880_5"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 1890.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 2890.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -786,7 +786,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1880_6"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 1890.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 2890.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -808,7 +808,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1880_7"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 1890.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 2890.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -830,7 +830,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1880_8"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 1890.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 2890.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -856,7 +856,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1890_1"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1890.1.1 }    NOT = { date_greater = { 0 1900.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2890.1.1 }    NOT = { date_greater = { 0 2900.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -878,7 +878,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1890_2"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1890.1.1 }    NOT = { date_greater = { 0 1900.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2890.1.1 }    NOT = { date_greater = { 0 2900.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -900,7 +900,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1890_3"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1890.1.1 }    NOT = { date_greater = { 0 1900.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2890.1.1 }    NOT = { date_greater = { 0 2900.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -922,7 +922,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1890_4"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1890.1.1 }    NOT = { date_greater = { 0 1900.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2890.1.1 }    NOT = { date_greater = { 0 2900.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -944,7 +944,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1890_5"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1890.1.1 }    NOT = { date_greater = { 0 1900.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2890.1.1 }    NOT = { date_greater = { 0 2900.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -966,7 +966,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1890_6"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1890.1.1 }    NOT = { date_greater = { 0 1900.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2890.1.1 }    NOT = { date_greater = { 0 2900.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -988,7 +988,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1890_7"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1890.1.1 }    NOT = { date_greater = { 0 1900.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2890.1.1 }    NOT = { date_greater = { 0 2900.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -1010,7 +1010,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1890_8"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1890.1.1 }    NOT = { date_greater = { 0 1900.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2890.1.1 }    NOT = { date_greater = { 0 2900.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -1035,7 +1035,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1900_1"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1900.1.1 }    NOT = { date_greater = { 0 1910.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2900.1.1 }    NOT = { date_greater = { 0 1910.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -1057,7 +1057,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1900_2"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1900.1.1 }    NOT = { date_greater = { 0 1910.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2900.1.1 }    NOT = { date_greater = { 0 1910.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -1079,7 +1079,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1900_3"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1900.1.1 }    NOT = { date_greater = { 0 1910.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2900.1.1 }    NOT = { date_greater = { 0 1910.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -1101,7 +1101,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1900_4"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1900.1.1 }    NOT = { date_greater = { 0 1910.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2900.1.1 }    NOT = { date_greater = { 0 1910.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -1123,7 +1123,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1900_6"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1900.1.1 }    NOT = { date_greater = { 0 1910.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2900.1.1 }    NOT = { date_greater = { 0 1910.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -1145,7 +1145,7 @@ generator_selector ={
     type = "FAKE"
     name = "some_fake_1900_7"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1900.1.1 }    NOT = { date_greater = { 0 1910.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2900.1.1 }    NOT = { date_greater = { 0 1910.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -2338,7 +2338,7 @@ pattern = { #dino news 30-40
         type = "FAKE"
         name = "dino_fake_1830_%1%" #var 1
         case = { value = 0 }
-        case = { trigger ={ date_greater = { 0 1836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
+        case = { trigger ={ date_greater = { 0 2836.1.1 }    NOT = { date_greater = { 0 1850.1.1 }}} value = 100 }
         case = { trigger = { news_printing_count = 1 } value = -999    }
     }
     news_priority = {
@@ -2372,7 +2372,7 @@ pattern = {
         type = "FAKE"
         name = "dino_fake_1850_%1%" #var 1
         case = { value = 0 }
-        case = { trigger ={ date_greater = { 0 1850.1.1 }    NOT = { date_greater = { 0 1860.1.1 }}} value = 100 }
+        case = { trigger ={ date_greater = { 0 1850.1.1 }    NOT = { date_greater = { 0 2860.1.1 }}} value = 100 }
         case = { trigger = { news_printing_count = 1 } value = -999    }
     }
     news_priority = {
@@ -2399,7 +2399,7 @@ pattern = {
         type = "FAKE"
         name = "dino_fake_1860_%1%" #var 1
         case = { value = 0 }
-        case = { trigger ={ date_greater = { 0 1860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
+        case = { trigger ={ date_greater = { 0 2860.1.1 }    NOT = { date_greater = { 0 1870.1.1 }}} value = 100 }
         case = { trigger = { news_printing_count = 1 } value = -999    }
     }
     news_priority = {
@@ -2469,7 +2469,7 @@ pattern = {
         type = "FAKE"
         name = "dino_fake_1880_%1%" #var 1
         case = { value = 0 }
-        case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 1890.1.1 }}} value = 100 }
+        case = { trigger ={ date_greater = { 0 1880.1.1 }    NOT = { date_greater = { 0 2890.1.1 }}} value = 100 }
         case = { trigger = { news_printing_count = 1 } value = -999    }
     }
     news_priority = {
@@ -2509,7 +2509,7 @@ pattern = {
         type = "FAKE"
         name = "dino_fake_1890_%1%" #var 1
         case = { value = 0 }
-        case = { trigger ={ date_greater = { 0 1890.1.1 }    NOT = { date_greater = { 0 1900.1.1 }}} value = 100 }
+        case = { trigger ={ date_greater = { 0 2890.1.1 }    NOT = { date_greater = { 0 2900.1.1 }}} value = 100 }
         case = { trigger = { news_printing_count = 1 } value = -999    }
     }
     news_priority = {
@@ -2538,7 +2538,7 @@ pattern = {
         type = "FAKE"
         name = "dino_fake_1900_%1%" #var 1
         case = { value = 0 }
-        case = { trigger ={ date_greater = { 0 1900.1.1 }    NOT = { date_greater = { 0 1920.1.1 }}} value = 100 }
+        case = { trigger ={ date_greater = { 0 2900.1.1 }    NOT = { date_greater = { 0 1920.1.1 }}} value = 100 }
         case = { trigger = { news_printing_count = 1 } value = -999    }
     }
     news_priority = {
@@ -2615,7 +2615,7 @@ generator_selector ={
     type = "FAKE"
     name = "aar_fake1"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1900.1.1 }    NOT = { date_greater = { 0 1937.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2900.1.1 }    NOT = { date_greater = { 0 1937.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -2637,7 +2637,7 @@ generator_selector ={
     type = "FAKE"
     name = "aar_fake2"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1850.1.1 }    NOT = { date_greater = { 0 1860.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 1850.1.1 }    NOT = { date_greater = { 0 2860.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 
@@ -2659,7 +2659,7 @@ generator_selector ={
     type = "FAKE"
     name = "aar_fake3"
     case = { value = 0 }
-    case = { trigger ={ date_greater = { 0 1848.1.1 }    NOT = { date_greater = { 0 1849.1.1 }}} value = 100 }
+    case = { trigger ={ date_greater = { 0 2848.1.1 }    NOT = { date_greater = { 0 2849.1.1 }}} value = 100 }
     case = { trigger = { news_printing_count = 1 } value = -999    }
 }
 

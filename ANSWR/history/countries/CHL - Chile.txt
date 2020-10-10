@@ -80,13 +80,13 @@ nonstate_consciousness = 0
 decision = CHL_1836_setup
 
 oob = "CHL_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/CHL_oob.txt"
     plurality = 60
     literacy = 0.21
     non_state_culture_literacy = 0.02
 }
-1861.1.1 = {
+2861.1.1 = {
 
     ruling_party = CHL_conservative_3
     set_country_flag = occupation_of_araucania

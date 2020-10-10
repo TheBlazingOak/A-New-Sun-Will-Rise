@@ -66,10 +66,10 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "GWA_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/GWA_oob.txt"
 }
-1861.1.1 = {
+2861.1.1 = {
     literacy = 0.10
     non_state_culture_literacy = 0.05
 

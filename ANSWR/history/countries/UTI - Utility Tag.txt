@@ -70,10 +70,10 @@ market_structure = 1
 
 # Inventions
 
-#1861.1.1 = {
+#2861.1.1 = {
 #    oob = "/1861/HUD_oob.txt"
 #}
-1861.1.1 = {
+2861.1.1 = {
 # Technologies
 
 #Inventions

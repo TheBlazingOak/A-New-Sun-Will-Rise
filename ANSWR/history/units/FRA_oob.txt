@@ -908,7 +908,7 @@ navy = {
 
 leader = {
     name = "de la Piconnerie"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = confident
     background = professor
@@ -917,7 +917,7 @@ leader = {
 
 leader = {
     name = "Jean-Isidore Harispe"
-    date = 1830.1.1
+    date = 2830.1.1
     type = land
     personality = heroic
     background = natural_born_leader
@@ -971,7 +971,7 @@ leader = {
 
 leader = {
     name = "Baraguey d'Hilliers"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = active_p
     background = drillmaster
@@ -989,7 +989,7 @@ leader = {
 
 leader = {
     name = "Charles Baudin"
-    date = 1836.1.1
+    date = 2836.1.1
     type = sea
     personality = stouthearted
     background = unfit
@@ -998,7 +998,7 @@ leader = {
 
 leader = {
     name = "Reille"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = gallant
     background = generals_aide
@@ -1007,7 +1007,7 @@ leader = {
 
 leader = {
     name = "de la Brunerie"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = stouthearted
     background = unfit

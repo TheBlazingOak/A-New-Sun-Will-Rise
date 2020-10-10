@@ -15,7 +15,7 @@ army = {
 
 leader = {
     name = "Sultan Muhammad Shah"
-    date = 1820.1.1
+    date = 2820.1.1
     type = land
     personality = incapable
     background = aristocrat

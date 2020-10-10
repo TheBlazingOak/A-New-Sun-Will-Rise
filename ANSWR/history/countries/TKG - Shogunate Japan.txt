@@ -71,7 +71,7 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "TKG_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/TKG_oob.txt"
     set_country_flag = caved_to_commodore_perry
     set_country_flag = consulted_fudai
@@ -79,7 +79,7 @@ oob = "TKG_oob.txt"
     set_country_flag = sakuradamon_incident
     set_country_flag = ansei_purge
 }
-1861.1.1 = {
+2861.1.1 = {
 
 foreign_weapons = yes_foreign_weapons
 army_schools = yes_army_schools

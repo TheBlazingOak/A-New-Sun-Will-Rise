@@ -164,11 +164,11 @@ upper_house = {
     communist = 0
 }
 
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/CSA_oob.txt"
     set_country_flag = 1861CSAstart
 }
-1861.1.1 = {
+2861.1.1 = {
 
 plurality = 60
 literacy = 0.55

@@ -3,7 +3,7 @@ graphical_culture = AustriaHungaryGC
 
 party = {
     name = "HUN_liberal"
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1875.1.1
 
     ideology = liberal
@@ -18,8 +18,8 @@ party = {
 
 party = {
     name = "HUN_anarcho_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -34,7 +34,7 @@ party = {
 party = {
     name = "HUN_liberal_2"
     start_date = 1875.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -48,8 +48,8 @@ party = {
 
 party = {
     name = "HUN_conservative"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -63,7 +63,7 @@ party = {
 
 party = {
     name = "HUN_reactionary"
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1881.1.1
 
     ideology = reactionary
@@ -78,8 +78,8 @@ party = {
 
 party = {
     name = "HUN_socialist"
-    start_date = 1848.1.1
-    end_date = 1890.1.1
+    start_date = 2848.1.1
+    end_date = 2890.1.1
 
     ideology = socialist
 
@@ -93,8 +93,8 @@ party = {
 
 party = {
     name = "HUN_socialist_2"
-    start_date = 1890.1.1
-    end_date = 2000.1.1
+    start_date = 2890.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -108,8 +108,8 @@ party = {
 
 party = {
     name = "HUN_socialist_3"
-    start_date = 1900.1.1
-    end_date = 2000.1.1
+    start_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -124,7 +124,7 @@ party = {
 party = {
     name = "HUN_socialist_4"
     start_date = 1909.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -139,7 +139,7 @@ party = {
 party = {
     name = "HUN_liberal_3"
     start_date = 1914.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -153,8 +153,8 @@ party = {
 
 party = {
     name = "HUN_communist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -169,7 +169,7 @@ party = {
 party = {
     name = "HUN_conservative_2"
     start_date = 1895.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -184,7 +184,7 @@ party = {
 party = {
     name = "HUN_conservative_3"
     start_date = 1881.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -199,7 +199,7 @@ party = {
 party = {
     name = "HUN_conservative_4"
     start_date = 1881.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -214,7 +214,7 @@ party = {
 party = {
     name = "HUN_reactionary_2"
     start_date = 1881.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -228,8 +228,8 @@ party = {
 
 party = {
     name = "HUN_fascist"
-    start_date = 1900.1.1
-    end_date = 2000.1.1
+    start_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 

@@ -4,7 +4,7 @@ graphical_culture = ChineseGC
 party = {
     name = "TPG_conservative"
     start_date = 1800.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -18,7 +18,7 @@ party = {
 
 party = {
     name = "TPG_liberal"
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1991.1.1
 
     ideology = liberal
@@ -33,7 +33,7 @@ party = {
 
 party = {
     name = "TPG_reactionary"
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1999.1.1
 
     ideology = reactionary
@@ -48,8 +48,8 @@ party = {
 
 party = {
     name = "TPG_anarcho_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -64,8 +64,8 @@ party = {
 
 party = {
     name = "TPG_socialist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -79,8 +79,8 @@ party = {
 
 party = {
     name = "TPG_communist"
-    start_date = 1890.1.1
-    end_date = 2000.1.1
+    start_date = 2890.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -94,8 +94,8 @@ party = {
 
 party = {
     name = "TPG_fascist"
-    start_date = 1900.1.1
-    end_date = 2000.1.1
+    start_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 

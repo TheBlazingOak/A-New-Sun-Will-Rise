@@ -82,14 +82,14 @@ consciousness = 3
 nonstate_consciousness = 1
 
 oob = "TRN_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/TRN_oob.txt"
     plurality = 60
     literacy = 0.40
     non_state_culture_literacy = 0.05
     set_country_flag = had_sand_river_convention
 }
-1861.1.1 = {
+2861.1.1 = {
 
     # Political reforms
     slavery = yes_slavery

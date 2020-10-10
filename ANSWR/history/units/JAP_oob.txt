@@ -5,7 +5,7 @@ USA = { value = 0 }
 
 leader = {
     name = "Sakuma Shozan"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = clever
     background = politician
@@ -14,7 +14,7 @@ leader = {
 
 leader = {
     name = "Takashima Shuhan"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = defiant
     background = innovative_tactician
@@ -23,7 +23,7 @@ leader = {
 
 leader = {
     name = "Watanabe Kazan"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = strange
     background = aristocrat
@@ -32,7 +32,7 @@ leader = {
 
 leader = {
     name = "Takano Choei"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = bold
     background = aristocrat
@@ -41,7 +41,7 @@ leader = {
 
 leader = {
     name = "Prince Fushimi Kuniie"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = efficient
     background = adventurer
@@ -50,7 +50,7 @@ leader = {
 
 leader = {
     name = "Prince Fushimi Sadanori"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = spirited
     background = rising_star

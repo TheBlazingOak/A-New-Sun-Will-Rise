@@ -20,7 +20,7 @@ party = {
 party = {
     name = "NOR_liberal_2" #Venstre
     start_date = 1884.1.28
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -50,7 +50,7 @@ party = {
 party = {
     name = "NOR_conservative_2" #Hoeyre
     start_date = 1884.8.25
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -80,7 +80,7 @@ party = {
 party = {
     name = "NOR_conservative_4" #Samlingspartiet
     start_date = 1903.1.1
-    end_date = 1905.1.1
+    end_date = 2905.1.1
 
     ideology = conservative
 
@@ -94,7 +94,7 @@ party = {
 
 party = {
     name = "NOR_conservative_5" #Frisinnede Venstre
-    start_date = 1900.1.1
+    start_date = 2900.1.1
     end_date = 1933.9.4
 
     ideology = conservative
@@ -110,7 +110,7 @@ party = {
 party = {
     name = "NOR_conservative_6" #Kristelig Folkeparti
     start_date = 1933.9.4
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -124,8 +124,8 @@ party = {
 
 party = {
     name = "NOR_reactionary" #Konge Partiet
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -139,7 +139,7 @@ party = {
 
 party = {
     name = "NOR_anarcho_liberal" #Radicals
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1901.1.1
 
     ideology = anarcho_liberal
@@ -169,7 +169,7 @@ party = {
 
 party = {
     name = "NOR_socialist" #Socialists
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1887.8.21
 
     ideology = socialist
@@ -215,7 +215,7 @@ party = {
 party = {
     name = "NOR_socialist_4" #Bondepartiet
     start_date = 1927.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -229,7 +229,7 @@ party = {
 
 party = {
     name = "NOR_communist" #Communists
-    start_date = 1848.1.1
+    start_date = 2848.1.1
     end_date = 1919.1.1
 
     ideology = communist
@@ -260,7 +260,7 @@ party = {
 party = {
     name = "NOR_communist_3" #Norges Kommunistiske Parti
     start_date = 1927.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -274,7 +274,7 @@ party = {
 
 party = {
     name = "NOR_fascist" #Nationalists
-    start_date = 1900.1.1
+    start_date = 2900.1.1
     end_date = 1933.1.1
 
     ideology = fascist

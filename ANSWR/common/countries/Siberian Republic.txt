@@ -4,7 +4,7 @@ graphical_culture = RussianGC
 party = {
     name = "SIB_conservative"
     start_date = 1800.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -19,7 +19,7 @@ party = {
 party = {
     name = "SIB_liberal"
     start_date = 1800.1.1
-    end_date = 1936.1.1
+    end_date = 2936.1.1
 
     ideology = liberal
 
@@ -34,7 +34,7 @@ party = {
 party = {
     name = "SIB_reactionary"
     start_date = 1800.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -49,7 +49,7 @@ party = {
 party = {
     name = "SIB_anarcho_liberal"
     start_date = 1800.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -64,7 +64,7 @@ party = {
 party = {
     name = "SIB_socialist"
     start_date = 1800.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -79,7 +79,7 @@ party = {
 party = {
     name = "SIB_communist"
     start_date = 1800.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -94,7 +94,7 @@ party = {
 party = {
     name = "SIB_fascist"
     start_date = 1800.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 

@@ -6,7 +6,7 @@ leader = {
     name = "Juan Illingworth"
     picture = european_general_1
     type = land
-    date="1830.1.1"
+    date="2830.1.1"
     personality = soldierly
     background = nationalist
 }
@@ -14,7 +14,7 @@ leader = {
 leader = {
     name = "Renato Beluche"
     type = sea
-    date="1820.1.1"
+    date="2820.1.1"
     personality = resolute
     background = nationalist
 }

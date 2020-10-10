@@ -15,7 +15,7 @@ fort = 1
 #    building = cement_factory
 #    upgrade = yes
 #}
-1861.1.1 = {
+2861.1.1 = {
     state_building = {
         level = 1
         building = steamer_shipyard
@@ -32,7 +32,7 @@ fort = 1
         upgrade = yes
     }
 }
-1861.1.1 = {
+2861.1.1 = {
     railroad = 2
     fort = 2
 }

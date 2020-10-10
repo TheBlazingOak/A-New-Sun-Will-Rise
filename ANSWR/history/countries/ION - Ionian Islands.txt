@@ -75,11 +75,11 @@ consciousness = 2
 nonstate_consciousness = 0
 
 oob = "ION_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     plurality = 60
     literacy = 0.27
 }
-1861.1.1 = {
+2861.1.1 = {
 # Technologies
     post_napoleonic_thought = 1
     flintlock_rifles = 1

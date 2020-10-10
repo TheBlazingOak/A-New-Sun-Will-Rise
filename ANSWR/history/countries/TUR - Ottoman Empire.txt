@@ -81,14 +81,14 @@ consciousness = 1
 nonstate_consciousness = 0
 
 oob = "TUR_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/TUR_oob.txt"
     prestige = 85
     plurality = 50
     literacy = 0.25
     non_state_culture_literacy = 0.15
 }
-1861.1.1 = {
+2861.1.1 = {
 ruling_party = TUR_conservative
 
 # Technologies

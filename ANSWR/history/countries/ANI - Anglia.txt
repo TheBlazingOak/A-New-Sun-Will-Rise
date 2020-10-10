@@ -83,13 +83,13 @@ basic_chemistry = 1
 consciousness = 3
 nonstate_consciousness = 1
 
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/LUB_oob.txt"
     plurality = 60
     literacy = 0.90
     non_state_culture_literacy = 0.45
 }
-1861.1.1 = {
+2861.1.1 = {
 # Political reforms
     slavery = no_slavery
     upper_house_composition = appointed

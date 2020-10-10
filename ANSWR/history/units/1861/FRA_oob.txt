@@ -58,7 +58,7 @@ leader = {
 
 leader = {
     name = "Baraguey d'Hilliers"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = active_p
     background = drillmaster
@@ -67,7 +67,7 @@ leader = {
 
 leader = {
     name = "Auguste Regnaud"
-    date = 1848.1.1
+    date = 2848.1.1
     type = land
     personality = manful
     background = aristocrat
@@ -76,7 +76,7 @@ leader = {
 
 leader = {
     name = "Frédéric Forey"
-    date = 1848.1.1
+    date = 2848.1.1
     type = land
     personality = choleric
     background = warmonger
@@ -94,7 +94,7 @@ leader = {
 
 leader = {
     name = "de Canrobert"
-    date = 1861.1.1 #1850
+    date = 2861.1.1 #1850
     type = land
     personality = dauntless
     background = generals_aide
@@ -193,7 +193,7 @@ leader = {
 
 leader = {
     name = "Charles Bourbaki"
-    date = 1859.1.1
+    date = 2859.1.1
     type = land
     personality = impetuous
     background = adventurer

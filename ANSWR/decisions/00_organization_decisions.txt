@@ -5,11 +5,11 @@ political_decisions = {
         potential = {
             ai = no
             NOT = { has_global_flag = looking_through_options }
-            NOT = { year = 1837 }
+            NOT = { year = 2837 }
         }
 
         allow = {
-            NOT = { year = 1837 }
+            NOT = { year = 2837 }
         }
 
         effect = {
@@ -26,7 +26,7 @@ political_decisions = {
         potential = {
             ai = no
             has_country_flag = country_looking_through_options
-            NOT = { year = 1837 }
+            NOT = { year = 2837 }
         }
 
         allow = {
@@ -719,7 +719,7 @@ political_decisions = {
                     owns = 914
                     owns = 915
                     LBN = { exists = no }
-                    year = 1850
+                    year = 2850
                 }
 
                 AND = {

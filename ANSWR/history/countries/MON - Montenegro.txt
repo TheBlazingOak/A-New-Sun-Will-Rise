@@ -77,12 +77,12 @@ set_country_flag = theocratic_government
 
 
 oob = "MON_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/MON_oob.txt"
     plurality = 50
     literacy = 0.17
 }
-1861.1.1 = {
+2861.1.1 = {
 # Technologies
     post_napoleonic_thought = 1
     flintlock_rifles = 1

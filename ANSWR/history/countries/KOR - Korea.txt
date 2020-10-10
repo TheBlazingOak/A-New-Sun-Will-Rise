@@ -72,7 +72,7 @@ ammunition_production = yes
 #big_sail_support = yes
 
 oob = "KOR_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/KOR_oob.txt"
     literacy = 0.09
     non_state_culture_literacy = 0.05

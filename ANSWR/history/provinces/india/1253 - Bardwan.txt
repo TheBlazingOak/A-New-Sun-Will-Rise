@@ -5,4 +5,4 @@ add_core = BNG
 trade_goods = coal
 life_rating = 32
 colonial = 2
-1861.1.1 = { railroad = 3 }
+2861.1.1 = { railroad = 3 }

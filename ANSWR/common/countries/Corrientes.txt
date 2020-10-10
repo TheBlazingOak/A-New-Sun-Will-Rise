@@ -3,7 +3,7 @@ graphical_culture = SouthAmericanGC
 
 party = {
     name = "ENT_conservative"
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1872.1.1
 
     ideology = conservative
@@ -19,7 +19,7 @@ party = {
 party = {
     name = "ENT_conservative_2"
     start_date = 1872.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -33,7 +33,7 @@ party = {
 
 party = {
     name = "ENT_liberal"
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1903.1.1
 
     ideology = liberal
@@ -64,7 +64,7 @@ party = {
 party = {
     name = "ENT_socialist"
     start_date = 1911.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -79,7 +79,7 @@ party = {
 party = {
     name = "ENT_conservative_3"
     start_date = 1910.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -93,8 +93,8 @@ party = {
 
 party = {
     name = "ENT_communist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -109,7 +109,7 @@ party = {
 party = {
     name = "ENT_liberal_3"
     start_date = 1911.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -123,8 +123,8 @@ party = {
 
 party = {
     name = "ENT_reactionary"
-    start_date = 1820.1.1
-    end_date = 2000.1.1
+    start_date = 2820.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -138,8 +138,8 @@ party = {
 
 party = {
     name = "ENT_anarcho_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -153,7 +153,7 @@ party = {
 
 party = {
     name = "ENT_socialist_2"
-    start_date = 1848.1.1
+    start_date = 2848.1.1
     end_date = 1911.1.1
 
     ideology = socialist
@@ -168,8 +168,8 @@ party = {
 
 party = {
     name = "ENT_fascist"
-    start_date = 1900.1.1
-    end_date = 2000.1.1
+    start_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 

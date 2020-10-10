@@ -3,7 +3,7 @@ graphical_culture = EuropeanGC
 
 party = {
     name = "GRE_conservative"
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1875.1.1
 
     ideology = conservative
@@ -18,8 +18,8 @@ party = {
 
 party = {
     name = "GRE_reactionary"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -33,7 +33,7 @@ party = {
 
 party = {
     name = "GRE_liberal"
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1875.1.1
 
     ideology = liberal
@@ -49,7 +49,7 @@ party = {
 party = {
     name = "GRE_liberal_2"
     start_date = 1875.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -64,7 +64,7 @@ party = {
 party = {
     name = "GRE_conservative_2"
     start_date = 1875.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -78,8 +78,8 @@ party = {
 
 party = {
     name = "GRE_anarcho_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -93,8 +93,8 @@ party = {
 
 party = {
     name = "GRE_socialist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -108,8 +108,8 @@ party = {
 
 party = {
     name = "GRE_communist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -123,8 +123,8 @@ party = {
 
 party = {
     name = "GRE_fascist"
-    start_date = 1900.1.1
-    end_date = 2000.1.1
+    start_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 

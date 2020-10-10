@@ -70,11 +70,11 @@ mechanical_production = 1
 #Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/HON_oob.txt"
     plurality = 50
 }
-1861.1.1 = {
+2861.1.1 = {
 # Technologies
     post_napoleonic_thought = 1
     flintlock_rifles = 1

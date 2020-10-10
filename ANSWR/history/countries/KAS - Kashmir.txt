@@ -31,7 +31,7 @@ modern_winemaking = yes
 #big_sail_support = yes
 
 oob = "KAS_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/KAS_oob.txt"
 }
 

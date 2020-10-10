@@ -2,8 +2,8 @@ color = { 0 156 45 }
 graphical_culture = ItalianGC
 party = {
     name = "LOM_reactionary"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -17,8 +17,8 @@ party = {
 
 party = {
     name = "LOM_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -32,8 +32,8 @@ party = {
 
 party = {
     name = "LOM_conservative"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -47,8 +47,8 @@ party = {
 
 party = {
     name = "LOM_socialist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -62,8 +62,8 @@ party = {
 
 party = {
     name = "LOM_communist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -78,7 +78,7 @@ party = {
 party = {
     name = "LOM_reactionary_2"
     start_date = 1874.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -92,8 +92,8 @@ party = {
 
 party = {
     name = "LOM_anarcho_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -107,8 +107,8 @@ party = {
 
 party = {
     name = "LOM_fascist"
-    start_date = 1900.1.1
-    end_date = 2000.1.1
+    start_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 

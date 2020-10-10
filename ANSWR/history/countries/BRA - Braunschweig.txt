@@ -82,12 +82,12 @@ consciousness = 2
 nonstate_consciousness = 0
 
 oob = "BRA_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/BRA_oob.txt"
     literacy = 0.90
     non_state_culture_literacy = 0.45
 }
-1861.1.1 = {
+2861.1.1 = {
 # Technologies
     post_napoleonic_thought = 1
     flintlock_rifles = 1

@@ -18,7 +18,7 @@ leader = {
 
 leader = {
     name = "Jakob von Hartmann"
-    date = 1849.1.1
+    date = 2849.1.1
     type = land
     personality = skilled
     background = war_college
@@ -36,7 +36,7 @@ leader = {
 
 leader = {
     name = "von der Tann"
-    date = 1861.1.1 #1855
+    date = 2861.1.1 #1855
     type = land
     personality = soldierly
     background = natural_born_leader

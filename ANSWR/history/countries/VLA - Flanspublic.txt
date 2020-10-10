@@ -84,7 +84,7 @@ nonstate_consciousness = 1
 schools = commerce_tech_school
 
 oob = "SWH_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/SWH_oob.txt"
     literacy = 0.9
     non_state_culture_literacy = 0.45

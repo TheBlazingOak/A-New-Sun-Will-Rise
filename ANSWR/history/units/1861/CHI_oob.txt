@@ -18,7 +18,7 @@ leader = {
 
 leader = {
     name = "F.T. Ward"
-    date = 1836.1.1 #1860
+    date = 2836.1.1 #1860
     type = land
     personality = imperious
     background = adventurer
@@ -27,7 +27,7 @@ leader = {
 
 leader = {
     name = "Charles Gordon"
-    date = 1836.1.1 #1860
+    date = 2836.1.1 #1860
     type = land
     personality = persistant
     background = engineer
@@ -36,7 +36,7 @@ leader = {
 
 leader = {
     name = "Zuo Zongtang"
-    date = 1860.1.1
+    date = 2860.1.1
     type = land
     personality = disciplined
     background = butcher
@@ -45,7 +45,7 @@ leader = {
 
 leader = {
     name = "Li Hongzhang"
-    date = 1860.1.1
+    date = 2860.1.1
     type = land
     personality = aggressive
     background = immoral
@@ -54,7 +54,7 @@ leader = {
 
 leader = {
     name = "Rong Lu"
-    date = 1861.1.1
+    date = 2861.1.1
     type = land
     personality = intelligent
     background = pawn
@@ -62,7 +62,7 @@ leader = {
 
 leader = {
     name = "Zhang Zhidong"
-    date = 1861.1.1
+    date = 2861.1.1
     type = land
     personality = efficient
     background = amateur

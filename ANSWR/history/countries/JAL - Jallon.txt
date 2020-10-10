@@ -59,7 +59,7 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "JAL_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/JAL_oob.txt"
     foreign_weapons = yes_foreign_weapons
     flintlock_rifles = 1

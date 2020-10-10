@@ -48,8 +48,8 @@ party = {
 
 party = {
     name = "SUD_anarcho_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -63,8 +63,8 @@ party = {
 
 party = {
     name = "SUD_socialist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -78,8 +78,8 @@ party = {
 
 party = {
     name = "SUD_communist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -93,8 +93,8 @@ party = {
 
 party = {
     name = "SUD_fascist"
-    start_date = 1900.1.1
-    end_date = 2000.1.1
+    start_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 

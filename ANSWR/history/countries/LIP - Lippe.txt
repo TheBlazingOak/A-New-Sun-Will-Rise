@@ -83,13 +83,13 @@ consciousness = 3
 nonstate_consciousness = 1
 
 oob = "LIP_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/LIP_oob.txt"
     plurality = 60
     literacy = 0.90
     non_state_culture_literacy = 0.45
 }
-1861.1.1 = {
+2861.1.1 = {
 # Technologies
     post_napoleonic_thought = 1
     strategic_mobility = 1

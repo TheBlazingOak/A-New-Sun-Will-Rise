@@ -50,12 +50,12 @@ upper_house = {
 
 set_country_flag = new_world_nation
 
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/COS_oob.txt"
     plurality = 60
     literacy = 0.25
 }
-1861.1.1 = {
+2861.1.1 = {
 # Technologies
     post_napoleonic_thought = 1
     flintlock_rifles = 1

@@ -1,6 +1,6 @@
 leader = {
     name = "Prince Georg"
-    date = 1820.1.1
+    date = 2820.1.1
     type = land
     personality = mediocre
     background = old_school
@@ -9,7 +9,7 @@ leader = {
 
 leader = {
     name = "Prince Karl"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = indifferent
     background = aristocrat

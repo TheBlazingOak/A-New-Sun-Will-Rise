@@ -79,7 +79,7 @@ leader = {
 
 leader = {
     name = "Ferdinand Wrangel"
-    date = 1836.1.1
+    date = 2836.1.1
     type = sea
     personality = active_p
     background = cartographer
@@ -151,7 +151,7 @@ leader = {
 
 leader = {
     name = "Dimitry Milyutin"
-    date = 1861.1.1 #1856
+    date = 2861.1.1 #1856
     type = land
     personality = openminded
     background = gifted_administrator
@@ -169,7 +169,7 @@ leader = {
 
 leader = {
     name = "von Kaufman"
-    date = 1861.1.1 #1858
+    date = 2861.1.1 #1858
     type = land
     personality = charismatic
     background = expert_raider
@@ -178,7 +178,7 @@ leader = {
 
 leader = {
     name = "Ivan Lazarev"
-    date = 1860.1.1
+    date = 2860.1.1
     type = land
     personality = clever
     background = exranker
@@ -187,7 +187,7 @@ leader = {
 
 leader = {
     name = "Andrey Popov"
-    date = 1861.1.1
+    date = 2861.1.1
     type = sea
     personality = strange
     background = armchair_general
@@ -195,7 +195,7 @@ leader = {
 
 leader = {
     name = "Kolpakovsky"
-    date = 1861.1.1
+    date = 2861.1.1
     type = land
     personality = soldierly
     background = exranker

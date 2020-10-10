@@ -65,12 +65,12 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "BAS_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/BAS_oob.txt"
     literacy = 0.10
     non_state_culture_literacy = 0.05
 }
-1861.1.1 = {
+2861.1.1 = {
 
     foreign_training = yes_foreign_training
     foreign_weapons = yes_foreign_weapons

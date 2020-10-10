@@ -3,8 +3,8 @@ graphical_culture = AustriaHungaryGC
 
 party = {
     name = "AUS_conservative"
-    start_date = 1836.1.1
-    end_date = 1848.1.1
+    start_date = 2836.1.1
+    end_date = 2848.1.1
 
     ideology = conservative
 
@@ -18,8 +18,8 @@ party = {
 
 party = {
     name = "AUS_conservative_2"
-    start_date = 1836.1.1
-    end_date = 1848.1.1
+    start_date = 2836.1.1
+    end_date = 2848.1.1
 
     ideology = conservative
 
@@ -33,7 +33,7 @@ party = {
 
 party = {
     name = "AUS_reactionary"
-    start_date = 1836.1.1
+    start_date = 2836.1.1
     end_date = 1867.1.1
 
     ideology = reactionary
@@ -48,7 +48,7 @@ party = {
 
 party = {
     name = "AUS_socialist"
-    start_date = 1848.1.1
+    start_date = 2848.1.1
     end_date = 1867.1.1
 
     ideology = socialist
@@ -63,7 +63,7 @@ party = {
 
 party = {
     name = "AUS_liberal"
-    start_date = 1836.1.1
+    start_date = 2836.1.1
     end_date = 1867.1.1
 
     ideology = liberal
@@ -78,7 +78,7 @@ party = {
 
 party = {
     name = "AUS_conservative_3"
-    start_date = 1848.1.1
+    start_date = 2848.1.1
     end_date = 1867.1.1
 
     ideology = conservative
@@ -109,7 +109,7 @@ party = {
 party = {
     name = "AUS_socialist_2"
     start_date = 1867.1.1
-    end_date = 1900.1.1
+    end_date = 2900.1.1
 
     ideology = socialist
 
@@ -124,7 +124,7 @@ party = {
 party = {
     name = "AUS_reactionary_2"
     start_date = 1867.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -139,7 +139,7 @@ party = {
 party = {
     name = "AUS_conservative_5"
     start_date = 1879.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -154,7 +154,7 @@ party = {
 party = {
     name = "AUS_liberal_2"
     start_date = 1867.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -168,8 +168,8 @@ party = {
 
 party = {
     name = "AUS_communist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -183,8 +183,8 @@ party = {
 
 party = {
     name = "AUS_socialist_3"
-    start_date = 1900.1.1
-    end_date = 2000.1.1
+    start_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -198,8 +198,8 @@ party = {
 
 party = {
     name = "AUS_anarcho_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -213,8 +213,8 @@ party = {
 
 party = {
     name = "AUS_fascist"
-    start_date = 1900.1.1
-    end_date = 2000.1.1
+    start_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 

@@ -15,4 +15,4 @@ state_building = {
     building = fabric_factory
     upgrade = yes
 }
-1861.1.1 = { railroad = 2 }
+2861.1.1 = { railroad = 2 }

@@ -7,7 +7,7 @@ GAZ = { value = -70 }
 leader = {
    name = "Maqoma"
    type = land
-   date = 1836.1.1
+   date = 2836.1.1
    background = expert_raider
    personality = merciless
 }

@@ -14,7 +14,7 @@ army = {
 leader = {
     name = "Muhammad bin Al-Khalifa    "
     type = land
-    date = 1836.1.1
+    date = 2836.1.1
         background = aristocrat
         personality = skilled
 }

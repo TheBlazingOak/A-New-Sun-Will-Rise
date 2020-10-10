@@ -19,7 +19,7 @@ party = {
 
 party = {
     name = "KMT_liberal"
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1921.1.1
 
     ideology = liberal
@@ -34,8 +34,8 @@ party = {
 
 party = {
     name = "KMT_anarcho_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -79,8 +79,8 @@ party = {
 
 party = {
     name = "KMT_socialist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -94,8 +94,8 @@ party = {
 
 party = {
     name = "KMT_communist"
-    start_date = 1890.1.1
-    end_date = 2000.1.1
+    start_date = 2890.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -109,8 +109,8 @@ party = {
 
 party = {
     name = "KMT_fascist"
-    start_date = 1900.1.1
-    end_date = 2000.1.1
+    start_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 
@@ -125,7 +125,7 @@ party = {
 party = {
     name = "KMT_conservative_4"
     start_date = 1800.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 

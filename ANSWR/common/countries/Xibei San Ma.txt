@@ -4,7 +4,7 @@ graphical_culture = ChineseGC
 party = {
     name = "XBI_reactionary"
     start_date = 1870.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -18,7 +18,7 @@ party = {
 
 party = {
     name = "XBI_reactionary_2"
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1870.2.2
 
     ideology = reactionary
@@ -34,7 +34,7 @@ party = {
 party = {
     name = "XBI_liberal"
     start_date = 1870.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -48,7 +48,7 @@ party = {
 
 party = {
     name = "XBI_liberal_2"
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1870.2.2
 
     ideology = liberal
@@ -64,7 +64,7 @@ party = {
 party = {
     name = "XBI_conservative"
     start_date = 1870.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -78,7 +78,7 @@ party = {
 
 party = {
     name = "XBI_conservative_2"
-    start_date = 1830.1.1
+    start_date = 2830.1.1
     end_date = 1870.2.2
 
     ideology = conservative
@@ -93,8 +93,8 @@ party = {
 
 party = {
     name = "XBI_anarcho_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -108,8 +108,8 @@ party = {
 
 party = {
     name = "XBI_socialist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -123,8 +123,8 @@ party = {
 
 party = {
     name = "XBI_communist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -138,8 +138,8 @@ party = {
 
 party = {
     name = "XBI_fascist"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 

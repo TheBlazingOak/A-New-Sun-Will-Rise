@@ -1,7 +1,7 @@
 #aesthetics
 classicism_n_early_romanticism = {
     area = aesthetics
-    year = 1836
+    year = 2836
     cost = 3600
 
     prestige = 0.075
@@ -25,7 +25,7 @@ classicism_n_early_romanticism = {
 
 romanticism = {
     area = aesthetics
-    year = 1836
+    year = 2836
     cost = 7200
 
     prestige = 0.075
@@ -55,7 +55,7 @@ romanticism = {
 
 realism = {
     area = aesthetics
-    year = 1836
+    year = 2836
     cost = 10800
 
     prestige = 0.075
@@ -86,7 +86,7 @@ realism = {
 }
 impressionism = {
     area = aesthetics
-    year = 1850
+    year = 2850
     cost = 14400
 
     prestige = 0.075
@@ -113,7 +113,7 @@ impressionism = {
 }
 expressionism = {
     area = aesthetics
-    year = 1870
+    year = 2870
     cost = 18000
 
     prestige = 0.075
@@ -140,7 +140,7 @@ expressionism = {
 }
 mass_culture_n_the_avant_garde = {
     area = aesthetics
-    year = 1900
+    year = 2900
     cost = 21600
 
     prestige = 0.075
@@ -170,7 +170,7 @@ mass_culture_n_the_avant_garde = {
 #philosophy
 late_enlightenment_philosophy = {
     area = philosophy
-    year = 1836
+    year = 2836
     cost = 3600
 
 
@@ -191,29 +191,29 @@ late_enlightenment_philosophy = {
         }
         modifier = {
             factor = 1.1
-            year = 1840
+            year = 2840
         }
         modifier = {
             factor = 2
-            year = 1850
+            year = 2850
         }
         modifier = {
             factor = 1.1
-            year = 1865
+            year = 2865
         }
         modifier = {
             factor = 2
-            year = 1875
+            year = 2875
         }
         modifier = {
             factor = 2
-            year = 1885
+            year = 2885
         }
     }
 }
 idealism = {
     area = philosophy
-    year = 1840
+    year = 2840
     cost = 7200
 
     increase_research = 0.50
@@ -236,30 +236,30 @@ idealism = {
         }
         modifier = {
             factor = 1.1
-            year = 1845
+            year = 2845
         }
         modifier = {
             factor = 2
-            year = 1850
+            year = 2850
         }
         modifier = {
             factor = 1.1
-            year = 1865
+            year = 2865
         }
         modifier = {
             factor = 2
-            year = 1875
+            year = 2875
         }
         modifier = {
             factor = 2
-            year = 1885
+            year = 2885
         }
     }
 }
 
 empiricism = {
     area = philosophy
-    year = 1860
+    year = 2860
     cost = 10800
 
     increase_research = 0.50
@@ -282,21 +282,21 @@ empiricism = {
         }
         modifier = {
             factor = 1.1
-            year = 1865
+            year = 2865
         }
         modifier = {
             factor = 2
-            year = 1875
+            year = 2875
         }
         modifier = {
             factor = 2
-            year = 1885
+            year = 2885
         }
     }
 }
 analytic_philosophy = {
     area = philosophy
-    year = 1870
+    year = 2870
     cost = 14400
 
     increase_research = 1.0
@@ -319,17 +319,17 @@ analytic_philosophy = {
         }
         modifier = {
             factor = 1.1
-            year = 1875
+            year = 2875
         }
         modifier = {
             factor = 2
-            year = 1885
+            year = 2885
         }
     }
 }
 phenomenology_n_hermeneutic = {
     area = philosophy
-    year = 1880
+    year = 2880
     cost = 18000
 
     increase_research = 1.0
@@ -352,17 +352,17 @@ phenomenology_n_hermeneutic = {
         }
         modifier = {
             factor = 1.1
-            year = 1885
+            year = 2885
         }
         modifier = {
             factor = 2
-            year = 1890
+            year = 2890
         }
     }
 }
 anti__rationalism = {
     area = philosophy
-    year = 1900
+    year = 2900
     cost = 21600
 
     increase_research = 1.0
@@ -385,11 +385,11 @@ anti__rationalism = {
         }
         modifier = {
             factor = 1.1
-            year = 1905
+            year = 2905
         }
         modifier = {
             factor = 2
-            year = 1910
+            year = 2910
         }
     }
 }
@@ -398,7 +398,7 @@ anti__rationalism = {
 #social_thought
 malthusian_thought = {
     area = social_thought
-    year = 1836
+    year = 2836
     cost = 3600
 
     colonial_migration = 0.05
@@ -436,7 +436,7 @@ malthusian_thought = {
 }
 positivism = {
     area = social_thought
-    year = 1836
+    year = 2836
     cost = 7200
     colonial_migration = 0.05
     education_efficiency = 0.1
@@ -486,7 +486,7 @@ positivism = {
 }
 functionalism = {
     area = social_thought
-    year = 1836
+    year = 2836
     cost = 10800
 
     colonial_migration = 0.05
@@ -537,7 +537,7 @@ functionalism = {
 }
 biologism = {
     area = social_thought
-    year = 1850
+    year = 2850
     cost = 14400
 
     colonial_migration = 0.05
@@ -562,7 +562,7 @@ biologism = {
             NOT = { tag = TUR }
             OR = {
                 not = { literacy = 0.7 }
-                year = 1880
+                year = 2880
                 tag = ENG
             }
             OR = {
@@ -589,7 +589,7 @@ biologism = {
 }
 social_science = {
     area = social_thought
-    year = 1870
+    year = 2870
     cost = 18000
 
     colonial_migration = 0.05
@@ -615,7 +615,7 @@ social_science = {
             NOT = { tag = TUR }
             OR = {
                 not = { literacy = 0.75 }
-                year = 1890
+                year = 2890
                 tag = ENG
             }
             OR = {
@@ -633,7 +633,7 @@ social_science = {
 }
 social_alienation = {
     area = social_thought
-    year = 1900
+    year = 2900
     cost = 21600
 
     colonial_migration = 0.05
@@ -668,7 +668,7 @@ social_alienation = {
 #political_thought
 enlightenment_thought = {
     area = political_thought
-    year = 1836
+    year = 2836
     cost = 3600
 
     max_national_focus = 1
@@ -682,7 +682,7 @@ enlightenment_thought = {
         modifier = {
             factor = 6
             is_greater_power = yes
-            year = 1850
+            year = 2850
         }
         modifier = {
             factor = 20
@@ -692,7 +692,7 @@ enlightenment_thought = {
 }
 ideological_thought = {
     area = political_thought
-    year = 1836
+    year = 2836
     cost = 7200
 
     max_national_focus = 1
@@ -728,13 +728,13 @@ ideological_thought = {
         modifier = {
             factor = 51
             rank = 16
-            year = 1840
+            year = 2840
             any_owned_province = { port = yes }
             total_pops = 2000000
         }
         modifier = {
             factor = 51
-            year = 1850
+            year = 2850
         }
         modifier = {
             factor = 1.02
@@ -748,7 +748,7 @@ ideological_thought = {
 }
 state_n_government = {
     area = political_thought
-    year = 1840
+    year = 2840
     cost = 10800
 
     max_national_focus = 1
@@ -780,14 +780,14 @@ state_n_government = {
         modifier = {
             factor = 30
             rank = 16
-            year = 1850
+            year = 2850
             any_owned_province = { port = yes }
             total_pops = 3000000
         }
         modifier = {
             factor = 30
             OR = {
-                year = 1860
+                year = 2860
                 tag = SAR
                 tag = PRU
                 tag = USA
@@ -802,7 +802,7 @@ state_n_government = {
 }
 nationalism_n_imperialism = {
     area = political_thought
-    year = 1850
+    year = 2850
     cost = 14400
 
     max_national_focus = 1
@@ -822,19 +822,19 @@ nationalism_n_imperialism = {
         modifier = {
             factor = 11
             rank = 16
-            year = 1860
+            year = 2860
             any_owned_province = { has_building = naval_base }
             total_pops = 4000000
         }
         modifier = {
             factor = 2
             is_greater_power = yes
-            year = 1865
+            year = 2865
         }
         modifier = {
             factor = 51
             rank = 16
-            year = 1870
+            year = 2870
         }
         modifier = {
             factor = 1.5
@@ -877,7 +877,7 @@ nationalism_n_imperialism = {
 }
 revolution_n_counterrevolution = {
     area = political_thought
-    year = 1870
+    year = 2870
     cost = 18000
 
     max_national_focus = 1
@@ -905,7 +905,7 @@ revolution_n_counterrevolution = {
         modifier = {
             factor = 51
             rank = 16
-            year = 1880
+            year = 2880
         }
         modifier = {
             factor = 3
@@ -920,7 +920,7 @@ revolution_n_counterrevolution = {
 }
 mass_politics = {
     area = political_thought
-    year = 1900
+    year = 2900
     cost = 21600
 
     max_national_focus = 1
@@ -949,7 +949,7 @@ mass_politics = {
 #psychology
 introspectionism = {
     area = psychology
-    year = 1836
+    year = 2836
     cost = 3600
 
 
@@ -968,11 +968,11 @@ introspectionism = {
         }
         modifier = {
             factor = 1.1
-            year = 1850 #1840
+            year = 2850 #2840
         }
         modifier = {
             factor = 2
-            year = 1860 #1850
+            year = 2860 #2850
         }
         modifier = {
             factor = 21
@@ -981,19 +981,19 @@ introspectionism = {
         modifier = {
             factor = 11
             rank = 16
-            year = 1860
+            year = 2860
             any_owned_province = { port = yes }
             total_pops = 4000000
         }
         modifier = {
             factor = 2
             is_greater_power = yes
-            year = 1865
+            year = 2865
         }
         modifier = {
             factor = 51
             rank = 16
-            year = 1870
+            year = 2870
         }
         modifier = {
             factor = 0.25
@@ -1004,7 +1004,7 @@ introspectionism = {
 }
 associationism = {
     area = psychology
-    year = 1836
+    year = 2836
     cost = 7200
 
     regular_experience_level = 5
@@ -1022,11 +1022,11 @@ associationism = {
         }
         modifier = {
             factor = 1.1
-            year = 1860 #1840
+            year = 2860 #2840
         }
         modifier = {
             factor = 2
-            year = 1870 #1850
+            year = 2870 #2850
         }
         modifier = {
             factor = 0.25
@@ -1036,7 +1036,7 @@ associationism = {
 }
 phenomenalism = {
     area = psychology
-    year = 1850
+    year = 2850
     cost = 10800
 
     regular_experience_level = 5
@@ -1054,11 +1054,11 @@ phenomenalism = {
         }
         modifier = {
             factor = 1.1
-            year = 1870 #1860
+            year = 2870 #2860
         }
         modifier = {
             factor = 2
-            year = 1880
+            year = 2880
         }
         modifier = {
             factor = 0.25
@@ -1068,7 +1068,7 @@ phenomenalism = {
 }
 experimental_psychology = {
     area = psychology
-    year = 1870
+    year = 2870
     cost = 14400
 
     regular_experience_level = 5
@@ -1086,11 +1086,11 @@ experimental_psychology = {
         }
         modifier = {
             factor = 1.1
-            year = 1880 #1860
+            year = 2880 #2860
         }
         modifier = {
             factor = 2
-            year = 1890 #1870
+            year = 2890 #2870
         }
         modifier = {
             factor = 0.25
@@ -1100,7 +1100,7 @@ experimental_psychology = {
 }
 psychoanalysis = {
     area = psychology
-    year = 1890
+    year = 2890
     cost = 18000
 
     regular_experience_level = 5
@@ -1118,11 +1118,11 @@ psychoanalysis = {
         }
         modifier = {
             factor = 1.1
-            year = 1890 #1880
+            year = 2890 #2880
         }
         modifier = {
             factor = 2
-            year = 1900 #1890
+            year = 2900 #2890
         }
         modifier = {
             factor = 0.25
@@ -1133,7 +1133,7 @@ psychoanalysis = {
 }
 behaviorism = {
     area = psychology
-    year = 1910
+    year = 2910
     cost = 21600
 
     regular_experience_level = 5
@@ -1151,7 +1151,7 @@ behaviorism = {
         }
         modifier = {
             factor = 1.1
-            year = 1910
+            year = 2910
         }
         modifier = {
             factor = 2

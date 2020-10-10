@@ -10,16 +10,16 @@ state_building = {
     building = fabric_factory
     upgrade = yes
 }
-1861.1.1 = {
+2861.1.1 = {
     owner = ITA
     controller = ITA
     remove_core = LOM
 }
-1861.1.1 = {
+2861.1.1 = {
     state_building = {
     level = 1
     building = luxury_clothes_factory
     upgrade = yes
     }
 }
-1861.1.1 = { railroad = 3 }
+2861.1.1 = { railroad = 3 }

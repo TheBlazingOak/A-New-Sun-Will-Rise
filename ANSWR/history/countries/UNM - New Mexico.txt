@@ -40,7 +40,7 @@ border_policy = open_borders
 set_country_flag = protestant_country
 
 ruling_party = UNM_liberal
-last_election = 1836.1.1
+last_election = 2836.1.1
 upper_house = {
     fascist = 0
     liberal = 55

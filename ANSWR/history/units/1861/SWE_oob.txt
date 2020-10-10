@@ -63,7 +63,7 @@ leader = {
 
 leader = {
     name = "Didrik Bildt"
-    date = 1861.1.1 #1859
+    date = 2861.1.1 #1859
     type = land
     personality = diplomatic
     background = politician
@@ -72,7 +72,7 @@ leader = {
 
 leader = {
     name = "Reuterskiöld"
-    date = 1860.1.1
+    date = 2860.1.1
     type = land
     personality = skilled
     background = politician
@@ -81,7 +81,7 @@ leader = {
 
 leader = {
     name = "Karl Magnus Thulstrup"
-    date = 1861.1.1
+    date = 2861.1.1
     type = land
     personality = openminded
     background = professor

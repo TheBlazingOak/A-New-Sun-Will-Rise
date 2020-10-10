@@ -11,7 +11,7 @@ RDM = {
 leader = {
     name = "D. Francisco López "
     type = sea
-    date="1820.1.1"
+    date="2820.1.1"
     personality = bastard
     background = no_background
 }
@@ -19,7 +19,7 @@ leader = {
 leader = {
     name = "Nicolas Bravo"
     type = land
-    date="1836.1.1"
+    date="2836.1.1"
     personality = heroic
     background = politician
 }
@@ -27,7 +27,7 @@ leader = {
 leader = {
     name = "Mariano Arista"
     type = land
-    date="1836.1.1"
+    date="2836.1.1"
     personality = skilled
     background = war_college
 }
@@ -35,7 +35,7 @@ leader = {
 leader = {
     name = "Juan Álvarez"
     type = land
-    date="1836.1.1"
+    date="2836.1.1"
     personality = skilled
     background = elderly
 }
@@ -43,7 +43,7 @@ leader = {
 leader = {
     name = "José de Herrera"
     type = land
-    date="1836.1.1"
+    date="2836.1.1"
     personality = soldierly
     background = exranker
 }

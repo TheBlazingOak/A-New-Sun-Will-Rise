@@ -68,12 +68,12 @@ consciousness = 2
 nonstate_consciousness = 0
 
 oob = "HAI_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/HAI_oob.txt"
     plurality = 50
     literacy = 0.08
 }
-1861.1.1 = {
+2861.1.1 = {
     slavery = no_slavery
     upper_house_composition = appointed
     vote_franschise = none_voting

@@ -4,7 +4,7 @@ graphical_culture = MiddleEasternGC
 party = {
     name = "ARA_conservative"
     start_date = 1800.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -19,7 +19,7 @@ party = {
 party = {
     name = "ARA_liberal"
     start_date = 1810.1.1
-    end_date = 1936.1.1
+    end_date = 2936.1.1
 
     ideology = liberal
 
@@ -34,7 +34,7 @@ party = {
 party = {
     name = "ARA_reactionary"
     start_date = 1810.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -48,7 +48,7 @@ party = {
 party = {
     name = "ARA_reactionary2"
     start_date = 1810.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -63,7 +63,7 @@ party = {
 party = {
     name = "ARA_anarcho_liberal"
     start_date = 1810.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -78,7 +78,7 @@ party = {
 party = {
     name = "ARA_socialist"
     start_date = 1818.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -93,7 +93,7 @@ party = {
 party = {
     name = "ARA_communist"
     start_date = 1818.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -108,7 +108,7 @@ party = {
 party = {
     name = "ARA_fascist"
     start_date = 1805.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 

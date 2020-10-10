@@ -74,10 +74,10 @@ consciousness = 2
 nonstate_consciousness = 0
 
 oob = "ARG_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/ARG_oob.txt"
 }
-1861.1.1 = {
+2861.1.1 = {
 capital = 2348
 primary_culture = platinean
 religion = catholic

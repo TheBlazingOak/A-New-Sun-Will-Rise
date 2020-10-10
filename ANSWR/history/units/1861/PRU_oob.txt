@@ -267,7 +267,7 @@ leader = {
 
 leader = {
     name = "von Hindersin"
-    date = 1848.1.1
+    date = 2848.1.1
     type = land
     personality = competent
     background = artillerist
@@ -285,7 +285,7 @@ leader = {
 
 leader = {
     name = "Eduard von Bonin"
-    date = 1848.1.1
+    date = 2848.1.1
     type = land
     personality = gallant
     background = drillmaster
@@ -312,7 +312,7 @@ leader = {
 
 leader = {
     name = "Prinz Friedrich Karl"
-    date = 1861.1.1 #1854
+    date = 2861.1.1 #1854
     type = land
     personality = reserved
     background = diplomat
@@ -357,7 +357,7 @@ leader = {
 
 leader = {
     name = "Helmuth von Moltke"
-    date = 1861.1.1 #1857
+    date = 2861.1.1 #1857
     type = land
     personality = brilliant
     background = eccentric_genius
@@ -384,7 +384,7 @@ leader = {
 
 leader = {
     name = "Kronprinz Friedrich Wilhelm"
-    date = 1861.1.1
+    date = 2861.1.1
     type = land
     personality = openminded
     background = diplomat

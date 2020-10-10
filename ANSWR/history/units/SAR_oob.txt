@@ -15,7 +15,7 @@ leader = {
 
 leader = {
     name = "Emanuele Pes"
-    date = 1820.1.1
+    date = 2820.1.1
     type = land
     personality = diplomatic
     background = politician
@@ -42,7 +42,7 @@ leader = {
 
 leader = {
     name = "Giuseppe Albini"
-    date = 1836.1.1
+    date = 2836.1.1
     type = sea
     personality = indifferent
     background = war_college
@@ -51,7 +51,7 @@ leader = {
 
 leader = {
     name = "La Marmora-Masserano"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = mediocre
     background = cavalry_school
@@ -60,7 +60,7 @@ leader = {
 
 leader = {
     name = "Agostino Chiodo"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = careful
     background = engineer

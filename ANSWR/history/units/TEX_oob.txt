@@ -2,7 +2,7 @@
 leader = {
     name = "Reggie Sodola"
     type = land
-    date="1836.1.1"
+    date="2836.1.1"
     personality = cautious
     background = elderly
 }
@@ -10,7 +10,7 @@ leader = {
 leader = {
     name = "Rechek Carver"
     type = sea
-    date="1836.1.1"
+    date="2836.1.1"
     personality = audacious
     background = nationalist
 }

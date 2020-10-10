@@ -64,7 +64,7 @@ RUS = {
 
 leader = {
     name = "Erzerhog Albrecht"
-    date = 1861.1.1 #1840
+    date = 2861.1.1 #1840
     type = land
     personality = intelligent
     background = aristocrat
@@ -82,7 +82,7 @@ leader = {
 
 leader = {
     name = "Ludwig von Benedek"
-    date = 1849.1.1
+    date = 2849.1.1
     type = land
     personality = steadfast
     background = unqualified
@@ -109,7 +109,7 @@ leader = {
 
 leader = {
     name = "Joseph Philippovic"
-    date = 1859.1.1
+    date = 2859.1.1
     type = land
     personality = relentless
     background = school_of_offense
@@ -118,7 +118,7 @@ leader = {
 
 leader = {
     name = "Franz von John"
-    date = 1861.1.1
+    date = 2861.1.1
     type = land
     personality = competent
     background = generals_aide
@@ -126,7 +126,7 @@ leader = {
 
 leader = {
     name = "Kuhn von Khunenfeld"
-    date = 1861.1.1
+    date = 2861.1.1
     type = land
     personality = arrogant
     background = professor
@@ -134,7 +134,7 @@ leader = {
 
 leader = {
     name = "von Tegethoff"
-    date = 1861.1.1
+    date = 2861.1.1
     type = sea
     personality = daring
     background = school_of_offense

@@ -10,7 +10,7 @@ leader = {
     name = "Pedro Alcántara Herrán"
     picture = european_general_24
     type = land
-    date="1830.1.1"
+    date="2830.1.1"
     personality = soldierly
     background = nationalist
 }
@@ -18,7 +18,7 @@ leader = {
 leader = {
     name = "Rafael Tono Llopis"
     type = sea
-    date="1820.1.1"
+    date="2820.1.1"
     personality = polite
     background = nationalist
 }

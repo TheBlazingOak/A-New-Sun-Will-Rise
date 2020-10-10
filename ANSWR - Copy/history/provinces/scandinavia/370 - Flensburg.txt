@@ -1,8 +1,0 @@
-owner = VLA
-controller = VLA
-add_core = SAP
-add_core = VLA
-trade_goods = cattle
-life_rating = 35
-fort = 1
-1861.1.1 = { railroad = 2 }

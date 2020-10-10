@@ -75,11 +75,11 @@ consciousness = 2
 nonstate_consciousness = 0
 
 oob = "PEU_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/PEU_oob.txt"
     set_country_flag = peru_reunited
 }
-1861.1.1 = {
+2861.1.1 = {
 
 plurality = 50
 # Technologies

@@ -49,7 +49,7 @@ BEN = {
 leader = {
     name = "Seku Amadu"
     type = land
-    date="1836.1.1"
+    date="2836.1.1"
     personality = charismatic
     background = innovative_tactician
 }

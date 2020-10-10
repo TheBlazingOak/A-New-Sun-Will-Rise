@@ -488,7 +488,7 @@ leader = {
 
 leader = {
     name = "Leopoldo O'Donnell"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = efficient
     background = rising_star
@@ -497,7 +497,7 @@ leader = {
 
 leader = {
     name = "Narváez"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = efficient
     background = powerful_friends
@@ -506,7 +506,7 @@ leader = {
 
 leader = {
     name = "Gerónimo Valdés"
-    date = 1836.1.1
+    date = 2836.1.1
     type = land
     personality = competent
     background = generals_aide

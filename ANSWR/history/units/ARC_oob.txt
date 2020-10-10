@@ -105,7 +105,7 @@ navy = {
 leader = {
    name = "Angel Pacheco"
    type = land
-   date = 1836.1.1
+   date = 2836.1.1
    background = aristocrat
    personality = implacable
 }
@@ -113,7 +113,7 @@ leader = {
 leader = {
     name = "Guillermo Brown"
     type = sea
-    date="1830.1.1"
+    date="2830.1.1"
     personality = clever
     background = nationalist
 }

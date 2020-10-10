@@ -13,14 +13,14 @@ COL = {
 leader = {
 	name = "John López"
     type = sea
-    date="1836.1.1"
+    date="2836.1.1"
     personality = heroic
     background = gifted_administrator
 }
 leader ={
 	name = "Alonso Forreste"
     type = land
-    date="1836.1.1"
+    date="2836.1.1"
     personality = soldierly
     background = adventurer
 }

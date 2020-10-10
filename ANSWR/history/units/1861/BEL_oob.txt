@@ -27,7 +27,7 @@ leader = {
 
 leader = {
     name = "L.M. Brialmont"
-    date = 1849.1.1
+    date = 2849.1.1
     type = land
     personality = doughty
     background = exranker
@@ -45,7 +45,7 @@ leader = {
 
 leader = {
     name = "Van der Linden"
-    date = 1859.1.1
+    date = 2859.1.1
     type = land
     personality = imperious
     background = yesman
@@ -54,7 +54,7 @@ leader = {
 
 leader = {
     name = "Auguste Goethals"
-    date = 1859.1.1
+    date = 2859.1.1
     type = land
     personality = diplomatic
     background = exranker
@@ -63,7 +63,7 @@ leader = {
 
 leader = {
     name = "Fleury-Duray"
-    date = 1861.1.1
+    date = 2861.1.1
     type = land
     personality = meticulous
     background = war_college

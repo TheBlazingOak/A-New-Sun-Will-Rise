@@ -66,6 +66,6 @@ modern_winemaking = yes
 #big_sail_support = yes
 
 oob = "SIK_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/SIK_oob.txt"
 }

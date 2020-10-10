@@ -4,4 +4,4 @@ add_core = ROU
 add_core = FRA
 trade_goods = grain
 life_rating = 31
-1861.1.1 = { railroad = 3 }
+2861.1.1 = { railroad = 3 }

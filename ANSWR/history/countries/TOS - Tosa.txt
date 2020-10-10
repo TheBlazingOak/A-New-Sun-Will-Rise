@@ -76,11 +76,11 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "TOS_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/TOS_oob.txt"
     set_country_flag = angered_by_bakufu
 }
-1861.1.1 = {
+2861.1.1 = {
 
 foreign_weapons = yes_foreign_weapons
 army_schools = yes_army_schools

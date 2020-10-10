@@ -1,7 +1,7 @@
 #tech_power
 piston_steam_engine = {
     area = tech_power
-    year = 1836
+    year = 2836
     cost = 3600
 
     activate_building =  fabric_factory
@@ -36,7 +36,7 @@ piston_steam_engine = {
         }
         modifier = {
             factor = 2
-            year = 1845
+            year = 2845
         }
         modifier = {
             factor = 1.5
@@ -54,7 +54,7 @@ piston_steam_engine = {
 }
 high_pressure_steam_engine = {
     area = tech_power
-    year = 1836
+    year = 2836
     cost = 7200
 
     rgo_goods_output = { coal = 0.05 }
@@ -80,7 +80,7 @@ high_pressure_steam_engine = {
         }
         modifier = {
             factor = 2
-            year = 1850
+            year = 2850
         }
         modifier = {
             factor = 2
@@ -106,7 +106,7 @@ high_pressure_steam_engine = {
 }
 compound_steam_engines = {
     area = tech_power
-    year = 1836
+    year = 2836
     cost = 10800
 
     rgo_goods_output = { coal = 0.1 }
@@ -132,7 +132,7 @@ compound_steam_engines = {
         }
         modifier = {
             factor = 2
-            year = 1865
+            year = 2865
         }
         modifier = {
             factor = 2
@@ -158,7 +158,7 @@ compound_steam_engines = {
 }
 steam_turbine = {
     area = tech_power
-    year = 1850
+    year = 2850
     cost = 14400
 
     rgo_goods_output = { coal = 0.15 }
@@ -196,7 +196,7 @@ steam_turbine = {
         }
         modifier = {
             factor = 2
-            year = 1880
+            year = 2880
         }
         modifier = {
             factor = 1.5
@@ -214,7 +214,7 @@ steam_turbine = {
 }
 combustion_engine = {
     area = tech_power
-    year = 1880
+    year = 2880
     cost = 18000
 
     rgo_goods_output = { coal = 0.15 }
@@ -240,7 +240,7 @@ combustion_engine = {
         }
         modifier = {
             factor = 2
-            year = 1900
+            year = 2900
         }
         modifier = {
             factor = 2
@@ -266,7 +266,7 @@ combustion_engine = {
 }
 electrical_power_generation = {
     area = tech_power
-    year = 1900
+    year = 2900
     cost = 21600
 
     rgo_goods_output = { coal = 0.15 }
@@ -318,7 +318,7 @@ electrical_power_generation = {
 #mechanization
 mechanical_production = {
     area = mechanization
-    year = 1836
+    year = 2836
     cost = 3600
 
     activate_building = regular_clothes_factory
@@ -357,7 +357,7 @@ mechanical_production = {
 }
 interchangeable_parts = {
     area = mechanization
-    year = 1836
+    year = 2836
     cost = 7200
 
     factory_throughput = 0.05
@@ -407,7 +407,7 @@ interchangeable_parts = {
 }
 semi_automatization = {
     area = mechanization
-    year = 1836
+    year = 2836
     cost = 10800
 
     factory_throughput = 0.05
@@ -468,7 +468,7 @@ semi_automatization = {
 }
 pneumatic_and_hydraulics = {
     area = mechanization
-    year = 1850
+    year = 2850
     cost = 14400
     factory_throughput = 0.1
     factory_cost = -0.1
@@ -506,7 +506,7 @@ pneumatic_and_hydraulics = {
 }
 assembly_line = {
     area = mechanization
-    year = 1870
+    year = 2870
     cost = 18000
     factory_throughput = 0.1
     factory_cost = -0.1
@@ -536,7 +536,7 @@ assembly_line = {
 }
 shift_work = {
     area = mechanization
-    year = 1900
+    year = 2900
     cost = 21600
 
 
@@ -572,7 +572,7 @@ shift_work = {
 
 hot_blast = {
     area = metallurgy
-    year = 1836
+    year = 2836
     cost = 3600
 
     activate_building = steel_factory
@@ -651,7 +651,7 @@ hot_blast = {
 
 mechanized_mining = {
     area = metallurgy
-    year = 1840
+    year = 2840
     cost = 7200
     rgo_goods_output = {
         iron = 0.3
@@ -766,7 +766,7 @@ mechanized_mining = {
 
 regenerative_furnaces = {
     area = metallurgy
-    year = 1850
+    year = 2850
     cost = 10800
 
     rgo_goods_output = {
@@ -861,7 +861,7 @@ regenerative_furnaces = {
 }
 drilling_and_blasting = {
     area = metallurgy
-    year = 1870
+    year = 2870
     cost = 14400
 
     rgo_goods_output = {
@@ -965,7 +965,7 @@ drilling_and_blasting = {
 }
 advanced_metallurgy = {
     area = metallurgy
-    year = 1890
+    year = 2890
     cost = 18000
 
     rgo_goods_output = {
@@ -1062,7 +1062,7 @@ advanced_metallurgy = {
 }
 electric_furnace = {
     area = metallurgy
-    year = 1905
+    year = 2905
     cost = 21600
 
     #factory_goods_output = {
@@ -1144,7 +1144,7 @@ electric_furnace = {
 #tech_infrastructure
 experimental_railroad = {
     area = tech_infrastructure
-    year = 1836
+    year = 2836
     cost = 3600
 
     activate_building = railroad
@@ -1180,7 +1180,7 @@ experimental_railroad = {
         modifier = {
             factor = 6
             is_greater_power = yes
-            year = 1845
+            year = 2845
         }
         modifier = {
             factor = 2
@@ -1194,7 +1194,7 @@ experimental_railroad = {
 }
 early_railroad = {
     area = tech_infrastructure
-    year = 1840
+    year = 2840
     cost = 7200
 
     max_railroad = 1
@@ -1222,7 +1222,7 @@ early_railroad = {
         modifier = {
             factor = 2
             is_greater_power = yes
-            year = 1855
+            year = 2845
         }
         modifier = {
             factor = 2
@@ -1240,7 +1240,7 @@ early_railroad = {
 }
 iron_railroad = {
     area = tech_infrastructure
-    year = 1850
+    year = 2850
     cost = 10800
 
     max_railroad = 1
@@ -1260,7 +1260,7 @@ iron_railroad = {
         modifier = {
             factor = 2
             is_greater_power = yes
-            year = 1865
+            year = 2865
         }
         modifier = {
             factor = 1.02
@@ -1274,7 +1274,7 @@ iron_railroad = {
 }
 steel_railroad = {
     area = tech_infrastructure
-    year = 1870
+    year = 2870
     cost = 14400
 
     max_railroad = 1
@@ -1287,7 +1287,7 @@ steel_railroad = {
         modifier = {
             factor = 2
             is_greater_power = yes
-            year = 1885
+            year = 2885
         }
         modifier = {
             factor = 1.1
@@ -1305,7 +1305,7 @@ steel_railroad = {
 }
 integral_rail_system = {
     area = tech_infrastructure
-    year = 1898
+    year = 2898
     cost = 18000
 
     max_railroad = 1
@@ -1318,7 +1318,7 @@ integral_rail_system = {
         modifier = {
             factor = 2
             is_greater_power = yes
-            year = 1905
+            year = 2905
         }
         modifier = {
             factor = 1.02
@@ -1369,7 +1369,7 @@ limited_access_roads = {
 #chemistry_and_electricity
 basic_chemistry = {
     area = chemistry_and_electricity
-    year = 1836
+    year = 2836
     cost = 3600
 
     activate_building = fertilizer_factory
@@ -1387,7 +1387,7 @@ basic_chemistry = {
 }
 medicine = {
     area = chemistry_and_electricity
-    year = 1836
+    year = 2836
     cost = 7200
 
     supply_limit = 0.25
@@ -1414,7 +1414,7 @@ medicine = {
 }
 inorganic_chemistry = {
     area = chemistry_and_electricity
-    year = 1836
+    year = 2836
     cost = 10800
 
     supply_limit = 0.25
@@ -1459,11 +1459,11 @@ inorganic_chemistry = {
         }
         modifier = {
             factor = 2
-            year = 1860
+            year = 2860
         }
         modifier = {
             factor = 2
-            year = 1870
+            year = 2870
         }
         modifier = {
             factor = 3
@@ -1477,7 +1477,7 @@ inorganic_chemistry = {
 }
 organic_chemistry = {
     area = chemistry_and_electricity
-    year = 1850
+    year = 2850
     cost = 14400
 
     supply_limit = 0.25
@@ -1498,11 +1498,11 @@ organic_chemistry = {
         }
         modifier = {
             factor = 2
-            year = 1875
+            year = 2875
         }
         modifier = {
             factor = 4
-            year = 1880
+            year = 2880
         }
         modifier = {
             factor = 2
@@ -1521,7 +1521,7 @@ organic_chemistry = {
 }
 electricity = {
     area = chemistry_and_electricity
-    year = 1870
+    year = 2870
     cost = 18000
 
     supply_limit = 0.50
@@ -1537,11 +1537,11 @@ electricity = {
         }
         modifier = {
             factor = 2
-            year = 1890
+            year = 2890
         }
         modifier = {
             factor = 4
-            year = 1900
+            year = 2900
         }
         modifier = {
             factor = 2
@@ -1560,7 +1560,7 @@ electricity = {
 }
 synthetic_polymers = {
     area = chemistry_and_electricity
-    year = 1900
+    year = 2900
     cost = 21600
 
     supply_limit = 0.50

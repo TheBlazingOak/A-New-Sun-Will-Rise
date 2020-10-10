@@ -3,8 +3,8 @@ graphical_culture = EuropeanGC
 
 party = {
     name = "BEL_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -18,8 +18,8 @@ party = {
 
 party = {
     name = "BEL_conservative"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -33,8 +33,8 @@ party = {
 
 party = {
     name = "BEL_socialist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -49,7 +49,7 @@ party = {
 party = {
     name = "BEL_conservative_2"
     start_date = 1892.1.1
-    end_date = 2000.1.1
+    end_date = 3000.1.1
 
     ideology = conservative
 
@@ -78,8 +78,8 @@ party = {
 
 party = {
     name = "BEL_reactionary"
-    start_date = 1820.1.1
-    end_date = 2000.1.1
+    start_date = 2820.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -93,8 +93,8 @@ party = {
 
 party = {
     name = "BEL_anarcho_liberal"
-    start_date = 1830.1.1
-    end_date = 2000.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = anarcho_liberal
 
@@ -108,8 +108,8 @@ party = {
 
 party = {
     name = "BEL_communist"
-    start_date = 1848.1.1
-    end_date = 2000.1.1
+    start_date = 2848.1.1
+    end_date = 3000.1.1
 
     ideology = communist
 
@@ -123,8 +123,8 @@ party = {
 
 party = {
     name = "BEL_fascist"
-    start_date = 1900.1.1
-    end_date = 2000.1.1
+    start_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = fascist
 

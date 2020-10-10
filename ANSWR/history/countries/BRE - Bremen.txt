@@ -83,13 +83,13 @@ consciousness = 3
 nonstate_consciousness = 1
 
 oob = "BRE_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/BRE_oob.txt"
     plurality = 60
     literacy = 0.90
     non_state_culture_literacy = 0.45
 }
-1861.1.1 = {
+2861.1.1 = {
 
 # Political reforms
     slavery = no_slavery

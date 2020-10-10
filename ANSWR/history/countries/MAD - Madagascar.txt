@@ -60,7 +60,7 @@ modern_winemaking = yes
 #big_sail_support = yes
 
 oob = "MAD_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/MAD_oob.txt"
     literacy = 0.05
     non_state_culture_literacy = 0.02

@@ -83,11 +83,11 @@ consciousness = 2
 nonstate_consciousness = 0
 
 oob = "BAD_oob.txt"
-1861.1.1 = {
+2861.1.1 = {
     oob = "/1861/BAD_oob.txt"
     plurality = 60
 }
-1861.1.1 = {
+2861.1.1 = {
 # Technologies
     post_napoleonic_thought = 1
     strategic_mobility = 1
