@@ -1,0 +1,119 @@
+# Audax Validator "!" Ignore_ALL
+country_event = {
+    id = 123456789
+    title = "EVTNAME60000" #debug
+    desc = "EVTDESC60000"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVTOPTA11001" #Liberal
+        random_owned = {
+            owner = {
+                upper_house = { ideology = liberal value = 0.8 }
+                any_pop = {
+                    scaled_militancy = {
+                        ideology = reactionary
+                        factor = 2
+                    }
+
+                    scaled_consciousness = {
+                        ideology = reactionary
+                        factor = 4
+                    }
+
+                    scaled_militancy = {
+                        ideology = liberal
+                        factor = -1
+                    }
+                }
+                clr_country_flag = dissolving_parliament
+            }
+        }
+    }
+
+    option = {
+        name = "EVTOPTB11001" #Reactionary
+        random_owned = {
+            owner = {
+                upper_house = { ideology = reactionary value = 0.8 }
+                any_pop = {
+                    scaled_militancy = {
+                        ideology = liberal
+                        factor = 2
+                    }
+
+                    scaled_consciousness = {
+                        ideology = liberal
+                        factor = 4
+                    }
+
+                    scaled_militancy = {
+                        ideology = reactionary
+                        factor = -1
+                    }
+                }
+                random_owned = {
+                    limit = { owner = { is_ideology_enabled = socialist } }
+                    owner = {
+                        any_pop = {
+                            scaled_militancy = {
+                                ideology = socialist
+                                factor = 2
+                            }
+                            scaled_consciousness = {
+                                ideology = socialist
+                                factor = 4
+                            }
+                        }
+                    }
+                }
+                clr_country_flag = dissolving_parliament
+            }
+        }
+    }
+
+    option = {
+        name = "EVTOPTC11001" #Socialists
+        random_owned = {
+            limit = {
+                owner = {
+                    is_ideology_enabled = socialist
+                }
+            }
+            owner = {
+                upper_house = {
+                    ideology = socialist
+                    value = 0.8
+                }
+                any_pop = {
+                    scaled_militancy = {
+                        ideology = liberal
+                        factor = 2
+                    }
+
+                    scaled_consciousness = {
+                        ideology = liberal
+                        factor = 4
+                    }
+
+                    scaled_militancy = {
+                        ideology = reactionary
+                        factor = 2
+                    }
+
+                    scaled_consciousness = {
+                        ideology = reactionary
+                        factor = 4
+                    }
+
+                    scaled_militancy = {
+                        ideology = socialist
+                        factor = -1
+                    }
+                }
+                clr_country_flag = dissolving_parliament
+            }
+        }
+    }
+}

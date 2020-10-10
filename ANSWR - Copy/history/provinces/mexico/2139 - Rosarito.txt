@@ -1,0 +1,6 @@
+owner = LOS
+controller = LOS
+add_core = LOS
+terrain = new_world_semidesert
+trade_goods = fruit
+life_rating = 32

@@ -1,0 +1,57 @@
+capital = 81
+primary_culture = cascadian
+religion = protestant
+government = presidential_dictatorship
+plurality = 0.5
+nationalvalue = nv_productivity
+literacy = 0.35
+civilized = no
+prestige = 1
+
+
+# Political reforms
+slavery = yes_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = landed_voting
+public_meetings = no_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = underground_parties
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+#New Reforms
+conscription = mandatory_service
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = quota_immigration
+
+set_country_flag = protestant_country
+
+ruling_party = COL_reactionary
+upper_house = {
+    fascist = 0
+    liberal = 15
+    conservative = 32
+    reactionary = 53
+    anarcho_liberal = 0
+    socialist = 0
+    communist = 0
+}
+
+set_country_flag = new_world_nation
+
+land_reform = yes_land_reform
+foreign_weapons = yes_foreign_weapons
+foreign_training = yes_foreign_training
+finance_reform = finance_reform_two
