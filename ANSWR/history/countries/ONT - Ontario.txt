@@ -1,7 +1,7 @@
 capital = 57
 primary_culture = anglo_canadian
 religion = protestant
-government = presidential_dictatorship
+government = hms_government
 plurality = 0.1
 nationalvalue = nv_order
 literacy = 0.65
@@ -10,7 +10,7 @@ civilized = yes
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = landed_voting
 public_meetings = yes_meeting
 press_rights = free_press
 trade_unions = no_trade_unions

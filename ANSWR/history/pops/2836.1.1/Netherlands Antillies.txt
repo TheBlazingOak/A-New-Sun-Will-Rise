@@ -40,7 +40,7 @@
     }
 
     slaves = {
-        culture = afro_latino
+        culture = amazonian
         religion = catholic
         size = 1900
     }
@@ -67,7 +67,7 @@
     }
 
     slaves = {
-        culture = afro_latino
+        culture = amazonian
         religion = catholic
         size = 1175
     }

@@ -38,7 +38,8 @@ CSK        ="countries/Cusco.txt"
 BWK        ="countries/Buliwya.txt"
 AMZ        ="countries/Amazon Provinces.txt"
 SJR        ="countries/Janeiro.txt"
-PTG        = "countries/Patagonia.txt"
+PTG        ="countries/Patagonia.txt"
+NUH        ="countries/Nuevo Hogar.txt"
 
 ##ANSWR Western Europe
 ANI        = "countries/Anglia.txt"

@@ -90,7 +90,6 @@ PROV3292;Lake Argyle;;;;;;;;;;;;x
 PROV3291;Lake Mackay;;;;;;;;;;;;x
 PROV3290;Lake Eyre;;;;;;;;;;;;x
 PROV3289;Lake Frome;;;;;;;;;;;;x
-PROV3288;Lake Torrens;;;;;;;;;;;;x
 PROV3287;Lake Gairdner;;;;;;;;;;;;x
 PROV3286;Songkhla Lake;;;;;;;;;;;;x
 PROV3285;Fagnano Lake;;;;;;;;;;;;x
@@ -254,7 +253,6 @@ PROV1071;Qeshm;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2786;Gulf of Oman;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2787;Hormuz Strait;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2664;Khasab;;;;;;;;;;;;;;;;;;;;;;;x
-PROV45;Marigot;;;;;;;;;;;;x
 PROV2236;Philipsburg;;;;;;;;;;;;x
 PEU_2297;Cusco;;;;;;;;;;;;x
 PROV2667;Batagay;;;;;;;;;;;;x
@@ -939,12 +937,10 @@ PROV3251;Lake of the Woods;;;;;;;;;;;x
 PROV3252;Lake Nipissing;;;;;;;;;;;x
 PROV3253;Lake Simcoe;;;;;;;;;;;x
 PROV3254;Lake Winnebago;;;;;;;;;;;x
-PROV3255;Iberá Lake;;;;;;;;;;;x
 PROV3256;Lake Saint-Jean;;;;;;;;;;;x
 PROV3257;Lake Manicouagan;;;;;;;;;;;x
 PROV3258;Lake Mistassini;;;;;;;;;;;x
 PROV3259;Lake Sakami;;;;;;;;;;;x
-PROV3260;Lobstick Lake;;;;;;;;;;;x
 PROV3261;Lake Bienville;;;;;;;;;;;x
 PROV3262;Clearwater Lakes;;;;;;;;;;;x
 PROV3263;Lake Qullinaaraaluk;;;;;;;;;;;x
@@ -960,7 +956,6 @@ PROV3272;Yathkyed Lake;;;;;;;;;;;x
 PROV3273;Baker Lake;;;;;;;;;;;x
 PROV3274;Schultz Lake;;;;;;;;;;;x
 PROV3275;Aberdeen Lake;;;;;;;;;;;x
-PROV3276;Clinton-Colden Lake;;;;;;;;;;;x
 PROV3277;Williston Lake;;;;;;;;;;;x
 PROV3278;Lake Okeechobee;;;;;;;;;;;x
 PROV3279;Lake Tuz;;;;;;;;;;;x
@@ -991,6 +986,10 @@ PROV3315;Segozero Isle;;;;;;;;;;;;x
 PROV3329;The Vkhod;;;;;;;;;;;;x
 PROV3330;The Split;;;;;;;;;;;;x
 PROV3331;The Russian Channel;;;;;;;;;;;;x
+PROV3255;Mar de Argentina;;;;;;;;;;;x
+PROV3288;Bahía de Guay;;;;;;;;;;;;x
+PROV3276;Amazonas Baía;;;;;;;;;;;x
+PROV3260;Estreito de Grão;;;;;;;;;;;x
 PROV2247;Bacatá;;;;;;;;;;;;x
 USA_2556;Carolingia Proper;;;;;;;;;;;;x
 PAW_166;Outer Illinois;;;;;;;;;;;;x
@@ -998,6 +997,13 @@ LOS_89;Greater Los Angeles Area;;;;;;;;;;;;x
 TEX_134;West Texas;;;;;;;;;;;;x
 CLM_2004;Old Taislas;;;;;;;;;;;;x
 MEX_2165;Chiapas;;;;;;;;;;;;x
+ARG_2355;La Isla de La Plata;;;;;;;;;;;;x
+BOL_2321;Tierra Interior;;;;;;;;;;;;x
+PRG_2338;Gracasa;;;;;;;;;;;;x
+PRG_2343;Viejo Paraguay;;;;;;;;;;;;x
+URU_2344;Nuevantrada;;;;;;;;;;;;x
+PROV2360;Lluvia Ciudad;;;;;;;;;;;;x
+PROV2348;Nueva Aires;;;;;;;;;;;;x
 PROV538;Osnabrugge;;;;;;;;;;;;x
 PROV581;Munster;;;;;;;;;;;;x
 PROV577;Kleef;;;;;;;;;;;;x
@@ -1025,3 +1031,4 @@ PROV370;Vlensburg;;;;;;;;;;;;x
 PROV535;Negenburg;;;;;;;;;;;;x
 PROV539;Breem;;;;;;;;;;;;x
 PROV45;Saguenay;;;;;;;;;;;;x
+PROV2357;Porlamar;;;;;;;;;;;;x
