@@ -13,7 +13,7 @@ country_event = {
 
     trigger = {
         NOT = { is_ideology_enabled = socialist  }
-        year = 1860
+        year = 2860
         civilized = yes
         literacy = 0.4
         OR = {
@@ -71,7 +71,7 @@ country_event = {
         NOT = {
             is_ideology_enabled = communist
         }
-        year = 1870
+        year = 2870
         civilized = yes
         literacy = 0.5
         OR = {
@@ -156,7 +156,7 @@ country_event = {
     trigger = {
         NOT = { is_ideology_enabled = anarcho_liberal }
         NOT = { has_global_flag = anarcho_liberals_disabled }
-        year = 1848
+        year = 2848
         civilized = yes
         literacy = 0.6
         OR = {
@@ -198,7 +198,7 @@ country_event = {
             great_wars_enabled = yes
             has_country_flag = dismantling_treaty
         }
-        year = 1900
+        year = 2900
         OR = {
             literacy = 0.65
             AND = {

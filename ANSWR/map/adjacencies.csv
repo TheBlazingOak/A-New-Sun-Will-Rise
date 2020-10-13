@@ -28,6 +28,24 @@ From;To;Type;Through;Data;Comment
 2219;2220;sea;2977;0;Bahamas-Turks & Caicos Strait
 2204;2206;sea;3001;0;Panama strait
 5;4;sea;3134;0;Aleutian Island-Dutch Harbor Strait
+2349;2350;sea;3255;0;Azul-Junin Strait
+2355;2393;sea;3255;0;Mar de Argentina
+2351;2344;sea;3255;0;Nuevantrada Strait
+2360;2363;sea;3255;0;Lluvia Agua Strait
+2362;2377;sea;3288;0;Reconquista-Anayuya Strait
+2356;2365;sea;3288;0;Corrientes-Villa Angela Strait
+2356;2366;sea;3288;0;Corrientes-Formosa Strait
+2412;2410;sea;3260;0;Obidos-Belem Strait
+1713;2204;sea;2968;0;Central American Strait
+141;142;land;3238;0;Shreveport to Lake Charles
+233;232;sea;2953;0;New York to Long Island
+85;104;sea;3009;0;Sonoma to San Fransico
+2185;2183;sea;2966;0;Yucatan Strait
+173;54;sea;3113;0;Detroit-Windsor
+177;51;sea;3116;0;Sault Ste Marie to Marquette
+56;239;sea;3112;0;Watertown to Kingston
+177;176;sea;3115;0;Marquette-Transverse City
+173;54;sea;3113;0;Detroit-Windsor
 
 #
 # African Straits

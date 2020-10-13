@@ -1217,7 +1217,7 @@ ENG_2132 = { 2132 2129 2130 } #South Atlantic Islands
 
 CHL_2322 = { 2324 2322 2323 2326 2325 } #Santiago
 
-CHL_2327 = { 2329 2327 2330 2331 2328 2391 2390 } #Los Rios
+CHL_2327 = { 2329 2327 2330 2331 2328 2390 } #Los Rios
 
 ARG_2355 = { 2355 2353 2354 2350 2351 2352 2349 2363 } #La Isla de La Plata
 
@@ -1233,7 +1233,7 @@ ARG_2384 = { 2383 2379 2386 } #Córdoba de Argentina
 
 ARG_2387 = { 2376 2377 2378 2362 } #Tucumán
 
-ARG_2391 = { 2392 2394 2396 2397 2332 } #Patagonia Septentrional
+ARG_2391 = { 2392 2394 2396 2397 2332 2391 } #Patagonia Septentrional
 
 ARG_2393 = { 2393 2395 2359 2384 2382 } #La Pampa
 

@@ -2,4 +2,5 @@ owner = NUH
 controller = NUH
 add_core = NUH
 trade_goods = cattle
+terrain = new_world_small_island
 life_rating = 31

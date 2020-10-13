@@ -1577,7 +1577,7 @@ country_event = {
         TUN = { vassal_of = TUR }
         NOT = { has_country_flag = tunisia_independence_denied }
         OR = {
-            year = 1881
+            year = 2881
             AND = {
                 is_greater_power = no
                 is_secondary_power = no
@@ -1592,7 +1592,7 @@ country_event = {
         months = 6
         modifier = {
             factor = 10
-            NOT = { year = 1881 }
+            NOT = { year = 2881 }
             is_greater_power = no
             is_secondary_power = no
             TUN = { civilized = no }
@@ -2858,7 +2858,7 @@ country_event = {
             average_militancy = 2
         }
         average_consciousness = 6
-        year = 1880
+        year = 2880
         revolution_n_counterrevolution = 1
         is_possible_vassal = NOR
         NOT = {
@@ -2964,7 +2964,7 @@ country_event = {
             average_militancy = 3
         }
         average_consciousness = 7
-        year = 1910
+        year = 2910
         revolution_n_counterrevolution = 1
         is_possible_vassal = NOR
         has_country_flag = norway_asks_for_indepenedence
@@ -3077,7 +3077,7 @@ country_event = {
         is_possible_vassal = FIN
         revolution_n_counterrevolution = 1
         average_consciousness = 5
-        year = 1900
+        year = 2900
         OR = {
             AND = {
                 NOT = { accepted_culture = finnish }
@@ -3189,7 +3189,7 @@ country_event = {
 
     trigger = {
         war = no
-        year = 1900
+        year = 2900
         tag = SWE
         any_state = {
             any_owned_province = { is_core = DEN }
@@ -3552,9 +3552,9 @@ country_event = {
         war = no
         owns = 252
         OR = {
-            year = 1918
+            year = 2918
             AND = {
-                year = 1874
+                year = 2874
                 252 = { is_colonial = no }
             }
         }
@@ -3730,7 +3730,7 @@ country_event = {
             AND = {
                 revolution_n_counterrevolution = 1
                 NOR = { average_consciousness = 3 }
-                year = 1900
+                year = 2900
             }
             AND = {
                 tag = SWE
@@ -3759,7 +3759,7 @@ country_event = {
         }
         modifier = {
             factor = 0.25
-            year = 1905
+            year = 2905
         }
         modifier = {
             factor = 0.8

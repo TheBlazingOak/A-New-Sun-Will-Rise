@@ -8,7 +8,7 @@ political_decisions = {
         }
 
         allow = {
-            year = 1857
+            year = 2857
             money = 1100
         }
 
@@ -24,7 +24,7 @@ political_decisions = {
         picture = an_elephant_for_america
         potential = {
             tag = SIA
-            year = 1861
+            year = 2861
             exists = USA
             NOT = {
                 has_country_flag = sent_an_elephant_to_america
@@ -138,14 +138,14 @@ political_decisions = {
             NOT = { has_global_flag = is_negusa_nagast }
             NOT = { has_country_flag = claimed_negusa_nagast }
             NOT = { has_country_flag = tewodros_rules }
-            year = 1852
+            year = 2852
         }
 
         allow = {
             OR = {
-                year = 1860
+                year = 2860
                 civilization_progress = 0.5
-                1852 = { owned_by = THIS province_control_days = 1825 }
+                2852 = { owned_by = THIS province_control_days = 1825 }
             }
         }
 
@@ -175,7 +175,7 @@ political_decisions = {
 
         allow = {
             war = no
-            owns = 1852
+            owns = 2852
             OR = {
                 GON = { exists = no }
                 tag = GON
@@ -231,7 +231,7 @@ political_decisions = {
             OR = {
                 tag = ETH
                 AND = {
-                    year = 1870
+                    year = 2870
                     OR = {
                         primary_culture = amhara
                         primary_culture = tigray
@@ -241,24 +241,24 @@ political_decisions = {
             }
             exists = yes
             NOT = { has_country_flag = conquest_of_the_south }
-            1864 = { empty = yes }
-            1866 = { empty = yes }
-            1867 = { empty = yes }
+            2864 = { empty = yes }
+            2866 = { empty = yes }
+            2867 = { empty = yes }
         }
 
         allow = {
             war = no
             OR = {
                 AND = {
-                    owns = 1860
-                    owns = 1861
+                    owns = 2860
+                    owns = 2861
                     owns = 1865
                 }
                 AND = {
-                    year = 1885
+                    year = 2885
                     OR = {
-                        owns = 1860
-                        owns = 1861
+                        owns = 2860
+                        owns = 2861
                         owns = 1865
                     }
                 }
@@ -272,7 +272,7 @@ political_decisions = {
                 }
                 civilization_progress = 0.4
                 civilized = yes
-                year = 1880
+                year = 2880
             }
         }
 
@@ -411,7 +411,7 @@ political_decisions = {
 
         allow = {
             enlightenment_thought = 1
-            year = 1860
+            year = 2860
         }
 
         effect = {
@@ -754,7 +754,7 @@ political_decisions = {
             OR = {
                 AND = {
                     tag = BSH
-                    year = 1860
+                    year = 2860
                 }
                 AND = {
                     tag = SUA

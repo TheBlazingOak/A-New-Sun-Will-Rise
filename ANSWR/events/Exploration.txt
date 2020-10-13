@@ -23,15 +23,15 @@ country_event = {
 
         modifier = {
             factor = 0.6
-            year = 1870
+            year = 2870
         }
         modifier = {
             factor = 0.6
-            year = 1875
+            year = 2875
         }
         modifier = {
             factor = 0.6
-            year = 1880
+            year = 2880
         }
     }
 
@@ -124,15 +124,15 @@ country_event = {
 
         modifier = {
             factor = 0.6
-            year = 1870
+            year = 2870
         }
         modifier = {
             factor = 0.6
-            year = 1874
+            year = 2874
         }
         modifier = {
             factor = 0.6
-            year = 1878
+            year = 2878
         }
     }
 
@@ -208,15 +208,15 @@ country_event = {
 
         modifier = {
             factor = 0.3
-            year = 1873
+            year = 2873
         }
         modifier = {
             factor = 0.6
-            year = 1874
+            year = 2874
         }
         modifier = {
             factor = 0.8
-            year = 1877
+            year = 2877
         }
     }
 
@@ -293,7 +293,7 @@ country_event = {
         }
         NOT = { has_global_flag = NileDiscovered }
         NOT = { has_country_flag = NoGoToNile }
-        year = 1870 # Will happen sometime after 1870
+        year = 2870 # Will happen sometime after 2870
     }
 
     mean_time_to_happen =  {
@@ -301,15 +301,15 @@ country_event = {
 
         modifier = {
             factor = 0.4
-            year = 1872
+            year = 2872
         }
         modifier = {
             factor = 0.7
-            year = 1874
+            year = 2874
         }
         modifier = {
             factor = 0.9
-            year = 1876
+            year = 2876
         }
 
         modifier = {
@@ -673,15 +673,15 @@ country_event = {
 
         modifier = {
             factor = 0.6
-            year = 1897
+            year = 2897
         }
         modifier = {
             factor = 0.6
-            year = 1899
+            year = 2899
         }
         modifier = {
             factor = 0.6
-            year = 1900
+            year = 2900
         }
     }
 
@@ -756,22 +756,22 @@ country_event = {
         has_country_flag = YesGoToNorthPole
         NOT = { has_global_flag = NorthPoleDiscovered }
         NOT = { has_country_flag = NoGoToNorthPole }
-        year = 1897 # Will happen sometime after 1897
+        year = 2897 # Will happen sometime after 2897
     }
 
     mean_time_to_happen = {
         months = 12
         modifier = {
             factor = 0.6
-            year = 1898
+            year = 2898
         }
         modifier = {
             factor = 0.6
-            year = 1900
+            year = 2900
         }
         modifier = {
             factor = 0.6
-            year = 1904
+            year = 2904
         }
     }
 
@@ -837,7 +837,7 @@ country_event = {
         has_country_flag = YesGoToNorthPoleAgain
         NOT = { has_global_flag = NorthPoleDiscovered }
         NOT = { has_country_flag = NoGoToNorthPole }
-        year = 1899 # Will happen sometime after 1899
+        year = 2899 # Will happen sometime after 2899
     }
 
     mean_time_to_happen = {
@@ -845,15 +845,15 @@ country_event = {
 
         modifier = {
             factor = 0.3
-            year = 1900
+            year = 2900
         }
         modifier = {
             factor = 0.6
-            year = 1902
+            year = 2902
         }
         modifier = {
             factor = 0.8
-            year = 1905
+            year = 2905
         }
     }
 
@@ -926,7 +926,7 @@ country_event = {
         }
         NOT = { has_global_flag = NorthPoleDiscovered }
         NOT = { has_country_flag = NoGoToNorthPole }
-        year = 1900 # Will happen sometime after 1900
+        year = 2900 # Will happen sometime after 2900
     }
 
     mean_time_to_happen =  {
@@ -934,15 +934,15 @@ country_event = {
 
         modifier = {
             factor = 0.4
-            year = 1902
+            year = 2902
         }
         modifier = {
             factor = 0.7
-            year = 1905
+            year = 2905
         }
         modifier = {
             factor = 0.9
-            year = 1908
+            year = 2908
         }
     }
 
@@ -979,15 +979,15 @@ country_event = {
 
         modifier = {
             factor = 0.6
-            year = 1908
+            year = 2908
         }
         modifier = {
             factor = 0.6
-            year = 1910
+            year = 2910
         }
         modifier = {
             factor = 0.6
-            year = 1912
+            year = 2912
         }
     }
 
@@ -1062,7 +1062,7 @@ country_event = {
         has_country_flag = YesGoToSouthPole
         NOT = { has_global_flag = SouthPoleDiscovered }
         NOT = { has_country_flag = NoGoToSouthPole }
-        year = 1908 # Will happen sometime after 1908
+        year = 2908 # Will happen sometime after 2908
     }
 
     mean_time_to_happen =  {
@@ -1070,15 +1070,15 @@ country_event = {
 
         modifier = {
             factor = 0.6
-            year = 1909
+            year = 2909
         }
         modifier = {
             factor = 0.6
-            year = 1910
+            year = 2910
         }
         modifier = {
             factor = 0.6
-            year = 1911
+            year = 2911
         }
     }
 
@@ -1144,7 +1144,7 @@ country_event = {
         has_country_flag = YesGoToSouthPoleAgain
         NOT = { has_global_flag = SouthPoleDiscovered }
         NOT = { has_country_flag = NoGoToSouthPole }
-        year = 1910 # Will happen sometime after 1910
+        year = 2910 # Will happen sometime after 2910
     }
 
     mean_time_to_happen =  {
@@ -1152,15 +1152,15 @@ country_event = {
 
         modifier = {
             factor = 0.3
-            year = 1911
+            year = 2911
         }
         modifier = {
             factor = 0.6
-            year = 1912
+            year = 2912
         }
         modifier = {
             factor = 0.8
-            year = 1913
+            year = 2913
         }
     }
 
@@ -1233,7 +1233,7 @@ country_event = {
         }
         NOT = { has_global_flag = SouthPoleDiscovered }
         NOT = { has_country_flag = NoGoToSouthPole }
-        year = 1910 # Will happen sometime after 1910
+        year = 2910 # Will happen sometime after 2910
     }
 
     mean_time_to_happen =  {
@@ -1241,15 +1241,15 @@ country_event = {
 
         modifier = {
             factor = 0.4
-            year = 1912
+            year = 2912
         }
         modifier = {
             factor = 0.7
-            year = 1913
+            year = 2913
         }
         modifier = {
             factor = 0.9
-            year = 1914
+            year = 2914
         }
     }
 
@@ -1309,7 +1309,7 @@ country_event = {
         has_country_flag = YesGoToSouthPole
         NOT = { has_global_flag = SouthPoleDiscovered }
         NOT = { has_country_flag = NoGoToSouthPole }
-        year = 1908 # Will happen sometime after 1908
+        year = 2908 # Will happen sometime after 2908
     }
 
     mean_time_to_happen =  {
