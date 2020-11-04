@@ -412,7 +412,7 @@ province;red;green;blue;x;x
 411;176;128;224;Nancy;x
 412;240;192;160;Metz;x
 413;112;191;160;Verdun;x
-414;48;128;224;Epinal;x
+414;48;129;224;Epinal;x
 415;144;32;192;Rouen;x
 416;176;96;128;Evreux;x
 417;16;32;192;Alencon;x
@@ -465,12 +465,12 @@ province;red;green;blue;x;x
 464;16;96;192;Perpignan;x
 465;107;75;164;Annency;x
 466;208;0;224;Chambery;x
-467;49;192;223;Marseilles;x
+467;49;192;123;Marseilles;x
 468;176;192;224;Avignon;x
 469;176;64;224;Digne;x
 470;48;64;224;Toulon;x
 471;176;192;96;Frejus;x
-472;80;128;224;Nice;x
+472;80;130;224;Nice;x
 473;239;64;32;Corsica;x
 474;208;224;64;La Coruna;x
 475;80;96;192;Oviedo;x
@@ -3290,7 +3290,7 @@ province;red;green;blue;x;x
 3289;0;4;255;Lake Frome;x
 3290;0;5;255;Lake Eyre;x
 3291;0;6;255;Lake Mackay;x
-3292;0;7;255;Lake Argyle;x
+3292;75;117;255;Lake Argyle;x
 3293;0;8;255;Lake Rukwa;x
 3294;0;9;255;Lake Mweru;x
 3295;0;10;255;Taihu Lake;x
@@ -3313,10 +3313,10 @@ province;red;green;blue;x;x
 3312;0;26;255;Lake Hjalmaren;x
 3313;0;27;255;Lake Siljan;x
 3314;0;28;255;Lake Storsjon;x
-3315;0;29;255;Segozero Isle;x
-3316;0;30;255;Lake Oulujarvi;x
+3315;120;60;255;Segozero Isle;x
+3316;120;130;255;Lake Oulujarvi;x
 3317;0;31;255;Lake Päijänne;x
-3318;0;32;255;Lake Saimaa;x
+3318;25;155;255;Lake Saimaa;x
 3319;1;129;178;Vahitahi;x
 3320;1;129;179;Vairaatea;x
 3321;1;129;180;Nukutavake;x
