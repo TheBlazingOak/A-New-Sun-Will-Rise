@@ -1,12 +1,6 @@
-owner = MOD
-controller = MOD
-add_core = MOD
-add_core = ITA
+owner = PAR
+controller = PAR
+add_core = PAR
 trade_goods = timber
 life_rating = 35
 naval_base = 1
-2861.1.1 = {
-    controller = ITA
-    owner = ITA
-    add_core = ITA
-}

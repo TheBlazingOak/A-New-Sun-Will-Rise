@@ -10,10 +10,10 @@ literacy = 0.70
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 75
+prestige = 150
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = wealth_weighted_voting
 public_meetings = yes_meeting
@@ -32,7 +32,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # New Reforms
-conscription = two_year_draft
+conscription = one_year_draft
 debt_law = debtors_prisons
 penal_system = capital_punishment
 child_labor = child_labor_legal

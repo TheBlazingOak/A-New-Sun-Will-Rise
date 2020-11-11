@@ -6,7 +6,7 @@
 2286 = {
 
     farmers = {
-        culture = fortalceirei
+        culture = fortaleceirei
         religion = catholic
         size = 700
     }
@@ -1212,16 +1212,17 @@
 #Tacna (100000/25000 POPS)
 2578 = {
     aristocrats = {
-        culture = quechua    farmers = {
         culture = quechua
-        religion = catholic
-        size = 11100
-    }
-
         religion = catholic
         size = 550
     }
 
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 11100
+    }
+    
     bureaucrats = {
         culture = quechua
         religion = catholic
@@ -1380,7 +1381,7 @@
 #Zamora (176000/44000 POPS)
 2283 = {
     aristocrats = {
-        culture = quecha
+        culture = quechua
         religion = catholic
         size = 90
     }

@@ -1,4 +1,4 @@
-color = { 190  50  40 }
+color = { 5  109  150 }
 graphical_culture = EuropeanGC
 
 party = {
@@ -18,7 +18,7 @@ party = {
 
 party = {
     name = "ALS_conservative"
-    start_date = 1878.1.1
+    start_date = 2878.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -49,7 +49,7 @@ party = {
 party = {
     name = "ALS_socialist"
     start_date = 2860.1.1
-    end_date = 1875.1.1
+    end_date = 2875.1.1
 
     ideology = socialist
 

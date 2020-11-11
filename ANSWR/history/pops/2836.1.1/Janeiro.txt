@@ -175,7 +175,7 @@
     }
 
     farmers = {
-        culture = fortalceirei
+        culture = fortaleceirei
         religion = catholic
         size = 400
     }

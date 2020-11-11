@@ -1979,13 +1979,13 @@
 2423 = {
 
     soldiers = {
-        culture = fortalceirei
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = fortalceirei
+        culture = fortaleceirei
         religion = catholic
         size = 1900
     }
@@ -2055,7 +2055,7 @@
     }
 
     farmers = {
-        culture = fortalceirei
+        culture = fortaleceirei
         religion = catholic
         size = 900
     }  
@@ -2082,7 +2082,7 @@
     }
 
     farmers = {
-        culture = fortalceirei
+        culture = fortaleceirei
         religion = catholic
         size = 900
     }

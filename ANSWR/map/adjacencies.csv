@@ -188,36 +188,6 @@ From;To;Type;Through;Data;Comment
 1208;1594;impassable;0;0;scary mountain
 
 #Alps
-
-#727;735;impassable;0;0;Bergamo-Bozen
-#727;734;impassable;0;0;Bergamo-Trent
-#732;735;impassable;0;0;Treviso-Bozen
-#732;615;impassable;0;0;Treviso-Lienz
-#732;618;impassable;0;0;Treviso-Klagenfurth
-#733;618;impassable;0;0;Udine-Klagenfurt
-2669;735;impassable;0;0;Sondrio-Bozen
-2669;734;impassable;0;0;Sondrio-Trent
-2669;611;impassable;0;0;Sondrio-Chur
-2669;2568;impassable;0;0;Sondrio-Lugano
-8;734;impassable;0;0;Belluno-Trent
-8;735;impassable;0;0;Belluno-Bozen
-8;615;impassable;0;0;Belluno-Lienz
-8;618;impassable;0;0;Belluno-Klagenfurt
-#727;611;impassable;0;0;Bergamo-Chur
-#727;2568;impassable;0;0;Bergamo-Lugano
-722;605;impassable;0;0;Novara-Bern
-2568;722;impassable;0;0;Lugano-Novara
-609;722;impassable;0;0;Sitten-Novara
-606;722;impassable;0;0;Lucerne-Novara
-
-#Alaskan Panhandle
-
-2;6;impassable;0;0;
-2;17;impassable;0;0;
-1;15;impassable;0;0;
-1;16;impassable;0;0;
-1;17;impassable;0;0;
-
 #Siberia
 
 2687;2682;impassable;0;0;Northern urals

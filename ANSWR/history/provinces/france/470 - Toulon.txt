@@ -1,10 +1,5 @@
-owner = PRV
-controller = PRV
-add_core = PRV
-trade_goods = silk
-life_rating = 32
-naval_base = 2
-2861.1.1 = {
-    railroad = 3
-    naval_base = 3
-}
+owner = NET
+controller = NET
+add_core = NET
+trade_goods = coal
+life_rating = 33

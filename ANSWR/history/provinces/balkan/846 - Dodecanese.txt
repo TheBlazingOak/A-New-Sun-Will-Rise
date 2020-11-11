@@ -1,7 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = GRE
+owner = SWI
+controller = SWI
+add_core = SWI
+add_core = SVY
 trade_goods = grain
-life_rating = 35
-terrain = small_island
+life_rating = 33
