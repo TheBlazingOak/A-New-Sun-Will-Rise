@@ -1,5 +1,6 @@
-owner = OCC
-controller = OCC
-add_core = OCC
+owner = PRV
+controller = PRV
+add_core = PRV
 trade_goods = cattle
-life_rating = 32
+life_rating = 31
+2861.1.1 = { railroad = 3 }

@@ -1,7 +1,8 @@
-owner = SWI
-controller = SWI
-add_core = SWI
-add_core = SVY
+owner = PAP
+controller = PAP
+add_core = PAP
+add_core = RMG
+add_core = ITA
 trade_goods = grain
 life_rating = 35
 2861.1.1 = {

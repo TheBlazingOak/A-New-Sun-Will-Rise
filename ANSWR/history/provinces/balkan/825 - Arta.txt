@@ -1,6 +1,5 @@
-owner = SWI
-controller = SWI
-add_core = SWI
-add_core = SAV
+owner = GRE
+controller = GRE
+add_core = GRE
 trade_goods = wool
-life_rating = 32
+life_rating = 35

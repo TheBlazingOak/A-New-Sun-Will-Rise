@@ -678,6 +678,8 @@ AKH_anarcho_liberal;The Libertains;Faction radicale;Die radikale Fraktion;;;;;;;
 AKH_socialist;The Socialists;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;
 AKH_communist;The Communists;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;
 AKH_fascist;The Mongolian Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;
+ALS;Elsass;;;;;;;;;;;;;
+ALS_ADJ;Alsatian ;;;;;;;;;;;;;
 ALS_liberal;Liberaldem. Partei;Liberaldem. Partei;Liberaldem. Partei;;;;;;;;;;;
 ALS_conservative;Zentrumspartei;Zentrumspartei;Zentrumspartei;;;;;;;;;;;
 ALS_liberal_2;Nationalliberale ;Nationalliberale ;Nationalliberale ;;;;;;;;;;;
@@ -685,7 +687,7 @@ ALS_socialist;Deutscher Arbeiterverein;Deutscher Arbeiterverein;Deutscher Arbeit
 ALS_reactionary;Nationale Partei;Nationale Partei;Nationale Partei;;;;;;;;;;;
 ALS_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbeiterpartei;;;;;;;;;;;
 ALS_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;;;;;
-ALS_fascist;FNAP;NSDP;NSDP;;;;;;;;;;;
+ALS_fascist;NSDP;NSDP;NSDP;;;;;;;;;;;
 ALT;Altai Republic;;;;;;;;;;;;;
 ALT_absolute_monarchy;Altai Union;;;;;;;;;;;;;
 ALT_hms_government;Altai Union;;;;;;;;;;;;;
@@ -3232,7 +3234,6 @@ PRP_presidential_dictatorship;Parinia;;;;;;;;;;;;;,,
 PRP_bourgeois_dictatorship;Parinia;;;;;;;;;;;;;,,
 PRP_fascist_dictatorship;Parinia;;;;;;;;;;;;;,,
 SWI;Schweiz;;;;;;;;;;;;;,,
-SWI_democracy;Schweiz-Pakt;;;;;;;;;;;;;,,
 SWI_ADJ;Swiss;;;;;;;;;;;;;,,
 BOH;Bohemia;;;;;;;;;;;;;,,
 BOH_ADJ;Czech;;;;;;;;;;;;;,,
@@ -3379,5 +3380,3 @@ NUH;Nuevo Hogar;;;;;;;;;;;;;,,
 NUH_ADJ;Nuevo Hoganos;;;;;;;;;;;;;,,
 HAI;Haitia;;;;;;;;;;;;;,,
 HAI_ADJ;Haitien;;;;;;;;;;;;;,,
-ALS;Elsàss-Lothrìnga;;;;;;;;;;;;;
-ALS_ADJ;Elsässisch;;;;;;;;;;;;;

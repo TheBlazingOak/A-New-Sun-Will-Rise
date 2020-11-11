@@ -1,6 +1,12 @@
-owner = SWI
-controller = SWI
-add_core = SWI
-add_core = SVY
+owner = TUS
+controller = TUS
+add_core = TUS
+add_core = ITA
 trade_goods = iron
-life_rating = 33
+life_rating = 31
+terrain = small_island
+2861.1.1 = {
+    controller = ITA
+    owner = ITA
+    remove_core = TUS
+}

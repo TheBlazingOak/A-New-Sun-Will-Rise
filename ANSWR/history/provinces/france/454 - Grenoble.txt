@@ -1,7 +1,6 @@
-owner = SWI
-controller = SWI
-add_core = SWI
-add_core = SVY
+owner = PRV
+controller = PRV
 add_core = PRV
 trade_goods = wool
 life_rating = 31
+2861.1.1 = { railroad = 3 }

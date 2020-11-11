@@ -169,10 +169,6 @@ NET_379 = { 379 378 380 381 } #Zeeland
 
 NET_385 = { 385 383 384 386 400 } #Friesland
 
-HAN_540 = { 539 540 543 542 541 1743 470 } #East Friesland
-
-PRU_575 = { 575 576 577 572 397 396 471 } #Rheinland
-
 BEL_387 = { 387 388 389 390 391 399 } #Flanders
 
 BEL_394 = { 394 392 393 395 398 } #Wallonia
@@ -204,15 +200,20 @@ FRA_442 = { 442 444 443 437 } #Poitou
 
 FRA_445 = { 445 446 447 } #Limousin
 
-FRA_448 = { 448 449 430 } #Auvergne
+FRA_448 = { 448 449 450 430 } #Auvergne
 
-FRA_451 = { 451 452 453 431 467 } #Rhone
+FRA_451 = { 451 452 453 431 } #Rhone
 
-FRA_455 = { 455 461 462 463 468} #Le Midi
+FRA_455 = { 455 457 456 } #Le Midi
 
-FRA_458 = { 458 459 456 450 } #Aquitaine
+FRA_458 = { 458 459 460 } #Aquitaine
 
-FRA_461 = { 457 464 460 } #Languedoc
+FRA_461 = { 461 462 463 464 } #Languedoc
+
+SAR_466 = { 465 466 472 } #Savoie
+
+FRA_467 = { 467 468 469 470 471 454 } #Provence
+
 
 ### Spain & Portugal
 
@@ -243,11 +244,13 @@ POR_525 = { 525 526 527 } #Alentejo
 POR_2134 = { 2134 2135 2136 } #Macaronesia
 
 
-### Germany
+### Germany & Switzerland
 
 HAN_528 = { 528 531 532 535 } #Lower Elbe
 
 HAN_534 = { 534 536 537 585 } #Hannover
+
+HAN_540 = { 539 540 543 542 541 1743 } #East Friesland
 
 PRU_544 = { 544 545 547 548 } #Mecklenburg
 
@@ -265,6 +268,8 @@ HES_2560 = { 564 565 566 567 568 2560 } #Hessen
 
 PRU_570 = { 570 573 574 571 } #Palatinate
 
+PRU_575 = { 575 576 577 572 397 396 } #Rheinland
+
 PRU_578 = { 578 579 2561 583 } #Eastern Rheinland
 
 PRU_581 = { 580 581 582 584 538 } #Westfalen
@@ -276,6 +281,10 @@ WUR_589 = { 589 590 591 593 594 } #Wurttemburg
 BAV_595 = { 595 596 597 598 } #Franconia
 
 BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
+
+SWI_603 = { 603 606 611 2568 605 604 } #East-Switzerland
+
+SWI_607 = { 607 608 609 432 433 } #West-Switzerland
 
 PRU_682 = { 682 683 684 685 } #Silesia
 
@@ -318,9 +327,13 @@ AUS_662 = { 702 951 952 953} #East Galicia
 
 RUS_715 = { 715 711 713 716 } #West Galicia
 
+AUS_726 = { 726 727 728 2669 } #Lombardia
+
 AUS_733 = { 736 737 } #Friuli
 
-AUS_734 = { 734 735 732 733 8 } #South Tirol
+AUS_729 = { 729 730 731 732 733 8 } #Venetia
+
+AUS_734 = { 734 735 } #South Tirol
 
 AUS_736 = { 769 770 778 } #Istria
 
@@ -334,26 +347,16 @@ AUS_780 = { 780 781 782 774 } #Dalmatia
 
 AUS_2538 = { 2538 791 792 } #Vojvodina
 
-###Switzerland
-
-
-SWI_603 = { 603 606 611 2568 605 604 } #East-Switzerland
-
-SWI_607 = { 607 608 609 432 433 } #West-Switzerland
-
-SAR_720 = { 720 723 724 725 726 } #Piemonte
-
-FRA_467 = { 465 466 472 469 454 } #Provence
-
-AUS_726 = { 727 2669 728 721 825 1981 722 729 730 } #Lombardia
-
-#MOD_739 = { 739 738 740 731 } #Emilia
 
 ### Italy
 
-TUS_744 = { 744 745 746 747 748 } #Tuscany
+SAR_720 = { 720 721 722 723 724 725 } #Piemonte
 
-PAP_741 = { 741 743 739 738 740 } #Emilia-Romagna
+#MOD_739 = { 739 738 740 } #Emilia
+
+TUS_744 = { 744 745 746 747 748 1981 } #Tuscany
+
+PAP_741 = { 741 742 743 739 738 740 } #Emilia-Romagna
 
 PAP_752 = { 749 752 750 751 } #Lazio
 
@@ -396,11 +399,11 @@ TUR_823 = { 823 829 830 } #Eastern Macedonia
 
 GRE_826 = { 834 842 839 840 841 } #Peloponnese
 
-TUR_832 = { 832 831 833 824 826 } #Thessalia
+TUR_832 = { 832 831 833 825 824 826 } #Thessalia
 
 GRE_837 = { 837 836 835 838 845 827 } #Attica - Central Greece
 
-EGY_843 = { 848 843 844 847 } #Aegean Islands
+EGY_843 = { 848 843 844 846 847 } #Aegean Islands
 
 TUR_853 = { 849 853 852 851 850 } #Albania
 
@@ -1245,7 +1248,7 @@ ENG_2476 = { 2476 2477 2478 2479 2480 2481 2482 } #Victoria
 
 ENG_2483 = { 2483 2484 2485 2486 2487 2488 2489 2490 2604 } #Queensland
 
-ENG_2491 = { 2491 2492 2493 2494 2495 2496  742 846 } #South Australia
+ENG_2491 = { 2491 2492 2493 2494 2495 2496 } #South Australia
 
 ENG_2497 = { 2497 2498 2499 2500 2501 2502 2503 2504 2601 2602 2605 } #Western Australia
 

@@ -9,6 +9,3 @@ you want to put the mod files.
 
 Thank you so much for downloading my mod, it means a lot.
   - Oak
-
-Credits:
-Anon the creator of the Cool Map Mod and the Square Shaded Flag Frame Mod

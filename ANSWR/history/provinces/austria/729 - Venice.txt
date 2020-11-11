@@ -1,12 +1,18 @@
-owner = SWI
-controller = SWI
-add_core = SWI
-add_core = PAR
+owner = AUS
+controller = AUS
+add_core = VEN
 trade_goods = fish
 life_rating = 40
 naval_base = 1
-state_building = {
+#state_building = {
+#    level = 1
+#    building = glass_factory
+#    upgrade = yes
+#}
+2861.1.1 = {
+    state_building = {
     level = 1
     building = glass_factory
     upgrade = yes
+    }
 }
