@@ -63,7 +63,7 @@ party = {
 
 party = {
     name = "SER_conservative_3"
-    start_date = 1878.1.1
+    start_date = 2878.1.1
     end_date = 3000.1.1
 
     ideology = conservative

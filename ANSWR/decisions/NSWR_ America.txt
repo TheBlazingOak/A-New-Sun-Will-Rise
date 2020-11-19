@@ -6,10 +6,8 @@ political_decisions = {
 		potential = {
 			exists = MRU
 			primary_culture = yankee
-				OR = {
-				exists = MRU
-				primary_culture = french_canadian
-					}
+				OR = { primary_culture = french_canadian }
+				OR = { primary_culture = anglo_canadian }
 			}
 
 		allow = {
@@ -26,6 +24,9 @@ political_decisions = {
 	dc_excavation = {
 		potential = {
 		is_culture_group = american_cultures
+		NOT = { has_country_modifier = quest_for_washington 
+			OR = { has_global_flag = quest_for_washington }
+			}
 		}
 
 		allow = {
@@ -41,13 +42,11 @@ political_decisions = {
 
 		effect = {
 			prestige = 10
-			random_country = {
-			limit = {
-			is_culture_group = american_cultures
-			tag = THIS
+			add_country_modifier = {
+			name = quest_for_washington
+			duration = 3650
 			}
-			country_event = { id=52009 days=256}
-			}
+			set_global_flag = quest_for_washington
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -56,8 +55,12 @@ political_decisions = {
 	the_statue = {
 		potential = {
 		    is_culture_group = american_cultures
-		    owns = 232
-		    NOT = { has_global_flag = statue_of_liberty_has_been_built }
+		    owns = 232 #New York
+		    NOT = { 
+		    	has_global_flag = statue_of_liberty_has_been_built
+		    		OR = { has_country_flag = statue_of_liberty_start }
+		    		OR = { has_country_flag = statue_liberty_fail }
+		    }
 		}
 
 		allow = {
@@ -67,7 +70,7 @@ political_decisions = {
 
 		effect = {
 			prestige = 10
-			THIS = { country_event = { id=52008 days = 365 } }
+			set_country_flag = statue_of_liberty_start
 			}
 		ai_will_do = { factor = 1 }
 	}
@@ -78,7 +81,9 @@ political_decisions = {
 		   	is_culture_group = american_cultures
 			owns = 232 #New York
 			has_country_flag = statue_plans_discovered
-			NOT = { has_global_flag = statue_of_liberty_has_been_built }
+				NOT = { has_global_flag = statue_of_liberty_has_been_built 
+				OR = { has_country_flag = statue_liberty_fail }
+				}
 			}
 
 		allow = {
@@ -90,7 +95,7 @@ political_decisions = {
 
 		effect = {
 			money = -500000
-			THIS = { country_event = { id=52010 days=1500 } } #Event to finish Statue 
+			set_country_flag = statue_final_step 
 			}
 		ai_will_do = { factor = 1 }
 	}

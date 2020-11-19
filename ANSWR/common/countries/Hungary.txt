@@ -4,7 +4,7 @@ graphical_culture = AustriaHungaryGC
 party = {
     name = "HUN_liberal"
     start_date = 2830.1.1
-    end_date = 1875.1.1
+    end_date = 2875.1.1
 
     ideology = liberal
 
@@ -33,7 +33,7 @@ party = {
 
 party = {
     name = "HUN_liberal_2"
-    start_date = 1875.1.1
+    start_date = 2875.1.1
     end_date = 3000.1.1
 
     ideology = liberal

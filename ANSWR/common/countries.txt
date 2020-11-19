@@ -59,6 +59,11 @@ AUV        = "countries/Auvergne.txt"
 FRE        = "countries/Union of France.txt"
 VLA        = "countries/Flanspublic.txt"
 
+##ANSWR Central Europe
+APU        = "countries/Apulia.txt"
+CRV        = "countries/Craiova.txt"
+DEV        = "countries/Deva.txt"
+
 ##HPM
 PNK        ="countries/Pontianak.txt"
 GHN        ="countries/Ghana.txt"

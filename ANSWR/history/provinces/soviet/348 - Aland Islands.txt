@@ -1,8 +1,7 @@
-owner = FIN
-controller = FIN
-add_core = FIN
+owner = VLA
+controller = VLA
+add_core = VLA
 trade_goods = fish
 life_rating = 35
 fort = 1
-naval_base = 2
-terrain = small_island
+naval_base = 1

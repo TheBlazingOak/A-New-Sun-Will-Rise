@@ -4,31 +4,33 @@ country_event = {
 	title = "EVTNAME52008" #First step in Statue of Liberity construction
     desc = "EVTDESC52008"
     picture = hudson_river
-    is_triggered_only = yes
     fire_only_once = yes
+
+	mean_time_to_happen = { months = 36 }
+
+    trigger = {
+    has_country_flag = statue_of_liberty_start
+    owns = 232
+    }
 
     option = {
     	name = "EVT52008OPTA" #Option for step two
     	effect = {
-    	money = 50000
-    	any_country = {
-		limit = {
-		tag = THIS
-
-		}
-		country_event = { id=52009 days = 730 }
-		}
+    	money = 100000
+ 		set_country_flag = liberty_part_two
     	}
     	ai_chance = {
-            factor = 95
+            factor = 99
         }
     }
     option = {
     	name = "EVT52008OPTB" #Fail the reconstruction
     	effect = {
+    	remove_country_flag = statue_of_liberty_start
+    	set_country_flag = statue_liberty_fail
     	}
     	ai_chance = {
-            factor = 5
+            factor = 1
         }
     }
 }
@@ -38,8 +40,14 @@ country_event = {
 	title = "EVTNAME52009" #Second step in Statue of Liberty construction
     desc = "EVTDESC52009"
     picture = hudson_river
-    is_triggered_only = yes
     fire_only_once = yes
+
+	mean_time_to_happen = { months = 24 }
+
+    trigger = {
+    has_country_flag = liberty_part_two
+    owns = 232
+    }
 
     option = {
     	name = "EVT52009OPTA" #Option for Final Step
@@ -57,6 +65,8 @@ country_event = {
     	name = "EVT52009OPTB" #Give up
     	effect = {
     	prestige = -5
+    	   remove_country_flag = statue_of_liberty_start
+    	set_country_flag = statue_liberty_fail
     	}
     	ai_chance = {
             factor = 15
@@ -69,8 +79,13 @@ country_event = {
 	title = "EVTNAME52010" #Final construction event
     desc = "EVTDESC52010"
     major = yes
-    is_triggered_only = yes
     fire_only_once = yes
+
+	mean_time_to_happen = { months = 60 }
+
+    trigger = {
+    has_country_flag = statue_final_step 
+    }
 
     option = {
     	name = "EVT52009OPTA" #Statue of Liberity complete
@@ -169,6 +184,10 @@ country_event = {
             factor = 1.25
             money = 250000
         		}
+        modifier = {
+            factor = 3
+            has_country_modifier = new_american_national_identity
+        		}
 			}
 		}
 
@@ -187,11 +206,15 @@ country_event = {
 		ai_chance = {
 		chance = 25
  		modifier = {
-            factor = 1.50
+            factor = 2
             NOT = {
             money = 250000
             		}
-        		}
+        }
+        modifier = {
+            factor = 0.75
+            has_country_modifier = new_american_national_identity
+        }
 			}
 		}
 	}
@@ -289,7 +312,7 @@ country_event = {
 	fire_only_once = yes
 
 	mean_time_to_happen = {
-        months = 200
+        days = 200
         modifier = {
             factor = 0.2
             nationalism_n_imperialism = 1
@@ -305,14 +328,16 @@ country_event = {
     }
 
 	trigger = {
-	exists = NEN
-	tag = NEN
-	year = 1840
-	220 = { owned_by = { is_culture_group = american_cultures } }
-	NOT = {
-	owns = 220
-	}
-	}
+		exists = NEN
+		tag = NEN
+		year = 1840
+		220 = { owned_by = { is_culture_group = american_cultures } }
+		has_country_modifier = quest_for_washington
+			NOT = {
+				owns = 220
+			}
+		}
+
 	option = {
 	name = "EVT52017OPTA" #Washington is ours!
 	effect = {
@@ -340,25 +365,20 @@ country_event = {
 	name = "EVT52017OPTB" #Attempt to buy it off of them
 	effect = {
 	money = -100000
-	any_country = {
-		limit = {
-			owns = 220
-			}
-		country_event = { id = 52018 days = 45 }
-		}
+	set_global_flag = buy_washington
 	}
 	ai_chance = {
 	factor = 30
 	modifier = {
             factor = 20
             stronger_army_than = { any_country = { owns = 2146 } }
-        		}
+        	}
    	modifier = {
    			factor = 50
    			NOT = { money = 125000 }
-   	}
-			}
+   			}
 		}
+	}
 	option = {
 	name = "EVT52017OPTC" #It's not worth it...
 	effect = {
@@ -380,7 +400,14 @@ country_event = {
 	title = "EVTNAME52018" #Proposal for Washington
 	desc = "EVTDESC52018"
 	picture = treaty_of_tientsin
-	is_triggered_only = yes
+
+	mean_time_to_happen = {
+        days = 200 }
+
+	trigger = {
+	has_global_flag = quest_for_washington
+	AND = { has_global_flag = buy_washington }
+	}
 
 	option = {
 	name = "EVT52018OPTA" #Agree to $100000
@@ -391,7 +418,7 @@ country_event = {
 		limit = {
 		tag = FROM
 			}
-	country_event = { id = 52019 days = 45 }
+	country_event = { id = 52019 days = 0 }
 			}
 		}
 		ai_chance = {
@@ -404,7 +431,7 @@ country_event = {
 		limit = {
 		tag = FROM
 		}
-	country_event = { id = 52020 days = 45}
+	country_event = { id = 52020 days = 0 }
 				}
 			}
 		ai_chance = {

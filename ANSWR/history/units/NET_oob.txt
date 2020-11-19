@@ -199,3 +199,30 @@ leader = {
     background = school_of_the_bayonet
     prestige = 0.5
 }
+
+leader = {
+    name = "Pieter-Jan Ronitz"
+    date = 2836.1.1
+    type = land
+    personality = chivalrous
+    background = madman
+    prestige = 0.05
+}
+
+leader = {
+    name = "Hein van der Roest"
+    date = 2836.1.1
+    type = sea
+    personality = au_fait
+    background = cartographer
+    prestige = 0.35
+}
+
+leader = {
+    name = "Joeri de Banck"
+    date = 2836.1.1
+    type = sea
+    personality = timid
+    background = gifted_administrator 
+    prestige = 0.1
+}

@@ -1,11 +1,5 @@
-owner = WAL
-controller = WAL
-add_core = WAL
-add_core = ROM
+owner = MDV
+controller = MDV
+add_core = MDV
 trade_goods = coal
-life_rating = 35
-
-2861.1.1 = {
-    controller = ROM
-    owner = ROM
-}
+life_rating = 33

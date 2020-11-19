@@ -1,7 +1,5 @@
-owner = HES
-controller = HES
-add_core = HES
-add_core = GER
+owner = HEK
+controller = HEK
+add_core = HEK
 trade_goods = cattle
-life_rating = 40
-2861.1.1 = { railroad = 3 }
+life_rating = 39

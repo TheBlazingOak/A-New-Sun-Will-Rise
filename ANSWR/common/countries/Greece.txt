@@ -4,7 +4,7 @@ graphical_culture = EuropeanGC
 party = {
     name = "GRE_conservative"
     start_date = 2830.1.1
-    end_date = 1875.1.1
+    end_date = 2875.1.1
 
     ideology = conservative
 
@@ -34,7 +34,7 @@ party = {
 party = {
     name = "GRE_liberal"
     start_date = 2830.1.1
-    end_date = 1875.1.1
+    end_date = 2875.1.1
 
     ideology = liberal
 
@@ -48,7 +48,7 @@ party = {
 
 party = {
     name = "GRE_liberal_2"
-    start_date = 1875.1.1
+    start_date = 2875.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -63,7 +63,7 @@ party = {
 
 party = {
     name = "GRE_conservative_2"
-    start_date = 1875.1.1
+    start_date = 2875.1.1
     end_date = 3000.1.1
 
     ideology = conservative

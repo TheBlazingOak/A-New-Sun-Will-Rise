@@ -1,17 +1,10 @@
 owner = TUS
 controller = TUS
 add_core = TUS
-add_core = ITA
 trade_goods = fruit
-life_rating = 40
+life_rating = 39
 state_building = {
     level = 1
     building = fabric_factory
     upgrade = yes
 }
-2861.1.1 = {
-    controller = ITA
-    owner = ITA
-    add_core = ITA
-}
-2861.1.1 = { railroad = 3 }

@@ -1,0 +1,83 @@
+#Spitsberger Tales
+country_event = {
+	id = 52023
+	title = "EVTNAME52023"
+	desc = "EVTDESC52023"
+	picture = "spitsbergen"
+	
+	trigger = {
+		tag = VLA	
+		year = 2836
+		
+	}
+
+	fire_only_once = yes
+	option = {
+		name = "EVT52023OPTA"
+		prestige = 10
+
+	}
+
+}
+
+#east frisia partition
+country_event = {
+	id = 52035
+	title = "EVTNAME5235"
+	desc = "EVTDESC52035"
+	picture = "nationalists"
+	
+	
+	is_triggered_only = yes
+
+	fire_only_once = yes
+	option = {
+		name = "EVT52035OPTA"
+		set_country_flag = partition_eastfrisia 
+		war = {
+           		target = HAN
+           		attacker_goal = { casus_belli = humiliate}
+			defender_goal = { casus_belli = status_quo}
+       		}
+
+	}
+
+}
+
+country_event = {
+	id = 52038
+	title = "EVTNAME52038"
+	desc = "EVTDESC52038"
+	picture = "nationalists"
+	
+	trigger = {
+		tag = VLA
+		has_country_flag = partition_eastfrisia 
+		has_recently_lost_war = no
+		exists = HAN
+		war = no
+	}
+	
+	option = {
+		name = "EVT52038OPTA"
+		prestige = 5
+		clr_country_flag = partition_eastfrisia 
+
+		HAN = {
+			540 = {
+				add_core = VLA	
+				secede_province = VLA
+				remove_core = HAN
+				change_province_name = "Aldenburg"
+			}
+			541 = {
+				add_core = VLA
+				secede_province = VLA
+				remove_core = HAN
+				change_province_name = "Kloppenburg"
+			}
+
+		}
+	}
+
+}

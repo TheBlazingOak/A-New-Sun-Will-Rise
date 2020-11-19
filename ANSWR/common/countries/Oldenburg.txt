@@ -18,7 +18,7 @@ party = {
 
 party = {
     name = "OLD_conservative"
-    start_date = 1878.1.1
+    start_date = 2878.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -64,7 +64,7 @@ party = {
 party = {
     name = "OLD_socialist"
     start_date = 2830.1.1
-    end_date = 1875.1.1
+    end_date = 2875.1.1
 
     ideology = socialist
 
@@ -79,7 +79,7 @@ party = {
 party = {
     name = "OLD_socialist_2"
     start_date = 2848.1.1
-    end_date = 1875.1.1
+    end_date = 2875.1.1
 
     ideology = socialist
 
@@ -93,7 +93,7 @@ party = {
 
 party = {
     name = "OLD_socialist_3"
-    start_date = 1875.1.1
+    start_date = 2875.1.1
     end_date = 3000.1.1
 
     ideology = socialist
@@ -138,7 +138,7 @@ party = {
 
 party = {
     name = "OLD_conservative_3"
-    start_date = 1878.1.1
+    start_date = 2878.1.1
     end_date = 3000.1.1
 
     ideology = conservative

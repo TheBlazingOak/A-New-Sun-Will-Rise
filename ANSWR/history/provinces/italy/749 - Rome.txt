@@ -1,8 +1,6 @@
-owner = PAP
-controller = PAP
-add_core = PAP
-add_core = ITA
+owner = SIC
+controller = SIC
+add_core = SIC
 trade_goods = grain
-life_rating = 45
+life_rating = 39
 naval_base = 1
-2861.1.1 = { railroad = 2 }

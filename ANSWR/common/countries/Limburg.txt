@@ -1,4 +1,4 @@
-color = { 246  197  10 }
+color = { 67  75  156 }
 graphical_culture = EuropeanGC
 
 party = {
@@ -19,7 +19,7 @@ party = {
 party = {
     name = "HOL_liberal"
     start_date = 2830.1.1
-    end_date = 1886.1.1
+    end_date = 2886.1.1
 
     ideology = liberal
 
@@ -33,7 +33,7 @@ party = {
 
 party = {
     name = "HOL_liberal_2"
-    start_date = 1886.1.1
+    start_date = 2886.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -78,7 +78,7 @@ party = {
 
 party = {
     name = "HOL_communist"
-    start_date = 1881.1.1
+    start_date = 2881.1.1
     end_date = 3000.1.1
 
     ideology = communist
@@ -108,7 +108,7 @@ party = {
 
 party = {
     name = "HOL_liberal_4"
-    start_date = 1897.1.1
+    start_date = 2897.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -123,7 +123,7 @@ party = {
 
 party = {
     name = "HOL_liberal_5"
-    start_date = 1897.1.1
+    start_date = 2897.1.1
     end_date = 3000.1.1
 
     ideology = liberal

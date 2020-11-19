@@ -1,0 +1,165 @@
+### EUROPE
+
+#History of the Netherlands
+country_event = {
+	id = 52025
+	title = "EVTNAME52025"
+	desc = "EVTDESC52025"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = NET
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52025OPTA"
+	}
+}
+
+#History of Flanspublyk
+country_event = {
+	id = 52024
+	title = "EVTNAME52024"
+	DESC = "EVTDESC52024"
+	picture = "history"
+	
+	trigger = {
+		ai = no
+		tag = VLA
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52024OPTA"
+	}
+}
+
+### SOUTH AMERICA
+
+#History of Buliwya
+country_event = {
+	id = 52030
+	title = "EVTNAME52030"
+	desc = "EVTDESC52030"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = BWK
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52030OPTA"
+	}
+}
+
+#History of Cusco
+country_event = {
+	id = 52028
+	title = "EVTNAME52028"
+	desc = "EVTDESC52028"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = CSK
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52028OPTA"
+	}
+}
+
+#History of Patagonia
+country_event = {
+	id = 52026
+	title = "EVTNAME52026"
+	desc = "EVTDESC52026"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = PTG
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52026OPTA"
+	}
+}
+
+#History of Quycan
+country_event = {
+	id = 52028
+	title = "EVTNAME52028"
+	desc = "EVTDESC52028"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = QKD
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52028OPTA"
+	}
+}
+
+#History of Patagonia
+country_event = {
+	id = 52027
+	title = "EVTNAME52027"
+	desc = "EVTDESC52027"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = RLP
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52027OPTA"
+	}
+}
+
+#History of Amazonia
+country_event = {
+	id = 52031
+	title = "EVTNAME52031"
+	desc = "EVTDESC52031"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = UPA
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52031OPTA"
+	}
+}
+
+#History of Janeiro
+country_event = {
+	id = 52032
+	title = "EVTNAME52032"
+	desc = "EVTDESC52032"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = SRJ
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52032OPTA"
+	}
+}

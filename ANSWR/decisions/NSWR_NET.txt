@@ -1,0 +1,51 @@
+political_decisions = {
+
+	#Construction of the royal harbour as decision
+
+
+	partition_eastfrisia = {
+		potential ={
+			tag = NET
+			541 = {
+				NOT = { owned_by = THIS }
+			}
+			exists = HAN
+			NOT = { has_country_flag = partition_eastfrisia}
+			NOT = {truce_with = HAN}
+		}
+		allow = {
+			is_greater_power = yes
+			#nationalism_n_imperialism = 1
+			war = no
+			alliance_with = VLA
+			539 = {
+				owner = {
+					war = no
+					relation = { who = THIS value = 200 }
+				}
+			}
+		}
+		effect = {
+			infamy = 5
+			set_country_flag = partition_eastfrisia
+			#send message to East-Frisia to join
+			539 = {
+				owner = {= { country_event = 52035}
+			}
+			
+			war = {
+           			target = HAN
+           			attacker_goal = { casus_belli = humiliate}
+				defender_goal = { casus_belli = status_quo}
+       			}
+			# send message to Austria asking for intervention. Intervention would be possible that Austria spheres East Frisia
+			#619{
+				#owner = { country_event = 52034}
+			#}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

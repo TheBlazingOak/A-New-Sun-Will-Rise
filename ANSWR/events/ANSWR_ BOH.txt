@@ -4,7 +4,6 @@ country_event = {
 	title = "EVTNAME52021" #Burning of Praha
 	desc = "EVTDESC52021"
 	major = yes
-	is_trigger_only = no
 	fire_only_once = yes
 
 	trigger = {

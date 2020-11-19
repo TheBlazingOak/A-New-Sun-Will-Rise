@@ -1,0 +1,77 @@
+# the crowning of King Florijs
+#strengthen koudrel- Flanish relations
+
+#Bilderberg Hotel 1/2
+country_event = {
+	id = 52036
+	title = "EVTNAME52036"
+	desc = "EVTDESC52036"
+	picture = "bilderberg"
+	#revolution_n_counterrevolution = 1
+
+	trigger = {
+		tag = NET
+		#change to another year
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52036OPTA"
+		prestige = 5
+		set_country_flag = bilderberg_tav
+	}
+	
+	
+	mean_time_to_happen = {
+		months = 48
+		factor = 2
+        	modifier = {
+           		factor = 7
+            		NOT = { year = 2838
+			#change to another year
+        	}
+	}
+}
+
+#Bilderberg Hotel 2/2
+country_event = {
+	id = 52037
+	title = "EVTNAME52037"
+	desc = "EVTDESC520376"
+	picture = "bilderberg"
+
+	trigger = {
+		tag = NET
+		has_country_flag =  bilderberg_tav
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52037OPTA"
+		clr_country_flag = bilderberg_tav
+		prestige = -5
+		#adds + 10% fascist support
+	}
+	option = {
+		name = "EVT52037OPTB"
+		clr_country_flag = bilderberg_tav
+		prestige = -5
+		#adds + 10% communist support
+	}
+	option = {
+		name = "EVT52037OPTC"
+		clr_country_flag = bilderberg_tav
+		#adds + 5communist +5 fascist support
+	}
+	
+	
+	#some time later
+	mean_time_to_happen = {
+		months = 48
+		factor = 2
+        	modifier = {
+           		factor = 9
+            		NOT = { year = 2838}
+			#change to another year
+        	}
+	}
+}

@@ -1,11 +1,6 @@
-owner = SIC
-controller = SIC
-add_core = SIC
+owner = APU
+controller = APU
+add_core = APU
 add_core = SYC
-add_core = ITA
 trade_goods = sulphur
-life_rating = 40
-2861.1.1 = {
-    controller = ITA
-    owner = ITA
-}
+life_rating = 39

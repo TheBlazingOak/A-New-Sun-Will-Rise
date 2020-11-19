@@ -1,15 +1,15 @@
-capital = 425
+capital = 418
 primary_culture = french
 religion = catholic
 government = absolute_monarchy
 plurality = 20
 nationalvalue = nv_order
-literacy = 0.55
+literacy = 0.6
 non_state_culture_literacy = 0.01
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 20
+prestige = 10
 
 # Political reforms
 slavery = yes_slavery

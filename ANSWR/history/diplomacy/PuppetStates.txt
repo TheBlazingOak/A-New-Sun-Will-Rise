@@ -416,7 +416,7 @@ vassal = {
     first = QNG
     second = KOR
     start_date = 2836.1.1
-    end_date = 1876.1.1
+    end_date = 2876.1.1
 }
 #ANSWR
 
@@ -426,4 +426,47 @@ vassal = {
     second = ARI
     start_date = 2836.1.1
     end_date = 2850.1.1
+}
+
+###Dacian Confedercy 
+vassal = {
+    first = WAL
+    second = CRV
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = MOL
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = SIE
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = DEV
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = BKV
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = MDV
+    start_date = 2754.9.12
+    end_date = 2900.1.7
 }

@@ -1085,7 +1085,7 @@ province;red;green;blue;x;x
 1084;96;80;128;Utchan;x
 1085;160;208;0;Ulusamudan;x
 1086;223;160;96;Pogobi;x
-1087;32;16;192;Ootomari;x
+1087;232;216;192;Ootomari;x
 1088;96;17;64;Shumshu;x
 1089;224;160;224;Etorofu;x
 1090;155;198;155;Tblisi;x
@@ -2223,7 +2223,7 @@ province;red;green;blue;x;x
 2222;176;112;128;Puerto Rico;x
 2223;48;240;128;Saint Thomas;x
 2224;137;51;77;Antigua;x
-2225;51;83;137;Montserrat;x
+2225;151;103;127;Montserrat;x
 2226;96;96;96;Tortola;x
 2227;137;51;122;Saint Kitts;x
 2228;156;82;202;Martinique;x
@@ -3317,10 +3317,10 @@ province;red;green;blue;x;x
 3316;120;130;255;Lake Oulujarvi;x
 3317;0;31;255;Lake Päijänne;x
 3318;25;155;255;Lake Saimaa;x
-3319;1;129;178;Vahitahi;x
-3320;1;129;179;Vairaatea;x
-3321;1;129;180;Nukutavake;x
-3322;1;129;181;Pinaki;x
+3319;50;129;178;Vahitahi;x
+3320;75;129;179;Vairaatea;x
+3321;22;182;180;Nukutavake;x
+3322;95;129;181;Pinaki;x
 3323;60;120;214;Cruce del Río;x
 3324;68;205;251;Strait of Metz;x
 3325;102;217;211;Strait of Britanny;x

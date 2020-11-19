@@ -104,5 +104,63 @@ political_decisions = {
 			ai_will_do = { factor = 1 }
 		}
 
+	#Renaming Jylland
+	rename_jylland = {
+		picture = form_scandinavia
+		potential = {
+			OR = {
+				tag = SAP
+				tag = NOD
+				tag = SCA
+			}
+			NOT = { has_country_flag = jylland_renamed }
+			owns = 367
+			owns = 366
+			owns = 368
+			owns = 2557
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = jylland_renamed
+			prestige = 3
+			2557 = { change_province_name = "Esbjerg" }
+			367 = {
+				change_province_name = "Aalborg"
+				state_scope = {change_region_name = "Jylland"}
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	#Renaming Slesvig
+	rename_slesvig = {
+		picture = form_scandinavia
+		potential = {
+			OR = {
+				tag = SAP
+				tag = NOD
+				tag = SCA
+			}
+			NOT = { has_country_flag = slesvig_renamed}
+			owns = 371
+			owns = 370
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = slesvig_renamed
+			prestige = 3
+			371 = { change_province_name = "Abenra"}
+			370 = { 
+				change_province_name = "Flensborg"
+				state_scope = {change_region_name = "Slesvig"}
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+
 #End of political_decisions brackets	
 }

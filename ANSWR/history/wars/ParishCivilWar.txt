@@ -1,0 +1,23 @@
+name = "The Burnt War"
+
+2833.12.27 = {
+    add_attacker = PRP
+    add_defender = DPA
+
+    war_goal = {
+        casus_belli = civil_war
+        actor = PRP
+        receiver = DPA
+    }
+    war_goal = {
+        casus_belli = civil_war
+        actor = DPA
+        receiver = PRP
+    }
+
+}
+
+2839.2.6 = {
+    rem_attacker = PRP
+    rem_defender = DPA
+}

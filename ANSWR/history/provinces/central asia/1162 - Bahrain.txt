@@ -1,6 +1,5 @@
-owner = BHR
-controller = BHR
-add_core = BHR
-trade_goods = fruit
-terrain = semidesert
-life_rating = 34
+owner = ONT
+controller = ONT
+add_core = ONT
+trade_goods = iron
+life_rating = 35

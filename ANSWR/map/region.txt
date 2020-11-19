@@ -1,10 +1,10 @@
 ### Canada & the Far North
 
-USA_1 = { 1 2 3 4 5 2599 2630 2631 } #Alaska
+USA_1 = { 1 2 4 5 2599 2630 2631 } #Alaska
 
-#ENG_6 = { 6 7 } #Yukon
+#ENG_6 = { 7 } #Yukon
 
-ENG_9 = { 11 2595 2596 2598 6 7 } #Northwest Territories
+ENG_9 = { 11 2595 2596 2598 7 } #Northwest Territories
 
 CAN_13 = { 13 14 20 21 15 19 16 18 17 2629 } #Columbia
 
@@ -14,25 +14,31 @@ ENG_30 = {  31 32 35 27 26 22 23 24 25 28 2597 } #Saskatchewan
 
 ENG_36 = { 42 36 37 38 39 40 41 157 118 30 33 34 } #Manitoba
 
-CAN_46 = { 46 50 51 57 55 56 52 53 54 } #Southern Ontario
+CAN_46 = { 57 56 1490 1162 52 } #Southern Ontario
 
-CAN_50 = { 49 47 48 2594 158 } #Northern Ontario
+CAN_50 = { 50 51 48 3 1071 } #North Ontario
 
-CAN_58 = { 58 65 62 61 63 64 45 } #Southern Quebec
+CAN_57 = { 46 55 53 54 } #Toronto
 
-CAN_60 = { 9 59 2593 2626 2592 } #Northern Quebec
+CAN_50 = { 49 47 2594 158 } #Northern Ontario
+
+CAN_58 = { 58 64 6 1548} #Lower Quebec
+
+CAN_65 = { 65 45 1067 1491 1087  } #Quebec Proper
+
+CAN_60 = { 63 9 59 2593 2626 2592 61 } #Upper Quebec
 
 ENG_68 = { 68 69 70 71 72 73 66 67 } #Maritimes
 
-ENG_74 = { 74 75 76 77 2625 } #Newfoundland
+ENG_74 = { 74 75 76 77 2625 62 } #Newfoundland
 
 ### United States
 
 USA_78 = { 78 79 80 81 82 92 114 } #Washington
 
-MEX_85 = { 84 85 86 104 83 } #North California
+MEX_85 = { 84 85 86 104 83 3320 3322 2225 3319 } #North California
 
-LOS_89 = { 89 87 88 90 107 2138 2139 } #South Califorinia
+LOS_89 = { 89 87 88 90 107 2138 2139 3321 } #South Califorinia
 
 USA_91 = { 91 93 113 116 115 112 111 } #Idaho
 
@@ -96,91 +102,85 @@ USA_232 = { 232 233 234 235 236 237 238 239 240 } #New York
 
 USA_243 = { 243 244 245 241 242 } #Massachusets
 
-USA_247 = { 247 246 248 249 250 } #New England
+USA_247 = { 247 246 248 249 250 203 } #New England
 
 
 ### United Kingdom
 
-ENG_254 = { 254 255 256 } #Ulster
+ENG_254 = { 254 255 256 257 } #Ulster
 
-ENG_258 = { 258 259 257 } #Connacht
+ENG_258 = { 258 259 260 261 } #Connacht
 
-ENG_260 = { 260 261 262 } #Munster
-
-ENG_263 = { 263 264 265 } #Leinster
+ENG_263 = { 263 264 265 262 } #Leinster
 
 ENG_266 = { 266 267 268 1724 } #Highlands
 
 ENG_271 = { 271 269 270 272 } #Lowlands
 
-ENG_273 = { 273 274 275 276 } #Wales
+ENG_273 = { 273 274 275 276 286 } #Wales
 
-ENG_277 = { 277 278 279 285 304 } #North West England
+ENG_277 = { 277 278 285 304 283 284 } #North West England
 
-ENG_280 = { 280 281 282 283 } #North East England
+ENG_280 = { 280 281 282 279 } #North East England
 
-ENG_284 = { 284 286 287 288 289 290 } #Midlands
+ENG_291 = { 291 292 293 288 289 290 } #Eastern Counties
 
-ENG_291 = { 291 292 293 295 } #Eastern Counties
+ENG_296 = { 296 299 297 298 419 287 } #South West England
 
-ENG_296 = { 296 299 297 298 419 } #South West England
-
-ENG_300 = { 300 294 301 302 303 } #South East England
+ENG_300 = { 300 294 301 302 303 295 } #South East England
 
 
 ### Scandinavia
 
 DEN_251 = { 251 252 253 2636 } #Iceland & Greenland
 
-SWE_308 = { 308 305 306 307 } #Nordnoge
+SWE_308 = { 308 305 306 } #Nordnoge
 
 SWE_309 = { 309 311 310 312 } #Vestlandet
 
-SWE_313 = { 313 316 314 315 } #Ostlandet
+SWE_313 = { 313 316 314 315 329 } #Ostlandet
 
-SWE_318 = { 318 317 319 320 321 } #Norrland
+SWE_318 = { 318 317 319 320 321 307 } #Norrland
 
 SWE_322 = { 322 324 326 325 } #Stockholm
 
-SWE_329 = { 329 328 327 323 330 } #Goteburg
+SWE_329 = { 328 327 323 330 } #Goteburg
 
 SWE_334 = { 334 332 331 333 335 } #Malmo
 
-RUS_336 = { 336 337 338 342 982 } #Northern Finland
+RUS_336 = { 336 338 982 } #Northern Finland
 
-RUS_343 = { 343 344 341 340 } #Helsinki
+RUS_343 = { 343 344 341 3315 337 } #Helsinki
 
-RUS_345 = { 345 346 347 348 } #Turku
+RUS_345 = { 345 346 347 } #Turku
 
-DEN_367 = { 367 366 368 2557 } #Jylland
+DEN_367 = { 367 366 368 2557 348 } #Jylland
 
-HOL_369 = { 369 530 529 533 } #Holstein
+HOL_369 = { 369 370 371 } #Holstein
 
-SCH_370 = { 370 371 } #Schleswig
+DEN_372 = { 372 373 374 533 } #Sjaelland
 
-DEN_372 = { 372 373 374 } #Sjaelland
+FIN_339 = { 339 340 1006 342 }
 
-
-### Low Countries
+### Kouderhagen
 
 NET_375 = { 375 376 377 382 } #Holland
 
 NET_379 = { 379 378 380 381 } #Zeeland
 
-NET_385 = { 385 383 384 386 400 } #Friesland
+NET_385 = { 385 383 384 386 400 1743 } #West Friesland
 
-BEL_387 = { 387 388 389 390 391 399 } #Flanders
+HAN_540 = { 538 543 542 393 581} #East Friesland
 
-BEL_394 = { 394 392 393 395 398 } #Wallonia
+BEL_387 = { 387 389 390 391 395 394 392 } #Belgie
 
+PRU_575 = { 575 576 577 572 397 396 398 388 } #Rheinland
 
 ### France
 
-FRA_399 = { 403 402 2570 } #Picardie - used to be { 403 405 406 408 402 2570 }
+FRA_399 = { 403 402 2570 401 404 } #Picardie - used to be { 403 405 406 408 402 2570 }
 
-FRA_400 = { 408 405 406 407 } #Champagne
-
-FRA_404 = { 399 400 401 404 } #Nord-Pas-De-Calais/Artois
+FRA_400 = { 408 405 406 429 428 } #Champagne
 
 FRA_411 = { 411 413 412 } #Ardennes
 
@@ -190,30 +190,28 @@ FRA_418 = { 418 415 416 417 } #Normandie
 
 FRA_420 = { 420 421 422 424 423 } #Bretagne
 
-FRA_425 = { 425 426 427 } #Ile de France
+FRA_425 = { 425 426 427 438 439 } #Ile de France
 
-FRA_435 = { 435 434 } #Loire
+FRA_435 = { 435 436 440 } #Loire
 
-FRA_438 = { 438 436 439 440 441 428 429 } #Region Centre
 
-FRA_442 = { 442 444 443 437 } #Poitou
+FRA_442 = { 442 444 443 437 441 434 } #Poitou
 
 FRA_445 = { 445 446 447 } #Limousin
 
-FRA_448 = { 448 449 450 430 } #Auvergne
+FRA_448 = { 448 449 430 } #Auvergne
 
-FRA_451 = { 451 452 453 431 } #Rhone
+FRA_451 = { 451 452 453 431 467 } #Rhone
 
-FRA_455 = { 455 457 456 } #Le Midi
+FRA_455 = { 457 460 464 } #Le Midi
 
-FRA_458 = { 458 459 460 } #Aquitaine
+FRA_458 = { 458 459 456 450 } #Aquitaine
 
-FRA_461 = { 461 462 463 464 } #Languedoc
+FRA_461 = { 455 461 462 463 468 } #Languedoc
 
-SAR_466 = { 465 466 472 } #Savoie
+FRA_467 = { 469 454 466 472 } #Provence
 
-FRA_467 = { 467 468 469 470 471 454 } #Provence
-
+AUS_407 = { 407 470 471 465 399 2283 846 742 }
 
 ### Spain & Portugal
 
@@ -246,13 +244,13 @@ POR_2134 = { 2134 2135 2136 } #Macaronesia
 
 ### Germany & Switzerland
 
-HAN_528 = { 528 531 532 535 } #Lower Elbe
+HAN_528 = { 539 528 531 532 535 540 541 } #Lower Elbe
 
-HAN_534 = { 534 536 537 585 } #Hannover
+HAN_534 = { 534 536 585 582 } #Hannover
 
-HAN_540 = { 539 540 543 542 541 1743 } #East Friesland
+PRU_544 = { 544 545 547 } #Mecklenburg
 
-PRU_544 = { 544 545 547 548 } #Mecklenburg
+HAN_530 = { 530 529  548} #New Coast
 
 PRU_546 = { 546 679 680 692 681 } #Pomerania
 
@@ -260,30 +258,26 @@ PRU_549 = { 549 550 551 552 } #Brandenburg
 
 PRU_553 = { 553 555 556 557 } #Magdeburg
 
-PRU_554 = { 554 561 562 563 } #Thuringia
+PRU_554 = { 554 561 562 537 } #Thuringia
 
 SAX_558 = { 558 559 560 687 } #Saxony
 
-HES_2560 = { 564 565 566 567 568 2560 } #Hessen
+HES_2560 = { 564 565 566 567 568 } #Hessen
 
-PRU_570 = { 570 573 574 571 } #Palatinate
+PRU_570 = { 570 573 574 571 2560 } #Palatinate
 
-PRU_575 = { 575 576 577 572 397 396 } #Rheinland
+PRU_581 = { 580 584 578 579 2561 583 } #Westfalen
 
-PRU_578 = { 578 579 2561 583 } #Eastern Rheinland
+BAD_586 = { 586 587 588 591 594 } #Baden
 
-PRU_581 = { 580 581 582 584 538 } #Westfalen
+WUR_589 = { 589 590 593 569 } #Wurttemburg
 
-BAD_586 = { 586 587 588 569 } #Baden
-
-WUR_589 = { 589 590 591 593 594 } #Wurttemburg
-
-BAV_595 = { 595 596 597 598 } #Franconia
+BAV_595 = { 595 596 597 598 563 } #Franconia
 
 BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
 
-SWI_603 = { 603 606 611 2568 605 604 } #East-Switzerland
-
+SWI_603 = { 611 2568 614 2669 } #East-Switzerland
+SWI_605 = { 605 604 606 603} #Central-Switzerland
 SWI_607 = { 607 608 609 432 433 } #West-Switzerland
 
 PRU_682 = { 682 683 684 685 } #Silesia
@@ -297,7 +291,7 @@ PRU_701 = { 701 699 700 } #Posen
 
 ### Austria
 
-AUS_612 = { 612 613 614 615 } #Tirol
+AUS_612 = { 612 613 615 } #Tirol
 
 AUS_613 = { 616 617 618 } #Kärnten-Steiermark
 
@@ -327,13 +321,7 @@ AUS_662 = { 702 951 952 953} #East Galicia
 
 RUS_715 = { 715 711 713 716 } #West Galicia
 
-AUS_726 = { 726 727 728 2669 } #Lombardia
-
-AUS_733 = { 736 737 } #Friuli
-
-AUS_729 = { 729 730 731 732 733 8 } #Venetia
-
-AUS_734 = { 734 735 } #South Tirol
+AUS_734 = { 734 735 732 733 8 736 737 } #South Tirol
 
 AUS_736 = { 769 770 778 } #Istria
 
@@ -350,19 +338,23 @@ AUS_2538 = { 2538 791 792 } #Vojvodina
 
 ### Italy
 
-SAR_720 = { 720 721 722 723 724 725 } #Piemonte
+SAR_720 = { 720 723 724 725 726 } #Piemonte
 
-#MOD_739 = { 739 738 740 } #Emilia
+SWI_721 = { 721 722 1981 825 727 729 } #Swiss-North Italy
 
-TUS_744 = { 744 745 746 747 748 1981 } #Tuscany
+#MOD_739 = { 739 738 740 731 } #Emilia
 
-PAP_741 = { 741 742 743 739 738 740 } #Emilia-Romagna
+TUS_744 = { 744 745 746 747 748 } #Tuscany
+
+PAP_741 = { 741 743 739 738 740 728 730 731 } #Emilia-Romagna
 
 PAP_752 = { 749 752 750 751 } #Lazio
 
-SIC_753 = { 756 758 10 753 757 } #Puglia
+SIC_753 = { 10 753 757 } #Puglia
 
-SIC_754 = { 754 755 759 760 761 2567 } #Campania
+SIC_754 = { 754 755  2567 } #Campania
+
+SIC_756 = { 756 758 759 760 761 } #Apulia
 
 SIC_763 = { 763 762 764 854 } #Sicily
 
@@ -371,11 +363,11 @@ SAR_765 = { 765 766 473 } #Sardinia & Corscia/Thyrrenian Islands
 
 ### Balkans
 
-WAL_665 = { 664 665 666 668 667 669 } #Wallachia
+WAL_665 = { 664 665 666 668 667 669 675 844 } #Wallachia
 
 MOL_673 = { 673 672 670 671 663 662 } #Moldavia
 
-TUR_674 = { 674 675 818 } #Dobrudja
+TUR_674 = { 674 818 } #Dobrudja
 
 MOL_676 = { 676 677 678 } #Bessarabia
 
@@ -399,11 +391,11 @@ TUR_823 = { 823 829 830 } #Eastern Macedonia
 
 GRE_826 = { 834 842 839 840 841 } #Peloponnese
 
-TUR_832 = { 832 831 833 825 824 826 } #Thessalia
+TUR_832 = { 832 831 833 824 826 } #Thessalia
 
 GRE_837 = { 837 836 835 838 845 827 } #Attica - Central Greece
 
-EGY_843 = { 848 843 844 846 847 } #Aegean Islands
+EGY_843 = { 848 843 847 } #Aegean Islands
 
 TUR_853 = { 849 853 852 851 850 } #Albania
 
@@ -470,7 +462,7 @@ PER_1122 = { 1117 1118 1119 1128 1122 1120 } #Luristan
 
 PER_1132 = { 1132 1131 1133 } #Khuzestan
 
-PER_1136 = { 1135 1137 1138 1141 1136 1071 1134 } #Fars
+PER_1136 = { 1135 1137 1138 1141 1136 1134 } #Fars
 
 PER_1140 = { 1142 1139 1140 1143 1145 1146 1144 } #Kerman
 
@@ -482,7 +474,7 @@ NEJ_1156 = { 1160 1156 1158 } #Hail
 
 NEJ_1157 = { 1157 1161 2586 1159 } #Nejd
 
-ABU_1162 = { 1162 1165 1167 1168 2664 1164 1163 } #Gullf States
+ABU_1162 = { 1165 1167 1168 2664 1164 1163 } #Gullf States
 
 OMA_1166 = { 1166 1169 1170 1171 1172 1174 } #Oman
 
@@ -507,19 +499,19 @@ RUS_354 = { 354 355 356 357 358 359 } #Latvia
 
 RUS_360 = { 360 361 362 363 364 365 } #Lithuania
 
-RUS_339 = { 339 984 995 988 2587 983 2715 3315 } #Karelia
+RUS_339 = { 984 995 988 2587 983 } #Karelia
 
 RUS_706 = { 706 708 709 710 717 712 } #Masovia
 
 RUS_707 = { 936 707 719 937 } #Brêst
 
-RUS_718 = { 718 941 942 } #Minsk
+RUS_718 = { 718 941 942 948 } #Minsk
 
-RUS_940 = { 940 939 938 947 } #Pinsk
+RUS_940 = { 940 939 938 947 946 } #Pinsk
 
 RUS_943 = { 943 999 1000 1007 } #Smolensk
 
-RUS_947 = { 944 945 946 948 949 } #Orsha
+RUS_947 = { 944 945 949 1009 } #Orsha
 
 RUS_958 = { 958 959 960 } #Kiev
 
@@ -535,7 +527,7 @@ RUS_955 = { 972 971 970 961 } #Yekaterinoslav
 
 RUS_977 = { 977 1017 1018 1019 } #Kursk
 
-RUS_978 = { 978 962 963 980 974 } #Kharkov
+RUS_978 = { 978 963 980 974 } #Kharkov
 
 RUS_979 = { 979 1047 1046 1045 } #Don Host Oblast
 
@@ -543,15 +535,15 @@ RUS_981 = { 981 985 2588 } #Arkhangelsk
 
 RUS_990 = { 990 987 1024 991 1023 } #Galich
 
-RUS_994 = { 994 996 997 2580 } #Ingria
+RUS_994 = { 994 996 997 2580 2715 } #Ingria
 
 RUS_998 = { 998 1001 992 993 989 } #Tver
 
-RUS_1003 = { 1003 1004 1005 1006 } #Novgorod
+RUS_1003 = { 1003 1004 1005 } #Novgorod
 
 RUS_1008 = { 1008 1011 1012 1013 1022 } #Moscow
 
-RUS_1009 = { 1009 1010 1014 1015 1016 } #Bryansk
+RUS_1009 = { 1010 1014 1015 1016 962 } #Bryansk
 
 RUS_1020 = { 1020 1027 1028 1030 1032 1033 } #Kazan
 
@@ -587,7 +579,7 @@ RUS_1079 = { 1078 1079 2670 2671 } #Trans-Baikal
 
 CHI_1082 = { 1082 1083 1085 1084 2617 } #Guanwai - Outer Manchuria
 
-JAP_1086 = { 1086 1087 1088 1089 } #Sakhalin
+JAP_1086 = { 1086 1088 1089 } #Sakhalin
 
 RUS_1182 = { 1182 1183 1194 2610 2702 } #Uralsk
 
@@ -757,7 +749,7 @@ CHI_1482 = { 1482 1483 1484 1486 1487 } #Fujian
 
 CHI_1485 = { 2681 1485 2562 2406 } #Formosa
 
-CHI_1490 = { 1490 1489 1491 1492 } #Gansu
+CHI_1490 = { 1489 1491 1492 } #Gansu
 
 CHI_1493 = { 1493 1496 1498 1494 1497 1500 } #East Canton
 
@@ -1123,9 +1115,9 @@ SPA_2209 = { 2209 2210 2211 44 2212 } #Cuba
 
 HAI_2213 = { 2213 2214 2215 2216 } #Hispanola
 
-ENG_203 = { 2217 203 2219 2218 2220 } #Caribbean Islands
+ENG_203 = { 2217 2219 2218 2220 } #Caribbean Islands
 
-ENG_2224 = { 2224 2225 2226 2227 2230 2236 2223 2222 3246 } #West Indies
+ENG_2224 = { 2224 2226 2227 2230 2236 2223 2222 3246 } #West Indies
 
 ENG_2228 = { 2228 2229 2231 2232 2233 2237 2238 2409 2357 } #Lesser Antilles
 
@@ -1152,7 +1144,7 @@ CLM_2259 = { 2256 2257 2258 2259 } #Cauca
 
 ECU_2279 = { 2279 2280 2281 2282 2285 } #Ecuador
 
-PEU_2289 = { 2287 2288 2289 2283 2284 } #Pastaza
+PEU_2289 = { 2287 2288 2289 2284 } #Pastaza
 
 PEU_2291 = { 2290 2291 2292 2294 } #Cajamarca
 
@@ -1283,4 +1275,4 @@ TON_2540 = { 2540 2545 2546 2548 3249 } #Tonga
 
 USA_2543 = { 2543 2544 2547 } #Samoa Islands
 
-FRA_801 = { 801 2551 2552 2553 3319 3320 3321 3322 } #Tahiti
+FRA_801 = { 801 2551 2552 2553 } #Tahiti

@@ -1,10 +1,10 @@
-color = { 161  126  128 }
+color = { 207  180  10 }
 graphical_culture = EuropeanGC
 
 party = {
     name = "WAL_reactionary"
     start_date = 2830.1.1
-    end_date = 1909.1.1
+    end_date = 2909.1.1
 
     ideology = reactionary
 
@@ -63,7 +63,7 @@ party = {
 
 party = {
     name = "WAL_conservative_2"
-    start_date = 1882.1.1
+    start_date = 2882.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -108,7 +108,7 @@ party = {
 
 party = {
     name = "WAL_conservative_3"
-    start_date = 1908.1.1
+    start_date = 2908.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -123,7 +123,7 @@ party = {
 
 party = {
     name = "WAL_reactionary_2"
-    start_date = 1909.1.1
+    start_date = 2909.1.1
     end_date = 3000.1.1
 
     ideology = reactionary

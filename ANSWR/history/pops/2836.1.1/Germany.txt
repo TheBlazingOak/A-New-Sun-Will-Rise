@@ -790,9 +790,14 @@
     artisans = {
         culture = dutch
         religion = protestant
-        size = 2250
+        size = 1750
     }
 
+    artisans = {
+        culture = flanish
+        religion = protestant
+        size = 250
+    }
     soldiers = {
         culture = dutch
         religion = protestant
@@ -802,9 +807,14 @@
     farmers = {
         culture = dutch
         religion = protestant
-        size = 36950
+        size = 8950
     }
 
+    farmers = {
+        culture = flanish
+        religion = protestant
+        size = 25950
+    }
     aristocrats = {
         culture = rhine_german
         religion = catholic
@@ -832,7 +842,7 @@
     farmers = {
         culture = rhine_german
         religion = catholic
-        size = 22550
+        size = 24550
     }
 
     ######Jews
@@ -1013,7 +1023,13 @@
     clergymen = {
         culture = flanish
         religion = protestant
-        size = 425
+        size = 325
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 110
     }
 
     artisans = {
@@ -1031,7 +1047,7 @@
     farmers = {
         culture = flanish
         religion = protestant
-        size = 38800
+        size = 13800
     }
 
     clergymen = {
@@ -1049,23 +1065,45 @@
     farmers = {
         culture = flanish
         religion = catholic
-        size = 1860
+        size = 550
+    }
+
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 24460
+    }
+    farmers = {
+        culture = north_german
+        religion = cathologic
+        size = 1460
     }
 }
 #Cloppenburg (84000/21000 POPS)
 541 = {
     aristocrats = {
-        culture = flanish
+        culture = north_german
         religion = protestant
-        size = 125
+        size = 65
     }
 
+    aristocrats = {
+        culture = flanish
+        religion = protestant
+        size = 45
+    }
     clergymen = {
         culture = flanish
         religion = protestant
-        size = 125
+        size = 75
     }
 
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 35
+    }
     artisans = {
         culture = flanish
         religion = protestant
@@ -1081,48 +1119,51 @@
     farmers = {
         culture = flanish
         religion = protestant
-        size = 11975
+        size = 8975
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 75
+        size = 35
     }
 
     artisans = {
-        culture = flanish
+        culture = north_german
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = flanish
+        culture = north_german
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = flanish
+        culture = north_german
         religion = catholic
-        size = 7450
+        size = 9450
     }
 }
 #under the rule of Hannover 1836
 #Lingen (80000/20000 POPS)
 542 = {
     aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 115
+    }
+     aristocrats = {
         culture = dutch
         religion = protestant
-        size = 150
+        size = 30
     }
-
     bureaucrats = {
-        culture = dutch
+        culture = north_german
         religion = protestant
         size = 75
     }
-
     officers = {
         culture = dutch
         religion = protestant
@@ -1132,9 +1173,14 @@
     clergymen = {
         culture = dutch
         religion = protestant
-        size = 75
+        size = 65
     }
 
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 10
+    }
     artisans = {
         culture = dutch
         religion = protestant
@@ -1150,31 +1196,31 @@
     farmers = {
         culture = dutch
         religion = protestant
-        size = 8075
+        size = 6075
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = north_german
         religion = catholic
         size = 65
     }
 
     artisans = {
-        culture = rhine_german
+        culture = north_german
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = north_german
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = rhine_german
+        culture = north_german
         religion = catholic
-        size = 2260
+        size = 4260
     }
 
 }
@@ -1185,17 +1231,16 @@
         religion = protestant
         size = 300
     }
-
     clergymen = {
         culture = dutch
         religion = protestant
-        size = 700
+        size = 170
     }
 
     artisans = {
         culture = dutch
         religion = protestant
-        size = 4000
+        size = 3000
     }
 
     soldiers = {
@@ -1225,15 +1270,25 @@
     artisans = {
         culture = dutch
         religion = catholic
-        size = 1600
+        size = 1200
     }
 
+    artisans = {
+        culture = rhine_german
+        religion = protestant
+        size = 4600
+    }
     soldiers = {
         culture = dutch
         religion = catholic
-        size = 150
+        size = 50
     }
 
+    soldiers = {
+        culture = rhine_german
+        religion = catholic
+        size = 150
+    }
     farmers = {
         culture = dutch
         religion = catholic
@@ -4079,7 +4134,7 @@
     clergymen = {
         culture = rhine_german
         religion = protestant
-        size = 175
+        size = 125
     }
 
     artisans = {
@@ -4097,7 +4152,7 @@
     farmers = {
         culture = rhine_german
         religion = protestant
-        size = 54625
+        size = 48625
     }
 
     aristocrats = {
@@ -4127,7 +4182,7 @@
     farmers = {
         culture = dutch
         religion = catholic
-        size = 26250
+        size = 16250
     }
 }
 #Minden (216000/54000 POPS)

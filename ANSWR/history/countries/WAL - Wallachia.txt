@@ -1,13 +1,13 @@
 capital = 664
 primary_culture = romanian
 religion = orthodox
-government = absolute_monarchy
+government = hms_government
 plurality = 25.0
 nationalvalue = nv_autocracy
 literacy = 0.04
 non_state_culture_literacy = 0.01
 civilized = yes
-prestige = 4
+prestige = 5
 
 # Political reforms
 slavery = yes_slavery

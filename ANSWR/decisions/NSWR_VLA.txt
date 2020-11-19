@@ -1,0 +1,22 @@
+#Re-establish the Hanse
+
+#political_decisions = {
+#	establish_new_hanseatic_league = {
+#		potential ={
+#			tag = VLA
+#			owns = 530
+#			owns = 539
+#		}
+#		allow = {
+#
+#			is_greater_power = yes
+#			nationalism_n_imperialism = 1
+#
+#			war = no
+#		}
+#		effect = {
+#			prestige = 25
+#		}
+#	}
+#
+#}

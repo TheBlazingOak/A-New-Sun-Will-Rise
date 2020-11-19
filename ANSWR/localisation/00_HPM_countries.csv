@@ -3365,7 +3365,7 @@ SJR_ADJ;Pacaembun;;;;;;;;;;;;;,,
 SJR_democracy;Serene Republic of Pacaembu;;;;;;;;;;;;;,,
 AMZ;Parania;;;;;;;;;;;;;,,
 AMZ_ADJ;Amazonian;;;;;;;;;;;;;,,
-AMZ_democracy;United Provinces of the Grand Para;;;;;;;;;;;;;,,
+AMZ_democracy;United Provinces of Grand Para;;;;;;;;;;;;;,,
 ATC_absolute_monarchy;Antillean Empire;Empire of Antillia;Empire of Antillia;;Empire of Antillia;;;;;;;;;
 ATC_proletarian_dictatorship;The Red Indies;the Red Indies;the Red Indies;;the Red Indies;;;;;;;;;
 ATC_presidential_dictatorship;Republic of Antillia;Republic of Antillia;Republic of Antillia;;Republic of Antillia;;;;;;;;;
@@ -3381,3 +3381,32 @@ HAI;Haitia;;;;;;;;;;;;;,,
 HAI_ADJ;Haitien;;;;;;;;;;;;;,,
 ALS;Elsàss-Lothrìnga;;;;;;;;;;;;;
 ALS_ADJ;Elsässisch;;;;;;;;;;;;;
+APU;Apùglia;;;;;;;;;;;;;
+APU_ADJ;Apugliese;;;;;;;;;;;;;
+SIC;Napoli-Roma;;;;;;;;;;;;;
+SIC_ADJ;Napoletano-Romani;;;;;;;;;;;;;
+TUS;Firenzeni;;;;;;;;;;;;;
+TUS_ADJ;Fiorentizo;;;;;;;;;;;;;
+PAR;Pärma;;;;;;;;;;;;;
+PAR_ADJ;Pärmenseni;;;;;;;;;;;;;
+CRV;Craiova;;;;;;;;;;;;;
+CRV_ADJ;Craiovan;;;;;;;;;;;;;
+CRV_democracy;Autonomous Commune of Craiova;;;;;;;;;;;;;
+WAL;Bucharest;;;;;;;;;;;;;
+WAL_ADJ;Bucharester;;;;;;;;;;;;;
+WAL_hms_government;Comunele Române;;;;;;;;;;;;;
+DEV;Deva;;;;;;;;;;;;;
+DEV_ADJ;Devian;;;;;;;;;;;;;
+DEV_democracy;Autonomous Commune of Deva;;;;;;;;;;;;;
+SIE;Brasso;;;;;;;;;;;;;
+SIE_ADJ;Brassan;;;;;;;;;;;;;
+SIE_democracy;Autonomous Commune of Brasso;;;;;;;;;;;;;
+BKV;Suceava;;;;;;;;;;;;;
+BKV_ADJ;Seceavan;;;;;;;;;;;;;
+BKV_democracy;Autonomous Commune of Seceava;;;;;;;;;;;;;
+MOL;Iasi;;;;;;;;;;;;;
+MOL_ADJ;Iasian;;;;;;;;;;;;;
+MOL_democracy;Autonomous Commune of Iasi;;;;;;;;;;;;;
+MDV;Chisinau;;;;;;;;;;;;;
+MDV_ADJ;Chisinan;;;;;;;;;;;;;
+MDV_democracy;Autonomous Commune of Chisinau;;;;;;;;;;;;;
