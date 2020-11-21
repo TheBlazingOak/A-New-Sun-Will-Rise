@@ -1,0 +1,51 @@
+political_decisions = {
+	form_the_Confederacy = {
+		news = yes
+		news_desc_long = "form_the_confederacy_NEWS_LONG"
+		news_desc_medium = "form_the_confederacy_NEWS_MEDIUM"
+		news_desc_short = "form_the_confederacy_NEWS_SHORT"
+		potential = {
+			OR = {
+				is_culture_group = dixie
+			}
+			NOT = {
+				exists = CSA
+			}
+		}
+		
+		allow = {
+			is_greater_power = yes
+			prestige = 40
+			war = no
+			CSA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = CSA
+			add_accepted_culture = floridian
+			add_accepted_culture = dixie_cajun
+			any_country = {
+				limit = {
+					NOT = {
+						is_greater_power = yes
+					}
+					is_culture_group = dixie
+					in_sphere = THIS
+				}
+				country_event = { id=11101 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
