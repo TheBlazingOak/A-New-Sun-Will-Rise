@@ -1935,6 +1935,57 @@ american_cultures = {
                 Wilson Wright Young
         }
     }
+    deitsch = {
+        color = {94 244 76}
+        first_names = { Abelard Absalom Abner Adalfrid Adalhelm Adalrich Aldous Adalfuns_Alphonse Adalbert_Albert Abram_Abraham Arnuld_Arnold Amalrich_Amalric Andreas_Andrew Amos Anaklet_Anacletus Agatho Albright Arnwald Aaron_Aaron Abraham_Abraham Adam_Adam Andrew_Andrew Asher Allen_Alan
+			Bertrand Berchtold Botger Benjamin_Benjamin Benedikt_Benedict Bruno Burkhard Bodomar Bernhard_Bernard Bartel_Bartholomew Bartholomeus_Bartholomew Bastian_Sebastian
+			Christian_Christian Clemens_Clement Calixt_Calixtus Cajus Coelestin_Celestine Conrad_Conrad
+			David_David Dietrich_Theoderic Derek_Theoderic Daniel_Daniel
+			Elijah Elias_Elijah Ezekiel Eberhart_Eberhard Emmanuel_Emmanuel Ernst_Ernest Eckert_Eckart Egilbright Eugen_Eugene Elmer
+			Frederich_Frederick Friedrich_Frederick Fredegar Ferdinand_Ferdinand Felix_Felix Franziskus_Francis Fredegisel Flory_Florent
+			Georg_George Gisalhart Garman Gerhard_Gerard Gideon_Gideon Gregor_Gregory Gebhard Gottschalk Gotfrid_Godfrey Gundobert Gabriel_Gabriel
+			Heinrich_Henry Hartman Hesso Hermann_Herman Helmuth_Helmut Hippolyt_Hippolyte Hubert Hugbert Hildebrand Hagenbert Hrodebert_Robert Hensel
+			Innozenz_Innocent Isaiah_Isaiah Isaac_Isaac Immanuel_Emmanuel
+			Johannes_John Joshua_Joshua Joseph_Joseph Jakob_Jacob Jeremiah_Jeremiah Julius_Julius James_James Jared Jesse Jethro Jokim_Joachim
+			Karl_Charles Klause_Nicholas Kunrat_Conrad Konstantin_Constantine Kephart Kasimir_Casimir
+			Lorenz_Lawrence Lothar Luithart Ludwig_Louis Lucas_Luke Linus Lühr Ludger Leonardt_Leonard Levi
+			Markus_Mark Markwald Mark_Mark Maganhard Menno Moses_Moses Marius_Marius Maginulf Matthias_Matthew Martin_Martin Micah
+			Nicolaus_Nicholas Nagalrich Noah
+			Otto_Otto Obediah_Obadiah Otacher Octavius_Octavius Oskar_Oscar
+			Petrus_Peter Peter_Peter Paulus_Paul Philip_Philip Philibert Pius_Pius Paschalis_Pascal Paul_Paul
+			Robrecht_Robert Robert_Robert Rollant_Roland Reinhard_Reynard Reinhold_Ronald Ricohard_Richard Richard_Richard Reuchlin Rufus
+			Stephan_Stephen Simon_Simon Samuel_Samuel Silvester_Sylvester Sebastian_Sebastian Samson Seth Solomon_Solomon Stephen_Stephen
+			Theodor_Theodore Thomas_Thomas Trautman Theiss Terri_Terence Thaddeus_Thaddeus
+			Urban_Urban Ursus
+			Valentin_Valentine Viktor_Victor
+			Wilhelm_William Walther_Walter Wibert_Wilbert
+			Zachariah_Zachary Zephaniah Zacharias_Zachary
+        }
+        last_names = { Abelard Absalom Abner Adalfrid Adalhelm Adalrich Aldous Adalfuns_Alphonse Adalbert_Albert Abram_Abraham Arnuld_Arnold Amalrich_Amalric Andreas_Andrew Amos Anaklet_Anacletus Agatho Albright Arnwald Aaron_Aaron Abraham_Abraham Adam_Adam Andrew_Andrew Asher Allen_Alan
+			Bertrand Berchtold Botger Benjamin_Benjamin Benedikt_Benedict Bruno Burkhard Bodomar Bernhard_Bernard Bartel_Bartholomew Bartholomeus_Bartholomew Bastian_Sebastian
+			Christian_Christian Clemens_Clement Calixt_Calixtus Cajus Coelestin_Celestine Conrad_Conrad
+			David_David Dietrich_Theoderic Derek_Theoderic Daniel_Daniel
+			Elijah Elias_Elijah Ezekiel Eberhart_Eberhard Emmanuel_Emmanuel Ernst_Ernest Eckert_Eckart Egilbright Eugen_Eugene Elmer
+			Frederich_Frederick Friedrich_Frederick Fredegar Ferdinand_Ferdinand Felix_Felix Franziskus_Francis Fredegisel Flory_Florent
+			Georg_George Gisalhart Garman Gerhard_Gerard Gideon_Gideon Gregor_Gregory Gebhard Gottschalk Gotfrid_Godfrey Gundobert Gabriel_Gabriel
+			Heinrich_Henry Hartman Hesso Hermann_Herman Helmuth_Helmut Hippolyt_Hippolyte Hubert Hugbert Hildebrand Hagenbert Hrodebert_Robert Hensel
+			Innozenz_Innocent Isaiah_Isaiah Isaac_Isaac Immanuel_Emmanuel
+			Johannes_John Joshua_Joshua Joseph_Joseph Jakob_Jacob Jeremiah_Jeremiah Julius_Julius James_James Jared Jesse Jethro Jokim_Joachim
+			Karl_Charles Klause_Nicholas Kunrat_Conrad Konstantin_Constantine Kephart Kasimir_Casimir
+			Lorenz_Lawrence Lothar Luithart Ludwig_Louis Lucas_Luke Linus Lühr Ludger Leonardt_Leonard Levi
+			Markus_Mark Markwald Mark_Mark Maganhard Menno Moses_Moses Marius_Marius Maginulf Matthias_Matthew Martin_Martin Micah
+			Nicolaus_Nicholas Nagalrich Noah
+			Otto_Otto Obediah_Obadiah Otacher Octavius_Octavius Oskar_Oscar
+			Petrus_Peter Peter_Peter Paulus_Paul Philip_Philip Philibert Pius_Pius Paschalis_Pascal Paul_Paul
+			Robrecht_Robert Robert_Robert Rollant_Roland Reinhard_Reynard Reinhold_Ronald Ricohard_Richard Richard_Richard Reuchlin Rufus
+			Stephan_Stephen Simon_Simon Samuel_Samuel Silvester_Sylvester Sebastian_Sebastian Samson Seth Solomon_Solomon Stephen_Stephen
+			Theodor_Theodore Thomas_Thomas Trautman Theiss Terri_Terence Thaddeus_Thaddeus
+			Urban_Urban Ursus
+			Valentin_Valentine Viktor_Victor
+			Wilhelm_William Walther_Walter Wibert_Wilbert
+			Zachariah_Zachary Zephaniah Zacharias_Zachary
+        }
+    }
     dixie = {
         color = {129 129 129}
         first_names = { Robert Jesse James Nathan George Joseph John Patrick Albert Braxton William Ambrose Jubal Richard

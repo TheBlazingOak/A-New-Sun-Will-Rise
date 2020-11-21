@@ -65,49 +65,49 @@
 #Montserrat (5300/1325 POPS) #still British Colony
 2225 = {
     aristocrats = {
-        culture = british
+        culture = pacifica
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = british
+        culture = pacifica
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = british
+        culture = pacifica
         religion = protestant
         size = 30
     }
 
     farmers = {
-        culture = british
+        culture = pacifica
         religion = protestant
         size = 30
     }
 
     clergymen = {
-        culture = afro_caribbean
+        culture = pacifica
         religion = protestant
         size = 15
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = pacifica
         religion = protestant
         size = 45
     }
 
     soldiers = {
-        culture = afro_caribbean
+        culture = pacifica
         religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = pacifica
         religion = protestant
         size = 1380
     }
