@@ -1081,31 +1081,31 @@
 #Salt Lake City (8000/2000 POPS)
 97 = {
     aristocrats = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 25
     }
 
     clergymen = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 50
     }
 
     artisans = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 100
     }
 
     soldiers = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 125
     }
 
     farmers = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 2800
     }
@@ -1113,25 +1113,25 @@
 #Loa (4000/1000 POPS)
 98 = {
     aristocrats = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 10
     }
 
     clergymen = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 25
     }
 
     soldiers = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 15
     }
 
     farmers = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 900
     }
@@ -1139,25 +1139,25 @@
 #Moab (4000/1000 POPS)
 99 = {
     aristocrats = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 10
     }
 
     clergymen = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 25
     }
 
     soldiers = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 15
     }
 
     farmers = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 900
     }
@@ -1629,31 +1629,31 @@
 #Cheyenne (8000/2000 POPS)
 110 = {
     aristocrats = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 25
     }
 
     clergymen = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 50
     }
 
     artisans = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 100
     }
 
     soldiers = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 25
     }
 
     farmers = {
-        culture = yankee
+        culture = mormon
         religion = mormon
         size = 1800
     }
