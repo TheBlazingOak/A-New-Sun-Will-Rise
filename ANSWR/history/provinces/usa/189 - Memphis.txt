@@ -1,6 +1,7 @@
 owner = PAW
 controller = PAW
 add_core = PAW
+add_core = CSA
 trade_goods = tobacco
 life_rating = 35
 

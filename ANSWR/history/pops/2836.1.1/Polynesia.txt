@@ -665,31 +665,31 @@
 #Vahitahi
 3319 = {
     aristocrats = {
-        culture = polynesian
+        culture = pacifica
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = polynesian
+        culture = pacifica
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = polynesian
+        culture = pacifica
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = polynesian
+        culture = pacifica
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = polynesian
+        culture = pacifica
         religion = animist
         size = 20
     }
@@ -698,32 +698,32 @@
 #Vairaatea
 3320 = {
     aristocrats = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 5
     }
 
     clergymen = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 10
     }
 
     soldiers = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 20
     }
 }
@@ -731,32 +731,32 @@
 #Nukutavake
 3321 = {
     aristocrats = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 5
     }
 
     clergymen = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 10
     }
 
     soldiers = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 20
     }
 }
@@ -764,32 +764,32 @@
 #Pinaki
 3322 = {
     aristocrats = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 5
     }
 
     clergymen = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 10
     }
 
     soldiers = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = polynesian
-        religion = animist
+        culture = pacifica
+        religion = protestant
         size = 20
     }
 }
