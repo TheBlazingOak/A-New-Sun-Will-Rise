@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = CLV
+controller = CLV
+add_core = CLV
 terrain = urban
 trade_goods = fish
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = DAL
+controller = DAL
+add_core = DAL
 trade_goods = iron
 life_rating = 35
 2861.1.1 = { railroad = 3 }

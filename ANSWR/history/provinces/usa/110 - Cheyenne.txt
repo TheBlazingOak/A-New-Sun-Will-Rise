@@ -3,4 +3,4 @@ controller = DES
 add_core = DES
 trade_goods = grain
 terrain = mountain
-life_rating = 25
+life_rating = 20

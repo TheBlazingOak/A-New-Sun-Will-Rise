@@ -1,9 +1,8 @@
-owner = ENG
-controller = ENG
+owner = AST
+controller = AST
 add_core = AST
 trade_goods = wool
 life_rating = 35
-colonial = 2
 2861.1.1 = {
     colonial = 2
     state_building = {

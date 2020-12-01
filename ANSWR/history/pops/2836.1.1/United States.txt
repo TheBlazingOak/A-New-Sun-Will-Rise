@@ -8386,7 +8386,7 @@
     }
 
     officers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 125
     }
@@ -8410,31 +8410,31 @@
     }
 
     soldiers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 9750
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 9000
     }
 
     clergymen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 225
     }
 
     artisans = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 1300
     }
@@ -8584,19 +8584,19 @@
 #Hagerstown (56000/14000 POPS)
 221 = {
     aristocrats = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 150
     }
 
     clergymen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 325
     }
@@ -8608,13 +8608,13 @@
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 5325
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 8000
     }
@@ -8648,19 +8648,19 @@
 #Dover (76000/19000 POPS)
 222 = {
     aristocrats = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 75
     }
 
     bureaucrats = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 25
     }
 
     officers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 10
     }
@@ -8678,7 +8678,7 @@
     }
 
     soldiers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 125
     }
@@ -8690,7 +8690,7 @@
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 7000
     }
@@ -8724,115 +8724,115 @@
 #Philadelphia (468000/117000 POPS)
 223 = {
     bureaucrats = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 1800
     }
 
     officers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 300
     }
 
     capitalists = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 550
     }
 
     clerks = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 60
     }
 
     craftsmen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 1200
     }
 
     artisans = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 740
     }
 
     soldiers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 66950
     }
 
     bureaucrats = {
-        culture = deitsch
+        culture = deitschlenner
         religion = catholic
         size = 75
     }
 
     officers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = catholic
         size = 75
     }
 
     clergymen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = catholic
         size = 125
     }
 
     clerks = {
-        culture = deitsch
+        culture = deitschlenner
         religion = catholic
         size = 5
     }
 
     craftsmen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = deitsch
+        culture = deitschlenner
         religion = catholic
         size = 2045
     }
 
     soldiers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = catholic
         size = 175
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = catholic
         size = 15400
     }
 
     clergymen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = catholic
         size = 50
     }
@@ -8950,7 +8950,7 @@
 #Scranton (164000/41000 POPS)
 224 = {
     clergymen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 300
     }
@@ -8968,7 +8968,7 @@
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 38225
     }
@@ -8976,7 +8976,7 @@
 #Williamsport (172000/43000 POPS)
 225 = {
     clergymen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 325
     }
@@ -8994,7 +8994,7 @@
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 40100
     }
@@ -9014,13 +9014,13 @@
     }
 
     soldiers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 66800
     }
@@ -9028,25 +9028,25 @@
 #Pittsburgh (332000/83000 POPS)
 227 = {
     clergymen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 300
     }
 
     artisans = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 2250
     }
 
     soldiers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 400
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 37300
     }
@@ -9142,13 +9142,13 @@
 #Newark (156000/39000 POPS)
 229 = {
     clergymen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 1550
     }
@@ -9160,13 +9160,13 @@
     }
 
     craftsmen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 27925
     }
@@ -9246,7 +9246,7 @@
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 21105
     }
@@ -9264,25 +9264,25 @@
     }
 
     clergymen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = deitsch
+        culture = deitschlenner
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = catholic
         size = 2735
     }
@@ -9290,7 +9290,7 @@
 #Atlantic City (88000/22000 POPS)
 231 = {
     clergymen = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 150
     }
@@ -9308,7 +9308,7 @@
     }
 
     farmers = {
-        culture = deitsch
+        culture = deitschlenner
         religion = protestant
         size = 20525
     }

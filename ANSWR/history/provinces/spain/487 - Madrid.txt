@@ -1,9 +1,8 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = LIR
+controller = LIR
+add_core = LIR
 trade_goods = cattle
-life_rating = 40
-fort = 1
+life_rating = 31
 #state_building = {
 #    level = 1
 #    building = ammunition_factory

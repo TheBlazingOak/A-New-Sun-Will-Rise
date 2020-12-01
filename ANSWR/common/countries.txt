@@ -26,7 +26,7 @@ AMA        ="countries/Amazona.txt" #Amazon
 LSK        = "countries/Alaska.txt"
 ARI        ="countries/Arizona.txt"
 DAU        ="countries/Durango.txt"
-PEN	   ="countries/Pennsylvania.txt"
+PEN	       ="countries/Pennsylvania.txt"
 
 #Mexican Warlords
 RDM        ="countries/Reyes de Morelia.txt" #Kings of Morelia
@@ -59,6 +59,10 @@ PRV        = "countries/Provence.txt"
 AUV        = "countries/Auvergne.txt"
 FRE        = "countries/Union of France.txt"
 VLA        = "countries/Flanspublic.txt"
+CLV        = "countries/Clavel.txt"
+DAL        = "countries/Dalia.txt"
+DMN        = "countries/Damasco.txt"
+LIR        = "countries/Lirlo.txt"
 
 ##ANSWR Central Europe
 APU        = "countries/Apulia.txt"

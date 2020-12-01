@@ -1,11 +1,10 @@
 capital = 498
 primary_culture = catalan
-culture = spanish
 religion = catholic
 government = absolute_monarchy
 plurality = 0.05
 nationalvalue = nv_order
-literacy = 0.13
+literacy = 0.20
 civilized = yes
 
 # Political reforms

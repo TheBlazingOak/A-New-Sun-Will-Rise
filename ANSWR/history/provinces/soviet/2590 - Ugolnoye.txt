@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = CLV
+controller = CLV
+add_core = CLV
 add_core = MOR
 trade_goods = fish
 terrain = urban

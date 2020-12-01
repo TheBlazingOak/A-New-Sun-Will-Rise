@@ -1,8 +1,8 @@
-owner = BRU
-controller = BRU
-add_core = BRU
+owner = AST
+controller = AST
+add_core = AST
 trade_goods = grain
-life_rating = 31
+life_rating = 35
 2861.1.1 = {
     owner = SWK
     controller = SWK
