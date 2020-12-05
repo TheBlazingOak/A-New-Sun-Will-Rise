@@ -3,5 +3,5 @@ controller = DPA
 add_core = DPA
 add_core = FRA
 trade_goods = grain
-life_rating = 31
+life_rating = 32
 2861.1.1 = { railroad = 3 }

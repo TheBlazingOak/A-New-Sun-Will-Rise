@@ -1,8 +1,8 @@
-owner = LAT
-controller = LAT
-add_core = LAT
+owner = LIT
+controller = LIT
+add_core = LIT
 trade_goods = fish
-life_rating = 40
+life_rating = 39
 naval_base = 2
 #state_building = {
 #    level = 1

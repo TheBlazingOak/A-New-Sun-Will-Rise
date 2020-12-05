@@ -1,8 +1,7 @@
 owner = BRI
 controller = BRI
 add_core = BRI
-add_core = GER
 #add_core = POL
 trade_goods = grain
-life_rating = 40
+life_rating = 35
 2861.1.1 = { railroad = 3 }

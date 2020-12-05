@@ -1,9 +1,9 @@
-color = { 154  69  116 }
+color = { 184  121  201 }
 graphical_culture = EuropeanGC
 
 party = {
     name = "LIT_conservative"
-    start_date = 1800.1.1
+    start_date = 2800.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -18,7 +18,7 @@ party = {
 
 party = {
     name = "LIT_conservative_2"
-    start_date = 1880.1.1
+    start_date = 2880.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -48,7 +48,7 @@ party = {
 
 party = {
     name = "LIT_liberal_2"
-    start_date = 1880.1.1
+    start_date = 2880.1.1
     end_date = 2936.1.1
 
     ideology = liberal

@@ -1,5 +1,5 @@
-owner = GRE
-controller = GRE
-add_core = GRE
+owner = MCD
+controller = MCD
+add_core = MCD
 trade_goods = cotton
 life_rating = 35

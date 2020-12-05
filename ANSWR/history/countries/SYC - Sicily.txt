@@ -1,15 +1,15 @@
 capital = 762
-primary_culture = south_italian
-religion = catholic
+primary_culture = turkish
+religion = sunni
 government = democracy
-plurality = 25.0
+plurality = 5
 nationalvalue = nv_liberty
-literacy = 0.25
+literacy = 0.33
 civilized = yes
-prestige = 10
+prestige = 5
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = population_equal_weight
 vote_franschise = universal_weighted_voting
 public_meetings = yes_meeting

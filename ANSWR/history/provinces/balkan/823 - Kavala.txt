@@ -1,6 +1,5 @@
-owner = BUL
-controller = BUL
-add_core = BUL
-add_core = GRE
+owner = NSR
+controller = NSR
+add_core = NSR
 trade_goods = tobacco
 life_rating = 35

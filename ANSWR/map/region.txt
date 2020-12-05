@@ -215,27 +215,29 @@ AUS_407 = { 407 470 471 465 399 2283 846 742 }
 
 ### Spain & Portugal
 
-SPA_474 = { 474 476 } #Galicia
+SPA_474 = { 474 476 475 478 } #Nuvacolia
 
-SPA_477 = { 477 479 480 481 482 483 475 478 } #León-Castilla
+SPA_477 = { 477 479 480 494 } #Leóna
 
-SPA_484 = { 484 485 486 } #Extremadura
+SPA_484 = { 484 485 486 511 } #Mayor Lirlo
 
-SPA_487 = { 487 488 489 490 491 } #Castilla la Nueva
+SPA_488 = { 488 487 481 482 483 } #Flormoribuna
 
-SPA_492 = { 492 493 494 495 496 497 } #Vasconia-Aragón
+SPA_487 = { 489 490 491 506 507 508 } #Damasco Central
+
+SPA_503 = { 503 504 505 497 } #Varcincia
+
+SPA_492 = { 492 493 495 496 } #Varagóna
 
 SPA_498 = { 498 499 500 501 502 } #Catalonia
 
-SPA_503 = { 503 504 505 506 507 508 } #Valencia
+SPA_512 = { 512 509 517 514 } #La Jardin
 
-SPA_512 = { 512 509 510 511 517 } #Andalucia
-
-SPA_513 = { 513 514 515 516 } #Granada
+SPA_513 = { 513 515 516 510 } #Granada
 
 POR_518 = { 518 519 520 } #Douro
 
-POR_521 = { 521 522 523 524 } #Estremadura
+POR_521 = { 521 522 523 524 } #Alfazema
 
 POR_525 = { 525 526 527 } #Alentejo
 
@@ -391,17 +393,17 @@ TUR_823 = { 823 829 830 } #Eastern Macedonia
 
 GRE_826 = { 834 842 839 840 841 } #Peloponnese
 
-TUR_832 = { 832 831 833 824 826 } #Thessalia
+TUR_832 = { 832 831 833 824 } #Thessalia
 
-GRE_837 = { 837 836 835 838 845 827 } #Attica - Central Greece
+GRE_837 = { 837 836 835 838 845 } #Attica - Central Greece
 
-EGY_843 = { 848 843 847 } #Aegean Islands
+EGY_843 = { 848 855 827 826 } #Aegean Islands
 
 TUR_853 = { 849 853 852 851 850 } #Albania
 
-TUR_855 = { 855 856 857 } #Cyprus
+TUR_855 = { 856 857 847 } #Cyprus
 
-TUR_860 = { 860 828 858 859 } #Thrace
+TUR_860 = { 860 828 858 859 843 } #Thrace
 
 
 ### Middle East
@@ -749,7 +751,7 @@ CHI_1482 = { 1482 1483 1484 1486 1487 } #Fujian
 
 CHI_1485 = { 2681 1485 2562 2406 } #Formosa
 
-CHI_1490 = { 1489 1491 1492 } #Gansu
+CHI_1490 = { 1489 1492 } #Gansu
 
 CHI_1493 = { 1493 1496 1498 1494 1497 1500 } #East Canton
 
@@ -779,7 +781,7 @@ CHI_1540 = { 1540 1541 1543 1536 1542 } #North Jiangsu
 
 CHI_1545 = { 1545 1546 1549 1551 } #North Jiangxi
 
-CHI_1547 = { 1547 1548 1550 } #South Jiangxi
+CHI_1547 = { 1547 1550 } #South Jiangxi
 
 CHI_1557 = { 1557 1558 1556 } #Kokonor/Qinghai
 
@@ -873,15 +875,15 @@ TRI_1735 = { 1735 1736 1737 1738 2585 } #Cyrenaica
 
 #TRI_1740 = { 1740 1741 1742 1743 } #Fezzan
 
-EGY_1745 = { 1745 1747 1750 1748 1749 1751 1746 } #Cairo
+EGY_1745 = { 1745 1748 1749 1746 1755 } #East Delta
 
-#EGY_1751 = { 1751 1746 1752 1753 } #Alexandria
+EGY_1751 = { 1747 1750 1751 1765 1763 }#West Delta
 
-EGY_1755 = { 1755 1756 1757 } #Sinai
+EGY_1755 = { 1756 1757 } #Sinai
 
-EGY_1758 = { 1752 1753  1759 1758 1761 1760 1754 } #Western Desert
+EGY_1758 = { 1752 1753 1759 1758 1761 1760 1754 } #Western Desert
 
-EGY_1762 = { 1765 1763 1762 2559 1764 1772 } #Middle Egypt
+EGY_1762 = { 1762 2559 1764 1772 } #Middle Egypt
 
 EGY_1771 = { 1769 1771 1768 1770 1767 1766 } #Upper Egypt
 

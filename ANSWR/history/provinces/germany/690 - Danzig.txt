@@ -1,9 +1,8 @@
-owner = DZG
-controller = DZG
-add_core = DZG
-add_core = GER
+owner = POL
+controller = POL
+add_core = POL
 trade_goods = fish
-life_rating = 40
+life_rating = 35
 naval_base = 1
 2861.1.1 = {
     state_building = {

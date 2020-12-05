@@ -2,23 +2,15 @@ owner = CAT
 controller = CAT
 add_core = CAT
 trade_goods = cattle
-life_rating = 35
+life_rating = 39
 naval_base = 1
 #state_building = {
 #    level = 1
 #    building = fabric_factory
 #    upgrade = yes
 #}
-2861.1.1 = {
-    state_building = {
+state_building = {
         level = 1
         building = regular_clothes_factory
         upgrade = yes
     }
-    state_building = {
-        level = 1
-        building = glass_factory
-        upgrade = yes
-    }
-}
-2861.1.1 = { railroad = 2 }

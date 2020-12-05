@@ -64,7 +64,7 @@ party = {
 party = {
     name = "HUN_reactionary"
     start_date = 2830.1.1
-    end_date = 1881.1.1
+    end_date = 2881.1.1
 
     ideology = reactionary
 
@@ -123,7 +123,7 @@ party = {
 
 party = {
     name = "HUN_socialist_4"
-    start_date = 1909.1.1
+    start_date = 2909.1.1
     end_date = 3000.1.1
 
     ideology = socialist
@@ -138,7 +138,7 @@ party = {
 
 party = {
     name = "HUN_liberal_3"
-    start_date = 1914.1.1
+    start_date = 2914.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -168,7 +168,7 @@ party = {
 
 party = {
     name = "HUN_conservative_2"
-    start_date = 1895.1.1
+    start_date = 2895.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -183,7 +183,7 @@ party = {
 
 party = {
     name = "HUN_conservative_3"
-    start_date = 1881.1.1
+    start_date = 2881.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -198,7 +198,7 @@ party = {
 
 party = {
     name = "HUN_conservative_4"
-    start_date = 1881.1.1
+    start_date = 2881.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -213,7 +213,7 @@ party = {
 
 party = {
     name = "HUN_reactionary_2"
-    start_date = 1881.1.1
+    start_date = 2881.1.1
     end_date = 3000.1.1
 
     ideology = reactionary

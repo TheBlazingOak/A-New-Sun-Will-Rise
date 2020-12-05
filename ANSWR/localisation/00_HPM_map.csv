@@ -274,7 +274,6 @@ PROV2224;Antigua & Barbuda;;;;;;;;;;;;x
 PROV2220;Turks & Caicos;;;;;;;;;;;;x
 CHI_1082;Guanwai;;;;;;;;;;;;x
 PROV2591;Tranquebar;;;;;;;;;;;;x
-SWI_603;East Schweiz;;;;;;;;;;;;x
 PROV2625;North West River;;;;;;;;;;;;x
 PROV2580;Novaya Ladoga;;;;;;;;;;;;x
 PROV995;Petrozavodsk;;;;;;;;;;;;x
@@ -589,8 +588,8 @@ ALD_1713;North Central Sahara;;;;;;;;;;;;x
 TRI_1731;Tripolitania;;;;;;;;;;;;x
 TRI_1735;Cyrenaica;;;;;;;;;;;;x
 TRI_1740;Fezzan;;;;;;;;;;;;x
-EGY_1745;Cairo;;;;;;;;;;;;x
-EGY_1751;Alexandria;;;;;;;;;;;;x
+EGY_1745;East Delta;;;;;;;;;;;;x
+EGY_1751;West Delta;;;;;;;;;;;;x
 EGY_1753;Qattara;;;;;;;;;;;;x
 EGY_1755;Sinai;;;;;;;;;;;;x
 ENG_1844;Sudd;;;;;;;;;;;;x
@@ -973,7 +972,6 @@ PROV3327;Straits of Savoie;;;;;;;;;;;x
 NET_1413;West Java;;;;;;;;;;;;x
 NET_375;Holland;;;;;;;;;;;;x
 NET_385;West-Friesland;;;;;;;;;;;;x
-SWI_607;West Schweiz;;;;;;;;;;;;x
 PROV425;Parii;;;;;;;;;;;;x
 PROV625;Praha;;;;;;;;;;;;x
 PROV619;Wien;;;;;;;;;;;;x
@@ -986,6 +984,14 @@ PROV3315;Segozero Isle;;;;;;;;;;;;x
 PROV3329;The Vkhod;;;;;;;;;;;;x
 PROV3330;The Split;;;;;;;;;;;;x
 PROV3331;The Russian Channel;;;;;;;;;;;;x
+PROV2703;Alqadima;;;;;;;;;;;;x
+PROV2942;Swuazstrat;;;;;;;;;;;;x
+PROV2704;Ornibasen;;;;;;;;;;;;x
+PROV3318;Palärvi;;;;;;;;;;;;x
+PROV3292;Nakazaniya;;;;;;;;;;;;x
+PROV3291;Vodyanistyy;;;;;;;;;;;;x
+PROV2713;Malyy Yarvi;;;;;;;;;;;;x
+PROV1755;Swuaze;;;;;;;;;;;;x
 PROV3255;Mar de Argentina;;;;;;;;;;;x
 PROV3288;Bahía de Guay;;;;;;;;;;;;x
 PROV3276;Amazonas Baía;;;;;;;;;;;x
@@ -1033,8 +1039,32 @@ PROV539;Breem;;;;;;;;;;;;x
 PROV45;Saguenay;;;;;;;;;;;;x
 PROV2357;Porlamar;;;;;;;;;;;;x
 PROV57;Ottawa;;;;;;;;;;;;x
+PROV3321;Nuai Palmi Springs;;;;;;;;;;;;x
+PROV941;Novialiki;;;;;;;;;;;;x
+PROV948;Varyjaca;;;;;;;;;;;;x
+PROV942;Liepšaraka;;;;;;;;;;;;x
+PROV718;Raskol;;;;;;;;;;;;x
+PROV348;Hjørring;;;;;;;;;;;;x
+PROV307;Överföringen;;;;;;;;;;;;x
+PROV533;Guldborgsund;;;;;;;;;;;;x
+PROV605;Bärn;;;;;;;;;;;;x
+PROV605;Genèva;;;;;;;;;;;;x
 SIC_756;Apùglia;;;;;;;;;;;;x
 CAN_65;Centre de Québec;;;;;;;;;;;;x
 CAN_58;Montréal;;;;;;;;;;;;x
 CAN_60;Centre de Québec;;;;;;;;;;;;x
-PROV3321;Nuai Palmi Springs;;;;;;;;;;;;x
+SPA_512;Jardín;;;;;;;;;;;;x
+SPA_513;Granadia;;;;;;;;;;;;x
+SPA_474;Nuvacolia;;;;;;;;;;;;x
+SPA_477;Leóna;;;;;;;;;;;;x
+SPA_474;Nuvacolia;;;;;;;;;;;;x
+SPA_477;Leóna;;;;;;;;;;;;x
+SPA_484;Mayor Lirlo;;;;;;;;;;;;x
+SPA_488;Flormoribuna;;;;;;;;;;;;x
+SPA_503;Varcincia;;;;;;;;;;;;x
+SPA_492;Varagóna;;;;;;;;;;;;x
+POR_521;Alfazema;;;;;;;;;;;;x
+SWI_603;Ostschweiz;;;;;;;;;;;;x
+SWI_605;Zentralschweiz;;;;;;;;;;;;x
+SWI_607;Westschweiz;;;;;;;;;;;;x
+SPA_487;Damasco Central;;;;;;;;;;;;x

@@ -1,10 +1,10 @@
-color = { 57  160  101 }
+color = { 96  54  133 }
 graphical_culture = EuropeanGC
 
 party = {
     name = "POR_conservative"
     start_date = 2830.1.1
-    end_date = 1851.1.1
+    end_date = 2851.1.1
 
     ideology = conservative
 
@@ -18,7 +18,7 @@ party = {
 
 party = {
     name = "POR_conservative_2"
-    start_date = 1851.1.1
+    start_date = 2851.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -34,7 +34,7 @@ party = {
 party = {
     name = "POR_liberal"
     start_date = 2830.1.1
-    end_date = 1854.1.1
+    end_date = 2854.1.1
 
     ideology = liberal
 
@@ -48,8 +48,8 @@ party = {
 
 party = {
     name = "POR_liberal_2"
-    start_date = 1854.1.1
-    end_date = 1876.1.1
+    start_date = 2854.1.1
+    end_date = 2876.1.1
 
     ideology = liberal
 
@@ -63,8 +63,8 @@ party = {
 
 party = {
     name = "POR_liberal_3"
-    start_date = 1876.1.1
-    end_date = 1911.1.1
+    start_date = 2876.1.1
+    end_date = 2911.1.1
 
     ideology = liberal
 
@@ -78,8 +78,8 @@ party = {
 
 party = {
     name = "POR_liberal_4"
-    start_date = 1865.1.1
-    end_date = 1876.1.1
+    start_date = 2865.1.1
+    end_date = 2876.1.1
 
     ideology = liberal
 
@@ -93,8 +93,8 @@ party = {
 
 party = {
     name = "POR_liberal_5"
-    start_date = 1876.1.1
-    end_date = 1929.1.1
+    start_date = 2876.1.1
+    end_date = 2929.1.1
 
     ideology = liberal
 
@@ -123,7 +123,7 @@ party = {
 
 party = {
     name = "POR_liberal_6"
-    start_date = 1903.1.1
+    start_date = 2903.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -138,8 +138,8 @@ party = {
 
 party = {
     name = "POR_liberal_7"
-    start_date = 1910.1.1
-    end_date = 1929.1.1
+    start_date = 2910.1.1
+    end_date = 2929.1.1
 
     ideology = liberal
 

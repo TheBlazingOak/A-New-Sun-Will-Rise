@@ -2,9 +2,9 @@ capital = 521
 primary_culture = portuguese
 religion = catholic
 government = hms_government
-plurality = 25.0
+plurality = 12.5
 nationalvalue = nv_productivity
-literacy = 0.1
+literacy = 0.2
 non_state_culture_literacy = 0.02
 civilized = yes
 prestige = 10
@@ -38,7 +38,7 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = POR_liberal
+ruling_party = POR_conservative
 last_election = 1834.1.1
 upper_house = {
     fascist = 0

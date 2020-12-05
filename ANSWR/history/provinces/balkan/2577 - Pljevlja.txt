@@ -1,6 +1,5 @@
-owner = MON
-controller = MON
-add_core = MON
-add_core = BOS
+owner = SER
+controller = SER
+add_core = SER
 trade_goods = iron
 life_rating = 35

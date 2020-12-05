@@ -4,7 +4,15 @@ vassal = {
     first = BHR
     second = QAT
     start_date = 2836.1.1
-    end_date = 1868.1.1
+    end_date = 2868.1.1
+}
+
+#Paltija - Ostikunina
+vassal = {
+    first = LIT
+    second = EST
+    start_date = 2792.1.1
+    end_date = 2871.1.1
 }
 
 #Persia - Mukriyan
@@ -12,7 +20,7 @@ vassal = {
     first = PER
     second = MKN
     start_date = 2836.1.1
-    end_date = 1844.1.1
+    end_date = 2844.1.1
 }
 
 #Persia - Ardalan
@@ -20,7 +28,7 @@ vassal = {
     first = PER
     second = RDL
     start_date = 2836.1.1
-    end_date = 1844.1.1
+    end_date = 2844.1.1
 }
 
 #Ottoman - Baban
@@ -28,7 +36,7 @@ vassal = {
     first = TUR
     second = BNB
     start_date = 2836.1.1
-    end_date = 1844.1.1
+    end_date = 2844.1.1
 }
 
 #Ottoman - Bitlis
@@ -36,7 +44,7 @@ vassal = {
     first = TUR
     second = BTL
     start_date = 2836.1.1
-    end_date = 1844.1.1
+    end_date = 2844.1.1
 }
 
 #Ottoman - Bahdinan
@@ -44,7 +52,7 @@ vassal = {
     first = TUR
     second = BDN
     start_date = 2836.1.1
-    end_date = 1844.1.1
+    end_date = 2844.1.1
 }
 
 #Ottoman - Bhotan
@@ -52,7 +60,7 @@ vassal = {
     first = TUR
     second = BHT
     start_date = 2836.1.1
-    end_date = 1844.1.1
+    end_date = 2844.1.1
 }
 
 #Netherlands-Tidore Sultanate
@@ -91,7 +99,7 @@ vassal = {
 #vassal = {
 #    first = SOK
 #    second = ADW
-#    start_date = 1808.1.1
+#    start_date = 2808.1.1
 #    end_date = 2936.1.1
 #}
 
@@ -99,7 +107,7 @@ vassal = {
 #vassal = {
 #    first = WAD
 #    second = BRM
-#    start_date = 1808.1.1
+#    start_date = 2808.1.1
 #    end_date = 2936.1.1
 #}
 
@@ -123,7 +131,7 @@ vassal = {
     first = ENG
     second = ION
     start_date = 2836.1.1
-    end_date = 1864.1.1
+    end_date = 2864.1.1
 }
 
 # Sweden-Norway
@@ -139,7 +147,7 @@ substate = {
     first = RUS
     second = TCA
     start_date = 2836.1.1
-    end_date = 1881.1.1
+    end_date = 2881.1.1
 }
 
 #Russia - Baltic Governorate
@@ -147,7 +155,7 @@ substate = {
     first = RUS
     second = UBD
     start_date = 2836.1.1
-    end_date = 1881.1.1
+    end_date = 2881.1.1
 }
 
 #Russia - Abkhazia
@@ -155,7 +163,7 @@ vassal = {
     first = RUS
     second = ABK
     start_date = 2836.1.1
-    end_date = 1865.1.1
+    end_date = 2865.1.1
 }
 
 #######################
@@ -182,7 +190,7 @@ vassal = {
 vassal = {
     first = ENG
     second = AWA
-    start_date = 1801.1.1
+    start_date = 2801.1.1
     end_date = 2936.1.1
 }
 
@@ -342,7 +350,7 @@ vassal = {
     first = DAI
     second = CAM
     start_date = 2836.1.1
-    end_date = 1863.1.1
+    end_date = 2863.1.1
 }
 
 
