@@ -1,0 +1,111 @@
+NET = { value = -50 }
+AUS = { value = -100 }
+BRI = { value = -50 }
+
+army = {
+    name = "Armée de Bretagne"
+    location = 420
+    regiment = {
+        name= "I. Bataillon du Combat"
+        type = infantry
+        home = 420
+    }
+    regiment = {
+        name= "II. Bataillon du Combat"
+        type = infantry
+        home = 421
+    }
+    regiment = {
+        name= "III. Bataillon du Combat"
+        type = infantry
+        home = 422
+    }
+    regiment = {
+        name= "I. Artillerie"
+        type = artillery
+        home = 424
+    }
+    regiment = {
+        name= "I. Artillerie"
+        type = artillery
+        home = 423
+    }
+}
+navy = {
+    name = "Escadre du Nord"
+    location = 420
+    ship = {
+        name= "Couronne"
+        type = manowar
+    }
+
+    ship = {
+        name= "Superbe"
+        type = manowar
+    }
+
+    ship = {
+        name= "Duchesse de Berry"
+        type = frigate
+    }
+
+    ship = {
+        name= "Thétis"
+        type = frigate
+    }
+
+    ship = {
+        name= "Astrée"
+        type = frigate
+    }
+
+    ship = {
+        name= "Amazone"
+        type = frigate
+    }
+
+    ship = {
+        name= "1ère Flotille de Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "2ème Flotille de Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "3ème Flotille de Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "4ème Flotille de Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "5ème Flotille de Transport"
+        type = steam_transport
+    }
+}
+
+
+
+leader = {
+    name = "Évrard Boulle"
+    date = 2835.12.1
+    type = land
+    personality = efficient
+    background = artillerist
+    prestige = 0.5
+}
+
+leader = {
+    name = "Matthieu About"
+    date = 2830.1.1
+    type = sea
+    personality = chivalrous
+    background = aristocrat
+    prestige = 0.2
+}

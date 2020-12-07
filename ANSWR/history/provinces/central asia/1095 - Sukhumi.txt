@@ -1,7 +1,5 @@
-owner = ABK
-controller = ABK
-add_core = ABK
-add_core = CIR
-add_core = GEO
+owner = TCA
+controller = TCA
+add_core = TCA
 trade_goods = grain
 life_rating = 35

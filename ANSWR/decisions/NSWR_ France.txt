@@ -65,6 +65,9 @@ political_decisions = {
                 capital = 425
                 is_culture = french
                 }
+            NOT = {
+            425 = { is_capital = yes }
+            }
             }
 
             allow = {
@@ -84,6 +87,9 @@ political_decisions = {
     picture = france_liberty
         potential = {
         tag = PRP
+        NOT = {
+        418 = { core = THIS }
+        }
         }
 
         allow = {
@@ -109,6 +115,7 @@ political_decisions = {
     picture = war_propaganda_lady
         potential = {
         tag = DPA
+        425 = { core = THIS }
         }
 
         allow = {

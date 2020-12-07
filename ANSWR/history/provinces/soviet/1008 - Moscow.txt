@@ -1,25 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner = MOW
+controller = MOW
+add_core = MOW
 trade_goods = coal
-life_rating = 40
+life_rating = 20
 fort = 1
 terrain = mining_district
-2861.1.1 = {
-    state_building = {
-        level = 1
-        building = fabric_factory
-        upgrade = yes
-    }
-    state_building = {
-        level = 1
-        building = lumber_mill
-        upgrade = yes
-    }
-    state_building = {
-        level = 1
-        building = furniture_factory
-        upgrade = yes
-    }
-}
-2861.1.1 = { railroad = 2 }

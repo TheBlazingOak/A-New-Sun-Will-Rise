@@ -1,7 +1,7 @@
-owner = FIN
-controller = FIN
-add_core = FIN
+owner = IZH
+controller = IZH
+add_core = IZH
 trade_goods = fish
-life_rating = 31
+life_rating = 32
 fort = 1
 terrain = small_island

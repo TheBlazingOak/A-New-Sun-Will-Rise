@@ -1,8 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = RUS
 trade_goods = cattle
-life_rating = 35
+life_rating = 20
 #state_building = {
 #    level = 1
 #    building = liquor_distillery
