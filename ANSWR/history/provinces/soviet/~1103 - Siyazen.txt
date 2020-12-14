@@ -1,0 +1,9 @@
+owner = TCA
+controller = TCA
+add_core = TCA
+trade_goods = fruit
+life_rating = 35
+2861.1.1 = {
+    owner = RUS
+    controller = RUS
+}

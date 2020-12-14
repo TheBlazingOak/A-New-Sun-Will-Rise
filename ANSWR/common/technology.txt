@@ -149,4 +149,13 @@ schools ={
         industry_tech_research_bonus = -0.2
         navy_tech_research_bonus = -0.2
     }
+
+    dutch_tech_school = {
+        army_tech_research_bonus = -.1
+        commerce_tech_research_bonus = .1
+        culture_tech_research_bonus = .15
+        industry_tech_research_bonus = .05
+        navy_tech_research_bonus = .05
+    }
+
 }

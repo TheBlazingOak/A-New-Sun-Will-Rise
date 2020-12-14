@@ -1,10 +1,6 @@
-owner = LHJ
-controller = LHJ
-add_core = KTH
-add_core = MHR
-add_core = FDL
-add_core = LHJ
-add_core = NYE
+owner = NEJ
+controller = NEJ
+add_core = NEJ
 trade_goods = fish
 life_rating = 35
 naval_base = 1

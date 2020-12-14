@@ -27,6 +27,7 @@ political_decisions = {
 		potential = {
 			tag = SAP
 	 		has_country_flag = skandinaviska_victory
+	 		NOT = { has_country_modifier = kalmar_union }
 		}
 		allow = {
 				nationalism_n_imperialism = 1
@@ -38,7 +39,7 @@ political_decisions = {
 				country_event = { id = 52007 days = 0}
 				add_country_modifier = {
 					name = kalmar_union
-					duration = 100
+					duration = -1
 					}
 		        prestige = 50
 		        any_pop = {

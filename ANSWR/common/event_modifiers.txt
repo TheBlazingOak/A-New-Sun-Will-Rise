@@ -2586,3 +2586,8 @@ quest_for_washington = {
     prestige = .02
     icon = 19
 }
+
+dutch_dijkes = {
+    population_growth = 0.005
+    icon = 19
+}

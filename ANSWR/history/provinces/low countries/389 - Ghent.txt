@@ -1,6 +1,6 @@
-owner = NET
-controller = NET
-add_core = BEL
+owner = URA
+controller = URA
+add_core = URA
 trade_goods = wool
 life_rating = 35
 2861.1.1 = { railroad = 3 }

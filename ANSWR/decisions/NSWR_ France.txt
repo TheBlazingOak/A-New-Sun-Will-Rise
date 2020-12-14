@@ -62,12 +62,11 @@ political_decisions = {
                 is_culture_group = french
                 owns = 425
             NOT = {
-                capital = 425
                 is_culture = french
+                OR = { 425 = { is_capital = yes } }
+                OR = { tag = DPA }
+                OR = { tag = PRP}
                 }
-            NOT = {
-            425 = { is_capital = yes }
-            }
             }
 
             allow = {
@@ -116,6 +115,9 @@ political_decisions = {
         potential = {
         tag = DPA
         425 = { core = THIS }
+        NOT = {
+        425 = { is_capital = yes }
+        }
         }
 
         allow = {

@@ -2827,3 +2827,35 @@ political_decisions = {
         }
     }
 }
+
+NET_setup_1836 = {
+        picture = constantinople
+        potential = {
+            tag = NET
+            always = no
+        }
+
+        allow = {
+            tag = NET
+        }
+
+        effect = {
+            400 = { set_province_flag = kouderstad }
+            400 = { any_pop = { literacy = 0.75 } }
+            any_pop = {
+                limit = {
+                        has_pop_culture = dutch
+                }
+                literacy = .65
+            }
+            any_pop = {
+                limit = {
+                        has_pop_culture = flemish
+                }
+                literacy = .62
+            }
+            400 = { add_province_modifier = { name = dutch_dijkes duration = 36000 } }
+            }
+            }
+        }
+    }

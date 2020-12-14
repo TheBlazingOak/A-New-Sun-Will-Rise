@@ -1,7 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = KAM
+owner = CPL
+controller = CPL
+add_core = CPL
 trade_goods = fish
-life_rating = 20
-colonial = 2
+life_rating = 31

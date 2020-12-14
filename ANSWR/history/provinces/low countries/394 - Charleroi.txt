@@ -1,26 +1,9 @@
-owner = NET
-controller = NET
-add_core = BEL
-add_core = NET
-add_core = WLL
-trade_goods = coal
+owner = SIB
+controller = SIB
+add_core = SIB
+trade_goods = sulpher
 life_rating = 35
 terrain = mining_district
-state_building = {
-    level = 1
-    building = steel_factory
-    upgrade = yes
-}
-state_building = {
-    level = 1
-    building = ammunition_factory
-    upgrade = yes
-}
-state_building = {
-    level = 1
-    building = small_arms_factory
-    upgrade = yes
-}
 2861.1.1 = {
     state_building = {
         level = 1

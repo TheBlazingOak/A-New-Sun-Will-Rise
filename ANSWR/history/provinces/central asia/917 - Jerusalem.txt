@@ -1,8 +1,6 @@
-owner = EGY
-controller = EGY
-add_core = EGY
-add_core = TUR
-add_core = PLS
+owner = ISR
+controller = ISR
+add_core = ISR
 trade_goods = grain
 life_rating = 35
 terrain = dryhills

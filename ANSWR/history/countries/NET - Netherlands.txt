@@ -80,13 +80,17 @@ piston_steam_engine = 1
 mechanical_production = 1
 hot_blast = 1
 basic_chemistry = 1
+interchangable_parts = 1
 
 #Inventions
+precision_work = 1
 
 # Starting Consciousness
 consciousness = 4
 nonstate_consciousness = 1
 
-schools = army_tech_school
+schools = dutch_tech_school
 
 oob = "NET_oob.txt"
+
+decision = NET_setup_1836

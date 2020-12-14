@@ -1,7 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = URA
+owner = OMS
+controller = OMS
+add_core = OMS
 trade_goods = sulphur
-life_rating = 40
-colonial = 2
+life_rating = 45

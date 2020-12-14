@@ -1,8 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = YAK
+owner = KRL
+controller = KRL
+add_core = KRL
 trade_goods = timber
-terrain = boreal
-life_rating = 15
-colonial = 2
+life_rating = 35

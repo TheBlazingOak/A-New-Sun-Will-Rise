@@ -14,7 +14,7 @@ country_event = {
 
     trigger = {
         NOT = { has_country_flag = IOCMember }
-        year = 1892
+        year = 2892
         OR = {
             is_greater_power = yes # Nation is a great power
             prestige = 500 # Non-Euro/non GP need to be high prestige to get invite in this era
@@ -509,8 +509,8 @@ country_event = {
                 has_country_flag = NoHost2Olympiad
             }
         }
-        year = 1899
-        NOT = { year = 1902 }
+        year = 2899
+        NOT = { year = 2902 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -524,11 +524,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1900
+            year = 2900
         }
         modifier = {
             factor = 0.95
-            year = 1901
+            year = 2901
         }
         modifier = {
             factor = 0.9
@@ -640,8 +640,8 @@ country_event = {
             has_country_flag = Attend2Olympiad
             has_global_flag = Hold2Olympiad
         }
-        year = 1899
-        NOT = { year = 1902 }
+        year = 2899
+        NOT = { year = 2902 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -650,11 +650,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1900
+            year = 2900
         }
         modifier = {
             factor = 0.95
-            year = 1901
+            year = 2901
         }
     }
 
@@ -749,8 +749,8 @@ country_event = {
         has_country_flag = Host2Olympiad
         has_country_flag = Attend2Olympiad
         NOT = { has_global_flag = Hold2Olympiad }
-        year = 1900
-        NOT = { year = 1903 }
+        year = 2900
+        NOT = { year = 2903 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -759,11 +759,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1901
+            year = 2901
         }
         modifier = {
             factor = 0.95
-            year = 1902
+            year = 2902
         }
     }
 
@@ -788,8 +788,8 @@ country_event = {
         has_global_flag = Hold2Olympiad
         has_country_flag = Attend2Olympiad
         NOT = { has_country_flag = 2OlympiadWinner }
-        year = 1900
-        NOT = { year = 1903 }
+        year = 2900
+        NOT = { year = 2903 }
     }
 
     mean_time_to_happen =  {
@@ -797,11 +797,11 @@ country_event = {
 
         modifier = {
             factor = 0.1
-            year = 1901
+            year = 2901
         }
         modifier = {
             factor = 0.1
-            year = 1902
+            year = 2902
         }
     }
 
@@ -832,8 +832,8 @@ country_event = {
                 has_country_flag = NoHost3Olympiad
             }
         }
-        year = 1903
-        NOT = { year = 1906 }
+        year = 2903
+        NOT = { year = 2906 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -845,11 +845,11 @@ country_event = {
         }
         modifier = {
             factor = 0.9
-            year = 1904
+            year = 2904
         }
         modifier = {
             factor = 0.95
-            year = 1905
+            year = 2905
         }
         modifier = {
             factor = 0.9
@@ -964,8 +964,8 @@ country_event = {
                 has_global_flag = Hold3Olympiad
             }
         }
-        year = 1903
-        NOT = { year = 1906 }
+        year = 2903
+        NOT = { year = 2906 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -974,11 +974,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1904
+            year = 2904
         }
         modifier = {
             factor = 0.95
-            year = 1905
+            year = 2905
         }
     }
 
@@ -1073,8 +1073,8 @@ country_event = {
         has_country_flag = Host3Olympiad
         has_country_flag = Attend3Olympiad
         NOT = { has_global_flag = Hold3Olympiad }
-        year = 1904
-        NOT = { year = 1907 }
+        year = 2904
+        NOT = { year = 2907 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -1083,11 +1083,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1905
+            year = 2905
         }
         modifier = {
             factor = 0.95
-            year = 1906
+            year = 2906
         }
     }
 
@@ -1112,8 +1112,8 @@ country_event = {
         has_global_flag = Hold3Olympiad
         has_country_flag = Attend3Olympiad
         NOT = { has_country_flag = 3OlympiadWinner }
-        year = 1904
-        NOT = { year = 1907 }
+        year = 2904
+        NOT = { year = 2907 }
     }
 
     mean_time_to_happen =  {
@@ -1121,11 +1121,11 @@ country_event = {
 
         modifier = {
             factor = 0.1
-            year = 1905
+            year = 2905
         }
         modifier = {
             factor = 0.1
-            year = 1906
+            year = 2906
         }
     }
 
@@ -1155,8 +1155,8 @@ country_event = {
                 has_country_flag = NoHost4Olympiad
             }
         }
-        year = 1907
-        NOT = { year = 1910 }
+        year = 2907
+        NOT = { year = 2910 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -1169,11 +1169,11 @@ country_event = {
         }
         modifier = {
             factor = 0.9
-            year = 1908
+            year = 2908
         }
         modifier = {
             factor = 0.95
-            year = 1909
+            year = 2909
         }
         modifier = {
             factor = 0.9
@@ -1288,8 +1288,8 @@ country_event = {
                 has_global_flag = Hold4Olympiad
             }
         }
-        year = 1907
-        NOT = { year = 1910 }
+        year = 2907
+        NOT = { year = 2910 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -1298,11 +1298,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1908
+            year = 2908
         }
         modifier = {
             factor = 0.95
-            year = 1909
+            year = 2909
         }
     }
 
@@ -1399,8 +1399,8 @@ country_event = {
         NOT = {
             has_global_flag = Hold4Olympiad
         }
-        year = 1908
-        NOT = { year = 1911 }
+        year = 2908
+        NOT = { year = 2911 }
         war = no #nation can NOT be at war at the time of invite
     }
 
@@ -1409,11 +1409,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1909
+            year = 2909
         }
         modifier = {
             factor = 0.95
-            year = 1910
+            year = 2910
         }
     }
 
@@ -1438,8 +1438,8 @@ country_event = {
         has_global_flag = Hold4Olympiad
         has_country_flag = Attend4Olympiad
         NOT = { has_country_flag = 4OlympiadWinner }
-        year = 1908
-        NOT = { year = 1911 }
+        year = 2908
+        NOT = { year = 2911 }
     }
 
     mean_time_to_happen =  {
@@ -1447,11 +1447,11 @@ country_event = {
 
         modifier = {
             factor = 0.1
-            year = 1909
+            year = 2909
         }
         modifier = {
             factor = 0.1
-            year = 1910
+            year = 2910
         }
     }
 
@@ -1481,8 +1481,8 @@ country_event = {
                 has_country_flag = NoHost5Olympiad
             }
         }
-        year = 1911
-        NOT = { year = 1915 }
+        year = 2911
+        NOT = { year = 2915 }
         war = no #nation can NOT be at war at the time of invite
     }
 
@@ -1495,11 +1495,11 @@ country_event = {
         }
         modifier = {
             factor = 0.9
-            year = 1912
+            year = 2912
         }
         modifier = {
             factor = 0.95
-            year = 1913
+            year = 2913
         }
         modifier = {
             factor = 0.9
@@ -1602,7 +1602,7 @@ country_event = {
 # 5 Olympiad - Send Delegation or No
 country_event = {
 
-    id = 23419 # Attend 5 Games
+    id = 23429 # Attend 5 Games
 
     trigger = {
         has_global_flag = Host5Olympiad
@@ -1613,8 +1613,8 @@ country_event = {
                 has_global_flag = Hold5Olympiad
             }
         }
-        year = 1911
-        NOT = { year = 1914 }
+        year = 2911
+        NOT = { year = 2914 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -1623,15 +1623,15 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1912
+            year = 2912
         }
         modifier = {
             factor = 0.95
-            year = 1913
+            year = 2913
         }
     }
 
-    title = "EVTNAME23419"
+    title = "EVTNAME23403"
     desc = "EVTDESC23403"
     picture = "Olympics"
 
@@ -1722,8 +1722,8 @@ country_event = {
         has_country_flag = Host5Olympiad
         has_country_flag = Attend5Olympiad
         NOT = { has_global_flag = Hold5Olympiad }
-        year = 1912
-        NOT = { year = 1915 }
+        year = 2912
+        NOT = { year = 2915 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -1732,11 +1732,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1913
+            year = 2913
         }
         modifier = {
             factor = 0.95
-            year = 1914
+            year = 2914
         }
     }
 
@@ -1761,8 +1761,8 @@ country_event = {
         has_global_flag = Hold5Olympiad
         has_country_flag = Attend5Olympiad
         NOT = { has_country_flag = 5OlympiadWinner }
-        year = 1912
-        NOT = { year = 1915 }
+        year = 2912
+        NOT = { year = 2915 }
     }
 
     mean_time_to_happen =  {
@@ -1770,11 +1770,11 @@ country_event = {
 
         modifier = {
             factor = 0.1
-            year = 1912
+            year = 2912
         }
         modifier = {
             factor = 0.1
-            year = 1915
+            year = 2915
         }
     }
 
@@ -1804,8 +1804,8 @@ country_event = {
                 has_country_flag = NoHost6Olympiad
             }
         }
-        year = 1915
-        NOT = { year = 1919 }
+        year = 2915
+        NOT = { year = 2929 }
         war = no #nation can NOT be at war at the time of invite
     }
 
@@ -1818,11 +1818,11 @@ country_event = {
         }
         modifier = {
             factor = 0.9
-            year = 1916
+            year = 2916
         }
         modifier = {
             factor = 0.95
-            year = 1917
+            year = 2917
         }
         modifier = {
             factor = 0.9
@@ -1937,8 +1937,8 @@ country_event = {
                 has_global_flag = Hold6Olympiad
             }
         }
-        year = 1915
-        NOT = { year = 1918 }
+        year = 2915
+        NOT = { year = 2918 }
         war = no #nation can NOT be at war at the time of invite
     }
 
@@ -1947,11 +1947,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1916
+            year = 2916
         }
         modifier = {
             factor = 0.95
-            year = 1917
+            year = 2917
         }
     }
 
@@ -2046,8 +2046,8 @@ country_event = {
         has_country_flag = Host6Olympiad
         has_country_flag = Attend6Olympiad
         NOT = { has_global_flag = Hold6Olympiad }
-        year = 1916
-        NOT = { year = 1919 }
+        year = 2916
+        NOT = { year = 2929 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -2056,11 +2056,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1917
+            year = 2917
         }
         modifier = {
             factor = 0.95
-            year = 1918
+            year = 2918
         }
     }
 
@@ -2085,8 +2085,8 @@ country_event = {
         has_global_flag = Hold6Olympiad
         has_country_flag = Attend6Olympiad
         NOT = { has_country_flag = 6OlympiadWinner }
-        year = 1916
-        NOT = { year = 1919 }
+        year = 2916
+        NOT = { year = 2929 }
     }
 
     mean_time_to_happen =  {
@@ -2094,11 +2094,11 @@ country_event = {
 
         modifier = {
             factor = 0.1
-            year = 1917
+            year = 2917
         }
         modifier = {
             factor = 0.1
-            year = 1918
+            year = 2918
         }
     }
 
@@ -2128,8 +2128,8 @@ country_event = {
                 has_country_flag = NoHost7Olympiad
             }
         }
-        year = 1919
-        NOT = { year = 1923 }
+        year = 2929
+        NOT = { year = 2923 }
         war = no #nation can NOT be at war at the time of invite
     }
 
@@ -2142,11 +2142,11 @@ country_event = {
         }
         modifier = {
             factor = 0.9
-            year = 1920
+            year = 2920
         }
         modifier = {
             factor = 0.95
-            year = 1921
+            year = 2921
         }
         modifier = {
             factor = 0.9
@@ -2260,8 +2260,8 @@ country_event = {
                 has_global_flag = Hold7Olympiad
             }
         }
-        year = 1919
-        NOT = { year = 1922 }
+        year = 2929
+        NOT = { year = 2922 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -2270,11 +2270,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1920
+            year = 2920
         }
         modifier = {
             factor = 0.95
-            year = 1921
+            year = 2921
         }
     }
 
@@ -2369,8 +2369,8 @@ country_event = {
         has_country_flag = Host7Olympiad
         has_country_flag = Attend7Olympiad
         NOT = { has_global_flag = Hold7Olympiad }
-        year = 1920
-        NOT = { year = 1923 }
+        year = 2920
+        NOT = { year = 2923 }
         war = no # Nation can NOT be at war at the time of invite
         }
 
@@ -2379,11 +2379,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1921
+            year = 2921
         }
         modifier = {
             factor = 0.95
-            year = 1922
+            year = 2922
         }
     }
 
@@ -2408,8 +2408,8 @@ country_event = {
         has_global_flag = Hold7Olympiad
         has_country_flag = Attend7Olympiad
         NOT = { has_country_flag = 7OlympiadWinner }
-        year = 1920
-        NOT = { year = 1923 }
+        year = 2920
+        NOT = { year = 2923 }
     }
 
     mean_time_to_happen =  {
@@ -2417,11 +2417,11 @@ country_event = {
 
         modifier = {
             factor = 0.1
-            year = 1921
+            year = 2921
         }
         modifier = {
             factor = 0.1
-            year = 1922
+            year = 2922
         }
     }
 
@@ -2452,8 +2452,8 @@ country_event = {
                 has_country_flag = NoHost8Olympiad
             }
         }
-        year = 1923
-        NOT = { year = 1927 }
+        year = 2923
+        NOT = { year = 2927 }
         war = no #nation can NOT be at war at the time of invite
     }
 
@@ -2466,11 +2466,11 @@ country_event = {
         }
         modifier = {
             factor = 0.9
-            year = 1924
+            year = 2924
         }
         modifier = {
             factor = 0.95
-            year = 1925
+            year = 2925
         }
         modifier = {
             factor = 0.9
@@ -2584,8 +2584,8 @@ country_event = {
                 has_global_flag = Hold8Olympiad
             }
         }
-        year = 1923
-        NOT = { year = 1926 }
+        year = 2923
+        NOT = { year = 2926 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -2594,11 +2594,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1924
+            year = 2924
         }
         modifier = {
             factor = 0.95
-            year = 1925
+            year = 2925
         }
     }
 
@@ -2693,8 +2693,8 @@ country_event = {
         has_country_flag = Host8Olympiad
         has_country_flag = Attend8Olympiad
         NOT = { has_global_flag = Hold8Olympiad }
-        year = 1924
-        NOT = { year = 1927 }
+        year = 2924
+        NOT = { year = 2927 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -2703,11 +2703,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1925
+            year = 2925
         }
         modifier = {
             factor = 0.95
-            year = 1926
+            year = 2926
         }
     }
 
@@ -2732,8 +2732,8 @@ country_event = {
         has_global_flag = Hold8Olympiad
         has_country_flag = Attend8Olympiad
         NOT = { has_country_flag = 8OlympiadWinner }
-        year = 1924
-        NOT = { year = 1927 }
+        year = 2924
+        NOT = { year = 2927 }
     }
 
     mean_time_to_happen =  {
@@ -2741,11 +2741,11 @@ country_event = {
 
         modifier = {
             factor = 0.1
-            year = 1925
+            year = 2925
         }
         modifier = {
             factor = 0.1
-            year = 1926
+            year = 2926
         }
     }
 
@@ -2775,8 +2775,8 @@ country_event = {
                 has_country_flag = NoHost9Olympiad
             }
         }
-        year = 1927
-        NOT = { year = 1931 }
+        year = 2927
+        NOT = { year = 2931 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -2789,11 +2789,11 @@ country_event = {
         }
         modifier = {
             factor = 0.9
-            year = 1928
+            year = 2928
         }
         modifier = {
             factor = 0.95
-            year = 1929
+            year = 2929
         }
         modifier = {
             factor = 0.9
@@ -2907,8 +2907,8 @@ country_event = {
                 has_global_flag = Hold9Olympiad
             }
         }
-        year = 1927
-        NOT = { year = 1930 }
+        year = 2927
+        NOT = { year = 2930 }
         war = no #nation can NOT be at war at the time of invite
     }
 
@@ -2917,11 +2917,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1928
+            year = 2928
         }
         modifier = {
             factor = 0.95
-            year = 1929
+            year = 2929
         }
     }
 
@@ -3016,8 +3016,8 @@ country_event = {
         has_country_flag = Host9Olympiad
         has_country_flag = Attend9Olympiad
         NOT = { has_global_flag = Hold9Olympiad }
-        year = 1928
-        NOT = { year = 1931 }
+        year = 2928
+        NOT = { year = 2931 }
         war = no #nation can NOT be at war at the time of invite
     }
 
@@ -3026,11 +3026,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1929
+            year = 2929
         }
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
     }
 
@@ -3055,8 +3055,8 @@ country_event = {
         has_global_flag = Hold9Olympiad
         has_country_flag = Attend9Olympiad
         NOT = { has_country_flag = 9OlympiadWinner }
-        year = 1928
-        NOT = { year = 1931 }
+        year = 2928
+        NOT = { year = 2931 }
     }
 
     mean_time_to_happen =  {
@@ -3064,11 +3064,11 @@ country_event = {
 
         modifier = {
             factor = 0.1
-            year = 1929
+            year = 2929
         }
         modifier = {
             factor = 0.1
-            year = 1930
+            year = 2930
         }
     }
 
@@ -3098,8 +3098,8 @@ country_event = {
                 has_country_flag = NoHost10Olympiad
             }
         }
-        year = 1931
-        NOT = { year = 1935 }
+        year = 2931
+        NOT = { year = 2935 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -3112,11 +3112,11 @@ country_event = {
         }
         modifier = {
             factor = 0.9
-            year = 1932
+            year = 2932
         }
         modifier = {
             factor = 0.95
-            year = 1933
+            year = 2933
         }
         modifier = {
             factor = 0.9
@@ -3230,8 +3230,8 @@ country_event = {
                 has_global_flag = Hold10Olympiad
             }
         }
-        year = 1931
-        NOT = { year = 1934 }
+        year = 2931
+        NOT = { year = 2934 }
         war = no #nation can NOT be at war at the time of invite
     }
 
@@ -3240,11 +3240,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1932
+            year = 2932
         }
         modifier = {
             factor = 0.95
-            year = 1933
+            year = 2933
         }
     }
 
@@ -3339,8 +3339,8 @@ country_event = {
         has_country_flag = Host10Olympiad
         has_country_flag = Attend10Olympiad
         NOT = { has_global_flag = Hold10Olympiad }
-        year = 1932
-        NOT = { year = 1935 }
+        year = 2932
+        NOT = { year = 2935 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -3349,11 +3349,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1933
+            year = 2933
         }
         modifier = {
             factor = 0.95
-            year = 1934
+            year = 2934
         }
     }
 
@@ -3378,8 +3378,8 @@ country_event = {
         has_global_flag = Hold10Olympiad
         has_country_flag = Attend10Olympiad
         NOT = { has_country_flag = 10OlympiadWinner }
-        year = 1932
-        NOT = { year = 1935 }
+        year = 2932
+        NOT = { year = 2935 }
     }
 
     mean_time_to_happen =  {
@@ -3387,11 +3387,11 @@ country_event = {
 
         modifier = {
             factor = 0.1
-            year = 1933
+            year = 2933
         }
         modifier = {
             factor = 0.1
-            year = 1934
+            year = 2934
         }
     }
 

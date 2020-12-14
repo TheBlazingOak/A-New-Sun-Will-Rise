@@ -1,2 +1,5 @@
+owner = SCO
+controller = SCO
+add_core = SAP
 trade_goods = grain
-life_rating = 20
+life_rating = 40
