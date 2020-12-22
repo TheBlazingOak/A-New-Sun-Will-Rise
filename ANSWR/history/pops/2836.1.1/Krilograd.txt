@@ -1,0 +1,63 @@
+#Charleroi (396000/99000 POPS)
+394 = {
+    clergymen = {
+        culture = flemish
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 1500
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 125
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 10275
+    }
+
+    aristocrats = {
+        culture = flemish
+        religion = catholic
+        size = 900
+    }
+
+    clergymen = {
+        culture = flemish
+        religion = catholic
+        size = 575
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 3800
+    }
+
+    craftsmen = {
+        culture = flemish
+        religion = catholic
+        size = 16000
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 64725
+    }
+
+}

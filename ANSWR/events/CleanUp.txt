@@ -4362,56 +4362,6 @@ country_event = {
     }
 }
 
-#Ghost Units Cleanup 1/2
-country_event = {
-    id = 6016821
-    title = "EVTNAME6016819"
-    desc = "EVTDESC6016819"
-
-    is_triggered_only = yes
-
-    immediate = {
-        FROM = {
-            any_owned = {
-                limit = {
-                    OR = {
-                        province_id = 3319
-                        province_id = 3320
-                        province_id = 3321
-                        province_id = 3322
-                    }
-                }
-                secede_province = TMT
-            }
-        }
-    }
-
-    option = {
-        name = "EVT6016819OPTA"
-        add_country_modifier = { name = neutrality_modifier duration = -1 }
-        political_reform = closed_borders
-        treasury = 1000
-        neutrality = yes
-        any_country = {
-            limit = { war_with = THIS }
-            end_war = THIS
-        }
-        any_country = {
-            limit = {
-                exists = no
-                is_greater_power = no
-                has_country_flag = existing_country
-                capital_scope = { NOT = { province_control_days = 120 } }
-                OR = {
-                    is_mobilised = yes
-                    total_amount_of_ships = 1
-                }
-            }
-            country_event = 6016819
-        }
-    }
-}
-
 #Vassal Transfer During Unification - Overlord Gets Informed
 country_event = {
     id = 6016822

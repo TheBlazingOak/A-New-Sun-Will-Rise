@@ -1,0 +1,51 @@
+#Spa - Eupen-Malmedy (144000/36000 POPS)
+396 = {
+    aristocrats = {
+        culture = rhine_german
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = rhine_german
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = rhine_german
+        religion = catholic
+        size = 650
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 2375
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 2175
+    }
+
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 6000
+    }
+
+}

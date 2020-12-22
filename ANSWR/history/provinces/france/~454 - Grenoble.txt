@@ -1,7 +1,0 @@
-owner = SWI
-controller = SWI
-add_core = SWI
-add_core = SVY
-add_core = PRV
-trade_goods = wool
-life_rating = 31

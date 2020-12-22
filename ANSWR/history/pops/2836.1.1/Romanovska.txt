@@ -1,0 +1,62 @@
+#Ghent (704000/176000 POPS)
+389 = {
+    aristocrats = {
+        culture = flemish
+        religion = catholic
+        size = 1750
+    }
+
+    clergymen = {
+        culture = flemish
+        religion = catholic
+        size = 1250
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 6000
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 2250
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 149750
+    }
+
+    clergymen = {
+        culture = flemish
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 1900
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 3000
+    }
+}

@@ -50,7 +50,7 @@ MEX_100 = { 100 101 102 2137 2140 } #Arizona
 
 MEX_103 = { 105 2148 2662 } #New Mexico
 
-USA_106 = { 103 106 108 109 123 124 125 126 127 128} #Colorado
+USA_106 = { 103 106 108 109 123 124 125 126 127 } #Colorado
 
 USA_118 = { 117 119 120 121 122 } #North Dakota
 
@@ -88,9 +88,9 @@ USA_196 = { 195 196 197 198 } #Alabama
 
 USA_201 = { 201 202 204 2555  200 199 } #Georgia
 
-USA_2556 = { 2556 205 206 209 207 208 210 } #Carolingia Proper
+USA_2556 = { 2556 205 206 209 207 208 } #Carolingia Proper
 
-USA_211 = { 60 211 213 214 215 216 217} #Virginia
+USA_211 = { 211 213 214 215 216 217} #Virginia
 
 USA_219 = { 2146 220 212 } #Maryland
 
@@ -178,7 +178,7 @@ PRU_575 = { 575 576 577 572 397 396 398 388 } #Rheinland
 
 ### France
 
-FRA_399 = { 403 402 2570 401 404 } #Picardie - used to be { 403 405 406 408 402 2570 }
+FRA_399 = { 403 2570 401 404 } #Picardie - used to be { 403 405 406 408 402 2570 }
 
 FRA_400 = { 408 405 406 429 428 } #Champagne
 
@@ -210,8 +210,6 @@ FRA_458 = { 458 459 456 450 } #Aquitaine
 FRA_461 = { 455 461 462 463 468 } #Languedoc
 
 FRA_467 = { 469 454 466 472 } #Provence
-
-AUS_407 = { 407 470 471 465 399 2283 846 742 }
 
 ### Spain & Portugal
 
@@ -401,8 +399,6 @@ EGY_843 = { 848 855 827 826 } #Aegean Islands
 
 TUR_853 = { 849 853 852 851 850 } #Albania
 
-TUR_855 = { 856 857 847 } #Cyprus
-
 TUR_860 = { 860 828 858 859 843 } #Thrace
 
 
@@ -432,16 +428,16 @@ EGY_897 = { 897 904 905 903 902 } #Western Syria
 
 EGY_903 = { 901 1813 906 907 } #Eastern Syria
 
-EGY_910 = { 908 910 911 922 909 } #Transjordan
+EGY_910 = { 910 911 922 } #Transjordan
 
 EGY_915 = { 913 915 912 914 } #Lebanon
 
-EGY_921 = { 917 921 920 919 918 916 } #Palestine
+EGY_921 = { 917 920 919 918 916 989 909 908 } #Palestine
 
 #TUR_923 = { 923 924 925 928 } #Mosul
 
 TUR_931 = { 926 931 927 923 924 925 928 } #Baghdad
-
+`
 TUR_935 = { 935 932 933 930 934 929 } #Basra
 
 RUS_1090 = { 1090 1093 1091 1092 1094 1095 } #Georgia
@@ -539,11 +535,11 @@ RUS_990 = { 990 987 1024 991 1023 } #Galich
 
 RUS_994 = { 994 996 997 2580 2715 } #Ingria
 
-RUS_998 = { 998 1001 992 993 989 } #Tver
+RUS_998 = { 998 1001 992 993 } #Tver
 
 RUS_1003 = { 1003 1004 1005 } #Novgorod
 
-RUS_1008 = { 1008 1011 1012 1013 1022 } #Moscow
+RUS_1008 = { 1008 1012 1013 1022 } #Moscow
 
 RUS_1009 = { 1010 1014 1015 1016 962 } #Bryansk
 
@@ -565,7 +561,7 @@ RUS_1064 = { 1064 1066 1061 } #Tobolsk
 
 RUS_1065 = { 2682 2613 2615 2659 2684 } #Ob - Yamalia
 
-RUS_1069 = { 1069 2650 2651 2649 2673 2652 2653 } #West Yakutsk
+RUS_1069 = { 1069 2650 2651 2649 2673 } #West Yakutsk
 
 RUS_1070 = { 1077 1469 2691 2701 2674 } #Upper Yeniseysk - Krasnoyarsk
 
@@ -593,11 +589,11 @@ RUS_1196 = { 1196 1204 1205 1206 686 } #Turkmenia
 
 RUS_1469 = { 1063 1067 1068 2698  2683 2686 1070 } #Tomsk
 
-RUS_2589 = { 986 2699 2688 2687 } #Nenetsia
+RUS_2589 = { 986 2687 } #Nenetsia
 
 RUS_2590 = { 2622 2634 2637 2661 2666 } #Coastal Chukotka
 
-RUS_2615 = { 2657 2680 2654 2694 2656 2655 2693 2692 2675 } #Lower Yeniseysk - Taymyria
+RUS_2615 = { 2680 2654 2694 2656 2655 2693 2692 2675 } #Lower Yeniseysk - Taymyria
 
 RUS_2618 = { 1072 2641 2618 2620 2638 2639 1073 2660 } #Upper Okhotsk - Magadan
 
@@ -656,7 +652,7 @@ MYS_1314 = { 1314 1313 1316 1315 1302 } #Mysore
 
 ENG_1317 = { 1317 1318 1319 } #Travancore
 
-ENG_1321 = { 1321 1322 1323 1324 1325 2128 } #Ceylon
+ENG_1321 = { 1321 1322 1323 1324 } #Ceylon
 
 TIB_1591 = { 1587 1591 1592 1589 1588 1590 1593 } #Himalaya
 
@@ -698,7 +694,7 @@ SIA_1358 = { 1358 1350 1359 1365 1351 } #Isan
 
 ### East Indies
 
-BRU_1394 = { 1393 1394 1395 } #West Borneo
+BRU_1394 = { 1393 1394 } #West Borneo
 
 BRU_1396 = { 1396 1397 } #Sabah
 
@@ -712,13 +708,13 @@ NET_1413 = { 1413 1414 1415 1416 1417 2244 } #Western Java
 
 NET_1418 = { 1418 1419 1420 1421 } #Eastern Java
 
-NET_1423 = { 1423 1429 1422 1424 1425 } #East Borneo
+NET_1423 = { 1423 1429 1422 1425 } #East Borneo
 
 NET_1426 = { 1426 1427 1428 2576 } #South Borneo
 
 BAL_1438 = { 1438 1442 1440 1441 1444 1439 } #Sunda Islands
 
-NET_1446 = { 1446 1445 1443 2647 } #Timor
+NET_1446 = { 1446 1445 } #Timor
 
 NET_1447 = { 1447 1450 1449 1451 1448 } #Moluccas
 
@@ -828,7 +824,7 @@ JAP_1640 = { 1640 1638 1641 1639 } #Chugoku
 
 JAP_1649 = { 1649 1650 1652 1651 1653 1674 } #Kanto
 
-JAP_1654 = { 1678 1679 1654 2525 } #Bonin Islands
+JAP_1654 = { 1678 1679 2525 } #Bonin Islands
 
 JAP_1655 = { 1657 1656 1655 1658 1659 } #Kansai
 
@@ -879,7 +875,7 @@ EGY_1745 = { 1745 1748 1749 1746 1755 } #East Delta
 
 EGY_1751 = { 1747 1750 1751 1765 1763 }#West Delta
 
-EGY_1755 = { 1756 1757 } #Sinai
+EGY_1755 = { 1756 1757 921 } #Sinai
 
 EGY_1758 = { 1752 1753 1759 1758 1761 1760 1754 } #Western Desert
 
@@ -1236,22 +1232,31 @@ ARG_2398 = { 2131 2398 2399 2400  2333 2334 2335 2336 } #Patagonia Meridional
 
 ### Australia & New Zealand
 
-ENG_2468 = { 2468 2469 2470 2471 2472 2473 2474 2475 2508 } #New South Wales
+ENG_2468 = { 2468 2469 2470 2471 2473 2474 2475 2508 2128 1443 2544 2657 } #New South Wales
 
-ENG_2476 = { 2476 2477 2478 2479 2480 2481 2482 } #Victoria
+ENG_2476 = {  2477 2478 2481 } #Victoria
 
-ENG_2483 = { 2483 2484 2485 2486 2487 2488 2489 2490 2604 } #Queensland
+AST_2476 = { 2476 2479 2480 1395 402 2482 2472 }
 
-ENG_2491 = { 2491 2492 2493 2494 2495 2496 } #South Australia
+ENG_2483 = { 2483 2484 2485 2486 2487 2488 2489 2490 128 2536 1424 2551 2526 1654 } #Queensland
+
+ENG_2491 = { 2491 2493 2494 2283 } #South Australia
+
+ENG_210 = { 210 2492 2496 2699 }
 
 ENG_2497 = { 2497 2498 2499 2500 2501 2502 2503 2504 2601 2602 2605 } #Western Australia
 
-ENG_2505 = { 2505 2506 2507 2603 } #Northern Territory
+ENG_2505 = { 2505 2506 2507 2603 2604 1325 2495 } #Northern Territory
 
 ENG_2509 = { 2509 2510 2511 2512 2571 2524 } #North Island - Aotearoa
 
 ENG_2513 = { 2516 2513 2514 2515 } #South Island -  Te Waipounamu
 
+AUS_399 = { 399 470 847 847 }
+
+AUS_407 = { 465 407 60 2527 2647 }
+
+AUS_856 = { 856 2652 857 471 2688 2548 3249 2653 }
 
 ### Pacific Islands
 
@@ -1259,9 +1264,9 @@ ENG_2513 = { 2516 2513 2514 2515 } #South Island -  Te Waipounamu
 
 SPA_610 = { 610 2579 2519 2518 2522 } #Caroline Islands
 
-HAW_658 = { 658 2526 2623 } #Hawaiian Islands
+HAW_658 = { 658 2623 } #Hawaiian Islands
 
-AST_2454 = { 2454 2527 2541 2542 2520 2523 } #Fiji
+AST_2454 = { 2527 2542 2520 2523 } #Fiji
 
 SPA_2517 = { 2517 2521 } #Mariana Islands
 
@@ -1269,12 +1274,12 @@ AST_2528 = { 2528 2529 } #Southern New Guina
 
 GER_2530 = { 2531 1531 2530 2537 } #Northern New Guinea
 
-AST_2534 = { 2534 2536 2539 } #Solomon Islands
+AST_2534 = { 2534 2539 } #Solomon Islands
 
 AST_1097 = { 1097 2535 } #New Caledonia
 
-TON_2540 = { 2540 2545 2546 2548 3249 } #Tonga
+TON_2540 = { 2540 2545 2546 } #Tonga
 
-USA_2543 = { 2543 2544 2547 } #Samoa Islands
-
-FRA_801 = { 801 2551 2552 2553 } #Tahiti
+USA_2543 = { 2543 2547 } #Samoa Islands
+ 
+FRA_801 = { 801 2552 2553 } #Tahiti

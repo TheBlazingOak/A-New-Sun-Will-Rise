@@ -1,7 +1,0 @@
-owner = DPA
-controller = DPA
-add_core = DPA
-add_core = FRA
-trade_goods = fruit
-life_rating = 31
-2861.1.1 = { railroad = 3 }
