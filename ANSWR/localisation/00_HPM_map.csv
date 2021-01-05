@@ -4,9 +4,6 @@ PROV1795;Bambuhu;;;;;;;;;;;;;x
 PROV1905;Sia;;;;;;;;;;;;;x
 PROV1981;Elba;;;;;;;;;;;;;x
 PROV2131;Falkland & South Georgia;;;;;;;;;;;;;x
-PROV3319;Vahitahi;;;;;;;;;;;;;x
-PROV3320;Vairaatea;;;;;;;;;;;;;x
-PROV3321;Nukutavake;;;;;;;;;;;;;x
 PROV3322;Pinaki;;;;;;;;;;;;;x
 FRA_411;Louréne;;;;;;;;;;;;x
 PROV934;Samawah;;;;;;;;;;;;x
@@ -439,7 +436,7 @@ HOL_369;Holstein;;;;;;;;;;;;x
 SCH_370;Schleswig;;;;;;;;;;;;x
 NET_379;Zeeland;;;;;;;;;;;;x
 PROV381;Limburg;;;;;;;;;;;;x
-BEL_387;Flanders;;;;;;;;;;;;x
+BEL_387;Belgie;;;;;;;;;;;;x
 NET_394;Wallonia;;;;;;;;;;;;x
 HAN_528;Lower Elbe;;;;;;;;;;;;x
 HAN_534;Hanover;;;;;;;;;;;;x
@@ -1018,7 +1015,7 @@ PROV395;Luik;;;;;;;;;;;;x
 PROV399;Rijsel;;;;;;;;;;;;x
 PROV392;Namen;;;;;;;;;;;;x
 PROV393;Doornik;;;;;;;;;;;;x
-PROV394;Karelskoning;;;;;;;;;;;;x
+PROV394;Krilograd;;;;;;;;;;;;x
 PROV398;Aarlen;;;;;;;;;;;;x
 PROV388;Brugge;;;;;;;;;;;;x
 PROV387;Brussel;;;;;;;;;;;;x
@@ -1090,3 +1087,4 @@ PROV2257;Freitra;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV2256;Suttestasta;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV2248;Iantra;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV2250;Por dek Ciole;;;;;;;;;;;;x;;;;;;;;;;;;;;;
+PROV389;Romanograd;;;;;;;;;;;;x;;;;;;;;;;;;;;;

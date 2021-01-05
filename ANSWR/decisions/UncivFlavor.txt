@@ -250,15 +250,15 @@ political_decisions = {
             war = no
             OR = {
                 AND = {
-                    owns = 2860
-                    owns = 2861
+                    owns = 1860
+                    owns = 1861
                     owns = 1865
                 }
                 AND = {
                     year = 2885
                     OR = {
-                        owns = 2860
-                        owns = 2861
+                        owns = 1860
+                        owns = 1861
                         owns = 1865
                     }
                 }

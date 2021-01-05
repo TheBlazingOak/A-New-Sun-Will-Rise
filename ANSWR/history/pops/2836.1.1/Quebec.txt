@@ -1,0 +1,38 @@
+#Foretsa (956000/239000 POPS)
+1491 = {
+    aristocrats = {
+        culture = french_canadian
+        religion = catholic
+        size = 3000
+    }
+
+    bureaucrats = {
+        culture = french_canadian
+        religion = protestant
+        size = 145
+    }
+
+    clergymen = {
+        culture = french_canadian
+        religion = catholic
+        size = 1525
+    }
+
+    artisans = {
+        culture = french_canadian
+        religion = catholic
+        size = 7600
+    }
+
+    soldiers = {
+        culture = french_canadian
+        religion = catholic
+        size = 1525
+    }
+
+    farmers = {
+        culture = french_canadian
+        religion = catholic
+        size = 58350
+    }
+}

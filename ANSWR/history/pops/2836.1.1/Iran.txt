@@ -2610,35 +2610,3 @@
 
 }
 
-#Bytantaysk (2000/500 POPS)
-1071 = {
-    clergymen = {
-        culture = persian
-        religion = shiite
-        size = 10
-    }
-
-    artisans = {
-        culture = persian
-        religion = shiite
-        size = 25
-    }
-
-    soldiers = {
-        culture = persian
-        religion = shiite
-        size = 100
-    }
-
-    farmers = {
-        culture = persian
-        religion = shiite
-        size = 1025
-    }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 225
-    }
-}

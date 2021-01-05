@@ -24,7 +24,7 @@ CAN_50 = { 49 47 2594 158 } #Northern Ontario
 
 CAN_58 = { 58 64 6 1548} #Lower Quebec
 
-CAN_65 = { 65 45 1067 1491 1087  } #Quebec Proper
+CAN_65 = { 65 45 1491 1087  } #Quebec Proper
 
 CAN_60 = { 63 9 59 2593 2626 2592 61 } #Upper Quebec
 
@@ -136,7 +136,7 @@ DEN_251 = { 251 252 253 2636 } #Iceland & Greenland
 
 SWE_308 = { 308 305 306 } #Nordnoge
 
-SWE_309 = { 309 311 310 312 } #Vestlandet
+SWE_309 = { 309 311 310 312 1021 1045 1096 1023 } #Vestlandet
 
 SWE_313 = { 313 316 314 315 329 } #Ostlandet
 
@@ -166,15 +166,15 @@ FIN_339 = { 339 340 1006 342 }
 
 NET_375 = { 375 376 377 382 } #Holland
 
-NET_379 = { 379 378 380 381 } #Zeeland
+NET_379 = { 378 380 381 } #Zeeland
 
-NET_385 = { 385 383 384 386 400 1743 } #West Friesland
+NET_385 = { 400 385 386 384 383 1743 } #West Friesland
 
 HAN_540 = { 538 543 542 393 581} #East Friesland
 
-BEL_387 = { 387 389 390 391 395 394 392 } #Belgie
+BEL_387 = { 387 390 391 395 392 } #Belgie
 
-PRU_575 = { 575 576 577 572 397 396 398 388 } #Rheinland
+PRU_575 = { 572 575 577 397 398 388 } #Rheinland
 
 ### France
 
@@ -416,7 +416,7 @@ TUR_880 = { 880 881 883 } #Kastamonu
 
 TUR_882 = { 882 884 879 888 } #Trabizond
 
-TUR_885 = { 885 886 1096 } #Kars
+TUR_885 = { 885 886 } #Kars
 
 TUR_890 = { 890 891 887 } #Van
 
@@ -437,7 +437,7 @@ EGY_921 = { 917 920 919 918 916 989 909 908 } #Palestine
 #TUR_923 = { 923 924 925 928 } #Mosul
 
 TUR_931 = { 926 931 927 923 924 925 928 } #Baghdad
-`
+
 TUR_935 = { 935 932 933 930 934 929 } #Basra
 
 RUS_1090 = { 1090 1093 1091 1092 1094 1095 } #Georgia
@@ -507,7 +507,7 @@ RUS_718 = { 718 941 942 948 } #Minsk
 
 RUS_940 = { 940 939 938 947 946 } #Pinsk
 
-RUS_943 = { 943 999 1000 1007 } #Smolensk
+RUS_943 = { 943 1000 1007 } #Smolensk
 
 RUS_947 = { 944 945 949 1009 } #Orsha
 
@@ -527,15 +527,15 @@ RUS_977 = { 977 1017 1018 1019 } #Kursk
 
 RUS_978 = { 978 963 980 974 } #Kharkov
 
-RUS_979 = { 979 1047 1046 1045 } #Don Host Oblast
+RUS_979 = { 979 1047 1046 } #Don Host Oblast
 
 RUS_981 = { 981 985 2588 } #Arkhangelsk
 
-RUS_990 = { 990 987 1024 991 1023 } #Galich
+RUS_990 = { 990 987 991 } #Galich
 
 RUS_994 = { 994 996 997 2580 2715 } #Ingria
 
-RUS_998 = { 998 1001 992 993 } #Tver
+RUS_998 = { 998 1001 992 } #Tver
 
 RUS_1003 = { 1003 1004 1005 } #Novgorod
 
@@ -547,7 +547,7 @@ RUS_1020 = { 1020 1027 1028 1030 1032 1033 } #Kazan
 
 RUS_1026 = { 1026 2689 1029 1031 2700 } #Perm
 
-RUS_1037 = { 1037 1038 1025 1021 } #Tartaria
+RUS_1037 = { 1037 1025 } #Tartaria
 
 RUS_1041 = { 1041 1036 1040 1039 } #Astrakhan
 
@@ -555,9 +555,8 @@ RUS_1048 = { 1048 1049 1050 1051 1056 } #Circassia
 
 RUS_1052 = { 1052 1053 1054 1055 1057 } #North Caucasia
 
-RUS_1060 = { 1060 1044 1042 1034 1043 1035 } #Samara
+RUS_1060 = { 1044 1042 1034 1043 1035 } #Samara
 
-RUS_1064 = { 1064 1066 1061 } #Tobolsk
 
 RUS_1065 = { 2682 2613 2615 2659 2684 } #Ob - Yamalia
 
@@ -581,13 +580,13 @@ JAP_1086 = { 1086 1088 1089 } #Sakhalin
 
 RUS_1182 = { 1182 1183 1194 2610 2702 } #Uralsk
 
-RUS_1184 = { 1181 1184 2612 2611 } #Akmolinsk
+RUS_1184 = { 1181 2612 } #Akmolinsk
 
 RUS_1185 = { 1185 1186 1187 1188 1197 2606 1193 } #Semireche - Zhetysu
 
 RUS_1196 = { 1196 1204 1205 1206 686 } #Turkmenia
 
-RUS_1469 = { 1063 1067 1068 2698  2683 2686 1070 } #Tomsk
+RUS_1469 = { 1063 576 394 2683 1070 } #Tomsk
 
 RUS_2589 = { 986 2687 } #Nenetsia
 
@@ -599,14 +598,19 @@ RUS_2618 = { 1072 2641 2618 2620 2638 2639 1073 2660 } #Upper Okhotsk - Magadan
 
 #RUS_2621 = { } #Inner Chukotka
 
-RUS_2653 = { 2646 2690 1065 1062 } #North Siberia
+RUS_2653 = { 2646 2690 1065 } #North Siberia
 
 RUS_2668 = { 2668 2643 2665 2667 2672 2621 2619 2642 } #North Yakutsk
 
-RUS_2685 = { 1058 2685 1059 2614 2658 } #Ural
+RUS_2685 = { 1058 1059 1060 993 2611 }#Urals
+
+RUS_389 ={ 389 2685 2614 1062 }#Romanovska
 
 #RUS_2694 = {  } #Middle Siberia - Evensk
 
+RUS_1064 = { 1064 1066 1061 999 1038 1024 396 379 2658 1184 } #Tobolsk
+
+OMS_1067 = { 1067 1068 2698 2686 }
 
 ### India
 
@@ -1252,7 +1256,7 @@ ENG_2509 = { 2509 2510 2511 2512 2571 2524 } #North Island - Aotearoa
 
 ENG_2513 = { 2516 2513 2514 2515 } #South Island -  Te Waipounamu
 
-AUS_399 = { 399 470 847 847 }
+AUS_399 = { 399 470 847 }
 
 AUS_407 = { 465 407 60 2527 2647 }
 
@@ -1266,7 +1270,7 @@ SPA_610 = { 610 2579 2519 2518 2522 } #Caroline Islands
 
 HAW_658 = { 658 2623 } #Hawaiian Islands
 
-AST_2454 = { 2527 2542 2520 2523 } #Fiji
+AST_2454 = { 2542 2520 2523 } #Fiji
 
 SPA_2517 = { 2517 2521 } #Mariana Islands
 

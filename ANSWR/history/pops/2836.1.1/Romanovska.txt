@@ -1,62 +1,44 @@
-#Ghent (704000/176000 POPS)
+#Romanograd (704000/176000 POPS)
 389 = {
     aristocrats = {
-        culture = flemish
-        religion = catholic
-        size = 1750
+        culture = novosibiryaki
+        religion = orthodox
+        size = 3750
     }
 
     clergymen = {
-        culture = flemish
-        religion = catholic
-        size = 1250
+        culture = novosibiryaki
+        religion = orthodox
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 100
     }
 
     artisans = {
-        culture = flemish
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = flemish
-        religion = catholic
+        culture = novosibiryaki
+        religion = orthodox
         size = 6000
     }
 
     soldiers = {
-        culture = flemish
-        religion = catholic
-        size = 2250
+        culture = novosibiryaki
+        religion = orthodox
+        size = 5250
     }
 
     farmers = {
-        culture = flemish
-        religion = catholic
-        size = 149750
+        culture = novosibiryaki
+        religion = orthodox
+        size = 132550
+    }
+    serfs = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 65245
     }
 
-    clergymen = {
-        culture = flemish
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = flemish
-        religion = catholic
-        size = 1900
-    }
-
-    soldiers = {
-        culture = flemish
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = flemish
-        religion = catholic
-        size = 3000
-    }
 }

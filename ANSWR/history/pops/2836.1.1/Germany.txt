@@ -2209,43 +2209,43 @@
 #Meiningen (208000/52000 POPS)
 563 = {
     aristocrats = {
-        culture = rhine_german
+        culture = south_german
         religion = protestant
         size = 510
     }
 
     bureaucrats = {
-        culture = rhine_german
+        culture = south_german
         religion = protestant
         size = 90
     }
 
     officers = {
-        culture = rhine_german
+        culture = south_german
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = south_german
         religion = protestant
         size = 500
     }
 
     artisans = {
-        culture = rhine_german
+        culture = south_german
         religion = protestant
         size = 2600
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = south_german
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = south_german
         religion = protestant
         size = 47350
     }
