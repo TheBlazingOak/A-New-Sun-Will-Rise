@@ -187,13 +187,13 @@ political_decisions = {
             OR = {
                 market_determined_exchange_rates = 1
                 AND = {
-                    year = 1880
+                    year = 2880
                     economic_policy = planned_economy
                     modern_central_bank_system = 1
                     investment_banks = 1
                 }
                 AND = {
-                    year = 1905
+                    year = 2905
                     business_regulations = 1
                 }
             }
@@ -229,13 +229,13 @@ political_decisions = {
             OR = {
                 market_determined_exchange_rates = 1
                 AND = {
-                    year = 1880
+                    year = 2880
                     economic_policy = planned_economy
                     modern_central_bank_system = 1
                     investment_banks = 1
                 }
                 AND = {
-                    year = 1905
+                    year = 2905
                     business_regulations = 1
                 }
             }
@@ -267,13 +267,13 @@ political_decisions = {
             OR = {
                 market_determined_exchange_rates = 1
                 AND = {
-                    year = 1880
+                    year = 2880
                     economic_policy = planned_economy
                     modern_central_bank_system = 1
                     investment_banks = 1
                 }
                 AND = {
-                    year = 1905
+                    year = 2905
                     business_regulations = 1
                 }
             }
@@ -302,13 +302,13 @@ political_decisions = {
             OR = {
                 market_determined_exchange_rates = 1
                 AND = {
-                    year = 1880
+                    year = 2880
                     economic_policy = planned_economy
                     modern_central_bank_system = 1
                     investment_banks = 1
                 }
                 AND = {
-                    year = 1905
+                    year = 2905
                     business_regulations = 1
                 }
             }
@@ -338,13 +338,13 @@ political_decisions = {
             OR = {
                 market_determined_exchange_rates = 1
                 AND = {
-                    year = 1880
+                    year = 2880
                     economic_policy = planned_economy
                     modern_central_bank_system = 1
                     investment_banks = 1
                 }
                 AND = {
-                    year = 1905
+                    year = 2905
                     business_regulations = 1
                 }
             }
@@ -538,7 +538,7 @@ political_decisions = {
                     NOT = { has_province_modifier = plantation }
                 }
             }
-            year = 1870
+            year = 2870
         }
 
         allow = {
@@ -546,7 +546,7 @@ political_decisions = {
             OR = {
                 investment_banks = 1
                 sphere_owner = { investment_banks = 1 }
-                year = 1900
+                year = 2900
             }
         }
 
@@ -672,7 +672,7 @@ political_decisions = {
                     NOT = { region = POR_2134 }
                     NOT = { region = ENG_2132 }
             }
-            year = 1870
+            year = 2870
         }
 
         allow = {
@@ -810,7 +810,7 @@ political_decisions = {
                     }
                 }
             }
-            year = 1870
+            year = 2870
         }
 
         allow = {
@@ -1123,7 +1123,7 @@ political_decisions = {
                     OR = {
                         has_country_flag = guinea_master
                         owns = 1879
-                        owns = 1880
+                        owns = 2880
                         owns = 1882
                     }
                     any_neighbor_country = {
@@ -2073,7 +2073,7 @@ political_decisions = {
                         OR = {
                             has_country_flag = guinea_master
                             owns = 1879
-                            owns = 1880
+                            owns = 2880
                             owns = 1882
                         }
                         any_neighbor_country = {

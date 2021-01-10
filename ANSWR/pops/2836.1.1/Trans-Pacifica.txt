@@ -1,0 +1,1701 @@
+#California Region (64000)
+#ruled by Mexico 1836
+#Sacramento (9600/2400 POPS)
+84 = {
+    bureaucrats = {
+        culture = pacifica
+        religion = protestant
+        size = 500
+    }
+
+    aristocrats = {
+        culture = pacifica
+        religion = catholic
+        size = 3050
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = catholic
+        size = 12350
+    }
+
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 500
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 5000
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 85800
+    }
+}
+#Eureka (4000/1000 POPS)
+85 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 125
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 1250
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 17000
+    }
+}
+#Sacramento (12000/3000 POPS)
+86 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 1000
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 24500
+    }
+    craftsmen = {
+        culture = pacifica
+        religion = protestant
+        size = 1000
+    }
+}
+#Monterey (6400/1600 POPS)
+87 = {
+    aristocrats = {
+        culture = pacifica
+        religion = catholic
+        size = 600
+    }
+
+    bureaucrats = {
+        culture = pacifica
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = catholic
+        size = 50
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = catholic
+        size = 500
+    }
+
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 30000
+    }
+}
+#Mariposa (8000/2000 POPS)
+88 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 6000
+    }
+}
+#Los Angeles (12000/3000 POPS)
+89 = {
+    aristocrats = {
+        culture = pacifica
+        religion = catholic
+        size = 670
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = catholic
+        size = 600
+    }
+    soldiers = {
+        culture = pacifica
+        religion = catholic
+        size = 2000
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 10000
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = catholic
+        size = 12300
+    }
+
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 2250
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 750
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 3500
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 125500
+    }
+
+    craftsmen = {
+        culture = pacifica
+        religion = protestant
+        size = 1000
+    }
+}
+#San Diego (12000/3000 POPS)
+90 = {
+    aristocrats = {
+        culture = pacifica
+        religion = catholic
+        size = 1000
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = catholic
+        size = 4000
+    }
+
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 53800
+    }
+}
+#San Jose (4000/1000 POPS)
+107 = {
+    officers = {
+        culture = pacifica
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 7500
+    }
+
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 2500
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 1500
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 42500
+    }
+}
+#Venice (448000/112000 POPS)
+729 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 2300
+    }
+
+    bureaucrats = {
+        culture = pacifica
+        religion = protestant
+        size = 1600
+    }
+
+    officers = {
+        culture = pacifica
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 1125
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 10000
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 1150
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 22925
+    }
+}
+#Independent City State of San Francisco
+#San Francisco (20000/5000 POPS)
+104 = {
+    officers = {
+        culture = pacifica
+        religion = protestant
+        size = 150
+    }
+    bureaucrats = {
+        culture = pacifica
+        religion = protestant
+        size = 300
+    }
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 7500
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 1250
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 98200
+    }
+
+}
+#Arizona Region (37000)
+#"ruled" by Mexico 1836/de facto under Native Control
+#Phoenix (12000/3000 POPS)
+100 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 750
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 500
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 25000
+    }
+}
+#Flagstaff (12000/3000 POPS)
+101 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 4500
+    }
+
+    aristocrats = {
+        culture = mexican
+        religion = protestant
+        size = 10
+    }
+
+    clergymen = {
+        culture = mexican
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = mexican
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = protestant
+        size = 15
+    }
+
+    farmers = {
+        culture = mexican
+        religion = protestant
+        size = 4200
+    }
+}
+#ruled by Mexico 1836
+#Tucson (13000/3250 POPS)
+102 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 500
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 16000
+    }
+
+    aristocrats = {
+        culture = mexican
+        religion = catholic
+        size = 20
+    }
+
+    bureaucrats = {
+        culture = mexican
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = mexican
+        religion = catholic
+        size = 50
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = mexican
+        religion = catholic
+        size = 2250
+    }
+}
+#Hermosillo (76000/19000 POPS)
+2137 = {
+    aristocrats = {
+        culture = mexican
+        religion = catholic
+        size = 240
+        militancy = 5
+    }
+
+    bureaucrats = {
+        culture = mexican
+        religion = catholic
+        size = 35
+        militancy = 5
+    }
+
+    clergymen = {
+        culture = mexican
+        religion = catholic
+        size = 100
+        militancy = 5
+    }
+
+    artisans = {
+        culture = mexican
+        religion = catholic
+        size = 550
+        militancy = 5
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 125
+
+        militancy = 5
+    }
+
+    farmers = {
+        culture = mexican
+        religion = catholic
+        size = 9925
+        militancy = 5
+    }
+
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 125
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 7325
+    }
+}
+#Nogales (12000/3000 POPS)
+2140 = {
+    aristocrats = {
+        culture = mexican
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = mexican
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = mexican
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 250
+
+    }
+
+    farmers = {
+        culture = mexican
+        religion = catholic
+        size = 4895
+    }
+
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 1000
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 250
+
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 11800
+    }
+}
+#British Columbia Region : 64000
+#uncolonized in 1836
+#Vancouver (12000/3000 POPS)
+13 = {
+    bureaucrats = {
+        culture = cascadian
+        religion = protestant
+        size = 250
+    }
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 750
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 2100
+    }
+
+    officers = {
+        culture = cascadian
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = catholic
+        size = 12000
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 67600
+    }
+
+}
+#Vancouver Island (8000/2000 POPS)
+14 = {
+
+    aristocrats = {
+        culture = cascadian
+        religion = protestant
+        size = 1100
+    }
+
+    aristocrats = {
+        culture = cascadian
+        religion = catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 750
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 510
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = catholic
+        size = 1550
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 15130
+    }
+}
+#Prince Rupert (8000/2000 POPS)
+15 = {
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 9115
+    }
+}
+#Glenora (4000/1000 POPS)
+16 = {
+
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 3
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 3
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 2990
+    }
+}
+#Atlin (4000/1000 POPS)
+17 = {
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 30
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 300
+    }
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 4000
+    }
+}
+#Fort St John (2400/600 POPS)
+18 = {
+    aristocrats = {
+        culture = cascadian
+        religion = protestant
+        size = 15
+    }
+
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 30
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 1520
+    }
+}
+#Prince George (8000/2000 POPS)
+19 = {
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 5
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 15
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 1950
+    }
+}
+#Kelowna (8000/2000 POPS)
+20 = {
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 11950
+    }
+}
+#Vernon (8000/2000 POPS)
+21 = {
+
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 5950
+    }
+
+}
+#Fort Nelson (1600/400 POPS)
+2629 = {
+    aristocrats = {
+        culture = cascadian
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 20
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 5
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 1360
+    }
+}
+#Washington Region (20000)
+#Under Cascadia
+#Seattle (12000/3000 POPS)
+78 = {
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 4010
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 16110
+    }
+}
+#Spokane (4000/1000 POPS)
+79 = {
+
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 3
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 3
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 1310
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = catholic
+        size = 1000
+    }
+}
+#Walla Walla (4000/1000 POPS)
+80 = {
+    aristocrats = {
+        culture = cascadian
+        religion = protestant
+        size = 5
+    }
+
+    officers = {
+        culture = cascadian
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 220
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 6030
+    }
+
+    aristocrats = {
+        culture = cascadian
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = catholic
+        size = 900
+    }
+}
+#Oregon Region (20000)
+#claims by Britain and USA in 1836, de facto Native American rule
+#Portland (12000/3000 POPS)
+81 = {
+    aristocrats = {
+        culture = cascadian
+        religion = protestant
+        size = 500
+    }
+
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 175
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 5700
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 2100
+    }
+}
+#Brescia (708000/177000 POPS)
+728 = {
+    aristocrats = {
+        culture = cascadian
+        religion = protestant
+        size = 125
+    }
+
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = cascadian
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 15075
+    }
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 4075
+    }
+}
+#Baker City (4000/1000 POPS)
+82 = {
+    aristocrats = {
+        culture = cascadian
+        religion = protestant
+        size = 10
+    }
+
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 45
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 15
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 1900
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 1110
+    }
+
+}
+#Klamath Falls (4000/1000 POPS)
+83 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 10
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 135
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 515
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 1900
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 1000
+    }
+}
+#Idaho Region (24000)
+#claims by Britain and USA in 1836, de facto Native American rule
+#Boise (8000/2000 POPS)
+91 = {
+    aristocrats = {
+        culture = cascadian
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = cascadian
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 1800
+    }
+}
+#Coeur d'Alene (4000/1000 POPS)
+92 = {
+
+    clergymen = {
+        culture = deisui
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = deisui
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = deisui
+        religion = protestant
+        size = 20
+    }
+
+    farmers = {
+        culture = deisui
+        religion = protestant
+        size = 30
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 900
+    }
+}
+#Pocatello (12000/3000 POPS)
+93 = {
+
+    clergymen = {
+        culture = deisui
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = deisui
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = deisui
+        religion = protestant
+        size = 20
+    }
+
+    farmers = {
+        culture = deisui
+        religion = protestant
+        size = 30
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 2700
+    }
+}
+##Montana Pacifica culture
+#Bozeman (8000/2000 POPS)
+113 = {
+
+    aristocrats = {
+        culture = deisui
+        religion = protestant
+        size = 5
+    }
+
+    officers = {
+        culture = deisui
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = deisui
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = deisui
+        religion = protestant
+        size = 10
+    }
+
+    soldiers = {
+        culture = deisui
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = deisui
+        religion = protestant
+        size = 50
+    }
+
+    aristocrats = {
+        culture = cascadian
+        religion = protestant
+        size = 150
+    }
+
+    aristocrats = {
+        culture = cascadian
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 1800
+    }
+}
+#Missoula (4000/1000 POPS)
+114 = {
+
+    clergymen = {
+        culture = deisui
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = deisui
+        religion = protestant
+        size = 10
+    }
+
+    soldiers = {
+        culture = deisui
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = deisui
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = cascadian
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = cascadian
+        religion = protestant
+        size = 900
+    }
+}
+##Polynesian Island New Province Pops
+#Vahitahi
+3319 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 5200
+    }
+}
+
+#Vairaatea
+3320 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 1000
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 12000
+    }
+}
+
+#Nukutavake
+3321 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 5220
+    }
+}
+
+#Pinaki
+3322 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 24020
+    }
+}
+#Montserrat (5300/1325 POPS) #still British Colony
+2225 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 400
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 31380
+    }
+}

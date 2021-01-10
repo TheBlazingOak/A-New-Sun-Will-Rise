@@ -1,0 +1,73 @@
+#Charleroi (396000/99000 POPS)
+394 = {
+
+    aristocrats = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 900
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 575
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 3800
+    }
+
+    craftsmen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 16000
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 1100
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 74725
+    }
+
+}
+#Aachen (400000/100000 POPS)
+576 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 1100
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 850
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 4500
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 3000
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 130450
+    }
+
+}

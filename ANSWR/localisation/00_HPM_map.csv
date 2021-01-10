@@ -108,7 +108,7 @@ PROV33;Battleford;;;;;;;;;;;x
 PROV41;Fort Ellice;;;;;;;;;;;x
 PROV2594;Osnaburgh House;;;;;;;;;;;x
 PROV49;Rat Portage;;;;;;;;;;;x
-PROV52;Orillia;;;;;;;;;;;x
+PROV52;Sudbury;;;;;;;;;;;x
 PROV75;Port-Aux-Basques;;;;;;;;;;;x
 PROV69;Petit-Sault;;;;;;;;;;;;x
 PROV683;Waldenburg;;;;;;;;;;;x
@@ -410,7 +410,7 @@ ORA_2103;Basutoland;;;;;;;;;;;;;;;;;;;;x;
 ZUL_2113;Zululand;;;;;;;;;;;;;;;;;;;;x;
 PROV1152;Jeddah;;;;;;;;;;;;x
 CAN_13;Columbia;;;;;;;;;;;;x
-PROV13;New Westminster;;;;;;;;;;;;x
+PROV13;Grand Vancouver;;;;;;;;;;;;x
 PROV17;Stikine;;;;;;;;;;;;x
 CAN_19;New Caledonia;;;;;;;;;;;;x
 PROV20;Okanagan;;;;;;;;;;;;x
@@ -988,7 +988,6 @@ PROV3291;Vodyanistyy;;;;;;;;;;;;x
 PROV2713;Malyy Yarvi;;;;;;;;;;;;x
 PROV1755;Swuaze;;;;;;;;;;;;x
 PROV3255;Mar de Argentina;;;;;;;;;;;x
-PROV3288;Bahía de Guay;;;;;;;;;;;;x
 PROV3276;Amazonas Baía;;;;;;;;;;;x
 PROV3260;Estreito de Grão;;;;;;;;;;;x
 PROV2247;Bacatá;;;;;;;;;;;;x
@@ -1020,7 +1019,6 @@ PROV398;Aarlen;;;;;;;;;;;;x
 PROV388;Brugge;;;;;;;;;;;;x
 PROV387;Brussel;;;;;;;;;;;;x
 PROV390;Antwerpen;;;;;;;;;;;;x
-PROV533;Heilgolân;;;;;;;;;;;;x
 PROV371;Abenrade;;;;;;;;;;;;x
 PROV530;Lubeeck;;;;;;;;;;;;x
 PROV536;Brunswyck;;;;;;;;;;;;x
@@ -1088,3 +1086,10 @@ PROV2256;Suttestasta;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV2248;Iantra;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV2250;Por dek Ciole;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV389;Romanograd;;;;;;;;;;;;x;;;;;;;;;;;;;;;
+PROV389;New Stales;;;;;;;;;;;;x;;;;;;;;;;;;;;;
+PROV3320;New Oaks;;;;;;;;;;;;x;;;;;;;;;;;;;;;
+PROV3319;Greandier;;;;;;;;;;;;x;;;;;;;;;;;;;;;
+PROV70;Édouard Île;;;;;;;;;;;;x;;;;;;;;;;;;;;;
+PROV71;Halifaxe;;;;;;;;;;;;x;;;;;;;;;;;;;;;
+PROV73;Capreton Île;;;;;;;;;;;;x;;;;;;;;;;;;;;;
+PROV3288;The Eyre Sea;;;;;;;;;;;;x;;;;;;;;;;;;;;;

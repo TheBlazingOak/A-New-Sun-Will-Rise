@@ -34,11 +34,11 @@ ENG_74 = { 74 75 76 77 2625 62 } #Newfoundland
 
 ### United States
 
-USA_78 = { 78 79 80 81 82 92 114 } #Washington
+USA_78 = { 78 79 80 81 82 92 114 728 } #Washington
 
 MEX_85 = { 84 85 86 104 83 3320 3322 2225 3319 } #North California
 
-LOS_89 = { 89 87 88 90 107 2138 2139 3321 } #South Califorinia
+LOS_89 = { 89 87 88 90 107 2138 2139 3321 729 } #South Califorinia
 
 USA_91 = { 91 93 113 116 115 112 111 } #Idaho
 
@@ -338,15 +338,15 @@ AUS_2538 = { 2538 791 792 } #Vojvodina
 
 ### Italy
 
-SAR_720 = { 720 723 724 725 726 } #Piemonte
+SAR_720 = { 720 723 724 725  } #Piemonte
 
-SWI_721 = { 721 722 1981 825 727 729 } #Swiss-North Italy
+SWI_721 = { 721 722 1981 825 727 726 } #Swiss-North Italy
 
 #MOD_739 = { 739 738 740 731 } #Emilia
 
 TUS_744 = { 744 745 746 747 748 } #Tuscany
 
-PAP_741 = { 741 743 739 738 740 728 730 731 } #Emilia-Romagna
+PAP_741 = { 741 743 739 738 740 730 731 } #Emilia-Romagna
 
 PAP_752 = { 749 752 750 751 } #Lazio
 
@@ -1262,13 +1262,15 @@ AUS_407 = { 465 407 60 2527 2647 }
 
 AUS_856 = { 856 2652 857 471 2688 2548 3249 2653 }
 
+AUS_742 = { 742 846 2454 1011 2541 }
+
 ### Pacific Islands
 
 #AST_2244 = { 2244 2406 } #Christmas & Cocos Islands
 
 SPA_610 = { 610 2579 2519 2518 2522 } #Caroline Islands
 
-HAW_658 = { 658 2623 } #Hawaiian Islands
+HAW_658 = { 658 2623 2552 } #Hawaiian Islands
 
 AST_2454 = { 2542 2520 2523 } #Fiji
 
@@ -1286,4 +1288,4 @@ TON_2540 = { 2540 2545 2546 } #Tonga
 
 USA_2543 = { 2543 2547 } #Samoa Islands
  
-FRA_801 = { 801 2552 2553 } #Tahiti
+FRA_801 = { 801 2553 } #Tahiti

@@ -1,0 +1,39 @@
+#Bermuda (9000/2250 POPS)
+203 = {
+	aristocrats = {
+		culture = yankee
+		religion = protestant
+		size = 2500
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 1000
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 45000
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 78000
+	}
+
+	craftsmen = {
+		culture = yankee
+		religion = protestant
+		size = 1000
+	}
+
+}

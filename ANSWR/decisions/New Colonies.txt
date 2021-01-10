@@ -2466,7 +2466,7 @@ political_decisions = {
                 capital_scope = { continent = africa }
             }
             NOT = { has_country_flag = not_congo_primary_culture }
-            year = 1900
+            year = 2900
         }
 
         allow = {
@@ -5141,7 +5141,7 @@ political_decisions = {
                 remove_core = MOS
             }
 
-            1905 = { change_province_name = "Bobo-Dioulasso" }
+            2905 = { change_province_name = "Bobo-Dioulasso" }
 
             BKF = {
                 set_country_flag = post_colonial_country
@@ -5841,7 +5841,7 @@ political_decisions = {
             factor = 1
             modifier = {
                 factor = 0
-                NOT = { year = 1905 }
+                NOT = { year = 2905 }
             }
         }
     }
@@ -6026,7 +6026,7 @@ political_decisions = {
             factor = 1
             modifier = {
                 factor = 0
-                NOT = { year = 1905 }
+                NOT = { year = 2905 }
             }
         }
     }
@@ -6045,7 +6045,7 @@ political_decisions = {
             owns = 914
             owns = 915
             LBN = { exists = no }
-            year = 1870
+            year = 2870
         }
 
         allow = {
@@ -6386,7 +6386,7 @@ political_decisions = {
             factor = 1
             modifier = {
                 factor = 0
-                NOT = { year = 1905 }
+                NOT = { year = 2905 }
             }
         }
     }
@@ -6710,7 +6710,7 @@ political_decisions = {
             factor = 1
             modifier = {
                 factor = 0
-                NOT = { year = 1905 }
+                NOT = { year = 2905 }
             }
         }
     }
@@ -7004,7 +7004,7 @@ political_decisions = {
             factor = 1
             modifier = {
                 factor = 0
-                NOT = { year = 1905 }
+                NOT = { year = 2905 }
             }
             modifier = {
                 factor = 0

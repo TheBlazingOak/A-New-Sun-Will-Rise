@@ -3332,6 +3332,7 @@ CRV_democracy;Autonomous Commune of Craiova;;;;;;;;;;;;;,,
 WAL;Bucharest;;;;;;;;;;;;;,,
 WAL_ADJ;Bucharester;;;;;;;;;;;;;,,
 WAL_hms_government;Comunele Române;;;;;;;;;;;;;,,
+WAL_absolute_monarchy;Comunele Române;;;;;;;;;;;;;,,
 DEV;Deva;;;;;;;;;;;;;,,
 DEV_ADJ;Devian;;;;;;;;;;;;;,,
 DEV_democracy;Autonomous Commune of Deva;;;;;;;;;;;;;,,
@@ -3477,3 +3478,7 @@ CRR_anarcho_liberal;Parti por L'Libertá;;;;;;;;;;;;;
 CRR_socialist;Parti Socialor;;;;;;;;;;;;;
 CRR_communist;Parti Comunor;;;;;;;;;;;;;
 CRR_fascist;Parti Nueva Nación;;;;;;;;;;;;;
+NIW;Nieuw-Kouderhagen;;;;;;;;;;;;;,,
+NIW_ADJ;Nieuw-Koudrel;;;;;;;;;;;;;,,
+OUD;Oudrijk;;;;;;;;;;;;;,,
+OUD_ADJ;Ouderijker;;;;;;;;;;;;;,,

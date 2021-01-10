@@ -1,0 +1,47 @@
+#antillean West Indies Region  #see Leeward Islands.txt for BVI
+#Ruled by Denmark 1836
+#Saint Thomas (44000/11000 POPS)
+2223 = {
+    aristocrats = {
+        culture = antillean
+        religion = protestant
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = antillean
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = antillean
+        religion = protestant
+        size = 175
+    }
+
+    farmers = {
+        culture = antillean
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = protestant
+        size = 350
+    }
+
+    slaves = {
+        culture = afro_antillean
+        religion = protestant
+        size = 500
+    }
+
+}

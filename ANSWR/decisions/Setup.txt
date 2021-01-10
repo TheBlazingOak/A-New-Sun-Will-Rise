@@ -2787,7 +2787,7 @@ NET_setup_1836 = {
                 limit = {
                         has_pop_culture = dutch
                 }
-                literacy = .68
+                literacy = .73
             }
             any_pop = {
                 limit = {
@@ -2796,7 +2796,8 @@ NET_setup_1836 = {
                 literacy = .62
             }
             400 = { add_province_modifier = { name = dutch_dijkes duration = -1 } }
-            money = 325200
+            NET = { money = 525200 }
             }
+
             }
     }

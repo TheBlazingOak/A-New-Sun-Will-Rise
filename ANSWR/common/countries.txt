@@ -27,6 +27,7 @@ LSK        = "countries/Alaska.txt"
 ARI        ="countries/Arizona.txt"
 DAU        ="countries/Durango.txt"
 PEN	       ="countries/Pennsylvania.txt"
+NIW        ="countries/Nieuw-Kouderhagen.txt"
 
 #Mexican Warlords
 RDM        ="countries/Reyes de Morelia.txt" #Kings of Morelia
@@ -99,6 +100,12 @@ KRL        = "countries/Karelia.txt"
 CPL        = "countries/Congress Poland.txt"
 KAM     = "countries/Kamchatka.txt"
 BRY        ="countries/Buryatia.txt"
+
+##Formables
+OUD        ="countries/Oudrijk.txt"
+RUS        = "countries/Russia.txt"
+FRA        = "countries/France.txt"
+USA        = "countries/USA.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"
@@ -608,12 +615,9 @@ NZL        ="countries/New Zealand.txt"
 
 # Common Great Powers
 ENG        = "countries/United Kingdom.txt"
-RUS        = "countries/Russia.txt"
-FRA        = "countries/France.txt"
 PRU        = "countries/Prussia.txt"
 GER        = "countries/Germany.txt"
 AUS        = "countries/Austria.txt"
-USA        = "countries/USA.txt"
 JAP        = "countries/Japan.txt"
 ITA        = "countries/Italy.txt"
 KUK        = "countries/Austria-Hungary.txt"

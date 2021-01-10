@@ -2162,6 +2162,23 @@ american_cultures = {
 			Zachariah_Zachary Zephaniah Zacharias_Zachary
         }
     }
+    deisui = {
+        color = { 79 48 127 }
+        first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses
+                Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+                Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+        }
+        last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+                Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates
+                Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+                Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth
+                Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+                Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+                Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+                Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+                Wilson Wright Young
+        }
+    }
     union = USA
 }
 
@@ -2226,21 +2243,34 @@ neo_european_cultures = {
         last_names = { Hope Tennyson Northcote War Thesinger Denman Forster Baird Issac Stewart Fisher Cook Davis Armstrong Anderson Mitchell MacKenzie
         }
     }
+}
+
+canadian_culture_group = {
+    leader = european
+    is_overseas = no
     anglo_canadian = {
-        color = {248 165 255}
-        first_names = { Charles John Frederick Douglas Patrick Leonard Henry Arthur Alexander Campbell Gilbert Albert Victor Julian Francis James
+            color = {248 165 255}
+            first_names = { Charles John Frederick Douglas Patrick Leonard Henry Arthur Alexander Campbell Gilbert Albert Victor Julian Francis James
+            }
+            last_names = { Grey Elliot Hamilton Gordon Stanley Campbell Ross Petty-Fitzmaurice Windham Young Doyle Hastings Blackwood MacDougall
+            }
         }
-        last_names = { Grey Elliot Hamilton Gordon Stanley Campbell Ross Petty-Fitzmaurice Windham Young Doyle Hastings Blackwood MacDougall
+        french_canadian = {
+            color = {168 195 255}
+            first_names = { Narcisse René Èdouard Luc Letellier Théodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugéne Èssioff Huguel Jean-Pierre Gilles
+            }
+            last_names = { Belleau Caron "de St.-Just" Robitaille Masson Angers Chapleau Jotte Pantaléon Langelier Damasne LeBlanc Brodeur Perodeau
+            }
+            radicalism = 5
         }
-    }
-    french_canadian = {
-        color = {168 195 255}
-        first_names = { Narcisse René Èdouard Luc Letellier Théodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugéne Èssioff Huguel Jean-Pierre Gilles
+        canuck = {
+            color = { 7 55 110 }
+            first_names = { Charles John Frederick Douglas Patrick Leonard Henry Arthur Alexander Campbell Gilbert Albert Victor Julian Francis James
+            }
+            last_names = { Grey Elliot Hamilton Gordon Stanley Campbell Ross Petty-Fitzmaurice Windham Young Doyle Hastings Blackwood MacDougall
+            }
+            radicalism = 10
         }
-        last_names = { Belleau Caron "de St.-Just" Robitaille Masson Angers Chapleau Jotte Pantaléon Langelier Damasne LeBlanc Brodeur Perodeau
-        }
-        radicalism = 10
-    }
 }
 
 latin_american_cultures = {
