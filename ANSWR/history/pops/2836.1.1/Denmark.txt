@@ -68,7 +68,13 @@
     farmers = {
         culture = flanish
         religion = protestant
-        size = 48075
+        size = 18075
+    }
+
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 45075
     }
 
     artisans = {
@@ -317,6 +323,12 @@
         size = 1550
     }
 
+    aristocrats = {
+        culture = swedish
+        religion = protestant
+        size = 250
+    }
+
     bureaucrats = {
         culture = danish
         religion = protestant
@@ -348,9 +360,9 @@
     }
 
     artisans = {
-        culture = danish
+        culture = swedish
         religion = protestant
-        size = 6000
+        size = 4000
     }
 
     soldiers = {
@@ -362,13 +374,31 @@
     soldiers = {
         culture = danish
         religion = protestant
-        size = 1000
+        size = 3000
+    }
+
+    soldiers = {
+        culture = danish
+        religion = protestant
+        size = 3000
     }
 
     farmers = {
         culture = danish
         religion = protestant
-        size = 64000
+        size = 121000
+    }
+
+    farmers = {
+        culture = swedish
+        religion = protestant
+        size = 11000
+    }
+
+    farmers = {
+        culture = norwegian
+        religion = protestant
+        size = 7000
     }
 
     artisans = {
@@ -378,7 +408,7 @@
     }
 
     artisans = {
-        culture = north_german
+        culture = flanish
         religion = protestant
         size = 1100
     }
@@ -394,13 +424,13 @@
     clergymen = {
         culture = danish
         religion = protestant
-        size = 250
+        size = 150
     }
 
     artisans = {
         culture = danish
         religion = protestant
-        size = 3000
+        size = 2000
     }
 
     soldiers = {
@@ -412,7 +442,7 @@
     farmers = {
         culture = danish
         religion = protestant
-        size = 46250
+        size = 26250
     }
 }
 #Bornholm (16000/4000 POPS)
@@ -420,25 +450,97 @@
     clergymen = {
         culture = danish
         religion = protestant
-        size = 50
+        size = 150
     }
 
     artisans = {
         culture = danish
         religion = protestant
-        size = 400
+        size = 800
     }
 
     soldiers = {
         culture = danish
         religion = protestant
-        size = 50
+        size = 150
     }
 
     farmers = {
         culture = danish
         religion = protestant
-        size = 3500
+        size = 14500
+    }
+
+}
+#Aland Islands (11000 POPS)
+348 = {
+    clergymen = {
+        culture = danish
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 800
+    }
+
+    soldiers = {
+        culture = danish
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 11500
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = protestant
+        size = 125
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = flanish
+        religion = protestant
+        size = 6625
+    }
+}
+#Under rule of Flanish 1836
+#Heligoland (1600/400 POPS)
+533 = {
+    clergymen = {
+        culture = danish
+        religion = protestant
+        size = 550
+    }
+
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 800
+    }
+
+    soldiers = {
+        culture = danish
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 34500
     }
 
 }

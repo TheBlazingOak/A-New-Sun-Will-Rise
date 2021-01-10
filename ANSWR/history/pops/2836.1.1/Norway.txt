@@ -201,7 +201,7 @@
     farmers = {
         culture = norwegian
         religion = protestant
-        size = 39200
+        size = 19200
     }
 }
 #Christiansand (164000/41000 POPS)
@@ -233,7 +233,7 @@
     farmers = {
         culture = norwegian
         religion = protestant
-        size = 38825
+        size = 78825
     }
 }
 #Skien (68000/17000 POPS)
@@ -343,7 +343,7 @@
     farmers = {
         culture = norwegian
         religion = protestant
-        size = 18275
+        size = 88275
     }
 
     capitalists = {
@@ -448,4 +448,145 @@
         size = 17025
     }
 
+}
+#Batum (76000/19000 POPS) #now part of Georgia
+1096 = {
+    aristocrats = {
+        culture = norwegian
+        religion = protestant
+        size = 300
+    }
+
+    clergymen = {
+        culture = norwegian
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = norwegian
+        religion = protestant
+        size = 1750
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = norwegian
+        religion = protestant
+        size = 23025
+    }
+
+}
+#Kostorma (312000/78000 POPS)
+1023 = {
+    aristocrats = {
+        culture = norwegian
+        religion = protestant
+        size = 950
+    }
+
+    clergymen = {
+        culture = norwegian
+        religion = protestant
+        size = 775
+    }
+
+    artisans = {
+        culture = norwegian
+        religion = protestant
+        size = 2900
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 775
+    }
+
+    farmers = {
+        culture = norwegian
+        religion = protestant
+        size = 44600
+    }
+}
+#Penza (952000/238000 POPS)
+1021 = {
+    aristocrats = {
+        culture = norwegian
+        religion = protestant
+        size = 1250
+    }
+
+    clergymen = {
+        culture = norwegian
+        religion = protestant
+        size = 500
+    }
+
+    artisans = {
+        culture = norwegian
+        religion = protestant
+        size = 1000
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = norwegian
+        religion = protestant
+        size = 14600
+    }
+}
+#Migolinskaya (84000/21000 POPS)
+1045 = {
+    aristocrats = {
+        culture = norwegian
+        religion = protestant
+        size = 800
+    }
+
+    bureaucrats = {
+        culture = norwegian
+        religion = protestant
+        size = 500
+    }
+
+    officers = {
+        culture = norwegian
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = norwegian
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = norwegian
+        religion = protestant
+        size = 5000
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 2000
+    }
+
+    farmers = {
+        culture = norwegian
+        religion = protestant
+        size = 44200
+    }
 }

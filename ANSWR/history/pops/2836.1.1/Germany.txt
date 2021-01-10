@@ -353,16 +353,7 @@
         size = 45900
     }
 }
-#Under rule of Flanish 1836
-#Heligoland (1600/400 POPS)
-533 = {
-    farmers = {
-        culture = flanish
-        religion = protestant
-        size = 400
-    }
 
-}
 #Mecklenburg Region (614000)
 #under the Rule of Lubeck 1836
 #Lubeck (46503/11626 POPS)
@@ -3287,25 +3278,31 @@
     artisans = {
         culture = rhine_german
         religion = catholic
-        size = 200
+        size = 2000
     }
 
     soldiers = {
         culture = rhine_german
         religion = catholic
-        size = 25
+        size = 250
     }
 
     farmers = {
         culture = rhine_german
         religion = catholic
-        size = 3700
+        size = 16700
     }
 
     aristocrats = {
         culture = rhine_german
         religion = protestant
-        size = 3450
+        size = 250
+    }
+
+    farmers = {
+        culture = rhine_german
+        religion = protestant
+        size = 13000
     }
 
     clergymen = {

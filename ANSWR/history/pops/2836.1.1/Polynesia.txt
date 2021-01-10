@@ -59,61 +59,37 @@
     soldiers = {
         culture = polynesian
         religion = catholic
-        size = 100
+        size = 1100
     }
 
     farmers = {
         culture = polynesian
         religion = catholic
-        size = 1000
-    }
-
-    aristocrats = {
-        culture = polynesian
-        religion = animist
-        size = 225
-    }
-
-    artisans = {
-        culture = polynesian
-        religion = animist
-        size = 425
-    }
-
-    soldiers = {
-        culture = polynesian
-        religion = animist
-        size = 687
-    }
-
-    farmers = {
-        culture = polynesian
-        religion = animist
-        size = 11312
+        size = 21000
     }
 
     clergymen = {
-        culture = yankee
+        culture = deisei
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = yankee
+        culture = deisei
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = yankee
+        culture = deisei
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = yankee
+        culture = deisei
         religion = protestant
-        size = 100
+        size = 1000
     }
 }
 #uncolonized in 1836
@@ -121,8 +97,13 @@
 2623 = {
     farmers = {
         culture = polynesian
-        religion = animist
-        size = 30
+        religion = protestant
+        size = 2030
+    }
+    farmers = {
+        culture = deisei
+        religion = protestant
+        size = 1000
     }
 }
 #Central Polynesia Region (604)
@@ -555,39 +536,39 @@
 #Pitcairn Islands (160/40 POPS) #british trade post - proclaimed colony 1838
 2552 = {
     aristocrats = {
-        culture = british
+        culture = deisei
         religion = protestant
-        size = 2
+        size = 20
     }
 
     clergymen = {
-        culture = british
+        culture = deisei
         religion = protestant
-        size = 2
+        size = 20
     }
 
     artisans = {
-        culture = british
+        culture = deisei
         religion = protestant
-        size = 2
+        size = 20
     }
 
     soldiers = {
-        culture = british
+        culture = deisei
         religion = protestant
-        size = 2
+        size = 20
     }
 
     farmers = {
-        culture = british
+        culture = deisei
         religion = protestant
-        size = 10
+        size = 1000
     }
 
     farmers = {
         culture = polynesian
         religion = protestant
-        size = 10
+        size = 2000
     }
 }
 #Easter Island Region (3000)
@@ -662,134 +643,3 @@
 
 }
 
-#Vahitahi
-3319 = {
-    aristocrats = {
-        culture = pacifica
-        religion = animist
-        size = 5
-    }
-
-    clergymen = {
-        culture = pacifica
-        religion = animist
-        size = 5
-    }
-
-    artisans = {
-        culture = pacifica
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = pacifica
-        religion = animist
-        size = 10
-    }
-
-    farmers = {
-        culture = pacifica
-        religion = animist
-        size = 20
-    }
-}
-
-#Vairaatea
-3320 = {
-    aristocrats = {
-        culture = pacifica
-        religion = protestant
-        size = 5
-    }
-
-    clergymen = {
-        culture = pacifica
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = pacifica
-        religion = protestant
-        size = 10
-    }
-
-    soldiers = {
-        culture = pacifica
-        religion = protestant
-        size = 10
-    }
-
-    farmers = {
-        culture = pacifica
-        religion = protestant
-        size = 20
-    }
-}
-
-#Nukutavake
-3321 = {
-    aristocrats = {
-        culture = pacifica
-        religion = protestant
-        size = 5
-    }
-
-    clergymen = {
-        culture = pacifica
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = pacifica
-        religion = protestant
-        size = 10
-    }
-
-    soldiers = {
-        culture = pacifica
-        religion = protestant
-        size = 10
-    }
-
-    farmers = {
-        culture = pacifica
-        religion = protestant
-        size = 20
-    }
-}
-
-#Pinaki
-3322 = {
-    aristocrats = {
-        culture = pacifica
-        religion = protestant
-        size = 5
-    }
-
-    clergymen = {
-        culture = pacifica
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = pacifica
-        religion = protestant
-        size = 10
-    }
-
-    soldiers = {
-        culture = pacifica
-        religion = protestant
-        size = 10
-    }
-
-    farmers = {
-        culture = pacifica
-        religion = protestant
-        size = 20
-    }
-}
