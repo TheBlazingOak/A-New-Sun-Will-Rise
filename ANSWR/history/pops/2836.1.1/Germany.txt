@@ -956,7 +956,7 @@
     }
     farmers = {
         culture = north_german
-        religion = cathologic
+        religion = catholic
         size = 1460
     }
 }

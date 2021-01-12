@@ -1,6 +1,8 @@
 owner = QUE
 controller = QUE
+add_core = NIW
+add_core = NEW
 add_core = QUE
 trade_goods = iron
 terrain = new_world_boreal
-life_rating = 31
+life_rating = 35

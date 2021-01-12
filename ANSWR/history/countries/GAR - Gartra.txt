@@ -57,5 +57,3 @@ set_country_flag = new_world_nation
 consciousness = 1
 
 land_reform = yes_land_reform
-
-oob = "GAR_oob.txt"

@@ -94,9 +94,9 @@ country_event = {
 
 #History of Quycan
 country_event = {
-	id = 52028
-	title = "EVTNAME52028"
-	desc = "EVTDESC52028"
+	id = 52029
+	title = "EVTNAME52029"
+	desc = "EVTDESC52029"
 	picture = "history"
 
 	trigger = {
@@ -106,7 +106,7 @@ country_event = {
 	}
 	fire_only_once = yes
 	option = {
-		name = "EVT52028OPTA"
+		name = "EVT52029OPTA"
 	}
 }
 
@@ -155,7 +155,7 @@ country_event = {
 
 	trigger = {
 		ai = no
-		tag = SRJ
+		tag = SJR
 		year = 2836
 	}
 	fire_only_once = yes

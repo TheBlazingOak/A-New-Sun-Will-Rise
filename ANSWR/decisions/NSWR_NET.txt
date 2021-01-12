@@ -30,7 +30,7 @@ political_decisions = {
 			set_country_flag = partition_eastfrisia
 			#send message to East-Frisia to join
 			539 = {
-				owner = {= { country_event = 52035 } }
+				owner = { country_event = 52035 }
 			}
 			war = {
            			target = HAN

@@ -200,7 +200,7 @@ country_event = {
 		value = 25
 		}
 		FROM = {
-		country_event = { id=5015 days = 30}
+		country_event = { id=52015 days = 30}
 				}
 			}
 		ai_chance = {

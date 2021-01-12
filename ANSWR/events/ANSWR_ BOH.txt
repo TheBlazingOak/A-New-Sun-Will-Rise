@@ -57,7 +57,7 @@ country_event = {
 	anypop = { province_id = 625 reduce_pop = .01 }
 	add_country_modifier = {
 		name = the_night_of_the_seventh_boh
-		duration = 3036.1.1
+		duration = -1
 	}
 	}
 }

@@ -13,9 +13,9 @@ country_event = {
 
     trigger = {
         owns = 322
-        year = 1898
+        year = 2898
         not = {
-            year = 1905
+            year = 2905
             has_global_flag = NobelPhysics
         }
     }
@@ -25,11 +25,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1899
+            year = 2899
         }
         modifier = {
             factor = 0.5
-            year = 1900
+            year = 2900
         }
     }
 
@@ -58,11 +58,11 @@ country_event = {
 
     trigger = {
         has_global_flag = NobelPhysics
-        year = 1901
+        year = 2901
         invention = x_rays
         literacy = 0.6
         NOT = {
-            year = 1905
+            year = 2905
             has_global_flag = 1NobelPhysics
         }
         OR = {
@@ -139,11 +139,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1902
+            year = 2902
         }
         modifier = {
             factor = 0.95
-            year = 1903
+            year = 2903
         }
     }
 
@@ -165,11 +165,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 1NobelPhysics
-        year = 1902
+        year = 2902
         literacy = 0.6
         electricity = 1
         NOT = {
-            year = 1907
+            year = 2907
             has_global_flag = 2NobelPhysics
         }
         OR = {
@@ -246,11 +246,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1903
+            year = 2903
         }
         modifier = {
             factor = 0.95
-            year = 1904
+            year = 2904
         }
     }
 
@@ -272,12 +272,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 2NobelPhysics
-        year = 1903
+        year = 2903
         invention = x_rays
         literacy = 0.6
 
         NOT = {
-            year = 1908
+            year = 2908
             has_global_flag = 3NobelPhysics
         }
 
@@ -355,11 +355,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1904
+            year = 2904
         }
         modifier = {
             factor = 0.95
-            year = 1905
+            year = 2905
         }
     }
 
@@ -381,11 +381,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 3NobelPhysics
-        year = 1904
+        year = 2904
         electricity = 1
         literacy = 0.6
         NOT = {
-            year = 1909
+            year = 2909
             has_global_flag = 4NobelPhysics
         }
         OR = {
@@ -462,11 +462,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1905
+            year = 2905
         }
         modifier = {
             factor = 0.95
-            year = 1906
+            year = 2906
         }
     }
 
@@ -488,11 +488,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 4NobelPhysics
-        year = 1905
+        year = 2905
         electricity = 1
         literacy = 0.6
         not = {
-            year = 1908
+            year = 2908
             has_global_flag = 5NobelPhysics
         }
         OR = {
@@ -569,11 +569,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1906
+            year = 2906
         }
         modifier = {
             factor = 0.95
-            year = 1907
+            year = 2907
         }
     }
 
@@ -595,11 +595,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 5NobelPhysics
-        year = 1906
+        year = 2906
         electricity = 1
         literacy = 0.6
         not = {
-            year = 1909
+            year = 2909
             has_global_flag = 6NobelPhysics
         }
         OR = {
@@ -676,11 +676,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1907
+            year = 2907
         }
         modifier = {
             factor = 0.95
-            year = 1908
+            year = 2908
         }
     }
 
@@ -702,11 +702,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 6NobelPhysics
-        year = 1907
+        year = 2907
         electricity = 1
         literacy = 0.6
         not = {
-            year = 1910
+            year = 2910
             has_global_flag = 7NobelPhysics
         }
         OR = {
@@ -783,11 +783,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1908
+            year = 2908
         }
         modifier = {
             factor = 0.95
-            year = 1909
+            year = 2909
         }
     }
 
@@ -809,11 +809,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 7NobelPhysics
-        year = 1908
+        year = 2908
         electricity = 1
         literacy = 0.6
         not = {
-            year = 1911
+            year = 2911
             has_global_flag = 8NobelPhysics
         }
         OR = {
@@ -890,11 +890,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1909
+            year = 2909
         }
         modifier = {
             factor = 0.95
-            year = 1910
+            year = 2910
         }
     }
 
@@ -916,11 +916,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 8NobelPhysics
-        year = 1909
+        year = 2909
         electricity = 1
         literacy = 0.6
         not = {
-            year = 1912
+            year = 2912
             has_global_flag = 9NobelPhysics
         }
         OR = {
@@ -997,11 +997,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1910
+            year = 2910
         }
         modifier = {
             factor = 0.95
-            year = 1911
+            year = 2911
         }
     }
 
@@ -1023,11 +1023,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 9NobelPhysics
-        year = 1910
+        year = 2910
         electricity = 1
         literacy = 0.6
         not = {
-            year = 1913
+            year = 2913
             has_global_flag = 10NobelPhysics
         }
         OR = {
@@ -1104,11 +1104,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1911
+            year = 2911
         }
         modifier = {
             factor = 0.95
-            year = 1912
+            year = 2912
         }
     }
 
@@ -1130,11 +1130,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 10NobelPhysics
-        year = 1911
+        year = 2911
         invention = quantum_theory
         literacy = 0.6
         not = {
-            year = 1914
+            year = 2914
             has_global_flag = 11NobelPhysics
         }
         OR = {
@@ -1211,11 +1211,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1912
+            year = 2912
         }
         modifier = {
             factor = 0.95
-            year = 1913
+            year = 2913
         }
     }
 
@@ -1237,11 +1237,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 11NobelPhysics
-        year = 1912
+        year = 2912
         electricity = 1
         literacy = 0.6
         not = {
-            year = 1915
+            year = 2915
             has_global_flag = 12NobelPhysics
         }
         OR = {
@@ -1318,11 +1318,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1913
+            year = 2913
         }
         modifier = {
             factor = 0.95
-            year = 1914
+            year = 2914
         }
     }
 
@@ -1344,11 +1344,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 12NobelPhysics
-        year = 1913
+        year = 2913
         electricity = 1
         literacy = 0.6
         not = {
-            year = 1916
+            year = 2916
             has_global_flag = 13NobelPhysics
         }
         OR = {
@@ -1425,11 +1425,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1914
+            year = 2914
         }
         modifier = {
             factor = 0.95
-            year = 1915
+            year = 2915
         }
     }
 
@@ -1451,11 +1451,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 13NobelPhysics
-        year = 1914
+        year = 2914
         invention = x_rays
         literacy = 0.6
         not = {
-            year = 1917
+            year = 2917
             has_global_flag = 14NobelPhysics
         }
         OR = {
@@ -1532,11 +1532,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1915
+            year = 2915
         }
         modifier = {
             factor = 0.95
-            year = 1916
+            year = 2916
         }
     }
 
@@ -1558,11 +1558,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 14NobelPhysics
-        year = 1915
+        year = 2915
         invention = x_rays
         literacy = 0.6
         not = {
-            year = 1918
+            year = 2918
             has_global_flag = 15NobelPhysics
         }
         OR = {
@@ -1639,11 +1639,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1916
+            year = 2916
         }
         modifier = {
             factor = 0.95
-            year = 1917
+            year = 2917
         }
     }
 
@@ -1665,11 +1665,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 15NobelPhysics
-        year = 1916
+        year = 2916
         electricity = 1
         literacy = 0.6
         not = {
-            year = 1919
+            year = 2919
             has_global_flag = 16NobelPhysics
         }
         OR = {
@@ -1691,11 +1691,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1917
+            year = 2917
         }
         modifier = {
             factor = 0.95
-            year = 1918
+            year = 2918
         }
     }
 
@@ -1715,11 +1715,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 16NobelPhysics
-        year = 1917
+        year = 2917
         invention = x_rays
         literacy = 0.6
         not = {
-            year = 1920
+            year = 2920
             has_global_flag = 17NobelPhysics
         }
         OR = {
@@ -1796,11 +1796,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1918
+            year = 2918
         }
         modifier = {
             factor = 0.95
-            year = 1919
+            year = 2919
         }
     }
 
@@ -1823,11 +1823,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 17NobelPhysics
-        year = 1918
+        year = 2918
         invention = quantum_theory
         literacy = 0.6
         not = {
-            year = 1921
+            year = 2921
             has_global_flag = 18NobelPhysics
         }
         OR = {
@@ -1904,11 +1904,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1919
+            year = 2919
         }
         modifier = {
             factor = 0.95
-            year = 1920
+            year = 2920
         }
     }
 
@@ -1930,11 +1930,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 18NobelPhysics
-        year = 1919
+        year = 2919
         electricity = 1
         literacy = 0.6
         not = {
-            year = 1922
+            year = 2922
             has_global_flag = 19NobelPhysics
         }
         OR = {
@@ -2011,11 +2011,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1920
+            year = 2920
         }
         modifier = {
             factor = 0.95
-            year = 1921
+            year = 2921
         }
     }
 
@@ -2037,11 +2037,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 19NobelPhysics
-        year = 1920
+        year = 2920
         electricity = 1
         literacy = 0.6
         not = {
-            year = 1923
+            year = 2923
             has_global_flag = 20NobelPhysics
         }
         OR = {
@@ -2118,11 +2118,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1921
+            year = 2921
         }
         modifier = {
             factor = 0.95
-            year = 1922
+            year = 2922
         }
     }
 
@@ -2145,11 +2145,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 20NobelPhysics
-        year = 1921
+        year = 2921
         electricity = 1
         literacy = 0.7
         not = {
-            year = 1924
+            year = 2924
             has_global_flag = 21NobelPhysics
         }
         OR = {
@@ -2226,11 +2226,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1922
+            year = 2922
         }
         modifier = {
             factor = 0.95
-            year = 1923
+            year = 2923
         }
     }
 
@@ -2252,11 +2252,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 21NobelPhysics
-        year = 1922
+        year = 2922
         invention = quantum_theory
         literacy = 0.6
         not = {
-            year = 1925
+            year = 2925
             has_global_flag = 22NobelPhysics
         }
         OR = {
@@ -2333,11 +2333,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1923
+            year = 2923
         }
         modifier = {
             factor = 0.95
-            year = 1924
+            year = 2924
         }
     }
 
@@ -2359,11 +2359,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 22NobelPhysics
-        year = 1923
+        year = 2923
         electricity = 1
         literacy = 0.6
         not = {
-            year = 1926
+            year = 2926
             has_global_flag = 23NobelPhysics
         }
         OR = {
@@ -2440,11 +2440,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1924
+            year = 2924
         }
         modifier = {
             factor = 0.95
-            year = 1925
+            year = 2925
         }
     }
 
@@ -2467,11 +2467,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 23NobelPhysics
-        year = 1924
+        year = 2924
         invention = x_rays
         literacy = 0.6
         not = {
-            year = 1927
+            year = 2927
             has_global_flag = 24NobelPhysics
         }
         OR = {
@@ -2548,11 +2548,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1925
+            year = 2925
         }
         modifier = {
             factor = 0.95
-            year = 1926
+            year = 2926
         }
     }
 
@@ -2574,11 +2574,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 24NobelPhysics
-        year = 1925
+        year = 2925
         invention = vacuum_tube
         literacy = 0.6
         not = {
-            year = 1928
+            year = 2928
             has_global_flag = 25NobelPhysics
         }
         OR = {
@@ -2655,11 +2655,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1926
+            year = 2926
         }
         modifier = {
             factor = 0.95
-            year = 1927
+            year = 2927
         }
     }
 
@@ -2681,11 +2681,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 25NobelPhysics
-        year = 1926
+        year = 2926
         invention = quantum_theory
         literacy = 0.6
         not = {
-            year = 1929
+            year = 2929
             has_global_flag = 26NobelPhysics
         }
         OR = {
@@ -2762,11 +2762,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1927
+            year = 2927
         }
         modifier = {
             factor = 0.95
-            year = 1928
+            year = 2928
         }
     }
 
@@ -2788,11 +2788,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 26NobelPhysics
-        year = 1927
+        year = 2927
         synthetic_polymers = 1
         literacy = 0.6
         not = {
-            year = 1930
+            year = 2930
             has_global_flag = 27NobelPhysics
         }
         OR = {
@@ -2869,11 +2869,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1928
+            year = 2928
         }
         modifier = {
             factor = 0.95
-            year = 1929
+            year = 2929
         }
     }
 
@@ -2895,11 +2895,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 27NobelPhysics
-        year = 1928
+        year = 2928
         synthetic_polymers = 1
         literacy = 0.6
         not = {
-            year = 1931
+            year = 2931
             has_global_flag = 28NobelPhysics
         }
         OR = {
@@ -2976,11 +2976,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1929
+            year = 2929
         }
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
     }
 
@@ -3002,11 +3002,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 28NobelPhysics
-        year = 1929
+        year = 2929
         synthetic_polymers = 1
         literacy = 0.6
         not = {
-            year = 1932
+            year = 2932
             has_global_flag = 29NobelPhysics
         }
         OR = {
@@ -3083,11 +3083,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
         modifier = {
             factor = 0.95
-            year = 1931
+            year = 2931
         }
     }
 
@@ -3109,11 +3109,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 29NobelPhysics
-        year = 1930
+        year = 2930
         synthetic_polymers = 1
         literacy = 0.6
         not = {
-            year = 1933
+            year = 2933
             has_global_flag = 30NobelPhysics
         }
         OR = {
@@ -3190,11 +3190,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
         modifier = {
             factor = 0.95
-            year = 1931
+            year = 2931
         }
     }
 
@@ -3216,11 +3216,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 30NobelPhysics
-        year = 1931
+        year = 2931
         synthetic_polymers = 1
         literacy = 0.6
         not = {
-            year = 1934
+            year = 2934
             has_global_flag = 31NobelPhysics
         }
         OR = {
@@ -3297,11 +3297,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1932
+            year = 2932
         }
         modifier = {
             factor = 0.95
-            year = 1933
+            year = 2933
         }
     }
 
@@ -3321,11 +3321,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 31NobelPhysics
-        year = 1932
+        year = 2932
         invention = quantum_theory
         literacy = 0.6
         not = {
-            year = 1935
+            year = 2935
             has_global_flag = 32NobelPhysics
         }
         OR = {
@@ -3402,11 +3402,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1933
+            year = 2933
         }
         modifier = {
             factor = 0.95
-            year = 1934
+            year = 2934
         }
     }
 
@@ -3428,11 +3428,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 32NobelPhysics
-        year = 1933
+        year = 2933
         invention = quantum_theory
         literacy = 0.6
         not = {
-            year = 1936
+            year = 2936
             has_global_flag = 33NobelPhysics
         }
         OR = {
@@ -3509,11 +3509,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1934
+            year = 2934
         }
         modifier = {
             factor = 0.95
-            year = 1935
+            year = 2935
         }
     }
 
@@ -3532,10 +3532,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 33NobelPhysics
-        year = 1934
+        year = 2934
         electricity = 1
         not = {
-            year = 1937
+            year = 2937
             has_global_flag = 34NobelPhysics
         }
         or = {
@@ -3553,11 +3553,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1935
+            year = 2935
         }
         modifier = {
             factor = 0.95
-            year = 1936
+            year = 2936
         }
     }
 
@@ -3581,11 +3581,11 @@ country_event = {
     trigger = {
         has_global_flag = NobelPhysics
         has_global_flag = 34NobelPhysics
-        year = 1935
+        year = 2935
         synthetic_polymers = 1
         literacy = 0.6
         not = {
-            year = 1938
+            year = 2938
             has_global_flag = 35NobelPhysics
         }
         OR = {
@@ -3662,11 +3662,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1936
+            year = 2936
         }
         modifier = {
             factor = 0.95
-            year = 1937
+            year = 2937
         }
     }
 
@@ -3685,10 +3685,10 @@ country_event = {
 
     trigger = {
         has_global_flag = NobelChemistry
-        year = 1901
+        year = 2901
         electricity = 1
         not = {
-            year = 1906
+            year = 2906
             has_global_flag = 1NobelChemistry
         }
         or = {
@@ -3706,11 +3706,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1902
+            year = 2902
         }
         modifier = {
             factor = 0.95
-            year = 1903
+            year = 2903
         }
     }
 
@@ -3732,10 +3732,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 1NobelChemistry
-        year = 1902
+        year = 2902
         electricity = 1
         not = {
-            year = 1907
+            year = 2907
             has_global_flag = 2NobelChemistry
         }
         or = {
@@ -3753,11 +3753,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1903
+            year = 2903
         }
         modifier = {
             factor = 0.95
-            year = 1904
+            year = 2904
         }
     }
 
@@ -3779,10 +3779,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 2NobelChemistry
-        year = 1903
+        year = 2903
         electricity = 1
         not = {
-            year = 1908
+            year = 2908
             has_global_flag = 3NobelChemistry
         }
         or = {
@@ -3800,11 +3800,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1904
+            year = 2904
         }
         modifier = {
             factor = 0.95
-            year = 1905
+            year = 2905
         }
     }
 
@@ -3826,10 +3826,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 3NobelChemistry
-        year = 1904
+        year = 2904
         electricity = 1
         not = {
-            year = 1909
+            year = 2909
             has_global_flag = 4NobelChemistry
         }
         or = {
@@ -3847,11 +3847,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1905
+            year = 2905
         }
         modifier = {
             factor = 0.95
-            year = 1906
+            year = 2906
         }
     }
 
@@ -3873,10 +3873,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 4NobelChemistry
-        year = 1905
+        year = 2905
         electricity = 1
         not = {
-            year = 1908
+            year = 2908
             has_global_flag = 5NobelChemistry
         }
         or = {
@@ -3894,11 +3894,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1906
+            year = 2906
         }
         modifier = {
             factor = 0.95
-            year = 1907
+            year = 2907
         }
     }
 
@@ -3919,10 +3919,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 5NobelChemistry
-        year = 1906
+        year = 2906
         electricity = 1
         not = {
-            year = 1909
+            year = 2909
             has_global_flag = 6NobelChemistry
         }
         or = {
@@ -3940,11 +3940,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1907
+            year = 2907
         }
         modifier = {
             factor = 0.95
-            year = 1908
+            year = 2908
         }
     }
 
@@ -3966,10 +3966,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 6NobelChemistry
-        year = 1907
+        year = 2907
         electricity = 1
         not = {
-            year = 1910
+            year = 2910
             has_global_flag = 7NobelChemistry
         }
         or = {
@@ -3987,11 +3987,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1908
+            year = 2908
         }
         modifier = {
             factor = 0.95
-            year = 1909
+            year = 2909
         }
     }
 
@@ -4013,10 +4013,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 7NobelChemistry
-        year = 1908
+        year = 2908
         electricity = 1
         not = {
-            year = 1911
+            year = 2911
             has_global_flag = 8NobelChemistry
         }
         or = {
@@ -4034,11 +4034,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1909
+            year = 2909
         }
         modifier = {
             factor = 0.95
-            year = 1910
+            year = 2910
         }
     }
 
@@ -4060,10 +4060,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 8NobelChemistry
-        year = 1909
+        year = 2909
         electricity = 1
         not = {
-            year = 1912
+            year = 2912
             has_global_flag = 9NobelChemistry
         }
         or = {
@@ -4081,11 +4081,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1910
+            year = 2910
         }
         modifier = {
             factor = 0.95
-            year = 1911
+            year = 2911
         }
     }
 
@@ -4107,10 +4107,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 9NobelChemistry
-        year = 1910
+        year = 2910
         electricity = 1
         not = {
-            year = 1913
+            year = 2913
             has_global_flag = 10NobelChemistry
         }
         or = {
@@ -4128,11 +4128,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1911
+            year = 2911
         }
         modifier = {
             factor = 0.95
-            year = 1912
+            year = 2912
         }
     }
 
@@ -4154,10 +4154,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 10NobelChemistry
-        year = 1911
+        year = 2911
         electricity = 1
         not = {
-            year = 1914
+            year = 2914
             has_global_flag = 11NobelChemistry
         }
         or = {
@@ -4175,11 +4175,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1912
+            year = 2912
         }
         modifier = {
             factor = 0.95
-            year = 1913
+            year = 2913
         }
     }
 
@@ -4201,10 +4201,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 11NobelChemistry
-        year = 1912
+        year = 2912
         electricity = 1
         not = {
-            year = 1915
+            year = 2915
             has_global_flag = 12NobelChemistry
         }
         or = {
@@ -4222,11 +4222,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1913
+            year = 2913
         }
         modifier = {
             factor = 0.95
-            year = 1914
+            year = 2914
         }
     }
 
@@ -4248,10 +4248,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 12NobelChemistry
-        year = 1913
+        year = 2913
         electricity = 1
         not = {
-            year = 1916
+            year = 2916
             has_global_flag = 13NobelChemistry
         }
         or = {
@@ -4269,11 +4269,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1914
+            year = 2914
         }
         modifier = {
             factor = 0.95
-            year = 1915
+            year = 2915
         }
     }
 
@@ -4295,10 +4295,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 13NobelChemistry
-        year = 1914
+        year = 2914
         electricity = 1
         not = {
-            year = 1917
+            year = 2917
             has_global_flag = 14NobelChemistry
         }
         or = {
@@ -4316,11 +4316,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1915
+            year = 2915
         }
         modifier = {
             factor = 0.95
-            year = 1916
+            year = 2916
         }
     }
 
@@ -4342,10 +4342,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 14NobelChemistry
-        year = 1915
+        year = 2915
         electricity = 1
         not = {
-            year = 1918
+            year = 2918
             has_global_flag = 15NobelChemistry
         }
         or = {
@@ -4363,11 +4363,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1916
+            year = 2916
         }
         modifier = {
             factor = 0.95
-            year = 1917
+            year = 2917
         }
     }
 
@@ -4389,10 +4389,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 15NobelChemistry
-        year = 1916
+        year = 2916
         electricity = 1
         not = {
-            year = 1919
+            year = 2919
             has_global_flag = 16NobelChemistry
         }
         or = {
@@ -4410,11 +4410,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1917
+            year = 2917
         }
         modifier = {
             factor = 0.95
-            year = 1918
+            year = 2918
         }
     }
 
@@ -4436,10 +4436,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 16NobelChemistry
-        year = 1917
+        year = 2917
         electricity = 1
         not = {
-            year = 1920
+            year = 2920
             has_global_flag = 17NobelChemistry
         }
         or = {
@@ -4457,11 +4457,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1918
+            year = 2918
         }
         modifier = {
             factor = 0.95
-            year = 1919
+            year = 2919
         }
     }
 
@@ -4483,10 +4483,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 17NobelChemistry
-        year = 1918
+        year = 2918
         electricity = 1
         not = {
-            year = 1921
+            year = 2921
             has_global_flag = 18NobelChemistry
         }
         or = {
@@ -4504,11 +4504,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1919
+            year = 2919
         }
         modifier = {
             factor = 0.95
-            year = 1920
+            year = 2920
         }
     }
 
@@ -4530,10 +4530,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 18NobelChemistry
-        year = 1919
+        year = 2919
         electricity = 1
         not = {
-            year = 1922
+            year = 2922
             has_global_flag = 19NobelChemistry
         }
         or = {
@@ -4551,11 +4551,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1920
+            year = 2920
         }
         modifier = {
             factor = 0.95
-            year = 1921
+            year = 2921
         }
     }
 
@@ -4577,10 +4577,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 19NobelChemistry
-        year = 1920
+        year = 2920
         electricity = 1
         not = {
-            year = 1923
+            year = 2923
             has_global_flag = 20NobelChemistry
         }
         or = {
@@ -4598,11 +4598,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1921
+            year = 2921
         }
         modifier = {
             factor = 0.95
-            year = 1922
+            year = 2922
         }
     }
 
@@ -4624,10 +4624,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 20NobelChemistry
-        year = 1921
+        year = 2921
         electricity = 1
         not = {
-            year = 1924
+            year = 2924
             has_global_flag = 21NobelChemistry
         }
         or = {
@@ -4645,11 +4645,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1922
+            year = 2922
         }
         modifier = {
             factor = 0.95
-            year = 1923
+            year = 2923
         }
     }
 
@@ -4671,10 +4671,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 21NobelChemistry
-        year = 1922
+        year = 2922
         electricity = 1
         not = {
-            year = 1925
+            year = 2925
             has_global_flag = 22NobelChemistry
         }
         or = {
@@ -4692,11 +4692,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1923
+            year = 2923
         }
         modifier = {
             factor = 0.95
-            year = 1924
+            year = 2924
         }
     }
 
@@ -4718,10 +4718,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 22NobelChemistry
-        year = 1923
+        year = 2923
         electricity = 1
         not = {
-            year = 1926
+            year = 2926
             has_global_flag = 23NobelChemistry
         }
         or = {
@@ -4739,11 +4739,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1924
+            year = 2924
         }
         modifier = {
             factor = 0.95
-            year = 1925
+            year = 2925
         }
     }
 
@@ -4765,10 +4765,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 23NobelChemistry
-        year = 1924
+        year = 2924
         electricity = 1
         not = {
-            year = 1927
+            year = 2927
             has_global_flag = 24NobelChemistry
         }
         or = {
@@ -4786,11 +4786,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1925
+            year = 2925
         }
         modifier = {
             factor = 0.95
-            year = 1926
+            year = 2926
         }
     }
 
@@ -4812,10 +4812,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 24NobelChemistry
-        year = 1925
+        year = 2925
         electricity = 1
         not = {
-            year = 1928
+            year = 2928
             has_global_flag = 25NobelChemistry
         }
         or = {
@@ -4833,11 +4833,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1926
+            year = 2926
         }
         modifier = {
             factor = 0.95
-            year = 1927
+            year = 2927
         }
     }
 
@@ -4859,10 +4859,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 25NobelChemistry
-        year = 1926
+        year = 2926
         electricity = 1
         not = {
-            year = 1929
+            year = 2929
             has_global_flag = 26NobelChemistry
         }
         or = {
@@ -4880,11 +4880,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1927
+            year = 2927
         }
         modifier = {
             factor = 0.95
-            year = 1928
+            year = 2928
         }
     }
 
@@ -4906,10 +4906,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 26NobelChemistry
-        year = 1927
+        year = 2927
         electricity = 1
         not = {
-            year = 1930
+            year = 2930
             has_global_flag = 27NobelChemistry
         }
         or = {
@@ -4927,11 +4927,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1928
+            year = 2928
         }
         modifier = {
             factor = 0.95
-            year = 1929
+            year = 2929
         }
     }
 
@@ -4953,10 +4953,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 27NobelChemistry
-        year = 1928
+        year = 2928
         electricity = 1
         not = {
-            year = 1931
+            year = 2931
             has_global_flag = 28NobelChemistry
         }
         or = {
@@ -4974,11 +4974,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1929
+            year = 2929
         }
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
     }
 
@@ -5000,10 +5000,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 28NobelChemistry
-        year = 1929
+        year = 2929
         electricity = 1
         not = {
-            year = 1932
+            year = 2932
             has_global_flag = 29NobelChemistry
         }
         or = {
@@ -5021,11 +5021,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
         modifier = {
             factor = 0.95
-            year = 1931
+            year = 2931
         }
     }
 
@@ -5047,10 +5047,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 29NobelChemistry
-        year = 1930
+        year = 2930
         electricity = 1
         not = {
-            year = 1933
+            year = 2933
             has_global_flag = 30NobelChemistry
         }
         or = {
@@ -5068,11 +5068,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
         modifier = {
             factor = 0.95
-            year = 1931
+            year = 2931
         }
     }
 
@@ -5094,10 +5094,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 30NobelChemistry
-        year = 1931
+        year = 2931
         electricity = 1
         not = {
-            year = 1934
+            year = 2934
             has_global_flag = 31NobelChemistry
         }
         or = {
@@ -5115,11 +5115,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1932
+            year = 2932
         }
         modifier = {
             factor = 0.95
-            year = 1933
+            year = 2933
         }
     }
 
@@ -5141,10 +5141,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 31NobelChemistry
-        year = 1932
+        year = 2932
         electricity = 1
         not = {
-            year = 1935
+            year = 2935
             has_global_flag = 32NobelChemistry
         }
         or = {
@@ -5162,11 +5162,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1933
+            year = 2933
         }
         modifier = {
             factor = 0.95
-            year = 1934
+            year = 2934
         }
     }
 
@@ -5188,10 +5188,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 32NobelChemistry
-        year = 1933
+        year = 2933
         electricity = 1
         not = {
-            year = 1936
+            year = 2936
             has_global_flag = 33NobelChemistry
         }
         or = {
@@ -5209,11 +5209,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1934
+            year = 2934
         }
         modifier = {
             factor = 0.95
-            year = 1935
+            year = 2935
         }
     }
 
@@ -5235,10 +5235,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 33NobelChemistry
-        year = 1934
+        year = 2934
         electricity = 1
         not = {
-            year = 1937
+            year = 2937
             has_global_flag = 34NobelChemistry
         }
         or = {
@@ -5256,11 +5256,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1935
+            year = 2935
         }
         modifier = {
             factor = 0.95
-            year = 1936
+            year = 2936
         }
     }
 
@@ -5282,10 +5282,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelChemistry
         has_global_flag = 34NobelChemistry
-        year = 1935
+        year = 2935
         electricity = 1
         not = {
-            year = 1938
+            year = 2938
             has_global_flag = 35NobelChemistry
         }
         or = {
@@ -5303,11 +5303,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1936
+            year = 2936
         }
         modifier = {
             factor = 0.95
-            year = 1937
+            year = 2937
         }
     }
 
@@ -5329,10 +5329,10 @@ country_event = {
 
     trigger = {
         has_global_flag = NobelMedicine
-        year = 1901
+        year = 2901
         organic_chemistry = 1
         not = {
-            year = 1906
+            year = 2906
             has_global_flag = 1NobelMedicine
         }
         or = {
@@ -5350,11 +5350,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1902
+            year = 2902
         }
         modifier = {
             factor = 0.95
-            year = 1903
+            year = 2903
         }
     }
 
@@ -5376,10 +5376,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 1NobelMedicine
-        year = 1902
+        year = 2902
         organic_chemistry = 1
         not = {
-            year = 1907
+            year = 2907
             has_global_flag = 2NobelMedicine
         }
         or = {
@@ -5397,11 +5397,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1903
+            year = 2903
         }
         modifier = {
             factor = 0.95
-            year = 1904
+            year = 2904
         }
     }
 
@@ -5423,10 +5423,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 2NobelMedicine
-        year = 1903
+        year = 2903
         organic_chemistry = 1
         not = {
-            year = 1908
+            year = 2908
             has_global_flag = 3NobelMedicine
         }
         or = {
@@ -5444,11 +5444,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1904
+            year = 2904
         }
         modifier = {
             factor = 0.95
-            year = 1905
+            year = 2905
         }
     }
 
@@ -5470,10 +5470,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 3NobelMedicine
-        year = 1904
+        year = 2904
         organic_chemistry = 1
         not = {
-            year = 1909
+            year = 2909
             has_global_flag = 4NobelMedicine
         }
         or = {
@@ -5491,11 +5491,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1905
+            year = 2905
         }
         modifier = {
             factor = 0.95
-            year = 1906
+            year = 2906
         }
     }
 
@@ -5517,10 +5517,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 4NobelMedicine
-        year = 1905
+        year = 2905
         organic_chemistry = 1
         not = {
-            year = 1908
+            year = 2908
             has_global_flag = 5NobelMedicine
         }
         or = {
@@ -5538,11 +5538,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1906
+            year = 2906
         }
         modifier = {
             factor = 0.95
-            year = 1907
+            year = 2907
         }
     }
 
@@ -5564,10 +5564,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 5NobelMedicine
-        year = 1906
+        year = 2906
         organic_chemistry = 1
         not = {
-            year = 1909
+            year = 2909
             has_global_flag = 6NobelMedicine
         }
         or = {
@@ -5585,11 +5585,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1907
+            year = 2907
         }
         modifier = {
             factor = 0.95
-            year = 1908
+            year = 2908
         }
     }
 
@@ -5611,10 +5611,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 6NobelMedicine
-        year = 1907
+        year = 2907
         organic_chemistry = 1
         not = {
-            year = 1910
+            year = 2910
             has_global_flag = 7NobelMedicine
         }
         or = {
@@ -5632,11 +5632,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1908
+            year = 2908
         }
         modifier = {
             factor = 0.95
-            year = 1909
+            year = 2909
         }
     }
 
@@ -5658,10 +5658,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 7NobelMedicine
-        year = 1908
+        year = 2908
         organic_chemistry = 1
         not = {
-            year = 1911
+            year = 2911
             has_global_flag = 8NobelMedicine
         }
         or = {
@@ -5679,11 +5679,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1909
+            year = 2909
         }
         modifier = {
             factor = 0.95
-            year = 1910
+            year = 2910
         }
     }
 
@@ -5705,10 +5705,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 8NobelMedicine
-        year = 1909
+        year = 2909
         organic_chemistry = 1
         not = {
-            year = 1912
+            year = 2912
             has_global_flag = 9NobelMedicine
         }
         or = {
@@ -5726,11 +5726,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1910
+            year = 2910
         }
         modifier = {
             factor = 0.95
-            year = 1911
+            year = 2911
         }
     }
 
@@ -5752,10 +5752,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 9NobelMedicine
-        year = 1910
+        year = 2910
         organic_chemistry = 1
         not = {
-            year = 1913
+            year = 2913
             has_global_flag = 10NobelMedicine
         }
         or = {
@@ -5773,11 +5773,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1911
+            year = 2911
         }
         modifier = {
             factor = 0.95
-            year = 1912
+            year = 2912
         }
     }
 
@@ -5799,10 +5799,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 10NobelMedicine
-        year = 1911
+        year = 2911
         organic_chemistry = 1
         not = {
-            year = 1914
+            year = 2914
             has_global_flag = 11NobelMedicine
         }
         or = {
@@ -5820,11 +5820,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1912
+            year = 2912
         }
         modifier = {
             factor = 0.95
-            year = 1913
+            year = 2913
         }
     }
 
@@ -5846,10 +5846,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 11NobelMedicine
-        year = 1912
+        year = 2912
         organic_chemistry = 1
         not = {
-            year = 1915
+            year = 2915
             has_global_flag = 12NobelMedicine
         }
         or = {
@@ -5867,11 +5867,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1913
+            year = 2913
         }
         modifier = {
             factor = 0.95
-            year = 1914
+            year = 2914
         }
     }
 
@@ -5893,10 +5893,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 12NobelMedicine
-        year = 1913
+        year = 2913
         organic_chemistry = 1
         not = {
-            year = 1916
+            year = 2916
             has_global_flag = 13NobelMedicine
         }
         or = {
@@ -5914,11 +5914,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1914
+            year = 2914
         }
         modifier = {
             factor = 0.95
-            year = 1915
+            year = 2915
         }
     }
 
@@ -5940,10 +5940,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 13NobelMedicine
-        year = 1914
+        year = 2914
         organic_chemistry = 1
         not = {
-            year = 1917
+            year = 2917
             has_global_flag = 14NobelMedicine
         }
         or = {
@@ -5961,11 +5961,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1915
+            year = 2915
         }
         modifier = {
             factor = 0.95
-            year = 1916
+            year = 2916
         }
     }
 
@@ -5987,10 +5987,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 14NobelMedicine
-        year = 1915
+        year = 2915
         organic_chemistry = 1
         not = {
-            year = 1918
+            year = 2918
             has_global_flag = 15NobelMedicine
         }
         or = {
@@ -6008,11 +6008,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1916
+            year = 2916
         }
         modifier = {
             factor = 0.95
-            year = 1917
+            year = 2917
         }
     }
 
@@ -6034,10 +6034,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 15NobelMedicine
-        year = 1916
+        year = 2916
         organic_chemistry = 1
         not = {
-            year = 1919
+            year = 2919
             has_global_flag = 16NobelMedicine
         }
         or = {
@@ -6055,11 +6055,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1917
+            year = 2917
         }
         modifier = {
             factor = 0.95
-            year = 1918
+            year = 2918
         }
     }
 
@@ -6081,10 +6081,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 16NobelMedicine
-        year = 1917
+        year = 2917
         organic_chemistry = 1
         not = {
-            year = 1920
+            year = 2920
             has_global_flag = 17NobelMedicine
         }
         or = {
@@ -6102,11 +6102,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1918
+            year = 2918
         }
         modifier = {
             factor = 0.95
-            year = 1919
+            year = 2919
         }
     }
 
@@ -6128,10 +6128,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 17NobelMedicine
-        year = 1918
+        year = 2918
         organic_chemistry = 1
         not = {
-            year = 1921
+            year = 2921
             has_global_flag = 18NobelMedicine
         }
         or = {
@@ -6149,11 +6149,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1919
+            year = 2919
         }
         modifier = {
             factor = 0.95
-            year = 1920
+            year = 2920
         }
     }
 
@@ -6175,10 +6175,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 18NobelMedicine
-        year = 1919
+        year = 2919
         organic_chemistry = 1
         not = {
-            year = 1922
+            year = 2922
             has_global_flag = 19NobelMedicine
         }
         or = {
@@ -6196,11 +6196,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1920
+            year = 2920
         }
         modifier = {
             factor = 0.95
-            year = 1921
+            year = 2921
         }
     }
 
@@ -6222,10 +6222,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 19NobelMedicine
-        year = 1920
+        year = 2920
         organic_chemistry = 1
         not = {
-            year = 1923
+            year = 2923
             has_global_flag = 20NobelMedicine
         }
         or = {
@@ -6243,11 +6243,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1921
+            year = 2921
         }
         modifier = {
             factor = 0.95
-            year = 1922
+            year = 2922
         }
     }
 
@@ -6269,10 +6269,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 20NobelMedicine
-        year = 1921
+        year = 2921
         organic_chemistry = 1
         not = {
-            year = 1924
+            year = 2924
             has_global_flag = 21NobelMedicine
         }
         or = {
@@ -6290,11 +6290,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1922
+            year = 2922
         }
         modifier = {
             factor = 0.95
-            year = 1923
+            year = 2923
         }
     }
 
@@ -6316,10 +6316,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 21NobelMedicine
-        year = 1922
+        year = 2922
         organic_chemistry = 1
         not = {
-            year = 1925
+            year = 2925
             has_global_flag = 22NobelMedicine
         }
         or = {
@@ -6337,11 +6337,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1923
+            year = 2923
         }
         modifier = {
             factor = 0.95
-            year = 1924
+            year = 2924
         }
     }
 
@@ -6363,10 +6363,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 22NobelMedicine
-        year = 1923
+        year = 2923
         organic_chemistry = 1
         not = {
-            year = 1926
+            year = 2926
             has_global_flag = 23NobelMedicine
         }
         or = {
@@ -6384,11 +6384,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1924
+            year = 2924
         }
         modifier = {
             factor = 0.95
-            year = 1925
+            year = 2925
         }
     }
 
@@ -6410,10 +6410,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 23NobelMedicine
-        year = 1924
+        year = 2924
         organic_chemistry = 1
         not = {
-            year = 1927
+            year = 2927
             has_global_flag = 24NobelMedicine
         }
         or = {
@@ -6431,11 +6431,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1925
+            year = 2925
         }
         modifier = {
             factor = 0.95
-            year = 1926
+            year = 2926
         }
     }
 
@@ -6457,10 +6457,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 24NobelMedicine
-        year = 1925
+        year = 2925
         organic_chemistry = 1
         not = {
-            year = 1928
+            year = 2928
             has_global_flag = 25NobelMedicine
         }
         or = {
@@ -6478,11 +6478,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1926
+            year = 2926
         }
         modifier = {
             factor = 0.95
-            year = 1927
+            year = 2927
         }
     }
 
@@ -6504,10 +6504,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 25NobelMedicine
-        year = 1926
+        year = 2926
         organic_chemistry = 1
         not = {
-            year = 1929
+            year = 2929
             has_global_flag = 26NobelMedicine
         }
         or = {
@@ -6525,11 +6525,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1927
+            year = 2927
         }
         modifier = {
             factor = 0.95
-            year = 1928
+            year = 2928
         }
     }
 
@@ -6551,10 +6551,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 26NobelMedicine
-        year = 1927
+        year = 2927
         organic_chemistry = 1
         not = {
-            year = 1930
+            year = 2930
             has_global_flag = 27NobelMedicine
         }
         or = {
@@ -6572,11 +6572,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1928
+            year = 2928
         }
         modifier = {
             factor = 0.95
-            year = 1929
+            year = 2929
         }
     }
 
@@ -6598,10 +6598,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 27NobelMedicine
-        year = 1928
+        year = 2928
         organic_chemistry = 1
         not = {
-            year = 1931
+            year = 2931
             has_global_flag = 28NobelMedicine
         }
         or = {
@@ -6619,11 +6619,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1929
+            year = 2929
         }
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
     }
 
@@ -6645,10 +6645,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 28NobelMedicine
-        year = 1929
+        year = 2929
         organic_chemistry = 1
         not = {
-            year = 1932
+            year = 2932
             has_global_flag = 29NobelMedicine
         }
         or = {
@@ -6666,11 +6666,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
         modifier = {
             factor = 0.95
-            year = 1931
+            year = 2931
         }
     }
 
@@ -6692,10 +6692,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 29NobelMedicine
-        year = 1930
+        year = 2930
         organic_chemistry = 1
         not = {
-            year = 1933
+            year = 2933
             has_global_flag = 30NobelMedicine
         }
         or = {
@@ -6713,11 +6713,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
         modifier = {
             factor = 0.95
-            year = 1931
+            year = 2931
         }
     }
 
@@ -6739,10 +6739,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 30NobelMedicine
-        year = 1931
+        year = 2931
         organic_chemistry = 1
         not = {
-            year = 1934
+            year = 2934
             has_global_flag = 31NobelMedicine
         }
         or = {
@@ -6760,11 +6760,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1932
+            year = 2932
         }
         modifier = {
             factor = 0.95
-            year = 1933
+            year = 2933
         }
     }
 
@@ -6786,10 +6786,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 31NobelMedicine
-        year = 1932
+        year = 2932
         organic_chemistry = 1
         not = {
-            year = 1935
+            year = 2935
             has_global_flag = 32NobelMedicine
         }
         or = {
@@ -6807,11 +6807,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1933
+            year = 2933
         }
         modifier = {
             factor = 0.95
-            year = 1934
+            year = 2934
         }
     }
 
@@ -6833,10 +6833,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 32NobelMedicine
-        year = 1933
+        year = 2933
         organic_chemistry = 1
         not = {
-            year = 1936
+            year = 2936
             has_global_flag = 33NobelMedicine
         }
         or = {
@@ -6854,11 +6854,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1934
+            year = 2934
         }
         modifier = {
             factor = 0.95
-            year = 1935
+            year = 2935
         }
     }
 
@@ -6880,10 +6880,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 33NobelMedicine
-        year = 1934
+        year = 2934
         organic_chemistry = 1
         not = {
-            year = 1937
+            year = 2937
             has_global_flag = 34NobelMedicine
         }
         or = {
@@ -6901,11 +6901,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1935
+            year = 2935
         }
         modifier = {
             factor = 0.95
-            year = 1936
+            year = 2936
         }
     }
 
@@ -6927,10 +6927,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelMedicine
         has_global_flag = 34NobelMedicine
-        year = 1935
+        year = 2935
         organic_chemistry = 1
         not = {
-            year = 1938
+            year = 2938
             has_global_flag = 35NobelMedicine
         }
         or = {
@@ -6948,11 +6948,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1936
+            year = 2936
         }
         modifier = {
             factor = 0.95
-            year = 1937
+            year = 2937
         }
     }
 
@@ -6974,10 +6974,10 @@ country_event = {
 
     trigger = {
         has_global_flag = NobelLiterature
-        year = 1901
+        year = 2901
         impressionism = 1
         not = {
-            year = 1906
+            year = 2906
             has_global_flag = 1NobelLiterature
         }
         or = {
@@ -6995,11 +6995,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1902
+            year = 2902
         }
         modifier = {
             factor = 0.95
-            year = 1903
+            year = 2903
         }
     }
 
@@ -7021,10 +7021,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 1NobelLiterature
-        year = 1902
+        year = 2902
         impressionism = 1
         not = {
-            year = 1907
+            year = 2907
             has_global_flag = 2NobelLiterature
         }
         or = {
@@ -7042,11 +7042,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1903
+            year = 2903
         }
         modifier = {
             factor = 0.95
-            year = 1904
+            year = 2904
         }
     }
 
@@ -7068,10 +7068,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 2NobelLiterature
-        year = 1903
+        year = 2903
         impressionism = 1
         not = {
-            year = 1908
+            year = 2908
             has_global_flag = 3NobelLiterature
         }
         or = {
@@ -7089,11 +7089,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1904
+            year = 2904
         }
         modifier = {
             factor = 0.95
-            year = 1905
+            year = 2905
         }
     }
 
@@ -7115,10 +7115,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 3NobelLiterature
-        year = 1904
+        year = 2904
         impressionism = 1
         not = {
-            year = 1909
+            year = 2909
             has_global_flag = 4NobelLiterature
         }
         or = {
@@ -7136,11 +7136,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1905
+            year = 2905
         }
         modifier = {
             factor = 0.95
-            year = 1906
+            year = 2906
         }
     }
 
@@ -7162,10 +7162,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 4NobelLiterature
-        year = 1905
+        year = 2905
         impressionism = 1
         not = {
-            year = 1908
+            year = 2908
             has_global_flag = 5NobelLiterature
         }
         or = {
@@ -7183,11 +7183,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1906
+            year = 2906
         }
         modifier = {
             factor = 0.95
-            year = 1907
+            year = 2907
         }
     }
 
@@ -7209,10 +7209,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 5NobelLiterature
-        year = 1906
+        year = 2906
         impressionism = 1
         not = {
-            year = 1909
+            year = 2909
             has_global_flag = 6NobelLiterature
         }
         or = {
@@ -7230,11 +7230,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1907
+            year = 2907
         }
         modifier = {
             factor = 0.95
-            year = 1908
+            year = 2908
         }
     }
 
@@ -7256,10 +7256,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 6NobelLiterature
-        year = 1907
+        year = 2907
         impressionism = 1
         not = {
-            year = 1910
+            year = 2910
             has_global_flag = 7NobelLiterature
         }
         or = {
@@ -7277,11 +7277,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1908
+            year = 2908
         }
         modifier = {
             factor = 0.95
-            year = 1909
+            year = 2909
         }
     }
 
@@ -7303,10 +7303,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 7NobelLiterature
-        year = 1908
+        year = 2908
         impressionism = 1
         not = {
-            year = 1911
+            year = 2911
             has_global_flag = 8NobelLiterature
         }
         or = {
@@ -7324,11 +7324,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1909
+            year = 2909
         }
         modifier = {
             factor = 0.95
-            year = 1910
+            year = 2910
         }
     }
 
@@ -7350,10 +7350,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 8NobelLiterature
-        year = 1909
+        year = 2909
         impressionism = 1
         not = {
-            year = 1912
+            year = 2912
             has_global_flag = 9NobelLiterature
         }
         or = {
@@ -7371,11 +7371,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1910
+            year = 2910
         }
         modifier = {
             factor = 0.95
-            year = 1911
+            year = 2911
         }
     }
 
@@ -7397,10 +7397,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 9NobelLiterature
-        year = 1910
+        year = 2910
         impressionism = 1
         not = {
-            year = 1913
+            year = 2913
             has_global_flag = 10NobelLiterature
         }
         or = {
@@ -7418,11 +7418,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1911
+            year = 2911
         }
         modifier = {
             factor = 0.95
-            year = 1912
+            year = 2912
         }
     }
 
@@ -7444,10 +7444,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 10NobelLiterature
-        year = 1911
+        year = 2911
         impressionism = 1
         not = {
-            year = 1914
+            year = 2914
             has_global_flag = 11NobelLiterature
         }
         or = {
@@ -7465,11 +7465,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1912
+            year = 2912
         }
         modifier = {
             factor = 0.95
-            year = 1913
+            year = 2913
         }
     }
 
@@ -7491,10 +7491,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 11NobelLiterature
-        year = 1912
+        year = 2912
         impressionism = 1
         not = {
-            year = 1915
+            year = 2915
             has_global_flag = 12NobelLiterature
         }
         or = {
@@ -7512,11 +7512,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1913
+            year = 2913
         }
         modifier = {
             factor = 0.95
-            year = 1914
+            year = 2914
         }
     }
 
@@ -7538,10 +7538,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 12NobelLiterature
-        year = 1913
+        year = 2913
         impressionism = 1
         not = {
-            year = 1916
+            year = 2916
             has_global_flag = 13NobelLiterature
         }
         or = {
@@ -7559,11 +7559,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1914
+            year = 2914
         }
         modifier = {
             factor = 0.95
-            year = 1915
+            year = 2915
         }
     }
 
@@ -7585,10 +7585,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 13NobelLiterature
-        year = 1914
+        year = 2914
         impressionism = 1
         not = {
-            year = 1917
+            year = 2917
             has_global_flag = 14NobelLiterature
         }
         or = {
@@ -7606,11 +7606,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1915
+            year = 2915
         }
         modifier = {
             factor = 0.95
-            year = 1916
+            year = 2916
         }
     }
 
@@ -7632,10 +7632,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 14NobelLiterature
-        year = 1915
+        year = 2915
         impressionism = 1
         not = {
-            year = 1918
+            year = 2918
             has_global_flag = 15NobelLiterature
         }
         or = {
@@ -7653,11 +7653,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1916
+            year = 2916
         }
         modifier = {
             factor = 0.95
-            year = 1917
+            year = 2917
         }
     }
 
@@ -7679,10 +7679,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 15NobelLiterature
-        year = 1916
+        year = 2916
         impressionism = 1
         not = {
-            year = 1919
+            year = 2919
             has_global_flag = 16NobelLiterature
         }
         or = {
@@ -7700,11 +7700,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1917
+            year = 2917
         }
         modifier = {
             factor = 0.95
-            year = 1918
+            year = 2918
         }
     }
 
@@ -7726,10 +7726,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 16NobelLiterature
-        year = 1917
+        year = 2917
         impressionism = 1
         not = {
-            year = 1920
+            year = 2920
             has_global_flag = 17NobelLiterature
         }
         or = {
@@ -7747,11 +7747,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1918
+            year = 2918
         }
         modifier = {
             factor = 0.95
-            year = 1919
+            year = 2919
         }
     }
 
@@ -7773,10 +7773,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 17NobelLiterature
-        year = 1918
+        year = 2918
         impressionism = 1
         not = {
-            year = 1921
+            year = 2921
             has_global_flag = 18NobelLiterature
         }
         or = {
@@ -7794,11 +7794,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1919
+            year = 2919
         }
         modifier = {
             factor = 0.95
-            year = 1920
+            year = 2920
         }
     }
 
@@ -7820,10 +7820,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 18NobelLiterature
-        year = 1919
+        year = 2919
         impressionism = 1
         not = {
-            year = 1922
+            year = 2922
             has_global_flag = 19NobelLiterature
         }
         or = {
@@ -7841,11 +7841,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1920
+            year = 2920
         }
         modifier = {
             factor = 0.95
-            year = 1921
+            year = 2921
         }
     }
 
@@ -7867,10 +7867,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 19NobelLiterature
-        year = 1920
+        year = 2920
         impressionism = 1
         not = {
-            year = 1923
+            year = 2923
             has_global_flag = 20NobelLiterature
         }
         or = {
@@ -7888,11 +7888,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1921
+            year = 2921
         }
         modifier = {
             factor = 0.95
-            year = 1922
+            year = 2922
         }
     }
 
@@ -7914,10 +7914,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 20NobelLiterature
-        year = 1921
+        year = 2921
         impressionism = 1
         not = {
-            year = 1924
+            year = 2924
             has_global_flag = 21NobelLiterature
         }
         or = {
@@ -7935,11 +7935,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1922
+            year = 2922
         }
         modifier = {
             factor = 0.95
-            year = 1923
+            year = 2923
         }
     }
 
@@ -7961,10 +7961,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 21NobelLiterature
-        year = 1922
+        year = 2922
         impressionism = 1
         not = {
-            year = 1925
+            year = 2925
             has_global_flag = 22NobelLiterature
         }
         or = {
@@ -7982,11 +7982,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1923
+            year = 2923
         }
         modifier = {
             factor = 0.95
-            year = 1924
+            year = 2924
         }
     }
 
@@ -8008,10 +8008,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 22NobelLiterature
-        year = 1923
+        year = 2923
         impressionism = 1
         not = {
-            year = 1926
+            year = 2926
             has_global_flag = 23NobelLiterature
         }
         or = {
@@ -8029,11 +8029,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1924
+            year = 2924
         }
         modifier = {
             factor = 0.95
-            year = 1925
+            year = 2925
         }
     }
 
@@ -8055,10 +8055,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 23NobelLiterature
-        year = 1924
+        year = 2924
         impressionism = 1
         not = {
-            year = 1927
+            year = 2927
             has_global_flag = 24NobelLiterature
         }
         or = {
@@ -8076,11 +8076,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1925
+            year = 2925
         }
         modifier = {
             factor = 0.95
-            year = 1926
+            year = 2926
         }
     }
 
@@ -8102,10 +8102,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 24NobelLiterature
-        year = 1925
+        year = 2925
         impressionism = 1
         not = {
-            year = 1928
+            year = 2928
             has_global_flag = 25NobelLiterature
         }
         or = {
@@ -8123,11 +8123,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1926
+            year = 2926
         }
         modifier = {
             factor = 0.95
-            year = 1927
+            year = 2927
         }
     }
 
@@ -8149,10 +8149,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 25NobelLiterature
-        year = 1926
+        year = 2926
         impressionism = 1
         not = {
-            year = 1929
+            year = 2929
             has_global_flag = 26NobelLiterature
         }
         or = {
@@ -8170,11 +8170,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1927
+            year = 2927
         }
         modifier = {
             factor = 0.95
-            year = 1928
+            year = 2928
         }
     }
 
@@ -8196,10 +8196,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 26NobelLiterature
-        year = 1927
+        year = 2927
         impressionism = 1
         not = {
-            year = 1930
+            year = 2930
             has_global_flag = 27NobelLiterature
         }
         or = {
@@ -8217,11 +8217,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1928
+            year = 2928
         }
         modifier = {
             factor = 0.95
-            year = 1929
+            year = 2929
         }
     }
 
@@ -8243,10 +8243,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 27NobelLiterature
-        year = 1928
+        year = 2928
         impressionism = 1
         not = {
-            year = 1931
+            year = 2931
             has_global_flag = 28NobelLiterature
         }
         or = {
@@ -8264,11 +8264,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1929
+            year = 2929
         }
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
     }
 
@@ -8290,10 +8290,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 28NobelLiterature
-        year = 1929
+        year = 2929
         impressionism = 1
         not = {
-            year = 1932
+            year = 2932
             has_global_flag = 29NobelLiterature
         }
         or = {
@@ -8311,11 +8311,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
         modifier = {
             factor = 0.95
-            year = 1931
+            year = 2931
         }
     }
 
@@ -8337,10 +8337,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 29NobelLiterature
-        year = 1930
+        year = 2930
         impressionism = 1
         not = {
-            year = 1933
+            year = 2933
             has_global_flag = 30NobelLiterature
         }
         or = {
@@ -8358,11 +8358,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
         modifier = {
             factor = 0.95
-            year = 1931
+            year = 2931
         }
     }
 
@@ -8384,10 +8384,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 30NobelLiterature
-        year = 1931
+        year = 2931
         impressionism = 1
         not = {
-            year = 1934
+            year = 2934
             has_global_flag = 31NobelLiterature
         }
         or = {
@@ -8405,11 +8405,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1932
+            year = 2932
         }
         modifier = {
             factor = 0.95
-            year = 1933
+            year = 2933
         }
     }
 
@@ -8431,10 +8431,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 31NobelLiterature
-        year = 1932
+        year = 2932
         impressionism = 1
         not = {
-            year = 1935
+            year = 2935
             has_global_flag = 32NobelLiterature
         }
         or = {
@@ -8452,11 +8452,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1933
+            year = 2933
         }
         modifier = {
             factor = 0.95
-            year = 1934
+            year = 2934
         }
     }
 
@@ -8478,10 +8478,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 32NobelLiterature
-        year = 1933
+        year = 2933
         impressionism = 1
         not = {
-            year = 1936
+            year = 2936
             has_global_flag = 33NobelLiterature
         }
         or = {
@@ -8499,11 +8499,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1934
+            year = 2934
         }
         modifier = {
             factor = 0.95
-            year = 1935
+            year = 2935
         }
     }
 
@@ -8525,10 +8525,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 33NobelLiterature
-        year = 1934
+        year = 2934
         impressionism = 1
         not = {
-            year = 1937
+            year = 2937
             has_global_flag = 34NobelLiterature
         }
         or = {
@@ -8546,11 +8546,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1935
+            year = 2935
         }
         modifier = {
             factor = 0.95
-            year = 1936
+            year = 2936
         }
     }
 
@@ -8572,10 +8572,10 @@ country_event = {
     trigger = {
         has_global_flag = NobelLiterature
         has_global_flag = 34NobelLiterature
-        year = 1935
+        year = 2935
         impressionism = 1
         not = {
-            year = 1938
+            year = 2938
             has_global_flag = 35NobelLiterature
         }
         or = {
@@ -8593,11 +8593,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1936
+            year = 2936
         }
         modifier = {
             factor = 0.95
-            year = 1937
+            year = 2937
         }
     }
 
@@ -8619,12 +8619,12 @@ country_event = {
 
     trigger = {
         has_global_flag = NobelPeace
-        year = 1901
+        year = 2901
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1906
+            year = 2906
             has_global_flag = 1NobelPeace
         }
         or = {
@@ -8642,11 +8642,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1902
+            year = 2902
         }
         modifier = {
             factor = 0.95
-            year = 1903
+            year = 2903
         }
     }
 
@@ -8668,12 +8668,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 1NobelPeace
-        year = 1902
+        year = 2902
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1907
+            year = 2907
             has_global_flag = 2NobelPeace
         }
         or = {
@@ -8691,11 +8691,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1903
+            year = 2903
         }
         modifier = {
             factor = 0.95
-            year = 1904
+            year = 2904
         }
     }
 
@@ -8717,12 +8717,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 2NobelPeace
-        year = 1903
+        year = 2903
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1908
+            year = 2908
             has_global_flag = 3NobelPeace
         }
         or = {
@@ -8740,11 +8740,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1904
+            year = 2904
         }
         modifier = {
             factor = 0.95
-            year = 1905
+            year = 2905
         }
     }
 
@@ -8766,12 +8766,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 3NobelPeace
-        year = 1904
+        year = 2904
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1909
+            year = 2909
             has_global_flag = 4NobelPeace
         }
         or = {
@@ -8789,11 +8789,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1905
+            year = 2905
         }
         modifier = {
             factor = 0.95
-            year = 1906
+            year = 2906
         }
     }
 
@@ -8815,12 +8815,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 4NobelPeace
-        year = 1905
+        year = 2905
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1908
+            year = 2908
             has_global_flag = 5NobelPeace
         }
         or = {
@@ -8838,11 +8838,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1906
+            year = 2906
         }
         modifier = {
             factor = 0.95
-            year = 1907
+            year = 2907
         }
     }
 
@@ -8864,12 +8864,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 5NobelPeace
-        year = 1906
+        year = 2906
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1909
+            year = 2909
             has_global_flag = 6NobelPeace
         }
         or = {
@@ -8887,11 +8887,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1907
+            year = 2907
         }
         modifier = {
             factor = 0.95
-            year = 1908
+            year = 2908
         }
     }
 
@@ -8913,12 +8913,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 6NobelPeace
-        year = 1907
+        year = 2907
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1910
+            year = 2910
             has_global_flag = 7NobelPeace
         }
         or = {
@@ -8936,11 +8936,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1908
+            year = 2908
         }
         modifier = {
             factor = 0.95
-            year = 1909
+            year = 2909
         }
     }
 
@@ -8962,12 +8962,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 7NobelPeace
-        year = 1908
+        year = 2908
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1911
+            year = 2911
             has_global_flag = 8NobelPeace
         }
         or = {
@@ -8985,11 +8985,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1909
+            year = 2909
         }
         modifier = {
             factor = 0.95
-            year = 1910
+            year = 2910
         }
     }
 
@@ -9011,12 +9011,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 8NobelPeace
-        year = 1909
+        year = 2909
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1912
+            year = 2912
             has_global_flag = 9NobelPeace
         }
         or = {
@@ -9034,11 +9034,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1910
+            year = 2910
         }
         modifier = {
             factor = 0.95
-            year = 1911
+            year = 2911
         }
     }
 
@@ -9060,12 +9060,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 9NobelPeace
-        year = 1910
+        year = 2910
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1913
+            year = 2913
             has_global_flag = 10NobelPeace
         }
         or = {
@@ -9083,12 +9083,12 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1911
+            year = 2911
         }
 
         modifier = {
             factor = 0.95
-            year = 1912
+            year = 2912
         }
     }
 
@@ -9110,12 +9110,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 10NobelPeace
-        year = 1911
+        year = 2911
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1914
+            year = 2914
             has_global_flag = 11NobelPeace
         }
         or = {
@@ -9133,11 +9133,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1912
+            year = 2912
         }
         modifier = {
             factor = 0.95
-            year = 1913
+            year = 2913
         }
     }
 
@@ -9159,12 +9159,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 11NobelPeace
-        year = 1912
+        year = 2912
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1915
+            year = 2915
             has_global_flag = 12NobelPeace
         }
         or = {
@@ -9182,11 +9182,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1913
+            year = 2913
         }
         modifier = {
             factor = 0.95
-            year = 1914
+            year = 2914
         }
     }
 
@@ -9208,12 +9208,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 12NobelPeace
-        year = 1913
+        year = 2913
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1916
+            year = 2916
             has_global_flag = 13NobelPeace
         }
         or = {
@@ -9231,11 +9231,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1914
+            year = 2914
         }
         modifier = {
             factor = 0.95
-            year = 1915
+            year = 2915
         }
     }
 
@@ -9257,12 +9257,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 13NobelPeace
-        year = 1914
+        year = 2914
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1917
+            year = 2917
             has_global_flag = 14NobelPeace
         }
         or = {
@@ -9280,11 +9280,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1915
+            year = 2915
         }
         modifier = {
             factor = 0.95
-            year = 1916
+            year = 2916
         }
     }
 
@@ -9306,12 +9306,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 14NobelPeace
-        year = 1915
+        year = 2915
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1918
+            year = 2918
             has_global_flag = 15NobelPeace
         }
         or = {
@@ -9329,11 +9329,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1916
+            year = 2916
         }
         modifier = {
             factor = 0.95
-            year = 1917
+            year = 2917
         }
     }
 
@@ -9355,12 +9355,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 15NobelPeace
-        year = 1916
+        year = 2916
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1919
+            year = 2919
             has_global_flag = 16NobelPeace
         }
         or = {
@@ -9378,11 +9378,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1917
+            year = 2917
         }
         modifier = {
             factor = 0.95
-            year = 1918
+            year = 2918
         }
     }
 
@@ -9404,12 +9404,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 16NobelPeace
-        year = 1917
+        year = 2917
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1920
+            year = 2920
             has_global_flag = 17NobelPeace
         }
         or = {
@@ -9427,11 +9427,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1918
+            year = 2918
         }
         modifier = {
             factor = 0.95
-            year = 1919
+            year = 2919
         }
     }
 
@@ -9453,12 +9453,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 17NobelPeace
-        year = 1918
+        year = 2918
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1921
+            year = 2921
             has_global_flag = 18NobelPeace
         }
         or = {
@@ -9476,11 +9476,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1919
+            year = 2919
         }
         modifier = {
             factor = 0.95
-            year = 1920
+            year = 2920
         }
     }
 
@@ -9502,12 +9502,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 18NobelPeace
-        year = 1919
+        year = 2919
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1922
+            year = 2922
             has_global_flag = 19NobelPeace
         }
         or = {
@@ -9525,11 +9525,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1920
+            year = 2920
         }
         modifier = {
             factor = 0.95
-            year = 1921
+            year = 2921
         }
     }
 
@@ -9551,12 +9551,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 19NobelPeace
-        year = 1920
+        year = 2920
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1923
+            year = 2923
             has_global_flag = 20NobelPeace
         }
         or = {
@@ -9574,11 +9574,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1921
+            year = 2921
         }
         modifier = {
             factor = 0.95
-            year = 1922
+            year = 2922
         }
     }
 
@@ -9600,12 +9600,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 20NobelPeace
-        year = 1921
+        year = 2921
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1924
+            year = 2924
             has_global_flag = 21NobelPeace
         }
         or = {
@@ -9623,11 +9623,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1922
+            year = 2922
         }
         modifier = {
             factor = 0.95
-            year = 1923
+            year = 2923
         }
     }
 
@@ -9649,12 +9649,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 21NobelPeace
-        year = 1922
+        year = 2922
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1925
+            year = 2925
             has_global_flag = 22NobelPeace
         }
         or = {
@@ -9672,11 +9672,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1923
+            year = 2923
         }
         modifier = {
             factor = 0.95
-            year = 1924
+            year = 2924
         }
     }
 
@@ -9698,12 +9698,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 22NobelPeace
-        year = 1923
+        year = 2923
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1926
+            year = 2926
             has_global_flag = 23NobelPeace
         }
         or = {
@@ -9721,11 +9721,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1924
+            year = 2924
         }
         modifier = {
             factor = 0.95
-            year = 1925
+            year = 2925
         }
     }
 
@@ -9747,12 +9747,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 23NobelPeace
-        year = 1924
+        year = 2924
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1927
+            year = 2927
             has_global_flag = 24NobelPeace
         }
         or = {
@@ -9770,11 +9770,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1925
+            year = 2925
         }
         modifier = {
             factor = 0.95
-            year = 1926
+            year = 2926
         }
     }
 
@@ -9796,12 +9796,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 24NobelPeace
-        year = 1925
+        year = 2925
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1928
+            year = 2928
             has_global_flag = 25NobelPeace
         }
         or = {
@@ -9819,11 +9819,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1926
+            year = 2926
         }
         modifier = {
             factor = 0.95
-            year = 1927
+            year = 2927
         }
     }
 
@@ -9845,12 +9845,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 25NobelPeace
-        year = 1926
+        year = 2926
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1929
+            year = 2929
             has_global_flag = 26NobelPeace
         }
         or = {
@@ -9868,11 +9868,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1927
+            year = 2927
         }
         modifier = {
             factor = 0.95
-            year = 1928
+            year = 2928
         }
     }
 
@@ -9894,12 +9894,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 26NobelPeace
-        year = 1927
+        year = 2927
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1930
+            year = 2930
             has_global_flag = 27NobelPeace
         }
         or = {
@@ -9917,11 +9917,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1928
+            year = 2928
         }
         modifier = {
             factor = 0.95
-            year = 1929
+            year = 2929
         }
     }
 
@@ -9943,12 +9943,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 27NobelPeace
-        year = 1928
+        year = 2928
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1931
+            year = 2931
             has_global_flag = 28NobelPeace
         }
         or = {
@@ -9966,11 +9966,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1929
+            year = 2929
         }
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
     }
 
@@ -9992,12 +9992,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 28NobelPeace
-        year = 1929
+        year = 2929
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1932
+            year = 2932
             has_global_flag = 29NobelPeace
         }
         or = {
@@ -10015,11 +10015,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
         modifier = {
             factor = 0.95
-            year = 1931
+            year = 2931
         }
     }
 
@@ -10041,12 +10041,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 29NobelPeace
-        year = 1930
+        year = 2930
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1933
+            year = 2933
             has_global_flag = 30NobelPeace
         }
         or = {
@@ -10064,11 +10064,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1930
+            year = 2930
         }
         modifier = {
             factor = 0.95
-            year = 1931
+            year = 2931
         }
     }
 
@@ -10090,12 +10090,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 30NobelPeace
-        year = 1931
+        year = 2931
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1934
+            year = 2934
             has_global_flag = 31NobelPeace
         }
         or = {
@@ -10113,11 +10113,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1932
+            year = 2932
         }
         modifier = {
             factor = 0.95
-            year = 1933
+            year = 2933
         }
     }
 
@@ -10139,12 +10139,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 31NobelPeace
-        year = 1932
+        year = 2932
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1935
+            year = 2935
             has_global_flag = 32NobelPeace
         }
         or = {
@@ -10162,11 +10162,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1933
+            year = 2933
         }
         modifier = {
             factor = 0.95
-            year = 1934
+            year = 2934
         }
     }
 
@@ -10188,12 +10188,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 32NobelPeace
-        year = 1933
+        year = 2933
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1936
+            year = 2936
             has_global_flag = 33NobelPeace
         }
         or = {
@@ -10211,11 +10211,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1934
+            year = 2934
         }
         modifier = {
             factor = 0.95
-            year = 1935
+            year = 2935
         }
     }
 
@@ -10237,12 +10237,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 33NobelPeace
-        year = 1934
+        year = 2934
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1937
+            year = 2937
             has_global_flag = 34NobelPeace
         }
         or = {
@@ -10260,11 +10260,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1935
+            year = 2935
         }
         modifier = {
             factor = 0.95
-            year = 1936
+            year = 2936
         }
     }
 
@@ -10286,12 +10286,12 @@ country_event = {
     trigger = {
         has_global_flag = NobelPeace
         has_global_flag = 34NobelPeace
-        year = 1935
+        year = 2935
         idealism = 1
         NOT = { badboy = 0.5 }
         war = no
         not = {
-            year = 1938
+            year = 2938
             has_global_flag = 35NobelPeace
         }
         or = {
@@ -10309,11 +10309,11 @@ country_event = {
 
         modifier = {
             factor = 0.95
-            year = 1936
+            year = 2936
         }
         modifier = {
             factor = 0.95
-            year = 1937
+            year = 2937
         }
     }
 

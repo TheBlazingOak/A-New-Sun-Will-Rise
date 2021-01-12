@@ -20,7 +20,7 @@ CAN_50 = { 50 51 48 3 1071 } #North Ontario
 
 CAN_57 = { 46 55 53 54 } #Toronto
 
-CAN_50 = { 49 47 2594 158 } #Northern Ontario
+CAN_49 = { 49 47 2594 158 } #Northern Ontario
 
 CAN_58 = { 58 64 6 1548} #Lower Quebec
 

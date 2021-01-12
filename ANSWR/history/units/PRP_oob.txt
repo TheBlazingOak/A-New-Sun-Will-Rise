@@ -176,8 +176,8 @@ leader = {
     name = "Gauthier Delafosse"
     date = 2835.12.1
     type = land
-    personality = sucker
-    background = defiant
+    personality = defiant
+    background = sucker
     prestige = 0.15
 }
 

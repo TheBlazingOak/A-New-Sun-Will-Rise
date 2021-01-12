@@ -313,8 +313,6 @@ LIT_communist;Lietuvos Komunistu Partija;;;;;;;;;;;;;,,
 LIT_fascist;Lietuvos Šauliu Sajunga;;;;;;;;;;;;;,,
 KAR;Karen;;;;;;;;;;;;;,,
 KAR_ADJ;Kareni;;;;;;;;;;;;;,,
-BRY;Buryatia;;;;;;;;;;;;;,,
-BRY_ADJ;Buryat;;;;;;;;;;;;;,,
 BRY_conservative;Royal Faction;;;;;;;;;;;;;,,
 BRY_liberal;The Liberal Faction;;;;;;;;;;;;;,,
 BRY_reactionary;The Nationalist Faction;;;;;;;;;;;;;,,
@@ -1619,11 +1617,6 @@ MRT_absolute_monarchy;Maratha Empire;;;;;;;;;;;;;,,
 MRT_prussian_constitutionalism;Maratha Empire;;;;;;;;;;;;;,,
 MRT_democracy;Maratha Confederacy;;;;;;;;;;;;;,,
 MRT_proletarian_dictatorship;Maratha Republic;;;;;;;;;;;;;,,
-MRU;Maritime Republic;;;;;;;;;;;;;,,
-MRU_absolute_monarchy;Maritime Union;;;;;;;;;;;;;,,
-MRU_prussian_constitutionalism;Maritime Union;;;;;;;;;;;;;,,
-MRU_hms_government;Maritime Union;;;;;;;;;;;;;,,
-MRU_ADJ;Maritime;;;;;;;;;;;;;,,
 NEJ_conservative;Al-Sa'ud;;;;;;;;;;;;;,,
 NEJ_liberal;Al-Ahrar;;;;;;;;;;;;;,,
 NEJ_reactionary;Al-Da'wa al-Wahhabiyyah;;;;;;;;;;;;;,,
@@ -3480,5 +3473,25 @@ CRR_communist;Parti Comunor;;;;;;;;;;;;;
 CRR_fascist;Parti Nueva Nación;;;;;;;;;;;;;
 NIW;Nieuw-Kouderhagen;;;;;;;;;;;;;,,
 NIW_ADJ;Nieuw-Koudrel;;;;;;;;;;;;;,,
+MRU;Brunswicker Republic;;;;;;;;;;;;;,,
+MRU_absolute_monarchy;Duchy of the Brunswick;;;;;;;;;;;;;,,
+MRU_prussian_constitutionalism;Duchy of the Brunswick;;;;;;;;;;;;;,,
+MRU_hms_government;Duchy of the Brunswick;;;;;;;;;;;;;,,
+MRU_ADJ;Brunswicker;;;;;;;;;;;;;,,
 OUD;Oudrijk;;;;;;;;;;;;;,,
-OUD_ADJ;Ouderijker;;;;;;;;;;;;;,,
+OUD_ADJ;Duetsche;;;;;;;;;;;;;,,
+OUD_ADJ_hms_government;Ouderijker;;;;;;;;;;;;;,,
+OUD_ADJ_prussian_constitutionalism;Ouderijker;;;;;;;;;;;;;,,
+OUD_ADJ_absolute_monarchy;Ouderijker;;;;;;;;;;;;;,,
+OUD_democracy;Deutsche Republic;;;;;;;;;;;;;,,
+OUD_proletariat_dictatorship;Volksrijk;;;;;;;;;;;;;,,
+OUD_presidential_dictatorship;Deutsche Directorate;;;;;;;;;;;;;,,
+OUD_bourgeois_dictatorship;Deutsche Directorate;;;;;;;;;;;;;,,
+OUD_fascist_dictatorship;Groot-Oudrijk;;;;;;;;;;;;;,,
+OUD_conservative;Parti Conservador;;;;;;;;;;;;;
+OUD_liberal;Parti Librere;;;;;;;;;;;;;
+OUD_reactionary;Parti dela Nación;;;;;;;;;;;;;
+OUD_anarcho_liberal;Parti por L'Libertá;;;;;;;;;;;;;
+OUD_socialist;Parti Socialor;;;;;;;;;;;;;
+OUD_communist;Parti Comunor;;;;;;;;;;;;;
+OUD_fascist;Parti Nueva Nación;;;;;;;;;;;;;

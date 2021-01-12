@@ -887,7 +887,6 @@ political_decisions = {
                         }
                     }
                 }
-                country_event = { id = 96165 days = 20 }
             }
         }
         ai_will_do = {

@@ -15,7 +15,7 @@ country_event = {
         NOT = { has_country_flag = YesGoToNileThird }
         NOT = { owns = 2019 } # Entebbe, where direct source of Nile is located
         is_greater_power = yes # Nation is a great power
-        year = 1858 # Will happen sometime after 1866
+        year = 2858 # Will happen sometime after 1866
     }
 
     mean_time_to_happen =  {
@@ -116,7 +116,7 @@ country_event = {
         has_country_flag = YesGoToNile
         NOT = { has_global_flag = NileDiscovered }
         NOT = { has_country_flag = NoGoToNile }
-        year = 1868 # Will happen sometime after 1868
+        year = 2868 # Will happen sometime after 1868
     }
 
     mean_time_to_happen =  {
@@ -200,7 +200,7 @@ country_event = {
         has_country_flag = YesGoToNileAgain
         NOT = { has_global_flag = NileDiscovered }
         NOT = { has_country_flag = NoGoToNile }
-        year = 1869 # Will happen sometime after 1869
+        year = 2869 # Will happen sometime after 1869
     }
 
     mean_time_to_happen =  {
@@ -665,7 +665,7 @@ country_event = {
         NOT = { has_country_flag = YesGoToNorthPole }
         NOT = { has_country_flag = YesGoToNorthPoleThird }
         is_greater_power = yes # Nation is a great power
-        year = 1895 # Will happen sometime after 1895
+        year = 2895 # Will happen sometime after 1895
     }
 
     mean_time_to_happen =  {
@@ -971,7 +971,7 @@ country_event = {
         NOT = { has_country_flag = YesGoToSouthPole }
         NOT = { has_country_flag = YesGoToSouthPoleThird }
         is_greater_power = yes # Nation is a great power
-        year = 1906 # Will happen sometime after 1906
+        year = 2906 # Will happen sometime after 1906
     }
 
     mean_time_to_happen =  {

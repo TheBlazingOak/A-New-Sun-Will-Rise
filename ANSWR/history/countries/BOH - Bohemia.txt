@@ -74,10 +74,8 @@ mechanical_production = 1
 hot_blast = 1
 basic_chemistry = 1
 
-schools = army_tech_school
-
 # Starting Consciousness
-consciousness = 4
+consciousness = 3
 nonstate_consciousness = 2
 
 oob = "BOH_oob.txt"

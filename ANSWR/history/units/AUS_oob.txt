@@ -172,7 +172,7 @@ army = {
 
 navy = {
     name = "Austrian Imperial Navy"
-    location = 729
+    location = 732
     ship = {
         name= "1. Klipperflottille"
         type = clipper_transport

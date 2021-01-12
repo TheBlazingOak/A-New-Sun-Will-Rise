@@ -15,7 +15,7 @@ country_event = {
     trigger = {
         NOT = { has_global_flag = berlin_congress_held }
         OR = {
-            year = 1870
+            year = 2870
             has_global_flag = crimea_has_happened
         }
         is_greater_power = yes
@@ -101,28 +101,28 @@ country_event = {
         }
         modifier = {
             factor = 5
-            NOT = { year = 1860 }
+            NOT = { year = 2860 }
         }
         modifier = {
             factor = 3
-            NOT = { year = 1865 }
+            NOT = { year = 2865 }
         }
         modifier = {
             factor = 2
-            NOT = { year = 1870 }
+            NOT = { year = 2870 }
         }
         modifier = {
             factor = 1.5
-            NOT = { year = 1875 }
+            NOT = { year = 2875 }
         }
         modifier = {
             factor = 0.8
-            year = 1880
+            year = 2880
         }
         modifier = {
             factor = 0.5
             has_global_flag = treaty_of_paris_russia
-            year = 1875
+            year = 2875
         }
         modifier = {
             factor = 0.8
@@ -1461,7 +1461,6 @@ country_event = {
         TUR_832 = { remove_core = TUR } # Thessalia
         TUR_806 = { remove_core = TUR } # N.Macedonia
         TUR_805 = { remove_core = TUR } # W.Macedonia
-        TUR_855 = { remove_core = TUR } # Cyprus
         847 = { remove_core = TUR } #Chania
         848 = { remove_core = TUR } #Iraklion
 
@@ -2348,156 +2347,6 @@ country_event = {
             modifier = {
                 factor = 0.5
                 prestige = 400
-            }
-        }
-    }
-}
-
-#Cyprus Convention Results
-country_event = {
-    id = 900700
-    title = "EVTNAME900700"
-    desc = "EVTDESC900700"
-    picture = "cyprus_convention_result"
-
-    trigger = {
-        has_country_flag = giving_up_cyprus
-        has_global_flag = berlin_congress_held
-        war = no
-        owns = 855
-    }
-
-    mean_time_to_happen = {
-        days = 3
-    }
-
-    option = {
-        name = "EVT900700OPTA"
-        clr_country_flag = giving_up_cyprus
-        TUR_855 = { remove_core = TUR } # Cyprus
-        random_country = {
-            limit = { has_country_flag = receiving_cyprus }
-            clr_country_flag = receiving_cyprus
-            country_event = 900701
-        }
-        ai_chance = {
-            factor = 70
-        }
-    }
-
-    option = {
-        name = "EVT900700OPTB"
-        clr_country_flag = giving_up_cyprus
-        TUR_855 = { add_core = TUR } # Cyprus
-        prestige = -10
-        random_country = {
-            limit = { has_country_flag = receiving_cyprus }
-            clr_country_flag = receiving_cyprus
-            country_event = 900702
-        }
-        ai_chance = {
-            factor = 30
-            modifier = {
-                factor = 0.1
-                has_global_flag = ottomans_supported
-            }
-        }
-    }
-}
-
-country_event = {
-    id = 900701
-    title = "EVTNAME900701"
-    desc = "EVTDESC900701"
-    picture = "cyprus_convention_result"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVT900701OPTA"
-        CYP = { civilized = no }
-        FROM = { release_vassal = CYP }
-        CYP = { annex_to = THIS }
-        CYP = { civilized = yes }
-        relation = { who = FROM value = 100 }
-        diplomatic_influence = { who = FROM value = 50 }
-    }
-}
-
-country_event = {
-    id = 900702
-    title = "EVTNAME900702"
-    desc = "EVTDESC900702"
-    picture = "cyprus_convention_result"
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVT900702OPTA"
-        leave_alliance = FROM
-        relation = { who = FROM value = -200 }
-        diplomatic_influence = { who = FROM value = -200 }
-        war = {
-            target = FROM
-            attacker_goal = {
-                casus_belli = acquire_any_state
-                state_province_id = 855
-            }
-            call_ally = yes
-        }
-        ai_chance = {
-            factor = 50
-            modifier = {
-                factor = 0
-                war_policy = pacifism
-            }
-            modifier = {
-                factor = 0.5
-                war_policy = anti_military
-            }
-            modifier = {
-                factor = 0.75
-                war = yes
-            }
-            modifier = {
-                factor = 0
-                any_greater_power = { war_with = THIS }
-            }
-            modifier = {
-                factor = 0.5
-                TUR = { brigades_compare = 1.5 }
-            }
-        }
-    }
-
-    option = {
-        name = "EVT900702OPTB"
-        prestige = -20
-        leave_alliance = FROM
-        relation = { who = FROM value = -100 }
-        diplomatic_influence = { who = FROM value = -100 }
-        casus_belli = {
-            target = FROM
-            type = humiliate
-            months = 12
-        }
-        ai_chance = {
-            factor = 50
-            modifier = {
-                factor = 0.5
-                war_policy = jingoism
-            }
-            modifier = {
-                factor = 1.5
-                war_policy = anti_military
-            }
-            modifier = {
-                factor = 1.25
-                war = yes
-            }
-            modifier = {
-                factor = 0.5
-                TUR = { NOT = { brigades_compare = 1 } }
             }
         }
     }

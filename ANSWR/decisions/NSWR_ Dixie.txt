@@ -3,7 +3,7 @@ political_decisions = {
 	confederate_unification = {
 	picture = reform_the_csa
 		potential = {
-			is_culture_group = dixie
+			is_culture = dixie
 			NOT = {
 				exists = CSA
 			}

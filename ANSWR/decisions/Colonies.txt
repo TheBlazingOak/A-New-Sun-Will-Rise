@@ -1123,7 +1123,7 @@ political_decisions = {
                     OR = {
                         has_country_flag = guinea_master
                         owns = 1879
-                        owns = 2880
+                        owns = 1880
                         owns = 1882
                     }
                     any_neighbor_country = {
@@ -1581,8 +1581,8 @@ political_decisions = {
                         any_owned_province = {
                             OR = {
                                 region = SOM_1868
-                                province_id = 1874
-                                province_id = 1873
+                                province_id = 2874
+                                province_id = 2873
                             }
                         }
                     }
@@ -2073,7 +2073,7 @@ political_decisions = {
                         OR = {
                             has_country_flag = guinea_master
                             owns = 1879
-                            owns = 2880
+                            owns = 1880
                             owns = 1882
                         }
                         any_neighbor_country = {
@@ -3110,8 +3110,8 @@ political_decisions = {
                             any_owned_province = {
                                 OR = {
                                     region = SOM_1868
-                                    province_id = 1874
-                                    province_id = 1873
+                                    province_id = 2874
+                                    province_id = 2873
                                 }
                             }
                         }
@@ -3133,8 +3133,8 @@ political_decisions = {
                             any_owned_province = {
                                 OR = {
                                     region = SOM_1868
-                                    province_id = 1874
-                                    province_id = 1873
+                                    province_id = 2874
+                                    province_id = 2873
                                 }
                             }
                         }
@@ -3142,8 +3142,8 @@ political_decisions = {
                             limit = {
                                 OR = {
                                     region = SOM_1868
-                                    province_id = 1874
-                                    province_id = 1873
+                                    province_id = 2874
+                                    province_id = 2873
                                 }
                             }
                             secede_province = THIS

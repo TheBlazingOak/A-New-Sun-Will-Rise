@@ -4034,68 +4034,6 @@ province_event = {
     }
 }
 
-#Rupert's Land
-province_event = {
-    id = 98905
-    title = "EVTNAME98800"
-    desc = "EVTDESC98905"
-
-    trigger = {
-        OR = {
-            #region = ENG_6
-            region = ENG_9
-            #region = CAN_18
-            region = ENG_22
-            region = ENG_30
-            region = ENG_36
-            region = CAN_50
-            region = CAN_60
-        }
-        owned_by = THIS
-        controlled_by = THIS
-        any_neighbor_province = {
-            is_core = RPL
-        }
-        owner = {
-            OR = {
-                tag = ENG
-                tag = ENL
-            }
-        }
-        OR = {
-            RPL = { exists = no }
-            RPL = { vassal_of = THIS }
-        }
-        NOT = {
-            is_core = RPL
-            is_core = CAN
-            is_core = COL
-            is_core = QUE
-        }
-    }
-
-    mean_time_to_happen = {
-        months = 12
-    }
-
-    option = {
-        name = "EVT98800OPTA"
-        state_scope = {
-            any_owned = {
-                limit = {
-                    NOT = {
-                        is_core = CAN
-                        is_core = COL
-                        is_core = QUE
-                    }
-                }
-                add_core = RPL
-                any_pop = { militancy = -3 }
-            }
-        }
-    }
-}
-
 
 #The Royal Niger Company
 country_event = {

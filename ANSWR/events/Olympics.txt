@@ -186,8 +186,8 @@ country_event = {
                 has_country_flag = NoHost1Olympiad
             }
         }
-        year = 1895
-        NOT = { year = 1898 }
+        year = 2895
+        NOT = { year = 2898 }
         war = no # Nation can NOT be at war at the time of invite
     }
 
@@ -433,11 +433,11 @@ country_event = {
 
         modifier = {
             factor = 0.9
-            year = 1897
+            year = 2897
         }
         modifier = {
             factor = 0.95
-            year = 1898
+            year = 2898
         }
     }
 
@@ -3244,12 +3244,12 @@ country_event = {
         }
     }
 
-    title = "EVTNAME23439"
-    desc = "EVTDESC23403"
+    title = "EVTNAME13439"
+    desc = "EVTDESC13403"
     picture = "Olympics"
 
     option = {
-        name = "EVTOPTA23403" # Send a delegation to the games
+        name = "EVTOPTA13403" # Send a delegation to the games
         prestige = 10
         any_neighbor_country = {
             limit = {
@@ -3283,7 +3283,7 @@ country_event = {
         }
     }
     option = {
-        name = "EVTOPTB23403" # We're NOT going this year
+        name = "EVTOPTB13403" # We're NOT going this year
         set_country_flag = NoAttend10Olympiad
         prestige = -10
         any_country = {

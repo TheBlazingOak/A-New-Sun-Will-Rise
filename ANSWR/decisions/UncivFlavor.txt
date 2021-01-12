@@ -175,7 +175,7 @@ political_decisions = {
 
         allow = {
             war = no
-            owns = 2852
+            owns = 1852
             OR = {
                 GON = { exists = no }
                 tag = GON
