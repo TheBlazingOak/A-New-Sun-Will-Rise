@@ -3,3 +3,4 @@ controller = NEN
 add_core = NEN
 trade_goods = coal
 life_rating = 35
+terrain = forest
