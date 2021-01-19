@@ -1915,7 +1915,7 @@
         size = 1500
     }
 }
-Hugoton (1000/250 POPS)
+#Hugoton (1000/250 POPS)
 128 = {
     clergymen = {
         culture = australian
@@ -1969,5 +1969,119 @@ Hugoton (1000/250 POPS)
         culture = australian
         religion = protestant
         size = 36000
+    }
+}
+#Lille (620000/155000 POPS)
+399 = {
+    aristocrats = {
+        culture = australian
+        religion = protestant
+        size = 2600
+    }
+
+   clergymen = {
+        culture = australian
+        religion = protestant
+        size = 500
+    }
+
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 5200
+    }
+
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 72420
+    }
+}
+#Toulon (224000/56000 POPS)
+470 = {
+    aristocrats = {
+        culture = provencal
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = provencal
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = provencal
+        religion = catholic
+        size = 6000
+    }
+
+    artisans = {
+        culture = provencal
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = provencal
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = provencal
+        religion = catholic
+        size = 20950
+    }
+
+    farmers = {
+        culture = provencal
+        religion = catholic
+        size = 20300
+    }
+}
+#Frejus (132000/33000 POPS)
+471 = {
+    aristocrats = {
+        culture = provencal
+        religion = catholic
+        size = 300
+    }
+
+    clergymen = {
+        culture = provencal
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = provencal
+        religion = catholic
+        size = 1600
+    }
+
+    soldiers = {
+        culture = provencal
+        religion = catholic
+        size = 350
+    }
+
+    farmers = {
+        culture = provencal
+        religion = catholic
+        size = 20000
+    }
+
+    farmers = {
+        culture = provencal
+        religion = catholic
+        size = 10600
     }
 }

@@ -1,0 +1,103 @@
+##Oudrijk Centralization Event
+country_event = {
+	id = 222000
+	title = "EVTNAME222000"
+    desc = "EVTDESC222000"
+    major = yes
+    is_triggered_only = yes
+
+    option = {
+    	name = "EVTOPTA222000"
+    	any_country = {
+                limit = {
+                    is_culture_group = germanic
+                    has_country_modifier = oudrijk_prince
+                    in_sphere = THIS
+                    }
+                set_country_flag = oudrijk_centralization
+                }
+        any_country = {
+                limit = {
+                    NOT = { is_culture_group = germanic }
+                    has_country_modifier = oudrijk_prince
+                    }
+                country_event = { id = 222003 days = 1 }
+                }
+    }
+}
+##Germanic Spheres Acceptance Event
+country_event = {
+	id = 222001
+	title = "EVTNAME222001"
+    desc = "EVTDESC222001"
+    picture = "Celebration"
+    
+    trigger = {
+	has_country_flag = oudrijk_centralization
+    }
+
+    mean_time_to_happen = {
+		days = 14
+		}
+
+    option = {
+    	name = "EVTOPTA222001"
+    	THIS = { all_core = { add_core = OUD } }
+    	all_core = { remove_core = THIS }
+    	OUD = { inherit = THIS }
+    	clr_country_flag = oudrijk_centralization
+    	}
+        option = {
+    	name = "EVTOPTB222001" #Refusal
+    	prestige = 25
+    	any_pop = { 
+    	limit = {
+    	is_primary_culture = yes
+    	is_accepted_culture = yes
+    	}
+    	militancy = 1
+    	}
+    	clr_country_flag = oudrijk_centralization
+    	FROM = { country_event = { id = 222002 days = 0 } }
+    	ai_chance = {
+            factor = 5
+            modifier = {
+                factor = 5
+                relation = { who = FROM value = -200 }
+            }
+            modifier = {
+                factor = 3
+                relation = { who = FROM value = -150 }
+            }
+            modifier = {
+                factor = 2
+                relation = { who = FROM value = -100 }
+            }
+        }
+    }
+}
+country_event = {
+	id = 222002
+	title = "EVTNAME222002"
+    desc = "EVTDESC222002"
+    picture = "Celebration"
+    is_triggered_only = yes
+
+    option = {
+    	name = "EVTOPTA222002" #The $COUNTRY_ADJ$ refused!
+    	remove_country_modifier = oudrijk_prince
+    	}
+    }
+##Non-Germanic Oudrijk members
+country_event = {
+	id = 222003
+	title = "EVTNAME222003"
+    desc = "EVTDESC222003"
+    picture = "Celebration"
+    is_triggered_only = yes
+
+    option = {
+    	name = "EVTOPTA222003" #Time to look to other pastures
+    	remove_country_modifier = oudrijk_prince
+    	}
+}

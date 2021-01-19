@@ -368,7 +368,7 @@ BRZ_2428;Nordeste;;;;;;;;;;;;;;;;;;;x;
 PROV2423;Vila da Palma;;;;;;;;;;;;;;;;;;;x;
 PROV2426;Vila do Poti;;;;;;;;;;;;;;;;;;;x;
 NEJ_1156;Ha'il;;;;;;;;;;;;;;;;;;;x;
-PROV396;Eupen-Malmedy;;;;;;;;;;;;;;;;;x;;;;;;
+PROV396;Svoboda;;;;;;;;;;;;;;;;;x;;;;;;
 PROV1445;Koepang;;;;;;;;;;;;;;;;;x;;;;;;
 PROV1448;Ternate;;;;;;;;;;;;;;;;;x;;;;;;
 KOR_1624;Hanseong;;;;;;;;;;;;;;;;;x;;;;;;
@@ -975,7 +975,7 @@ FRA_411;Lothrìnga;;;;;;;;;;;;x
 PROV3323;Cruce del Río;;;;;;;;;;;;x
 PROV2714;Ladoga Salmi;;;;;;;;;;;;x
 PROV400;Kouderstad;;;;;;;;;;;;x
-PROV3315;Segozero Isle;;;;;;;;;;;;x
+PROV3315;Segozero;;;;;;;;;;;;x
 PROV3329;The Vkhod;;;;;;;;;;;;x
 PROV3330;The Split;;;;;;;;;;;;x
 PROV3331;The Russian Channel;;;;;;;;;;;;x
@@ -1008,13 +1008,14 @@ PROV538;Osnabrugge;;;;;;;;;;;;x
 PROV581;Munster;;;;;;;;;;;;x
 PROV577;Kleef;;;;;;;;;;;;x
 PROV575;Keulen;;;;;;;;;;;;x
-PROV576;Aken;;;;;;;;;;;;x
+PROV576;Detskgorod;;;;;;;;;;;;x
 PROV397;Luxemburg;;;;;;;;;;;;x
 PROV395;Luik;;;;;;;;;;;;x
 PROV399;Rijsel;;;;;;;;;;;;x
 PROV392;Namen;;;;;;;;;;;;x
 PROV393;Doornik;;;;;;;;;;;;x
 PROV394;Krilograd;;;;;;;;;;;;x
+PROV379;Respurod;;;;;;;;;;;;x
 PROV398;Aarlen;;;;;;;;;;;;x
 PROV388;Brugge;;;;;;;;;;;;x
 PROV387;Brussel;;;;;;;;;;;;x
@@ -1086,10 +1087,11 @@ PROV2256;Suttestasta;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV2248;Iantra;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV2250;Por dek Ciole;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV389;Romanograd;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV389;New Stales;;;;;;;;;;;;x;;;;;;;;;;;;;;;
+PROV300;New Stales;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV3320;New Oaks;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV3319;Greandier;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV70;Édouard Île;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV71;Halifaxe;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV73;Capreton Île;;;;;;;;;;;;x;;;;;;;;;;;;;;;
+PROV3288;Mar de Argentina;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 PROV3288;The Eyre Sea;;;;;;;;;;;;x;;;;;;;;;;;;;;;

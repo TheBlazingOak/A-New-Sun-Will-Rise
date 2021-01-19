@@ -2,7 +2,7 @@ owner = SWI
 controller = SWI
 add_core = SWI
 trade_goods = iron
-life_rating = 34
+life_rating = 35
 fort = 1
 
 party_loyalty = {
@@ -12,23 +12,4 @@ party_loyalty = {
 party_loyalty = {
     ideology = liberal
     loyalty_value = 30
-}
-
-state_building = {
-    level = 1
-    building = artillery_factory
-    upgrade = yes
-}
-state_building = {
-    level = 1
-    building = liquor_distillery
-    upgrade = yes
-}
-2861.1.1 = { railroad = 1 }
-2861.1.1 = {
-    state_building = {
-        level = 1
-        building = luxury_clothes_factory
-        upgrade = yes
-    }
 }

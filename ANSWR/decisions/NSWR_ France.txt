@@ -101,7 +101,7 @@ political_decisions = {
 
         effect = {
             prestige = 20
-            FRA_404 = { add_core = PRP remove_core = DPA }
+            405 = { add_core = PRP }
             FRA_418 = { add_core = PRP remove_core = DPA }
             FRA_435 = { add_core = PRP remove_core = DPA }
             FRA_399 = { add_core = PRP remove_core = DPA }

@@ -1,9 +1,8 @@
 capital = 919
 primary_culture = ashkenazi
-culture = sephardic
 religion = jewish
 government = democracy
-plurality = 0.15
+plurality = 2.0
 nationalvalue = nv_productivity
 literacy = 0.87
 civilized = yes
@@ -37,7 +36,7 @@ border_policy = open_borders
 
 set_country_flag = jewish_country
 
-ruling_party = ISR_liberal
+ruling_party = ISR_conservative
 upper_house = {
     fascist = 0
     liberal = 35

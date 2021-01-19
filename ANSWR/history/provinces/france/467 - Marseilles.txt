@@ -1,13 +1,6 @@
-owner = PRV
-controller = PRV
-add_core = PRV
+owner = AUV
+controller = AUV
+add_core = AUV
+add_core = FRA
 trade_goods = fruit
-life_rating = 32
-2861.1.1 = {
-    state_building = {
-        level = 2
-        building = clipper_shipyard
-        upgrade = yes
-    }
-}
-2861.1.1 = { railroad = 3 }
+life_rating = 35

@@ -5427,3 +5427,6 @@ EVT52037OPTC;Business as usual;;;;;;;;;;;;
 EVTNAME52038;The partition of East Frisia;;;;;;;;;;;;
 EVTDESC52038;East Frisia have announced their defeat. They have no reason but to comply to our demands.;;;;;;;;;;;;
 EVT52038OPTA;We will take what is ours.;;;;;;;;;;;;
+EVTNAME222000;Je Maintiendrai;;;;;;;;;;;;
+EVTDESC222000;The Oudrijk is closer to centralization than ever before. With a clear distinction on the leader, and a direct path to reformation, a greater Oudrijk is inevitable. All the princes have to do is accept the dominance of the $COUNTRY_ADJ$ in the Rijk.;;;;;;;;;;;;
+EVT222000OPTA;Send out the word, the Oudrijk will form.;;;;;;;;;;;;

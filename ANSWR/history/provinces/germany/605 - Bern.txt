@@ -4,6 +4,7 @@ add_core = SWI
 trade_goods = iron
 life_rating = 40
 fort = 1
+railroad = 1
 
 party_loyalty = {
     ideology = conservative
@@ -14,12 +15,12 @@ party_loyalty = {
     loyalty_value = 30
 }
 state_building = {
-    level = 1
+    level = 3
     building = cement_factory
     upgrade = yes
 }
 state_building = {
-    level = 2
+    level = 3
     building = steel_factory
     upgrade = yes
 }

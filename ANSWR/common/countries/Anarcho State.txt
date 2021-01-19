@@ -2,21 +2,6 @@ graphical_culture = UsGC
 color = { 42  39  46 }
 
 party = {
-    name = "USA_liberal"
-    start_date = 1854.1.1
-    end_date = 3000.1.1
-
-    ideology = liberal
-
-    social_policy = no_position_set
-    economic_policy = laissez_faire
-    trade_policy = protectionism
-    religious_policy = pluralism
-    citizenship_policy = full_citizenship
-    war_policy = pro_military
-}
-
-party = {
     name = "USA_conservative"
     start_date = 2820.1.1
     end_date = 3000.1.1
@@ -32,24 +17,9 @@ party = {
 }
 
 party = {
-    name = "USA_liberal_2"
-    start_date = 1833.1.1
-    end_date = 1856.1.1
-
-    ideology = liberal
-
-    social_policy = no_position_set
-    economic_policy = laissez_faire
-    trade_policy = protectionism
-    religious_policy = moralism
-    citizenship_policy = limited_citizenship
-    war_policy = pro_military
-}
-
-party = {
     name = "USA_liberal_3"
-    start_date = 2848.1.1
-    end_date = 1854.1.1
+    start_date = 2830.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -73,21 +43,6 @@ party = {
     trade_policy = protectionism
     religious_policy = moralism
     citizenship_policy = residency
-    war_policy = anti_military
-}
-
-party = {
-    name = "USA_liberal_4"
-    start_date = 1887.1.1
-    end_date = 1908.1.1
-
-    ideology = liberal
-
-    social_policy = no_position_set
-    economic_policy = interventionism
-    trade_policy = protectionism
-    religious_policy = pluralism
-    citizenship_policy = limited_citizenship
     war_policy = anti_military
 }
 

@@ -442,7 +442,7 @@ liberal_group = {
 
     anarcho_liberal = {
         color = { 150 150 10 }
-        date = 2840.1.1
+        date = 2830.1.1
         uncivilized = no
 
         add_political_reform = {

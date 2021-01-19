@@ -1,0 +1,38 @@
+political_decisions = {
+
+    centralize_the_oudrijk = {
+        picture = central_oudrijk
+
+        potential = {
+            has_country_modifier = oudrijk_prince
+            NOT = { exists = OUD }
+        }
+
+        allow = {
+            is_greater_power = yes
+            prestige = 75
+            war = no
+                OUD = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                            in_sphere = THIS
+                        }
+                    }
+                }
+            }
+        }
+
+        effect = {
+            prestige = 25
+            change_tag = OUD
+            remove_country_modifier = oudrijk_prince
+            add_accepted_culture = north_german
+            add_accepted_culture = south_german
+            add_accepted_culture = rhine_german
+            add_accepted_culture = austro_german
+            country_event = { id = 222000 days = 0 }
+        }
+    }   
+}

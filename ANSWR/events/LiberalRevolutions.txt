@@ -29,7 +29,7 @@ country_event = {
             primary_culture = south_italian
             literacy = 0.3
         }
-        year = 1840
+        year = 2840
         NOT = {
             OR = {
                 has_country_flag = liberal_revolution_in_progress
@@ -64,15 +64,15 @@ country_event = {
         }
         modifier = {
             factor = 0.8
-            year = 1841
+            year = 2841
         }
         modifier = {
             factor = 0.8
-            year = 1842
+            year = 2842
         }
         modifier = {
             factor = 0.8
-            year = 1843
+            year = 2843
         }
         modifier = {
             factor = 0.8
@@ -168,7 +168,7 @@ country_event = {
                 vote_franschise = universal_voting
             }
         }
-        year = 1847
+        year = 2847
     }
 
     mean_time_to_happen = {
@@ -179,7 +179,7 @@ country_event = {
         }
         modifier = {
             factor = 0.1
-            year = 1848
+            year = 2848
         }
         modifier = {
             factor = 1.5
@@ -480,7 +480,7 @@ country_event = {
                 continent = europe
                 continent = north_america
                 continent = south_america
-                year = 1900
+                year = 2900
             }
         }
     }

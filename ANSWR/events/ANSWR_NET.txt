@@ -1,5 +1,5 @@
 # the crowning of King Florijs
-#strengthen koudrel- Flanish relations
+#strengthen Koudrel- Flanish relations
 
 #Bilderberg Hotel 1/2
 country_event = {
@@ -24,7 +24,6 @@ country_event = {
 	
 	mean_time_to_happen = {
 		months = 48
-		factor = 2
         	modifier = {
            		factor = 7
             		NOT = { year = 2838
@@ -67,12 +66,6 @@ country_event = {
 	
 	#some time later
 	mean_time_to_happen = {
-		months = 48
-		factor = 2
-        	modifier = {
-           		factor = 9
-            		NOT = { year = 2838}
-			#change to another year
-        	}
+		months = 120
 	}
 }

@@ -6,8 +6,8 @@ political_decisions = {
 		potential = {
 			exists = MRU
 			primary_culture = yankee
-				OR = { primary_culture = french_canadian }
-				OR = { primary_culture = anglo_canadian }
+			OR = { primary_culture = french_canadian }
+			OR = { primary_culture = anglo_canadian }
 			}
 
 		allow = {
@@ -94,12 +94,66 @@ political_decisions = {
 		}
 
 		effect = {
-			money = -500000
+			treasury = -500000
 			set_country_flag = statue_final_step 
 			}
 		ai_will_do = { factor = 1 }
 	}
 
+cascadia_alaska_core = {
+	picture = map_alaska
+		potential = {
+			tag = COL
+			any_owned_province = {
+			81 = { owned_by = COL}
+			728 = { owned_by = COL}
+			}
+			NOT = {
+				any_core = {
+				USA_1 = owned_by = COL
+				}
+			}
+
+		}
+
+		allow = {
+			prestige = 15
+			war = no
+        }
+
+		effect = {
+            prestige = 5
+            USA_1 = { add_core = COL }
+        }
+        ai_will_do = { factor = 1 }    
+    }
+
+    cascadia_amazona_core = {
+    	picture = CAL_greater_california
+		potential = {
+			tag = COL
+			exists = AMA
+			NOT = {
+				any_owned_province = {
+				81 = { owned_by = COL}
+				728 = { owned_by = COL}
+			}
+			}
+
+		}
+
+		allow = {
+			prestige = 5
+			war = no
+        }
+
+		effect = {
+            prestige = 5
+            81 = { add_core = COL }
+			728 = { add_core = COL }
+        }
+        ai_will_do = { factor = 1 }    
+    }
 
 #End of political_decisions brackets	
 }
