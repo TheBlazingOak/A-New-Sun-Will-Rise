@@ -110,7 +110,18 @@ cascadia_alaska_core = {
 			}
 			NOT = {
 				any_core = {
-				USA_1 = owned_by = COL
+				1 = { owned_by = THIS }
+				2 = { owned_by = THIS }
+				4 = { owned_by = THIS }
+				5 = { owned_by = THIS }
+				}
+				OR = {
+					any_core = {
+					1 = { is_core = THIS }
+					2 = { is_core = THIS }
+					4 = { is_core = THIS }
+					5 = { is_core = THIS }
+					}
 				}
 			}
 
@@ -128,8 +139,8 @@ cascadia_alaska_core = {
         ai_will_do = { factor = 1 }    
     }
 
-    cascadia_amazona_core = {
-    	picture = CAL_greater_california
+cascadia_amazona_core = {
+    	picture = USA_annex_california
 		potential = {
 			tag = COL
 			exists = AMA
@@ -137,6 +148,10 @@ cascadia_alaska_core = {
 				any_owned_province = {
 				81 = { owned_by = COL}
 				728 = { owned_by = COL}
+				OR = {
+				81 = { is_core = COL }
+				728 = { is_core = COL }
+				}
 			}
 			}
 
@@ -151,6 +166,83 @@ cascadia_alaska_core = {
             prestige = 5
             81 = { add_core = COL }
 			728 = { add_core = COL }
+        }
+        ai_will_do = { factor = 1 }    
+    }
+cascadia_california_core = {
+    	picture = CAL_greater_california
+		potential = {
+			tag = COL
+			USA_1 = { owned_by = COL }
+			NOT = {
+				any_owned_province = {
+				MEX_85 = { owned_by = COL}
+				LOS_89 = { owned_by = COL}
+				MEX_100 = { owned_by = COL}
+				OR = {
+				MEX_85 = { is_core = COL }
+				LOS_89 = { is_core = COL }
+				MEX_100 = { is_core = COL}
+				}
+			}
+			}
+
+		}
+
+		allow = {
+			prestige = 5
+			war = no
+        }
+
+		effect = {
+            prestige = 5
+            MEX_85 = { is_core = COL }
+			LOS_89 = { is_core = COL }
+			MEX_100 = { is_core = COL}
+        }
+        ai_will_do = { factor = 1 }    
+    }
+    
+transpacifica_unification = {
+		potential = {
+			is_culture_group = pacific_cultures
+            capital_scope = { continent = north_america }
+			NOT = {
+				exists = TRP
+			}
+		}
+
+		allow = {
+			prestige = 30
+			nationalism_n_imperialism = 1
+			war = no
+			all_core = {
+			MEX_85 = { owned_by = THIS }
+			LOS_89 = { owned_by = THIS }
+			100 = { owned_by = THIS }
+			102 = { owned_by = THIS }
+			1 = { owned_by = THIS }
+			2 = { owned_by = THIS }
+			4 = { owned_by = THIS }
+			5 = { owned_by = THIS }
+			USA_78 = { owned_by = THIS }
+			CAN_13 = { owned_by = THIS }
+			}
+        }
+
+		effect = {
+            prestige = 25
+            all_core = { add_core = TRP }
+            all_core = { remove_core = COL }
+            all_core = { remove_core = LOS }
+            all_core = { remove_core = SFA }
+            all_core = { remove_core = CAL }
+            all_core = { remove_core = LSK }
+            all_core = { remove_core = AMA }
+            change_tag = TRP
+        add_accepted_culture = cascadian
+	    add_accepted_culture = alaskan
+	    add_accepted_culture = pacifica
         }
         ai_will_do = { factor = 1 }    
     }

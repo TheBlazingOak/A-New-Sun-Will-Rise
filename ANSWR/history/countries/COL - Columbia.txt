@@ -1,12 +1,12 @@
-capital = 14
+capital = 13
 primary_culture = cascadian
 religion = protestant
-government = democracy
-plurality = 0.5
+government = hms_government
+plurality = 5.0
 nationalvalue = nv_liberty
-literacy = 0.6
+literacy = 0.67
 civilized = yes
-prestige = 1
+prestige = 2
 
 
 # Political reforms
