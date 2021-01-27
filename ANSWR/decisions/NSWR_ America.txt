@@ -108,24 +108,13 @@ cascadia_alaska_core = {
 			81 = { owned_by = COL}
 			728 = { owned_by = COL}
 			}
+			OR = {
+			AMA = { vassal_of = COL }
+			}
 			NOT = {
-				any_core = {
-				1 = { owned_by = THIS }
-				2 = { owned_by = THIS }
-				4 = { owned_by = THIS }
-				5 = { owned_by = THIS }
-				}
-				OR = {
-					any_core = {
-					1 = { is_core = THIS }
-					2 = { is_core = THIS }
-					4 = { is_core = THIS }
-					5 = { is_core = THIS }
-					}
+				has_country_flag = alaska_conquest
 				}
 			}
-
-		}
 
 		allow = {
 			prestige = 15
@@ -134,7 +123,11 @@ cascadia_alaska_core = {
 
 		effect = {
             prestige = 5
-            USA_1 = { add_core = COL }
+            1 = { add_core = THIS }
+			2 = { add_core = THIS }
+			4 = { add_core = THIS }
+			5 = { add_core = THIS }
+			set_country_flag = alaska_conquest
         }
         ai_will_do = { factor = 1 }    
     }
@@ -145,17 +138,9 @@ cascadia_amazona_core = {
 			tag = COL
 			exists = AMA
 			NOT = {
-				any_owned_province = {
-				81 = { owned_by = COL}
-				728 = { owned_by = COL}
-				OR = {
-				81 = { is_core = COL }
-				728 = { is_core = COL }
+			has_country_flag = amazona_conquest
 				}
 			}
-			}
-
-		}
 
 		allow = {
 			prestige = 5
@@ -166,6 +151,7 @@ cascadia_amazona_core = {
             prestige = 5
             81 = { add_core = COL }
 			728 = { add_core = COL }
+			set_country_flag = amazona_conquest
         }
         ai_will_do = { factor = 1 }    
     }
@@ -173,32 +159,29 @@ cascadia_california_core = {
     	picture = CAL_greater_california
 		potential = {
 			tag = COL
-			USA_1 = { owned_by = COL }
+			1 = { owned_by = COL }
+			2 = { owned_by = COL }
+			4 = { owned_by = COL }
+			5 = { owned_by = COL }
+			OR = {
+			LSK = { vassal_of = COL }
+			}
 			NOT = {
-				any_owned_province = {
-				MEX_85 = { owned_by = COL}
-				LOS_89 = { owned_by = COL}
-				MEX_100 = { owned_by = COL}
-				OR = {
-				MEX_85 = { is_core = COL }
-				LOS_89 = { is_core = COL }
-				MEX_100 = { is_core = COL}
+				set_country_flag = california_conquest
 				}
 			}
-			}
-
-		}
 
 		allow = {
-			prestige = 5
+			prestige = 35
 			war = no
         }
 
 		effect = {
             prestige = 5
-            MEX_85 = { is_core = COL }
-			LOS_89 = { is_core = COL }
-			MEX_100 = { is_core = COL}
+            MEX_85 = { add_core = COL }
+			LOS_89 = { add_core = COL }
+			MEX_100 = { add_core = COL}
+			set_country_flag = california_conquest
         }
         ai_will_do = { factor = 1 }    
     }
@@ -213,20 +196,33 @@ transpacifica_unification = {
 		}
 
 		allow = {
-			prestige = 30
+			prestige = 50
 			nationalism_n_imperialism = 1
 			war = no
 			all_core = {
-			MEX_85 = { owned_by = THIS }
-			LOS_89 = { owned_by = THIS }
-			100 = { owned_by = THIS }
-			102 = { owned_by = THIS }
-			1 = { owned_by = THIS }
-			2 = { owned_by = THIS }
-			4 = { owned_by = THIS }
-			5 = { owned_by = THIS }
-			USA_78 = { owned_by = THIS }
-			CAN_13 = { owned_by = THIS }
+			MEX_85 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			LOS_89 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			100 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			102 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			1 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			2 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			4 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			5 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			USA_78 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			CAN_13 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			}
+			NOT = {
+			has _country_flag = transpacific
 			}
         }
 
@@ -243,6 +239,7 @@ transpacifica_unification = {
         add_accepted_culture = cascadian
 	    add_accepted_culture = alaskan
 	    add_accepted_culture = pacifica
+	    set_country_flag = transpacific
         }
         ai_will_do = { factor = 1 }    
     }
