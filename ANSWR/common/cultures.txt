@@ -2333,6 +2333,25 @@ latin_american_cultures = {
         }
         radicalism = 15
     }
+
+    haitian = {
+        color = {50 150 180}
+        first_names = { Alberto Alejandro Alfredo Ambrosio Anselmo Antonio Arturo Benigno Buenaventura Calixto
+        Carlos Ceferino Cesáreo Demetrio Desiderio Dionisio Domingo Eugenio Federico Felipe
+        Fernando Fidel Fulgencio Gerardo Gregorio Guillermo Horacio Ignacio Jacinto Jacobo
+        Jesús Joaquín José "José Miguel" Juan "Juan Bautista" Manuel Mariano Mario Máximo
+        Osvaldo Pablo Pedro Rafael Ramón Raúl Salvador Romás Ulises Wenceslao
+        }
+
+        last_names = { Acosta Alfau Báez Batista Bayo Cabral Carmona Castillo Castro Cisneros
+        "de Céspedes" "de la Rosa" "de Meriño" "de Rojas" Espaillat Estrada Estrella Fernández Figuereo García
+        Gil Gómez Gonzáles González Grau Guillermo Henríquez Herrera Hevia Laredo
+        Luperón Maceo Machado Márquez Mella Méndez Mendieta Moncada Morales Mota
+        Pelletier Pimentel Puello Santana Sosa Trujillo Valverde Vásquez Vázquez Zayas
+        }
+        radicalism = 15
+    }
+    
     antillean = {
         color = {50 11 150}
         first_names = { Alberto Alejandro Alfredo Ambrosio Anselmo Antonio Arturo Benigno Buenaventura Calixto

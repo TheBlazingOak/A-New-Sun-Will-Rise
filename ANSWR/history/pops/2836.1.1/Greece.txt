@@ -731,6 +731,62 @@
     }
     ########
 }
+#Arta (220000/55000 POPS)
+825 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 675
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 550
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 425
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 2150
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 50000
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 425
+    }
+}
 #Ionian Islands Region (188000)
 #under the rule of Britain/Ionian Islands in 1836
 #Corfu (112200/28000 POPS)

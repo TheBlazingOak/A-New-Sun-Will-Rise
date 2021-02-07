@@ -1,10 +1,10 @@
-color = { 0 135 81 }
+color = { 138 194 181 }
 graphical_culture = BritishGC
 
 party = {
     name = "AST_liberal"
     start_date = 2830.1.1
-    end_date = 1909.1.1
+    end_date = 2909.1.1
 
     ideology = liberal
 
@@ -19,7 +19,7 @@ party = {
 party = {
     name = "AST_conservative"
     start_date = 2830.1.1
-    end_date = 1909.1.1
+    end_date = 2909.1.1
 
     ideology = conservative
 
@@ -48,7 +48,7 @@ party = {
 
 party = {
     name = "AST_liberal_2"
-    start_date = 1909.1.1
+    start_date = 2909.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -63,7 +63,7 @@ party = {
 
 party = {
     name = "AST_conservative_2"
-    start_date = 1919.1.1
+    start_date = 2919.1.1
     end_date = 3000.1.1
 
     ideology = conservative

@@ -1,4 +1,6 @@
-add_core = AST
+owner = HAM
+controller = HAM
+add_core = HAM
 trade_goods = grain
 terrain = savanna
 life_rating = 20

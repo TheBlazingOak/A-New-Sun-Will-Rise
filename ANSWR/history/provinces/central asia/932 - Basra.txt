@@ -1,5 +1,5 @@
-controller = IRQ
-owner = IRQ
-add_core = IRQ
+owner = KWT
+controller = KWT
+add_core = KWT
 trade_goods = fruit
 life_rating = 35

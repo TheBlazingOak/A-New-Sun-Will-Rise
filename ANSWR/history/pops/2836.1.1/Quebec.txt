@@ -467,7 +467,7 @@
     clergymen = {
         culture = french_canadian
         religion = protestant
-        size = 500
+        size = 50
     }
 
     artisans = {
@@ -485,31 +485,31 @@
     farmers = {
         culture = french_canadian
         religion = protestant
-        size = 34450
+        size = 4450
     }
 
     clergymen = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = french_canadian
+        religion = catholic
         size = 250
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = french_canadian
+        religion = catholic
         size = 700
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = protestant
+        culture = french_canadian
+        religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 20900
+        culture = french_canadian
+        religion = catholic
+        size = 10900
     }
 }
 #Riviere du Loup (56000/14000 POPS)
@@ -768,6 +768,47 @@
         culture = dutch
         religion = protestant
         size = 2500
+    }
+
+}
+
+#Saguenay (4000/1000 POPS)
+45 = {
+
+   aristocrats = {
+        culture = french_canadian
+        religion = catholic
+        size = 250
+    }
+
+    officers = {
+        culture = french_canadian
+        religion = catholic
+        size = 125
+    }
+
+    clergymen = {
+        culture = french_canadian
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = french_canadian
+        religion = catholic
+        size = 1125
+    }
+
+    artisans = {
+        culture = french_canadian
+        religion = catholic
+        size = 555
+    }
+
+    farmers = {
+        culture = french_canadian
+        religion = catholic
+        size = 15500
     }
 
 }

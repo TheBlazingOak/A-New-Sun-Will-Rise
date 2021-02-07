@@ -35,7 +35,7 @@
     soldiers = {
         culture = flanish
         religion = protestant
-        size = 2000
+        size = 3000
     }
 
     soldiers = {
@@ -53,32 +53,70 @@
     clergymen = {
         culture = danish
         religion = catholic
-        size = 250
+        size = 100
     }
 
     artisans = {
         culture = danish
         religion = catholic
-        size = 1000
+        size = 100
     }
 
     soldiers = {
         culture = danish
         religion = catholic
-        size = 250
+        size = 100
     }
 
     farmers = {
         culture = danish
         religion = catholic
-        size = 36700
+        size = 14700
     }
 
     farmers = {
         culture = north_german
-        religion = protestant
+        religion = catholic
         size = 10000
     }
+
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 300
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 300
+    }
+    ########
 
     clergymen = {
         culture = danish
@@ -123,11 +161,6 @@
         religion = protestant
         size = 1825
     }
-    artisans = {
-        culture = north_german
-        religion = protestant
-        size = 2000
-    }
 
     soldiers = {
         culture = flanish
@@ -138,13 +171,7 @@
     farmers = {
         culture = flanish
         religion = protestant
-        size = 21500
-    }
-
-    farmers = {
-        culture = north_german
-        religion = protestant
-        size = 17000
+        size = 33500
     }
 }
 #Lower Elbe Region (557600)
@@ -182,7 +209,7 @@
     }
 
     artisans = {
-        culture = north_german
+        culture = flanish
         religion = protestant
         size = 6000
     }
@@ -190,21 +217,58 @@
     soldiers = {
         culture = flanish
         religion = protestant
-        size = 3050
+        size = 1050
     }
 
     farmers = {
         culture = flanish
         religion = protestant
-        size = 26310
+        size = 16310
     }
 
     farmers = {
-        culture = north_german
-        religion = protestant
-        size = 17000
+        culture = flanish
+        religion = catholic
+        size = 765
     }
 
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 300
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1175
+    }
+    ########
 }
 #Under rule of Hannover 1836 (396000)
 #Stade (216000/54000 POPS)
@@ -770,7 +834,7 @@
     aristocrats = {
         culture = flanish
         religion = protestant
-        size = 2750
+        size = 750
     }
 
     bureaucrats = {
@@ -794,25 +858,25 @@
     artisans = {
         culture = flanish
         religion = protestant
-        size = 5212
-    }
-
-    artisans = {
-        culture = flanish
-        religion = protestant
-        size = 3426
+        size = 7319
     }
 
     soldiers = {
         culture = flanish
         religion = protestant
-        size = 6450
+        size = 3450
     }
 
     farmers = {
         culture = flanish
         religion = protestant
-        size = 117500
+        size = 17500
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 2500
     }
 }
 #under the rule of Oldenburg 1836
@@ -892,7 +956,7 @@
     }
     farmers = {
         culture = north_german
-        religion = catholic
+        religion = cathologic
         size = 1460
     }
 }

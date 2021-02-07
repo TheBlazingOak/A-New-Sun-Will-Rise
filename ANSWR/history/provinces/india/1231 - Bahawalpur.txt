@@ -1,7 +1,6 @@
-owner = BHP
-controller = BHP
-add_core = BHP
-add_core = PNJ
+owner = MUG
+controller = MUG
+add_core = MUG
 add_core = HND
 trade_goods = cattle
 life_rating = 32

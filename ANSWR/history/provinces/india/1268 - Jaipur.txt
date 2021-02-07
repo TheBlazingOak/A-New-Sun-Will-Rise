@@ -1,6 +1,5 @@
-owner = JAI
-controller = JAI
-add_core = JAI
+owner = MUG
+controller = MUG
 add_core = MUG
 add_core = HND
 trade_goods = timber

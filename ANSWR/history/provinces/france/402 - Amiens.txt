@@ -1,3 +1,6 @@
-trade_goods = fish
-life_rating = 33
+owner = AST
+controller = AST
+add_core = AST
+trade_goods = coal
+life_rating = 35
 

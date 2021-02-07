@@ -1,6 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = SRI
+owner = TRA
+controller = TRA
+add_core = TRA
+add_core = HND
 trade_goods = fruit
 life_rating = 35
 colonial = 2

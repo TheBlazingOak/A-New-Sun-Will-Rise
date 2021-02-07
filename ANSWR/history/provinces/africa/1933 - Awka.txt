@@ -1,6 +1,5 @@
-owner = ARO
-controller = ARO
-add_core = ARO
-add_core = WRI
+owner = NGR
+controller = NGR
+add_core = NGR
 trade_goods = cattle
 life_rating = 35

@@ -1,3 +1,6 @@
-trade_goods = iron
+owner = TTB
+controller = TTB
+add_core = TTB
+trade_goods = fish
 life_rating = 35
 

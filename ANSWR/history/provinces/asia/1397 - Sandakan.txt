@@ -1,6 +1,5 @@
-owner = SUL
-controller = SUL
-add_core = SUL
-add_core = KTI
+owner = BRU
+controller = BRU
+add_core = BRU
 trade_goods = grain
 life_rating = 31

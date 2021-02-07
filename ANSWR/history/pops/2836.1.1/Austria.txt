@@ -82,6 +82,38 @@
         size = 24975
     }
 }
+#Bregenz (132000/33000 POPS)
+614 = {
+    aristocrats = {
+        culture = austro_german
+        religion = catholic
+        size = 400
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = catholic
+        size = 1500
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = catholic
+        size = 24700
+    }
+}
 #Lienz (52000/13000 POPS)
 615 = {
     aristocrats = {

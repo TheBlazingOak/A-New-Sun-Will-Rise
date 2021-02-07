@@ -1,8 +1,5 @@
-owner = OMA
-controller = OMA
-add_core = OMA
-add_core = BLC
-add_core = MAK
+controller = ASY
+owner = ASY
+add_core = ASY
 trade_goods = fish
-terrain = mountain
 life_rating = 31

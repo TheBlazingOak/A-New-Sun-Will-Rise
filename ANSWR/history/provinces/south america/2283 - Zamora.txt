@@ -1,3 +1,5 @@
+owner = AUG
+controller = AUG
+add_core = AUG
 trade_goods = wool
-terrain = montane_forest
-life_rating = 20
+life_rating = 35

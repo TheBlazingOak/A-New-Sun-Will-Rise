@@ -1,4 +1,5 @@
-add_core = AST
-trade_goods = grain
-terrain = dryhills
-life_rating = 15
+owner = PRT
+controller = PRT
+add_core = PRT
+trade_goods = iron
+life_rating = 35

@@ -2642,4 +2642,21 @@ NET_setup_1836 = {
             
         }
     }
+    
+    enable_flag_for_colonization_ii = {
+        picture = starting_options
+        alert = yes
+        potential = {
+            NOT = { has_country_flag = existing_country }
+        }
+
+        allow = {
+            NOT = { has_country_flag = existing_country }
+        }
+
+        effect = {
+            set_country_flag = existing_country
+        }
+        ai_will_do = { factor = 1 }
+    }
 }

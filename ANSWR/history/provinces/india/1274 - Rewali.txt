@@ -1,7 +1,6 @@
-owner = BUN
-controller = BUN
-add_core = BUN
-add_core = MUG
+owner = BNG
+controller = BNG
 add_core = HND
+add_core = BNG
 trade_goods = cattle
 life_rating = 32

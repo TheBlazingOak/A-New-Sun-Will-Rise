@@ -1,4 +1,5 @@
-add_core = SMO
-trade_goods = fish
-life_rating = 15
-terrain = small_island
+owner = AST
+controller = AST
+add_core = AST
+trade_goods = coal
+life_rating = 35

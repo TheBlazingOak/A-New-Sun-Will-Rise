@@ -1,4 +1,6 @@
-terrain = coral_island
+owner = TRE
+controller = TRE
+add_core = TRE
+terrain = plains
 trade_goods = sulphur
-life_rating = 10
-colonial = 1
+life_rating = 35

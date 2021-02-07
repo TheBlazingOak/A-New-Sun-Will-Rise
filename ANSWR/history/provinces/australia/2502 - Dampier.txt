@@ -1,7 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = AST
+owner = OLD
+controller = OLD
+add_core = OLD
 trade_goods = grain
 terrain = savanna
-life_rating = 31
-colonial = 2
+life_rating = 33

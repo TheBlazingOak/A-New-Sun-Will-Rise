@@ -1,5 +1,5 @@
-owner = KDS
-controller = KDS
-add_core = KDS
+controller = ASY
+owner = ASY
+add_core = ASY
 trade_goods = iron
 life_rating = 35

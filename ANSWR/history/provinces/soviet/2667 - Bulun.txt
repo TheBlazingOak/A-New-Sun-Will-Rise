@@ -1,6 +1,6 @@
-add_core = RUS
-add_core = YAK
+owner = UOR
+controller = UOR
+add_core = UOR
 trade_goods = timber
 terrain = montane_tundra
-life_rating = 10
-colonial = 2
+life_rating = 20

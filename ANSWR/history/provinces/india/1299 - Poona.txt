@@ -1,7 +1,7 @@
-owner = ENG
-controller = ENG
+owner = HYD
+controller = HYD
+add_core = HYD
 add_core = HND
-add_core = MAH
 trade_goods = grain
 life_rating = 32
 colonial = 2

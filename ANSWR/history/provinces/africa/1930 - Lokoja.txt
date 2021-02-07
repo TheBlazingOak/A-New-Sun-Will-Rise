@@ -1,7 +1,5 @@
-owner = BEN
-controller = BEN
-add_core = BEN
-add_core = ARO
-add_core = OYO
+owner = NGR
+controller = NGR
+add_core = NGR
 trade_goods = cattle
 life_rating = 35

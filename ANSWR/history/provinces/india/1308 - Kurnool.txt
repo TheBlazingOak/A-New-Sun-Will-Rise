@@ -1,7 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = HYD
-add_core = MYS
+owner = TRA
+controller = TRA
+add_core = TRA
 add_core = HND
 trade_goods = cattle
 life_rating = 32

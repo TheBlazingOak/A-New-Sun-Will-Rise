@@ -473,55 +473,67 @@
     aristocrats = {
         culture = anglo_canadian
         religion = protestant
-        size = 200
+        size = 2
     }
 
     aristocrats = {
         culture = canuck
         religion = catholic
-        size = 500
+        size = 5
+    }
+
+    aristocrats = {
+        culture = canuck
+        religion = catholic
+        size = 20
+    }
+
+    aristocrats = {
+        culture = canuck
+        religion = catholic
+        size = 20
     }
 
     clergymen = {
         culture = anglo_canadian
         religion = protestant
-        size = 50
+        size = 5
     }
 
     artisans = {
         culture = anglo_canadian
         religion = protestant
-        size = 500
+        size = 5
     }
 
     officers = {
         culture = anglo_canadian
         religion = protestant
-        size = 50
+        size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 500
+        size = 5
     }
 
     farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 2015
+        size = 15
     }
 
     farmers = {
         culture = canuck
         religion = protestant
-        size = 6710
+        size = 710
     }
 
     farmers = {
         culture = canuck
         religion = catholic
-        size = 3185
+        size = 185
     }
 }
 #Fort MacLeod (8000/2000 POPS)
@@ -1334,25 +1346,25 @@
     clergymen = {
         culture = anglo_canadian
         religion = protestant
-        size = 125
+        size = 75
     }
 
     artisans = {
         culture = anglo_canadian
         religion = protestant
-        size = 1250
+        size = 250
     }
 
     soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 750
+        size = 100
     }
 
     farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 23250
+        size = 18250
     }
 
 }
@@ -1453,42 +1465,35 @@
     aristocrats = {
         culture = anglo_canadian
         religion = protestant
-        size = 2500
+        size = 500
     }
 
     clergymen = {
         culture = anglo_canadian
         religion = protestant
-        size = 200
+        size = 50
     }
 
     artisans = {
         culture = anglo_canadian
         religion = protestant
-        size = 2000
+        size = 1000
     }
 
     soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 1500
+        size = 500
     }
 
     labourers = {
         culture = anglo_canadian
         religion = protestant
-        size = 38350
+        size = 28350
     }
 }
 #Hamilton (68000/17000 POPS)
 55 = {
-
-    aristocrats = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 1500
-    }
-
     clergymen = {
         culture = anglo_canadian
         religion = protestant
@@ -1498,13 +1503,13 @@
     artisans = {
         culture = anglo_canadian
         religion = protestant
-        size = 2100
+        size = 1100
     }
 
     soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 1000
+        size = 200
     }
 
     farmers = {

@@ -1,6 +1,6 @@
-owner = RLP
-controller = RLP
-add_core = RLP
+owner = SJR
+controller = SJR
+add_core = SJR
 trade_goods = fish
 terrain = farmlands
 life_rating = 37

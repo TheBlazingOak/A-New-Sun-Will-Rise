@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = AST
+owner = FRM
+controller = FRM
+add_core = FRM
 trade_goods = wool
-terrain = semidesert
-life_rating = 31
+life_rating = 33

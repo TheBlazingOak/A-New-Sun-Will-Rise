@@ -1,6 +1,4 @@
-owner = KDS
-controller = KDS
-add_core = KDS
+owner = KWT
+controller = KWT
 trade_goods = grain
 life_rating = 35
-colonial = 2

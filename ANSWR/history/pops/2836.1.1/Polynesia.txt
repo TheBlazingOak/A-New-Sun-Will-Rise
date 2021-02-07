@@ -69,27 +69,27 @@
     }
 
     clergymen = {
-        culture = deisui
+        culture = deisei
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = deisui
+        culture = deisei
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = deisui
+        culture = deisei
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = deisui
+        culture = deisei
         religion = protestant
-        size = 11000
+        size = 1000
     }
 }
 #uncolonized in 1836
@@ -101,7 +101,7 @@
         size = 2030
     }
     farmers = {
-        culture = deisui
+        culture = deisei
         religion = protestant
         size = 1000
     }
@@ -536,31 +536,31 @@
 #Pitcairn Islands (160/40 POPS) #british trade post - proclaimed colony 1838
 2552 = {
     aristocrats = {
-        culture = deisui
+        culture = deisei
         religion = protestant
         size = 20
     }
 
     clergymen = {
-        culture = deisui
+        culture = deisei
         religion = protestant
         size = 20
     }
 
     artisans = {
-        culture = deisui
+        culture = deisei
         religion = protestant
         size = 20
     }
 
     soldiers = {
-        culture = deisui
+        culture = deisei
         religion = protestant
         size = 20
     }
 
     farmers = {
-        culture = deisui
+        culture = deisei
         religion = protestant
         size = 1000
     }

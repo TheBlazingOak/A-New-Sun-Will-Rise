@@ -1,7 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = AST
+owner = FRM
+controller = FRM
+add_core = FRM
 trade_goods = wool
 terrain = savanna
-life_rating = 32
-colonial = 2
+life_rating = 33

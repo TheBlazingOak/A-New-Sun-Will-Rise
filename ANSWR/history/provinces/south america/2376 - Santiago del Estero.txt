@@ -1,6 +1,6 @@
-owner = RLP
-controller = RLP
-add_core = RLP
+owner = SJR
+controller = SJR
+add_core = SJR
 trade_goods = timber
 terrain = savanna
 life_rating = 31

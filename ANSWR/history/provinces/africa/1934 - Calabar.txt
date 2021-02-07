@@ -1,6 +1,5 @@
-owner = CLA
-controller = CLA
-add_core = CLA
-add_core = ARO
+owner = NGR
+controller = NGR
+add_core = NGR
 trade_goods = fish
 life_rating = 35

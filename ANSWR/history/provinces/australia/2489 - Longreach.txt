@@ -1,4 +1,6 @@
-add_core = AST
+owner = ION
+controller = ION
+add_core = ION
 trade_goods = cattle
 terrain = savanna
-life_rating = 20
+life_rating = 32

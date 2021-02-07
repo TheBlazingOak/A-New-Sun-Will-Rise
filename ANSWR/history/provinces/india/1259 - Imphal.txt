@@ -1,8 +1,7 @@
-owner = ENG
-controller = ENG
+owner = BNG
+controller = BNG
 add_core = HND
-add_core = ASM
-add_core = MNP
+add_core = BNG
 trade_goods = cattle
 life_rating = 32
 colonial = 2

@@ -1,10 +1,47 @@
 #Holland & Zeeland Region - 1353000
 #Amsterdam (464000/116000 POPS)
 375 = {
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 300
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 3000
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2879
+    }
+    ########
     aristocrats = {
         culture = dutch
         religion = protestant
-        size = 2910
+        size = 2010
     }
     officers = {
         culture = dutch
@@ -24,12 +61,7 @@
     artisans = {
         culture = dutch
         religion = catholic
-        size = 10000
-    }
-    artisans = {
-        culture = dutch
-        religion = protestant
-        size = 9400
+        size = 18800
     }
     artisans = {
         culture = dutch
@@ -54,12 +86,12 @@
     farmers = {
         culture = dutch
         religion = protestant
-        size = 76911
+        size = 70911
     }
     farmers = {
         culture = flemish
         religion = catholic
-        size = 27990
+        size = 17990
     }
 }
 #Rotterdam (567000/141750 POPS)
@@ -104,18 +136,44 @@
         religion = catholic
         size = 1034
     }
+    ######Jews
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2000
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1090
+    }
+    ########
 }
 #Utrecht (152000/38000 POPS)
 377 = {
     aristocrats = {
         culture = dutch
         religion = protestant
-        size = 482
+        size = 282
     }
     clergymen = {
         culture = dutch
         religion = protestant
-        size = 264
+        size = 164
     }
     artisans = {
         culture = dutch
@@ -125,12 +183,12 @@
     soldiers = {
         culture = dutch
         religion = protestant
-        size = 2034
+        size = 1034
     }
     farmers = {
         culture = dutch
         religion = protestant
-        size = 63053
+        size = 43053
     }
 }
 #Middelburg (170000/42500 POPS)
@@ -138,12 +196,12 @@
     aristocrats = {
         culture = dutch
         religion = protestant
-        size = 322
+        size = 282
     }
     clergymen = {
         culture = dutch
         religion = protestant
-        size = 255
+        size = 188
     }
     artisans = {
         culture = dutch
@@ -153,12 +211,12 @@
     soldiers = {
         culture = dutch
         religion = protestant
-        size = 1634
+        size = 1034
     }
     farmers = {
         culture = dutch
         religion = protestant
-        size = 42182
+        size = 23182
     }
     artisans = {
         culture = flemish
@@ -168,7 +226,7 @@
     farmers = {
         culture = flemish
         religion = catholic
-        size = 12034
+        size = 11034
     }
 }
 #Breda (173200/43300 POPS)
@@ -461,7 +519,7 @@
     soldiers = {
         culture = dutch
         religion = protestant
-        size = 6000
+        size = 15000
     }
 
     soldiers = {
@@ -597,32 +655,32 @@
     aristocrats = {
         culture = dutch
         religion = protestant
-        size = 1260
+        size = 200
     }
     clergymen = {
         culture = dutch
         religion = protestant
-        size = 250
+        size = 125
     }
     artisans = {
         culture = dutch
         religion = protestant
-        size = 3034
+        size = 1034
     }
     soldiers = {
         culture = dutch
         religion = protestant
-        size = 4600
+        size = 500
     }
     farmers = {
         culture = dutch
         religion = protestant
-        size = 91745
+        size = 72745
     }
     farmers = {
         culture = rhine_german
         religion = protestant
-        size = 5334
+        size = 2334
     }
 }
 #Former Ghat - Now Nordhorn(16000/4000 POPS)
@@ -720,13 +778,13 @@
     soldiers = {
         culture = dutch
         religion = protestant
-        size = 488
+        size = 88
     }
 
     farmers = {
         culture = dutch
         religion = protestant
-        size = 18075
+        size = 8075
     }
 
     clergymen = {
@@ -750,7 +808,7 @@
     farmers = {
         culture = north_german
         religion = catholic
-        size = 16260
+        size = 20260
     }
 
 }
@@ -909,13 +967,13 @@
     farmers = {
         culture = dutch
         religion = protestant
-        size = 24950
+        size = 14950
     }
 
     farmers = {
         culture = flanish
         religion = protestant
-        size = 16950
+        size = 20950
     }
     aristocrats = {
         culture = north_german
@@ -944,7 +1002,7 @@
     farmers = {
         culture = north_german
         religion = catholic
-        size = 18550
+        size = 24550
     }
 
 }
@@ -1002,13 +1060,13 @@
     soldiers = {
         culture = flemish
         religion = catholic
-        size = 6000
+        size = 3000
     }
 
     labourers = {
         culture = flemish
         religion = catholic
-        size = 85725
+        size = 65725
     }
 
     labourers = {

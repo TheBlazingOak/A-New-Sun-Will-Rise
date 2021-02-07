@@ -1,6 +1,3 @@
-owner = QKD
-controller = QKD
-add_core = QKD
 trade_goods = fruit
 terrain = plains
-life_rating = 33
+life_rating = 15

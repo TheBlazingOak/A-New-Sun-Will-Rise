@@ -1,4 +1,6 @@
-add_core = RUS
-add_core = YAK
+owner = BLZ
+controller = BLZ
+add_core = BLZ
 trade_goods = timber
-life_rating = 10
+terrain = plains
+life_rating = 35

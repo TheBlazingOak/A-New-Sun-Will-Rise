@@ -1,2 +1,5 @@
+owner = BWK
+controller = BWK
+add_core = BWK
 trade_goods = wool
-life_rating = 32
+life_rating = 31

@@ -1,4 +1,6 @@
-add_core = RUS
-add_core = YAK
+owner = UOR
+controller = UOR
+add_core = UOR
 trade_goods = grain
-life_rating = 10
+terrain = boreal
+life_rating = 20

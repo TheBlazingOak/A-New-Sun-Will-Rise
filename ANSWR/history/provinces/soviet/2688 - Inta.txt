@@ -1,2 +1,6 @@
-trade_goods = timber
+owner = BLZ
+controller = BLZ
+add_core = BLZ
+trade_goods = wool
+terrain = plains
 life_rating = 33
