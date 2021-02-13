@@ -1,0 +1,9 @@
+army = {
+    name = "Fromden Militia"
+    location = 2492
+regiment = {
+        name= "I Fromden Militiamen"
+        type = infantry
+        home = 2492
+    }
+}

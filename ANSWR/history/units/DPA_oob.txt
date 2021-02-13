@@ -2,9 +2,6 @@
 NET = { value = 50 }
 AUS = { value = -150 }
 UNS = { value = 0 }
-
-BRI = { value = -25 }
-ALS = { value = -25 }
 PRP = { value = -200 }
 
 army = {

@@ -1598,7 +1598,7 @@ political_decisions = {
             exists = yes
             civilized = yes
             NOT = { rank = 17 }
-            NOT = { year = 1838 }
+            NOT = { year = 2838 }
             NOT = { has_global_flag = 1836_set_up }
         }
 
