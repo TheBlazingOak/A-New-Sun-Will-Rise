@@ -1,5 +1,5 @@
-owner = VLA
-controller = VLA
-add_core = SAP
+owner = AMZ
+controller = AMZ
+add_core = AMZ
 trade_goods = fish
 life_rating = 35
