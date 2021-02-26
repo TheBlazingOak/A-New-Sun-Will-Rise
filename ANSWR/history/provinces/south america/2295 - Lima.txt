@@ -1,9 +1,5 @@
-owner = PEU
-controller = PEU
-add_core = PEU
-trade_goods = cattle
+owner = CSK
+controller = CSK
+add_core = CSK
+trade_goods = sulphur
 life_rating = 35
-1861.1.1 = { 
-	railroad = 1
-	naval_base = 1
-}

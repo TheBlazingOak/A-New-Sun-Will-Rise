@@ -1,6 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = GCO
-trade_goods = grain
-life_rating = 30
+owner = GAR
+controller = GAR
+add_core = GAR
+trade_goods = cattle
+terrain = montane_forest
+life_rating = 35

@@ -1,11 +1,5 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = PAW
+controller = PAW
+add_core = PAW
 trade_goods = grain
-life_rating = 35
-1861.1.1 = {
-	party_loyalty = {
-		ideology = anarcho_liberal					
-		loyalty_value = 25
-	}
-}
+life_rating = 32

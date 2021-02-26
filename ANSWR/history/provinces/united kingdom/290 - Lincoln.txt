@@ -1,7 +1,17 @@
-owner = ENG
-controller = ENG
+owner = ANI
+controller = ANI
+add_core = ANI
+add_core = UNS
 add_core = ENG
 trade_goods = iron
 naval_base = 1
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+party_loyalty = {
+    ideology = liberal
+    loyalty_value = 20
+}
+party_loyalty = {
+    ideology = conservative
+    loyalty_value = 5
+}
+2861.1.1 = { railroad = 3 }

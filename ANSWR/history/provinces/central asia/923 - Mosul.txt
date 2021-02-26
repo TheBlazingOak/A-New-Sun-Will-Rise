@@ -1,6 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = IRQ
+controller = ASY
+owner = ASY
+add_core = ASY
 trade_goods = sulphur
 life_rating = 35

@@ -1,2 +1,5 @@
-trade_goods = timber
-life_rating = 15
+owner = JAL
+controller = JAL
+add_core = JAL
+trade_goods = wool
+life_rating = 35

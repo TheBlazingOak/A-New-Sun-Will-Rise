@@ -1,4 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZtrade_goods = tropical_wood
-life_rating = 25
+owner = RLP
+controller = RLP
+add_core = RLP
+trade_goods = cattle
+terrain = savanna
+life_rating = 33

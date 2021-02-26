@@ -1,6 +1,5 @@
-owner = DEN
-controller = DEN
-add_core = DEN
-add_core = SCA
+owner = VLA
+controller = VLA
+add_core = SAP
 trade_goods = grain
 life_rating = 35

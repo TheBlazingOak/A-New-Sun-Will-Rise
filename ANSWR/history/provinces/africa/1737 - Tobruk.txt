@@ -1,5 +1,8 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = TRI
+controller = TRI
+add_core = TRI
 trade_goods = grain
-life_rating = 35
+life_rating = 32
+terrain = semidesert
+#terrain = coastal_desert
+colonial = 2

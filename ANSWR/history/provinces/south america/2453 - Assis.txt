@@ -1,4 +1,5 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZtrade_goods = coffee
+owner = SJR
+controller = SJR
+add_core = SJR
+trade_goods = timber
 life_rating = 35

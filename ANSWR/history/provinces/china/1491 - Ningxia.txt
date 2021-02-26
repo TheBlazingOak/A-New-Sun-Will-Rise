@@ -1,6 +1,5 @@
-owner = XBI
-controller = XBI
-add_core = CHI
-add_core = XBI
-trade_goods = grain
+owner = QUE
+controller = QUE
+add_core = QUE
+trade_goods = cattle
 life_rating = 32

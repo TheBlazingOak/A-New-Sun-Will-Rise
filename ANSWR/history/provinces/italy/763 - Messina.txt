@@ -1,16 +1,11 @@
-owner = SIC
-controller = SIC
-add_core = SIC
-add_core = ITA
+owner = APU
+controller = APU
+add_core = APU
+add_core = SYC
 trade_goods = sulphur
-life_rating = 35
-#state_building = {
-#	level = 1
-#	building = winery
-#	upgrade = yes
-#}
-1861.1.1 = {
-	controller = ITA
-	owner = ITA
-	add_core = ITA
+life_rating = 29
+state_building = {
+    level = 1
+    building = winery
+    upgrade = yes
 }

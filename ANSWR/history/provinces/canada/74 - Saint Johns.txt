@@ -1,7 +1,8 @@
-owner = ENG
-controller = ENG
+owner = QUE
+controller = QUE
+add_core = NIW
 add_core = NEW
-add_core = CAN
+add_core = QUE
 trade_goods = fish
+terrain = new_world_boreal
 life_rating = 35
-colonial = 2

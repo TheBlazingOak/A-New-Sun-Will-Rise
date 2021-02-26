@@ -1,5 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = NUH
+controller = NUH
+add_core = NUH
 trade_goods = tobacco
-life_rating = 35
+terrain = new_world_semidesert
+life_rating = 31

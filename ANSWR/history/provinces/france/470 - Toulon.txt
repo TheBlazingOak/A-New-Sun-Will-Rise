@@ -1,10 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
-trade_goods = silk
-life_rating = 33
-naval_base = 2
-1861.1.1 = { 
-	railroad = 3
-	naval_base = 3
-}
+owner = TTB
+controller = TTB
+add_core = TTB
+trade_goods = coal
+terrain = savanna
+life_rating = 35

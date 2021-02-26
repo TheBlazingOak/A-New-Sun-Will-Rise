@@ -1,7 +1,7 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = WKK
+controller = WKK
+add_core = WKK
+add_core = COW
+add_core = CSA
 trade_goods = tobacco
 life_rating = 35
-1861.1.1 = {	owner = CSA	controller = CSA	add_core = CSA}
-1861.1.1 = { railroad = 3 }

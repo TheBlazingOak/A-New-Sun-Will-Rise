@@ -1,0 +1,196 @@
+#GPs
+NET = { value = 50 }
+AUS = { value = -150 }
+UNS = { value = 0 }
+PRP = { value = -200 }
+
+army = {
+    name = "I. Armée du Duc"
+    location = 416
+    regiment = {
+        name= "I. Bataillon populaire"
+        type = infantry
+        home = 418
+    }
+    regiment = {
+        name= "II. Bataillon populaire"
+        type = infantry
+        home = 418
+    }
+    regiment = {
+        name= "III. Bataillon populaire"
+        type = infantry
+        home = 401
+    }
+    regiment = {
+        name= "IV. Bataillon populaire"
+        type = infantry
+        home = 415
+    }
+    regiment = {
+        name= "I. Lignes D'Artillerie"
+        type = artillery
+        home = 416
+    }
+    regiment = {
+        name= "II. Lignes D'Artillerie"
+        type = artillery
+        home = 417
+    }
+    regiment = {
+        name= "III. Lignes D'Artillerie"
+        type = artillery
+        home = 435
+    }
+    regiment = {
+        name= "I. Divisions De Chevaux"
+        type = hussar
+        home = 436
+    }
+    regiment = {
+        name= "II. Divisions De Chevaux"
+        type = hussar
+        home = 440
+    }
+}
+
+army = {
+    name = "II. Armée du Duc"
+    location = 418
+    regiment = {
+        name= "I. Bataillon populaire"
+        type = infantry
+        home = 418
+    }
+    regiment = {
+        name= "I. Bataillon populaire"
+        type = infantry
+        home = 418
+    }
+    regiment = {
+        name= "I. Bataillon populaire"
+        type = infantry
+        home = 435
+    }
+    regiment = {
+        name= "II. Bataillon populaire"
+        type = infantry
+        home = 415
+    }
+    regiment = {
+        name= "III. Bataillon populaire"
+        type = infantry
+        home = 403
+    }
+    regiment = {
+        name= "I. Lignes D'Artillerie"
+        type = artillery
+        home = 405
+    }
+    regiment = {
+        name= "I. Divisions De Chevaux"
+        type = hussar
+        home = 405
+    }
+    regiment = {
+        name= "II. Lignes D'Artillerie"
+        type = artillery
+        home = 417
+    }
+    regiment = {
+        name= "III. Lignes D'Artillerie"
+        type = artillery
+        home = 440
+    }
+}
+
+navy = {
+    name = "Marine Rouges"
+    location = 418
+    ship = {
+        name= "Couronne"
+        type = manowar
+    }
+
+    ship = {
+        name= "Superbe"
+        type = manowar
+    }
+
+    ship = {
+        name= "Jean Bart"
+        type = manowar
+    }
+
+    ship = {
+        name= "Dix-huit Fructidor"
+        type = manowar
+    }
+
+    ship = {
+        name= "Wagram"
+        type = manowar
+    }
+
+    ship = {
+        name= "Trocadero "
+        type = manowar
+    }
+
+    ship = {
+        name= "Zélandais"
+        type = manowar
+    }
+
+    ship = {
+        name= "Superbe"
+        type = manowar
+    }
+
+    ship = {
+        name= "Austerlitz"
+        type = manowar
+    }
+
+    ship = {
+        name= "Magnifique"
+        type = manowar
+    }
+
+    ship = {
+        name= "République Française"
+        type = manowar
+    }
+
+    ship = {
+        name= "Duchesse de Berry"
+        type = frigate
+    }
+}
+
+leader = {
+    name = "Timothée Laflèche"
+    date = 2835.12.1
+    type = land
+    personality = skilled
+    background = nationalist
+    prestige = 0.3
+}
+
+leader = {
+    name = "Robin Barrande"
+    date = 2830.1.1
+    type = land
+    personality = resolute
+    background = cavalry_school
+    prestige = 0.2
+}
+
+leader = {
+    name = "Cédric Brousseau"
+    date = 2835.12.1
+    type = sea
+    personality = coward
+    background = priest
+    prestige = 0.1
+}

@@ -1,6 +1,7 @@
-owner = FRA
-controller = FRA
+owner = OCC
+controller = OCC
+add_core = OCC
 add_core = FRA
-trade_goods = tobacco
-life_rating = 30
-1861.1.1 = { railroad = 3 }
+trade_goods = grain
+life_rating = 35
+2861.1.1 = { railroad = 3 }

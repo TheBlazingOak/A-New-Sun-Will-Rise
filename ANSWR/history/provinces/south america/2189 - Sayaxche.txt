@@ -1,10 +1,6 @@
-owner = UCA
-controller = UCA
-add_core = UCA
+owner = YUC
+controller = YUC
+add_core = YUC
 add_core = GUA
 trade_goods = timber
-life_rating = 30
-1861.1.1 = {
-	owner = GUA
-	controller = GUA
-}
+life_rating = 25

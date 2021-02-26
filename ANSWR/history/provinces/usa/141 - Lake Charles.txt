@@ -1,10 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = TEX
+controller = TEX
+add_core = TEX
 trade_goods = sulphur
-life_rating = 35
-1861.1.1 = {
-	controller = CSA
-	owner = CSA
-	add_core = CSA
-}
+life_rating = 34
+

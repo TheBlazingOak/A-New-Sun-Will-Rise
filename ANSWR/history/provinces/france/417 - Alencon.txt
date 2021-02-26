@@ -1,6 +1,12 @@
-owner = FRA
-controller = FRA
+owner = DPA
+controller = DPA
+add_core = DPA
 add_core = FRA
 trade_goods = cotton
-life_rating = 32
-1861.1.1 = { railroad = 3 }
+life_rating = 31
+state_building = {
+    level = 1
+    building = fabric_factory
+    upgrade = yes
+}
+2861.1.1 = { railroad = 3 }

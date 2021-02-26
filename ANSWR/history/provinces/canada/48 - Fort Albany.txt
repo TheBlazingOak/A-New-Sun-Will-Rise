@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = CAN
+owner = ONT
+controller = ONT
+add_core = ONT
 trade_goods = fish
-life_rating = 35
-colonial = 2
+terrain = new_world_boreal
+life_rating = 20

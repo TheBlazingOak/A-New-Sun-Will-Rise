@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
+owner = OCC
+controller = OCC
+add_core = OCC
 add_core = FRA
 trade_goods = timber
-life_rating = 31
+life_rating = 35

@@ -1,9 +1,10 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = ANM
+controller = ANM
+add_core = ANM
 trade_goods = grain
 life_rating = 35
-colony = 2
-1861.1.1 = {
-	colony = 0
-	}
+
+party_loyalty = {
+    ideology = anarcho_liberal
+    loyalty_value = 50
+}

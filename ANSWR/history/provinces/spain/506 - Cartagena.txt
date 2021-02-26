@@ -1,10 +1,10 @@
-owner = SPA
-controller = SPA
-add_core = SPA
-trade_goods = iron
+owner = DMN
+controller = DMN
+add_core = DMN
+trade_goods = fish
 life_rating = 35
 naval_base = 1
-1861.1.1 = { 
-	railroad = 3 
-	naval_base = 3
+2861.1.1 = {
+    railroad = 3
+    naval_base = 3
 }

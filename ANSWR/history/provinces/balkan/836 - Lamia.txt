@@ -1,5 +1,5 @@
-owner = GRE
-controller = GRE
-add_core = GRE
+owner = NEH
+controller = NEH
+add_core = NEH
 trade_goods = cotton
 life_rating = 35

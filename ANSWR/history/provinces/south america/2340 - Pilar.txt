@@ -1,5 +1,5 @@
-owner = PRG
-controller = PRG
-add_core = PRG
-trade_goods = timber
-life_rating = 30
+owner = RLP
+controller = RLP
+add_core = RLP
+trade_goods = grain
+life_rating = 39

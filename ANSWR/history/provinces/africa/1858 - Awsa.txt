@@ -1,5 +1,14 @@
-owner = ETH
-controller = ETH
+owner = AWS
+controller = AWS
+add_core = AWS
+add_core = TIG
 add_core = ETH
 trade_goods = grain
-life_rating = 30
+terrain = desert
+life_rating = 10
+2861.1.1 = {
+    owner = ETH
+    controller = ETH
+    remove_core = TIG
+    remove_core = AWS
+}

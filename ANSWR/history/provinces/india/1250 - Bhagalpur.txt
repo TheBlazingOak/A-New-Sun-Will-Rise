@@ -1,7 +1,8 @@
-owner = ENG
-controller = ENG
+owner = BNG
+controller = BNG
 add_core = HND
-trade_goods = opium
+add_core = BNG
+trade_goods = fish
 life_rating = 32
 colonial = 2
-1861.1.1 = { railroad = 3 }
+2861.1.1 = { railroad = 3 }

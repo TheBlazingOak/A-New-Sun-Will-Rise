@@ -1,6 +1,6 @@
-owner = PRG
-controller = PRG
-add_core = PRG
-add_core = BRZ
+owner = RLP
+controller = RLP
+add_core = RLP
 trade_goods = sulphur
-life_rating = 25
+terrain = savanna
+life_rating = 31

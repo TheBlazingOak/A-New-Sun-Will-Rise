@@ -1,6 +1,6 @@
-owner = GXI
-controller = GXI
+owner = QNG
+controller = QNG
 add_core = CHI
 add_core = GXI
-trade_goods = cotton
+trade_goods = fish
 life_rating = 32

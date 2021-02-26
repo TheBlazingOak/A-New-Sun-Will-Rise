@@ -1,5 +1,10 @@
-owner = POR
-controller = POR
+owner = KON
+controller = KON
+add_core = KON
 trade_goods = fruit
 life_rating = 35
-colonial = 2
+2861.1.1 = {
+    owner = POR
+    controller = POR
+    colonial = 2
+}

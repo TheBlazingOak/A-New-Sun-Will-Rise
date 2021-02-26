@@ -1,7 +1,10 @@
-trade_goods = tropical_wood
-life_rating = 15
-1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
+owner = OYO
+controller = OYO
+add_core = OYO
+trade_goods = fish
+life_rating = 35
+2861.1.1 = {
+    owner = ENG
+    controller = ENG
+    colonial = 2
 }

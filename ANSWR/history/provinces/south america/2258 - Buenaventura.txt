@@ -1,6 +1,5 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = GCO
+owner = GAR
+controller = GAR
+add_core = GAR
 trade_goods = fish
-life_rating = 30
+life_rating = 34

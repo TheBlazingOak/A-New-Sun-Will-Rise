@@ -1,6 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = GRE
+owner = NEH
+controller = NEH
+add_core = NEH
 trade_goods = fruit
 life_rating = 35

@@ -1,6 +1,10 @@
-owner = ENG
-controller = ENG
-add_core = CAN
+owner = ONT
+controller = ONT
+add_core = ONT
 trade_goods = grain
-life_rating = 35
-colonial = 2
+life_rating = 39
+    state_building = {
+        level = 1
+        building = steel_factory
+        upgrade = yes
+    }

@@ -1,2 +1,4 @@
-trade_goods = cotton
-life_rating = 15
+add_core = BUG
+trade_goods = cattle
+terrain = savanna
+life_rating = 10

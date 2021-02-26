@@ -1,7 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = CAN
+owner = QUE
+controller = QUE
 add_core = QUE
 trade_goods = cattle
-life_rating = 35
-colonial = 2
+life_rating = 30

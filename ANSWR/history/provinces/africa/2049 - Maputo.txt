@@ -1,5 +1,11 @@
-owner = POR
-controller = POR
-trade_goods = grain
+owner = GAZ
+controller = GAZ
+add_core = GAZ
+trade_goods = fish
+terrain = savanna
 life_rating = 35
-colonial = 2
+2861.1.1 = {
+    owner = POR
+    controller = POR
+    colonial = 2
+}

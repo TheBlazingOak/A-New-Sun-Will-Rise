@@ -1,6 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = GRE
+owner = MCD
+controller = MCD
+add_core = MCD
 trade_goods = coal
 life_rating = 35

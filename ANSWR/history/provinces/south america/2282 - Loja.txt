@@ -1,6 +1,5 @@
-owner = ECU
-controller = ECU
-add_core = ECU
-add_core = GCO
+owner = CSK
+controller = CSK
+add_core = CSK
 trade_goods = cattle
-life_rating = 30
+life_rating = 31

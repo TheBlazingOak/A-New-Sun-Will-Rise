@@ -1,6 +1,7 @@
-owner = FRA
-controller = FRA
+owner = AUV
+controller = AUV
+add_core = AUV
 add_core = FRA
 trade_goods = coal
-life_rating = 30
-1861.1.1 = { railroad = 2 }
+life_rating = 31
+2861.1.1 = { railroad = 2 }

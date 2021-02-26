@@ -1,28 +1,29 @@
-owner = FRA
-controller = FRA
+owner = PRP
+controller = PRP
+add_core = PRP
 add_core = FRA
 trade_goods = fruit
-life_rating = 35
+life_rating = 32
 #state_building = {
-#	level = 1
-#	building = furniture_factory
-#	upgrade = yes
+#    level = 1
+#    building = furniture_factory
+#    upgrade = yes
 #}
 #state_building = {
-#	level = 1
-#	building = fertilizer_factory
-#	upgrade = yes
+#    level = 1
+#    building = fertilizer_factory
+#    upgrade = yes
 #}
 #state_building = {
-#	level = 1
-#	building = small_arms_factory
-#	upgrade = yes
+#    level = 1
+#    building = small_arms_factory
+#    upgrade = yes
 #}
-1861.1.1 = {
-	state_building = {
-		level = 1
-		building = winery
-		upgrade = yes
-	}
+2861.1.1 = {
+    state_building = {
+        level = 1
+        building = winery
+        upgrade = yes
+    }
 }
-1861.1.1 = { railroad = 3 }
+2861.1.1 = { railroad = 3 }

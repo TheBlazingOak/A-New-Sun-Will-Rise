@@ -1,6 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = CLV
+controller = CLV
+add_core = CLV
+terrain = urban
 trade_goods = fish
 life_rating = 35
 colonial = 2

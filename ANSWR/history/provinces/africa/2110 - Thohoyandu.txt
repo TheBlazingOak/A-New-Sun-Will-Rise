@@ -1,6 +1,15 @@
-owner = TRN
-controller = TRN
+owner = GAZ
+controller = GAZ
+add_core = GAZ
+add_core = MAT
 add_core = TRN
-add_core = SAF
-trade_goods = grain
-life_rating = 35
+terrain = mountain
+trade_goods = wool
+life_rating = 15
+2861.1.1 = {
+    owner = TRN
+    controller = TRN
+    add_core = SAF
+    remove_core = MAT
+    life_rating = 35
+}

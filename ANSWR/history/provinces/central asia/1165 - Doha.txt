@@ -1,5 +1,6 @@
-owner = ABU
-controller = ABU
-add_core = ABU
-trade_goods = grain
-life_rating = 35
+owner = NEJ
+controller = NEJ
+add_core = NEJ
+trade_goods = fish
+terrain = semidesert
+life_rating = 34

@@ -1,16 +1,7 @@
-owner = SAR
-controller = SAR
-add_core = SAR
-add_core = ITA
+owner = SWI
+controller = SWI
+add_core = SWI
+add_core = SVY
 trade_goods = fruit
-life_rating = 35
+life_rating = 39
 naval_base = 1
-1861.1.1 = {
-	controller = ITA
-	owner = ITA
-	add_core = ITA
-}
-1861.1.1 = { 
-	railroad = 2 
-	naval_base = 2
-}

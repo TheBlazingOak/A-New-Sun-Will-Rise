@@ -1,15 +1,5 @@
-owner = USA
-controller = USA
-add_core = USA
-trade_goods = grain
+owner = PAW
+controller = PAW
+add_core = PAW
+trade_goods = cotton
 life_rating = 35
-1861.1.1 = {
-	controller = CSA
-	owner = CSA
-	add_core = CSA
-	state_building = {
-		level = 1
-		building = lumber_mill
-		upgrade = yes
-	}
-}

@@ -1,27 +1,12 @@
 capital = 658
 primary_culture = polynesian
+culture = yankee
 religion = protestant
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
-literacy = 0.80
-
-ruling_party = HAW_conservative
-upper_house = {
-	fascist = 0
-	liberal = 28
-	conservative = 59
-	reactionary = 13
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
-}
-
-# Starting Consciousness
-consciousness = 0
-nonstate_consciousness = 0
-
-oob = "HAW_oob.txt"
+nationalvalue = nv_tradition
+literacy = 0.01
+non_state_culture_literacy = 0.01
 
 slavery = no_slavery
 upper_house_composition = appointed
@@ -37,21 +22,55 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+pensions = no_pensions
 school_reforms = no_schools
 
-1861.1.1 = {
-	oob = "/1861/HAW_oob.txt"
-	literacy = 0.83
+# New Reforms
+conscription = no_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
 
-	#Economic Reforms
-	land_reform = yes_land_reform
-	admin_reform = yes_admin_reform
-	
-	#Military Reforms
-	foreign_weapons = yes_foreign_weapons
+set_country_flag = protestant_country
 
-	#Technologies
-	water_wheel_power = 1
-	flintlock_rifles = 1
+ruling_party = HAW_conservative
+upper_house = {
+    fascist = 0
+    liberal = 0
+    conservative = 100
+    reactionary = 0
+    anarcho_liberal = 0
+    socialist = 0
+    communist = 0
+}
+
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
+
+# Inventions
+#bottling_process = yes
+modern_winemaking = yes
+#big_sail_ships = yes
+#sail_ships_transport = yes
+#big_sail_support = yes
+
+oob = "HAW_oob.txt"
+2861.1.1 = {
+
+    literacy = 0.83
+
+    #Economic Reforms
+    land_reform = yes_land_reform
+    admin_reform = yes_admin_reform
+
+    #Military Reforms
+    foreign_weapons = yes_foreign_weapons
+
+    #Technologies
+    piston_steam_engine = 1
+    flintlock_rifles = 1
 }

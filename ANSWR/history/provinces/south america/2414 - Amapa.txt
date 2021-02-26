@@ -1,5 +1,5 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
-trade_goods = tropical_wood
+controller = ASY
+owner = ASY
+add_core = ASY
+trade_goods = grain
 life_rating = 35

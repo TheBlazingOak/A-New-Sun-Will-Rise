@@ -1,7 +1,9 @@
+add_core = CMS
 trade_goods = grain
-life_rating = 35
-1861.1.1 = {
-	owner = FRA
-	controller = FRA
-	colonial = 2
+life_rating = 30
+terrain = small_island
+2861.1.1 = {
+    owner = FRA
+    controller = FRA
+    naval_base = 1
 }

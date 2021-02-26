@@ -1,2 +1,6 @@
-trade_goods = fish
-life_rating = 15
+owner = TRE
+controller = TRE
+add_core = TRE
+terrain = plains
+trade_goods = sulphur
+life_rating = 35

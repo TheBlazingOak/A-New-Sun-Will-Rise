@@ -1,8 +1,5 @@
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = CRO
-add_core = HUN
-add_core = YUG
+owner = DAK
+controller = DAK
+add_core = DAK
 trade_goods = fruit
 life_rating = 35

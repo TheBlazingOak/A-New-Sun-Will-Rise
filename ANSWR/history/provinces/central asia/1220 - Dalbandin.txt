@@ -1,5 +1,7 @@
-owner = KAL
-controller = KAL
-add_core = KAL
+owner = MUG
+controller = MUG
+add_core = MUG
+add_core = HND
 trade_goods = wool
 life_rating = 35
+terrain = dryhills

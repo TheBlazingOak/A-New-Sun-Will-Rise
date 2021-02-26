@@ -1,7 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = ARM
+owner = AZB
+controller = AZB
 add_core = AZB
 trade_goods = wool
 life_rating = 35

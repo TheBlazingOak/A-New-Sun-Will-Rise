@@ -1,6 +1,6 @@
-owner = GXI
-controller = GXI
+owner = QNG
+controller = QNG
 add_core = CHI
-add_core = GXI
+add_core = FJN
 trade_goods = tea
-life_rating = 32
+life_rating = 35

@@ -1,0 +1,27 @@
+name = "War of the Cross"
+
+2789.6.23 = {
+    add_attacker = SWI
+    add_defender = AUS
+    add_defender = BAV
+    add_defender = BRI
+
+    war_goal = {
+        casus_belli = add_state
+        actor = SWI
+        receiver = AUS
+    }
+    war_goal = {
+        casus_belli = add_state
+        actor = SWI
+        receiver = BAV
+    }
+
+}
+
+2792.2.6 = {
+    rem_attacker = SWI
+    rem_defender = AUS
+    rem_defender = BAV
+    rem_defender = BRI
+}

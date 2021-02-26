@@ -1,2 +1,5 @@
-trade_goods = grain
-life_rating = 15
+owner = ASH
+controller = ASH
+add_core = ASH
+trade_goods = fruit
+life_rating = 35

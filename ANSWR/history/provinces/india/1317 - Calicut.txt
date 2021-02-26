@@ -1,7 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = MYS
+owner = TRA
+controller = TRA
+add_core = TRA
 add_core = HND
-trade_goods = tea
+trade_goods = fish
 life_rating = 32
-colonial = 1
+colonial = 2

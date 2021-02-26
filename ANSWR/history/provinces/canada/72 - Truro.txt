@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = CAN
+owner = MRU
+controller = MRU
+add_core = MRU
 trade_goods = timber
 life_rating = 35
-colonial = 2

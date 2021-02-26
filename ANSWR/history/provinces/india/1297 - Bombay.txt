@@ -1,12 +1,12 @@
-owner = ENG
-controller = ENG
+owner = HYD
+controller = HYD
+add_core = HYD
 add_core = HND
-trade_goods = grain
+trade_goods = tobacco
 life_rating = 32
 colonial = 2
 fort = 1
 naval_base = 1
-1861.1.1 = { 
-	railroad = 3 
+2861.1.1 = {
+    railroad = 3
 }
-

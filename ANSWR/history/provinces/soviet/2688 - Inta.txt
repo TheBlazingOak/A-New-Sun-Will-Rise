@@ -1,5 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-trade_goods = fish
-life_rating = 15
+owner = BLZ
+controller = BLZ
+add_core = BLZ
+trade_goods = wool
+terrain = plains
+life_rating = 33

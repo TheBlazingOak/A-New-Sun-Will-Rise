@@ -1,6 +1,7 @@
-owner = ENG
-controller = ENG
+owner = BNG
+controller = BNG
 add_core = HND
-trade_goods = tea
+add_core = BNG
+trade_goods = fruit
 life_rating = 32
 colonial = 2

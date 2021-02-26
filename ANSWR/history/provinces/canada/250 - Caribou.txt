@@ -1,13 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = CAN
+owner = MRU
+controller = MRU
+add_core = MRU
 add_core = NEN
-add_core = USA
-trade_goods = timber
+trade_goods = grain
 life_rating = 35
-colonial = 2
-1861.1.1 = {
-	owner = USA
-	controller = USA
-	colonial = 0
-}

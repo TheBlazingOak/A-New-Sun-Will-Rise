@@ -1,7 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = AST
+owner = AUG
+controller = AUG
+add_core = AUG
 trade_goods = wool
-life_rating = 30
-colonial = 2
-1861.1.1 = { railroad = 1 }
+life_rating = 35

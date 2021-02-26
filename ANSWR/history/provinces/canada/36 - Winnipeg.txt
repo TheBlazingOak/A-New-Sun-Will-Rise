@@ -1,7 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = CAN
-add_core = MTC
+owner = WIN
+controller = WIN
+add_core = WIN
 trade_goods = grain
-life_rating = 35
-colonial = 2
+terrain = forest
+life_rating = 31
+

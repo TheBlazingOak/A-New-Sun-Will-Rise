@@ -1,6 +1,6 @@
 capital = 143
 primary_culture = cherokee
-religion = animist
+religion = protestant
 government = democracy
 plurality = 5.0
 nationalvalue = nv_liberty
@@ -9,13 +9,13 @@ civilized = yes
 
 ruling_party = CHE_conservative
 upper_house = {
-	fascist = 0
-	liberal = 26
-	conservative = 62
-	reactionary = 12
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+    fascist = 0
+    liberal = 26
+    conservative = 62
+    reactionary = 12
+    anarcho_liberal = 0
+    socialist = 0
+    communist = 0
 }
 
 slavery = yes_slavery
@@ -32,10 +32,17 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+pensions = no_pensions
 school_reforms = low_schools
 
-1861.1.1 = {
-	oob = "/1861/CHE_oob.txt"
-	religion = protestant
-}
+#New Reforms
+conscription = four_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+
+set_country_flag = protestant_country
+
+set_country_flag = new_world_nation

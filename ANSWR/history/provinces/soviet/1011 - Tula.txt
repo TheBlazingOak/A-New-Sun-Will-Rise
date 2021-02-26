@@ -1,5 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-trade_goods = grain
-life_rating = 35
+owner = RPL
+controller = RPL
+add_core = RPL
+trade_goods = coal
+terrain = hills
+life_rating = 33

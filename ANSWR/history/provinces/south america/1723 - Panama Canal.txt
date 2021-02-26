@@ -1,8 +1,5 @@
-owner = CLM
-controller = CLM
-add_core = CLM
+owner = PNM
+controller = PNM
 add_core = PNM
-add_core = GCO
-trade_goods = fruit
-life_rating = 30
-1861.1.1 = { railroad = 2 }
+trade_goods = precious_goods
+life_rating = 40

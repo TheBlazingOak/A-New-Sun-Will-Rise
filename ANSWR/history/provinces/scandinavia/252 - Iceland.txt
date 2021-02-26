@@ -1,8 +1,7 @@
-owner = DEN
-controller = DEN
-add_core = DEN
+owner = SAP
+controller = SAP
+add_core = SAP
 add_core = ICL
-add_core = SCA
 trade_goods = fish
-life_rating = 35
+life_rating = 32
 colonial = 2

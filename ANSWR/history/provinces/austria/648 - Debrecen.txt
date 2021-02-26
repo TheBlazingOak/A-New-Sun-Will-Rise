@@ -1,6 +1,5 @@
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = HUN
+owner = GLC
+controller = GLC
+add_core = GLC
 trade_goods = fruit
 life_rating = 35

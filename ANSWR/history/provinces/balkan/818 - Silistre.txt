@@ -1,7 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = BUL
-add_core = ROM 
+owner = SYC
+controller = SYC
+add_core = SYC
 trade_goods = grain
 life_rating = 35

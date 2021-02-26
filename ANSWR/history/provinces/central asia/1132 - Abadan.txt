@@ -1,5 +1,6 @@
-owner = PER
-controller = PER
-add_core = PER
+controller = ASY
+owner = ASY
+add_core = ASY
 trade_goods = fish
-life_rating = 35
+life_rating = 32
+terrain = semidesert

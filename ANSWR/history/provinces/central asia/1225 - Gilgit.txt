@@ -1,10 +1,11 @@
-owner = PAN
-controller = PAN
-add_core = PAN
+owner = PNJ
+controller = PNJ
+add_core = PNJ
 add_core = KAS
-trade_goods = tea
+add_core = HND
+trade_goods = wool
 life_rating = 35
-1861.1.1 = {
-	owner = KAS
-	controller = KAS
+2861.1.1 = {
+    owner = KAS
+    controller = KAS
 }

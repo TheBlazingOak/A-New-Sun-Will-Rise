@@ -1,0 +1,44 @@
+#Romanograd (704000/176000 POPS)
+389 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 3750
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 6000
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 5250
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 132550
+    }
+    serfs = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 65245
+    }
+
+}

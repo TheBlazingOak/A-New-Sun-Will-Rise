@@ -1,8 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = CAN
-add_core = QUE
+owner = MRU
+controller = MRU
+add_core = MRU
 trade_goods = grain
-life_rating = 35
-colonial = 2
-1861.1.1 = { railroad = 2 }
+life_rating = 31

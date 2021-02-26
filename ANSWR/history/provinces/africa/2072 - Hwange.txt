@@ -1,2 +1,9 @@
-trade_goods = cattle
-life_rating = 15
+add_core = ZBW
+terrain = savanna
+trade_goods = grain
+life_rating = 10
+2861.1.1 = {
+    owner = MAT
+    controller = MAT
+    life_rating = 35
+}

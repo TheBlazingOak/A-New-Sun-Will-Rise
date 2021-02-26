@@ -1,5 +1,6 @@
-owner = JAP
-controller = JAP
-add_core = JAP
-trade_goods = tobacco
+owner = TOS
+controller = TOS
+add_core = TOS
+add_core = TKG
+trade_goods = fruit
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = AST
+owner = ION
+controller = ION
+add_core = ION
 trade_goods = cattle
-life_rating = 30
-colonial = 2
+terrain = savanna
+life_rating = 32

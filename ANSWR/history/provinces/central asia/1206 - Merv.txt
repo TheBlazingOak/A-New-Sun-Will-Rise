@@ -1,5 +1,8 @@
-owner = KHI
-controller = KHI
+owner = BUK
+controller = BUK
 add_core = KHI
-trade_goods = cotton
+add_core = BUK
+add_core = TKM
+trade_goods = grain
 life_rating = 35
+terrain = semidesert

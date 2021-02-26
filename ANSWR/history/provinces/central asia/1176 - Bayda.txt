@@ -1,5 +1,6 @@
-owner = YEM
-controller = YEM
-add_core = YEM
+owner = NEJ
+controller = NEJ
+add_core = NEJ
 trade_goods = fish
-life_rating = 35
+life_rating = 32
+terrain = semidesert

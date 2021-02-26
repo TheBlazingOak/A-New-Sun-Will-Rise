@@ -1,5 +1,6 @@
-owner = JAP
-controller = JAP
-add_core = JAP
-trade_goods = iron
+owner = YZW
+controller = YZW
+add_core = YZW
+add_core = TKG
+trade_goods = wool
 life_rating = 35

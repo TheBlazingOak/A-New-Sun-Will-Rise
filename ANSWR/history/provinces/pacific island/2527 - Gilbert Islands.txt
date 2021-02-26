@@ -1,2 +1,6 @@
-trade_goods = fish
-life_rating = 15
+owner = UIL
+controller = UIL
+add_core = UIL
+trade_goods = coal
+life_rating = 33
+terrain = hills

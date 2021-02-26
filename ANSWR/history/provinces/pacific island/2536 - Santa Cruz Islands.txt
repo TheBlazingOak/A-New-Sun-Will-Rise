@@ -1,2 +1,6 @@
-trade_goods = fish
-life_rating = 15
+owner = ION
+controller = ION
+add_core = ION
+trade_goods = coal
+terrain = hills
+life_rating = 35

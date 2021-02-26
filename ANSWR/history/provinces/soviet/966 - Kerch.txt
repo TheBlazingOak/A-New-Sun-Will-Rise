@@ -1,7 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = UKR
+owner = CRI
+controller = CRI
 add_core = CRI
 trade_goods = iron
 life_rating = 35

@@ -1,6 +1,7 @@
-owner = FRA
-controller = FRA
+owner = DPA
+controller = DPA
+add_core = DPA
 add_core = FRA
-trade_goods = cotton
-life_rating = 35
-1861.1.1 = { railroad = 3 }
+trade_goods = fish
+life_rating = 32
+2861.1.1 = { railroad = 3 }

@@ -1,6 +1,5 @@
-owner = HAN
-controller = HAN
-add_core = HAN
-add_core = GER
+owner = VLA
+controller = VLA
+add_core = VLA
 trade_goods = cattle
 life_rating = 40

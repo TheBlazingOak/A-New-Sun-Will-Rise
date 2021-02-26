@@ -1,12 +1,10 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = CRE
+controller = CRE
 add_core = CRE
-add_core = GRE
 trade_goods = fruit
 life_rating = 35
 
-1861.1.1 = {
-	controller = TUR 
-	owner = TUR
+2861.1.1 = {
+    controller = TUR
+    owner = TUR
 }

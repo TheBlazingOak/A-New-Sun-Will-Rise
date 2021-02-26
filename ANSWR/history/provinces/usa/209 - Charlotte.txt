@@ -1,7 +1,16 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = CRA
+controller = CRA
+add_core = CRA
+add_core = CSA
 trade_goods = tobacco
 life_rating = 35
-railroad = 11861.1.1 = {	controller = CSA	owner = CSA	add_core = CSA}
-1861.1.1 = { railroad = 3 }
+railroad = 1
+
+party_loyalty = {
+    ideology = conservative
+    loyalty_value = 5
+}
+party_loyalty = {
+    ideology = liberal
+    loyalty_value = 20
+}

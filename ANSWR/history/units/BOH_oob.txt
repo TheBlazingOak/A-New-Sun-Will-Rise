@@ -1,0 +1,147 @@
+#Sphere of Influence
+
+#Other GP/Nations
+NET = { value = 125 }
+AUS = { value = -100 }
+
+
+#Army
+
+army = {
+    name = "I. Mistrhlidat"
+    location = 625
+    regiment = {
+        name= "1. Kalvarie"
+        type = hussar
+        home = 625
+    }
+
+    regiment = {
+        name= "2. Kalvarie"
+        type = hussar
+        home = 629
+    }
+
+    regiment = {
+        name= "1. Kralovskapechota"
+        type = infantry
+        home = 625
+    }
+
+    regiment = {
+        name= "2. Kralovskapechota"
+        type = infantry
+        home = 630
+    }
+
+    regiment = {
+        name= "3. Kralovskapechota"
+        type = infantry
+        home = 618
+    }
+
+    regiment = {
+        name= "4. Kralovskapechota"
+        type = infantry
+        home = 626
+    }
+
+    regiment = {
+        name= "1. Kralovskedelostrelectvo"
+        type = artillery
+        home = 631
+    }
+
+    regiment = {
+        name= "2. Kralovskedelostrelectvo"
+        type = artillery
+        home = 631
+    }
+
+    regiment = {
+        name= "3. Kralovskedelostrelectvo"
+        type = artillery
+        home = 625
+    }
+
+    regiment = {
+        name= "4. Kralovskedelostrelectvo"
+        type = artillery
+        home = 625
+    }
+}
+
+army = {
+    name = "I. Slezskovojsko"
+    location = 682
+    regiment = {
+        name= "1. Slezskokalvarie"
+        type = hussar
+        home = 682
+    }
+    regiment = {
+        name= "1. Slezskopechota"
+        type = infantry
+        home = 682
+    }
+    regiment = {
+        name= "2. Slezskopechota"
+        type = infantry
+        home = 683
+    }
+    regiment = {
+        name= "3. Slezskopechota"
+        type = infantry
+        home = 703
+    }
+    regiment = {
+        name= "1. Slezskodelostrelectvo"
+        type = artillery
+        home = 689
+    }
+    regiment = {
+        name= "2. Slezskodelostrelectvo"
+        type = artillery
+        home = 688
+    }
+    regiment = {
+        name= "3. Slezskodelostrelectvo"
+        type = artillery
+        home = 684
+    }    
+}
+leader = {
+    name = "Johan van Kampioen"
+    date = 2834.1.1
+    type = land
+    personality = au_fait
+    background = bootlicker
+    prestige = 0.5
+}
+
+leader = {
+    name = "David Volf"
+    date = 2836.1.1
+    type = land
+    personality = resolute
+    background = uncommonly_young
+    prestige = 0.05
+}
+
+leader = {
+    name = "Pavel Suchanek"
+    date = 2825.1.1
+    type = land
+    personality = ballsy
+    background = elderly
+    prestige = 0.3
+}
+
+leader = {
+    name = "Teodor Kubik"
+    date = 2815.1.1
+    type = land
+    personality = clever
+    background = colonial_b
+    prestige = 0.3
+}

@@ -1,9 +1,5 @@
-owner = USA
-controller = USA
-add_core = USA
-trade_goods = iron
-life_rating = 35
-colony = 2
-1861.1.1 = {
-	colony = 0
-	}
+owner = WIN
+controller = WIN
+add_core = WIN
+trade_goods = fish
+life_rating = 33

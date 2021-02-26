@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
-trade_goods = fish
+owner = ONT
+controller = ONT
+add_core = ONT
+trade_goods = timber
 life_rating = 20
-colonial = 2

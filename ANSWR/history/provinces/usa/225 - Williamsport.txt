@@ -1,6 +1,7 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = NEN
+controller = NEN
+add_core = NEN
+add_core = PEN
 trade_goods = coal
 life_rating = 35
-1861.1.1 = { railroad = 2 }
+terrain = montane_forest

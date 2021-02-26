@@ -1,9 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = DES
+controller = DES
+add_core = DES
 trade_goods = grain
-life_rating = 35
-colony = 2
-1861.1.1 = {
-	colony = 0
-	}
+terrain = mountain
+life_rating = 20

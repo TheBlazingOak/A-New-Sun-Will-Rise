@@ -1,9 +1,6 @@
-owner = SWE
-controller = SWE
-add_core = SWE
-add_core = SCA
-add_core = NOR
-add_core = JAN
-trade_goods = fish
+owner = RPL
+controller = RPL
+add_core = RPL
+trade_goods = cotton
 life_rating = 35
-terrain = arctic
+terrain = plains

@@ -1,6 +1,9 @@
-owner = ENG
-controller = ENG
-add_core = SAF
 trade_goods = grain
-life_rating = 35
-colonial = 2
+life_rating = 15
+terrain = semidesert
+colonial = 1
+2861.1.1 = {
+    owner = ENG
+    controller = ENG
+    add_core = SAF
+}

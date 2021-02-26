@@ -1,0 +1,200 @@
+#GPs
+NET = { value = -25 }
+AUS = { value = -100 }
+UNS = { value = -50 }
+BRI = { value = -75 }
+
+ALS = { value = -75 }
+DPA = { value = -200 }
+
+army = {
+    name = "I. Armée Populaire"
+    location = 427
+    regiment = {
+        name= "I. Bataillon populaire"
+        type = infantry
+        home = 425
+    }
+    regiment = {
+        name= "II. Bataillon populaire"
+        type = infantry
+        home = 425
+    }
+    regiment = {
+        name= "III. Bataillon populaire"
+        type = infantry
+        home = 425
+    }
+    regiment = {
+        name= "IV. Bataillon populaire"
+        type = infantry
+        home = 426
+    }
+    regiment = {
+        name= "I. Lignes D'Artillerie"
+        type = artillery
+        home = 426
+    }
+    regiment = {
+        name= "II. Lignes D'Artillerie"
+        type = artillery
+        home = 427
+    }
+    regiment = {
+        name= "III. Lignes D'Artillerie"
+        type = artillery
+        home = 438
+    }
+    regiment = {
+        name= "I. Divisions De Chevaux"
+        type = cuirassier
+        home = 439
+    }
+    regiment = {
+        name= "II. Divisions De Chevaux"
+        type = cuirassier
+        home = 428
+    }
+}
+
+army = {
+    name = "II. Armée Populaire"
+    location = 406
+    regiment = {
+        name= "I. Bataillon populaire"
+        type = infantry
+        home = 429
+    }
+    regiment = {
+        name= "II. Bataillon populaire"
+        type = infantry
+        home = 406
+    }
+    regiment = {
+        name= "III. Bataillon populaire"
+        type = infantry
+        home = 406
+    }
+    regiment = {
+        name= "I. Lignes D'Artillerie"
+        type = artillery
+        home = 428
+    }
+    regiment = {
+        name= "I. Divisions De Chevaux"
+        type = cuirassier
+        home = 439
+    }
+}
+
+navy = {
+    name = "Marine Rouges"
+    location = 439
+    ship = {
+        name= "Couronne"
+        type = manowar
+    }
+
+    ship = {
+        name= "Superbe"
+        type = manowar
+    }
+
+    ship = {
+        name= "Jean Bart"
+        type = manowar
+    }
+
+    ship = {
+        name= "Dix-huit Fructidor"
+        type = manowar
+    }
+
+    ship = {
+        name= "Wagram"
+        type = manowar
+    }
+
+    ship = {
+        name= "Trocadero "
+        type = manowar
+    }
+
+    ship = {
+        name= "Zélandais"
+        type = manowar
+    }
+
+    ship = {
+        name= "Superbe"
+        type = manowar
+    }
+
+    ship = {
+        name= "Austerlitz"
+        type = manowar
+    }
+
+    ship = {
+        name= "Magnifique"
+        type = manowar
+    }
+
+    ship = {
+        name= "République Française"
+        type = manowar
+    }
+
+    ship = {
+        name= "Duchesse de Berry"
+        type = frigate
+    }
+
+    ship = {
+        name= "Thétis"
+        type = frigate
+    }
+
+    ship = {
+        name= "Astrée"
+        type = frigate
+    }
+
+    ship = {
+        name= "Amazone"
+        type = frigate
+    }
+
+    ship = {
+        name= "Clorinde"
+        type = frigate
+    }
+
+}
+
+leader = {
+    name = "Gauthier Delafosse"
+    date = 2835.12.1
+    type = land
+    personality = defiant
+    background = sucker
+    prestige = 0.15
+}
+
+leader = {
+    name = "Roland Maret"
+    date = 2830.1.1
+    type = land
+    personality = heroic
+    background = hated
+    prestige = 0.15
+}
+
+leader = {
+    name = "Cédric Brousseau"
+    date = 2835.12.1
+    type = sea
+    personality = cautious
+    background = engineer
+    prestige = 0.05
+}

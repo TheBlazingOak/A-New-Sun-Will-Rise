@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = AST
+owner = BRE
+controller = BRE
+add_core = BRE
 trade_goods = cattle
-life_rating = 15
-colonial = 2
+life_rating = 33

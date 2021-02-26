@@ -1,11 +1,8 @@
-owner = ENG
-controller = ENG
+owner = ANI
+controller = ANI
+add_core = ANI
 add_core = ENG
 trade_goods = grain
 life_rating = 35
 naval_base = 2
 fort = 1
-1861.1.1 = { 
-	railroad = 3 
-	naval_base = 3 
-}

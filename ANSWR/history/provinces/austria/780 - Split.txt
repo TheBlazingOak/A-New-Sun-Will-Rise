@@ -1,7 +1,5 @@
 owner = AUS
 controller = AUS
-add_core = AUS
 add_core = CRO
-add_core = YUG
 trade_goods = fish
 life_rating = 35

@@ -1,8 +1,7 @@
-owner = LUB
-controller = LUB
-add_core = LUB
-add_core = GER
+owner = VLA
+controller = VLA
+add_core = VLA
 trade_goods = fish
 life_rating = 40
 naval_base = 1
-1861.1.1 = { railroad = 3 }
+2861.1.1 = { railroad = 3 }
