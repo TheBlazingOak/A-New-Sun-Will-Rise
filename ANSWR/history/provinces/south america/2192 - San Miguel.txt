@@ -1,5 +1,10 @@
-owner = GUA
-controller = GUA
+owner = UCA
+controller = UCA
+add_core = UCA
 add_core = ELS
 trade_goods = tropical_wood
-life_rating = 25
+life_rating = 30
+1861.1.1 = {
+	owner = ELS
+	controller = ELS
+}

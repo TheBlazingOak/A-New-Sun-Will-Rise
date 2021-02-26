@@ -1,6 +1,5 @@
-owner = PHL
-controller = PHL
-add_core = PHL
+owner = SPA
+controller = SPA
+add_core = PHI
 trade_goods = tropical_wood
-life_rating = 35
-colonial = 2
+life_rating = 30

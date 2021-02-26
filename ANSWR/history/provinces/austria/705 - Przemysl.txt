@@ -1,6 +1,8 @@
-owner = POL
-controller = POL
+owner = AUS
+controller = AUS
+add_core = AUS
 add_core = POL
+add_core = PLC
 trade_goods = coal
 life_rating = 35
-2861.1.1 = { railroad = 3 }
+1861.1.1 = { railroad = 3 }

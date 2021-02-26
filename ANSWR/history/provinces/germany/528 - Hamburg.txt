@@ -1,8 +1,8 @@
-owner = VLA
-controller = VLA
-add_core = VLA
+owner = HAM
+controller = HAM
+add_core = HAM
+add_core = GER
 trade_goods = fruit
 life_rating = 40
-fort = 1
 naval_base = 1
-2861.1.1 = { railroad = 3 }
+1861.1.1 = { railroad = 3 }

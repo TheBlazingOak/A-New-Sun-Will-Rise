@@ -1,2 +1,6 @@
-trade_goods = cattle
-life_rating = 15
+owner = CLM
+controller = CLM
+add_core = CLM
+add_core = GCO
+trade_goods = timber
+life_rating = 25

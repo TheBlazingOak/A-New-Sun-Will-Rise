@@ -1,16 +1,6 @@
-owner = SLC
-controller = SLC
-add_core = SLC
-add_core = NYO
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = iron
-
-life_rating = 35
-
-party_loyalty = {
-    ideology = conservative
-    loyalty_value = 17
-}
-party_loyalty = {
-    ideology = liberal
-    loyalty_value = 12
-}
+life_rating = 35
+1861.1.1 = { railroad = 3 }

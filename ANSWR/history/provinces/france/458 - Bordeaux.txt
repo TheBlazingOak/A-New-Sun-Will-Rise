@@ -1,23 +1,21 @@
-owner = OCC
-controller = OCC
+owner = FRA
+controller = FRA
 add_core = FRA
-add_core = OCC
-trade_goods = wool
-life_rating = 35
-terrain = forest
+trade_goods = fruit
+life_rating = 31
 #state_building = {
-#    level = 1
-#    building = winery
-#    upgrade = yes
+#	level = 1
+#	building = winery
+#	upgrade = yes
 #}
-2861.1.1 = {
-    state_building = {
-        level = 1
-        building = winery
-        upgrade = yes
-    }
+1861.1.1 = {
+	state_building = {
+		level = 1
+		building = winery
+		upgrade = yes
+	}
 }
-2861.1.1 = {
-    railroad = 3
-    naval_base = 1
+1861.1.1 = { 
+	railroad = 3 
+	naval_base = 1
 }

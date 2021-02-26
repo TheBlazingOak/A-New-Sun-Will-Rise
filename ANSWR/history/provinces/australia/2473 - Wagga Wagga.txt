@@ -1,6 +1,6 @@
-owner = HAM
-controller = HAM
-add_core = HAM
+owner = ENG
+controller = ENG
+add_core = AST
 trade_goods = grain
-terrain = savanna
-life_rating = 20
+life_rating = 30
+colonial = 2

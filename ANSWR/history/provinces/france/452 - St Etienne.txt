@@ -1,18 +1,6 @@
-owner = AUV
-controller = AUV
-add_core = AUV
+owner = FRA
+controller = FRA
 add_core = FRA
-trade_goods = coal
-life_rating = 32
-railroad = 1
-state_building = {
-    level = 1
-    building = regular_clothes_factory
-    upgrade = yes
-}
-state_building = {
-    level = 1
-    building = steel_factory
-    upgrade = yes
-}
-2861.1.1 = { railroad = 2 }
+trade_goods = sulphur
+life_rating = 31
+1861.1.1 = { railroad = 2 }

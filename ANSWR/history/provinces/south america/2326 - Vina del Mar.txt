@@ -1,2 +1,5 @@
-trade_goods = cattle
+owner = CHL
+controller = CHL
+add_core = CHL
+trade_goods = fruit
 life_rating = 35

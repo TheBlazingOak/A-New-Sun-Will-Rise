@@ -1,5 +1,8 @@
-owner = AUS
-controller = AUS
-add_core = VEN
-trade_goods = iron
-life_rating = 35
+add_core = CAN
+trade_goods = grain
+life_rating = 15
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 2
+}

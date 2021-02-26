@@ -1,8 +1,6 @@
-owner = DMN
-controller = DMN
-add_core = DMN
-add_core = MOR
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = fish
-terrain = urban
 life_rating = 35
 colonial = 2

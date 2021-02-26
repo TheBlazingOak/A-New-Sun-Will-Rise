@@ -1,11 +1,5 @@
-owner = GON
-controller = GON
-add_core = GON
+owner = ETH
+controller = ETH
 add_core = ETH
 trade_goods = cattle
-life_rating = 35
-2861.1.1 = {
-    owner = ETH
-    controller = ETH
-    remove_core = GON
-}
+life_rating = 30

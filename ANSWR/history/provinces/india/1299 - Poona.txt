@@ -1,8 +1,7 @@
-owner = HYD
-controller = HYD
-add_core = HYD
+owner = ENG
+controller = ENG
 add_core = HND
 trade_goods = grain
 life_rating = 32
 colonial = 2
-2861.1.1 = { railroad = 3 }
+1861.1.1 = { railroad = 3 }

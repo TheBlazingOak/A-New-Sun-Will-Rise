@@ -1,15 +1,15 @@
-capital = 941
+capital = 718
 primary_culture = byelorussian
 religion = orthodox
-government = presidential_dictatorship
-plurality = 1.0
+government = democracy
+plurality = 0.2
 nationalvalue = nv_order
-literacy = 0.14
+literacy = 0.6
 civilized = yes
-prestige = 5
+
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = yes_meeting
@@ -24,26 +24,18 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions
+pensions = no_pensions 
 school_reforms = no_schools
-
-#New Reforms
-conscription = four_year_draft
-debt_law = peonage
-penal_system = capital_punishment
-child_labor = child_labor_legal
-citizens_rights = primary_culture_only
-border_policy = closed_borders
-
-set_country_flag = orthodox_country
 
 ruling_party = BYE_conservative
 upper_house = {
-    fascist = 0
-    liberal = 36
-    conservative = 40
-    reactionary = 12
-    anarcho_liberal = 12
-    socialist = 0
-    communist = 0
+	fascist = 0
+	liberal = 36
+	conservative = 40
+	reactionary = 12
+	anarcho_liberal = 12
+	socialist = 0
+	communist = 0
 }
+
+

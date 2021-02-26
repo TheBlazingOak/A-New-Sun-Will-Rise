@@ -1,7 +1,6 @@
-owner = DPA
-controller = DPA
-add_core = DPA
+owner = FRA
+controller = FRA
 add_core = FRA
 trade_goods = grain
 life_rating = 32
-2861.1.1 = { railroad = 3 }
+1861.1.1 = { railroad = 3 }

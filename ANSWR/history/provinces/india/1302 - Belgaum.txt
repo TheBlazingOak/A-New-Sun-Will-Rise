@@ -1,6 +1,5 @@
-owner = HYD
-controller = HYD
-add_core = HYD
+owner = ENG
+controller = ENG
 add_core = HND
 trade_goods = fruit
 life_rating = 32

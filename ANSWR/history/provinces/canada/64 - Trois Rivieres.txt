@@ -1,5 +1,7 @@
-owner = QUE
-controller = QUE
+owner = ENG
+controller = ENG
+add_core = CAN
 add_core = QUE
-trade_goods = iron
+trade_goods = grain
 life_rating = 35
+colonial = 2

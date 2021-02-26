@@ -1,5 +1,6 @@
-owner = AMZ
-controller = AMZ
-add_core = AMZ
-trade_goods = fish
+owner = DEN
+controller = DEN
+add_core = DEN
+add_core = SCA
+trade_goods = cattle
 life_rating = 35

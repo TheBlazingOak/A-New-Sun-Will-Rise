@@ -1,7 +1,2 @@
 trade_goods = fish
 life_rating = 15
-terrain = coral_island
-2861.1.1 = {
-    owner = ENG
-    controller = ENG
-}

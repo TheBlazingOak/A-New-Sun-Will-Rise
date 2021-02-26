@@ -1,5 +1,5 @@
-owner = DAL
-controller = DAL
-add_core = DAL
+owner = POR
+controller = POR
+add_core = POR
 trade_goods = wool
 life_rating = 35

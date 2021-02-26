@@ -1,7 +1,12 @@
-owner = TTB
-controller = TTB
-add_core = TTB
-trade_goods = grain
-terrain = hills
+owner = EGY
+controller = EGY
+add_core = EGY
+add_core = CRE
+add_core = GRE
+trade_goods = fruit
 life_rating = 35
 
+1861.1.1 = {
+	controller = TUR 
+	owner = TUR
+}

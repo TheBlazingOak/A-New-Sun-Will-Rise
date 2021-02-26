@@ -1,29 +1,28 @@
-owner = DPA
-controller = DPA
-add_core = DPA
+owner = FRA
+controller = FRA
 add_core = FRA
 trade_goods = coal
-life_rating = 32
+life_rating = 30
 #state_building = {
-#    level = 1
-#    building = explosives_factory
-#    upgrade = yes
+#	level = 1
+#	building = explosives_factory
+#	upgrade = yes
 #}
 #state_building = {
-#    level = 1
-#    building = artillery_factory
-#    upgrade = yes
+#	level = 1
+#	building = artillery_factory
+#	upgrade = yes
 #}
-2861.1.1 = {
-    state_building = {
-        level = 1
-        building = paper_mill
-        upgrade = yes
-    }
-    state_building = {
-        level = 1
-        building = regular_clothes_factory
-        upgrade = yes
-    }
+1861.1.1 = {
+	state_building = {
+		level = 1
+		building = paper_mill
+		upgrade = yes
+	}
+	state_building = {
+		level = 1
+		building = regular_clothes_factory
+		upgrade = yes
+	}
 }
-2861.1.1 = { railroad = 3 }
+1861.1.1 = { railroad = 3 }

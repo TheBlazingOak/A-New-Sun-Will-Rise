@@ -1,5 +1,5 @@
 owner = TIB
 controller = TIB
 add_core = TIB
-trade_goods = grain
-life_rating = 35
+trade_goods = cattle
+life_rating = 30

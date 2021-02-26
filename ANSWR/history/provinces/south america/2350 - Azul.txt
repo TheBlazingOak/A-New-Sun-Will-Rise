@@ -1,6 +1,5 @@
-owner = SJR
-controller = SJR
-add_core = SJR
+owner = ARG
+controller = ARG
+add_core = ARG
 trade_goods = cattle
-terrain = farmlands
-life_rating = 37
+life_rating = 35

@@ -1,6 +1,5 @@
-owner = AUV
-controller = AUV
-add_core = AUV
+owner = FRA
+controller = FRA
 add_core = FRA
 trade_goods = coal
-life_rating = 31
+life_rating = 30

@@ -1,6 +1,6 @@
-owner = CRR
-controller = CRR
-add_core = CRR
+owner = VNZ
+controller = VNZ
+add_core = VNZ
+add_core = GCO
 trade_goods = coffee
-terrain = montane_forest
-life_rating = 32
+life_rating = 30

@@ -1,6 +1,6 @@
-owner = COL
-controller = COL
+owner = ENG
+controller = ENG
+add_core = CAN
 add_core = COL
-terrain = new_world_montane_tundra
-trade_goods = fish
-life_rating = 25
+trade_goods = timber
+life_rating = 35

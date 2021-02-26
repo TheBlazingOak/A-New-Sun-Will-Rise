@@ -1,26 +1,21 @@
-owner = DIX
-controller = DIX
-add_core = DIX
-add_core = CSA
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = cotton
 life_rating = 35
 
 party_loyalty = {
-    ideology = conservative
-    loyalty_value = 5
-}
-party_loyalty = {
-    ideology = liberal
-    loyalty_value = 20
+	ideology = conservative
+	loyalty_value = 15
 }
 
-2861.1.1 = {
-    party_loyalty = {
-    ideology = conservative
-    loyalty_value = 10
+1861.1.1 = {
+	party_loyalty = {
+	ideology = conservative
+	loyalty_value = 20
 }
-    controller = CSA
-    owner = CSA
-    add_core = CSA
+	controller = CSA
+	owner = CSA
+	add_core = CSA
 }
-2861.1.1 = { railroad = 3 }
+1861.1.1 = { railroad = 3 }

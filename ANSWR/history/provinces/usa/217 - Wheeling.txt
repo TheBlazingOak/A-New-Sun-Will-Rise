@@ -1,7 +1,4 @@
-owner = COW
-controller = COW
-add_core = COW
-add_core = CSA
+owner = USAcontroller = USAadd_core = USA
 trade_goods = coal
 life_rating = 35
-terrain = montane_forest
+1861.1.1 = { railroad = 2 }

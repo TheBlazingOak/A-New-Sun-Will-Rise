@@ -1,6 +1,7 @@
-owner = SAP
-controller = SAP
-add_core = SAP
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = SCA
 trade_goods = iron
 life_rating = 35
-2861.1.1 = { railroad = 1 }
+1861.1.1 = { railroad = 1 }

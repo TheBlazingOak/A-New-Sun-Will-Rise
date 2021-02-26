@@ -1,6 +1,7 @@
-owner = SAP
-controller = SAP
-add_core = SAP
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = SCA
+add_core = NOR
 trade_goods = grain
-terrain = montane_tundra
-life_rating = 20
+life_rating = 35

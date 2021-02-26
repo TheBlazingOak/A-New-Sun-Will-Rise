@@ -1,11 +1,10 @@
 owner = BUK
 controller = BUK
-add_core = BDK
+add_core = BUK
 add_core = AFG
-terrain = dryhills
 trade_goods = grain
 life_rating = 35
-2860.1.1 = {
-    owner = AFG
-    controller = AFG
+1861.1.1 = {
+	owner = AFG
+	controller = AFG
 }

@@ -1,7 +1,6 @@
-owner = ATC
-controller = ATC
-add_core = ATC
+owner = ENG
+controller = ENG
 trade_goods = sulphur
 life_rating = 35
 colonial = 2
-2861.1.1 = { railroad = 2 }
+1861.1.1 = { railroad = 2 }

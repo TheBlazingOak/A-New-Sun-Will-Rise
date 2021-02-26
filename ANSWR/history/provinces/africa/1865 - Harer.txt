@@ -1,8 +1,5 @@
-owner = HAR
-controller = HAR
-add_core = HAR
-add_core = WRL
-add_core = SHW
+owner = ETH
+controller = ETH
 add_core = ETH
 trade_goods = coffee
-life_rating = 35
+life_rating = 30

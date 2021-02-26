@@ -1,11 +1,5 @@
-owner = SHK
-controller = SHK
-add_core = SHK
+owner = EGY
+controller = EGY
 add_core = EGY
-add_core = SUD
 trade_goods = grain
-life_rating = 35
-2861.1.1 = {
-    owner = EGY
-    controller = EGY
-}
+life_rating = 30

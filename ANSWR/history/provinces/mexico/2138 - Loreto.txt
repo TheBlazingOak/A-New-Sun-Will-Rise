@@ -1,6 +1,5 @@
-owner = LOS
-controller = LOS
-add_core = LOS
-terrain = new_world_semidesert
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = fish
-life_rating = 32
+life_rating = 35

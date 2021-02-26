@@ -1,6 +1,6 @@
-owner = DMN
-controller = DMN
-add_core = DMN
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = fruit
 life_rating = 35
-2861.1.1 = { railroad = 3 }
+1861.1.1 = { railroad = 3 }

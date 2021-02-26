@@ -1,5 +1,6 @@
-owner = TCA
-controller = TCA
-add_core = TCA
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = GEO
 trade_goods = grain
 life_rating = 35

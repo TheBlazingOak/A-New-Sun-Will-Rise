@@ -1,6 +1,5 @@
-owner = VEN
-controller = VEN
-add_core = VEN
+owner = JAP
+controller = JAP
+add_core = JAP
 trade_goods = fish
-life_rating = 15
-terrain = small_island
+life_rating = 30

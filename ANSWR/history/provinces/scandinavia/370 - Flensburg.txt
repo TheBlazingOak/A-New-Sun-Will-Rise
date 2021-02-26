@@ -1,8 +1,10 @@
-owner = VLA
-controller = VLA
-add_core = SAP
-add_core = VLA
+owner = DEN
+controller = DEN
+add_core = DEN
+add_core = SCH
+add_core = GER
+add_core = SCA
 trade_goods = cattle
 life_rating = 35
 fort = 1
-2861.1.1 = { railroad = 2 }
+1861.1.1 = { railroad = 2 }

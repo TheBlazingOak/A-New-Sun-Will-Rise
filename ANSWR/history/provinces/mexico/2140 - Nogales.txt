@@ -1,6 +1,5 @@
-owner = ARI
-controller = ARI
-add_core = ARI
-terrain = new_world_semidesert
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = grain
-life_rating = 32
+life_rating = 35

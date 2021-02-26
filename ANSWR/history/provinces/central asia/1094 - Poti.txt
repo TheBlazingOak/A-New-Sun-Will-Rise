@@ -1,7 +1,6 @@
-owner = TCA
-controller = TCA
+owner = RUS
+controller = RUS
+add_core = RUS
 add_core = GEO
-add_core = TCA
-trade_goods = fish
+trade_goods = tea
 life_rating = 35
-naval_base = 1

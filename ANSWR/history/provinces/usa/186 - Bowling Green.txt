@@ -1,6 +1,6 @@
-owner = RSB
-controller = RSB
-add_core = RSB
-add_core = CSA
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = cattle
 life_rating = 35
+1861.1.1 = { railroad = 3 }

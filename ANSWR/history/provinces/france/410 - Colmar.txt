@@ -1,6 +1,7 @@
-owner = ALS
-controller = ALS
-add_core = ALS
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = GER
 trade_goods = sulphur
-life_rating = 31
-2861.1.1 = { railroad = 3 }
+life_rating = 30
+1861.1.1 = { railroad = 3 }

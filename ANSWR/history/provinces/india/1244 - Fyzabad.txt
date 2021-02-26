@@ -1,11 +1,11 @@
-owner = BNG
-controller = BNG
+owner = AWA
+controller = AWA
+add_core = AWA
 add_core = HND
-add_core = BNG
 trade_goods = timber
 life_rating = 32
-2861.1.1 = {
-    owner = ENG
-    controller = ENG
-    colonial = 2
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 2
 }

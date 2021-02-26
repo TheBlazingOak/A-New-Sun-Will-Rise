@@ -1,6 +1,6 @@
-owner = CRE
-controller = CRE
-add_core = CRE
-trade_goods = fruit
+owner = ION
+controller = ION
+add_core = ION
+add_core = GRE
+trade_goods = fish
 life_rating = 35
-terrain = small_island

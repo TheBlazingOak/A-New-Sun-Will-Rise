@@ -1,5 +1,7 @@
-owner = HEK
-controller = HEK
-add_core = HEK
-trade_goods = sulphur
-life_rating = 39
+owner = NAS
+controller = NAS
+add_core = NAS
+add_core = GER
+trade_goods = fruit
+life_rating = 40
+1861.1.1 = { railroad = 3 }

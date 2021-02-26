@@ -1,6 +1,7 @@
-owner = UKR
-controller = UKR
+owner = RUS
+controller = RUS
+add_core = RUS
 add_core = UKR
+#add_core = PLC
 trade_goods = coal
-life_rating = 39
-terrain = mining_district
+life_rating = 35

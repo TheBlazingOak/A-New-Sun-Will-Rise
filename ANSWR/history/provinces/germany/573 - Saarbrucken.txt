@@ -1,7 +1,8 @@
-owner = RHI
-controller = RHI
-add_core = RHI
+owner = PRU
+controller = PRU
+add_core = PRU
+add_core = GER
 trade_goods = coal
-life_rating = 39
+life_rating = 40
 fort = 1
-terrain = mining_district
+1861.1.1 = { railroad = 3 }

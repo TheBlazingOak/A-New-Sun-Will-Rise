@@ -1,6 +1,9 @@
-owner = CPL
-controller = CPL
-add_core = CPL
+owner = RUS
+controller = RUS
+add_core = RUS
 trade_goods = fish
-terrain = montane_tundra
-life_rating = 35
+life_rating = 20
+1861.1.1 = {
+	fort = 1
+	naval_base = 1
+}

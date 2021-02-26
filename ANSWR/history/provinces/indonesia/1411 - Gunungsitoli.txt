@@ -1,6 +1,5 @@
-owner = ATJ
-controller = ATJ
-add_core = ATJ
-add_core = SAK
+owner = NET
+controller = NET
 trade_goods = fish
-life_rating = 32
+life_rating = 30
+colonial = 2

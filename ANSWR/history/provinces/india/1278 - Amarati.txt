@@ -1,7 +1,6 @@
 owner = HYD
 controller = HYD
 add_core = HYD
-add_core = NAG
 add_core = HND
-trade_goods = cattle
+trade_goods = tea
 life_rating = 32

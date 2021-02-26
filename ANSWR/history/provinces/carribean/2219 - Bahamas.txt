@@ -1,7 +1,5 @@
-owner = CUB
-controller = CUB
-add_core = CUB
+owner = ENG
+controller = ENG
 trade_goods = cotton
 life_rating = 35
 colonial = 2
-terrain = new_world_plains

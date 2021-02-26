@@ -1,6 +1,13 @@
-owner = PRI
-controller = PRI
-add_core = PRI
-terrain = plains
-trade_goods = fish
+owner = USA
+controller = USA
+add_core = USA
+trade_goods = cotton
 life_rating = 35
+
+railroad = 1
+1861.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+}
+1861.1.1 = { railroad = 3 }

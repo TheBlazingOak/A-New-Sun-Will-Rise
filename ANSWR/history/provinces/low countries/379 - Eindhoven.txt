@@ -1,6 +1,5 @@
-owner = OMS
-controller = OMS
-add_core = OMS
+owner = NET
+controller = NET
+add_core = NET
 trade_goods = coal
 life_rating = 35
-terrain = mining_district

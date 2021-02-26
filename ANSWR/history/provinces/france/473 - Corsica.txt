@@ -1,7 +1,5 @@
-owner = SRD
-controller = SRD
-add_core = SRD
-add_core = CRS
+owner = FRA
+controller = FRA
+add_core = FRA
 trade_goods = fish
-life_rating = 34
-naval_base = 1
+life_rating = 35

@@ -1,5 +1,4 @@
-owner = BWK
-controller = BWK
-add_core = BWK
+owner = BOLcontroller = BOLadd_core = BOL
+add_core = ARG
 trade_goods = wool
-life_rating = 31
+life_rating = 30

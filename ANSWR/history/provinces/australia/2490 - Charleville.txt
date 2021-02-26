@@ -1,6 +1,3 @@
-owner = FSA
-controller = FSA
-add_core = FSA
+add_core = AST
 trade_goods = cattle
-terrain = savanna
-life_rating = 33
+life_rating = 20

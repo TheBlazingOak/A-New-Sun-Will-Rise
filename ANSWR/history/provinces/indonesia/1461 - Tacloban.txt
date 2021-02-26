@@ -1,6 +1,6 @@
-owner = PHL
-controller = PHL
-add_core = PHL
+owner = SPA
+controller = SPA
+add_core = PHI
 trade_goods = grain
-life_rating = 35
+life_rating = 30
 colonial = 2

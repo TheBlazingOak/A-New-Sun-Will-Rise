@@ -1,6 +1,12 @@
-owner = SWI
-controller = SWI
-add_core = SWI
-add_core = SVY
-trade_goods = silk
+owner = SAR
+controller = SAR
+add_core = SAR
+add_core = ITA
+trade_goods = cattle
 life_rating = 35
+1861.1.1 = {
+	controller = ITA
+	owner = ITA
+	add_core = ITA
+}
+1861.1.1 = { railroad = 3 }

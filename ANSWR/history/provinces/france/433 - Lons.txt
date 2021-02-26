@@ -1,7 +1,5 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = FRA
+controller = FRA
+add_core = FRA
 trade_goods = grain
 life_rating = 35
-naval_base = 1
-railroad = 1

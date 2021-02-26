@@ -1,20 +1,23 @@
-owner = AST
-controller = AST
+owner = ENG
+controller = ENG
 add_core = AST
 trade_goods = grain
-life_rating = 39
-naval_base = 2
-2861.1.1 = {
-    colonial = 0
-    state_building = {
-        level = 1
-        building = steel_factory
-        upgrade = yes
-    }
-    state_building = {
-        level = 1
-        building = lumber_mill
-        upgrade = yes
-    }
+life_rating = 30
+colonial = 2
+1861.1.1 = {
+	colonial = 0
+	state_building = {
+		level = 1
+		building = steel_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 1
+		building = lumber_mill
+		upgrade = yes
+	}
 }
-2861.1.1 = { railroad = 1 }
+1861.1.1 = { 
+	railroad = 1 
+	naval_base = 1
+}

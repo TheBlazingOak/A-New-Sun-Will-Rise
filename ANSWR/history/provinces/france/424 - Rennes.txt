@@ -1,7 +1,6 @@
-owner = BRT
-controller = BRT
+owner = FRA
+controller = FRA
 add_core = FRA
-add_core = BRT
 trade_goods = grain
-life_rating = 33
-2861.1.1 = { railroad = 3 }
+life_rating = 35
+1861.1.1 = { railroad = 3 }

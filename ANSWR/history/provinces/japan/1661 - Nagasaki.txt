@@ -1,6 +1,8 @@
-owner = SAT
-controller = SAT
-add_core = SAT
-add_core = TKG
-trade_goods = fruit
+owner = JAP
+controller = JAP
+add_core = JAP
+trade_goods = coal
 life_rating = 35
+1861.1.1 = {
+	naval_base = 1
+}

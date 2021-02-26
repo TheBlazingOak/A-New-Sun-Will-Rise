@@ -2,5 +2,4 @@ owner = SOK
 controller = SOK
 add_core = SOK
 trade_goods = cattle
-terrain = semidesert
 life_rating = 35

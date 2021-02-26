@@ -1,6 +1,5 @@
-owner = PRP
-controller = PRP
-add_core = PRP
+owner = FRA
+controller = FRA
 add_core = FRA
 trade_goods = iron
-life_rating = 32
+life_rating = 30

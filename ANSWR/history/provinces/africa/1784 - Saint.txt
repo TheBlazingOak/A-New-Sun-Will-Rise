@@ -1,6 +1,5 @@
-add_core = WOL
-add_core = TOO
-trade_goods = cotton
-terrain = semidesert
-life_rating = 35
+owner = FRA
+controller = FRA
+trade_goods = fruit
+life_rating = 30
 colonial = 2

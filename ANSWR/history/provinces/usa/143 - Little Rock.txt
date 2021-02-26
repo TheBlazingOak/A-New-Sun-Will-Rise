@@ -1,6 +1,12 @@
-owner = PAW
-controller = PAW
-add_core = PAW
-add_core = CSA
-trade_goods = cotton
+owner = USA
+controller = USA
+add_core = USA 
+add_core = CHE
+trade_goods = grain
 life_rating = 35
+1861.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+	remove_core = CHE
+}

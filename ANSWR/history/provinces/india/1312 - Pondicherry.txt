@@ -1,7 +1,7 @@
-owner = TRA
-controller = TRA
-add_core = TRA
+owner = FRA
+controller = FRA
+add_core = HYD
 add_core = HND
-trade_goods = fish
+trade_goods = grain
 life_rating = 32
 colonial = 2

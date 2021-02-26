@@ -1,6 +1,7 @@
-owner = MUG
-controller = MUG
-add_core = MUG
+owner = ENG
+controller = ENG
+add_core = MEW
 add_core = HND
 trade_goods = cotton
 life_rating = 32
+colonial = 2

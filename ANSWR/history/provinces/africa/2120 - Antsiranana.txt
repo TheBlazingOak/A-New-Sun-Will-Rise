@@ -1,6 +1,5 @@
 owner = MAD
 controller = MAD
 add_core = MAD
-terrain = jungle
-trade_goods = fish
+trade_goods = timber
 life_rating = 35

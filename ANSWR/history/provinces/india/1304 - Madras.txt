@@ -1,12 +1,12 @@
-owner = TRA
-controller = TRA
-add_core = TRA
+owner = ENG
+controller = ENG
+add_core = HYD
 add_core = HND
-trade_goods = cotton
+trade_goods = grain
 life_rating = 32
 colonial = 2
 fort = 1
 naval_base = 1
-2861.1.1 = {
-    naval_base = 2
+1861.1.1 = { 
+	naval_base = 2 
 }

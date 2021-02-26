@@ -1,5 +1,6 @@
-owner = KWT
-controller = KWT
-add_core = KWT
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = IRQ
 trade_goods = grain
 life_rating = 35

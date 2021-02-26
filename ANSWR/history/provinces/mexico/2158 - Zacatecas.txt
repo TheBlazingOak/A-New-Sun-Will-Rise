@@ -1,5 +1,5 @@
-owner = DAU
-controller = DAU
-add_core = DAU
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = grain
-life_rating = 25
+life_rating = 35

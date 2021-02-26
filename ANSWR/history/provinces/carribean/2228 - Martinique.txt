@@ -1,8 +1,8 @@
-owner = ATC
-controller = ATC
-add_core = ATC
+owner = FRA
+controller = FRA
 trade_goods = cotton
 life_rating = 35
 colonial = 2
-terrain = new_world_jungle
-naval_base = 1
+1861.1.1 = {
+	naval_base = 1
+}

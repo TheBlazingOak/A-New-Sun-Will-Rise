@@ -1,15 +1,6 @@
-owner = MAT
-controller = MAT
-add_core = MAT
-add_core = BSH
+owner = TRN
+controller = TRN
 add_core = TRN
-trade_goods = cattle
-life_rating = 15
-terrain = mining_district
-2861.1.1 = {
-    owner = TRN
-    controller = TRN
-    add_core = SAF
-    remove_core = BSH
-    life_rating = 35
-}
+add_core = SAF
+trade_goods = grain
+life_rating = 35

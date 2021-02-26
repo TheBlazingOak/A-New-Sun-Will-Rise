@@ -1,5 +1,6 @@
-owner = CRR
-controller = CRR
-add_core = CRR
-trade_goods = grain
-life_rating = 35
+owner = CLM
+controller = CLM
+add_core = CLM
+add_core = GCO
+trade_goods = cattle
+life_rating = 30

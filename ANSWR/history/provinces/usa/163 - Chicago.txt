@@ -1,6 +1,6 @@
-owner = RSB
-controller = RSB
-add_core = RSB
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = coal
-life_rating = 39
-terrain = mining_district
+life_rating = 35
+1861.1.1 = { railroad = 3 }

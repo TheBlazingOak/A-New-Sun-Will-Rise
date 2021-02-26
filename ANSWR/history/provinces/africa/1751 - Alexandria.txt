@@ -1,7 +1,7 @@
 owner = EGY
 controller = EGY
 add_core = EGY
-trade_goods = fish
-life_rating = 40
+trade_goods = cotton
+life_rating = 35
 naval_base = 1
-2861.1.1 = { railroad = 2 }
+1861.1.1 = { railroad = 2 }

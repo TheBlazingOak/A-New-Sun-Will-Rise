@@ -1,5 +1,6 @@
-owner = SLC
-controller = SLC
-add_core = SLC
+owner = ENG
+controller = ENG
+add_core = CAN
 trade_goods = grain
-life_rating = 34
+life_rating = 35
+colonial = 2

@@ -1,6 +1,3 @@
-owner = BRY
-controller = BRY
-add_core = BRY
+add_core = RUS
 trade_goods = timber
-life_rating = 35
-terrain = forest
+life_rating = 15

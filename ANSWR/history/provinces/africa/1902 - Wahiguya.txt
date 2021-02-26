@@ -1,7 +1,2 @@
-owner = MOS
-controller = MOS
-add_core = MOS
-add_core = MAS
-trade_goods = fruit
-terrain = semidesert
-life_rating = 32
+trade_goods = grain
+life_rating = 15

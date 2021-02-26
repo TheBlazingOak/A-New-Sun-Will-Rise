@@ -1,6 +1,5 @@
-owner = CSK
-controller = CSK
-add_core = CSK
-trade_goods = wool
-terrain = dryhills
-life_rating = 32
+owner = PEU
+controller = PEU
+add_core = PEU
+trade_goods = iron
+life_rating = 35

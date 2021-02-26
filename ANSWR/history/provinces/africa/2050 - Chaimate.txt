@@ -1,6 +1,5 @@
-owner = GAZ
-controller = GAZ
-add_core = GAZ
-terrain = savanna
-trade_goods = cattle
+owner = POR
+controller = POR
+trade_goods = grain
 life_rating = 35
+colonial = 2

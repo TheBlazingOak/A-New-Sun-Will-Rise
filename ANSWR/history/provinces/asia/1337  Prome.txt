@@ -2,8 +2,8 @@ owner = BUR
 controller = BUR
 add_core = BUR
 trade_goods = grain
-life_rating = 35
-2861.1.1 = {
-    owner = ENG
-    controller = ENG
+life_rating = 30
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
 }

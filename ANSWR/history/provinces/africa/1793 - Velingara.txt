@@ -1,7 +1,2 @@
-owner = GBU
-controller = GBU
-add_core = GBU
-add_core = WOL
-add_core = TOO
-trade_goods = cattle
-life_rating = 35
+trade_goods = fish
+life_rating = 15

@@ -1,7 +1,2 @@
-controller = ASY
-owner = ASY
-add_core = ASY
-trade_goods = wool
-life_rating = 31
-terrain = dryhills
-colonial = 2
+trade_goods = fruit
+life_rating = 10

@@ -1,6 +1,4 @@
-owner = RLP
-controller = RLP
-add_core = RLP
-trade_goods = cotton
-terrain = savanna
-life_rating = 25
+owner = BOLcontroller = BOLadd_core = BOL
+add_core = PRGadd_core = ARG
+trade_goods = timber
+life_rating = 30

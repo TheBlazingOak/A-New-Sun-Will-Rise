@@ -1,9 +1,6 @@
-owner = AZB
-controller = AZB
+owner = RUS
+controller = RUS
+add_core = RUS
 add_core = AZB
 trade_goods = fruit
 life_rating = 35
-2861.1.1 = {
-    owner = RUS
-    controller = RUS
-}

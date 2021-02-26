@@ -1,5 +1,10 @@
-owner = GUA
-controller = GUA
+owner = UCA
+controller = UCA
+add_core = UCA
 add_core = HON
 trade_goods = fruit
 life_rating = 30
+1861.1.1 = {
+	owner = HON
+	controller = HON
+}

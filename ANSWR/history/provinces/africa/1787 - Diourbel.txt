@@ -1,7 +1,2 @@
-owner = WOL
-controller = WOL
-add_core = WOL
-add_core = TOO
-trade_goods = cattle
-terrain = semidesert
-life_rating = 35
+trade_goods = grain
+life_rating = 15

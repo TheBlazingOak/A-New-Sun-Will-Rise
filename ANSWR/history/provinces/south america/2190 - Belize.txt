@@ -1,5 +1,7 @@
-owner = YUC
-controller = YUC
-add_core = YUC
+owner = ENG
+controller = ENG
+add_core = GUA
+add_core = UCA
 trade_goods = fruit
-life_rating = 25
+life_rating = 30
+colonial = 2

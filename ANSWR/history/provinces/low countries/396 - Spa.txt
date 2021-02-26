@@ -1,6 +1,8 @@
-owner = OMS
-controller = OMS
-add_core = OMS
+owner = BEL
+controller = BEL
+add_core = BEL
+add_core = NET
+add_core = WLL
 trade_goods = coal
 life_rating = 35
-2861.1.1 = { railroad = 3 }
+1861.1.1 = { railroad = 3 }

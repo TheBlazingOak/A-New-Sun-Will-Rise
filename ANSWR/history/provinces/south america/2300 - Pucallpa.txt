@@ -1,2 +1,5 @@
+owner = PEU
+controller = PEU
+add_core = PEU
 trade_goods = wool
-life_rating = 15
+life_rating = 30

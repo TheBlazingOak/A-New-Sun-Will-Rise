@@ -2,9 +2,4 @@ owner = BAL
 controller = BAL
 add_core = BAL
 trade_goods = timber
-life_rating = 35
-2860.1.1 = {
-    owner = NET
-    controller = NET
-    colonial = 2
-}
+life_rating = 30

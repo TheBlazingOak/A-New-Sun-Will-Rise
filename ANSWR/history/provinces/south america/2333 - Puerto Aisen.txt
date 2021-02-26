@@ -1,3 +1,5 @@
+owner = CHL
+controller = CHL
+add_core = CHL
 trade_goods = fruit
-terrain = new_world_montane_tundra
-life_rating = 15
+life_rating = 25

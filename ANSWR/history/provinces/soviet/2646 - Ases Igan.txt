@@ -1,6 +1,5 @@
-owner = SIB
-controller = SIB
-add_core = SIB
+owner = RUS
+controller = RUS
+add_core = RUS
 trade_goods = coal
-terrain = boreal
-life_rating = 35
+life_rating = 15

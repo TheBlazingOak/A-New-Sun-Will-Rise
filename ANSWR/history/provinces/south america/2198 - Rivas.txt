@@ -1,5 +1,10 @@
-owner = NIC
-controller = NIC
+owner = UCA
+controller = UCA
+add_core = UCA
 add_core = NIC
-trade_goods = fish
-life_rating = 25
+trade_goods = fruit
+life_rating = 30
+1861.1.1 = {
+	owner = NIC
+	controller = NIC
+}

@@ -1,8 +1,5 @@
-owner = CLV
-controller = CLV
-add_core = CLV
-add_core = MOR
+owner = RUS
+controller = RUS
+add_core = RUS
 trade_goods = fish
-terrain = urban
-life_rating = 35
-colonial = 2
+life_rating = 20

@@ -1,6 +1,5 @@
-owner = DAU
-controller = DAU
-add_core = DAU
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = grain
-terrain = montane_forest
-life_rating = 30
+life_rating = 35

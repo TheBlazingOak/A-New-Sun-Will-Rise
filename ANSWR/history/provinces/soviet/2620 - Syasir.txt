@@ -1,6 +1,3 @@
-owner = KAM
-controller = KAM
-add_core = KAM
+add_core = RUS
 trade_goods = cattle
-terrain = boreal
 life_rating = 15

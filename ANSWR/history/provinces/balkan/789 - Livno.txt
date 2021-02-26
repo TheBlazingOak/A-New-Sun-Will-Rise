@@ -1,5 +1,8 @@
-owner = AUS
-controller = AUS
-add_core = CRO
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = BOS
+add_core = YUG
+add_core = SER
 trade_goods = grain
 life_rating = 35

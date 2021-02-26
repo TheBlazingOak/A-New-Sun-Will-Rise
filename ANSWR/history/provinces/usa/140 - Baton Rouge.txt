@@ -1,6 +1,11 @@
-owner = DIX
-controller = DIX
-add_core = DIX
-add_core = CSA
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = cotton
-life_rating = 34
+life_rating = 35
+1861.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+}
+1861.1.1 = { railroad = 3 }

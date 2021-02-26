@@ -1,5 +1,7 @@
-owner = ZVY
-controller = ZVY
-add_core = ZVY
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = BYE
+add_core = PLC
 trade_goods = grain
-life_rating = 32
+life_rating = 35

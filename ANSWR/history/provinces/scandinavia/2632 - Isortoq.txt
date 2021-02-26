@@ -1,7 +1,7 @@
-owner = QNG
-controller = QNG
-add_core = CHI
-add_core = GNG
-trade_goods = silk
-life_rating = 32
-terrain = plains
+owner = DEN
+controller = DEN
+add_core = DEN
+add_core = SCA
+trade_goods = fish
+life_rating = 35
+colonial = 2

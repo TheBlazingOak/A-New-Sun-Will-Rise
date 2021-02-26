@@ -1,6 +1,8 @@
-owner = BAN
-controller = BAN
-add_core = BAN
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = SER
 add_core = HUN
+add_core = YUG
 trade_goods = grain
 life_rating = 35

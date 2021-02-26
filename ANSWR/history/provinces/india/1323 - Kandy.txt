@@ -1,7 +1,6 @@
-owner = TRA
-controller = TRA
-add_core = TRA
+owner = ENG
+controller = ENG
 add_core = HND
-trade_goods = coffee
-life_rating = 33
+trade_goods = tea
+life_rating = 32
 colonial = 2

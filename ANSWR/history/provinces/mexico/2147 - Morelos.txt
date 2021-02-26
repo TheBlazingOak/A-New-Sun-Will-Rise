@@ -1,6 +1,5 @@
-owner = RGR
-controller = RGR
-add_core = RGR
-terrain = new_world_semidesert
-trade_goods = cattle
-life_rating = 32
+owner = MEX
+controller = MEX
+add_core = MEX
+trade_goods = coal
+life_rating = 35

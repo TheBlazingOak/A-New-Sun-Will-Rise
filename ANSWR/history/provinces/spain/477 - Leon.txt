@@ -1,11 +1,11 @@
-owner = DAL
-controller = DAL
-add_core = DAL
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = coal
 life_rating = 35
 #state_building = {
-#    level = 1
-#    building = steel_factory
-#    upgrade = yes
+#	level = 1
+#	building = steel_factory
+#	upgrade = yes
 #}
-2861.1.1 = { railroad = 3 }
+1861.1.1 = { railroad = 3 }

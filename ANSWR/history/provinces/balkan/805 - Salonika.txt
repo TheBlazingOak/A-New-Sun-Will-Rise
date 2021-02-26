@@ -1,5 +1,6 @@
-owner = MCD
-controller = MCD
-add_core = MCD
-trade_goods = cotton
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = GRE
+trade_goods = tobacco
 life_rating = 35

@@ -1,5 +1,6 @@
-owner = CSK
-controller = CSK
-add_core = CSK
-trade_goods = grain
-life_rating = 31
+owner = ECU
+controller = ECU
+add_core = ECU
+add_core = GCO
+trade_goods = fruit
+life_rating = 35

@@ -1,6 +1,7 @@
-owner = LIT
-controller = LIT
-add_core = LIT
+owner = RUS
+controller = RUS
+add_core = RUS
 add_core = BYE
+add_core = PLC
 trade_goods = wool
-life_rating = 32
+life_rating = 35

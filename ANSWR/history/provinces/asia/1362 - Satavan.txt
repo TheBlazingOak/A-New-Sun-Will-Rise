@@ -1,6 +1,5 @@
-owner = CHK
-controller = CHK
-add_core = SIA
-add_core = CHK
-trade_goods = fruit
-life_rating = 32
+owner = LUA
+controller = LUA
+add_core = LUA
+trade_goods = tobacco
+life_rating = 30

@@ -1,6 +1,5 @@
-owner = SEN
-controller = SEN
-add_core = SEN
-add_core = TKG
-trade_goods = fruit
+owner = JAP
+controller = JAP
+add_core = JAP
+trade_goods = iron
 life_rating = 35

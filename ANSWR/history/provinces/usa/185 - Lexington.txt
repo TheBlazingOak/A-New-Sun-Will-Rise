@@ -1,6 +1,13 @@
-owner = RSB
-controller = RSB
-add_core = RSB 
-add_core = CSA
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = coal
 life_rating = 35
+1861.1.1 = {
+	state_building = {
+		level = 1
+		building = liquor_distillery
+		upgrade = yes
+	}
+}
+1861.1.1 = { railroad = 3 }

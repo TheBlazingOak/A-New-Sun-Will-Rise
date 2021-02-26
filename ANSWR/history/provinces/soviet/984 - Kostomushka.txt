@@ -1,6 +1,5 @@
-owner = FIN
-controller = FIN
-add_core = FIN
+owner = RUS
+controller = RUS
+add_core = RUS
 trade_goods = timber
-terrain = boreal
-life_rating = 10
+life_rating = 35

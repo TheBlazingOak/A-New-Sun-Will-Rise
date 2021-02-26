@@ -1,5 +1,7 @@
-owner = CRI
-controller = CRI
-add_core = CRI
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = UKR
 trade_goods = fish
 life_rating = 35
+naval_base = 1

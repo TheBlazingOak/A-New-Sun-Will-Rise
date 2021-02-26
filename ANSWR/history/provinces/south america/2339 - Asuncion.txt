@@ -1,5 +1,5 @@
-owner = RLP
-controller = RLP
-add_core = RLP
+owner = PRG
+controller = PRG
+add_core = PRG
 trade_goods = cattle
-life_rating = 31
+life_rating = 30

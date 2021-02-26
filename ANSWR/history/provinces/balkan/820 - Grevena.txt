@@ -1,5 +1,6 @@
-owner = MCD
-controller = MCD
-add_core = MCD
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = GRE
 trade_goods = grain
 life_rating = 35

@@ -1,2 +1,5 @@
-trade_goods = wool
-life_rating = 5
+owner = EGY
+controller = EGY
+add_core = EGY
+trade_goods = fruit
+life_rating = 25

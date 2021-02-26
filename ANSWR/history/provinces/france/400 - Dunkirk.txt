@@ -1,17 +1,7 @@
-owner = NET
-controller = NET
-add_core = NET
-trade_goods = fruit
-life_rating = 40
-naval_base = 1
+owner = FRA
+controller = FRA
+add_core = FRA
+trade_goods = fish
+life_rating = 32
 fort = 2
-    state_building = {
-        level = 3
-        building = canned_food_factory
-        upgrade = yes
-    }    
-    state_building = {
-        level = 2
-        building = steamer_shipyard
-        upgrade = yes
-    }
+1861.1.1 = { railroad = 3 }

@@ -1,6 +1,5 @@
-owner = NZL
-controller = NZL
-add_core = NZL
+owner = ENG
+controller = ENG
+add_core = AST
 trade_goods = fish
-life_rating = 35
-terrain = small_island
+life_rating = 30

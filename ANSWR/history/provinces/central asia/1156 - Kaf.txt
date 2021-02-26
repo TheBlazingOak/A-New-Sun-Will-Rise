@@ -1,5 +1,11 @@
-owner = NEJ
-controller = NEJ
-add_core = NEJ
+owner = EGY
+controller = EGY
+add_core = EGY
+add_core = TUR
 trade_goods = wool
-life_rating = 10
+life_rating = 35
+
+1861.1.1 = {
+	controller = TUR 
+	owner = TUR
+}

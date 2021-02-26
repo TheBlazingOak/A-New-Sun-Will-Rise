@@ -1,7 +1,6 @@
-owner = PHL
-controller = PHL
-add_core = PHL
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = fruit
 life_rating = 30
 colonial = 2
-terrain = small_island

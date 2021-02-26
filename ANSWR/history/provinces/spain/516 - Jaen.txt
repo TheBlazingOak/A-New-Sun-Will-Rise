@@ -1,6 +1,6 @@
-owner = CLV
-controller = CLV
-add_core = CLV
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = grain
 life_rating = 35
-2861.1.1 = { railroad = 3 }
+1861.1.1 = { railroad = 3 }

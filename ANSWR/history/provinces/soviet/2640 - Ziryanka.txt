@@ -1,5 +1,3 @@
-controller = ASY
-owner = ASY
-add_core = ASY
-trade_goods = fish
-life_rating = 31
+add_core = RUS
+trade_goods = cattle
+life_rating = 15

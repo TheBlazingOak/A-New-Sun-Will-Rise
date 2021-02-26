@@ -1,5 +1,6 @@
-owner = QUE
-controller = QUE
-add_core = QUE
-trade_goods = timber
+owner = GXI
+controller = GXI
+add_core = CHI
+add_core = GXI
+trade_goods = tea
 life_rating = 32

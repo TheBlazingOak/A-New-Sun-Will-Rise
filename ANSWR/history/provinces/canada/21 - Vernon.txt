@@ -1,5 +1,7 @@
-owner = COL
-controller = COL
+owner = ENG
+controller = ENG
+add_core = CAN
 add_core = COL
 trade_goods = timber
-life_rating = 20
+life_rating = 35
+colonial = 2

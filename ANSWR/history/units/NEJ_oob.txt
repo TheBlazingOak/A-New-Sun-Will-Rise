@@ -1,51 +1,54 @@
-ENG = {
-    value = 50
-}
+army = {
+	name = "Bedouin Army"
+	location = 1159
+	regiment = {
+		name= "1. Shammari"
+		type = irregular
+		home = 1159
+	}
 
-FDL = {
-    value = -50
-}
-
-KTH = {
-    value = -50
-}
-
-MHR = {
-    value = -50
-}
-
-LHJ = {
-    value = -50
-}
-
-NYE = {
-    value = -150
-}
-
-leader = {
-    name = "Al Saud"
-    type = land
-    date = 2836.1.1
-    personality = deeply_religious
-    background = amateur
+	regiment = {
+		name= "2. Shammari"
+		type = irregular
+		home = 1161
+	}
 }
 
 army = {
-    name = "Ibn Saud's Army"
-    location = 1157
-    regiment = {
-        name = "1.Saudi"
-        type = cavalry
-        home = 1157
-    }
-    regiment = {
-        name = "2.Saudi"
-        type = cavalry
-        home = 1157
-    }
-    regiment = {
-        name = "3.Saudi"
-        type = cavalry
-        home = 1164
-    }
+	name = "Ibn Saud's Army"
+	location = 1157
+	regiment = {
+		name= "1. Saudi"
+		type = irregular
+		home = 1157
+	}
+
+	regiment = {
+		name= "2. Saudi"
+		type = irregular
+		home = 1157
+	}
+
+	regiment = {
+		name= "3. Saudi"
+		type = irregular
+		home = 1164
+	}
+
+}
+
+army = {
+	name = "Ibn Rashid's Army"
+	location = 1158
+	regiment = {
+		name= "1. 'Ateba"
+		type = irregular
+		home = 1158
+	}
+
+	regiment = {
+		name= "2. 'Ateba"
+		type = irregular
+		home = 1163
+	}
 }

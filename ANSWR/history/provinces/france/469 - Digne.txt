@@ -1,6 +1,5 @@
-owner = SWI
-controller = SWI
-add_core = SWI
-add_core = PRV
+owner = FRA
+controller = FRA
+add_core = FRA
 trade_goods = silk
-life_rating = 33
+life_rating = 32

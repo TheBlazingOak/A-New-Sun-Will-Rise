@@ -1,6 +1,8 @@
-owner = POL
-controller = POL
+owner = RUS
+controller = RUS
+add_core = RUS
 add_core = POL
-trade_goods = sulphur
+add_core = PLC
+trade_goods = wool
 life_rating = 35
-2861.1.1 = { railroad = 3 }
+1861.1.1 = { railroad = 3 }

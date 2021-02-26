@@ -1,5 +1,8 @@
-owner = MON
-controller = MON
-add_core = MON
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = BUL
+add_core = SER
+add_core = YUG
 trade_goods = timber
 life_rating = 35

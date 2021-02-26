@@ -1,6 +1,5 @@
-owner = GUA
-controller = GUA
-add_core = CHP
-add_core = GUA
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = cotton
-life_rating = 34
+life_rating = 30

@@ -1,22 +1,23 @@
-owner = SAP
-controller = SAP
-add_core = SAP
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = SCA
 trade_goods = coal
-life_rating = 39
+life_rating = 35
 naval_base = 1
 #state_building = {
-#    level = 1
-#    building = steel_factory
-#    upgrade = yes
+#	level = 1
+#	building = steel_factory
+#	upgrade = yes
 #}
 #state_building = {
-#    level = 1
-#    building = ammunition_factory
-#    upgrade = yes
+#	level = 1
+#	building = ammunition_factory
+#	upgrade = yes
 #}
 #state_building = {
-#    level = 1
-#    building = small_arms_factory
-#    upgrade = yes
+#	level = 1
+#	building = small_arms_factory
+#	upgrade = yes
 #}
-2861.1.1 = { railroad = 3 }
+1861.1.1 = { railroad = 3 }
