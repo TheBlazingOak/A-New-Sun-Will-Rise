@@ -1,12 +1,5 @@
-owner = WOL
-controller = WOL
-add_core = WOL
-add_core = TOO
+owner = GBU
+controller = GBU
+add_core = GBU
 trade_goods = fish
-terrain = semidesert
 life_rating = 35
-2861.1.1 = {
-    owner = FRA
-    controller = FRA
-    colonial = 2
-}

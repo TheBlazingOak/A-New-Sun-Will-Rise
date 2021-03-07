@@ -25,8 +25,8 @@ sea_starts = {
     3313 3314 3316 3317 3318 3323 3324 3325 3326 3327 3328 3329 3330 3331
 }
 
-#definitions = "definition.csv" #For using scenario editor
-definitions = "../mod/ANSWR/map/definition.csv"
+definitions = "definition.csv" #When using scenario editor
+#definitions = "../mod/ANSWR/map/definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
 terrain = "terrain.bmp"

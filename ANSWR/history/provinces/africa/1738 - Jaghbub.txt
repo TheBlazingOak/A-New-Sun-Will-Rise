@@ -1,3 +1,5 @@
-add_core = CYR
+owner = TRI
+controller = TRI
+add_core = TRI
 trade_goods = grain
-life_rating = 10
+life_rating = 35

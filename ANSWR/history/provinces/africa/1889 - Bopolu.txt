@@ -1,5 +1,8 @@
+owner = KNG
+controller = KNG
+add_core = KNG
 trade_goods = fruit
-life_rating = 10
+life_rating = 35
 2861.1.1 = {
     add_core = LIB
 }

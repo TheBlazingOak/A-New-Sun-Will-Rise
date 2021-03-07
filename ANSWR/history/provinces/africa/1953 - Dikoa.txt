@@ -1,7 +1,7 @@
-owner = KBO
-controller = KBO
+owner = NGR
+controller = NGR
+add_core = NGR
 add_core = SOK
-add_core = KBO
 trade_goods = fruit
 terrain = semidesert
 life_rating = 35

@@ -1,4 +1,5 @@
-add_core = TRZ
-trade_goods = fish
-terrain = semidesert
-life_rating = 15
+owner = MOR
+controller = MOR
+add_core = MOR
+trade_goods = grain
+life_rating = 32

@@ -1,6 +1,8 @@
-add_core = ALD
+owner = TRI
+controller = TRI
+add_core = TRI
 trade_goods = wool
-life_rating = 31
+life_rating = 35
 terrain = semidesert
 2861.1.1 = {
     owner = FRA

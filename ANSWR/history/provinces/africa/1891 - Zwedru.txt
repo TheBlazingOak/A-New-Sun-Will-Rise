@@ -1,5 +1,5 @@
+owner = KNG
+controller = KNG
+add_core = KNG
 trade_goods = tropical_wood
-life_rating = 10
-2861.1.1 = {
-    add_core = LIB
-}
+life_rating = 35
