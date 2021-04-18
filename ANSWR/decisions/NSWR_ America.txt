@@ -222,7 +222,7 @@ transpacifica_unification = {
 			OR = { owned_by = { vassal_of = THIS } } }
 			}
 			NOT = {
-			has _country_flag = transpacific
+			has_country_flag = transpacific
 			}
         }
 

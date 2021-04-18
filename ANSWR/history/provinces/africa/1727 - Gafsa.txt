@@ -1,9 +1,8 @@
+owner = APU
+controller = APU
 add_core = TUN
 trade_goods = wool
-life_rating = 31
-terrain = semidesert
-2861.1.1 = {
-    owner = TUR
-    controller = TUR
-    colonial = 2
-}
+life_rating = 32
+terrain = plains
+colonial = 2
+

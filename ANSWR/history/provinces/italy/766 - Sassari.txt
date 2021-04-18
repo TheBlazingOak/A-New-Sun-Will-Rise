@@ -1,6 +1,6 @@
-owner = SRD
-controller = SRD
-add_core = SRD
+owner = SIC
+controller = SIC
+add_core = SIC
 trade_goods = grain
 life_rating = 35
 2861.1.1 = {

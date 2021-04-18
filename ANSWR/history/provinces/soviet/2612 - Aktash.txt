@@ -1,3 +1,5 @@
-add_core = KAZ
+owner = OMS
+controller = OMS
+add_core = OMS
 trade_goods = coal
-life_rating = 30
+life_rating = 35

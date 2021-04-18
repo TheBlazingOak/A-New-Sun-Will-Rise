@@ -395,7 +395,7 @@
     aristocrats = {
         culture = dutch
         religion = protestant
-        size = 1800
+        size = 5800
     }
 
     bureaucrats = {
@@ -473,7 +473,7 @@
     farmers = {
         culture = dutch
         religion = protestant
-        size = 202550
+        size = 252550
     }
 
     artisans = {
@@ -485,7 +485,7 @@
     farmers = {
         culture = flemish
         religion = catholic
-        size = 70000
+        size = 110000
     }
 }
 #Groningen (186600/46650 POPS)

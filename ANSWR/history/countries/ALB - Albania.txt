@@ -1,10 +1,10 @@
 capital = 849
 primary_culture = albanian
 religion = sunni
-government = absolute_monarchy
+government = presidential_dictatorship
 plurality = 0.4
-nationalvalue = nv_order
-literacy = 0.15
+nationalvalue = nv_equality
+literacy = 0.34
 civilized = yes
 
 # Political reforms
@@ -37,9 +37,9 @@ border_policy = open_borders
 ruling_party = ALB_conservative_2
 upper_house = {
     fascist = 0
-    liberal = 25
-    conservative = 65
-    reactionary = 10
+    liberal = 12
+    conservative = 55
+    reactionary = 33
     anarcho_liberal = 0
     socialist = 0
     communist = 0

@@ -1,0 +1,43 @@
+political_decisions = {
+
+	#Moscow
+	colonize_old_russia = {
+		potential = {
+			tag = MOW
+			OR = {
+				primary_culture = russian
+				NOT = { exists = MOW }
+					}
+				}
+
+		allow = {
+			year = 1840
+			OR = { prestige = 10 }
+			}
+
+		effect = {
+		RUS_1020 = { secede_province = THIS }
+		RUS_1020 = { add_core = THIS }
+			}
+		}
+
+	#Ukraine Annexation
+	colonize_old_ukraine = {
+		potential = {
+			tag = UKR
+			OR = { primary_culture = ukrainian }
+			}
+		allow = {
+			nationalism_n_imperialism = 1
+				OR = { RUS_973 = { owned_by = THIS }
+					   RUS_978 = { owned_by = THIS } }
+				OR = {
+					NOT = {exists = ZKY}
+				}
+			}
+		effect = {
+		RUS_973 = { add_core = THIS }
+		RUS_978 = { add_core = THIS }
+		}
+	}
+}

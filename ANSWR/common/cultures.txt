@@ -815,7 +815,7 @@ leader = russian
                            Tukhachevsky Yegorov Vorontsov Zhauryd }
         }
     ukrainian = {
-        color = {160 160 60}
+        color = {120 120 60}
             first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev
                              Mikhail Mykola Nikita  Oleksandr Pavel Petro Roman Semyon Sergiy Valeriy
                              Viktor Volodimir Vladislav Yuriy }

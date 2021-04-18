@@ -1,6 +1,7 @@
-owner = POL
-controller = POL
-add_core = POL
+owner = PZN
+controller = PZN
+add_core = PZN
+add_core = OUD
 trade_goods = fish
 life_rating = 35
 naval_base = 1

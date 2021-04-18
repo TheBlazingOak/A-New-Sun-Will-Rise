@@ -129,7 +129,7 @@ ENG_280 = { 280 281 282 279 } #North East England
 
 ENG_291 = { 291 292 293 288 289 290 } #Eastern Counties
 
-ENG_296 = { 296 299 297 298 419 287 } #South West England
+ENG_296 = { 296 299 297 298 287 } #South West England
 
 ENG_300 = { 300 294 301 302 303 295 } #South East England
 
@@ -192,7 +192,7 @@ FRA_412 = { 409 410 414 } #Alsace
 
 FRA_418 = { 418 415 416 417 } #Normandie
 
-FRA_420 = { 420 421 422 424 423 } #Bretagne
+FRA_420 = { 420 421 422 424 423 419 } #Bretagne
 
 FRA_425 = { 425 426 427 438 439 } #Ile de France
 
@@ -256,9 +256,9 @@ PRU_544 = { 544 545 547 } #Mecklenburg
 
 HAN_530 = { 530 529  548} #New Coast
 
-PRU_546 = { 546 679 680 692 681 } #Pomerania
+PRU_546 = { 546 679 680 692 690 691 } #Pomerania
 
-PRU_549 = { 549 550 551 552 } #Brandenburg
+PRU_549 = { 549 550 551 552 681 } #Brandenburg
 
 PRU_553 = { 553 555 556 557 } #Magdeburg
 
@@ -281,63 +281,55 @@ BAV_595 = { 595 596 597 598 563 } #Franconia
 BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
 
 SWI_603 = { 611 2568 614 2669 } #East-Switzerland
+
 SWI_605 = { 605 604 606 603} #Central-Switzerland
+
 SWI_607 = { 607 608 609 432 433 } #West-Switzerland
 
-PRU_682 = { 682 683 684 685 } #Silesia
+PRU_682 = { 682 683 684 685 703 } #Silesia
 
-PRU_690 = { 690 691 694 693 } #Westpreußen
-
-PRU_695 = { 695 696 697 698 } #Ostpreußen
+PRU_695 = { 695 696 697 694 693 } #Preußen
 
 PRU_701 = { 701 699 700 } #Posen
 
 
 ### Austria
 
-AUS_612 = { 612 613 615 } #Tirol
+AUS_612 = { 612 613 615 735 } #Tirol
 
 AUS_613 = { 616 617 618 } #Kärnten-Steiermark
 
-AUS_619 = { 619 620 621 622 624 } #Österreich
+AUS_619 = { 619 620 621 622 624 623 } #Österreich
 
-AUS_623 = { 639 623 640 642 643 644 } #Transdanubia
+AUS_623 = { 640 642 643 644 641 645 646  } #Transdanubia
 
-AUS_625 = { 625 626 631 } #Bohemia
+AUS_625 = { 625 626 627 628 629 630 } #Bohemia
 
-AUS_626 = { 627 628 629 630 } #Moravia/Sudetes
+AUS_627 = { 688 632 689 2584 631 } #Lower Silesia
 
-AUS_627 = { 688 632 689 2584 } #Lower Silesia
+AUS_633 = { 633 634 635 636 } #Slovakia
 
-AUS_633 = { 633 634 635 636 637 638 950 } #Slovakia
+NIT_637 = { 637 638 950 704 714 953 951 } #Bohatéhory
 
-AUS_641 = { 641 645 646 648 649 650 } #Central Hungary
+AUS_641 = { 648 649 650 651 647 } #Central Hungary
 
-AUS_652 = { 652 653 } #Banat
+AUS_652 = { 652 653 792 } #Banat
 
-AUS_654 = { 654 655 656 661 651 647 } #Western Transylvania
+AUS_654 = { 654 655 656 661} #Western Transylvania
 
 AUS_657 = { 657 659 660 2533 } #Eastern Transylvania
 
-AUS_702 = { 703 704 705 714 } #Galicia-Lodomeria
+RUS_715 = { 715 711 713 716 705 } #West Galicia
 
-AUS_662 = { 702 951 952 953} #East Galicia
-
-RUS_715 = { 715 711 713 716 } #West Galicia
-
-AUS_734 = { 734 735 732 733 8 736 737 } #South Tirol
+AUS_734 = { 734 732 733 8 736 737 } #South Tirol
 
 AUS_736 = { 769 770 778 } #Istria
 
-AUS_768 = { 767 768 } #Slovenia
+AUS_771 = { 771 772 773 775 776 639 767 768 } #Croatia
 
-AUS_771 = { 771 772 773 775 776 } #Croatia
+AUS_777 = { 779 777 791 2538 } #Slavonia
 
-AUS_777 = { 779 793 777 } #Slavonia
-
-AUS_780 = { 780 781 782 774 } #Dalmatia
-
-AUS_2538 = { 2538 791 792 } #Vojvodina
+AUS_780 = { 780 781 774 785 784 789 } #Dalmatia
 
 
 ### Italy
@@ -375,15 +367,15 @@ TUR_674 = { 674 818 } #Dobrudja
 
 MOL_676 = { 676 677 678 } #Bessarabia
 
-TUR_788 = { 783 787 789 788 786 785 784 } #Bosnia
+TUR_788 = { 783 787 788 786 793 782 } #Bosnia
 
 SER_794 = { 794 797 795 796 } #Northern Serbia
 
-MON_2582 = { 2583 2569 2577 800 2582 } #Montenegro
+MON_2582 = { 2583 2569 2577 800 2582 850 804 } #Montenegro
 
-TUR_803 = { 803 804 798 802 799 } #Southern Serbia
+TUR_803 = { 803 798 802 799 } #Southern Serbia
 
-TUR_805 = { 805 819 820 821 822 } #Southern Macedonia
+TUR_805 = { 805 819 820 821 822 832 831 833 } #Southern Macedonia
 
 TUR_806 = { 806 807 1780 } #Northern Macedonia
 
@@ -393,15 +385,13 @@ TUR_810 = { 809 810 811 812 813 814 } #Bulgaria
 
 TUR_823 = { 823 829 830 } #Eastern Macedonia
 
-GRE_826 = { 834 842 839 840 841 } #Peloponnese
+GRE_826 = { 839 842 840 841 } #Peloponnese
 
-TUR_832 = { 832 831 833 824 } #Thessalia
-
-GRE_837 = { 837 836 835 838 845 } #Attica - Central Greece
+GRE_837 = { 834 837 836 835 838 845 } #Attica - Central Greece
 
 EGY_843 = { 848 855 827 826 } #Aegean Islands
 
-TUR_853 = { 849 853 852 851 850 } #Albania
+TUR_853 = { 849 853 852 851 824 } #Albania
 
 TUR_860 = { 860 828 858 859 843 } #Thrace
 
@@ -497,11 +487,11 @@ AFG_1214 = { 1214 1215 1217 2133 } #South Afghanistan - Former Kandahar
 
 RUS_349 = { 349 350 351 352 353 } #Estonia
 
-RUS_354 = { 354 355 356 357 358 359 } #Latvia
+RUS_354 = { 355 356 357 945 947 946 } #Latvia
 
-RUS_360 = { 360 361 362 363 364 365 } #Lithuania
+RUS_360 = { 360 361 362 363 364 365 698 358 359 354 } #Lithuania
 
-RUS_339 = { 984 995 988 2587 983 } #Karelia
+RUS_339 = { 984 2587 983 } #Karelia
 
 RUS_706 = { 706 708 709 710 717 712 } #Masovia
 
@@ -509,29 +499,23 @@ RUS_707 = { 936 707 719 937 } #Brêst
 
 RUS_718 = { 718 941 942 948 } #Minsk
 
-RUS_940 = { 940 939 938 947 946 } #Pinsk
+RUS_940 = { 940 939 938 } #Pinsk
 
-RUS_943 = { 943 1000 1007 } #Smolensk
+RUS_943 = { 1007 943 1000 944 949 1009 1014 1015 1003 } #Smolensk
 
-RUS_947 = { 944 945 949 1009 } #Orsha
+RUS_958 = { 958 959 960 954 955 } #Kiev
 
-RUS_958 = { 958 959 960 } #Kiev
-
-RUS_959 = { 955 956 957 } #Volyn
+RUS_959 = { 956 957 702 952 } #Volyn
 
 RUS_964 = { 967 966 964 } #Crimea
 
-RUS_968 = { 968 969 954 } #Transnistria
+RUS_973 = { 976 973 975 965 979 } #Kherson-Zaporizhia
 
-RUS_973 = { 976 973 975 965 } #Kherson-Zaporizhia
+RUS_955 = { 972 971 970 961 968 969 } #Yekaterinoslav
 
-RUS_955 = { 972 971 970 961 } #Yekaterinoslav
+RUS_977 = { 977 1017 1018 1019 963 962 1016 962 1016 } #Kursk
 
-RUS_977 = { 977 1017 1018 1019 } #Kursk
-
-RUS_978 = { 978 963 980 974 } #Kharkov
-
-RUS_979 = { 979 1047 1046 } #Don Host Oblast
+RUS_978 = { 978 980 974 } #Kharkov
 
 RUS_981 = { 981 985 2588 } #Arkhangelsk
 
@@ -541,21 +525,19 @@ RUS_994 = { 994 996 997 2580 2715 } #Ingria
 
 RUS_998 = { 998 1001 992 } #Tver
 
-RUS_1003 = { 1003 1004 1005 } #Novgorod
+RUS_1003 = { 1004 1005 995 988 } #Novgorod
 
-RUS_1008 = { 1008 1012 1013 1022 } #Moscow
+RUS_1008 = { 1008 1012 1013 1010 } #Moscow
 
-RUS_1009 = { 1010 1014 1015 1016 962 } #Bryansk
-
-RUS_1020 = { 1020 1027 1028 1030 1032 1033 } #Kazan
+RUS_1020 = { 1020 1027 1028 1030 1032 1033 1022 } #Kazan
 
 RUS_1026 = { 1026 2689 1029 1031 2700 } #Perm
 
 RUS_1037 = { 1037 1025 } #Tartaria
 
-RUS_1041 = { 1041 1036 1040 1039 } #Astrakhan
+RUS_1041 = { 1041 1036 1040 1039 1046 } #Astrakhan
 
-RUS_1048 = { 1048 1049 1050 1051 1056 } #Circassia
+RUS_1048 = { 1048 1049 1050 1051 1056 1047 } #Circassia
 
 RUS_1052 = { 1052 1053 1054 1055 1057 } #North Caucasia
 
@@ -674,7 +656,7 @@ BUR_1339 = { 1334 1339 1341 1342 } #Kachin
 
 ENG_1343 = { 1343 1344 1320 } #Tenasserim
 
-ENG_2125 = { 2125 2127 2126 2124 2123 } #Indian Ocean Territory
+ENG_2125 = { 2125 2126 2124 2123 } #Indian Ocean Territory
 
 
 ### Indochina
@@ -891,13 +873,13 @@ EGY_1762 = { 1762 2559 1764 1772 } #Middle Egypt
 
 EGY_1771 = { 1769 1771 1768 1770 1767 1766 } #Upper Egypt
 
-FRA_1808 = { 1808 1809 1810 1811 1815 1816 } #Outer Hausaland - South Niger
+FRA_1808 = { 1808 1809 } #Outer Hausaland - South Niger
 
-FRA_1813 = { 1812 1814 1817 } #Niger
+FRA_1813 = { 1810 1811 1815 1816  1812 1814 2049 2020 } #Niger
 
 ENG_1818 = { 1818 1819 1820 1822 1823 } #Waddai
 
-ENG_1825 = { 1821 1824 1825 1826 } #Chad
+ENG_1825 = { 1821 1824 1825 1826 1817 2127 } #Chad
 
 EGY_1827 = { 1827 1829 1828 1830 1831 } #Sudan
 
@@ -1024,7 +1006,7 @@ ENG_2014 = { 790 2012 2013 2014 2015 } #Zambia
 
 ENG_2016 = { 2016 2017 2018 } #Kazembe
 
-ENG_2019 = { 2019 2020 2021 2022 2023 } #Uganda
+ENG_2019 = { 2019 2021 2022 2023 } #Uganda
 
 BEL_2034 = { 2034 2035 } #Ruanda-Urundi
 
@@ -1037,7 +1019,7 @@ POR_2003 = { 2003 2004 2005 2008 } #South Angola
 
 POR_2006 = { 2006 2007 2010 2011 } #East Angola
 
-POR_2049 = { 2049 2050 2051 } #Lourenço Marques - Gaza - South Mozambique
+POR_2049 = { 2050 2051 } #Lourenço Marques - Gaza - South Mozambique
 
 POR_2053 = { 2059  2065 2054 2056 } #Zambezia - Noth Central Mozambique
 

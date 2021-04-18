@@ -1,6 +1,5 @@
 owner = APU
 controller = APU
 add_core = APU
-add_core = SYC
 trade_goods = sulphur
-life_rating = 39
+life_rating = 35

@@ -2647,6 +2647,7 @@ NET_setup_1836 = {
         picture = starting_options
         alert = yes
         potential = {
+            ai = yes
             NOT = { has_country_flag = existing_country }
         }
 
@@ -2655,8 +2656,28 @@ NET_setup_1836 = {
         }
 
         effect = {
-            set_country_flag = existing_country
+            
+            sset_country_flag = existing_country
         }
         ai_will_do = { factor = 1 }
     }
+    existing_setup = {
+        potential = {
+            ai = yes
+            exists = yes
+            NOT = { year = 2838 }
+            NOT = { has_global_flag = 2836_set_up }
+        }
+
+        allow = {
+            exists = yes
+        }
+
+        effect = {
+            set_global_flag = 2836_set_up
+            set_country_flag = existing_country
+            any_country = { limit = { exists = yes } set_country_flag = existing_country }
+        }
+        ai_will_do = { factor = 1 }
+}
 }

@@ -1,8 +1,6 @@
 owner = BOH
 controller = BOH
 add_core = BOH
-add_core = POL
-add_core = GLM
 trade_goods = coal
 life_rating = 39
 2861.1.1 = {

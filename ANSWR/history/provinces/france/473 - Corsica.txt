@@ -1,6 +1,6 @@
-owner = SRD
-controller = SRD
-add_core = SRD
+owner = TUS
+controller = TUS
+add_core = TUS
 add_core = CRS
 trade_goods = fish
 life_rating = 34

@@ -1,8 +1,6 @@
+owner = SIB
+controller = SIB
+add_core = SIB
 trade_goods = timber
 terrain = boreal
 life_rating = 20
-2861.1.1 = {
-    owner = RUS
-    controller = RUS
-    colonial = 2
-}

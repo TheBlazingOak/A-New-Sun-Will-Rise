@@ -1,6 +1,7 @@
 owner = HEK
 controller = HEK
 add_core = HEK
+add_core = OUD
 trade_goods = fruit
 life_rating = 39
 fort = 1
