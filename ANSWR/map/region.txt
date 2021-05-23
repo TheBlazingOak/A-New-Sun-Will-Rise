@@ -44,7 +44,7 @@ MEX_85 = { 84 85 86 104 83 3320 3322 2225 3319 } #North California
 
 LOS_89 = { 89 87 88 90 107 2138 2139 3321 729 } #South Califorinia
 
-USA_91 = { 91 93 113 116 115 112 111 } #Idaho
+USA_91 = { 91 113 116 115 112 111 } #Idaho
 
 MEX_94 = { 94 96 95 } #Nevada
 
@@ -136,7 +136,9 @@ ENG_300 = { 300 294 301 302 303 295 } #South East England
 
 ### Scandinavia
 
-DEN_251 = { 251 252 253 2636 } #Iceland & Greenland
+QUE_251 = { 2636 251 1330 93 1570 } #Quebec Greenland
+
+SCO_252 = { 1498 1606 1541 252 253 }#Scotish Greenland & Iceland
 
 SWE_308 = { 308 305 306 } #Nordnoge
 

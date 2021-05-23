@@ -1,11 +1,7 @@
-owner = BUR
-controller = BUR
-add_core = KAR
-add_core = BUR
+owner = QUE
+controller = QUE
+add_core = GRN
+add_core = QUE
 trade_goods = grain
 life_rating = 35
-2861.1.1 = {
-    owner = ENG
-    controller = ENG
-    colonial = 2
-}
+colonial = 2

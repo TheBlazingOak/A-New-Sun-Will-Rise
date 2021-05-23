@@ -1,7 +1,6 @@
-owner = MEC
-controller = MEC
-add_core = MEC
-add_core = OUD
+owner = VLA
+controller = VLA
+add_core = VLA
 trade_goods = coal
 life_rating = 40
 naval_base = 1

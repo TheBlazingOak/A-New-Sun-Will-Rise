@@ -766,7 +766,7 @@ AGRESSION_WAR_CONQUEST_ANY_NAME;$ORDER$War of $FIRST$ Aggression against $SECOND
 RANK_INDUSTRY_D;Industry score is a measure of your level of industrialization. It is a combination of the number of employed craftsmen and clerks, divided by 2500, and the value of your foreign investment.;;;;;;;;;;;;;
 flanish;Vlanisch;;;;;;;;;;;;;
 antillean;Antillean;;;;;;;;;;;;;
-provencal;Provençau;;;;;;;;;;;;;
+provencal;Novo Provençau;;;;;;;;;;;;;
 french;Parish;;;;;;;;;;;;;
 danish;Skandinavisk;;;;;;;;;;;;;
 romanian;Dacian;;;;;;;;;;;;;
@@ -821,3 +821,4 @@ industrial_tech_school;New-Wave Capitalism;;;;;;;;;;;;;
 culture_tech_school;Espionage and Intelligentsia;;;;;;;;;;;;;
 commerce_tech_school;Plutocratic Capitalism;;;;;;;;;;;;;
 oudrijk_prince;Oudrijk Prince;;;;;;;;;;;;;
+gypsy;Roma;;;;;;;;;;;;;

@@ -1,6 +1,7 @@
-owner = VLA
-controller = VLA
-add_core = VLA
+owner = MEC
+controller = MEC
+add_core = MEC
+add_core = OUD
 trade_goods = grain
 life_rating = 40
 

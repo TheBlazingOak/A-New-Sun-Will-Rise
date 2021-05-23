@@ -1,7 +1,7 @@
-owner = SAP
-controller = SAP
+owner = QUE
+controller = QUE
 add_core = GRN
-add_core = SAP
-trade_goods = fish
-life_rating = 10
+add_core = QUE
+trade_goods = iron
+life_rating = 39
 colonial = 2
