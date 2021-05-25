@@ -1,11 +1,13 @@
 capital = 269
 primary_culture = scottish
+culture = scottish_greenlander
 religion = protestant
 government = hms_government
 plurality = 0.1
 nationalvalue = nv_order
 literacy = 0.55
 civilized = yes
+prestige = 25
 
 
 # Political reforms

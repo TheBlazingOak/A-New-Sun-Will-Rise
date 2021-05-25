@@ -2,6 +2,6 @@ owner = SCO
 controller = SCO
 add_core = GRN
 add_core = SCO
-trade_goods = precious_metals
+trade_goods = precious_metal
 life_rating = 35
 colonial = 2

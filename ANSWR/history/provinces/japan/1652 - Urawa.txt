@@ -1,5 +1,7 @@
-owner = TKG
-controller = TKG
-add_core = TKG
-trade_goods = fruit
+owner = NOD
+controller = NOD
+add_core = NOD
+add_core = GRN
+trade_goods = iron
 life_rating = 35
+colonial = 2

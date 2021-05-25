@@ -305,9 +305,7 @@ PROV2645;Bodaybo;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2693;Essey;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2677;Ilimsk;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2675;Erbogachen;;;;;;;;;;;;;;;;;;;;;;;x
-PROV2701;Kansk;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1070;Yeniseysk;;;;;;;;;;;;;;;;;;;;;;;x
-PROV2656;Baikit;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2651;Mirny;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2674;Abakan;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2682;Obdorsk;;;;;;;;;;;;;;;;;;;;;;;x
@@ -1071,42 +1069,130 @@ SWI_603;Ostschweiz;;;;;;;;;;;;x
 SWI_605;Zentralschweiz;;;;;;;;;;;;x
 SWI_607;Westschweiz;;;;;;;;;;;;x
 SPA_487;Damasco Central;;;;;;;;;;;;x
-PROV2204;Acatra;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2208;Pandotra;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2254;Lindre Pordemac;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2255;Arrienon Mugri;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2270;Cicertra;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2252;Crante Estata;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2251;Intormonkit;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2247;Uselontra;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2253;Joleni Tener;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2258;Pordemac dek Atia;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2259;Ferrotra;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2257;Freitra;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2256;Suttestasta;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2248;Iantra;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2250;Por dek Ciole;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV389;Romanograd;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV300;New Stales;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV3320;New Oaks;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV3319;Greandier;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV70;Édouard Île;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV71;Halifaxe;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV73;Capreton Île;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV3288;Mar de Argentina;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV3288;The Eyre Sea;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2502;Eldtrad;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV2494;Augusta;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-FRA_1813;Sabbin Kasashe;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-SIC_763;Sicilia;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-SCO_252;New Scotland;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-QUE_251;Nouverts;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV_1541;New Stirling City;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV_1498;Green Harbor;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV_1606;Raleen;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV_253;Ritchie Islands;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV_252;Sutherland;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV_1330;Petitport;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV_1570;Bord de Collin;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV_2636;Lecreftville;;;;;;;;;;;;x;;;;;;;;;;;;;;;
-PROV_251;Bord de Collin;;;;;;;;;;;;x;;;;;;;;;;;;;;;
+PROV2204;Acatra;;;;;;;;;;;;x
+PROV2208;Pandotra;;;;;;;;;;;;x
+PROV2254;Lindre Pordemac;;;;;;;;;;;;x
+PROV2255;Arrienon Mugri;;;;;;;;;;;;x
+PROV2270;Cicertra;;;;;;;;;;;;x
+PROV2252;Crante Estata;;;;;;;;;;;;x
+PROV2251;Intormonkit;;;;;;;;;;;;x
+PROV2247;Uselontra;;;;;;;;;;;;x
+PROV2253;Joleni Tener;;;;;;;;;;;;x
+PROV2258;Pordemac dek Atia;;;;;;;;;;;;x
+PROV2259;Ferrotra;;;;;;;;;;;;x
+PROV2257;Freitra;;;;;;;;;;;;x
+PROV2256;Suttestasta;;;;;;;;;;;;x
+PROV2248;Iantra;;;;;;;;;;;;x
+PROV2250;Por dek Ciole;;;;;;;;;;;;x
+PROV389;Romanograd;;;;;;;;;;;;x
+PROV300;New Stales;;;;;;;;;;;;x
+PROV3320;New Oaks;;;;;;;;;;;;x
+PROV3319;Greandier;;;;;;;;;;;;x
+PROV70;Édouard Île;;;;;;;;;;;;x
+PROV71;Halifaxe;;;;;;;;;;;;x
+PROV73;Capreton Île;;;;;;;;;;;;x
+PROV3288;Mar de Argentina;;;;;;;;;;;;x
+PROV3288;The Eyre Sea;;;;;;;;;;;;x
+PROV2502;Eldtrad;;;;;;;;;;;;x
+PROV2494;Augusta;;;;;;;;;;;;x
+FRA_1813;Sabbin Kasashe;;;;;;;;;;;;x
+SIC_763;Sicilia;;;;;;;;;;;;x
+SCO_252;New Scotland;;;;;;;;;;;;x
+QUE_251;Nouverts;;;;;;;;;;;;x
+PROV1541;New Stirling City;;;;;;;;;;;;x
+PROV1498;Green Harbor;;;;;;;;;;;;x
+PROV1606;Raleen;;;;;;;;;;;;x
+PROV253;Ritchie Islands;;;;;;;;;;;;x
+PROV252;Sutherland;;;;;;;;;;;;x
+PROV1330;Petitport;;;;;;;;;;;;x
+PROV1570;Bord de Collin;;;;;;;;;;;;x
+PROV2636;Lecreftville;;;;;;;;;;;;x
+PROV251;Nordauch;;;;;;;;;;;;x
+PROV93;Fort Jamieson;;;;;;;;;;;;x
+PROV2455;Elidia;;;;;;;;;;;;x
+PROV2451;Qeril;;;;;;;;;;;;x
+PROV2450;Tirarroha;;;;;;;;;;;;x
+PROV2457;Axua;;;;;;;;;;;;x
+PROV2306;Jeres;;;;;;;;;;;;x
+PROV2461;Ot' d-at-l Nuri;;;;;;;;;;;;x
+PROV2460;Pidrinha;;;;;;;;;;;;x
+PROV2452;Cal da Giuv;;;;;;;;;;;;x
+PROV2446;Namar;;;;;;;;;;;;x
+PROV2456;Piaro;;;;;;;;;;;;x
+PROV2453;Forê;;;;;;;;;;;;x
+PROV2458;Cautell;;;;;;;;;;;;x
+PROV2462;Millel;;;;;;;;;;;;x
+PROV2459;Jerinho;;;;;;;;;;;;x
+PROV2461;Ot d-at-l Seria;;;;;;;;;;;;x
+PROV2463;Porso da Legra;;;;;;;;;;;;x
+PROV2464;Menharia;;;;;;;;;;;;x
+PROV2466;Fitasao;;;;;;;;;;;;x
+PROV2467;Federicopolis;;;;;;;;;;;;x
+PROV2345;Sertanhia;;;;;;;;;;;;x
+PROV2347;Uruquia d-at-l Nuri;;;;;;;;;;;;x
+PROV2344;Uruquia d-at-l Seria;;;;;;;;;;;;x
+PROV2348;Nua Brixinha;;;;;;;;;;;;x
+PROV2346;Corominha;;;;;;;;;;;;x
+PROV2363;Il Nurigo;;;;;;;;;;;;x
+PROV2349;Regiao Xunim;;;;;;;;;;;;x
+PROV2351;Maxdalinha;;;;;;;;;;;;x
+PROV2350;Tira Allulia;;;;;;;;;;;;x
+PROV2352;Ot' d-at-l Plazsa;;;;;;;;;;;;x
+PROV2354;Nua Ballia;;;;;;;;;;;;x
+PROV2353;Tarlê;;;;;;;;;;;;x
+PROV2355;Corso do Roxo;;;;;;;;;;;;x
+PROV2386;Persucallao;;;;;;;;;;;;x
+PROV2379;Córdoma;;;;;;;;;;;;x
+PROV2380;Vix Dinoca;;;;;;;;;;;;x
+PROV2381;Riverinha;;;;;;;;;;;;x
+PROV2383;Tirasao;;;;;;;;;;;;x
+PROV2384;Mercinia;;;;;;;;;;;;x
+PROV2382;Sorogênia;;;;;;;;;;;;x
+PROV2359;Citae Borginha;;;;;;;;;;;;x
+PROV2393;Llituria;;;;;;;;;;;;x
+PROV2321;Terraien;;;;;;;;;;;;x
+PROV2320;Guarapá;;;;;;;;;;;;x
+PROV2319;Santán;;;;;;;;;;;;x
+PROV2317;Jicnago;;;;;;;;;;;;x
+PROV2316;Orijia;;;;;;;;;;;;x
+PROV2318;Sabatigia;;;;;;;;;;;;x
+PROV2418;Quiáo;;;;;;;;;;;;x
+PROV2419;Corimina;;;;;;;;;;;;x
+PROV2416;Portamarilo;;;;;;;;;;;;x
+PROV2337;Lixer;;;;;;;;;;;;x
+PROV2367;Pó 'e Guará;;;;;;;;;;;;x
+PROV2365;Minien;;;;;;;;;;;;x
+PROV2365;Estevacitá;;;;;;;;;;;;x
+PROV2376;Des-o Ter;;;;;;;;;;;;x
+PROV2377;Brijas;;;;;;;;;;;;x
+PROV2356;Fliujido;;;;;;;;;;;;x
+PROV2366;Isla Bel;;;;;;;;;;;;x
+PROV2378;Malíja;;;;;;;;;;;;x
+PROV2362;Provinje;;;;;;;;;;;;x
+PROV2360;Sax Trovije;;;;;;;;;;;;x
+PROV3289;Scottish Channel;;;;;;;;;;;;x
+PROV1008;Moskva;;;;;;;;;;;;x
+RUS_1008;Moskva;;;;;;;;;;;;x
+OMS_1064;Omsk Pravyy;;;;;;;;;;;;x
+OMS_1067;Vostok;;;;;;;;;;;;x
+SIB_394;Krilograd Pravyy;;;;;;;;;;;;x
+SIB_2659;Arkticheskiy;;;;;;;;;;;;x
+RUS_2653;Voronkrasnyy;;;;;;;;;;;;x
+RUS_389;Romangrad Pravyy;;;;;;;;;;;;x
+RUS_2685;Vershina;;;;;;;;;;;;x
+PROV1202;Zakharograd;;;;;;;;;;;;x
+PROV1485;Stalinovich;;;;;;;;;;;;x
+PROV1068;Kostya;;;;;;;;;;;;x
+PROV1190;Konstantinograd;;;;;;;;;;;;x
+PROV2656;Ustin;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2701;Osip;;;;;;;;;;;;;;;;;;;;;;;x
+RUS_2680;Bespoleznyy;;;;;;;;;;;;;;;;;;;;;;;x
+HAN_530;Neue Küste;;;;;;;;;;;;;;;;;;;;;;;x
+PROV313;Olso;;;;;;;;;;;;;;;;;;;;;;;x
+PROV310;Frekkefjord;;;;;;;;;;;;;;;;;;;;;;;x
+PROV311;Kristianssand;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1021;Jerperland;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1045;Osteroy;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1023;Leidingshaugen;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1096;Evje;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1652;Nyverden;;;;;;;;;;;;;;;;;;;;;;;x

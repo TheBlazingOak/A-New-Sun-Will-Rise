@@ -123612,12 +123612,11 @@
 
 3286 = {
     text_position = {
-        x = 4371.845000
-        y = 876.325000
+        x = 4203.380000
+        y = 1146.100000
     }
 
-    text_rotation = 5.209732
-    text_scale = 1.0000
+    text_scale = 4
     unit = {
         x = 4372.585000
         y = 877.435000
@@ -123912,12 +123911,11 @@
 
 3307 = {
     text_position = {
-        x = 4262.450000
-        y = 1611.250000
+        x = 4061.893333
+        y = 1190.053333
     }
 
-    text_rotation = 5.741048
-    text_scale = 0.800
+    text_scale = 4
     unit = {
         x = 4262.300000
         y = 1611.650000
@@ -124378,11 +124376,12 @@
     }
 
 }
-#Straits of Delhi
+
+# Straits of Delhi
 3333 = {
     text_position = {
-        x = 3297.598333
-        y = 1814.500000
+        x = 4137.476667
+        y = 1150.080000
     }
 
     text_scale = 5
@@ -124392,25 +124391,27 @@
     }
 
 }
-#Strait Of Hyderabad
+
+# Strait Of Hyderabad
 3332 = {
     text_position = {
-        x = 3297.598333
-        y = 1814.500000
+        x = 3982.173333
+        y = 1185.706667
     }
 
-    text_scale = 5
+    text_scale = 3
     unit = {
         x = 3297.045000
         y = 1816.021667
     }
 
 }
-#Sea of Pak
+
+# Sea of Pak
 3334 = {
     text_position = {
-        x = 3297.598333
-        y = 1814.500000
+        x = 3883.950000
+        y = 1190.250000
     }
 
     text_scale = 5

@@ -249,9 +249,9 @@ province;red;green;blue;x;x
 248;176;64;64;Lewiston;x
 249;110;117;123;Bangor;x
 250;240;128;192;Caribou;x
-251;192;128;64;Nuuk;x
-252;128;64;64;Iceland;x
-253;139;119;144;Faroe Islands;x
+251;192;128;64;Bord de Collin;x
+252;128;64;64;Sutherland;x
+253;139;119;144;Ritchie Islands;x
 254;104;142;121;Belfast;x
 255;160;96;64;Londonderry;x
 256;32;224;64;Armagh;x
@@ -3330,6 +3330,3 @@ province;red;green;blue;x;x
 3329;111;120;255;The Vkhod;x
 3330;117;180;200;The Split;x
 3331;85;140;200;The Russian Channel;x
-3332;0;30;255;Strait Of Hyderabad;x
-3333;0;31;255;Straits of Delhi;x
-3334;0;32;255;Sea of Pak;x

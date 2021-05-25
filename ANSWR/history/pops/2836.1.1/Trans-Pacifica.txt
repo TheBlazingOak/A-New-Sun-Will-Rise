@@ -1199,11 +1199,18 @@
         size = 9700
     }
 
-    farmers = {
+    slaves = {
         culture = pacifica
         religion = protestant
         size = 5100
     }
+
+    slaves = {
+        culture = pacifica
+        religion = protestant
+        size = 14400
+    }
+
 }
 #Brescia (708000/177000 POPS)
 728 = {
@@ -1212,34 +1219,36 @@
         religion = protestant
         size = 125
     }
-
     clergymen = {
         culture = cascadian
         religion = protestant
         size = 100
     }
-
     artisans = {
         culture = cascadian
         religion = protestant
         size = 250
     }
-
     soldiers = {
         culture = cascadian
         religion = protestant
         size = 150
     }
-
     farmers = {
         culture = cascadian
         religion = protestant
-        size = 15075
+        size = 5075
     }
-    farmers = {
+    slaves = {
         culture = pacifica
         religion = protestant
-        size = 4075
+        size = 6100
+    }
+
+    slaves = {
+        culture = pacifica
+        religion = protestant
+        size = 16400
     }
 }
 #Baker City (4000/1000 POPS)
@@ -1372,45 +1381,6 @@
         culture = cascadian
         religion = protestant
         size = 900
-    }
-}
-#Pocatello (12000/3000 POPS)
-93 = {
-
-    clergymen = {
-        culture = deisui
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = deisui
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = deisui
-        religion = protestant
-        size = 20
-    }
-
-    farmers = {
-        culture = deisui
-        religion = protestant
-        size = 30
-    }
-
-    soldiers = {
-        culture = cascadian
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = cascadian
-        religion = protestant
-        size = 2700
     }
 }
 ##Montana Pacifica culture
