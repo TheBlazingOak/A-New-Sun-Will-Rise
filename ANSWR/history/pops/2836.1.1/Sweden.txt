@@ -695,36 +695,3 @@
     }
 
 }
-#Jan Mayen, now St Barths
-3246 = {
-
-    aristocrats = {
-        culture = french
-        religion = catholic
-        size = 20
-    }
-
-    clergymen = {
-        culture = french
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = french
-        religion = catholic
-        size = 500
-    }
-
-    slaves = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 242
-    }
-}

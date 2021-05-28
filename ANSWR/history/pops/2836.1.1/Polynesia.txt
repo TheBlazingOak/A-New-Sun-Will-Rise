@@ -108,39 +108,6 @@
 }
 #Central Polynesia Region (604)
 #uncolonized in 1836
-#Palmyra Atoll (60/15 POPS)
-2526 = {
-
-    aristocrats = {
-        culture = polynesian
-        religion = animist
-        size = 5
-    }
-
-    clergymen = {
-        culture = polynesian
-        religion = animist
-        size = 5
-    }
-
-    artisans = {
-        culture = polynesian
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = polynesian
-        religion = animist
-        size = 5
-    }
-
-    farmers = {
-        culture = polynesian
-        religion = animist
-        size = 140
-    }
-}
 #Western Polynesia Region (47000)
 #uncolonized in 1836/ruled by the King of Tonga
 #Tonga (13000/3250 POPS)
@@ -176,38 +143,6 @@
     }
 }
 #uncolonized in 1836
-#Ellice Islands (2000/500 POPS)
-2541 = {
-    aristocrats = {
-        culture = polynesian
-        religion = animist
-        size = 8
-    }
-
-    clergymen = {
-        culture = polynesian
-        religion = animist
-        size = 12
-    }
-
-    artisans = {
-        culture = polynesian
-        religion = animist
-        size = 25
-    }
-
-    soldiers = {
-        culture = polynesian
-        religion = animist
-        size = 5
-    }
-
-    farmers = {
-        culture = polynesian
-        religion = animist
-        size = 450
-    }
-}
 #Wallis & Futuna (3000/750 POPS)
 2542 = {
     aristocrats = {
@@ -271,38 +206,6 @@
         culture = polynesian
         religion = animist
         size = 5700
-    }
-}
-#Tutuila (4000/1000 POPS)
-2544 = {
-    aristocrats = {
-        culture = polynesian
-        religion = animist
-        size = 10
-    }
-
-    clergymen = {
-        culture = polynesian
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = polynesian
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = polynesian
-        religion = animist
-        size = 15
-    }
-
-    farmers = {
-        culture = polynesian
-        religion = animist
-        size = 900
     }
 }
 #Central Polynesia Region (9600)
@@ -403,38 +306,6 @@
         size = 137
     }
 }
-#Niue (2000/500 POPS)
-2548 = {
-    aristocrats = {
-        culture = polynesian
-        religion = animist
-        size = 5
-    }
-
-    clergymen = {
-        culture = polynesian
-        religion = animist
-        size = 10
-    }
-
-    artisans = {
-        culture = polynesian
-        religion = animist
-        size = 25
-    }
-
-    soldiers = {
-        culture = polynesian
-        religion = animist
-        size = 5
-    }
-
-    farmers = {
-        culture = polynesian
-        religion = animist
-        size = 455
-    }
-}
 #Eastern Polynesia Region (39160)
 #uncolonized in 1836
 #Tahiti (18000/4500 POPS)
@@ -467,38 +338,6 @@
         culture = polynesian
         religion = animist
         size = 4100
-    }
-}
-#Marquesas (5000/1250 POPS)
-2551 = {
-    aristocrats = {
-        culture = polynesian
-        religion = animist
-        size = 25
-    }
-
-    clergymen = {
-        culture = polynesian
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = polynesian
-        religion = animist
-        size = 60
-    }
-
-    soldiers = {
-        culture = polynesian
-        religion = animist
-        size = 15
-    }
-
-    farmers = {
-        culture = polynesian
-        religion = animist
-        size = 1125
     }
 }
 #Tuamotu Islands (6000/1500 POPS)
@@ -606,40 +445,3 @@
     }
 
 }
-
-#Kiritimati
-#uncolonized in 1836
-#Kiritimati
-3249 = {
-    aristocrats = {
-        culture = polynesian
-        religion = animist
-        size = 1
-    }
-
-    clergymen = {
-        culture = polynesian
-        religion = animist
-        size = 1
-    }
-
-    artisans = {
-        culture = polynesian
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = polynesian
-        religion = animist
-        size = 2
-    }
-
-    farmers = {
-        culture = polynesian
-        religion = animist
-        size = 30
-    }
-
-}
-

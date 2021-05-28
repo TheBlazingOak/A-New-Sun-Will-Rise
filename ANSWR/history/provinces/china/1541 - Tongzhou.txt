@@ -1,7 +1,8 @@
 owner = SCO
 controller = SCO
 add_core = GRN
-add_core = SCO
+add_core = NSO
 trade_goods = iron
 life_rating = 39
+terrain = forest
 colonial = 2

@@ -28,45 +28,51 @@
     }
 
     aristocrats = {
-        culture = australian
-        religion = protestant
-        size = 30
+        culture = zealander
+        religion = sydnic
+        size = 1000
     }
 
     artisans = {
-        culture = australian
-        religion = protestant
-        size = 200
+        culture = zealander
+        religion = sydnic
+        size = 2000
+    }
+
+    artisans = {
+        culture = zealander
+        religion = sydnic
+        size = 2000
     }
 
     bureaucrats = {
-        culture = australian
-        religion = protestant
-        size = 10
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 75
-    }
-
-    officers = {
-        culture = australian
-        religion = protestant
-        size = 25
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
+        culture = zealander
+        religion = sydnic
         size = 200
     }
 
+    clergymen = {
+        culture = zealander
+        religion = sydnic
+        size = 125
+    }
+
+    officers = {
+        culture = zealander
+        religion = sydnic
+        size = 125
+    }
+
+    soldiers = {
+        culture = zealander
+        religion = sydnic
+        size = 3000
+    }
+
     farmers = {
-        culture = australian
-        religion = protestant
-        size = 1000
+        culture = zealander
+        religion = sydnic
+        size = 124265
     }
 
 }
@@ -104,27 +110,27 @@
     }
 
     artisans = {
-        culture = australian
-        religion = protestant
-        size = 50
+        culture = zealander
+        religion = sydnic
+        size = 2000
     }
 
     clergymen = {
-        culture = australian
-        religion = protestant
-        size = 50
+        culture = zealander
+        religion = sydnic
+        size = 100
     }
 
     soldiers = {
-        culture = australian
-        religion = protestant
-        size = 30
+        culture = zealander
+        religion = sydnic
+        size = 300
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
-        size = 200
+        culture = zealander
+        religion = sydnic
+        size = 32900
     }
 }
 #Napier (12000/3000 POPS)
@@ -153,10 +159,28 @@
         size = 75
     }
 
+    artisans = {
+        culture = zealander
+        religion = sydnic
+        size = 5000
+    }
+
+    clergymen = {
+        culture = zealander
+        religion = sydnic
+        size = 100
+    }
+
+    soldiers = {
+        culture = zealander
+        religion = sydnic
+        size = 400
+    }
+
     farmers = {
-        culture = australian
-        religion = protestant
-        size = 5
+        culture = zealander
+        religion = sydnic
+        size = 43200
     }
 
     farmers = {
@@ -191,10 +215,40 @@
         size = 75
     }
 
+    bureaucrats = {
+        culture = zealander
+        religion = sydnic
+        size = 125
+    }
+
+    artisans = {
+        culture = zealander
+        religion = sydnic
+        size = 2000
+    }
+
+    artisans = {
+        culture = zealander
+        religion = sydnic
+        size = 2500
+    }
+
+    clergymen = {
+        culture = zealander
+        religion = sydnic
+        size = 300
+    }
+
+    soldiers = {
+        culture = zealander
+        religion = sydnic
+        size = 300
+    }
+
     farmers = {
-        culture = australian
-        religion = protestant
-        size = 5
+        culture = zealander
+        religion = sydnic
+        size = 63760
     }
 
     farmers = {
@@ -236,27 +290,27 @@
     }
 
     artisans = {
-        culture = australian
-        religion = protestant
-        size = 50
+        culture = zealander
+        religion = sydnic
+        size = 500
     }
 
     clergymen = {
-        culture = australian
-        religion = protestant
-        size = 50
+        culture = zealander
+        religion = sydnic
+        size = 75
     }
 
     soldiers = {
-        culture = australian
-        religion = protestant
-        size = 50
+        culture = zealander
+        religion = sydnic
+        size = 150
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
-        size = 50
+        culture = zealander
+        religion = sydnic
+        size = 18250
     }
 
 }
@@ -289,27 +343,27 @@
     }
 
     artisans = {
-        culture = australian
-        religion = protestant
-        size = 50
+        culture = zealander
+        religion = sydnic
+        size = 500
     }
 
     clergymen = {
-        culture = australian
-        religion = protestant
-        size = 50
+        culture = zealander
+        religion = sydnic
+        size = 125
     }
 
     soldiers = {
-        culture = australian
-        religion = protestant
-        size = 50
+        culture = zealander
+        religion = sydnic
+        size = 400
     }
 
     farmers = {
-        culture = australian
-        religion = protestant
-        size = 50
+        culture = zealander
+        religion = sydnic
+        size = 27250
     }
 }
 
@@ -340,10 +394,28 @@
         size = 15
     }
 
+    artisans = {
+        culture = zealander
+        religion = sydnic
+        size = 500
+    }
+
+    clergymen = {
+        culture = zealander
+        religion = sydnic
+        size = 25
+    }
+
+    soldiers = {
+        culture = zealander
+        religion = sydnic
+        size = 250
+    }
+
     farmers = {
-        culture = australian
-        religion = protestant
-        size = 5
+        culture = zealander
+        religion = sydnic
+        size = 7500
     }
 
     farmers = {
@@ -378,10 +450,28 @@
         size = 15
     }
 
+    artisans = {
+        culture = zealander
+        religion = sydnic
+        size = 500
+    }
+
+    clergymen = {
+        culture = zealander
+        religion = sydnic
+        size = 50
+    }
+
+    soldiers = {
+        culture = zealander
+        religion = sydnic
+        size = 300
+    }
+
     farmers = {
-        culture = australian
-        religion = protestant
-        size = 5
+        culture = zealander
+        religion = sydnic
+        size = 11250
     }
 
     farmers = {
@@ -416,10 +506,34 @@
         size = 50
     }
 
+    bureaucrats = {
+        culture = zealander
+        religion = sydnic
+        size = 75
+    }
+
+    clergymen = {
+        culture = zealander
+        religion = sydnic
+        size = 75
+    }
+
+    officers = {
+        culture = zealander
+        religion = sydnic
+        size = 25
+    }
+
+    soldiers = {
+        culture = zealander
+        religion = sydnic
+        size = 500
+    }
+
     farmers = {
-        culture = australian
-        religion = protestant
-        size = 5
+        culture = zealander
+        religion = sydnic
+        size = 62450
     }
 
     farmers = {
@@ -454,10 +568,34 @@
         size = 75
     }
 
+    bureaucrats = {
+        culture = zealander
+        religion = sydnic
+        size = 50
+    }
+
+    clergymen = {
+        culture = zealander
+        religion = sydnic
+        size = 50
+    }
+
+    officers = {
+        culture = zealander
+        religion = sydnic
+        size = 25
+    }
+
+    soldiers = {
+        culture = zealander
+        religion = sydnic
+        size = 300
+    }
+
     farmers = {
-        culture = australian
-        religion = protestant
-        size = 5
+        culture = zealander
+        religion = sydnic
+        size = 45200
     }
 
     farmers = {
@@ -465,4 +603,21 @@
         religion = animist
         size = 2675
     }
+}
+#Norfolk Island Region (1000)
+#Ruled by Britain 1836
+#Norfolk Island (1000/250 POPS)
+2508 = {
+    clergymen = {
+        culture = zealander
+        religion = sydnic
+        size = 25
+    }
+
+    farmers = {
+        culture = zealander
+        religion = sydnic
+        size = 1235
+    }
+
 }

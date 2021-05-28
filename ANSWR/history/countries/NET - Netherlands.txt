@@ -81,7 +81,8 @@ interchangeable_parts = 1
 
 #Inventions
 precision_work = yes
-
+commerce_raiders = yes
+steamer_transports = yes
 
 # Starting Consciousness
 consciousness = 4

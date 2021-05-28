@@ -22,7 +22,6 @@ christian = {
     orthodox = {
         icon = 3
         color = { 0.7 0.5 0 }
-
     }
 
     coptic = {
@@ -30,6 +29,7 @@ christian = {
         color = { 0 0.5 0.7 }
 
     }
+
 }
 
 muslim = {
@@ -109,4 +109,41 @@ pagan = {
         color = { 0.5 0.0 0.0 }
         pagan = yes
     }
+}
+
+europe_religions = {
+    ketronant = {
+        icon = 19
+        color = { 0.4 0.2 0.2 }
+    }
+    vitalic = {
+        icon = 1
+        color = { 0.7 0.5 0 }
+    }
+    veravburyu = {
+        icon = 3
+        color = { 0.2 0.2 0.4 }
+    }
+    prosperity = {
+        icon = 19
+        color = { 0.8 0.2 0.2 }
+    }
+}
+
+liberty = {
+
+    libertist = {
+        icon = 20
+        color = { 0.5 0.2 0.1 }
+    }
+    klanite = {
+        icon = 21
+        color = { 0.2 0.2 0.6 }
+    }
+
+    sydnic = {
+        icon = 23
+        color = { 152 152 152 }
+    }
+    
 }

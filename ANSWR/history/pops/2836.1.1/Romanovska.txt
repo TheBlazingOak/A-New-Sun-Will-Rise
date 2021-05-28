@@ -33,12 +33,181 @@
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 132550
+        size = 122550
     }
     serfs = {
         culture = novosibiryaki
         religion = orthodox
         size = 65245
     }
+    craftsmen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 11300
+    }
+    clerks = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 200
+    }
 
+}
+#Urals Region (832000)
+#Ekaterinburg (396000/99000 POPS)
+1058 = {
+
+    aristocrats = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 800
+    }
+
+    bureaucrats = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 275
+    }
+
+    officers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 225
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 500
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 10000
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 4950
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 25750
+    }
+
+    serfs = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 35000
+    }
+}
+#Chelyabinsk (180000/45000 POPS)
+1059 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 650
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 3250
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 1250
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 61400
+    }
+    craftsmen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 4425
+    }
+}
+#Orsk (180000/45000 POPS)
+1060 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 2450
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 500
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 5250
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 58850
+    }
+}
+#Essey (1000/250 POPS) => Abakan/Khakas
+2674 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 2500
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 1000
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 7250
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 1550
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 63450
+    }
 }

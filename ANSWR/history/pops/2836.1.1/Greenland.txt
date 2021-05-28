@@ -560,6 +560,7 @@ clergymen = {
         culture = norwegian
         religion = protestant
         size = 8500
+    }
     soldiers = {
         culture = norwegian
         religion = protestant

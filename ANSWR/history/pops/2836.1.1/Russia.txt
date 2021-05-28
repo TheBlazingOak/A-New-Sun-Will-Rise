@@ -157,474 +157,296 @@
     aristocrats = {
         culture = russian
         religion = orthodox
-        size = 3250
+        size = 92
+    }
+
+    officers = {
+        culture = russian
+        religion = orthodox
+        size = 46
     }
 
     clergymen = {
         culture = russian
         religion = orthodox
-        size = 125
+        size = 323
     }
 
     artisans = {
         culture = russian
         religion = orthodox
-        size = 2500
+        size = 1846
     }
 
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 6100
+        size = 1384
     }
 
     farmers = {
         culture = russian
         religion = orthodox
-        size = 16550
+        size = 42469
     }
 
-    serfs = {
-        culture = russian
-        religion = orthodox
-        size = 20000
-    }
-
-    clergymen = {
-        culture = ukrainian
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = ukrainian
-        religion = orthodox
-        size = 3500
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 850
-    }
-
-    farmers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 10850
-    }
-
-    serfs = {
-        culture = russian
-        religion = orthodox
-        size = 80000
-    }
-
-    clergymen = {
-        culture = byelorussian
-        religion = orthodox
-        size = 175
-    }
-
-    artisans = {
-        culture = byelorussian
-        religion = orthodox
-        size = 800
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 200
-    }
-
-    farmers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 8825
-    }
-
-    ######Jews
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 500
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 400
-    }
-    ########
 }
 #Bryansk (656000/164000 POPS)
 1016 = {
     aristocrats = {
         culture = russian
         religion = orthodox
-        size = 3200
-    }
-
-    clergymen = {
-        culture = russian
-        religion = orthodox
-        size = 225
-    }
-
-    artisans = {
-        culture = russian
-        religion = orthodox
-        size = 7200
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 6200
-    }
-
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 66975
-    }
-
-    serfs = {
-        culture = russian
-        religion = orthodox
-        size = 80000
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+        size = 112
     }
 
     officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+        culture = russian
+        religion = orthodox
+        size = 56
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+        culture = russian
+        religion = orthodox
+        size = 393
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 400
+        culture = russian
+        religion = orthodox
+        size = 2249
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 1686
     }
 
     farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
+        culture = russian
+        religion = orthodox
+        size = 51734
     }
-    ########
+
 }
 #Kursk Region (3716000) #see Ukraine.txt for balance of region
 #under the rule of Russia in 1836
 #Kursk (772000/193000 POPS)
-977 = {
-    aristocrats = {
-        culture = ukrainian
-        religion = orthodox
-        size = 4000
-    }
-
-    officers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = ukrainian
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = ukrainian
-        religion = orthodox
-        size = 1350
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 3000
-    }
-
-    farmers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 23400
-    }
-
-    serfs = {
-        culture = ukrainian
-        religion = orthodox
-        size = 1000
-    }
-
+977  = {
     aristocrats = {
         culture = russian
         religion = orthodox
-        size = 3500
-    }
-
-    bureaucrats = {
-        culture = russian
-        religion = orthodox
-        size = 1500
+        size = 437
     }
 
     officers = {
         culture = russian
         religion = orthodox
-        size = 1150
+        size = 221
     }
 
     clergymen = {
         culture = russian
         religion = orthodox
-        size = 375
+        size = 1532
     }
 
     artisans = {
         culture = russian
         religion = orthodox
-        size = 8300
+        size = 8759
     }
 
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 2675
+        size = 6569
     }
 
     farmers = {
         culture = russian
         religion = orthodox
-        size = 58250
+        size = 201473
     }
 
-    serfs = {
-        culture = russian
-        religion = orthodox
-        size = 90000
+    aristocrats = {
+        culture = ukrainian
+        religion = catholic
+        size = 4
     }
+
+    clergymen = {
+        culture = ukrainian
+        religion = catholic
+        size = 13
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = catholic
+        size = 79
+    }
+
+    soldiers = {
+        culture = ukrainian
+        religion = catholic
+        size = 59
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = catholic
+        size = 2035
+    }
+
 }
 #Orel (656000/164000 POPS)
 1017 = {
     aristocrats = {
         culture = russian
         religion = orthodox
-        size = 2750
+        size = 165
+    }
+
+    officers = {
+        culture = russian
+        religion = orthodox
+        size = 82
     }
 
     clergymen = {
         culture = russian
         religion = orthodox
-        size = 350
+        size = 577
     }
 
     artisans = {
         culture = russian
         religion = orthodox
-        size = 8000
+        size = 3300
     }
 
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 2650
+        size = 2475
     }
 
     farmers = {
         culture = russian
         religion = orthodox
-        size = 69650
+        size = 75913
     }
 
-    serfs = {
-        culture = russian
-        religion = orthodox
-        size = 80000
-    }
 }
 #Belgorod (748000/187000 POPS)
 1018 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = orthodox
-        size = 2500
+        size = 198
+    }
+
+    officers = {
+        culture = russian
+        religion = orthodox
+        size = 102
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = orthodox
-        size = 375
+        size = 696
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = orthodox
-        size = 6350
+        size = 3977
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = orthodox
-        size = 1600
+        size = 2983
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = orthodox
-        size = 46975
-    }
-
-    serfs = {
-        culture = ukrainian
-        religion = orthodox
-        size = 100000
+        size = 91493
     }
 
     aristocrats = {
-        culture = russian
-        religion = orthodox
-        size = 500
+        culture = ukrainian
+        religion = catholic
+        size = 6
     }
 
     clergymen = {
-        culture = russian
-        religion = orthodox
-        size = 275
+        culture = ukrainian
+        religion = catholic
+        size = 18
     }
 
     artisans = {
-        culture = russian
-        religion = orthodox
-        size = 1400
+        culture = ukrainian
+        religion = catholic
+        size = 110
     }
 
     soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 300
+        culture = ukrainian
+        religion = catholic
+        size = 83
     }
 
     farmers = {
-        culture = russian
-        religion = orthodox
-        size = 26925
+        culture = ukrainian
+        religion = catholic
+        size = 2829
     }
+
 }
 #Voronets (1540000/385000 POPS)
 1019 = {
     aristocrats = {
-        culture = ukrainian
-        religion = orthodox
-        size = 2500
-    }
-
-    clergymen = {
-        culture = ukrainian
-        religion = orthodox
-        size = 500
-    }
-
-    artisans = {
-        culture = ukrainian
-        religion = orthodox
-        size = 8550
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 15100
-    }
-
-    farmers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 74150
-    }
-
-    serfs = {
         culture = russian
         religion = orthodox
-        size = 65000
+        size = 124
     }
 
-    aristocrats = {
+    officers = {
         culture = russian
         religion = orthodox
-        size = 3500
+        size = 62
     }
 
     clergymen = {
         culture = russian
         religion = orthodox
-        size = 225
+        size = 434
     }
 
     artisans = {
         culture = russian
         religion = orthodox
-        size = 10000
+        size = 2484
     }
 
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 1150
+        size = 1863
     }
 
     farmers = {
         culture = russian
         religion = orthodox
-        size = 91975
+        size = 57133
     }
 
-    serfs = {
-        culture = russian
-        religion = orthodox
-        size = 55000
-    }
-
-    serfs = {
-        culture = russian
-        religion = orthodox
-        size = 50000
-    }
 }
 #Donbass Region (1188000) #see Ukraine.txt for balance of region
 #under the rule of Russia in 1836
@@ -1295,58 +1117,6 @@
         culture = ugrian
         religion = animist
         size = 590
-    }
-}
-#Inta (3400/850 POPS)
-2688 = {
-    clergymen = {
-        culture = russian
-        religion = orthodox
-        size = 5
-    }
-
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 195
-    }
-
-    clergymen = {
-        culture = ugrian
-        religion = animist
-        size = 10
-    }
-
-    farmers = {
-        culture = ugrian
-        religion = animist
-        size = 640
-    }
-}
-#Izhma (2000/500 POPS)
-2699 = {
-    clergymen = {
-        culture = russian
-        religion = orthodox
-        size = 5
-    }
-
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 145
-    }
-
-    clergymen = {
-        culture = ugrian
-        religion = animist
-        size = 5
-    }
-
-    farmers = {
-        culture = ugrian
-        religion = animist
-        size = 345
     }
 }
 #Vologda Region (1712000)
@@ -2279,50 +2049,6 @@
         culture = russian
         religion = orthodox
         size = 100000
-    }
-}
-#Tula (1160000/290000 POPS)
-1011 = {
-    aristocrats = {
-        culture = russian
-        religion = orthodox
-        size = 4900
-    }
-
-    clergymen = {
-        culture = russian
-        religion = orthodox
-        size = 2875
-    }
-
-    artisans = {
-        culture = russian
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = russian
-        religion = orthodox
-        size = 4500
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 12000
-    }
-
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 114725
-    }
-
-    serfs = {
-        culture = russian
-        religion = orthodox
-        size = 140000
     }
 }
 #Riazan (1192000/298000 POPS)
@@ -4662,131 +4388,6 @@
         size = 9375
     }
 }
-#Urals Region (832000)
-#under the rule of Russia in 1836
-#Ekaterinburg (396000/99000 POPS)
-1058 = {
-
-    aristocrats = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 800
-    }
-
-    bureaucrats = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 275
-    }
-
-    officers = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 225
-    }
-
-    clergymen = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 500
-    }
-
-    artisans = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 4950
-    }
-
-    soldiers = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 25750
-    }
-
-    serfs = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 35000
-    }
-}
-#Chelyabinsk (180000/45000 POPS)
-1059 = {
-    aristocrats = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 650
-    }
-
-    clergymen = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 550
-    }
-
-    artisans = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 3250
-    }
-
-    soldiers = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 1250
-    }
-
-    farmers = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 61400
-    }
-}
-#Orsk (180000/45000 POPS)
-1060 = {
-    aristocrats = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 2450
-    }
-
-    clergymen = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 500
-    }
-
-    artisans = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 5250
-    }
-
-    soldiers = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 58850
-    }
-}
-
-
 #Yugra Region (98500)
 #under the rule of Russia in 1836
 #Berezov (60000/15000 POPS)
@@ -5747,57 +5348,6 @@
         size = 225
     }
 }
-#Svetlogorsk (2000/500 POPS)
-2657 = {
-    aristocrats = {
-        culture = siberian
-        religion = animist
-        size = 5
-    }
-
-    clergymen = {
-        culture = siberian
-        religion = animist
-        size = 10
-    }
-
-    artisans = {
-        culture = siberian
-        religion = animist
-        size = 20
-    }
-
-    soldiers = {
-        culture = siberian
-        religion = animist
-        size = 5
-    }
-
-    farmers = {
-        culture = siberian
-        religion = animist
-        size = 410
-    }
-
-    bureaucrats = {
-        culture = russian
-        religion = orthodox
-        size = 3
-    }
-
-    clergymen = {
-        culture = russian
-        religion = orthodox
-        size = 2
-    }
-
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 45
-    }
-}
-
 #Kha-tanga (1000/250 POPS)
 2654 = {
     aristocrats = {
@@ -5828,70 +5378,6 @@
         culture = siberian
         religion = animist
         size = 225
-    }
-}
-#Essey (1000/250 POPS) => Abakan/Khakas
-2674 = {
-    aristocrats = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 2500
-    }
-
-    clergymen = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 1000
-    }
-
-    artisans = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 7250
-    }
-
-    soldiers = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 1550
-    }
-
-    farmers = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 63450
-    }
-}
-#Saskylah (1000/250 POPS)
-2653 = {
-    aristocrats = {
-        culture = yakut
-        religion = animist
-        size = 5
-    }
-
-    clergymen = {
-        culture = yakut
-        religion = animist
-        size = 5
-    }
-
-    artisans = {
-        culture = yakut
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = yakut
-        religion = animist
-        size = 5
-    }
-
-    farmers = {
-        culture = yakut
-        religion = animist
-        size = 230
     }
 }
 #Udachniy (2000/500 POPS)
@@ -6394,38 +5880,6 @@
         culture = mongol
         religion = gelugpa
         size = 26000
-    }
-}
-#Kular (1000/250 POPS)
-2652 = {
-    aristocrats = {
-        culture = yakut
-        religion = animist
-        size = 3
-    }
-
-    clergymen = {
-        culture = yakut
-        religion = animist
-        size = 5
-    }
-
-    artisans = {
-        culture = yakut
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = yakut
-        religion = animist
-        size = 2
-    }
-
-    farmers = {
-        culture = yakut
-        religion = animist
-        size = 230
     }
 }
 #Zhilinda (1000/250 POPS) => Barguzin

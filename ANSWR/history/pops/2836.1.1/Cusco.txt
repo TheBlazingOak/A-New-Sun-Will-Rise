@@ -1378,68 +1378,6 @@
         size = 4000
     }
 }
-#Zamora (176000/44000 POPS)
-2283 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 90
-    }
-
-    clergymen = {
-        culture = muisca
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = muisca
-        religion = catholic
-        size = 50
-    }
-
-    soldiers = {
-        culture = muisca
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = muisca
-        religion = catholic
-        size = 2275
-    }
-
-    slaves = {
-        culture = muisca
-        religion = catholic
-        size = 3000
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 750
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 400
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 8775
-    }
-}
 #Tena (32000/8000 POPS)
 2284 = {
     aristocrats = {

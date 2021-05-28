@@ -1,6 +1,6 @@
-owner = HAM
-controller = HAM
-add_core = HAM
+owner = WAG
+controller = WAG
+add_core = WAG
 trade_goods = grain
 terrain = savanna
 life_rating = 20

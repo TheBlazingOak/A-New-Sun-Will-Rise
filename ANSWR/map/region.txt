@@ -32,7 +32,9 @@ CAN_60 = { 63 9 59 2593 2626 2592 61 } #Upper Quebec
 
 ENG_68 = { 68 69 70 71 72 73 66 67 } #Maritimes
 
-ENG_74 = { 74 75 76 77 2625 62 } #Newfoundland
+ENG_74 = { 76 2625 62 } #Newfoundland
+
+QUE_75 = { 75 74 77 }#New-Kouderhagen
 
 ### United States
 
@@ -117,7 +119,7 @@ ENG_258 = { 258 259 260 261 } #Connacht
 
 ENG_263 = { 263 264 265 262 } #Leinster
 
-ENG_266 = { 266 267 268 1724 } #Highlands
+ENG_266 = { 266 267 268 1724 253 } #Highlands
 
 ENG_271 = { 271 269 270 272 } #Lowlands
 
@@ -138,7 +140,7 @@ ENG_300 = { 300 294 301 302 303 295 } #South East England
 
 QUE_251 = { 2636 251 1330 93 1570 1652 } #Quebec Greenland
 
-SCO_252 = { 1541 1498 1606 252 253 }#Scotish Greenland & Iceland
+SCO_252 = { 1541 1498 1606 252 }#Scotish Greenland & Iceland
 
 SWE_308 = { 308 305 306 } #Nordnoge
 
@@ -476,7 +478,7 @@ YEM_1412 = { 1412 1173 1175 1176 1177 } #Aden
 
 YEM_1178 = { 1178 1179 1180 } #Sanaa
 
-KOK_1190 = { 1189 1190 1201 1203 1207 1208 } #Kirghizia
+KOK_1190 = { 1189 1201 1203 1207 1208 } #Kirghizia
 
 KHI_1191 = { 1191 1195 1198 1199 1200 29 } #Uzbekia
 
@@ -577,7 +579,7 @@ RUS_2589 = { 986 2687 } #Nenetsia
 
 RUS_2590 = { 2622 2634 2637 2661 2666 } #Coastal Chukotka
 
-RUS_2615 = { 2675 2677 1032 } #Lower Yeniseysk - Taymyria
+RUS_2615 = { 2675 2677 1032 2694 } #Lower Yeniseysk - Taymyria
 
 RUS_2618 = { 1072 2618 2620 2638 2639 2660 } #Upper Okhotsk - Magadan
 
@@ -593,7 +595,7 @@ OMS_1067 = { 1067 1068 2698 2686 1038 } #Vostok
 
 RUS_1184 = { 1181 2612 999 } #Akmolinsk
 
-RUS_1469 = { 1063 576 2683 2694 1485 } #Tomsk
+RUS_1469 = { 1063 576 2683 1485 } #Tomsk
 
 SIB_394 = { 394 1070 2656 2692 }#Krilograd
 
@@ -1114,7 +1116,7 @@ HAI_2213 = { 2213 2214 2215 2216 } #Hispanola
 
 ENG_203 = { 2217 2219 2218 2220 } #Caribbean Islands
 
-ENG_2224 = { 2224 2226 2227 2230 2236 2223 2222 3246 } #West Indies
+ENG_2224 = { 2224 2226 2227 2230 2236 2223 2222 } #West Indies
 
 ENG_2228 = { 2228 2229 2231 2232 2233 2237 2238 2409 2357 } #Lesser Antilles
 
@@ -1231,19 +1233,25 @@ ARG_2398 = { 2131 2398 2399 2400  2333 2334 2335 2336 } #Patagonia Meridional
 
 ### Australia & New Zealand
 
-ENG_2468 = { 2468 2469 2470 2471 2473 2474 2475 2508 2128 1443 2544 2657 } #New South Wales
+ENG_2468 = { 2468 2469 2470 2471 2508 2128 1443 2544 } #New South Wales
 
-ENG_2476 = {  2477 2478 2481 } #Victoria
+AST_2476 = { 2476 2479 2480 1395 402 2482 2472 2477 2478 } #Melbourne
 
-AST_2476 = { 2476 2479 2480 1395 402 2482 2472 }
+ENG_2483 = { 128 2536 1424 2489 2487 2488 1654  } #Queensland
 
-ENG_2483 = { 2483 2484 2485 2486 2487 2488 2489 2490 128 2536 1424 2551 2526 1654 } #Queensland
+AST_128 = { 2483 2484 2485 2486 2490 2551 2526 } #The Lost Coast
+
+AST_2473 = { 2473 2474 2475 2657 2481 } #Broken Plains
 
 ENG_2491 = { 2491 2493 2494 2283 } #South Australia
 
-ENG_210 = { 210 2492 2496 2699 }
+ENG_210 = { 210 2492 2496 2699 }#Fromden
 
-ENG_2497 = { 2497 2498 2499 2500 2501 2502 2503 2504 2601 2602 2605 } #Western Australia
+ENG_2497 = { 2497 2498 2499 } #Perth
+
+AST_2500 = { 2504 2500 2503 } #Esperia
+
+AST_2501 = { 2501 2502 2601 2602 2605 }#Broome
 
 ENG_2505 = { 2505 2506 2507 2603 2604 1325 2495 } #Northern Territory
 
@@ -1251,13 +1259,13 @@ ENG_2509 = { 2509 2510 2511 2512 2571 2524 } #North Island - Aotearoa
 
 ENG_2513 = { 2516 2513 2514 2515 } #South Island -  Te Waipounamu
 
-AUS_399 = { 399 470 847 }
+AST_399 = { 399 470 847 } #Trovestray
 
-AUS_407 = { 465 407 60 2527 2647 }
+AST_407 = { 60 465 407 2527 2647 } #Saplaid
 
-AUS_856 = { 856 2652 857 471 2688 2548 3249 2653 }
+AST_856 = { 856 2652 857 471 2688 2548 3249 2653 } #Nowozer-Braze
 
-AUS_742 = { 742 846 2454 1011 2541 }
+AST_742 = { 742 846 2454 1011 2541 3246 } #Ranseyre
 
 ### Pacific Islands
 

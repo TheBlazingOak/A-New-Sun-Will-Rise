@@ -1,10 +1,10 @@
-capital = 2476
-primary_culture = australian
-religion = protestant
+capital = 2501
+primary_culture = perther
+religion = sydnic
 government = hms_government
 plurality = 5
 nationalvalue = nv_liberty
-literacy = 0.6
+literacy = 0.29
 civilized = yes
 
 # Political reforms
@@ -28,7 +28,7 @@ school_reforms = no_schools
 
 # New Reforms
 conscription = no_draft
-debt_law = debtors_prisons
+debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = culture_voting_only
@@ -36,12 +36,12 @@ border_policy = open_borders
 
 set_country_flag = protestant_country
 
-ruling_party = AST_conservative
+ruling_party = AST_reactionary
 upper_house = {
     fascist = 0
-    liberal = 10
-    conservative = 65
-    reactionary = 25
+    liberal = 20
+    conservative = 32
+    reactionary = 38
     anarcho_liberal = 0
     socialist = 0
     communist = 0

@@ -86,4 +86,4 @@ steamer_transports = yes
 consciousness = 2
 nonstate_consciousness = 0
 
-oob = "DEN_oob.txt"
+oob = "SAP_oob.txt"

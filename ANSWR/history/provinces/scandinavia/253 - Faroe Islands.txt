@@ -1,6 +1,5 @@
 owner = SCO
 controller = SCO
-add_core = GRN
 add_core = SCO
 trade_goods = cattle
 life_rating = 35

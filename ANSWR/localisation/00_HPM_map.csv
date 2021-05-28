@@ -4,7 +4,7 @@ PROV1795;Bambuhu;;;;;;;;;;;;;x
 PROV1905;Sia;;;;;;;;;;;;;x
 PROV1981;Elba;;;;;;;;;;;;;x
 PROV2131;Falkland & South Georgia;;;;;;;;;;;;;x
-PROV3322;Pinaki;;;;;;;;;;;;;x
+PROV3322;Panaki;;;;;;;;;;;;;x
 FRA_411;Louréne;;;;;;;;;;;;x
 PROV934;Samawah;;;;;;;;;;;;x
 AUS_627;Lower Silesia;;;;;;;;;;;;x
@@ -85,8 +85,7 @@ PROV3294;Lake Mweru;;;;;;;;;;;;x
 PROV3293;Lake Rukwa;;;;;;;;;;;;x
 PROV3292;Lake Argyle;;;;;;;;;;;;x
 PROV3291;Lake Mackay;;;;;;;;;;;;x
-PROV3290;Lake Eyre;;;;;;;;;;;;x
-PROV3289;Lake Frome;;;;;;;;;;;;x
+PROV3289;Scottish Channel;;;;;;;;;;;;x
 PROV3287;Lake Gairdner;;;;;;;;;;;;x
 PROV3286;Songkhla Lake;;;;;;;;;;;;x
 PROV3285;Fagnano Lake;;;;;;;;;;;;x
@@ -109,7 +108,6 @@ PROV41;Fort Ellice;;;;;;;;;;;x
 PROV2594;Osnaburgh House;;;;;;;;;;;x
 PROV49;Rat Portage;;;;;;;;;;;x
 PROV52;Sudbury;;;;;;;;;;;x
-PROV75;Port-Aux-Basques;;;;;;;;;;;x
 PROV69;Petit-Sault;;;;;;;;;;;;x
 PROV683;Waldenburg;;;;;;;;;;;x
 PROV43;Clarksville;;;;;;;;;;;x
@@ -150,7 +148,7 @@ PROV1196;Gurgench;;;;;;;;;;;;x
 PROV686;Merv;;;;;;;;;;;;x
 BUR_1334;Mandalay;;;;;;;;;;;;x
 PROV2623;Midway and Wake Islands;;;;;;;;;;;;x
-PROV2524;Kirikiriroa;;;;;;;;;;;;x
+PROV2524;Hamilton;;;;;;;;;;;;x
 PROV579;Neuwied;;;;;;;;;;;;;x
 PROV574;Koblenz;;;;;;;;;;;;;x
 PROV547;Greifswald;;;;;;;;;;;;;x
@@ -375,12 +373,13 @@ PROV3102;Ukerewe;;;;;;;;;;;;;x;;;;;;
 PROV1845;Bahr el Ghazal;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV2070;Umtali;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV2581;Chiconono;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV2516;Whakatu;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV2515;Otautahi;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV2513;Otepoti;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV2512;Te Upoko-o-te-Ika;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV2511;Ahuriri;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV2510;Ngamotu;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV2516;Nelson;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV2498;Albaly;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV2515;Syndirch;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV2513;Dunedin;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV2512;Wellingtown;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV2511;Napier;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV2510;Plymouth;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV1624;Hanseong;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV2086;Aixa-aibes;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV2079;Otjozondjii;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -885,10 +884,10 @@ PROV158;Duluth;;;;;;;;;;;;x
 PROV638;Prešov;;;;;;;;;;;;x
 AUS_626;Sudetes;;;;;;;;;;;;x
 PROV2630;Tok;;;;;;;;;;;;x
-PROV84;Sacramento;;;;;;;;;;;;x
+PROV84;Sactown;;;;;;;;;;;;x
 PROV86;Truckee;;;;;;;;;;;;x
 PROV98;Cedar City;;;;;;;;;;;;x
-PROV23;Fort McMurray;;;;;;;;;;;;x
+PROV23;Macallie;;;;;;;;;;;;x
 PROV22;Bonnyville;;;;;;;;;;;;x
 PROV27;Edmonton;;;;;;;;;;;;x
 PROV31;Black Lake;;;;;;;;;;;;x
@@ -919,7 +918,7 @@ PROV168;Olney;;;;;;;;;;;;x
 PROV33;Prince Albert;;;;;;;;;;;;x
 PROV42;Winnipeg;;;;;;;;;;;;x
 PROV36;Pinawa;;;;;;;;;;;;x
-PROV60;Richmond;;;;;;;;;;;;x
+PROV60;Saplaid;;;;;;;;;;;;x
 PROV211;Lynchburg;;;;;;;;;;;;x
 PROV2186;Guatemala City;;;;;;;;;;;;x
 PROV14;Victoria;;;;;;;;;;;;x
@@ -1196,3 +1195,28 @@ PROV1045;Osteroy;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1023;Leidingshaugen;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1096;Evje;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1652;Nyverden;;;;;;;;;;;;;;;;;;;;;;;x
+PROV74;Kolderveen;;;;;;;;;;;;;;;;;;;;;;;x
+PROV75;Bloemstad;;;;;;;;;;;;;;;;;;;;;;;x
+PROV77;Zittend en Kade;;;;;;;;;;;;;;;;;;;;;;;x
+QUE_75;Nieuw-Kouderhagen;;;;;;;;;;;;;;;;;;;;;;;x
+PROV3290;The Sea of Eyre;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2492;Palicon;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2496;Fromden;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2499;Black Hills;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2495;Desert;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2507;Windy Sands;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2603;Rezere;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2699;Allakalla;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2504;Esperia City;;;;;;;;;;;;;;;;;;;;;;;x
+ENG_210;Fromden;;;;;;;;;;;;;;;;;;;;;;;x
+ENG_2497;Perth;;;;;;;;;;;;;;;;;;;;;;;x
+AST_2500;Esperia;;;;;;;;;;;;;;;;;;;;;;;x
+AST_2501;Broome;;;;;;;;;;;;;;;;;;;;;;;x
+AST_210;Esperia;;;;;;;;;;;;;;;;;;;;;;;x
+AST_399;Trovenstray;;;;;;;;;;;;;;;;;;;;;;;x
+AST_407;Saplaid;;;;;;;;;;;;;;;;;;;;;;;x
+AST_856;Nowozer-Braze;;;;;;;;;;;;;;;;;;;;;;;x
+AST_742;Ranseyre;;;;;;;;;;;;;;;;;;;;;;;x
+AST_2476;Melbourne;;;;;;;;;;;;;;;;;;;;;;;x
+AST_128;The Lost Coast;;;;;;;;;;;;;;;;;;;;;;;x
+AST_2473;Broken Plains;;;;;;;;;;;;;;;;;;;;;;;x

@@ -42,12 +42,6 @@ FRM = {
     influence_value = 0
     military_access = yes
 }
-HAM = {
-    value = 200
-    level = 5
-    influence_value = 0
-    military_access = yes
-}
 HAN = {
     value = 125
     level = 3

@@ -1,7 +1,7 @@
 political_decisions = {
 
 	confederate_unification = {
-	picture = reform_the_csa
+	picture = reform_csa
 		potential = {
 			is_primary_culture = dixie
             capital_scope = { continent = north_america }

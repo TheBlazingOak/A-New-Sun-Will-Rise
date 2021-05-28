@@ -3267,8 +3267,8 @@ BAN;Banovinhaben;;;;;;;;;;;;;,,
 BAN_ADJ;Banovinhabinian;;;;;;;;;;;;;,,
 NSR;Skrirvatska;;;;;;;;;;;;;,,
 NSR_ADJ;Skrirvati;;;;;;;;;;;;;,,
-JAM;Chrysí Dimokratía;;;;;;;;;;;;;,,
-JAM_ADJ;Chrysós;;;;;;;;;;;;;,,
+JAM;Chrysí Athína;;;;;;;;;;;;;,,
+JAM_ADJ;Athinaíoi;;;;;;;;;;;;;,,
 MON;Free Cities of Nadatise;;;;;;;;;;;;;,,
 MON_ADJ;Nadatisa;;;;;;;;;;;;;,,
 SYC;Harigratto;;;;;;;;;;;;;,,
@@ -3281,7 +3281,7 @@ IST;Büyük Istanbul;;;;;;;;;;;;;,,
 IST_ADJ;Istanbullu;;;;;;;;;;;;;,,
 MCD;Gemakedonía;;;;;;;;;;;;;,,
 MCD_ADJ;Gemakedonías;;;;;;;;;;;;;,,
-GLC;Magyarok Földje;;;;;;;;;;;;;,,
+GLC;Magyarfolde;;;;;;;;;;;;;,,
 GLC_ADJ;Magyar;;;;;;;;;;;;;,,
 CRE;Pelopénni;;;;;;;;;;;;;,,
 CRE_ADJ;Pelopónsis;;;;;;;;;;;;;,,
@@ -3382,13 +3382,13 @@ OUD_proletariat_dictatorship;Volksrijk;;;;;;;;;;;;;,,
 OUD_presidential_dictatorship;Deutsche Directorate;;;;;;;;;;;;;,,
 OUD_bourgeois_dictatorship;Deutsche Directorate;;;;;;;;;;;;;,,
 OUD_fascist_dictatorship;Groot-Oudrijk;;;;;;;;;;;;;,,
-OUD_conservative;Parti Conservador;;;;;;;;;;;;;
-OUD_liberal;Parti Librere;;;;;;;;;;;;;
-OUD_reactionary;Parti dela Nación;;;;;;;;;;;;;
-OUD_anarcho_liberal;Parti por L'Libertá;;;;;;;;;;;;;
-OUD_socialist;Parti Socialor;;;;;;;;;;;;;
-OUD_communist;Parti Comunor;;;;;;;;;;;;;
-OUD_fascist;Parti Nueva Nación;;;;;;;;;;;;;
+OUD_conservative;Königstreue;;;;;;;;;;;;;
+OUD_liberal;Freiheitsparty;;;;;;;;;;;;;
+OUD_reactionary;Die Monarchisten;;;;;;;;;;;;;
+OUD_anarcho_liberal;Ehman's Fraktion;;;;;;;;;;;;;
+OUD_socialist;Die Anti-Kronen Fraktion;;;;;;;;;;;;;
+OUD_communist;Kommunistische Partei;;;;;;;;;;;;;
+OUD_fascist;Besser Volk Pakt;;;;;;;;;;;;;
 TRP;Trans-Pacifica;;;;;;;;;;;;;,,
 TRP_ADJ;Pacifica;;;;;;;;;;;;;,,
 BRE;Brome;;;;;;;;;;;;;,,
@@ -3402,18 +3402,32 @@ AUG_hms_government;Duchy of Augusta;;;;;;;;;;;;;,,
 AUG_prussian_constitutionalism;Duchy of Augusta;;;;;;;;;;;;;,,
 PRT;Perth;;;;;;;;;;;;;,,
 PRT_ADJ;Perthian;;;;;;;;;;;;;,,
-AST;Holy Australian Empire;;;;;;;;;;;;;,,
-AST_ADJ;Imperial Australian;;;;;;;;;;;;;,,
+HAE;Holy Australian Empire;;;;;;;;;;;;;,,
+HAE_ADJ;Imperial Australian;;;;;;;;;;;;;,,
+HAE_democracy;The Australian Republic;;;;;;;;;;;;;,,
+HAE_communist_dictatorship;Australian People's Republic;;;;;;;;;;;;;,,
+HAE_fascist_dictatorship;Australian Empire;;;;;;;;;;;;;,,
+HAE_presidential_dictatorship;The Australian Republic;;;;;;;;;;;;;,,
+HAE_bourgeois_dictatorship;The Australian Republic;;;;;;;;;;;;;,,
+HAE_conservative;Royalist Faction;;;;;;;;;;;;;
+HAE_liberal;Liberalist Faction;;;;;;;;;;;;;
+HAE_reactionary;Blue Faction;;;;;;;;;;;;;
+HAE_anarcho_liberal;Yellow Faction;;;;;;;;;;;;;
+HAE_socialist;Anti-Royal Faction;;;;;;;;;;;;;
+HAE_communist;Anti-Imperial Faction;;;;;;;;;;;;;
+HAE_fascist;Greater Australia Faction;;;;;;;;;;;;;
+HAE_liberal_2;New Blue Faction;;;;;;;;;;;;;
+HAE_conservative_2;The Old Gaurd Faction;;;;;;;;;;;;;
 FRM;Fromden;;;;;;;;;;;;;,,
 FRM_ADJ;Fromden;;;;;;;;;;;;;,,
 FRM_absolute_monarchy;County of Fromden;;;;;;;;;;;;;,,
 FRM_hms_government;County of Fromden;;;;;;;;;;;;;,,
 FRM_prussian_constitutionalism;County of Fromden;;;;;;;;;;;;;,,
-HAM;Wagga Wagga;;;;;;;;;;;;;,,
-HAM_ADJ;Waggan;;;;;;;;;;;;;,,
-HAM_absolute_monarchy;County of Wagga Wagga;;;;;;;;;;;;;,,
-HAM_hms_government;County of Wagga Wagga;;;;;;;;;;;;;,,
-HAM_prussian_constitutionalism;County of Wagga Wagga;;;;;;;;;;;;;,,
+WAG;Wagga Wagga;;;;;;;;;;;;;,,
+WAG_ADJ;Waggan;;;;;;;;;;;;;,,
+WAG_absolute_monarchy;County of Wagga Wagga;;;;;;;;;;;;;,,
+WAG_hms_government;County of Wagga Wagga;;;;;;;;;;;;;,,
+WAG_prussian_constitutionalism;County of Wagga Wagga;;;;;;;;;;;;;,,
 PRI;Newport;;;;;;;;;;;;;,,
 PRI_ADJ;Newporter;;;;;;;;;;;;;,,
 PRI_democracy;Free Cities of Newport;;;;;;;;;;;;;,,
@@ -3489,3 +3503,12 @@ BUL;Iskhor;;;;;;;;;;;;;,,
 BUL_ADJ;Iskhorski;;;;;;;;;;;;;,,
 WES;Jungfeld;;;;;;;;;;;;;,,
 WES_ADJ;Jungfelder;;;;;;;;;;;;;,,
+CAL;Sacramento;;;;;;;;;;;;;,,
+CAL_ADJ;Sacramentan;;;;;;;;;;;;;,,
+CAL_democracy;Sacramentan Republic;;;;;;;;;;;;;,,
+PEN_liberal;Liberal Faction;;;;;;;;;;;;;,,
+PEN_conservative;Conservative Faction;;;;;;;;;;;;;,,
+NOU;Nouverts;;;;;;;;;;;;;,,
+NOU_ADJ;Groenlandais;;;;;;;;;;;;;,,
+NSO;New Scotland;;;;;;;;;;;;;,,
+NSO_ADJ;Greenlander;;;;;;;;;;;;;,,

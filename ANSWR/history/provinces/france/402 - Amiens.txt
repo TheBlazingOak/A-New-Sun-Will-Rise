@@ -1,6 +1,6 @@
-owner = AST
-controller = AST
-add_core = AST
+owner = HAE
+controller = HAE
+add_core = HAE
 trade_goods = coal
 life_rating = 35
 

@@ -4,5 +4,5 @@ add_core = TRI
 trade_goods = grain
 life_rating = 32
 terrain = semidesert
-#terrain = coastal_desert
+#terrain = coHAEal_desert
 colonial = 2

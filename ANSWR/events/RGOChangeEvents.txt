@@ -5846,7 +5846,6 @@ country_event = {
         name = "EVTOPTA199039" #Historical Option
 
         1394 = { trade_goods = coffee }
-        1395 = { trade_goods = timber }
 
         ai_chance = { factor = 80 }
     }
@@ -5855,7 +5854,6 @@ country_event = {
         name = "EVTOPTB199068" #Tea Option
 
         1394 = { trade_goods = tea }
-        1395 = { trade_goods = tea }
         1388 = { trade_goods = tobacco }
 
         ai_chance = {
@@ -5896,7 +5894,6 @@ country_event = {
         name = "EVTOPTC199068" #Forestry Option
 
         1394 = { trade_goods = tropical_wood }
-        1395 = { trade_goods = timber }
 
         ai_chance = {
             factor = 10

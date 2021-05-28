@@ -104,7 +104,34 @@
     }
 
 }
+#Faroe Islands Region (7000)
+#Torshavn (7000/1750 POPS)
+253 = {
+    bureaucrats = {
+        culture = scottish
+        religion = protestant
+        size = 15
+    }
 
+    clergymen = {
+        culture = scottish
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = scottish
+        religion = protestant
+        size = 135
+    }
+
+    farmers = {
+        culture = scottish
+        religion = protestant
+        size = 1575
+    }
+
+}
 #Dundee (364000/91000 POPS)
 268 = {
     aristocrats = {

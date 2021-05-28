@@ -95,6 +95,19 @@ democracy = {
     flagType = republic
 }
 
+trading_republic = {
+    liberal = yes
+    socialist = yes
+    conservative = yes
+    reactionary = yes
+    fascist = yes
+
+    election = yes
+    duration = 60
+    appoint_ruling_party = no
+    flagType = republic
+}
+
 theocracy = {
     #which ideology of parties.
     reactionary = yes

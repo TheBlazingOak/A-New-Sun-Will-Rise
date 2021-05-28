@@ -1,14 +1,14 @@
-capital = 2476
-primary_culture = australian
-religion = protestant
-government = democracy
-plurality = 2.5
-nationalvalue = nv_liberty
-literacy = 0.4
+capital = 2502
+primary_culture = perther
+religion = sydnic
+government = trading_republic
+plurality = 5.0
+nationalvalue = nv_productivity
+literacy = 0.37
 civilized = yes
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = state_equal_weight
 vote_franschise = wealth_weighted_voting
 public_meetings = yes_meeting
@@ -40,8 +40,8 @@ ruling_party = AST_conservative
 upper_house = {
     fascist = 0
     liberal = 10
-    conservative = 65
-    reactionary = 25
+    conservative = 55
+    reactionary = 35
     anarcho_liberal = 0
     socialist = 0
     communist = 0

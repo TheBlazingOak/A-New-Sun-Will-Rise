@@ -2118,68 +2118,6 @@
         size = 4000
     }
 }
-#Pasir (64000/16000 POPS)
-1424 = {
-    aristocrats = {
-        culture = malay
-        religion = animist
-        size = 50
-    }
-
-    clergymen = {
-        culture = malay
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = malay
-        religion = animist
-        size = 150
-    }
-
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 50
-    }
-
-    farmers = {
-        culture = malay
-        religion = animist
-        size = 3700
-    }
-
-    aristocrats = {
-        culture = malay
-        religion = sunni
-        size = 150
-    }
-
-    clergymen = {
-        culture = malay
-        religion = sunni
-        size = 125
-    }
-
-    artisans = {
-        culture = malay
-        religion = sunni
-        size = 650
-    }
-
-    soldiers = {
-        culture = malay
-        religion = sunni
-        size = 150
-    }
-
-    farmers = {
-        culture = malay
-        religion = sunni
-        size = 10925
-    }
-}
 #Tarakan (96000/24000 POPS)
 1425 = {
     aristocrats = {
@@ -3223,38 +3161,6 @@
         size = 500
     }
 }
-#Roti (24000/6000 POPS)
-1443 = {
-    aristocrats = {
-        culture = moluccan
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = moluccan
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = moluccan
-        religion = animist
-        size = 250
-    }
-
-    soldiers = {
-        culture = moluccan
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = moluccan
-        religion = animist
-        size = 5525
-    }
-}
 #Alor (36000/9000 POPS)
 1444 = {
     aristocrats = {
@@ -3416,88 +3322,6 @@
     }
 }
 #Ruled by Portugal 1836
-#Lifau (?/? POPS)
-2647 = {
-    aristocrats = {
-        culture = melanesian
-        religion = catholic
-        size = 15
-    }
-
-    clergymen = {
-        culture = melanesian
-        religion = catholic
-        size = 20
-    }
-
-    artisans = {
-        culture = melanesian
-        religion = catholic
-        size = 25
-    }
-
-    soldiers = {
-        culture = melanesian
-        religion = catholic
-        size = 25
-    }
-
-    farmers = {
-        culture = melanesian
-        religion = catholic
-        size = 300
-    }
-
-    aristocrats = {
-        culture = melanesian
-        religion = animist
-        size = 5
-    }
-
-    clergymen = {
-        culture = melanesian
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = melanesian
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = melanesian
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = melanesian
-        religion = animist
-        size = 750
-    }
-
-    bureaucrats = {
-        culture = portuguese
-        religion = catholic
-        size = 5
-    }
-
-    artisans = {
-        culture = portuguese
-        religion = catholic
-        size = 10
-    }
-
-    clergymen = {
-        culture = portuguese
-        religion = catholic
-        size = 10
-    }
-}
-
-
 #Dili (88000/22000 POPS)
 1446 = {
     clergymen = {

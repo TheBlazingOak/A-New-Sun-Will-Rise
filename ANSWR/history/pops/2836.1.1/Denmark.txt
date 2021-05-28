@@ -1,31 +1,3 @@
-#Faroe Islands Region (7000)
-#Torshavn (7000/1750 POPS)
-253 = {
-    bureaucrats = {
-        culture = icelandic
-        religion = protestant
-        size = 15
-    }
-
-    clergymen = {
-        culture = icelandic
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = icelandic
-        religion = protestant
-        size = 135
-    }
-
-    farmers = {
-        culture = icelandic
-        religion = protestant
-        size = 1575
-    }
-
-}
 #Jutland Region : 548000
 #Aarhus (248000/62000 POPS)
 366 = {

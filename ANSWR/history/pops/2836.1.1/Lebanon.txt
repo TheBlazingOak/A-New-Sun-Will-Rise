@@ -442,3 +442,86 @@
         size = 590
     }
 }
+#Cyprus Region (152000)
+#under the rule of Ottoman Empire in 1836
+#Nicosia (64000/16000 POPS)
+855 = {
+    aristocrats = {
+        culture = mashriqi
+        religion = shiite
+        size = 1275
+    }
+
+    bureaucrats = {
+        culture = mashriqi
+        religion = shiite
+        size = 50
+    }
+
+    officers = {
+        culture = mashriqi
+        religion = shiite
+        size = 110
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = shiite
+        size = 110
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = shiite
+        size = 5000
+    }
+
+    soldiers = {
+        culture = mashriqi
+        religion = shiite
+        size = 1750
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = shiite
+        size = 32875
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 2120
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 120
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1250
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 7150
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 30150
+    }
+
+}

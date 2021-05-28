@@ -568,38 +568,6 @@
         size = 80650
     }
 }
-#Ferrara (180000/45000 POPS)
-742 = {
-    aristocrats = {
-        culture = north_italian
-        religion = catholic
-        size = 950
-    }
-
-    clergymen = {
-        culture = north_italian
-        religion = catholic
-        size = 425
-    }
-
-    artisans = {
-        culture = north_italian
-        religion = catholic
-        size = 6500
-    }
-
-    soldiers = {
-        culture = north_italian
-        religion = catholic
-        size = 450
-    }
-
-    farmers = {
-        culture = north_italian
-        religion = catholic
-        size = 36575
-    }
-}
 #Ravenna (248000/62000 POPS)
 743 = {
     aristocrats = {
