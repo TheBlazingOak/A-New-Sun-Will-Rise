@@ -74,8 +74,6 @@ political_decisions = {
                 modifier = {
                     factor = 0
                     primary_culture = japanese
-                    NOT = { owns = 1485 }
-                    1485 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -109,8 +107,6 @@ political_decisions = {
                 modifier = {
                     factor = 0
                     primary_culture = japanese
-                    NOT = { owns = 1485 }
-                    1485 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -152,8 +148,6 @@ political_decisions = {
                     primary_culture = japanese
                     NOT = { owns = 1415 }
                     1481 = { owner = { civilized = no truce_with = THIS } }
-                    NOT = { owns = 1485 }
-                    1485 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -207,8 +201,6 @@ political_decisions = {
                     primary_culture = japanese
                     NOT = { owns = 1415 }
                     1481 = { owner = { civilized = no truce_with = THIS } }
-                    NOT = { owns = 1485 }
-                    1485 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -260,8 +252,6 @@ political_decisions = {
                 modifier = {
                     factor = 0
                     primary_culture = japanese
-                    NOT = { owns = 1485 }
-                    1485 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -310,8 +300,6 @@ political_decisions = {
                     primary_culture = japanese
                     NOT = { owns = 1415 }
                     1481 = { owner = { civilized = no truce_with = THIS } }
-                    NOT = { owns = 1485 }
-                    1485 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -365,66 +353,8 @@ political_decisions = {
                     primary_culture = japanese
                     NOT = { owns = 1415 }
                     1481 = { owner = { civilized = no truce_with = THIS } }
-                    NOT = { owns = 1485 }
-                    1485 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
-                }
-            }
-    }
-
-    taipei_treaty_port = {
-        picture = taipei_china
-        potential = {
-            has_country_modifier = negotiating_treaty
-            2406 = { owner = { has_country_modifier = negotiating_unequal_treaty civilized = no truce_with = THIS } }
-            1485 = { owner = { has_country_modifier = negotiating_unequal_treaty civilized = no truce_with = THIS } }
-            2562 = { owner = { has_country_modifier = negotiating_unequal_treaty civilized = no truce_with = THIS } }
-            2681 = { owner = { has_country_modifier = negotiating_unequal_treaty civilized = no truce_with = THIS } }
-            NOT = { has_country_modifier = chinese_treaty_port }
-        }
-
-        allow = {
-            OR = {
-                capital_scope = { continent = asia }
-                invention = radio_telegraphy
-            }
-        }
-
-        effect = {
-            remove_country_modifier = negotiating_treaty
-            2406 = { secede_province = THIS change_controller = THIS }
-            1485 = { secede_province = THIS change_controller = THIS }
-            2562 = { secede_province = THIS change_controller = THIS }
-            2681 = { secede_province = THIS change_controller = THIS }
-            add_country_modifier = { name = chinese_treaty_port duration = 1095 }
-        }
-
-        ai_will_do = {
-            factor = 1
-                modifier = {
-                    factor = 0
-                    tag = ENG
-                    NOT = { owns = 1496 }
-                    1496 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
-                    tag = ENG
-                    NOT = { owns = 1569 }
-                    1569 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
-                    tag = ENG
-                    NOT = { owns = 1566 }
-                    1566 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
-                    tag = RUS
-                    NOT = { owns = 1481 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
                 }
             }
     }
@@ -476,8 +406,6 @@ political_decisions = {
                     primary_culture = japanese
                     NOT = { owns = 1415 }
                     1481 = { owner = { civilized = no truce_with = THIS } }
-                    NOT = { owns = 1485 }
-                    1485 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -531,8 +459,6 @@ political_decisions = {
                     primary_culture = japanese
                     NOT = { owns = 1415 }
                     1481 = { owner = { civilized = no truce_with = THIS } }
-                    NOT = { owns = 1485 }
-                    1485 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -586,8 +512,6 @@ political_decisions = {
                     primary_culture = japanese
                     NOT = { owns = 1415 }
                     1481 = { owner = { civilized = no truce_with = THIS } }
-                    NOT = { owns = 1485 }
-                    1485 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }

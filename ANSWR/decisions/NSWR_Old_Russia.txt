@@ -14,14 +14,16 @@ political_decisions = {
 			}
 
 		allow = {
-			year = 1840
-			OR = { prestige = 10 }
+			year = 2848
+			OR = { prestige = 10
+			transport_improv = yes_transport_improv }
 			}
 
 		effect = {
 		RUS_1020 = { secede_province = THIS }
 		RUS_1020 = { add_core = THIS }
-
+		RUS_1037 = { secede_province = THIS }
+		RUS_1037 = { add_core = THIS }
 			}
 		}
 

@@ -7,12 +7,12 @@ name = "War of the Cross"
     add_defender = BRI
 
     war_goal = {
-        casus_belli = add_state
+        casus_belli = acquire_state
         actor = SWI
         receiver = AUS
     }
     war_goal = {
-        casus_belli = add_state
+        casus_belli = acquire_state
         actor = SWI
         receiver = BAV
     }

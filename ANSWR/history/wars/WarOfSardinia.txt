@@ -6,17 +6,17 @@ name = "Sardinia"
     add_defender = TUS
 
     war_goal = {
-        casus_belli = add_state
+        casus_belli = acquire_state
         actor = SIC
         receiver = APU
     }
     war_goal = {
-        casus_belli = add_state
+        casus_belli = acquire_state
         actor = APU
         receiver = SIC
     }
     war_goal = {
-        casus_belli = add_state
+        casus_belli = acquire_state
         actor = TUS
         receiver = SIC
     }

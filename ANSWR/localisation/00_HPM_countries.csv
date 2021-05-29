@@ -3087,7 +3087,7 @@ ROU;Rouance;;;;;;;;;;;;;,,
 ROU_ADJ;Rouancen;;;;;;;;;;;;;,,
 AUV;Auvergne;;;;;;;;;;;;;,,
 AUV_ADJ;Auvergnian;;;;;;;;;;;;;,,
-NOD;Sverige-Norge;;;;;;;;;;;;;,,
+NOD;Norge-Sverige;;;;;;;;;;;;;,,
 NOD_ADJ;Swedish;;;;;;;;;;;;;,,
 NIT;Trihoribratia;;;;;;;;;;;;;,,
 NIT_ADJ;Trihoribratan;;;;;;;;;;;;;,,
@@ -3393,8 +3393,8 @@ TRP;Trans-Pacifica;;;;;;;;;;;;;,,
 TRP_ADJ;Pacifica;;;;;;;;;;;;;,,
 BRE;Brome;;;;;;;;;;;;;,,
 BRE_ADJ;Bromen;;;;;;;;;;;;;,,
-OLD;Oldtrad;;;;;;;;;;;;;,,
-OLD_ADJ;Oldtradar;;;;;;;;;;;;;,,
+OLD;Eldtrad;;;;;;;;;;;;;,,
+OLD_ADJ;Eldtrader;;;;;;;;;;;;;,,
 AUG;Augusta;;;;;;;;;;;;;,,
 AUG_ADJ;Augustan;;;;;;;;;;;;;,,
 AUG_absolute_monarchy;Duchy of Augusta;;;;;;;;;;;;;,,
@@ -3512,3 +3512,22 @@ NOU;Nouverts;;;;;;;;;;;;;,,
 NOU_ADJ;Groenlandais;;;;;;;;;;;;;,,
 NSO;New Scotland;;;;;;;;;;;;;,,
 NSO_ADJ;Greenlander;;;;;;;;;;;;;,,
+STR_ADJ;Setjer;Setjer;Setjer;;;;;;;;;;;x;
+STR;Setjer;Setjer;Setjer;;;;;;;;;;;x;
+STR_proletarian_dictatorship;Setjer Republic;Setjer Republic;Setjer Republic;;;;;;;;;;;x;
+STR_presidential_dictatorship;Setjer Republic;Setjer Republic;Setjer Republic;;;;;;;;;;;x;
+STR_bourgeois_dictatorship;Setjer Republic;Setjer Republic;Setjer Republic;;;;;;;;;;;x;
+STR_fascist_dictatorship;Setjer Empire;Setjer Empire;Setjer Empire;;;;;;;;;;;x;
+STR_absolute_monarchy;Kingdom of Setjer;Kingdom of Setjer;Kingdom of Setjer;;;;;;;;;;;x;
+STR_prussian_constitutionalism;Kingdom of Setjer;Kingdom of Setjer;Kingdom of Setjer;;;;;;;;;;;x;
+STR_hms_government;Kingdom of Setjer;Kingdom of Setjer;Kingdom of Setjer;;;;;;;;;;;x;
+STR_democracy;Setjer Republic;Setjer Republic;Setjer Republic;;;;;;;;;;;x;
+STR_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+STR_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+STR_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+STR_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+STR_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+STR_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+STR_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+STR_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+STR_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;

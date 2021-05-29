@@ -424,6 +424,12 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\terrain_mining_district.tga"
 		norefcount = yes
 	}
+
+	spriteType = {
+		name = "GFX_terrainimg_ruined_city"
+		texturefile = "gfx\\interface\\terrain_ruined_city.tga"
+		norefcount = yes
+	}
 	
 	spriteType = {
 		name = "GFX_invest_rail_button"

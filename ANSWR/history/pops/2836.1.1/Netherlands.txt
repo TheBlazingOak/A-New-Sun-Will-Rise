@@ -3,22 +3,22 @@
 375 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 2910
     }
     officers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 429
     }
     bureaucrats = {
         culture = dutch
-        religion = protestant
-        size = 2444
+        religion = ketronant
+        size = 1444
     }
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 1739
     }
     artisans = {
@@ -28,50 +28,35 @@
     }
     artisans = {
         culture = dutch
-        religion = protestant
-        size = 9400
-    }
-    artisans = {
-        culture = dutch
-        religion = protestant
-        size = 9400
-    }
-    artisans = {
-        culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 7520
     }
     soldiers = {
         culture = dutch
-        religion = catholic
-        size = 9400
-    }
-    soldiers = {
-        culture = dutch
-        religion = catholic
+        religion = ketronant
         size = 2256
     }
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 76911
     }
     farmers = {
         culture = flemish
         religion = catholic
-        size = 27990
+        size = 17990
     }
 }
 #Rotterdam (567000/141750 POPS)
 376 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 705
     }
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 587
     }
     artisans = {
@@ -81,7 +66,7 @@
     }
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 5170
     }
     soldiers = {
@@ -91,7 +76,7 @@
     }
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 75200
     }
     farmers = {
@@ -109,12 +94,12 @@
 377 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 482
     }
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 264
     }
     artisans = {
@@ -124,12 +109,12 @@
     }
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 2034
     }
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 63053
     }
 }
@@ -137,12 +122,12 @@
 378 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 322
     }
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 255
     }
     artisans = {
@@ -152,12 +137,12 @@
     }
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 1634
     }
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 42182
     }
     artisans = {
@@ -185,12 +170,12 @@
     }
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 3525
     }
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 1034
     }
     labourers = {
@@ -203,37 +188,37 @@
 381 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 300
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 400
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 4100
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 1100
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 27850
     }
 
     farmers = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 1200
     }
 
@@ -313,17 +298,17 @@
 382 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 799
     }
     bureaucrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 564
     }
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 5640
     }
     artisans = {
@@ -333,27 +318,27 @@
     }
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 1316
     }
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 95569
     }
     clergymen = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 100
     }
     artisans = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 235
     }
     farmers = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 5008
     }
 
@@ -394,13 +379,13 @@
 
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 5800
     }
 
     bureaucrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 4000
     }
 
@@ -412,31 +397,31 @@
 
     capitalists = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 500
     }
 
     officers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 500
     }
 
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 2250
     }
 
     craftsmen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 20000
     }
 
     clerks = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 2000
     }
 
@@ -448,19 +433,19 @@
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 1000
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 10000
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 6000
     }
 
@@ -472,7 +457,7 @@
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 252550
     }
 
@@ -492,22 +477,22 @@
 383 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 500
     }
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 450
     }
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 8580
     }
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 4820
     }
     soldiers = {
@@ -517,12 +502,12 @@
     }
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 63323
     }
     farmers = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 10034
     }
 }
@@ -530,12 +515,12 @@
 384 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 750
     }
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 500
     }
     artisans = {
@@ -545,22 +530,22 @@
     }
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 3000
     }
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 50000
     }
     artisans = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 500
     }
     farmers = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 2500
     }
 }
@@ -568,27 +553,27 @@
 385 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 400
     }
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 500
     }
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 6500
     }
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 3425
     }
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 55000
     }
 }
@@ -596,32 +581,32 @@
 386 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 1260
     }
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 250
     }
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 3034
     }
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 4600
     }
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 91745
     }
     farmers = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 5334
     }
 }
@@ -629,31 +614,31 @@
 1743 = {
     officers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 75
     }
 
     clergymen = {
         culture = north_german
-        religion = protestant
+        religion = ketronant
         size = 250
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 500
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 750
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 1500
     }
 
@@ -665,13 +650,13 @@
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 250
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 40000
     }
 
@@ -681,51 +666,51 @@
 542 = {
     aristocrats = {
         culture = north_german
-        religion = protestant
+        religion = ketronant
         size = 115
     }
      aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 130
     }
     bureaucrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 75
     }
     officers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 25
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 65
     }
 
     clergymen = {
         culture = north_german
-        religion = protestant
+        religion = ketronant
         size = 10
     }
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 400
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 488
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 18075
     }
 
@@ -758,30 +743,30 @@
 543 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 500
     }
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 170
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 3000
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 500
     }
 
     farmers = {
         culture = north_german
-        religion = protestant
+        religion = ketronant
         size = 7000
     }
 
@@ -805,7 +790,7 @@
 
     artisans = {
         culture = north_german
-        religion = protestant
+        religion = ketronant
         size = 5000
     }
     soldiers = {
@@ -830,37 +815,37 @@
 393 = {
     clergymen = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 200
     }
 
     artisans = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 1500
     }
 
     soldiers = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 500
     }
 
     artisans = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 2200
     }
 
     soldiers = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 2100
     }
 
     farmers = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 48075
     }
 
@@ -871,7 +856,7 @@
     }
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 25225
     }
 }
@@ -879,42 +864,42 @@
 538 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 250
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 250
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 1250
     }
 
     artisans = {
         culture = flanish
-        religion = protestant
+        religion = ketronant
         size = 250
     }
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 300
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 24950
     }
 
     farmers = {
         culture = flanish
-        religion = protestant
+        religion = ketronant
         size = 16950
     }
     aristocrats = {
@@ -1013,7 +998,7 @@
 
     labourers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 56725
     }
 
@@ -1057,7 +1042,7 @@
     }
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 20525
     }
     farmers = {
@@ -1077,7 +1062,7 @@
 
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 1100
     }
 
@@ -1095,7 +1080,7 @@
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 3100
     }
 
@@ -1119,25 +1104,25 @@
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 100
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 1000
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 100
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 22925
     }
 }
@@ -1233,7 +1218,7 @@
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 16320
     }
 }
@@ -1303,13 +1288,13 @@
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 175
     }
 
     labourers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 25925
     }
 }
@@ -1359,7 +1344,7 @@
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 21250
     }
 }
@@ -1410,19 +1395,19 @@
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 10425
     }
 
     artisans = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 600
     }
 
     farmers = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 48500
     }
 
@@ -1440,19 +1425,19 @@
 
     bureaucrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 2750
     }
 
     capitalists = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 100
     }
 
     capitalists = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 200
     }
 
@@ -1494,19 +1479,19 @@
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 1500
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 3000
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 16210
     }
 
@@ -1545,31 +1530,31 @@
 
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 750
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 75
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 450
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 100
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 12275
     }
 
@@ -1579,37 +1564,37 @@
 572 = {
     aristocrats = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 300
     }
 
     bureaucrats = {
         culture = dutch
-        religion = protestant
+        religion = ketronant
         size = 850
     }
 
     officers = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 200
     }
 
     clergymen = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 250
     }
 
     artisans = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 1350
     }
 
     farmers = {
         culture = rhine_german
-        religion = protestant
+        religion = ketronant
         size = 67775
     }
 

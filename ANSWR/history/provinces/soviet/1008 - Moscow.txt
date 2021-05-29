@@ -1,7 +1,7 @@
 owner = MOW
 controller = MOW
 add_core = MOW
-trade_goods = coal
-life_rating = 20
+trade_goods = iron
+life_rating = 31
 fort = 1
-terrain = mining_district
+terrain = ruined_city

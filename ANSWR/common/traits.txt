@@ -405,6 +405,13 @@ personality = {
         morale = -0.30
         reliability = -0.03
     }
+    #ANSWR
+    adaptive = {
+        attack = 1
+        defense = 1
+        reliability = 0.05
+        organisation = 0.10
+    }
 }
 
 background = {

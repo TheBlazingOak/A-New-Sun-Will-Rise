@@ -5,7 +5,7 @@ name = "The Pacific War"
     add_defender = CAL
 
     war_goal = {
-        casus_belli = add_state
+        casus_belli = acquire_state
         actor = LOS
         receiver = CAL
     }

@@ -425,6 +425,18 @@ categories =  {
         immigrant_attract = -0.25
         attrition = 1
     }
+
+    ruined_city = {
+        movement_cost = 1.5
+        color = { 120 120 25 }
+        defense = 3
+
+        mine_rgo_size = 1.0
+        mine_rgo_eff = 0.50
+        supply_limit = 6
+        attrition = 2
+        immigrant_attract = 0.1
+    }
 }
 
 
