@@ -9,14 +9,54 @@ you want to put the mod files.
 
 Thank you so much for downloading my mod, it means a lot.
   - Oak
+
 Common Issues:
+Flags cache causes a crash on first load. Just try again, it should work the second time through.
+Crash at rivers.bmp which is fixed by either deleting the map cache in documents>paradox>victoria 2>ANSWR>map, just delete that folder. That, or its an issue with map.default, and you'll want to change the "#" in the file.
 
 Credits:
 Mod Creators:
 arkhometha, creator of HPM
 Cool Map Mod Creator
 Square Shaded Flag Frame Creator
-Devs:
+
+Certain flags were taken from the internet, and we'd like to thank the creators of those flags.
+
+Lead Developer:
 Oak
+Assistant Developers:
+GLitchesHaxBadAudio
+Connor 
+Trainee Developers:
+TheRealGrixly
+BlankBoy2002
+Taisato
 
 Contributors:
+vence
+mikikim
+MoskauMaster
+Adri
+Th3Fel0n
+Parzival
+not important
+Sunny MD
+UPR
+Smokey9977
+Octodude
+Ganet
+GlitchesHaxBadAudio
+steriyaki
+Assyrian Italian Nerd
+Prussian Dixie
+Skrutti 
+RAJUMA
+
+AWOL:
+StagSkull
+Militant Socialist
+ThePoleCat
+Gaucho
+AOE
+
+Play Testers:
