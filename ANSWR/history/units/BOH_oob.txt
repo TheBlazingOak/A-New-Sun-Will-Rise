@@ -9,7 +9,7 @@ NEN = { value = 0 }
 
 BRI = {
     value = 125        #relation
-    level = 3        #3=cordial, 4 = friendly, 5 sphere
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 SAX = {
@@ -19,6 +19,11 @@ SAX = {
 }
 WES = {
     value = 175        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+WEI = {
+    value = 185        #relation
     level = 5        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
@@ -42,19 +47,14 @@ ALS = {
     level = 1        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
-WES = {
-    value = 175        #relation
-    level = 5        #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
-}
-POZ = {
+PZN = {
     value = 25        #relation
     level = 3        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
-MEK = {
+MEC = {
     value = 175        #relation
-    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    level = 3        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 NIT = {
@@ -175,6 +175,7 @@ army = {
 }
 leader = {
     name = "Johan van Kampioen"
+    picture = european_general_3
     date = 2834.1.1
     type = land
     personality = au_fait

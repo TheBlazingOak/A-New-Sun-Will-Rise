@@ -1,3 +1,4 @@
+########## NORWAY ###################
 #Nordnoge Region
 #Trondheim (140000/35000 POPS)
 305 = {
@@ -129,6 +130,45 @@
         size = 9270
     }
 }
+#Ulcinj (36000/9000 POPS)
+800 = {
+
+    aristocrats = {
+        culture = norwegian
+        religion = protestant
+        size = 1200
+    }
+
+    clergymen = {
+        culture = norwegian
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = norwegian
+        religion = protestant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = norwegian
+        religion = protestant
+        size = 17825
+    }
+    farmers = {
+        culture = swedish
+        religion = protestant
+        size = 12270
+    }
+}
+############ SWEDEN ###############
 #Norrland Region 328000
 #Norrland
 307 = {

@@ -1,13 +1,6 @@
 owner = NET
 controller = NET
 add_core = NET
-add_core = RHI
 trade_goods = coal
 life_rating = 35
 terrain = mining_district
-2861.1.1 = { railroad = 3 }
-2861.1.1 = {
-    owner = LUX
-    controller = LUX
-    remove_core = NET
-}

@@ -242,6 +242,11 @@ country_event = {
 
     option = {
         name = "EVT52006OPTA" #Yay!
+        FROM = {
+        inherit = THIS
+        }
+        all_core = { remove_core = FROM }
+
     }
 }
 

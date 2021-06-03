@@ -1,6 +1,5 @@
-owner = NET
-controller = NET
-add_core = DJA
+owner = JAV
+controller = JAV
+add_core = JAV
 trade_goods = grain
-life_rating = 31
-colonial = 2
+life_rating = 35

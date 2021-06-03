@@ -3,37 +3,37 @@
 #Reunion (98000/24500 POPS)
 2126 = {
     aristocrats = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 750
     }
 
     bureaucrats = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 5825
     }

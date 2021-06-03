@@ -1,7 +1,6 @@
 owner = BAN
 controller = BAN
 add_core = BAN
-add_core = HUN
 trade_goods = grain
 life_rating = 35
-2861.1.1 = { railroad = 2 }
+railroad = 1

@@ -1,4 +1,4 @@
-capital = 762
+capital = 674
 primary_culture = turkish
 religion = sunni
 government = democracy
@@ -37,7 +37,7 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = SIC_reactionary
+ruling_party = TUR_reactionary
 upper_house = {
     fascist = 0
     liberal = 0
@@ -80,5 +80,3 @@ basic_chemistry = 1
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1
-
-oob = "SIC_oob.txt"

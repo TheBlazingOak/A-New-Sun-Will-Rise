@@ -608,3 +608,34 @@
     }
 
 }
+#Niksic (52000/13000 POPS)
+2569 = {
+    aristocrats = {
+        culture = latvian
+        religion = protestant
+        size = 550
+    }
+    clergymen = {
+        culture = latvian
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = latvian
+        religion = protestant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = latvian
+        religion = protestant
+        size = 31475
+    }
+}

@@ -31,10 +31,7 @@ country_event = {
 	title = "EVTNAME222001"
     desc = "EVTDESC222001"
     picture = "Celebration"
-    
-    trigger = {
-	has_country_flag = oudrijk_centralization
-    }
+    is_triggered_only = yes
 
     mean_time_to_happen = {
 		days = 14

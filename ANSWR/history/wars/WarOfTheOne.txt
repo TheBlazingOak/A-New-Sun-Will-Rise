@@ -1,0 +1,31 @@
+name = "War of the One"
+
+2762.6.14 = {
+    add_attacker = LIT
+    add_attacker = POL
+    add_attacker = UKR
+    add_attacker = EST
+    add_attacker = NIT
+    add_defender = BYE
+
+    war_goal = {
+        casus_belli = rude_boy
+        actor = LIT
+        receiver = BYE
+    }
+    war_goal = {
+        casus_belli = status_quo
+        actor = BYE
+        receiver = LIT
+    }
+
+}
+
+2809.3.18 = {
+    rem_attacker = LIT
+    rem_attacker = POL
+    rem_attacker = UKR
+    rem_attacker = EST
+    rem_attacker = NIT
+    rem_defender = BYE
+}

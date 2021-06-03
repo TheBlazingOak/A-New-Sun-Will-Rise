@@ -1,6 +1,6 @@
 name = "Red War Of Copenhagen"
 
-2831.4.17 = {
+2822.4.17 = {
     add_attacker = SCO
     add_attacker = SAP
     add_defender = NOD
@@ -12,7 +12,7 @@ name = "Red War Of Copenhagen"
     }
 }
 
-2835.9.3 = {
+2825.9.3 = {
     rem_attacker = SCO
     rem_attacker = SAP
     rem_defender = NOD

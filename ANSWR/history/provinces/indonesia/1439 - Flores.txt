@@ -1,10 +1,5 @@
-owner = POR
-controller = POR
+owner = BAL
+controller = BAL
 add_core = BAL
 trade_goods = coffee
-life_rating = 31
-colonial = 2
-2861.1.1 = {
-    owner = NET
-    controller = NET
-}
+life_rating = 35

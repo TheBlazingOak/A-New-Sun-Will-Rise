@@ -132,6 +132,10 @@ europe_religions = {
         icon = 19
         color = { 0.8 0.2 0.2 }
     }
+    the_one = {
+        icon = 24
+        color = { 0.1 0.1 0.1 }
+    }
 }
 
 liberty = {
@@ -147,7 +151,7 @@ liberty = {
 
     sydnic = {
         icon = 23
-        color = { 152 152 152 }
+        color = { 0.7 0.7 0.7 }
     }
     
 }

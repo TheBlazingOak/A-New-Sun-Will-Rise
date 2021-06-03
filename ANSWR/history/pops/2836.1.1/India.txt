@@ -8098,19 +8098,19 @@
 #Pondicherry (132000/33000 POPS)
 1312 = {
     bureaucrats = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 10
     }
 
     clergymen = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 15
     }
 
     soldiers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 25
     }

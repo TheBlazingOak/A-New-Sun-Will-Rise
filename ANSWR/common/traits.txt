@@ -408,8 +408,8 @@ personality = {
     #ANSWR
     adaptive = {
         attack = 1
-        defense = 1
-        reliability = 0.05
+        defence = 2
+        reliability = 0.10
         organisation = 0.10
     }
 }
@@ -638,5 +638,12 @@ background = {
     }
     incompetent = {
         reliability = -0.03
+    }
+    #ANSWR
+    school_of_hartskamp = {
+        attack = 1
+        defence = 2
+        morale = 0.20
+        reliability = 0.10
     }
 }

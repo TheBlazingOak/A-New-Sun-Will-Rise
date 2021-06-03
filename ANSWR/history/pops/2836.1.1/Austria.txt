@@ -647,56 +647,269 @@
     }
 
     clergymen = {
-        culture = hungarian
+        culture = staromadar
         religion = catholic
         size = 60
     }
 
     artisans = {
-        culture = hungarian
+        culture = staromadar
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = hungarian
+        culture = staromadar
         religion = catholic
         size = 1025
     }
 
     craftsmen = {
-        culture = hungarian
+        culture = staromadar
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = hungarian
+        culture = staromadar
         religion = catholic
-        size = 2665
+        size = 12665
+    }
+}
+#Sopron (100000/25000 POPS) #part of Hungary today
+623 = {
+    aristocrats = {
+        culture = austro_german
+        religion = catholic
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = catholic
+        size = 400
+    }
+
+    officers = {
+        culture = austro_german
+        religion = catholic
+        size = 200
     }
 
     clergymen = {
-        culture = hungarian
-        religion = protestant
-        size = 35
+        culture = austro_german
+        religion = catholic
+        size = 100
+    }
+
+    craftsmen = {
+        culture = austro_german
+        religion = catholic
+        size = 100
     }
 
     artisans = {
-        culture = hungarian
-        religion = protestant
-        size = 150
+        culture = austro_german
+        religion = catholic
+        size = 1400
     }
 
     soldiers = {
-        culture = hungarian
-        religion = protestant
-        size = 1025
+        culture = austro_german
+        religion = catholic
+        size = 1200
     }
 
     farmers = {
-        culture = hungarian
-        religion = protestant
-        size = 1790
+        culture = austro_german
+        religion = catholic
+        size = 18600
+    }
+
+    aristocrats = {
+        culture = staromadar
+        religion = catholic
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = staromadar
+        religion = catholic
+        size = 125
+    }
+
+    officers = {
+        culture = staromadar
+        religion = catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = catholic
+        size = 125
+    }
+
+    craftsmen = {
+        culture = staromadar
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = catholic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = catholic
+        size = 1250
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = catholic
+        size = 32125
+    }
+}
+#Zalaegerszeg (860000/215000 POPS) #part of Hungary today
+639 = {
+    capitalists = {
+        culture = austro_german
+        religion = catholic
+        size = 50
+    }
+
+    aristocrats = {
+        culture = austro_german
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = catholic
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = catholic
+        size = 400
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = catholic
+        size = 1500
+    }
+
+    craftsmen = {
+        culture = austro_german
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = catholic
+        size = 47350
+    }
+
+    aristocrats = {
+        culture = staromadar
+        religion = catholic
+        size = 3750
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = catholic
+        size = 1250
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = catholic
+        size = 5900
+    }
+
+    craftsmen = {
+        culture = staromadar
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = catholic
+        size = 3000
+    }
+    soldiers = {
+        culture = staromadar
+        religion = catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = catholic
+        size = 42000
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 750
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 150
+    }
+
+    serfs = {
+        culture = slovene
+        religion = catholic
+        size = 13950
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 350
+    }
+
+    soldiers = {
+        culture = croat
+        religion = catholic
+        size = 100
+    }
+
+    serfs = {
+        culture = croat
+        religion = catholic
+        size = 36525
     }
 }

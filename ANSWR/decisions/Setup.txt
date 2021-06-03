@@ -6,7 +6,7 @@ political_decisions = {
         potential = {
             ai = no
             has_country_flag = country_looking_through_options
-            NOT = { year = 1837 }
+            NOT = { year = 2837 }
             NOT = { has_global_flag = anarcho_liberals_disabled }
         }
 
@@ -25,7 +25,7 @@ political_decisions = {
         potential = {
             ai = no
             has_country_flag = country_looking_through_options
-            NOT = { year = 1837 }
+            NOT = { year = 2837 }
             NOT = { has_global_flag = unlock_crisis_in_1870 }
         }
 
@@ -48,11 +48,11 @@ political_decisions = {
                 AND = {
                     ai = no
                     has_country_flag = country_looking_through_options
-                    NOT = { year = 1837 }
+                    NOT = { year = 2837 }
                 }
                 AND = {
                     ai = yes
-                    year = 1886
+                    year = 2886
                     OR = {
                         revolution_n_counterrevolution = 1
                         any_neighbor_country = { revolution_n_counterrevolution = 1 }
@@ -61,7 +61,7 @@ political_decisions = {
                 }
                 AND = {
                     ai = yes
-                    year = 1870
+                    year = 2870
                     has_global_flag = unlock_crisis_in_1870
                     OR = {
                         revolution_n_counterrevolution = 1
@@ -87,7 +87,7 @@ political_decisions = {
         potential = {
             ai = no
             has_country_flag = country_looking_through_options
-            NOT = { year = 1837 }
+            NOT = { year = 2837 }
             NOT = { has_global_flag = workplace_events_disabled }
         }
 
@@ -106,7 +106,7 @@ political_decisions = {
         potential = {
             ai = no
             has_country_flag = country_looking_through_options
-            NOT = { year = 1837 }
+            NOT = { year = 2837 }
             NOT = { has_country_flag = bankruptcy_events_disabled }
         }
 
@@ -131,11 +131,11 @@ political_decisions = {
                 AND = {
                     ai = no
                     has_country_flag = country_looking_through_options
-                    NOT = { year = 1837 }
+                    NOT = { year = 2837 }
                 }
                 AND = {
                     ai = yes
-                    year = 1841
+                    year = 2841
                 }
             }
         }
@@ -159,7 +159,7 @@ political_decisions = {
         potential = {
             ai = no
             has_country_flag = country_looking_through_options
-            NOT = { year = 1837 }
+            NOT = { year = 2837 }
             NOT = { has_global_flag = disabled_mobilization_fix }
         }
 
@@ -180,7 +180,7 @@ political_decisions = {
         potential = {
             ai = no
             has_country_flag = country_looking_through_options
-            NOT = { year = 1837 }
+            NOT = { year = 2837 }
             NOT = { has_global_flag = trade_policy_globally_disabled }
         }
 
@@ -435,7 +435,7 @@ political_decisions = {
             }
 
             any_pop = {
-                limit = { OR = { has_pop_culture = french_canadian has_pop_culture = metis has_pop_culture = french } }
+                limit = { OR = { has_pop_culture = french_canadian has_pop_culture = metis has_pop_culture = parish } }
                 literacy = 0.35
             }
             any_pop = {
@@ -449,7 +449,7 @@ political_decisions = {
             }
 
             any_pop = {
-                limit = { has_pop_culture = french }
+                limit = { has_pop_culture = parish }
                 literacy = 0.4
             }
 
@@ -588,7 +588,7 @@ political_decisions = {
                 literacy = 0.05
             }
             any_pop = {
-                limit = { has_pop_culture = french }
+                limit = { has_pop_culture = parish }
                 literacy = 0.35
             }
             any_pop = {
@@ -2537,7 +2537,7 @@ political_decisions = {
         picture = constantinople
         potential = {
             ai = yes
-            year = 1837
+            year = 2837
             month = 8
             NOT = { month = 10 }
             NOT = {

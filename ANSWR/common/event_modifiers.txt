@@ -1820,7 +1820,7 @@ motala_verkstad = {
 }
 
 ### NEN - New England ###
-miskatonic_campus = {
+weiss_campus = {
     research_points_modifier = 0.1
     pop_consciousness_modifier = 0.01
     icon = 5
@@ -2594,4 +2594,22 @@ dutch_dijkes = {
 
 oudrijk_prince = {
     icon = 7
+}
+
+adzinoki_propaganda = {
+    war_exhaustion = -0.05
+    mobilization_economy_impact = -0.15
+    mobilisation_size = 0.03
+    global_immigrant_attract = -0.10
+    icon = 15
+}
+
+groot_kouderstad_harbour = {
+    local_ship_build = -0.25
+    local_repair = 0.25
+    immigrant_attract = 0.25
+    rich_income_modifier = 0.10
+    middle_income_modifier = 0.05
+    poor_income_modifier = 0.05
+    icon = 3
 }

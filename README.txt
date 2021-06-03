@@ -9,3 +9,14 @@ you want to put the mod files.
 
 Thank you so much for downloading my mod, it means a lot.
   - Oak
+Common Issues:
+
+Credits:
+Mod Creators:
+arkhometha, creator of HPM
+Cool Map Mod Creator
+Square Shaded Flag Frame Creator
+Devs:
+Oak
+
+Contributors:

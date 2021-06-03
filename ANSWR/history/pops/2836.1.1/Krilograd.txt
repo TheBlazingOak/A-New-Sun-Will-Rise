@@ -334,27 +334,7 @@
         size = 63175
     }
 }
-#Yamilia Region
-#Aksarka (2200/550 POPS)
-2682 = {
-    clergymen = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 175
-    }
-
-    soldiers = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 31825
-    }
-}
+#Region
 #Olyekminsk (6000/1500 POPS)
 2644 = {
     clergymen = {
@@ -408,31 +388,31 @@
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 100
+        size = 300
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 50
+        size = 500
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 150
+        size = 1500
     }
 
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 10
+        size = 1000
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 2500
+        size = 42575
     }
 }
 #Ases Igan (4000/1000 POPS) => Surgut
@@ -538,19 +518,19 @@
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 70
+        size = 150
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 175
+        size = 1750
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 8090
+        size = 18090
     }
 }
 #Vorgovo (4000/1000 POPS) => Minusk

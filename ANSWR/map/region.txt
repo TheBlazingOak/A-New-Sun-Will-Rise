@@ -142,7 +142,7 @@ QUE_251 = { 2636 251 1330 93 1570 1652 } #Quebec Greenland
 
 SCO_252 = { 1541 1498 1606 252 }#Scotish Greenland & Iceland
 
-SWE_308 = { 308 305 306 } #Nordnoge
+SWE_308 = { 308 305 306 800 } #Nordnoge
 
 SWE_309 = { 309 311 310 312 1021 1045 1096 1023 } #Vestlandet
 
@@ -164,7 +164,7 @@ RUS_339 = { 984 2587 983 337 } #Karelia
 
 RUS_345 = { } #Turku
 
-DEN_367 = { 367 366 368 2557 348 } #Jylland
+DEN_367 = { 367 366 2557 348 } #Jylland
 
 HOL_369 = { 369 370 371 528 530 } #Holstein
 
@@ -174,11 +174,11 @@ FIN_339 = { 339 340 1006 342 }
 
 ### Kouderhagen
 
-NET_375 = { 375 376 377 382 } #Holland
+NET_375 = { 375 377 382 378 380 381 } #Holland
 
-NET_379 = { 378 380 381 } #Zeeland
+#NET_379 = { } #Zeeland
 
-NET_385 = { 400 385 386 384 383 1743 } #West Friesland
+NET_385 = { 400 386 384 383 1743 } #West Friesland
 
 HAN_540 = { 538 543 542 393 581} #East Friesland
 
@@ -315,7 +315,9 @@ AUS_627 = { 688 632 689 2584 631 } #Lower Silesia
 
 AUS_633 = { 633 634 635 636 } #Slovakia
 
-NIT_637 = { 637 638 950 704 714 953 951 } #Bohatéhory
+NIT_637 = { 637 638 950 704 } #Bohatéhory
+
+NIT_714 = { 714 953 951 } #Bohatéhory
 
 AUS_641 = { 648 649 650 651 647 } #Central Hungary
 
@@ -329,9 +331,9 @@ RUS_715 = { 715 711 713 716 705 } #West Galicia
 
 AUS_734 = { 734 732 733 8 736 737 } #South Tirol
 
-AUS_736 = { 769 770 778 } #Istria
+AUS_736 = { 769 770 778 767 768 } #Istria
 
-AUS_771 = { 771 772 773 775 776 639 767 768 } #Croatia
+AUS_771 = { 771 772 773 775 776 639 } #Croatia
 
 AUS_777 = { 779 777 791 2538 } #Slavonia
 
@@ -377,7 +379,7 @@ TUR_788 = { 783 787 788 786 793 782 } #Bosnia
 
 SER_794 = { 794 797 795 796 } #Northern Serbia
 
-MON_2582 = { 2583 2569 2577 800 2582 850 804 } #Montenegro
+MON_2582 = { 2583 2577 2582 850 804 } #Montenegro
 
 TUR_803 = { 803 798 802 799 } #Southern Serbia
 
@@ -495,7 +497,9 @@ RUS_354 = { 355 356 357 351 352 } #Latvia
 
 RUS_945 = { 945 947 946 }#Outer Latvia
 
-RUS_360 = { 360 361 362 363 364 365 698 358 359 354 } #Lithuania
+RUS_360 = { 360 361 362 363 364 } #Lithuania
+
+LIT_2569 = { 2569 365 698 354 358 359 } #Penisula
 
 RUS_706 = { 706 708 709 710 717 712 } #Masovia
 
@@ -521,15 +525,13 @@ RUS_977 = { 977 1017 1018 1019 963 962 1016 949 } #Kursk
 
 RUS_978 = { 978 980 974 } #Kharkov
 
-RUS_981 = { 981 985 2588 } #Arkhangelsk
+RUS_981 = { 981 985 } #Arkhangelsk
 
-RUS_990 = { 990 987 991 } #Galich
+RUS_990 = { 990 987 991 1001 } #Galich
 
 RUS_994 = { 994 996 997 2580 2715 } #Ingria
 
-RUS_998 = { 998 1001 992 } #Tver
-
-RUS_1003 = { 1004 1005 995 988 } #Novgorod
+RUS_1003 = { 1004 1005 995 988 998 992 2588 } #Novgorod
 
 RUS_1008 = { 1008 1012 1013 1010 } #Moskva
 
@@ -680,7 +682,7 @@ DAI_1369 = { 1369 1374 1370 1373 1371 1372 } #Tonkin
 
 DAI_1375 = { 1375 1378 1379 1377 1376 } #Annam
 
-DAI_1380 = { 1380 1382 1383 1381 } #Cochinchina
+DAI_1380 = { 1380 1381 } #Cochinchina
 
 ENG_1384 = { 1384 1386 1385 1387 } #Southern Malaya
 
@@ -690,7 +692,9 @@ SIA_1392 = { 1346 1347 1348 1349 2572 1355 } #Ayutthaya
 
 SIA_1352 = { 1392 1352 1354 1353 } #Patani
 
-SIA_1358 = { 1358 1350 1359 1365 1351 } #Isan
+SIA_1358 = { 1358 1350 1359 1351 } #Isan
+
+SIA_1365 = { 1365 1382 1383 } #Green Islands
 
 
 ### East Indies
@@ -985,7 +989,7 @@ SOK_1937 = { 1937 1942 1943 1944 1950 } #Tukari - West Central Nigeria
 
 ### Central Africa
 
-SPA_1955 = { 1955 1954 1973 } #Equatorial Guinea
+SPA_1955 = { 1955 1973 } #Equatorial Guinea
 
 ENG_1956 = { 1956 1957 1958 1959 1962 } #Cameroon
 
@@ -1112,11 +1116,11 @@ SPA_2209 = { 2209 2210 2211 44 2212 } #Cuba
 
 HAI_2213 = { 2213 2214 2215 2216 } #Hispanola
 
-ENG_203 = { 2217 2219 2218 2220 } #Caribbean Islands
+ENG_203 = { 2217 2219 2218 } #Caribbean Islands
 
-ENG_2224 = { 2224 2226 2227 2230 2236 2223 2222 } #West Indies
+ENG_2224 = { 2226 2227 2230 2236 2223 2222 } #West Indies
 
-ENG_2228 = { 2228 2229 2231 2232 2233 2237 2238 2409 2357 } #Lesser Antilles
+ENG_2228 = { 2228 2233 2237 2409 } #Lesser Antilles
 
 #NET_2235 = { 2235 2234 } #Leeward Antilles
 
@@ -1173,17 +1177,21 @@ BRZ_2306 = { 2450  2455 2451 } #São Paulo
 
 BRZ_2452 = { 2452 2306 2456 2453 2446 } #Campinas
 
-BRZ_2401 = { 2404 2405 2407 2235 2411 2600 } #Amazonas
+BRZ_2401 = { 2404 2405 2407 2235} #Amazonas
 
-BRZ_2408 = { 2408 2412 2402 2234 2403 } #Pará
+BRZ_2408 = { 2408 2412 2402 2234 2232 2224 2220 2231 } #Pará
 
-BRZ_2410 = { 2429 2424 2426 2410 } #Maranhão
+BRZ_1954 = { 1954 2403 2238 } #Rallego
+
+BRZ_2410 = { 2429 2424 2426 368 } #Maranhão
+
+BRZ_1367 = { 2410 2229 2357 2411 2600 376 385 } #Callifal
 
 BRZ_2416 = { 2417 2550 2413 2423 } #Mato Grosso
 
 BRZ_2425 = { 2425 2427 2437 2438 2440 } #Chapada
 
-BRZ_2421 = { 2421 2422 2418 } #Goiás
+BRZ_2421 = { 2421 2422 2418 2218 } #Goiás
 
 BRZ_2428 = { 2428 2431 2433 2430 } #Nordeste
 

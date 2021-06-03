@@ -1880,12 +1880,6 @@
     }
 
     farmers = {
-        culture = french
-        religion = catholic
-        size = 900
-    }
-
-    farmers = {
         culture = ashkenazi
         religion = jewish
         size = 300

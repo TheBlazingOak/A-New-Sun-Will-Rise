@@ -27,37 +27,37 @@
     }
 
     aristocrats = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 50
     }
 
     bureaucrats = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 30
     }
 
     artisans = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 180
     }
 
     clergymen = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 20
     }
 
     soldiers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 20
     }
 
     farmers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 200
     }

@@ -1,0 +1,28 @@
+name = "War of Arizonan Subjugation"
+
+2772.9.15 = {
+	add_attacker = LOS
+	add_defender = ARI
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = make_puppet
+		actor = LOS
+		receiver = ARI
+	}
+	war_goal = {
+		casus_belli = status_quo
+		actor = LOS
+		receiver = ARI
+	}
+
+}
+
+2773.7.24 = {
+    rem_attacker = LOS
+	rem_defender = ARI
+}

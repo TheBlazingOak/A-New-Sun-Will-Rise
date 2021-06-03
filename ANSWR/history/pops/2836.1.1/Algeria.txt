@@ -3,37 +3,37 @@
 #Algiers (280000/70000 POPS)
 1700 = {
     aristocrats = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 150
     }
 
     clergymen = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 1500
     }
 
     soldiers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 225
     }
@@ -344,41 +344,41 @@
 
 }
 #Oranais Region (577600)
-#French in 1836 :
+#parish in 1836 :
 #Oran (108000/27000 POPS)
 1704 = {
     aristocrats = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 50
     }
 
     bureaucrats = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 800
     }
 
     soldiers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 875
     }
 
     farmers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 200
     }
@@ -708,31 +708,31 @@
 #Bone (68000/17000 POPS)
 1709 = {
     aristocrats = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 25
     }
 
     bureaucrats = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 625
     }
 
     soldiers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 200
     }

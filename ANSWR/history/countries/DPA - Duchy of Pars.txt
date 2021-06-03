@@ -1,11 +1,10 @@
 capital = 418
-primary_culture = french
+primary_culture = parish
 religion = catholic
 government = absolute_monarchy
 plurality = 20
 nationalvalue = nv_autocracy
 literacy = 0.51
-non_state_culture_literacy = 0.01
 civilized = yes
 
 #GreaterPowers = prestige

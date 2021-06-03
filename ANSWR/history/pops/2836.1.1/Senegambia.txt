@@ -40,19 +40,19 @@
     }
 
     artisans = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 100
     }
@@ -282,7 +282,7 @@
         size = 7000
     }
 }
-#uncolonized/French have trade post in 1836
+#uncolonized/parish have trade post in 1836
 #Saint-Louis (24000/6000 POPS)
 1784 = {
     aristocrats = {
@@ -352,19 +352,19 @@
     }
 
     artisans = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = french
+        culture = parish
         religion = catholic
         size = 100
     }

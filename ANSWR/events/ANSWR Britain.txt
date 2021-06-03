@@ -1,0 +1,180 @@
+##End of the Treaty of Bergen
+country_event = {
+	id = 17250
+	title = "EVTNAME17250"
+    desc = "EVTDESC17250"
+    fire_only_once = yes
+    picture = big_parade
+
+    mean_time_to_happen = {
+        months = 3 
+    }
+
+    trigger = {
+    tag = SCO
+    owns = 309
+    owns = 310
+    owns = 311
+    owns = 1021
+    NOT = { has_global_flag = bergen_treaty_ended }
+    }
+
+    option = {
+        #End the Bergen Treaty
+    	name = "EVTOPTA17250"
+    	309 = { add_core = SAP }
+        310 = { add_core = SAP }
+        311 = { add_core = SAP }
+        1021 = { add_core = SAP }
+        309 = { secede_province =  SAP }
+        310 = { secede_province =  SAP }
+        311 = { secede_province =  SAP }
+        1021 = { secede_province =  SAP }
+        309 = { add_core = SCO }
+        310 = { add_core = SCO }
+        311 = { add_core = SCO }
+        1021 = { add_core = SCO }
+        prestige = 10
+        set_global_flag = bergen_treaty_ended
+        relation = {
+            who = SAP
+            value = 200
+        }
+        SAP = { country_event = 17251 }
+        ai_chance = {
+        chance = 65
+        modifier = {
+            factor = 1.25
+            relation = {
+            who = SAP
+            value = 150
+                }
+            }
+        }
+    }
+    #Break the Bergen Treaty
+    option = {
+        name = "EVTOPTB17250"
+
+        309 = { add_core = SAP }
+        310 = { add_core = SAP }
+        311 = { add_core = SAP }
+        1021 = { add_core = SAP }
+        prestige = -10
+        relation = {
+            who = SAP
+            value = -100
+        }
+        set_global_flag = bergen_treaty_ended
+        SAP = { country_event = 17252 }
+        leave_alliance = SAP
+        any_country = {
+        limit = {
+        is_greater_power = yes
+            }
+        relation = {
+            who = SCO
+            value = -25
+            }
+        }
+        ai_chance = {
+        chance = 35
+        modifier = {
+            factor = 1.25
+            relation = {
+            who = SAP
+            value = -200
+                }
+            }
+        }
+    }
+}
+#Scandis recieves Norway
+country_event = {
+    id = 17251
+    title = "EVTNAME17251"
+    desc = "EVTDESC17251"
+    is_triggered_only = yes
+    picture = big_parade
+
+    option = {
+        #Thank Scotland for cooperating in the war
+        name = "EVTOPTA17251"
+        prestige = 10
+        relation = {
+            who = SCO
+            value = 200
+            }
+        ai_chance = {
+        chance = 100
+        }
+    }
+}
+#Scotland breaks the Bergen Treaty
+country_event = {
+    id = 17252
+    title = "EVTNAME17252"
+    desc = "EVTDESC17252"
+    is_triggered_only = yes
+    picture = streetriot
+
+    option = {
+        #Declare War againist Scotland for violating the treaty
+        name = "EVTOPTA17252"
+        prestige = 10
+        relation = {
+            who = SCO
+            value = -200
+        }
+        war = {
+        target = SCO
+        attacker_goal = { acquire_core_state = SWE_309 }
+        call_ally = yes
+        }
+        ai_chance = {
+        chance = 80
+        modifier = {
+            factor = 1.25
+            stronger_army_than = SCO
+            }
+        }
+    }
+    option = {
+        #Diplomatically object
+        name = "EVTOPTB17252"
+        prestige = 5
+        relation = {
+            who = SCO
+            value = -150
+        }
+        ai_chance = {
+        chance = 20
+        modifier = {
+            factor = 0.75
+            stronger_army_than = SCO
+            }
+        }
+    }
+}
+#Scotland loses the war againist the Skandi's
+country_event = {
+    id = 17253
+    title = "EVTNAME17253"
+    desc = "EVTDESC17253"
+    picture = siege_evt
+
+    trigger = {
+    NOT = { 
+    311 = { owned_by = SCO }
+    }
+    311 = { is_core = SCO }
+    has_global_flag = bergen_treaty_ended
+    tag = SCO
+    }
+    option = {
+        #Scotland loses its cores in Vestland
+        name = "EVTOPTA17253"
+        prestige = -5
+        SWE_309 = { remove_core = SCO }
+    }
+}

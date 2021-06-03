@@ -963,7 +963,7 @@ PROV3326;Straits of Parii;;;;;;;;;;;x
 PROV3327;Straits of Savoie;;;;;;;;;;;x
 NET_1413;West Java;;;;;;;;;;;;x
 NET_375;Holland;;;;;;;;;;;;x
-NET_385;West-Friesland;;;;;;;;;;;;x
+NET_385;Kouderegen;;;;;;;;;;;;x
 PROV425;Parii;;;;;;;;;;;;x
 PROV625;Praha;;;;;;;;;;;;x
 PROV619;Wien;;;;;;;;;;;;x
@@ -1221,3 +1221,8 @@ AST_2476;Melbourne;;;;;;;;;;;;;;;;;;;;;;;x
 AST_128;The Lost Coast;;;;;;;;;;;;;;;;;;;;;;;x
 AST_2473;Broken Plains;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1485;Lenikhtinsk;;;;;;;;;;;;;;;;;;;;;;;x
+PROV498;Barce;;;;;;;;;;;;;;;;;;;;;;;x
+NIT_637;Bohatéhory;;;;;;;;;;;;;;;;;;;;;;;x
+NIT_714;Roviny;;;;;;;;;;;;;;;;;;;;;;;x
+ENG_74;Terre-Neuve;;;;;;;;;;;;;;;;;;;;;;;x
+PROV994;Peterburgh;;;;;;;;;;;;;;;;;;;;;;;x

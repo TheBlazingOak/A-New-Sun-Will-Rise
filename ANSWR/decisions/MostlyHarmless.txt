@@ -1,0 +1,31 @@
+political_decisions = {
+	weiss_university = {
+		picture = petrograd_city
+		potential = {
+			tag = NEN
+			owns = 241
+			NOT = {
+				has_country_flag = weiss_u_class_of_2836
+			}
+		}
+		
+		allow = {
+			invention = romanticist_literature
+		}
+		
+		effect = {
+			241 = {
+				add_province_modifier = {
+					name = weiss_campus
+					duration = -1
+				}
+			}
+			set_country_flag = weiss_u_class_of_2836
+			prestige = 3
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}		
+	}
+}

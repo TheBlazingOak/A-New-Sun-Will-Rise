@@ -1,4 +1,6 @@
-add_core = KAZ
-terrain = semidesert
+owner = STR
+controller = STR
+add_core = STR
+terrain = plains
 trade_goods = fish
-life_rating = 25
+life_rating = 35

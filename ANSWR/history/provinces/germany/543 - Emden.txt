@@ -3,4 +3,5 @@ controller = NET
 add_core = NET
 trade_goods = fish
 life_rating = 40
-2861.1.1 = { railroad = 3 }
+railroad = 1
+naval_base = 2

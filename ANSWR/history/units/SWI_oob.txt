@@ -251,7 +251,7 @@ navy = {
 
 leader = {
     name = "Benedicht Krist"
-    date = 1825.1.1
+    date = 2825.1.1
     type = land
     personality = defiant
     background = aristocrat
@@ -261,7 +261,7 @@ leader = {
 
 leader = {
     name = "Albert de Kalbermatten"
-    date = 1815.1.1
+    date = 2815.1.1
     type = land
     personality = tactful
     background = exranker
@@ -270,7 +270,7 @@ leader = {
 
 leader = {
     name = "Henri Dufour"
-    date = 1831.1.1
+    date = 2831.1.1
     type = land
     personality = intelligent
     background = cartographer
@@ -279,7 +279,7 @@ leader = {
 
 leader = {
     name = "Leon Aegerter"
-    date = 1820.1.1
+    date = 2820.1.1
     type = land
     personality = coolminded
     background = nationalist
@@ -288,7 +288,7 @@ leader = {
 
 leader = {
     name = "Fredo Ottiker"
-    date = 1836.1.1
+    date = 2836.1.1
     type = sea
     personality = sharp
     background = incompetent
@@ -297,7 +297,7 @@ leader = {
 
 leader = {
     name = "Louis Huggler"
-    date = 1820.1.1
+    date = 2820.1.1
     type = land
     personality = deeply_religious
     background = natural_born_leader

@@ -172,13 +172,6 @@ BRZ = {
     color3= { 183 176 194  }
 }
 
-# Bolivia
-BOL = {
-    color1= { 66 133 63  }
-    color2= { 151 41 43  }
-    color3= { 183 176 194  }
-}
-
 # Canada
 CAN = {
     color1= { 94 117 55  }
@@ -363,7 +356,7 @@ AUS = {
 }
 
 # Hamburg FIXED
-HAM = {
+STR = {
     color1= { 244 56 49  }
     color2= { 87 187 128  }
     color3= { 69 157 208  }

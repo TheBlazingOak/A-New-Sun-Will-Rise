@@ -488,7 +488,7 @@ iberian = {
 french = {
     leader = european
     unit = FrenchGC
-    french = {
+    parish = {
         color = {20 20 100}
         first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
         Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
@@ -514,20 +514,6 @@ french = {
         first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
 
         last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
-    }
-    picard = {
-        color = {100 110 136}
-        first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
-        Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
-        François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-        Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
-        Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-
-        last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
-        Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
-        "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
-        Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-        Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
     }
     union = FRE
 }
@@ -683,6 +669,7 @@ hungarian_culture_group = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
         radicalism = 5
     }
+
 }
 
 polish_culture_group = {
@@ -743,6 +730,20 @@ czecho_slovak_culture_group = {
 
     slovak = {
         color = {120 255 255}
+        first_names = { Albín Alexander András Andrej Augustín Basil Cyprián Dalibor Dezider Dominik
+        Eugen Fedor Ferdinand Frantisek Frico Gabriel Gustáv Imrich Jáchym Ján
+        Janko Jozef Juraj Karol Ladislav Levoslav Marián Marko Martin Matej
+        Michal Mikulás Milan Milos Miloslav Miroslav Pavel Pavol Peter Ratislav
+        Rudolf Samuel Sergej Stefan Svtozár Tibor Tomás Viliam Vladimír Vojtech }
+
+        last_names = { Áchim Bázlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek
+        Figus-Bystrý Freso Gojdic Golian Hlinka Hodza Hopko Hurban Hurban-Vajanský Husák
+        Ivanka Kafenda Kardos Kocak Kupkovic Mach Macudzinski Malár Malovec Markovic
+        Masaryk Móry Moyses Rázus Rohácek Rudnay Selepcéni Sidor Skultéty-Gábris Smik
+        Sokol Stefánik Suchon Sverma Tiso Trcka Tuka Turanec Viest Zoch }
+    }
+    staromadar = {
+        color = { 80 150 150 }
         first_names = { Albín Alexander András Andrej Augustín Basil Cyprián Dalibor Dezider Dominik
         Eugen Fedor Ferdinand Frantisek Frico Gabriel Gustáv Imrich Jáchym Ján
         Janko Jozef Juraj Karol Ladislav Levoslav Marián Marko Martin Matej

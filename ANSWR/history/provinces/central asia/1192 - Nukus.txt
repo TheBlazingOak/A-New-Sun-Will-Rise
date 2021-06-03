@@ -1,2 +1,5 @@
+owner = STR
+controller = STR
+add_core = STR
 trade_goods = opium
-life_rating = 30
+life_rating = 35

@@ -17,6 +17,7 @@ political_decisions = {
 
 		effect = {
 			inherit = MRU
+			ENG_68 = { add_core = THIS }
 			}
 	}
 

@@ -13,14 +13,32 @@ WES = {
     influence_value = 0
 }
 VLA = {
-    value = -10        #relation
-    level = 4        #3=cordial, 4 = friendly, 5 sphere
+    value = -150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+ANI = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+BRT = {
+    value = 180        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+ALS = {
+    value = 200        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 
 army = {
     name = "Kuderhagen Leger"
-    location = 375
+    location = 400
     regiment = {
         name= "I. Cavalerie Brigade"
         type = hussar
@@ -42,13 +60,13 @@ army = {
     regiment = {
         name = "III. Artillerie Brigade"
         type = artillery
-        home = 385
+        home = 387
     }
 
     regiment = {
         name = "I. Infanterie Brigade"
         type = infantry
-        home = 376
+        home = 400
     }
 
     regiment = {
@@ -86,12 +104,133 @@ army = {
         type = infantry
         home = 384
     }
+}
 
+army = {
+    name = "Belgisch Leger"
+    location = 387
+    regiment = {
+        name= "I. Cavalerie Brigade"
+        type = hussar
+        home = 390
+    }
+
+    regiment = {
+        name= "II. Cavalerie Brigade"
+        type = hussar
+        home = 387
+    }
+
+    regiment = {
+        name= "III. Cavalerie Brigade"
+        type = hussar
+        home = 392
+    }
+
+    regiment = {
+        name= "I. Artillerie Brigade"
+        type = artillery
+        home = 392
+    }
+
+    regiment = {
+        name = "II. Artillerie Brigade"
+        type = artillery
+        home = 386
+    }
+
+    regiment = {
+        name = "III. Artillerie Brigade"
+        type = artillery
+        home = 395
+    }
+
+    regiment = {
+        name = "IV. Artillerie Brigade"
+        type = artillery
+        home = 381
+    }
+
+    regiment = {
+        name = "V. Artillerie Brigade"
+        type = artillery
+        home = 400
+    }
+
+    regiment = {
+        name = "VI. Artillerie Brigade"
+        type = artillery
+        home = 400
+    }
+
+    regiment = {
+        name = "VII. Artillerie Brigade"
+        type = artillery
+        home = 398
+    }
+
+    regiment = {
+        name = "IX. Artillerie Brigade"
+        type = artillery
+        home = 397
+    }
+
+    regiment = {
+        name = "I. Infanterie Brigade"
+        type = infantry
+        home = 388
+    }
+
+    regiment = {
+        name = "II. Infanterie Brigade"
+        type = infantry
+        home = 390
+    }
+
+    regiment = {
+        name = "III. Infanterie Brigade"
+        type = infantry
+        home = 383
+    }
+}
+
+army = {
+    name = "Rheinisch Leger"
+    location = 572
+    regiment = {
+        name= "I. Cavalerie Brigade"
+        type = hussar
+        home = 581
+    }
+
+    regiment = {
+        name= "I. Artillerie Brigade"
+        type = artillery
+        home = 393
+    }
+
+    regiment = {
+        name = "II. Artillerie Brigade"
+        type = artillery
+        home = 577
+    }
+
+    regiment = {
+        name = "I. Infanterie Brigade"
+        type = infantry
+        home = 575
+    }
+
+    regiment = {
+        name = "II. Infanterie Brigade"
+        type = infantry
+        home = 572
+    }
 }
 
 navy = {
     name = "Koninklijke Marine"
-    location = 375 #Amsterdam
+    location = 387 #Brussels
     ship = {
         name= "Doggersbank"
         type = manowar
@@ -133,18 +272,82 @@ navy = {
     }
 
     ship = {
-        name= "Irene"
+        name= "1 Transport Eskader"
         type = clipper_transport
+    }
+
+    ship = {
+        name= "2 Transport Eskader"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "3 Transport Eskader"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "3 Transport Eskader"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "3 Transport Eskader"
+        type = clipper_transport
+    }
+}
+
+navy = {
+    name = "Koninklijke Marine"
+    location = 400 #Amsterdam
+    ship = {
+        name= "Kouderstad"
+        type = manowar
+    }
+
+    ship = {
+        name= "Willem"
+        type = manowar
+    }
+
+    ship = {
+        name= "Lunes"
+        type = manowar
+    }
+
+    ship = {
+        name= "Luna"
+        type = manowar
+    }
+
+    ship = {
+        name= "Bloem"
+        type = manowar
+    }
+
+    ship = {
+        name= "Heethaar"
+        type = manowar
+    }
+
+    ship = {
+        name= "Lindhart"
+        type = manowar
+    }
+
+    ship = {
+        name= "Rager"
+        type = frigate
     }
 
     ship = {
         name= "Orpheus"
-        type = clipper_transport
+        type = frigate
     }
 
     ship = {
-        name= "1e Transport Eskader"
-        type = clipper_transport
+        name= "Irene"
+        type = frigate
     }
 }
 
@@ -163,8 +366,8 @@ leader = {
     picture = european_general_31
     date = 2836.1.1
     type = land
-    personality = resolute
-    background = school_of_the_bayonet
+    personality = adaptive
+    background = school_of_hartskamp
     prestige = 0.5
 }
 

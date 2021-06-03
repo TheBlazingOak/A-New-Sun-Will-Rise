@@ -3,5 +3,4 @@ controller = MOW
 add_core = MOW
 trade_goods = iron
 life_rating = 31
-fort = 1
 terrain = ruined_city

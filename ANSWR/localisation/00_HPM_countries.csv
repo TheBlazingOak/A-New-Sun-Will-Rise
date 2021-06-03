@@ -3064,6 +3064,7 @@ BOH_presidential_dictatorship;Vlajka;;;;;;;;;;;;;,,
 BOH_bourgeois_dictatorship;Vlajka;;;;;;;;;;;;;,,
 BOH_fascist_dictatorship;Vlajka;;;;;;;;;;;;;,,
 UNS;Union of the Stales;;;;;;;;;;;;;,,
+UNS;Stal;;;;;;;;;;;;;,,
 UNS_presidential_dictatorship;The Stales;;;;;;;;;;;;;,,
 UNS_bourgeois_dictatorship;The Stales;;;;;;;;;;;;;,,
 UNS_fascist_dictatorship;The Stales;;;;;;;;;;;;;,,
@@ -3091,7 +3092,7 @@ NOD;Norge-Sverige;;;;;;;;;;;;;,,
 NOD_ADJ;Swedish;;;;;;;;;;;;;,,
 NIT;Trihoribratia;;;;;;;;;;;;;,,
 NIT_ADJ;Trihoribratan;;;;;;;;;;;;;,,
-FRE;France;;;;;;;;;;;;;,,
+FRE;Iles de France;;;;;;;;;;;;;,,
 FRE_ADJ;French;;;;;;;;;;;;;,,
 AUS;Fernost;;;;;;;;;;;;;,,
 AUS_ADJ;Fernostian;;;;;;;;;;;;;,,
@@ -3259,8 +3260,8 @@ EST;Otsikunina;;;;;;;;;;;;;,,
 EST_ADJ;Otsikunin;;;;;;;;;;;;;,,
 UKR;Ukrana;;;;;;;;;;;;;,,
 UKR_ADJ;Urkran;;;;;;;;;;;;;,,
-HUN;Starémadarsko;;;;;;;;;;;;;,,
-HUN_ADJ;Staromadarský;;;;;;;;;;;;;,,
+HUN;Staromadarsko;;;;;;;;;;;;;,,
+HUN_ADJ;Staromadar;;;;;;;;;;;;;,,
 SER;Osnivackula;;;;;;;;;;;;;,,
 SER_ADJ;Osniva;;;;;;;;;;;;;,,
 BAN;Banovinhaben;;;;;;;;;;;;;,,
@@ -3531,3 +3532,12 @@ STR_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 STR_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
 STR_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
 STR_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+CAT;Barce;;;;;;;;;;;;;,,
+CAT_ADJ;Barcí;;;;;;;;;;;;;,,
+FIN;Suomi Islands;;;;;;;;;;;;;,,
+IZH;Tesredini;;;;;;;;;;;x;
+IZH_ADJ;Tesredinikh;;;;;;;;;;;x;
+IZH_trading_republic;Peterburgh-Respublika;;;;;;;;;;;x;
+IZH_democracy;Peterburgh-Respublika;;;;;;;;;;;x;
+BEL;Belgie;;;;;;;;;;;x;
+BEL;Belgisch;;;;;;;;;;;x;

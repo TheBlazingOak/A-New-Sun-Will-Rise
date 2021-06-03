@@ -5356,7 +5356,7 @@ EVTNAME52015;Unsuccesful Petition for Assistance;;;;;;;;;;;;;
 EVTDESC52015;We've just heard that our call for help has been ignored. It's unfortunate, but it isn't our will to simply move forward. It relies on outside help as well... But there is no point in dwelling on it, we will just have to find another way.;;;;;;;;;;;;;
 EVT52015OPTA;Look to the horizons. Maybe there we can find an answer to our call.;;;;;;;;;;;;;
 EVTNAME52016;The Ternith Theory;;;;;;;;;;;;;
-EVTDESC52016;A New Englander, Professor Oliver Ternith of Harvard, has recently published a book known as "The Ternith Theory," which focuses on the history of the world. He suspects that some sort of major catastrophe had set the world back hundreds of years. A proceeds to talk of civilizations of common ancestory to many nations today. It remains to be seen how others in his field will react to his theory.;;;;;;;;;;;;;
+EVTDESC52016;A New Englander, Professor Oliver Ternith of Weiss University, has recently published a book known as "The Ternith Theory," which focuses on the history of the world. He suspects that some sort of major catastrophe had set the world back hundreds of years. A proceeds to talk of civilizations of common ancestory to many nations today. It remains to be seen how others in his field will react to his theory.;;;;;;;;;;;;;
 EVT52016OPTA;What a peculiar man...;;;;;;;;;;;;;
 EVTNAME52017;A Quest For Washington;;;;;;;;;;;;;
 EVTDESC52017;Long called the ancestral homeland, Washington is considered a lost city, long falling from grace of its former glory. However, with how backwards the current government that controls the area is, taking it from their hands wouldn't be all too diffucult. Why don't we consider our options in bringing Washington under New English ownership.;;;;;;;;;;;;;
@@ -5429,4 +5429,30 @@ EVTDESC52038;East Frisia have announced their defeat. They have no reason but to
 EVT52038OPTA;We will take what is ours.;;;;;;;;;;;;
 EVTNAME222000;Je Maintiendrai;;;;;;;;;;;;
 EVTDESC222000;The Oudrijk is closer to centralization than ever before. With a clear distinction on the leader, and a direct path to reformation, a greater Oudrijk is inevitable. All the princes have to do is accept the dominance of the $COUNTRY_ADJ$ in the Rijk.;;;;;;;;;;;;
-EVT222000OPTA;Send out the word, the Oudrijk will form.;;;;;;;;;;;;
+EVT222000OPTA;Send out the word, the Oudrijk will finally reach its true potential.;;;;;;;;;;;;
+EVTNAME17250;Expiration of The Treaty of Bergen ;;;;;;;;;;;;
+EVTDESC17250;After the Red War of Copenhagen, and the defeat of Norge-Sverige, by ourselves, and our ally, Skandinaviska, our allies agreed to lease out lands along the coast to us in the Treaty of Bergen on September 3rd, of 2826. Ten years later, that lease is now up, and we need to make the decision to honor our ally.;;;;;;;;;;;;
+EVTOPTA17250;They are our ally, we will respect the treaty!;;;;;;;;;;;;
+EVTOPTB17250;Which fool said it was theirs?;;;;;;;;;;;;
+EVTNAME17251;Scotland Honors The Treaty of Bergen;;;;;;;;;;;;
+EVTDESC17251;After the Red War of Copenhagen, and the defeat of Norge-Sverige, it was agreed that the coast of Norge would be leased out to Scotland. Now that the lease has expired, they have honored us by returning the lands we both won in war. They are true allies, and we shall celebrate our victories with them for centuries.;;;;;;;;;;;;
+EVTOPTA17251;They are good friends, aren't they.;;;;;;;;;;;;
+EVTNAME17252;Scotland Breaks The Treaty of Bergen;;;;;;;;;;;;
+EVTDESC17252;After the Red War of Copenhagen, and the defeat of Norge-Sverige, it was agreed that the coast of Norge would be leased out to Scotland.
+However, the Scots have disrespected this sacred Treaty, by sending a delegation informing us that they will not be giving back Kristianssand, Frekkefjord, Jerperland, or even Bergen!;;;;;;;;;;;;
+EVTOPTA17252;If they have turned their backs to us, then we shall not hesitate to stick a knife in it.;;;;;;;;;;;;
+EVTNAME17253;Defeat By The Skandinavisks;;;;;;;;;;;;
+EVTDESC17253;After our surrender to the Skandinavisks, we've been forced to lose our coastal provinces in Vestlandet. Unfortunately, one of the terms of peace required us to drop our claims to the region entirely. With one less ally, and lost regions, we can only stew in the background after our embrassing betrayal.;;;;;;;;;;;;
+EVTOPTA17253;The Scots will come back stronger than ever.;;;;;;;;;;;;
+EVTNAME52039;Kouderhagen Offers To Buy Their Former Colony;;;;;;;;;;;;
+EVTDESC52039;Founded in 2462, by the legendary explorer Wellen Bloem, Nieuw-Kouderhagen became the most successful overseas colony under the Koudrel Crown. Due to its proximity to our nation, just off the coast of Terre-Neuve, there were multiple attempts at taking Nieuw-Kouderhagen. We, though unfortunately unsuccesful, manage to create discussion with Kouderhagen, and ended up purchasing the colony off of them in 2542.
+EVTDESC52039;Kouderhagen now wants to buy back the region, after nearly 300 years. While it's still inhabited by many ancestors of the original colonists, it has become a major part of Quebec, holding the entrance to Cabot Strait, making it strategically key to defending from a naval attack.
+EVTDESC52039;They are offering a large amount of money, so it makes sense to consider the offer.;;;;;;;;;;;;
+EVTOPTA52039;Their offer is good enough for us.;;;;;;;;;;;;
+EVTOPTB52039;They sold their right to Nieuw-Kouderhagen in 2542;;;;;;;;;;;;
+EVTNAME52040;Quebec Accepts Our Offer;;;;;;;;;;;;
+EVTDESC52040;After considering our offer, Quebec has accepted, granting us control of the island of Nieuw-Kouderhagen, and Zittend en Kade. It has been far too long, many celebrating in the streets of Bloemstad.;;;;;;;;;;;;
+EVTOPTA52040;It is a day to celebrate with our long lost brothers!;;;;;;;;;;;;
+EVTNAME52041;Quebec Rejects Our Offer;;;;;;;;;;;;
+EVTDESC52041;After considering our offer, Quebec has declined, stating that they are in a well enough monetary situtation, to hold off on recklessly selling one of their territories. While many in Nieuw-Kouderhagen wish to rejoin the Kingdom, they are chained to Quebec.;;;;;;;;;;;;
+EVTOPTA52041;We can dream of a day when they are free of the Quebecois.;;;;;;;;;;;;
