@@ -1,0 +1,293 @@
+#Sphere of Influence
+#GPs
+
+leader = {
+    name = "Arlo Hughes"
+    picture = eng_gen_seaton
+    date = 2830.1.1
+    type = land
+    personality = skilled
+    background = hated
+    prestige = 0.15
+}
+
+leader = {
+    name = "Greyson Clark"
+    picture = eng_gen_smith
+    date = 2814.1.1
+    type = land
+    personality = clever
+    background = professor
+    prestige = 0.1
+}
+
+leader = {
+    name = "Jonathan Lane"
+    picture = eng_gen_hardinge
+    date = 2836.1.1
+    type = land
+    personality = smart_p
+    background = rising_star
+    prestige = 0.1
+}
+
+leader = {
+    name = "Dennis Evans"
+    picture = eng_gen_raglan
+    date = 2836.1.1
+    type = land
+    personality = timid
+    background = aristocrat
+    prestige = 0.05
+}
+
+leader = {
+    name = "Rivers Hamilton"
+    date = 2825.1.1
+    type = sea
+    personality = au_fait
+    background = butcher
+    prestige = 0.1
+}
+
+leader = {
+    name = "Miller Black"
+    date = 2836.1.1
+    type = sea
+    personality = confident
+    background = nationalist
+    prestige = 0.1
+}
+
+army = {
+    name = "1st Unionist Division"
+    location = 300
+    regiment = {
+        name= "Light Brigade"
+        type = hussar
+        home = 300
+    }
+
+    regiment = {
+        name= "Heavy Brigade"
+        type = cuirassier
+        home = 301
+    }
+
+    regiment = {
+        name= "1. Brigade"
+        type = infantry
+        home = 302
+    }
+
+    regiment = {
+        name= "2. Brigade"
+        type = infantry
+        home = 300
+    }
+
+    regiment = {
+        name= "3. Brigade"
+        type = infantry
+        home = 300
+    }
+
+    regiment = {
+        name= "1. Artillery Brigade"
+        type = artillery
+        home = 300
+    }
+
+}
+
+army = {
+    name = "2nd Unionist Division"
+    location = 287
+    regiment = {
+        name= "1.2nd Division"
+        type = infantry
+        home = 300
+    }
+
+    regiment = {
+        name= "2.2nd Division"
+        type = infantry
+        home = 287
+    }
+
+    regiment = {
+        name= "2.3rd Division"
+        type = infantry
+        home = 300
+    }
+
+    regiment = {
+        name= "2.4th Division"
+        type = infantry
+        home = 300
+    }
+
+    regiment = {
+        name= "3.5th Division"
+        type = infantry
+        home = 300
+    }
+
+}
+
+navy = {
+    name = "Unionist Fleet"
+    location = 303 #Plymouth
+
+    ship = {
+        name= "HMS Cambridge"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Cornwallis"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Defence"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Hercules" #-
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Howe" #-
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Nelson"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Thunderer"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Vanguard"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Vengeance"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Waterloo"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Amazon"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Fisguard"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Isis"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Latona"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Melampus"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Minerva"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Nereus"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Seringapatam"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Southampton"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Venus"
+        type = frigate
+    }
+
+}
+navy = {
+    name = "Transport Fleet"
+    location = 273 #Plymouth
+    ship = {
+        name= "1st Transport"
+        type = steam_transport
+    }
+    ship = {
+        name= "2nd Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "3rd Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "4th Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "5th Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "6th Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "7th Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "8th Transport"
+        type = steam_transport
+    }
+    ship = {
+        name= "9th Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "10th Transport"
+        type = steam_transport
+    }
+}

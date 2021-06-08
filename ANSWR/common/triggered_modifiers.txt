@@ -317,7 +317,7 @@ small_but_efficient = {
         NOT = { num_of_cities = 8 }
         NOT = { total_pops = 500000 }
         NOT = { money = 1000000 }
-        NOT = { year = 1886 }
+        NOT = { year = 2886 }
         OR = {
             NOT = {
                 is_culture_group = south_slavic
@@ -412,7 +412,7 @@ admin_spen = {
 hormuz_strait = {
         trigger = {
             exists = yes
-            year = 1880
+            year = 2880
             owns = 1071
             owns = 2664
         }

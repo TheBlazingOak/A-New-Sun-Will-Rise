@@ -125,7 +125,7 @@ ENG_271 = { 271 269 270 272 } #Lowlands
 
 ENG_273 = { 273 274 275 276 286 } #Wales
 
-ENG_277 = { 277 278 285 304 283 284 } #North West England
+ENG_277 = { 277 278 285 283 284 } #North West England
 
 ENG_280 = { 280 281 282 279 } #North East England
 
@@ -553,9 +553,9 @@ RUS_1069 = { 2650 2651 2695 2676 2645 } #West Yakutsk
 
 RUS_1070 = { 1077 2691 2674 } #Upper Yeniseysk - Krasnoyarsk
 
-RUS_1071 = { 2648 2696 2644 2697 2641 } #Yakutsk
+RUS_1071 = { 2648 2696 2644 2641 } #Yakutsk
 
-RUS_1072 = { 1081 1080 } #Amur Region - Khingan
+RUS_1072 = { 1081 1080 2697 } #Amur Region - Khingan
 
 RUS_1074 = { 1074 2633 2616 2663 1073 } #Kamchatka
 
@@ -676,7 +676,7 @@ ENG_2125 = { 2125 2126 2124 2123 } #Indian Ocean Territory
 
 LUA_1356 = { 1356 1360 1357 1361 1362 1363 } #Laos
 
-SIA_1366 = { 1366 1367 1364 1368 } #Cambodia
+SIA_1366 = { 1366 1364 1368 } #Cambodia
 
 DAI_1369 = { 1369 1374 1370 1373 1371 1372 } #Tonkin
 
@@ -694,7 +694,7 @@ SIA_1352 = { 1392 1352 1354 1353 } #Patani
 
 SIA_1358 = { 1358 1350 1359 1351 } #Isan
 
-SIA_1365 = { 1365 1382 1383 } #Green Islands
+SIA_1365 = { 1365 1382 1383 1367 } #Green Islands
 
 
 ### East Indies
@@ -731,7 +731,7 @@ SPA_1455 = { 1455 1456 1457 1458 } #Luzón
 
 SPA_1459 = { 1459 1460 1461 2565 } #Visayas
 
-SPA_1463 = { 1463 1462 1464 } #Mindanao
+SPA_1463 = { 1463 1462 } #Mindanao
 
 
 ### China
@@ -740,57 +740,51 @@ CHI_1465 = { 1466 1467 2207 } #Urga
 
 CHI_1468 = { 1468 2679 } #Uliastai
 
-CHI_1470 = { 1470 1471 1473 1475 } #South Anhui
-
-CHI_1477 = { 1477 1474 1476 1472 1478 } #North Anhui
+CHI_1470 = { } #South Anhui
 
 CHI_1479 = { 1479 1480 1554 1555 }  #Fengtian - South Manchuria
 
 CHI_1552 = { 1552 1002 1553 1533 } #Heilongjiang - North Manchuria
 
-CHI_1482 = { 1482 1483 1484 1486 1487 } #Fujian
+CHI_1482 = { 1484 1486 1487 1550 } #Fujian
 
-CHI_1485 = { 2681 2562 2406 } #Formosa
+CHI_1485 = { 2681 2562 1678 2525 } #Formosa
 
 CHI_1490 = { 1489 1492 } #Gansu
 
-CHI_1493 = { 1493 1496 1494 1497 1500 } #East Canton
+CHI_1493 = { 1494 1497 1500 2406 } #East Canton
 
-CHI_1499 = { 1495 1501 2632 } #West Canton
+CHI_1499 = { 1495 1501 1493 1496 2632 1499 } #West Canton
 
-CHI_1504 = { 1502 1503 1504 1499 } #Guangxi
+CHI_1504 = { 1502 1503 1504 } #Guangxi
 
 CHI_1505 = { 1505 1506 1507 } #Guizhou
 
-CHI_1508 = { 1508 1509 1512 1514 } #East Henan
+CHI_1508 = { 1508 1509 1512 1478 } #East Henan
 
-CHI_1510 = { 1510 1511 1513 1515 } #West Henan
+CHI_1510 = { 1510 1511 1513 } #West Henan
 
-CHI_1519 = { 1519 1520 1521 1523 } #West Hubei
+CHI_1519 = { 1519 1520 1521 1523 1517 } #West Hubei
 
-CHI_1522 = { 1522 1516 1517 1518 } #East Hubei
+CHI_1524 = { 1540 1525 1529 } #West Hunan
 
-CHI_1524 = { 1524 1525 1528 1529 } #West Hunan
-
-CHI_1526 = { 1526 1527 1530 } #East Hunan
+CHI_1526 = { 1527 1530 } #East Hunan
 
 CHI_1532 = { 1532 1534 1535 1488 } #Inner Mongolia
 
-CHI_2221 = { 2221 1538 1537 1539 1544 } #South Jiangsu
+CHI_2221 = { } #South Jiangsu
 
-CHI_1540 = { 1540 1543 1536 1542 } #North Jiangsu
+CHI_1545 = { 1546 1551 1473 } #North Jiangxi
 
-CHI_1545 = { 1545 1546 1549 1551 } #North Jiangxi
-
-CHI_1547 = { 1547 1550 } #South Jiangxi
+CHI_1547 = { 1547 1545 1464 } #South Jiangxi
 
 CHI_1557 = { 1557 1558 1556 } #Kokonor/Qinghai
 
 CHI_1559 = { 1559 1561 1562 2062 } #Shaanxi
 
-CHI_1563 = { 1563 1564 1568 1571 1566 } #West Shandong
+CHI_1563 = { 1563 1564 1568 1571 1566 1567 } #West Shandong
 
-CHI_1565 = { 1565 1567 1569 } #East Shandong
+CHI_1565 = { 1565 1569 } #East Shandong
 
 CHI_1572 = { 1572 1573 1574 1575 1576 } #Shanxi
 
@@ -804,13 +798,23 @@ CHI_1600 = { 1600 1595 1596 1599 } #Urumqui
 
 CHI_1601 = { 1601 1602 1603 } #Yunnan
 
-CHI_1604 = { 1604 1605 1608 1609 } #North Zhejiang
+CHI_1604 = { 1604 1608 1609 1610 1607 } #North Zhejiang
 
-CHI_1610 = { 1610 1607 1611 } #South Zhejiang
+CHI_1610 = { 1611 1482 1483 } #South Zhejiang
 
-CHI_1612 = { 1612 1614 1615 1618 } #Baoding
+CHI_1612 = { 1612 1614 1615 1618 1542 1515 } #Baoding
 
 CHI_1616 = { 1616 1613 1617 } #Peking
+
+CHI_1540 = { 1543 2221 1605 1539 1475 } #Hei
+
+CHI_1477 = { 1477 1474 1476 1544 1470 1471 } #North Anhui
+
+JUC_1536 = { 1536 1526 1528 1524 } #Ju
+
+RYU_1679 = { 1679 1516 1522 1472 1549 1514 1538 } #Bandao
+
+RYU_1537 = { 1537 1518 } #Didi
 
 
 ### Japan & Korea
@@ -828,8 +832,6 @@ JAP_1088 = { 1643 1642 1644 } #Ezo - Hokkaido
 JAP_1640 = { 1640 1638 1641 1639 } #Chugoku
 
 JAP_1649 = { 1649 1650 1651 1653 1674 } #Kanto
-
-JAP_1654 = { 1678 1679 2525 } #Bonin Islands
 
 JAP_1655 = { 1657 1656 1655 1658 1659 } #Kansai
 
@@ -874,7 +876,7 @@ TRI_1735 = { 1735 1736 1737 1738 2585 } #Cyrenaica
 
 #TRI_1740 = { 1740 1741 1742 1743 } #Fezzan
 
-EGY_1745 = { 1745 1748 1749 1746 1755 } #East Delta
+EGY_1745 = { 1745 1748 1749 1746 1755 304 } #East Delta
 
 EGY_1751 = { 1747 1750 1751 1765 1763 }#West Delta
 
@@ -890,9 +892,11 @@ FRA_1808 = { 1808 1809 } #Outer Hausaland - South Niger
 
 FRA_1813 = { 1810 1811 1815 1816  1812 1814 2049 2020 } #Niger
 
-ENG_1818 = { 1818 1819 1820 1822 1823 } #Waddai
+ENG_1818 = { 1818 1820 1822 1970 1971 1995 1993 } #Waddai
 
-ENG_1825 = { 1821 1824 1825 1826 1817 2127 } #Chad
+ENG_1823 = { 1823 1824 1821 } #Chally
+
+ENG_1825 = { 1825 1826 1817 2127 } #Chad
 
 EGY_1827 = { 1827 1829 1828 1830 1831 } #Sudan
 
@@ -902,7 +906,7 @@ EGY_1838 = { 1839 1838 1840 1739 1842 1841 } #Kordofan
 
 #EGY_1842 = { 1842 1841 1843 } #Darfur
 
-ENG_1844 = { 1844 1845 1846 1847 1832 1843 } #Sudd
+ENG_1844 = { 1844 1846 1847 1832 } #Sudd
 
 
 ### East Africa
@@ -989,27 +993,33 @@ SOK_1937 = { 1937 1942 1943 1944 1950 } #Tukari - West Central Nigeria
 
 ### Central Africa
 
-SPA_1955 = { 1955 1973 } #Equatorial Guinea
+#SPA_1955 = { } #Equatorial Guinea
 
 ENG_1956 = { 1956 1957 1958 1959 1962 } #Cameroon
 
 SOK_1963 = { 1963 1964 1960 1961 } #Adamawa
 
-FRA_1965 = { 1965 1966 1967 1968 1970 1971 1969 } #Ubangi-Shari
+FRA_1965 = { 1965 1966 1967 1968 1819 } #Ubangi-Shari
+
+KBO_1969 = { 1843 1969 1845 }
 
 #FRA_1970 = { } #Bangassou
 
-FRA_1972 = { 1972 1974 1975 1976 } #Gabon
+#FRA_1972 = { } #Gabon
 
-BEL_1977 = { 1982 1983 1985 2000 } #Bas-Congo/Lower Congo
+BEL_1977 = { 1982 1985 } #Bas-Congo/Lower Congo
 
-FRA_1978 = { 1977 1978 1980 2624 } #Congo
+NTC_2000 = { 2000 1983 1977 1978 2624 } #Hvitesund
 
-BEL_1984 = { 1984 1986 1994 1992 1993 1995 } #Kasai
+NTC_1973 = { 1955 1973 1972 1974 } #Zaire
+
+NTC_1992 = { 1992 1980 1975 1976 } #Innlandskysten
+
+BEL_1984 = { 1984 1986 1994 1993 1995 } #Kasai
 
 BEL_1987 = { 1987 1988 1989 } #Katanga
 
-#BEL_1992 = { 1992 1993 1995 } #Equateur
+#BEL_1992 = { 1992 } #Equateur
 
 #BEL_1996 = { 1996 1997 1998 } #Congo Orientale
 
@@ -1151,7 +1161,7 @@ PEU_2291 = { 2290 2291 2292 2294 } #Cajamarca
 
 PEU_2297 = { 2302 2297 2299  } #Ica
 
-CSK_2301 = { 2301 2300 2549 2286 }
+CSK_2301 = { 2301 2300 2549 2286 } #
 
 PEU_2300 = { 2295 2293 2296 2298 } #Lima
 

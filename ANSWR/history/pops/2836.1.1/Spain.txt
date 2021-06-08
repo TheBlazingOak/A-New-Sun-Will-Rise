@@ -755,40 +755,30 @@
         culture = basque
         religion = catholic
         size = 600
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     clergymen = {
         culture = basque
         religion = catholic
         size = 550
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     artisans = {
         culture = basque
         religion = catholic
         size = 3000
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     soldiers = {
         culture = basque
         religion = catholic
         size = 550
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     farmers = {
         culture = basque
         religion = catholic
         size = 51800
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     aristocrats = {
@@ -827,56 +817,42 @@
         culture = basque
         religion = catholic
         size = 700
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     officers = {
         culture = basque
         religion = catholic
         size = 100
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     bureaucrats = {
         culture = basque
         religion = catholic
         size = 150
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     clergymen = {
         culture = basque
         religion = catholic
         size = 375
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     artisans = {
         culture = basque
         religion = catholic
         size = 1750
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     soldiers = {
         culture = basque
         religion = catholic
         size = 400
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     labourers = {
         culture = basque
         religion = catholic
         size = 35025
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     aristocrats = {
@@ -1085,40 +1061,30 @@
         culture = spanish
         religion = catholic
         size = 1200
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     clergymen = {
         culture = spanish
         religion = catholic
         size = 550
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     artisans = {
         culture = spanish
         religion = catholic
         size = 2750
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     soldiers = {
         culture = spanish
         religion = catholic
         size = 1100
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     farmers = {
         culture = spanish
         religion = catholic
         size = 51500
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
 }
@@ -1257,8 +1223,6 @@
         culture = catalan
         religion = catholic
         size = 33300
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     aristocrats = {
@@ -1297,40 +1261,30 @@
         culture = catalan
         religion = catholic
         size = 550
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     clergymen = {
         culture = catalan
         religion = catholic
         size = 250
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     artisans = {
         culture = catalan
         religion = catholic
         size = 2750
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     soldiers = {
         culture = catalan
         religion = catholic
         size = 275
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     farmers = {
         culture = catalan
         religion = catholic
         size = 24150
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     aristocrats = {
@@ -1369,16 +1323,12 @@
         culture = catalan
         religion = catholic
         size = 850
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     clergymen = {
         culture = catalan
         religion = catholic
         size = 400
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     artisans = {
@@ -1391,32 +1341,24 @@
         culture = catalan
         religion = catholic
         size = 400
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     farmers = {
         culture = catalan
         religion = catholic
         size = 37850
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     aristocrats = {
         culture = spanish
         religion = catholic
         size = 450
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     clergymen = {
         culture = spanish
         religion = catholic
         size = 200
-        militancy = 8
-        rebel_type = carlist_rebels
     }
 
     artisans = {

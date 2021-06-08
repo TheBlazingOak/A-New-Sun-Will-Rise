@@ -1,6 +1,6 @@
 capital = 372
 primary_culture = danish
-religion = protestant
+religion = ketronant
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
@@ -76,6 +76,10 @@ piston_steam_engine = 1
 mechanical_production = 1
 hot_blast = 1
 basic_chemistry = 1
+army_professionalism = 1
+romanticism = 1
+
+schools = army_tech_school
 
 #Inventions
 #corvettes = yes

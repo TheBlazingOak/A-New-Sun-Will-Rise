@@ -1112,6 +1112,46 @@
         size = 110800
     }
 }
+#Normandie Region
+#Channel Islands (72000/18000 POPS)
+419 = {
+    aristocrats = {
+        culture = breton
+        religion = protestant
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = breton
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = breton
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = breton
+        religion = protestant
+        size = 4400
+    }
+
+    soldiers = {
+        culture = breton
+        religion = protestant
+        size = 350
+    }
+
+    farmers = {
+        culture = breton
+        religion = protestant
+        size = 21075
+    }
+
+}
 #St Brieuc (604000/151000 POPS)
 421 = {
 

@@ -326,8 +326,8 @@ finnougric = {
 british = {
     leader = european
     unit = BritishGC
-    british = {
-        color = { 220 100 220}
+    english = {
+        color = { 220 100 120}
         first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
         Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
         Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
@@ -1721,6 +1721,15 @@ east_asian = {
         last_names = { Zexu Baozhen Baochen Nai-siong Shu Fu Sen Debang Xin Nee Huiyin
         }
     }
+
+    lanzu = {
+        color = {50 45 60}
+        first_names = { Lin Shen Chen Wong Yan Sa Hou Zheng Bing Wu Tan He Du Xue Xu Qin
+        }
+        last_names = { Zexu Baozhen Baochen Nai-siong Shu Fu Sen Debang Xin Nee Huiyin
+        }
+    }
+
     zhuang = {
         color = {200 75 134}
         first_names = { Hoang Nong Le Be Van Quoc Quynh The Duc
@@ -2248,6 +2257,16 @@ neo_european_cultures = {
         }
         last_names = { Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys
         }
+    }
+    nork = {
+    color = { 80 72 130 }
+        first_names = { Alfred Adrian Arne Bernt Bjorn Carl Caspar Christian Christopher Cort
+        Einar Elias Fredrik Georg Gerhard Gustav Haakon Hans Harald Herman
+        Johan Jorgen Ludvig Nils Ogmund Olav Osvald Otto Peter Sigurd }
+
+        last_names = { Adeler Balchen Berg Bloch Borresen Bratzland Brentzon Dhal Egge Fleicher
+        Frisvold Hákonarson Hansen Hund Kaldager Konow Lambrechts Morgenstierne Munthe Petersen
+        Rye Sissener Skjalgsson Tambarskjelve "von Holstein-Glücksburg" "von Klenow" Wedel-Jarlsberg Wiborg With Zeiner-Gundersen }
     }
 }
 oceania_cultures = {

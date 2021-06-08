@@ -2984,7 +2984,7 @@ indian_sepoys = {
         }
         modifier = {
             factor = 0.25
-            year = 1880
+            year = 2880
         }
     }
 

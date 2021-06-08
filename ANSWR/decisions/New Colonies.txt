@@ -3750,7 +3750,7 @@ political_decisions = {
             random_owned = { limit = { owner = { has_country_flag = ibadi_country } } MLW = { religion = ibadi set_country_flag = ibadi_country } }
             random_owned = { limit = { owner = { has_country_flag = yazidi_country } } MLW = { religion = yazidi set_country_flag = yazidi_country } }
 
-            random_owned = { limit = { owner = { primary_culture = british owns = 2066 } } 2066 = { change_province_name = "Blantyre" } }
+            random_owned = { limit = { owner = { primary_culture = english owns = 2066 } } 2066 = { change_province_name = "Blantyre" } }
         }
     }
 
@@ -5132,7 +5132,7 @@ political_decisions = {
             set_country_flag = burkina_master
             country_event = 199062
 
-            random_owned = { limit = { owner = { primary_culture = french } } 1901 = { change_province_name = "Ouagadougou" } }
+            random_owned = { limit = { owner = { primary_culture = parish } } 1901 = { change_province_name = "Ouagadougou" } }
             FRA_1901 = {
                 add_core = BKF
                 remove_core = SEG

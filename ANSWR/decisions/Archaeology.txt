@@ -4,8 +4,8 @@ political_decisions = {
         potential = {
             NOT = { has_global_flag = machu_picchu_discovered }
             NOT = { has_country_flag = looking_for_machu_picchu }
-            year = 1890
-            NOT = { year = 1915 }
+            year = 2890
+            NOT = { year = 2915 }
             OR = {
                 rank = 3
                 AND = {
@@ -54,8 +54,8 @@ political_decisions = {
     search_for_aegean_civilizations = {
         picture = priams_treasure
         potential = {
-            year = 1850
-            NOT = { year = 1880 }
+            year = 2850
+            NOT = { year = 2880 }
             NOT = { has_global_flag = troy_discovered }
             NOT = { has_country_flag = search_for_the_aegean_civilizations }
             OR = {
@@ -77,7 +77,7 @@ political_decisions = {
         }
 
         allow = {
-            NOT = { year = 1880 }
+            NOT = { year = 2880 }
             865 = { #Canakkale, where Troy is located
                 OR = {
                     owned_by = THIS

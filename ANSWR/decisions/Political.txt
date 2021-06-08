@@ -94,7 +94,7 @@ political_decisions = {
     enact_female_suffrage = {
         picture = enact_female_suffrage
         potential = {
-            year = 1870
+            year = 2870
             civilized = yes
             NOT = { has_country_modifier = female_suffrage }
             OR = {
@@ -816,7 +816,7 @@ political_decisions = {
                 government = democracy
             }
             NOT = { any_pop = { type = slaves } }
-            year = 1886
+            year = 2886
         }
 
         allow = {
@@ -1030,7 +1030,7 @@ political_decisions = {
         ai_will_do = {
             factor = 1
             modifier = { factor = 0 has_country_modifier = totalitarian_system }
-            modifier = { factor = 0 NOT = { year = 1850 } }
+            modifier = { factor = 0 NOT = { year = 2850 } }
             modifier = { factor = 0 NOT = { state_n_government = 1 } }
             modifier = { factor = 0 has_country_flag = ghost_country }
             modifier = {
@@ -1048,7 +1048,7 @@ political_decisions = {
     state_of_emergency = {
         picture = state_of_emergency
         potential = {
-            year = 1870
+            year = 2870
             NOT = { has_country_flag = state_of_emergency }
             NOT = { has_country_modifier = law_changed_by_force }
             OR = {

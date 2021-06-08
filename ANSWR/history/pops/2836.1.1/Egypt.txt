@@ -286,6 +286,45 @@
         size = 2825
     }
 }
+#Isle Of Man Region - 46000
+#Douglas (46000/11500 POPS)
+304 = {
+    artisans = {
+        culture = misri
+        religion = sunni
+        size = 10000
+    }
+
+    artisans = {
+        culture = misri
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = misri
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = misri
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = misri
+        religion = sunni
+        size = 4000
+    }
+
+    farmers = {
+        culture = misri
+        religion = sunni
+        size = 146000
+    }
+}
 #Tanta (341600/85400 POPS)
 1747 = {
     aristocrats = {

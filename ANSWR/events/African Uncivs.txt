@@ -78,7 +78,7 @@ country_event = { #The Mfecane
     trigger = {
         tag = MAT
         war = no
-        year = 1836
+        year = 2836
         owns = 2110
         NOT = { has_country_flag = the_mfecane }
     }
@@ -125,13 +125,13 @@ country_event = {
     trigger = {
         tag = SEG
         war = no
-        year = 1845
+        year = 2845
         owns = 1800
         OR = {
             NOT = { military_score = 3 }
             war_exhaustion = 50
         }
-        NOT = { year = 1890 }
+        NOT = { year = 2890 }
         ai = yes
     }
 

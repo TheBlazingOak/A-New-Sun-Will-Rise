@@ -1,5 +1,6 @@
-owner = EQG
-controller = EQG
-add_core = EQG
+owner = NTC
+controller = NTC
+add_core = NTC
+add_core = LOA
 trade_goods = rubber
 life_rating = 32

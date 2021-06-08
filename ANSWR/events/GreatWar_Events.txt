@@ -5761,28 +5761,6 @@ country_event = {
         #prestige hit
         prestige_factor = -0.5
 
-        #Add Spanish cores to Gibraltar
-        random_country = {
-            limit = {
-                tag = SPA
-                exists = yes
-            }
-            517 = {
-                remove_core = ENG
-                add_core = SPA
-            }
-        }
-        random_country = {
-            limit = {
-                tag = SPC
-                exists = yes
-            }
-            517 = {
-                remove_core = ENG
-                add_core = SPC
-            }
-        }
-
         #Add French cores, if France is in a truce
         random_country = {
             limit = {
@@ -7230,26 +7208,6 @@ country_event = {
                 truce_with = THIS
             }
             country_event = 96093
-        }
-
-        #Add Spanish cores, if Spain is in a truce
-        random_country = {
-            limit = {
-                tag = SPA
-                truce_with = THIS
-            }
-            457 = { add_core = SPA secede_province = SPA }
-            460 = { add_core = SPA secede_province = SPA }
-            464 = { add_core = SPA secede_province = SPA }
-        }
-        random_country = {
-            limit = {
-                tag = SPC
-                truce_with = THIS
-            }
-            457 = { add_core = SPC secede_province = SPC }
-            460 = { add_core = SPC secede_province = SPC }
-            464 = { add_core = SPC secede_province = SPC }
         }
 
         #if any Congress Poland cores owned, re-add cores to Russia

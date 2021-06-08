@@ -330,7 +330,7 @@ country_event = {
 	trigger = {
 		exists = NEN
 		tag = NEN
-		year = 1840
+		year = 2840
 		220 = { owned_by = { is_culture_group = american_cultures } }
 		has_country_modifier = quest_for_washington
 			NOT = {

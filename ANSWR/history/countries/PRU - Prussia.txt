@@ -10,10 +10,6 @@ non_state_culture_literacy = 0.25
 civilized = yes
 is_releasable_vassal = no
 
-
-#GreaterPowers = prestige
-prestige = 80
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed

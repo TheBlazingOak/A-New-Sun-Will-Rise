@@ -2118,3 +2118,209 @@
     }
 
 }
+#Rotterdam (567000/141750 POPS)
+376 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 465
+    }
+
+    bureaucrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 250
+    }
+
+    officers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 400
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 3325
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 3250
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 31175
+    }
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 4200
+    }
+
+    clergymen = {
+        culture = afro_brazilian
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = afro_brazilian
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = afro_brazilian
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = afro_brazilian
+        religion = catholic
+        size = 1150
+    }
+
+    slaves = {
+        culture = afro_brazilian
+        religion = catholic
+        size = 10500
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1200
+    }
+}
+#Leeuwarden (209200/52300 POPS)
+385 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1325
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 27175
+    }
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 9000
+    }
+
+    clergymen = {
+        culture = afro_brazilian
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = afro_brazilian
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = afro_brazilian
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = afro_brazilian
+        religion = catholic
+        size = 1150
+    }
+
+    slaves = {
+        culture = afro_brazilian
+        religion = catholic
+        size = 5500
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 3700
+    }
+}

@@ -364,7 +364,7 @@ province_event = {
         owner = {
             crisis_exist = no
             NOT = { is_culture_group = native_american }
-            NOT = { year = 1900 }
+            NOT = { year = 2900 }
             has_global_flag = revolution_n_counter_researched
         }
         any_core = {

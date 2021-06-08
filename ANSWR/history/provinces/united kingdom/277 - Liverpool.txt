@@ -1,7 +1,7 @@
 owner = CHS
 controller = CHS
 add_core = CHS
-add_core = ENG
+add_core = ENL
 trade_goods = fish
 life_rating = 40
 railroad = 1
@@ -19,7 +19,7 @@ state_building = {
     upgrade = yes
 }
 state_building = {
-    level = 3
+    level = 2
     building = regular_clothes_factory
     upgrade = yes
 }

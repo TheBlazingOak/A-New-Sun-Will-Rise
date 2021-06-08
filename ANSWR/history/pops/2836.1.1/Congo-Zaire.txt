@@ -56,44 +56,6 @@
         size = 77000
     }
 }
-#Boma (396000/99000 POPS)
-1983 = {
-    aristocrats = {
-        culture = bakongo
-        religion = animist
-        size = 640
-    }
-
-    clergymen = {
-        culture = bakongo
-        religion = animist
-        size = 365
-    }
-
-    artisans = {
-        culture = bakongo
-        religion = animist
-        size = 1375
-    }
-
-    soldiers = {
-        culture = bakongo
-        religion = animist
-        size = 1100
-    }
-
-    farmers = {
-        culture = bakongo
-        religion = animist
-        size = 349250
-    }
-
-    slaves = {
-        culture = bakongo
-        religion = animist
-        size = 10000
-    }
-}
 #Kasai Region (5456000)
 #under the rule of Kuba in 1836
 #Kananga (2024000/506000 POPS)
@@ -651,44 +613,6 @@
         culture = forest_bantu
         religion = animist
         size = 14670
-    }
-}
-#Basoko (1324400/331100 POPS)
-1992 = {
-    aristocrats = {
-        culture = mongo
-        religion = animist
-        size = 2110
-    }
-
-    clergymen = {
-        culture = mongo
-        religion = animist
-        size = 1100
-    }
-
-    artisans = {
-        culture = mongo
-        religion = animist
-        size = 4400
-    }
-
-    soldiers = {
-        culture = mongo
-        religion = animist
-        size = 1100
-    }
-
-    farmers = {
-        culture = mongo
-        religion = animist
-        size = 145990
-    }
-
-    slaves = {
-        culture = forest_bantu
-        religion = animist
-        size = 25670
     }
 }
 #Equateur Region (2552000)

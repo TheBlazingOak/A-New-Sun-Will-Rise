@@ -54,31 +54,31 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 20
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 400
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 1250
     }
@@ -218,7 +218,7 @@
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 260
     }
@@ -304,7 +304,7 @@
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 260
     }
@@ -336,7 +336,7 @@
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 500
     }
@@ -705,31 +705,31 @@
 2096 = {
 
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 1450
     }
@@ -870,25 +870,25 @@
 2097 = {
 
     artisans = {
-        culture = british
+        culture = english
         religion = protestant
         size = 160
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = protestant
         size = 6825
     }

@@ -72,7 +72,7 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = english
         religion = protestant
         size = 50
     }

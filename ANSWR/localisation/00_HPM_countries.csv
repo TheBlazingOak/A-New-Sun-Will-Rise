@@ -55,10 +55,9 @@ CMS_communist;Democratic Assembly of the Comorian People;;;;;;;;;;;;;,,
 CMS_fascist;Party for National Salvation;;;;;;;;;;;;;,,
 nahua;Mesoamerican Indian;;;;;;;;;;;;;,,
 kreol;Kreol;;;;;;;;;;;;;,,
-EQG;Equatorial Guinea;;;;;;;;;;;;;,,
-EQG_ADJ;Equatoguinean;;;;;;;;;;;;;,,
-EQG_absolute_monarchy;Moka;;;;;;;;;;;;;,,
-EQG_absolute_monarchy_ADJ;Mokian;;;;;;;;;;;;;,,
+EQG;Erera Australian Company;;;;;;;;;;;;;,,
+EQG_ADJ;Ereran;;;;;;;;;;;;;,,
+EQG_absolute_monarchy;Erera;;;;;;;;;;;;;,,
 EQG_liberal;Progressive Democratic Alliance;;;;;;;;;;;;;,,
 EQG_conservative;Popular Union;;;;;;;;;;;;;,,
 EQG_socialist;Popular Idea;;;;;;;;;;;;;,,
@@ -191,7 +190,7 @@ CAN_conservative;Conservative Party of Canada;;;;;;;;;;;;;,,
 CAN_reactionary;Tories;;;;;;;;;;;;;,,
 CAN_liberal_1;Red Party;;;;;;;;;;;;;,,
 CAN_liberal_2;Liberal Party of Canada;;;;;;;;;;;;;,,
-DAI;Vietnam;;;;;;;;;;;;;,,
+DAI;Xãvietdo;;;;;;;;;;;;;,,
 DAI_communist;Viet Nam Cong san Ðang;;;;;;;;;;;;;,,
 ENG_communist;Communist Party of Great Britain;;;;;;;;;;;;;,,
 ENG_conservative;Tory Party;;;;;;;;;;;;;,,
@@ -408,11 +407,6 @@ KOR_conservative_2;Wangdangpa;;;;;;;;;;;;;,,
 KOR_socialist;Sahoe-tang;;;;;;;;;;;;;,,
 KOR_communist;Choson Kongsantang;;;;;;;;;;;;;,,
 KOR_fascist;Pasiseuteu Pati;;;;;;;;;;;;;,,
-MCK;Manchuria;;;;;;;;;;;;;,,
-MCK_fascist_dictatorship;Manzhouguo;Manchukuo;Manchukuo;;;;;;;;;;;,,
-MCK_presidential_dictatorship;Fengtian Clique;;;;;;;;;;;;;,,
-MCK_ADJ;Manchu;Mandchou;Manchu;;;;;;;;;;;,,
-MCK_presidential_dictatorship_ADJ;Fengtian;;;;;;;;;;;;;,,
 BRZ_monarchy;Empire of Brazil;;;;;;;;;;;;;,,
 SIA_absolute_monarchy;Rattanakosin Kingdom;;;;;;;;;;;;;,,
 KML;Kumul Khanate;;;;;;;;;;;;;,,
@@ -433,7 +427,8 @@ PROV1364;Phnom Penh;;;;;;;;;;;;;,,
 PROV1464;Jolo;;;;;;;;;;;;;,,
 ATJ;Aceh;;;;;;;;;;;;;,,
 ATJ_ADJ;Acehnese;;;;;;;;;;;;;,,
-JOH;Johor;;;;;;;;;;;;;,,
+JOH;New Singapore;;;;;;;;;;;;;,,
+JOH_ADJ;New Singaporean;;;;;;;;;;;;;,,
 UCA;The FRCA;;;;;;;;;;;;;,,
 UCA_absolute_monarchy;United Kingdom of Central America;;;;;;;;;;;;;,,
 UCA_prussian_constitutionalism;United Kingdom of Central America;;;;;;;;;;;;;,,
@@ -1069,11 +1064,6 @@ FIU_socialist;Partito Socialista di Fiume;Partito Socialista di Fiume;Partito So
 FIU_communist;Partito Comunista di Fiume;Partito Comunista di Fiume;Partito Comunista di Fiume;;;;;;;;;;;,,
 FIU_anarcho_liberal;Radicali;Radical;Radikal;;;;;;;;;;;,,
 FIU_fascist;Fascisti;Fasciste;Faschistisch;;;;;;;;;;;,,
-FJN;Fujian;;;;;;;;;;;;;,,
-FJN_ADJ;Fujian;;;;;;;;;;;;;,,
-FJN_presidential_dictatorship;Fujian Clique;;;;;;;;;;;;;,,
-FJN_fascist_dictatorship;Min Republic;;;;;;;;;;;;;,,
-FJN_fascist_dictatorship_ADJ;Min;;;;;;;;;;;;;,,
 FJN_reactionary;Beiyang Faction;Faction Rongting;Rongting-Fraktion;;;;;;;;;;;,,
 FJN_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;;;;;;;;;;,,
 FJN_communist;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei China;;;;;;;;;;;,,
@@ -1152,9 +1142,6 @@ GNE_reactionary;Democratic Party of Guinea;;;;;;;;;;;;;,,
 GNE_socialist;Socialist Democracy of Guinea;;;;;;;;;;;;;,,
 GNE_communist;Guinean People's Assembly;;;;;;;;;;;;;,,
 GNE_fascist;National Union for the Prosperity;;;;;;;;;;;;;,,
-GNG;Guangdong;;;;;;;;;;;;;,,
-GNG_ADJ;Guangdong;;;;;;;;;;;;;,,
-GNG_presidential_dictatorship;Guangdong Clique;;;;;;;;;;;;;,,
 GNG_reactionary;Beiyang Faction;Faction Rongting;Rongting-Fraktion;;;;;;;;;;;,,
 GNG_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;;;;;;;;;;,,
 GNG_communist;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei China;;;;;;;;;;;,,
@@ -1297,9 +1284,8 @@ KAM_fascist;The Nationalists;Faction fasciste;Die faschistische Fraktion;;;;;;;;
 KHI_absolute_monarchy;Khiva;;;;;;;;;;;;;,,
 BUK_absolute_monarchy;Bukhara;;;;;;;;;;;;;,,
 KOK_absolute_monarchy;Kokand;;;;;;;;;;;;;,,
-KAZ_absolute_monarchy;Kazakh Khanate;;;;;;;;;;;;;,,
-KAZ;Kazakhstan;;;;;;;;;;;;;,,
-KAZ_ADJ;Kazakh;;;;;;;;;;;;;,,
+KAZ;Kazack;;;;;;;;;;;;;,,
+KAZ_ADJ;Kazack;;;;;;;;;;;;;,,
 KAZ_conservative;The Conservatives;Faction royale;Königsfraktion;;;;;;;;;;;,,
 KAZ_liberal;The Liberals;Faction libérale;Die liberale Fraktion;;;;;;;;;;;,,
 KAZ_reactionary;The Khanate Faction;Faction nationaliste;Die nationalistische Fraktion;;;;;;;;;;;,,
@@ -1948,8 +1934,6 @@ RUT_democracy;West Ukraine;;;;;;;;;;;;;,,
 RUT_democracy_ADJ;West Ukrainian;;;;;;;;;;;;;,,
 RUT_presidential_dictatorship;West Ukraine;;;;;;;;;;;;;,,
 RUT_presidential_dictatorship_ADJ;West Ukrainian;;;;;;;;;;;;;,,
-RYU;Ryukyu;;;;;;;;;;;;;,,
-RYU_ADJ;Ryukyuan;;;;;;;;;;;;;,,
 RYU_conservative;National Party;;;;;;;;;;;;;,,
 RYU_liberal;Liberal Party;;;;;;;;;;;;;,,
 RYU_reactionary;Monarchist Party;;;;;;;;;;;;;,,
@@ -2466,9 +2450,8 @@ WHA_anarcho_liberal;Anarchwyr;;;;;;;;;;;;;,,
 WHA_fascist;Meibion Glyndwr;;;;;;;;;;;;;,,
 WHA_communist;Plaid Gomiwnyddol;;;;;;;;;;;;;,,
 WHA_reactionary;Plaid Genedlaethol;;;;;;;;;;;;;,,
-XBI_ADJ;Qinghai;;;;;;;;;;;;;,,
-XBI_presidential_dictatorship;Ma Clique;;;;;;;;;;;;;,,
-XBI_presidential_dictatorship_ADJ;Hui;;;;;;;;;;;;;,,
+XBI;Hui;;;;;;;;;;;;;,,
+XBI_ADJ;Hui;;;;;;;;;;;;;,,
 XBI_reactionary_2;Confucianist Faction;;;;;;;;;;;;;,,
 XBI_conservative_2;Amban Faction;;;;;;;;;;;;;,,
 XBI_liberal_2;Reformer Faction;;;;;;;;;;;;;,,
@@ -2482,7 +2465,6 @@ YAK_communist;The Communists;Faction communiste;Die kommunistische Fraktion;;;;;
 YAK_fascist;The Nationalists;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;,,
 YAP;Yap;Yap;Yap;;;;;;;;;;;,,
 YAP_ADJ;Yapese;Yapese;Yapese;;;;;;;;;;;,,
-YNN_presidential_dictatorship;Yunnan Clique;Clique de Yunnan;Yunnan-Clique;;;;;;;;;;;,,
 YUC;Yucatan;;;;;;;;;;;;;,,
 YUC_ADJ;Yucatecan;;;;;;;;;;;;;,,
 YUC_conservative;Partido Conservador;Partido Conservador;Partido Conservador;;;;;;;;;;;,,
@@ -2742,8 +2724,8 @@ LBA_anarcho_liberal;Radical Faction;Faction radicale;Die radikale Fraktion;;;;;;
 LBA_socialist;Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;,,
 LBA_communist;Communist Faction;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;,,
 LBA_fascist;Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;,,
-LOA;Loango;Loango;Loango;;Loango;;;;;;;;;,,
-LOA_ADJ;Loangoese;Loangoaise;Loangoische;;;;;;;;;;;,,
+LOA;Bakongo;Loango;Loango;;Loango;;;;;;;;;,,
+LOA_ADJ;Bakongo;Loangoaise;Loangoische;;;;;;;;;;;,,
 LOA_conservative;Ma Lwããgu's Faction;Faction Ma Lwããgu;Ma Lwããgu Fraktion;;;;;;;;;;;,,
 LOA_liberal;Reform Faction;Faction de réforme;Verbesserung Fraktion;;;;;;;;;;;,,
 LOA_reactionary;Traditions Faction;Faction des traditions;Traditionen Fraktion;;;;;;;;;;;,,
@@ -3064,7 +3046,7 @@ BOH_presidential_dictatorship;Vlajka;;;;;;;;;;;;;,,
 BOH_bourgeois_dictatorship;Vlajka;;;;;;;;;;;;;,,
 BOH_fascist_dictatorship;Vlajka;;;;;;;;;;;;;,,
 UNS;Union of the Stales;;;;;;;;;;;;;,,
-UNS;Stal;;;;;;;;;;;;;,,
+UNS_ADJ;Unionist;;;;;;;;;;;;;,,
 UNS_presidential_dictatorship;The Stales;;;;;;;;;;;;;,,
 UNS_bourgeois_dictatorship;The Stales;;;;;;;;;;;;;,,
 UNS_fascist_dictatorship;The Stales;;;;;;;;;;;;;,,
@@ -3074,22 +3056,22 @@ SAP;Skandinaviska;;;;;;;;;;;;;,,
 SAP_ADJ;Skandinavisk;;;;;;;;;;;;;,,
 VLA;Vlanspublyk;;;;;;;;;;;;;,,
 VLA_ADJ;Vlanisch;;;;;;;;;;;;;,,
-ULS;Ulster;;;;;;;;;;;;;,,
-ULS_ADJ;Ulstern;;;;;;;;;;;;;,,
+ULS;Belfast;;;;;;;;;;;;;,,
+ULS_ADJ;Belfastian;;;;;;;;;;;;;,,
 CHS;Chester;;;;;;;;;;;;;,,
 CHS_ADJ;Chestern;;;;;;;;;;;;;,,
-COC;Connacht;;;;;;;;;;;;;,,
-COC_ADJ;Connachter;;;;;;;;;;;;;,,
-LEC;Leinster;;;;;;;;;;;;;,,
-LEC_ADJ;Leinsten;;;;;;;;;;;;;,,
+COC;Galway;;;;;;;;;;;;;,,
+COC_ADJ;Galwegian;;;;;;;;;;;;;,,
+LEC;Dublin;;;;;;;;;;;;;,,
+LEC_ADJ;Dubliners;;;;;;;;;;;;;,,
 PRV;Novo Provença;;;;;;;;;;;;;,,
 PRV_ADJ;Novo Provençau;;;;;;;;;;;;;,,
 ROU;Rouance;;;;;;;;;;;;;,,
 ROU_ADJ;Rouancen;;;;;;;;;;;;;,,
 AUV;Auvergne;;;;;;;;;;;;;,,
 AUV_ADJ;Auvergnian;;;;;;;;;;;;;,,
-NOD;Norge-Sverige;;;;;;;;;;;;;,,
-NOD_ADJ;Swedish;;;;;;;;;;;;;,,
+NOD;Norge-Svea;;;;;;;;;;;;;,,
+NOD_ADJ;Norsk-Svenske;;;;;;;;;;;;;,,
 NIT;Trihoribratia;;;;;;;;;;;;;,,
 NIT_ADJ;Trihoribratan;;;;;;;;;;;;;,,
 FRE;Iles de France;;;;;;;;;;;;;,,
@@ -3149,7 +3131,7 @@ RDM_ADJ;Morelian;;;;;;;;;;;;;,,
 HDR;Los Hombres de Ruiz;;;;;;;;;;;;;,,
 HDR_ADJ;Tampican;;;;;;;;;;;;;,,
 ELO;El Liberado;;;;;;;;;;;;;,,
-ELO_ADJ;Placeholder;;;;;;;;;;;;;,,
+ELO_ADJ;Liberador;;;;;;;;;;;;;,,
 MEX;Mexica;;;;;;;;;;;;;,,
 MEX_ADJ;Mexicano;;;;;;;;;;;;;,,
 AMA;Amazona;;;;;;;;;;;;;,,
@@ -3519,9 +3501,6 @@ STR_proletarian_dictatorship;Setjer Republic;Setjer Republic;Setjer Republic;;;;
 STR_presidential_dictatorship;Setjer Republic;Setjer Republic;Setjer Republic;;;;;;;;;;;x;
 STR_bourgeois_dictatorship;Setjer Republic;Setjer Republic;Setjer Republic;;;;;;;;;;;x;
 STR_fascist_dictatorship;Setjer Empire;Setjer Empire;Setjer Empire;;;;;;;;;;;x;
-STR_absolute_monarchy;Kingdom of Setjer;Kingdom of Setjer;Kingdom of Setjer;;;;;;;;;;;x;
-STR_prussian_constitutionalism;Kingdom of Setjer;Kingdom of Setjer;Kingdom of Setjer;;;;;;;;;;;x;
-STR_hms_government;Kingdom of Setjer;Kingdom of Setjer;Kingdom of Setjer;;;;;;;;;;;x;
 STR_democracy;Setjer Republic;Setjer Republic;Setjer Republic;;;;;;;;;;;x;
 STR_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
 STR_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
@@ -3534,10 +3513,47 @@ STR_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
 STR_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
 CAT;Barce;;;;;;;;;;;;;,,
 CAT_ADJ;Barcí;;;;;;;;;;;;;,,
-FIN;Suomi Islands;;;;;;;;;;;;;,,
+FIN;Suomi Isles;;;;;;;;;;;;;,,
 IZH;Tesredini;;;;;;;;;;;x;
 IZH_ADJ;Tesredinikh;;;;;;;;;;;x;
 IZH_trading_republic;Peterburgh-Respublika;;;;;;;;;;;x;
 IZH_democracy;Peterburgh-Respublika;;;;;;;;;;;x;
 BEL;Belgie;;;;;;;;;;;x;
 BEL;Belgisch;;;;;;;;;;;x;
+HEI;Hei;;;;;;;;;;;x;
+HEI_democracy;Hei Republic;;;;;;;;;;;x;
+HEI_trading_republic;Hei Maritime;;;;;;;;;;;x;
+HEI_ADJ;Hei;;;;;;;;;;;x;
+CHA;Chaoxue;;;;;;;;;;;x;
+CHA_ADJ;Chaoxue;;;;;;;;;;;x;
+WYS;Wuying-Shen;;;;;;;;;;;x;
+WYS_ADJ;Wuying-Shen;;;;;;;;;;;x;
+JUC;Ju;;;;;;;;;;;x;
+JUC_ADJ;Ju;;;;;;;;;;;x;
+XIR;Xieren;;;;;;;;;;;x;
+XIR_ADJ;Xieren;;;;;;;;;;;x;
+RYU;Bàndao;;;;;;;;;;;x;
+RYU_ADJ;Bàndao;;;;;;;;;;;x;
+YNN;Sichuan;;;;;;;;;;;x;
+YNN_ADJ;Sichuan;;;;;;;;;;;x;
+GNG;Cantan;;;;;;;;;;;x;
+GNG_ADJ;Cantan;;;;;;;;;;;x;
+FJN;Chen;;;;;;;;;;;x;
+FJN_ADJ;Chen;;;;;;;;;;;x;
+GXI;Mao;;;;;;;;;;;x;
+GXI_ADJ;Mao;;;;;;;;;;;x;
+MCK;Xi-Jinping;;;;;;;;;;;x;
+MCK_ADJ;Xi-Ping;;;;;;;;;;;x;
+XIN;Kholq;;;;;;;;;;;x;
+XIN_ADJ;Kholq;;;;;;;;;;;x;
+NTC;Norkselskap;;;;;;;;;;;x;
+NTC_ADJ;Nork;;;;;;;;;;;x;
+NTC_hms_government;Taptforviste;;;;;;;;;;;x;
+NTC_absolute_monarchy;Taptforviste;;;;;;;;;;;x;
+NTC_presidential_dictatorship;Taptforviste;;;;;;;;;;;x;
+NTC_fascist_dictatorship;Taptforviste;;;;;;;;;;;x;
+NTC_bourgeois_dictatorship;Ukjentland;;;;;;;;;;;x;
+NTC_proletarian_dictatorship;Ukjentland;;;;;;;;;;;x;
+NTC_prussian_constitutionalism;Taptforviste;;;;;;;;;;;x;
+ASL;Anti-Stales League;;;;;;;;;;;x;
+ASL_ADJ;Anti-Unionist;;;;;;;;;;;x;

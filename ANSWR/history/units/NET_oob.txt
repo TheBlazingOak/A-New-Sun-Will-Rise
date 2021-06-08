@@ -229,7 +229,7 @@ army = {
 }
 
 navy = {
-    name = "Koninklijke Marine"
+    name = "Nationale Marine "
     location = 387 #Brussels
     ship = {
         name= "Doggersbank"

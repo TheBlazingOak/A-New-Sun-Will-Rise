@@ -292,7 +292,7 @@ political_decisions = {
             tag = ETH
             owns = 1859
             NOT = { has_country_flag = addis_ababa_built }
-            year = 1880
+            year = 2880
         }
 
         allow = {

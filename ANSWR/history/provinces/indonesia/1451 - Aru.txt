@@ -1,5 +1,5 @@
-owner = MAL
-controller = MAL
-add_core = MAL
+owner = EQG
+controller = EQG
+add_core = TMR
 trade_goods = fish
-life_rating = 31
+life_rating = 35

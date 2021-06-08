@@ -1,5 +1,5 @@
-owner = LUA
-controller = LUA
-add_core = LUA
+owner = DAI
+controller = DAI
+add_core = DAI
 trade_goods = grain
-life_rating = 31
+life_rating = 35

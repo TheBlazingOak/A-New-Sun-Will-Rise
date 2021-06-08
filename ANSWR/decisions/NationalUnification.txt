@@ -48,7 +48,7 @@ political_decisions = {
         effect = {
             clr_country_flag = crown_from_the_gutter
             clr_country_flag = secondary_union_formation
-            random_owned = { limit = { owner = { accepted_culture = french } } owner = { remove_accepted_culture = french } }
+            random_owned = { limit = { owner = { accepted_culture = parish } } owner = { remove_accepted_culture = parish } }
             random_owned = { limit = { owner = { accepted_culture = polish } } owner = { remove_accepted_culture = polish } }
             random_owned = { limit = { owner = { accepted_culture = danish } } owner = { remove_accepted_culture = danish } }
             random_owned = { limit = { owner = { accepted_culture = hungarian } } owner = { remove_accepted_culture = hungarian } }
@@ -149,7 +149,7 @@ political_decisions = {
             prestige = 15
             clr_country_flag = crown_from_the_gutter
             clr_country_flag = secondary_union_formation
-            random_owned = { limit = { owner = { accepted_culture = french } } owner = { remove_accepted_culture = french } }
+            random_owned = { limit = { owner = { accepted_culture = french } } owner = { remove_accepted_culture = parish } }
             random_owned = { limit = { owner = { accepted_culture = polish } } owner = { remove_accepted_culture = polish } }
             random_owned = { limit = { owner = { accepted_culture = danish } } owner = { remove_accepted_culture = danish } }
             random_owned = { limit = { owner = { accepted_culture = hungarian } } owner = { remove_accepted_culture = hungarian } }

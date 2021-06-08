@@ -2476,7 +2476,7 @@ oriental_crisis = {
         has_global_flag = oriental_crisis
         any_owned_province = { is_core = TUR }
         NOT = { has_country_modifier = neutrality_modifier }
-        NOT = { year = 1860 }
+        NOT = { year = 3860 }
         OR = {
             war_with = THIS
             THIS = { NOT = { has_country_modifier = no_more_war } }

@@ -1,6 +1,5 @@
-owner = QNG
-controller = QNG
-add_core = CHI
-add_core = FJN
+owner = WYS
+controller = WYS
+add_core = WYS
 trade_goods = grain
 life_rating = 35

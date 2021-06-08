@@ -1,6 +1,5 @@
-owner = QNG
-controller = QNG
-add_core = CHI
-add_core = GNG
+owner = CHA
+controller = CHA
+add_core = CHA
 trade_goods = tropical_wood
 life_rating = 32

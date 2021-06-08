@@ -12675,3 +12675,47 @@
     }
 
 }
+#Jolo (44000/11000 POPS)
+1464 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 16150
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 8125
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 5500
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 422155
+    }
+}

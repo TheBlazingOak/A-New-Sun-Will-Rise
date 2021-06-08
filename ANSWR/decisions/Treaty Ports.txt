@@ -34,52 +34,6 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
-    macao_treaty_port = {
-        picture = macao_china
-        potential = {
-            has_country_modifier = negotiating_treaty
-            1498 = { owner = { has_country_modifier = negotiating_unequal_treaty civilized = no truce_with = THIS } }
-            NOT = { has_country_modifier = chinese_treaty_port }
-        }
-
-        allow = {
-        }
-
-        effect = {
-            remove_country_modifier = negotiating_treaty
-            1498 = { secede_province = THIS change_controller = THIS }
-            add_country_modifier = { name = chinese_treaty_port duration = 1095 }
-        }
-        ai_will_do = {
-            factor = 1
-                modifier = {
-                    factor = 0
-                    tag = ENG
-                    NOT = { owns = 1496 }
-                    1496 = { owner = { civilized = no truce_with = THIS } }
-                }
-
-                modifier = {
-                    factor = 0
-                    tag = ENG
-                    NOT = { owns = 1566 }
-                    1566 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
-                    tag = RUS
-                    NOT = { owns = 1481 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
-                    primary_culture = japanese
-                    NOT = { owns = 2562 }
-                    2562 = { owner = { civilized = no truce_with = THIS } }
-                }
-            }
-    }
-
     hong_kong_treaty_port = {
         picture = hong_kong_china
         potential = {
@@ -117,7 +71,7 @@ political_decisions = {
         picture = shanghai_china
         potential = {
             has_country_modifier = negotiating_treaty
-            1538 = { owner = { has_country_modifier = negotiating_unequal_treaty civilized = no truce_with = THIS } }
+            1544 = { owner = { has_country_modifier = negotiating_unequal_treaty civilized = no truce_with = THIS } }
             NOT = { has_country_modifier = chinese_treaty_port }
         }
 
@@ -126,7 +80,7 @@ political_decisions = {
 
         effect = {
             remove_country_modifier = negotiating_treaty
-            1538 = { secede_province = THIS change_controller = THIS }
+            1544 = { secede_province = THIS change_controller = THIS }
             add_country_modifier = { name = chinese_treaty_port duration = 1095 }
         }
         ai_will_do = {
@@ -211,7 +165,7 @@ political_decisions = {
         picture = port_arthur
         potential = {
             has_country_modifier = negotiating_treaty
-            1481 = {
+            1497 = {
                 owner = {
                     has_country_modifier = negotiating_unequal_treaty
                     civilized = no
@@ -226,7 +180,7 @@ political_decisions = {
 
         effect = {
             remove_country_modifier = negotiating_treaty
-            1481 = { secede_province = THIS change_controller = THIS add_province_modifier = { name = treaty_port duration = -1 } }
+            1497 = { secede_province = THIS change_controller = THIS add_province_modifier = { name = treaty_port duration = -1 } }
             add_country_modifier = { name = chinese_treaty_port duration = 1095 }
         }
         ai_will_do = {
@@ -306,11 +260,11 @@ political_decisions = {
             }
     }
 
-    jiaxing_treaty_port = {
+    wuchang_treaty_port = {
         picture = jiaxing_china
         potential = {
             has_country_modifier = negotiating_treaty
-            1606 = { owner = { has_country_modifier = negotiating_unequal_treaty civilized = no truce_with = THIS } }
+            1522 = { owner = { has_country_modifier = negotiating_unequal_treaty civilized = no truce_with = THIS } }
             NOT = { has_country_modifier = chinese_treaty_port }
         }
 
@@ -319,7 +273,7 @@ political_decisions = {
 
         effect = {
             remove_country_modifier = negotiating_treaty
-            1606 = { secede_province = THIS change_controller = THIS add_province_modifier = { name = treaty_port duration = -1 } }
+            1522 = { secede_province = THIS change_controller = THIS add_province_modifier = { name = treaty_port duration = -1 } }
             add_country_modifier = { name = chinese_treaty_port duration = 1095 }
         }
         ai_will_do = {
@@ -359,6 +313,58 @@ political_decisions = {
             }
     }
 
+    fengyang_treaty_port = {
+        picture = jiaxing_china
+        potential = {
+            has_country_modifier = negotiating_treaty
+            1472 = { owner = { has_country_modifier = negotiating_unequal_treaty civilized = no truce_with = THIS } }
+            NOT = { has_country_modifier = chinese_treaty_port }
+        }
+
+        allow = {
+        }
+
+        effect = {
+            remove_country_modifier = negotiating_treaty
+            1522 = { secede_province = THIS change_controller = THIS add_province_modifier = { name = treaty_port duration = -1 } }
+            add_country_modifier = { name = chinese_treaty_port duration = 1095 }
+        }
+        ai_will_do = {
+            factor = 1
+                modifier = {
+                    factor = 0
+                    tag = ENG
+                    NOT = { owns = 1496 }
+                    1496 = { owner = { civilized = no truce_with = THIS } }
+                }
+                modifier = {
+                    factor = 0
+                    tag = ENG
+                    NOT = { owns = 1569 }
+                    1569 = { owner = { civilized = no truce_with = THIS } }
+                }
+                modifier = {
+                    factor = 0
+                    tag = ENG
+                    NOT = { owns = 1566 }
+                    1566 = { owner = { civilized = no truce_with = THIS } }
+                }
+                modifier = {
+                    factor = 0
+                    tag = RUS
+                    NOT = { owns = 1481 }
+                    1481 = { owner = { civilized = no truce_with = THIS } }
+                }
+                modifier = {
+                    factor = 0
+                    primary_culture = japanese
+                    NOT = { owns = 1415 }
+                    1481 = { owner = { civilized = no truce_with = THIS } }
+                    NOT = { owns = 2562 }
+                    2562 = { owner = { civilized = no truce_with = THIS } }
+                }
+            }
+    }
     hainan_treaty_port = {
         picture = hainan_china
         potential = {

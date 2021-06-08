@@ -1,6 +1,5 @@
-owner = CHK
-controller = CHK
-add_core = SIA
-add_core = CHK
+owner = DAI
+controller = DAI
+add_core = DAI
 trade_goods = grain
 life_rating = 33

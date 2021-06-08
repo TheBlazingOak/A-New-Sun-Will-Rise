@@ -23,7 +23,6 @@ PROV2346;Colonia;;;;;;;;;;;;x
 PROV1447;Taliabu;;;;;;;;;;;;x
 BEL_1977;Lower Congo;;;;;;;;;;;;x
 TUR_832;Thessaly;;;;;;;;;;;;x
-PROV1972;Baraka;;;;;;;;;;;;x
 EGY_1758;Western Desert;;;;;;;;;;;;x
 PROV1895;Daloa;;;;;;;;;;;;x
 FRA_1775;Trab el Beidan;;;;;;;;;;;;x
@@ -74,13 +73,11 @@ PROV3305;Khovsgol Lake;;;;;;;;;;;;x
 PROV3304;Lake Zaysan;;;;;;;;;;;;x
 PROV3303;Lake Alakol;;;;;;;;;;;;x
 PROV3302;Khanka Lake;;;;;;;;;;;;x
-PROV3301;Hung-tse Lake;;;;;;;;;;;;x
 PROV3300;Siling Lake;;;;;;;;;;;;x
 PROV3299;Chott Chergui;;;;;;;;;;;;x
 PROV3298;Chott el Hodna;;;;;;;;;;;;x
 PROV3297;Chott Melghir;;;;;;;;;;;;x
 PROV3296;Chott el Djerid;;;;;;;;;;;;x
-PROV3295;Taihu Lake;;;;;;;;;;;;x
 PROV3294;Lake Mweru;;;;;;;;;;;;x
 PROV3293;Lake Rukwa;;;;;;;;;;;;x
 PROV3292;Lake Argyle;;;;;;;;;;;;x
@@ -524,7 +521,7 @@ CHI_1470;South Anhui;;;;;;;;;;;;x
 CHI_1477;North Anhui;;;;;;;;;;;;x
 CHI_1479;Fengtian;;;;;;;;;;;;x
 CHI_1482;Fujian;;;;;;;;;;;;x
-CHI_1485;Formosa;;;;;;;;;;;;x
+CHI_1485;Laozuzong;;;;;;;;;;;;x
 CHI_1490;Gansu;;;;;;;;;;;;x
 CHI_1493;East Canton;;;;;;;;;;;;x
 CHI_1496;Hong Kong;;;;;;;;;;;;x
@@ -539,7 +536,6 @@ PROV1523;Xiangyang;;;;;;;;;;;;x
 CHI_1524;North Hunan;;;;;;;;;;;;x
 CHI_1526;South Hunan;;;;;;;;;;;;x
 CHI_1532;Inner Mongolia;;;;;;;;;;;;x
-CHI_1540;North Jiangsu;;;;;;;;;;;;x
 PROV1542;Xuzhou;;;;;;;;;;;;x
 CHI_1545;North Jiangxi;;;;;;;;;;;;x
 CHI_1547;South Jiangxi;;;;;;;;;;;;x
@@ -547,8 +543,6 @@ CHI_1552;Heilongjiang;;;;;;;;;;;;x
 CHI_1555;Kirin;;;;;;;;;;;;x
 PROV1559;Xian;;;;;;;;;;;;x
 CHI_1559;Shaanxi;;;;;;;;;;;;x
-CHI_1563;West Shandong;;;;;;;;;;;;x
-CHI_1565;East Shandong;;;;;;;;;;;;x
 CHI_1572;Shanxi;;;;;;;;;;;;x
 CHI_1578;West Sichuan;;;;;;;;;;;;x
 CHI_1579;East Sichuan;;;;;;;;;;;;x
@@ -776,8 +770,6 @@ CHI_1552;Heilongjiang;;;;;;;;;;;;x
 CHI_1555;Kirin;;;;;;;;;;;;x
 PROV1559;Xian;;;;;;;;;;;;x
 CHI_1559;Shaanxi;;;;;;;;;;;;x
-CHI_1563;West Shandong;;;;;;;;;;;;x
-CHI_1565;East Shandong;;;;;;;;;;;;x
 CHI_1572;Shanxi;;;;;;;;;;;;x
 CHI_1578;West Sichuan;;;;;;;;;;;;x
 CHI_1579;East Sichuan;;;;;;;;;;;;x
@@ -963,7 +955,7 @@ PROV3326;Straits of Parii;;;;;;;;;;;x
 PROV3327;Straits of Savoie;;;;;;;;;;;x
 NET_1413;West Java;;;;;;;;;;;;x
 NET_375;Holland;;;;;;;;;;;;x
-NET_385;Kouderegen;;;;;;;;;;;;x
+NET_385;Groot-Kouderstad;;;;;;;;;;;;x
 PROV425;Parii;;;;;;;;;;;;x
 PROV625;Praha;;;;;;;;;;;;x
 PROV619;Wien;;;;;;;;;;;;x
@@ -1226,3 +1218,52 @@ NIT_637;Bohatéhory;;;;;;;;;;;;;;;;;;;;;;;x
 NIT_714;Roviny;;;;;;;;;;;;;;;;;;;;;;;x
 ENG_74;Terre-Neuve;;;;;;;;;;;;;;;;;;;;;;;x
 PROV994;Peterburgh;;;;;;;;;;;;;;;;;;;;;;;x
+CHI_1540;Hei;;;;;;;;;;;;;;;;;;;;;;;x
+RYU_1679;Bàndao;;;;;;;;;;;;;;;;;;;;;;;x
+RYU_1537;Didì;;;;;;;;;;;;;;;;;;;;;;;x
+JUC_1536;Ju;;;;;;;;;;;;;;;;;;;;;;;x
+CHI_1563;Shangdao;;;;;;;;;;;;;;;;;;;;;;;x
+CHI_1565;Xiaofang;;;;;;;;;;;;;;;;;;;;;;;x
+BRZ_2425;Chapada;;;;;;;;;;;;;;;;;;;;;;;x
+BRZ_1367;Callifal;;;;;;;;;;;;;;;;;;;;;;;x
+BRZ_1954;Rallego;;;;;;;;;;;;;;;;;;;;;;;x
+BRZ_2452;Campinas;;;;;;;;;;;;;;;;;;;;;;;x
+FIN_339;Alustenden;;;;;;;;;;;;;;;;;;;;;;;x
+SWI_721;Lombardei;;;;;;;;;;;;;;;;;;;;;;;x
+RUS_1194;Setjer;;;;;;;;;;;;;;;;;;;;;;;x
+RUS_2678;Bulgan;;;;;;;;;;;;;;;;;;;;;;;x
+SIA_1365;Quandaoxanh;;;;;;;;;;;;;;;;;;;;;;;x 
+CSK_2301;Valle del Amazonas;;;;;;;;;;;;;;;;;;;;;;;x
+LIT_2569;Kurassala;;;;;;;;;;;;;;;;;;;;;;;x
+RUS_945;Pamestas;;;;;;;;;;;;;;;;;;;;;;;x
+USA_82;Great Cliffs;;;;;;;;;;;;;;;;;;;;;;;x
+CAN_49;Northern Crossing;;;;;;;;;;;;;;;;;;;;;;;x
+CAN_57;Toronto Area;;;;;;;;;;;;;;;;;;;;;;;x
+WIN_2596;The Rest Points;;;;;;;;;;;;;;;;;;;;;;;x
+RUS_1071;Xia;;;;;;;;;;;;;;;;;;;;;;;x
+RUS_1072;Dishan;;;;;;;;;;;;;;;;;;;;;;;x
+NTC_1992;Innlandskysten;;;;;;;;;;;;;;;;;;;;;;;x
+NTC_1973;Zaire;;;;;;;;;;;;;;;;;;;;;;;x
+NTC_2000;Hvitesund;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2000;Tipsbyen;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1983;Hvitesund;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1977;Hafnarlaekur;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2624;Kystsjø;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1978;Tollefsrud;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1980;Opptelling;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1992;Handelbukt;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1976;Mølleskov;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1975;Nordholm;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1974;Stoffsted;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1972;Sólholt;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1973;Hoppepunkt;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1955;Aasøyer;;;;;;;;;;;;;;;;;;;;;;;x
+PROV3295;Rùkou Sea;;;;;;;;;;;;;;;;;;;;;;;x
+PROV3108;The Yin Sea;;;;;;;;;;;;;;;;;;;;;;;x
+PROV3235;The Jiaoyì;;;;;;;;;;;;;;;;;;;;;;;x
+PROV3301;Sea of Rèshui;;;;;;;;;;;;;;;;;;;;;;;x
+ENG_277;Chester;;;;;;;;;;;;;;;;;;;;;;;x
+ENG_280;Tyne;;;;;;;;;;;;;;;;;;;;;;;x
+PROV280;Tyne;;;;;;;;;;;;;;;;;;;;;;;x
+ENG_291;Anglia;;;;;;;;;;;;;;;;;;;;;;;x
+PROV292;Norfolk;;;;;;;;;;;;;;;;;;;;;;;x

@@ -1,7 +1,7 @@
 owner = CHS
 controller = CHS
 add_core = CHS
-add_core = ENG
+add_core = ENL
 trade_goods = coal
 life_rating = 35
 party_loyalty = {
@@ -12,26 +12,3 @@ party_loyalty = {
     ideology = conservative
     loyalty_value = 15
 }
-state_building = {
-    level = 2
-    building = explosives_factory
-    upgrade = yes
-}
-state_building = {
-    level = 3
-    building = artillery_factory
-    upgrade = yes
-}
-2861.1.1 = {
-    state_building = {
-        level = 1
-        building = cement_factory
-        upgrade = yes
-    }
-    state_building = {
-        level = 1
-        building = glass_factory
-        upgrade = yes
-    }
-}
-2861.1.1 = { railroad = 4 }

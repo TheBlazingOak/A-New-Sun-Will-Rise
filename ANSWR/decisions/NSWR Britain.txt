@@ -1,0 +1,188 @@
+### ENGLAND
+political_decisions = {
+	support_sutton = {
+
+		potential = {
+		exists = yes
+		tag = UNS
+		has_country_flag = the_lions_speech
+		}
+		allow = {
+		prestige = 60
+		ideological_thought = 1
+		}
+		effect = {
+		UNS = { country_event = 17301 }
+		clr_country_flag = the_lions_speech
+		}
+		ai_will_do = { factor = 1 } 
+	}
+	anti_stales_league_player = {
+		picture = anti_stales_league
+		potential = {
+		ai = no
+		exists = yes
+		has_global_flag = the_lions_speech
+		capital_scope = { continent = europe }
+		primary_culture = english		
+		NOT = { tag = UNS}
+		NOT = { tag = ASL}	
+		}
+		allow = {
+		prestige = 25
+		}
+		effect = {
+		change_tag = ASL
+			any_country = {
+                limit = {
+                capital_scope = { continent = europe }
+				primary_culture = english
+				NOT = { tag = UNS}
+				NOT = { tag = THIS}
+                }
+                country_event = 17309
+            }
+        all_core = {
+        remove_core = THIS
+        }
+		THIS = { country_event = 17304 }
+		}
+	}
+	anti_stales_league = {
+	picture = anti_stales_league
+		potential = {
+		ai = yes
+		exists = yes
+		has_country_flag = the_lions_speech
+		NOT = { has_global_flag = the_lions_speech }
+		NOT = { has_global_flag = anti_stales_league_formed}
+		capital_scope = { continent = europe }
+		primary_culture = english
+		NOT = { tag = UNS }		
+		NOT = { tag = ASL}		
+		}
+		allow = {
+		prestige = 25
+		}
+		effect = {
+		change_tag = ASL
+			any_country = {
+	                limit = {
+	                capital_scope = { continent = europe }
+					primary_culture = english
+					NOT = { tag = UNS}
+					NOT = { tag = THIS}
+	                }
+	                country_event = 17309
+	            }
+	        all_core = {
+	        remove_core = THIS
+	        }
+		THIS = { country_event = 17304 }
+		}
+		ai_will_do = { factor = 1 }  
+	}
+	stales_england_form_asl = {
+	picture = england_form
+		potential = {
+		exists = yes
+		has_global_flag = anti_stales_league_formed
+		tag = UNS
+		NOT = { tag = ENL }
+		NOT = { has_country_flag = england_formed }
+		ENG_277 = { owned_by = UNS }
+		ENG_280 = { owned_by = UNS }
+		ENG_291 = { owned_by = UNS }
+		}
+
+		allow = {
+		}
+		effect = {
+		UNS = { country_event = 17308 }
+		set_country_flag = england_formed
+		}
+		ai_will_do = { factor = 1 } 
+	}
+	anti_stales_england_form = {
+	picture = england_form
+		potential = {
+		exists = yes
+		has_global_flag = anti_stales_league_formed
+		tag = ASL
+		NOT = { tag = ENL }
+		NOT = { has_country_flag = england_formed }
+			UNS = {
+			is_disarmed = yes
+			}
+		}
+		allow = {
+		}
+		effect = {
+		UNS = { country_event = 17306 }
+		THIS = { country_event = 17307 }
+		set_country_flag = england_formed
+		}
+		ai_will_do = { factor = 1 } 
+	}
+
+	apologize_english = {
+
+		potential = {
+		exists = yes
+		tag = UNS
+		has_country_flag = denounced_lions_speech
+		NOT = { has_country_flag = unionist_apology }
+		}
+		allow = {
+		prestige = 50
+		ideological_thought = 1
+		}
+		effect = {
+		prestige = 5
+			relation = {
+	            who = TYN
+	            value = 25
+	        }
+	        relation = {
+	            who = CHS
+	            value = 25
+	        }
+	        relation = {
+	            who = ANI
+	            value = 25
+	        }
+	        set_country_flag = unionist_apology
+		}
+		ai_will_do = { factor = 1 }  
+	}
+	offer_compensation_english = {
+
+	picture = institute_central_bank
+
+		potential = {
+		exists = yes
+		tag = UNS
+		has_country_flag = imprisioned_the_lions_speech
+		NOT = { has_country_flag = unionist_apology }
+		}
+		allow = {
+		prestige = 50
+		ideological_thought = 1
+		}
+		effect = {
+			prestige = 5
+			any_country ={
+	            limit = { 
+	            exists = yes
+	            ai = yes
+	            capital_scope = { continent = europe }
+	            primary_culure = english
+	            NOT = { tag = UNS }
+	            }
+	            country_event = 17302
+	        }
+	        set_country_flag = unionist_apology
+		}
+		ai_will_do = { factor = 1 }  
+	}
+}

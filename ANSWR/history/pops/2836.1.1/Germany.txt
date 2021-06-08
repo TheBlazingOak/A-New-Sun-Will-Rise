@@ -3484,68 +3484,6 @@
     }
     ########
 }
-#Munster (464000/95000 POPS)
-581 = {
-    aristocrats = {
-        culture = rhine_german
-        religion = protestant
-        size = 200
-    }
-
-    clergymen = {
-        culture = rhine_german
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = rhine_german
-        religion = protestant
-        size = 1100
-    }
-
-    soldiers = {
-        culture = rhine_german
-        religion = protestant
-        size = 500
-    }
-
-    farmers = {
-        culture = rhine_german
-        religion = protestant
-        size = 48625
-    }
-
-    aristocrats = {
-        culture = rhine_german
-        religion = catholic
-        size = 900
-    }
-
-    clergymen = {
-        culture = dutch
-        religion = catholic
-        size = 1100
-    }
-
-    artisans = {
-        culture = dutch
-        religion = catholic
-        size = 4850
-    }
-
-    soldiers = {
-        culture = dutch
-        religion = catholic
-        size = 3000
-    }
-
-    farmers = {
-        culture = dutch
-        religion = catholic
-        size = 16250
-    }
-}
 #Minden (216000/54000 POPS)
 582 = {
     aristocrats = {

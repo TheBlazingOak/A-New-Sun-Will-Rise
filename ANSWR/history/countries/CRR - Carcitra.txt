@@ -38,8 +38,8 @@ border_policy = closed_borders
 
 set_country_flag = catholic_country
 
-ruling_party = CLM_reactionary
-last_election = 1832.3.10
+ruling_party = CRR_reactionary
+last_election = 2832.3.10
 upper_house = {
     fascist = 0
     liberal = 12

@@ -290,7 +290,7 @@ production_focus = {
         automobiles = 50
         icon = 22
         limit = {
-            year = 1880
+            year = 2880
             civilized = yes
             NOT = { state_scope = { any_owned_province = { NOT = { controlled_by = THIS } } } }
             NOT = { owner = { economic_policy = planned_economy } }
@@ -305,7 +305,7 @@ production_focus = {
         electric_gear = 50
         icon = 23
         limit = {
-            year = 1880
+            year = 2880
             civilized = yes
             NOT = { state_scope = { any_owned_province = { NOT = { controlled_by = THIS } } } }
             NOT = { owner = { economic_policy = planned_economy } }
@@ -319,7 +319,7 @@ production_focus = {
         oil = 50
         icon = 24
         limit = {
-            year = 1880
+            year = 2880
             civilized = yes
             NOT = { state_scope = { any_owned_province = { NOT = { controlled_by = THIS } } } }
             NOT = { owner = { economic_policy = planned_economy } }

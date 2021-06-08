@@ -664,13 +664,7 @@
     soldiers = {
         culture = byelorussian
         religion = the_one
-        size = 12250
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = the_one
-        size = 9250
+        size = 21250
     }
 
     farmers = {

@@ -1,5 +1,6 @@
-owner = LOA
-controller = LOA
+owner = NTC
+controller = NTC
+add_core = NTC
 add_core = LOA
 trade_goods = grain
 life_rating = 31

@@ -3,7 +3,7 @@
 # Special countries...
 REB     =     "countries/rebels.txt"
 
-##ANSWR North America
+##North America ANSWR
 NEN        ="countries/New England.txt"
 NYO        ="countries/New York.txt"
 SLC        ="countries/Commitee of the St Lawerence.txt"
@@ -29,12 +29,12 @@ DAU        ="countries/Durango.txt"
 PEN	       ="countries/Pennsylvania.txt"
 NIW        ="countries/Nieuw-Kouderhagen.txt"
 
-#Mexican Warlords
+## Mexican Warlords ANSWR
 RDM        ="countries/Reyes de Morelia.txt" #Kings of Morelia
 HDR        ="countries/Los Hombres de Ruiz.txt" #Ruiz's Men
 ELO        ="countries/El Liberado.txt" #The Freed
 
-#ANSWR South America
+##South America ANSWR
 GAR        ="countries/Gartra.txt"
 CRR        ="countries/Carcitra.txt"
 QKD        ="countries/Quycan.txt"
@@ -46,7 +46,7 @@ SJR        ="countries/Janeiro.txt"
 PTG        ="countries/Patagonia.txt"
 NUH        ="countries/Nuevo Hogar.txt"
 
-##ANSWR Western Europe
+##Western Europe ANSWR 
 ANI        = "countries/Anglia.txt"
 CHS        = "countries/Chester.txt"
 COC        = "countries/Connacht.txt"
@@ -68,8 +68,9 @@ DMN        = "countries/Damasco.txt"
 LIR        = "countries/Lirlo.txt"
 NOU        = "countries/Nouverts.txt"
 NSO        = "countries/New Scotland.txt"
+ASL        = "countries/Anti-Stales League.txt"
 
-##ANSWR Central Europe
+## Central Europe ANSWR 
 APU        = "countries/Apulia.txt"
 CRV        = "countries/Craiova.txt"
 DEV        = "countries/Deva.txt"
@@ -84,7 +85,7 @@ MON        = "countries/Free Cities of Serbia.txt"
 NEH        = "countries/Kentro Ellada.txt"
 GLC        = "countries/Magyar.txt"
 
-#RUSSIA
+## Russia ANSWR
 PRZ        = "countries/Pribrezhnyy.txt"
 ZVY        = "countries/Zelenvody.txt"
 ZKY        = "countries/Zahukraya.txt"
@@ -104,7 +105,7 @@ KAM     = "countries/Kamchatka.txt"
 BRY        ="countries/Buryatia.txt"
 STR        ="countries/Setjer.txt"
 
-# Australasia ANSWR
+##Australasia ANSWR
 AST        ="countries/Australia.txt"
 HAE        ="countries/Holy Australian Empire.txt"
 NZL        ="countries/New Zealand.txt"
@@ -126,6 +127,18 @@ FSA        = "countries/Chalevia.txt"
 VEN        = "countries/Queensland.txt"
 TRE        = "countries/Lost Coast.txt"
 ION        = "countries/Levega.txt"
+EQG        ="countries/Erera.txt"
+
+##China ANSWR
+XIR        = "countries/Xieren.txt"
+JUC        = "countries/Ju.txt"
+HEI        = "countries/Hei.txt"
+CHA        = "countries/Chaoxue.txt"
+WYS        = "countries/Wuying-Shen.txt"
+XIN        ="countries/Xinjiang.txt"
+
+##Middle Africa ANSWR
+NTC        = "countries/Norkselskap.txt"
 
 ##Formables
 OUD        ="countries/Oudrijk.txt"
@@ -190,7 +203,6 @@ MGH        ="countries/Maghreb.txt"
 BKF        ="countries/Burkina Faso.txt"
 ZBW        ="countries/Zimbabwe.txt"
 CMS        ="countries/Comoros.txt"
-EQG        ="countries/Equatorial Guinea.txt"
 
 #Latin America
 
@@ -581,7 +593,7 @@ GXI        ="countries/Guangxi Clique.txt"
 SXI        ="countries/Shanxi.txt"
 YNN        ="countries/Yunnan.txt"
 XBI        ="countries/Xibei San Ma.txt"
-XIN        ="countries/Xinjiang.txt"
+
 
 # North America
 CAN        ="countries/Canada.txt"
