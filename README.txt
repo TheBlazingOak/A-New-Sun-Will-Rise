@@ -20,7 +20,7 @@ arkhometha, creator of HPM
 Cool Map Mod Creator
 Square Shaded Flag Frame Creator
 
-Certain flags were taken from the internet, and we'd like to thank the creators of those flags.
+Certain flags were taken from the internet, and we'd like to thank the creators of those flags. If you find your flag in use, and wish to see it gone please contact Oak.
 
 Lead Developer:
 Oak

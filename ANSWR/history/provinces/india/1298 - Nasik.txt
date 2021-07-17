@@ -1,8 +1,6 @@
-owner = MUG
-controller = MUG
-add_core = MUG
+owner = ORI
+controller = ORI
+add_core = ORI
 add_core = HND
 trade_goods = grain
 life_rating = 32
-colonial = 2
-2861.1.1 = { railroad = 2 }

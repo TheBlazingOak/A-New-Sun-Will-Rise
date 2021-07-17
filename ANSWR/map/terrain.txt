@@ -429,13 +429,15 @@ categories =  {
     ruined_city = {
         movement_cost = 1.5
         color = { 120 120 25 }
-        defense = 3
+        defence = 2
 
         mine_rgo_size = 1.0
         mine_rgo_eff = 0.50
         supply_limit = 6
         attrition = 2
         immigrant_attract = 0.1
+
+        combat_width = -0.2
     }
 }
 

@@ -1,6 +1,5 @@
-owner = MUG
-controller = MUG
-add_core = MUG
-add_core = HND
+owner = IND
+controller = IND
+add_core = IND
 trade_goods = cotton
 life_rating = 32

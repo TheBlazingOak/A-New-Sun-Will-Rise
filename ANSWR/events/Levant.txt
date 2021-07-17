@@ -6,7 +6,7 @@ country_event = {
     picture = "beirut_silk"
 
     trigger = {
-        year = 1860
+        year = 2860
         913 = {
             is_colonial = no
             owned_by = THIS
@@ -66,7 +66,7 @@ province_event = {
     desc = "EVTDESC168010"
 
     trigger = {
-        year = 1872
+        year = 2872
         province_id = 913
         is_colonial = no
         owner = { is_canal_enabled = 2 }
@@ -92,7 +92,7 @@ country_event = {
     trigger = {
         is_greater_power = yes
         social_science = 1
-        year = 1895
+        year = 2895
         912 = { owner = { relation = { who = this value = 100 } } }
     }
 
@@ -121,7 +121,7 @@ country_event = {
     picture = "missionaries"
 
     trigger = {
-        year = 1836
+        year = 2836
         owns = 913
     }
 

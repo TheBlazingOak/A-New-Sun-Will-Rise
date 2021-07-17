@@ -1,12 +1,6 @@
-owner = HYD
-controller = HYD
-add_core = HYD
+owner = ORI
+controller = ORI
+add_core = ORI
 add_core = HND
 trade_goods = tobacco
 life_rating = 32
-colonial = 2
-fort = 1
-naval_base = 1
-2861.1.1 = {
-    railroad = 3
-}

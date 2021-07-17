@@ -67,11 +67,9 @@ PROV3311;Lough Neagh;;;;;;;;;;;;x
 PROV3310;Hulun Lake;;;;;;;;;;;;x
 PROV3309;Namak Lake;;;;;;;;;;;;x
 PROV3308;Khar Us Lake;;;;;;;;;;;;x
-PROV3307;Khyargas Lake;;;;;;;;;;;;x
 PROV3306;Uvs Lake;;;;;;;;;;;;x
 PROV3305;Khovsgol Lake;;;;;;;;;;;;x
 PROV3304;Lake Zaysan;;;;;;;;;;;;x
-PROV3303;Lake Alakol;;;;;;;;;;;;x
 PROV3302;Khanka Lake;;;;;;;;;;;;x
 PROV3300;Siling Lake;;;;;;;;;;;;x
 PROV3299;Chott Chergui;;;;;;;;;;;;x
@@ -84,7 +82,6 @@ PROV3292;Lake Argyle;;;;;;;;;;;;x
 PROV3291;Lake Mackay;;;;;;;;;;;;x
 PROV3289;Scottish Channel;;;;;;;;;;;;x
 PROV3287;Lake Gairdner;;;;;;;;;;;;x
-PROV3286;Songkhla Lake;;;;;;;;;;;;x
 PROV3285;Fagnano Lake;;;;;;;;;;;;x
 PROV12;Sado;;;;;;;;;;;x
 PROV1531;Tombara;;;;;;;;;;;x
@@ -492,7 +489,6 @@ AFG_1214;South Afghanistan;;;;;;;;;;;;x
 PAN_1233;Amritsar;;;;;;;;;;;;x
 ENG_1243;Bundelkhand;;;;;;;;;;;;x
 ENG_1244;Awadh;;;;;;;;;;;;x
-NEP_1326;Western Himalayas;;;;;;;;;;;;x
 SIA_1352;Pattani;;;;;;;;;;;;x
 SIA_1355;Shan;;;;;;;;;;;;x
 LUA_1356;Laos;;;;;;;;;;;;x
@@ -719,7 +715,6 @@ AFG_1214;Kandahar;;;;;;;;;;;;x
 PAN_1233;Amritsar;;;;;;;;;;;;x
 ENG_1243;Bundelkhand;;;;;;;;;;;;x
 ENG_1244;Awadh;;;;;;;;;;;;x
-NEP_1326;Western Himalayas;;;;;;;;;;;;x
 SIA_1352;Pattani;;;;;;;;;;;;x
 SIA_1355;Shan;;;;;;;;;;;;x
 LUA_1356;Laos;;;;;;;;;;;;x
@@ -1267,3 +1262,13 @@ ENG_280;Tyne;;;;;;;;;;;;;;;;;;;;;;;x
 PROV280;Tyne;;;;;;;;;;;;;;;;;;;;;;;x
 ENG_291;Anglia;;;;;;;;;;;;;;;;;;;;;;;x
 PROV292;Norfolk;;;;;;;;;;;;;;;;;;;;;;;x
+NEP_1329;Pahajala;;;;;;;;;;;;;;;;;;;;;;;x
+NEP_1326;Rajad;;;;;;;;;;;;;;;;;;;;;;;x
+NEP_1327;The Himas;;;;;;;;;;;;;;;;;;;;;;;x
+DEL_1236;Naee Delhee;;;;;;;;;;;;;;;;;;;;;;;x
+IND_1290;Issac's Ghar;;;;;;;;;;;;;;;;;;;;;;;x
+PROV3307;The Jalmaarg;;;;;;;;;;;;;;;;;;;;;;;x
+PROV3286;The Khula Samudr;;;;;;;;;;;;;;;;;;;;;;;x
+PROV3303;Issac's Gahara;;;;;;;;;;;;;;;;;;;;;;;x
+ENG_1275;Uttam;;;;;;;;;;;;;;;;;;;;;;;x
+ENG_1241;Vikaas;;;;;;;;;;;;;;;;;;;;;;;x

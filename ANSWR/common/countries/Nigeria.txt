@@ -1,9 +1,9 @@
-color = { 66  207  66 }
+color = { 63 89 82 }
 graphical_culture = AfricanGC
 
 party = {
     name = "NGR_conservative"
-    start_date = 1800.1.1
+    start_date = 2800.1.1
     end_date = 3000.1.1
 
     ideology = conservative

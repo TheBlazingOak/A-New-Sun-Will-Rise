@@ -1,7 +1,6 @@
-owner = BSH
-controller = BSH
-add_core = BSH
-add_core = ORA
+owner = ZUL
+controller = ZUL
+add_core = ZUL
 trade_goods = cattle
 life_rating = 35
 2861.1.1 = {

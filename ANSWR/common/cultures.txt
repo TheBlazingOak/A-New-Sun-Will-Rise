@@ -2624,6 +2624,14 @@ west_african = {
     leader = african
     is_overseas = no
     unit = AfricanGC
+    leau = {
+        color = {67 212 217}
+        first_names = { Birayamb Al-Buri Baka Birayma Mbanyi Lat Bakan-Tam Taanor Amado "Ali Buri" Mba Birawa Samba
+        }
+
+        last_names = { N'Dyaye Seeku Khaari Yaago Peya Ma-Dyigen Koddu Paate Penda Aram Kodu Tam Dior
+        }
+    }
     akan = {
         color = {88 68 147}
         first_names = { Amanquatia Agyeman Onsei Kwaku Kofi Atakora Kwabena Mensa Owusu Akyampon Kwame Opoku

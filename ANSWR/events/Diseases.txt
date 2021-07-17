@@ -161,19 +161,19 @@ country_event = {
 
         modifier = {
             factor = 1.1
-            year = 1850
+            year = 2850
         }
         modifier = {
             factor = 1.1
-            year = 1870
+            year = 2870
         }
         modifier = {
             factor = 1.1
-            year = 1890
+            year = 2890
         }
         modifier = {
             factor = 1.1
-            year = 1910
+            year = 2910
         }
     }
 
@@ -357,7 +357,7 @@ country_event = {
         }
         OR = {
             NOT = { primary_culture = japanese }
-            year = 1850
+            year = 2850
         }
     }
 

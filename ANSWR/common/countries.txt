@@ -140,6 +140,9 @@ XIN        ="countries/Xinjiang.txt"
 ##Middle Africa ANSWR
 NTC        = "countries/Norkselskap.txt"
 
+##Mid East
+OTA        = "countries/Ostanatonlien.txt"
+
 ##Formables
 OUD        ="countries/Oudrijk.txt"
 RUS        = "countries/Russia.txt"
@@ -188,7 +191,7 @@ ARC        ="countries/Argentine Conf.txt"
 LHJ        ="countries/Lahej.txt"
 FDL        ="countries/Fadhli.txt"
 KTH        ="countries/Kathiri.txt"
-MHR        ="countries/Mahra.txt"
+MHR        ="countries/Varsha.txt"
 KML        ="countries/Kumul.txt"
 SHK        ="countries/Shilluk.txt"
 WRL     ="countries/Warsangali.txt"
@@ -288,7 +291,7 @@ BLC        = "countries/Baluchistan.txt"
 BNG        = "countries/Bengal.txt"
 DRA        = "countries/Dravidistan.txt"
 KRN        = "countries/Karnatak.txt"
-MAH        = "countries/Maharashtra.txt"
+MAH        = "countries/Machha.txt"
 #MRT    = "countries/Marathas.txt"
 RAJ        = "countries/Rajputana.txt"
 SRI        = "countries/Sri Lanka.txt"
@@ -550,7 +553,7 @@ BIK        ="countries/Bikaner.txt"
 BUN        ="countries/Bundelkhand.txt"
 GWA        ="countries/Gwailor.txt"
 HYD        ="countries/Hyderabad.txt"
-IND        ="countries/Indore.txt"
+IND        ="countries/Issac.txt"
 JAI        ="countries/Jaipur.txt"
 JAS        ="countries/Jaisalmer.txt"
 JOD        ="countries/Jodhpur.txt"
@@ -559,16 +562,16 @@ KAS        ="countries/Kashmir.txt"
 KUT        ="countries/Kutch.txt"
 LAD        ="countries/Ladakh.txt"
 MAK        ="countries/Makran.txt"
-MEW        ="countries/Mewar.txt"
-MYS        ="countries/Mysore.txt"
-NAG        ="countries/Nagpur.txt"
-NEP        ="countries/Nepal.txt"
-ORI        ="countries/Orissa.txt"
-PNJ        ="countries/Panjab.txt"
-SHI        ="countries/Shimla.txt"
-SIK        ="countries/Sikkim.txt"
-SIN        ="countries/Sind.txt"
-TRA        ="countries/Travancore.txt"
+MEW        ="countries/Utara.txt"#
+MYS        ="countries/Paki.txt"#
+NAG        ="countries/New Delhi.txt"#
+NEP        ="countries/Bataphara.txt"#
+ORI        ="countries/Roshane.txt"#
+PNJ        ="countries/Panjab.txt"#
+SHI        ="countries/Sammaan.txt"#
+SIK        ="countries/Vapara.txt"#
+SIN        ="countries/Rezara.txt"#
+TRA        ="countries/Travancore.txt"#
 
 # Eastern Asia
 ATJ        ="countries/Atjeh.txt"

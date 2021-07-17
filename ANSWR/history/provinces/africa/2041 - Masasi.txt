@@ -1,2 +1,6 @@
+owner = UNS
+controller = UNS
+add_core = AGC
 trade_goods = cattle
-life_rating = 10
+life_rating = 35
+colonial = 2

@@ -1,7 +1,6 @@
-owner = TRA
-controller = TRA
-add_core = TRA
+owner = MHR
+controller = MHR
+add_core = MHR
 add_core = HND
 trade_goods = grain
 life_rating = 32
-colonial = 2

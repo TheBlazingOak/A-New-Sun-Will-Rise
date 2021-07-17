@@ -1,12 +1,10 @@
-capital = 1175
-primary_culture = bedouin
-religion = sunni
+capital = 1306
+primary_culture = telegu
+religion = hindu
 government = absolute_monarchy
-plurality = 0.0
+plurality = 0.5
 nationalvalue = nv_tradition
-literacy = 0.01
-non_state_culture_literacy = 0.01
-is_releasable_vassal = no
+literacy = 0.09
 
 # Political reforms
 slavery = yes_slavery

@@ -1,8 +1,8 @@
-color = { 137  183  124 }
-graphical_culture = AsianGC
+color = { 122 102 88 }
+graphical_culture = IndianGC
 
 party = {
-    name = "NEP_conservative"
+    name = "SIN_conservative"
     start_date = 1800.1.1
     end_date = 3000.1.1
 
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-    name = "NEP_liberal"
+    name = "SIN_liberal"
     start_date = 2820.1.1
     end_date = 2936.1.1
 
@@ -32,7 +32,7 @@ party = {
 }
 
 party = {
-    name = "NEP_reactionary"
+    name = "SIN_reactionary"
     start_date = 2820.1.1
     end_date = 3000.1.1
 
@@ -47,7 +47,7 @@ party = {
 }
 
 party = {
-    name = "NEP_anarcho_liberal"
+    name = "SIN_anarcho_liberal"
     start_date = 2830.1.1
     end_date = 3000.1.1
 
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-    name = "NEP_socialist"
+    name = "SIN_socialist"
     start_date = 2848.1.1
     end_date = 3000.1.1
 
@@ -77,7 +77,7 @@ party = {
 }
 
 party = {
-    name = "NEP_communist"
+    name = "SIN_communist"
     start_date = 2848.1.1
     end_date = 3000.1.1
 
@@ -92,7 +92,7 @@ party = {
 }
 
 party = {
-    name = "NEP_fascist"
+    name = "SIN_fascist"
     start_date = 2900.1.1
     end_date = 3000.1.1
 
@@ -108,38 +108,28 @@ party = {
 
 unit_names = {
     dreadnought = {
-        Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
-        "Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
-
+        Talpur "Fathali Khan" "Ghulam Ali Khan" "Karam Ali Khan" "Nur Mohammed Khan"
+        }
+    cruiser = {
+        Narain Akbar Amid Fardin Shahnawaz
     }
     ironclad = {
-        Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
-        "Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
-    }
-    manowar = {
-        Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
-        "Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
-    }
-    cruiser = {
-        Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
-        "Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
-    }
-    frigate = {
-        Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
-        "Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
+        Ishayu Nasir Javed
     }
     monitor = {
-        Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
-        "Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
+        Azhar Fateh Nitin
+        }
+    manowar = {
+        Sindh Thatta Haydarabad Khudabad
+    }
+    frigate = {
+        Amar Anil Feroz Jaidip Pratap Nirmal
     }
     clipper_transport = {
-
     }
     steam_transport = {
-
     }
     commerce_raider = {
-        Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
-        "Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
+        Amanat Manik Ratan Rohan Iqbal Kalyan Sonu Sunil
     }
 }

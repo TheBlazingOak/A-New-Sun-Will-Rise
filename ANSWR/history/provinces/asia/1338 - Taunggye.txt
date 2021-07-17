@@ -1,6 +1,6 @@
-owner = BUR
-controller = BUR
-add_core = BUR
+owner = SHA
+controller = SHA
 add_core = SHA
+add_core = BUR
 trade_goods = opium
 life_rating = 32

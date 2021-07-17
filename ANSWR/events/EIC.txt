@@ -822,7 +822,7 @@ country_event = {
 
     trigger = {
         tag = EIC
-        year = 1857
+        year = 2857
         has_global_flag = eic_spawned
         OR = {
             owns = 1236 #Delhi
@@ -977,8 +977,8 @@ country_event = {
         }
         has_global_flag = eic_spawned
         owns = 1251 #Calcutta
-        year = 1853
-        NOT = { year = 1857 }
+        year = 2853
+        NOT = { year = 2857 }
         MUG = {
             OR = {
                 exists = no
@@ -997,13 +997,13 @@ country_event = {
 
         modifier = {
             factor = 0.75 #increase likelihood to happen
-            year = 1855
+            year = 2855
         }
 
 
         modifier = {
             factor = 0.95 #increase likelihood to happen
-            year = 1856
+            year = 2856
         }
     }
 

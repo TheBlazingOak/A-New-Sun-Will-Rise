@@ -1,4 +1,6 @@
-add_core = HBY
+owner = KNY
+controller = KNY
+add_core = KNY
 trade_goods = cattle
 terrain = savanna
 life_rating = 10

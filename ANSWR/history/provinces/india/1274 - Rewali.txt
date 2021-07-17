@@ -1,6 +1,6 @@
-owner = BNG
-controller = BNG
+owner = SIK
+controller = SIK
+add_core = SIK
 add_core = HND
-add_core = BNG
 trade_goods = cattle
 life_rating = 32

@@ -2,7 +2,7 @@ capital = 2087
 primary_culture = boer
 culture = english
 religion = protestant
-government = hms_government
+government = democracy
 plurality = 0.6
 nationalvalue = nv_productivity
 literacy = 0.2
@@ -50,4 +50,3 @@ upper_house = {
 }
 
 schools = developing_tech_school
-set_country_flag = post_colonial_country

@@ -1,4 +1,5 @@
-add_core = ZBW
+owner = GAZ
+controller = GAZ
+add_core = GAZ
 trade_goods = fruit
-life_rating = 10
-colonial = 1
+life_rating = 35

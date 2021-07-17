@@ -1,12 +1,12 @@
 capital = 2416
-primary_culture = platinean
+primary_culture = janeiran
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_liberty
-literacy = 0.03
-civilized = no
-prestige = 1
+literacy = 0.17
+civilized = yes
+prestige = 3
 
 # Political reforms
 slavery = yes_slavery

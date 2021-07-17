@@ -1,3 +1,6 @@
+owner = SAF
+controller = SAF
+add_core = SAF
 trade_goods = grain
-terrain = semidesert
-life_rating = 15
+terrain = plains
+life_rating = 35

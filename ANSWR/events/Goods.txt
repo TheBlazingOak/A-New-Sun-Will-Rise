@@ -6,7 +6,7 @@ province_event = {
     id = 1100
 
     trigger = {
-        year = 1836
+        year = 2836
         or = {
             province_id = 766            # Sassari
             province_id = 769            # Postojna
@@ -25,7 +25,7 @@ province_event = {
             province_id = 1070            # Yeniseysk - Russia
         }
         NOT = {
-            year = 1890
+            year = 2890
             trade_goods = precious_metal
             trade_goods = coal
             trade_goods = iron
@@ -69,10 +69,9 @@ province_event = {
     id = 1101
 
     trigger = {
-        year = 1848
+        year = 2848
         or = {
             province_id = 89            # Los Angeles
-            province_id = 104            # San Francisco
             province_id = 3                # Kenai
             province_id = 90            # San Diego
             province_id = 695            # Königsberg
@@ -88,7 +87,7 @@ province_event = {
             province_id = 2241            # Cayenne, French Guiana
         }
         NOT = {
-            year = 1900
+            year = 2900
             trade_goods = precious_metal
             trade_goods = coal
             trade_goods = iron
@@ -107,7 +106,7 @@ province_event = {
                 province_id = 2481
                 province_id = 1084
             }
-            NOT = { year = 1850 }
+            NOT = { year = 2850 }
         }
     }
 
@@ -143,7 +142,7 @@ province_event = {
     id = 1103
 
     trigger = {
-        year = 1861
+        year = 2861
         OR = {
             province_id = 93            # Pocatello
             province_id = 2479            # Sale Australia
@@ -159,12 +158,12 @@ province_event = {
             }
             AND = {
                 province_id = 2201            # San Jose, Costa Rica
-                year = 1888
+                year = 2888
             }
         }
 
         NOT = {
-            year = 1920
+            year = 2920
             trade_goods = precious_metal
             trade_goods = coal
             trade_goods = iron
@@ -176,7 +175,7 @@ province_event = {
         modifier = {
             factor = 1000
             province_id = 1643
-            NOT = { year = 1910 }
+            NOT = { year = 2910 }
         }
     }
 
@@ -212,7 +211,7 @@ province_event = {
     id = 1139
 
     trigger = {
-        year = 1886
+        year = 2886
         province_id = 2106
         NOT = { trade_goods = precious_metal }
     }
@@ -257,7 +256,7 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        year = 1874
+        year = 2874
         has_country_flag = custers_expedition_sent
     }
 
@@ -295,7 +294,7 @@ province_event = {
     id = 1104
 
     trigger = {
-        year = 1893
+        year = 2893
         or = {
             province_id = 6            # Whitehorse
             province_id = 7            # Dawson
@@ -311,7 +310,7 @@ province_event = {
             trade_goods = precious_metal
             trade_goods = coal
             trade_goods = iron
-            year = 1910
+            year = 2910
         }
     }
 
@@ -319,12 +318,12 @@ province_event = {
         months = 12
         modifier = {
             factor = 800
-            NOT = { year = 1930 }
+            NOT = { year = 2930 }
             province_id = 2603
         }
         modifier = {
             factor = 800
-            NOT = { year = 1912 }
+            NOT = { year = 2912 }
             province_id = 1941
         }
     }
@@ -360,7 +359,7 @@ province_event = {
     id = 1105
 
     trigger = {
-        year = 1836
+        year = 2836
         OR = {
             province_id = 2091            # Mossel Bay
             province_id = 1697            # Figuig
@@ -369,7 +368,7 @@ province_event = {
             province_id = 2068            # Salisbury
         }
         NOT = {
-            year = 1900
+            year = 2900
             trade_goods = precious_goods
             trade_goods = coal
             trade_goods = iron
@@ -397,7 +396,7 @@ province_event = {
     id = 1106
 
     trigger = {
-        year = 1867
+        year = 2867
         or = {
             province_id = 2097            # Graaf Reinet
             province_id = 1849            # Massawa
@@ -405,7 +404,7 @@ province_event = {
             province_id = 1885            # Falaba
         }
         NOT = {
-            year = 1910
+            year = 2910
             trade_goods = precious_goods
             trade_goods = coal
             trade_goods = iron
@@ -417,12 +416,12 @@ province_event = {
         modifier = {
             factor = 1000
             province_id = 2084
-            NOT = { year = 1900 }
+            NOT = { year = 2900 }
         }
         modifier = {
             factor = 1000
             province_id = 1885
-            NOT = { year = 1920 }
+            NOT = { year = 2920 }
         }
     }
 
@@ -447,7 +446,7 @@ province_event = {
         NOT = { has_province_modifier = switched_production }
         OR = {
             AND = {
-                year = 1880
+                year = 2880
                 OR = {
                     province_id = 1354
                     province_id = 1364
@@ -484,7 +483,7 @@ province_event = {
                 }
             }
             AND = {
-                year = 1890
+                year = 2890
                 OR = {
                     #province_id = 1926 #Ife - Nigeria
                     #province_id = 1929 #
@@ -564,7 +563,7 @@ province_event = {
         NOT = { has_province_modifier = pearl_season }
         OR = {
             AND = {
-                year = 1870
+                year = 2870
                 OR = {
                     province_id = 1102        # Baku
                     province_id = 1205        # Kizil Arvat
@@ -578,11 +577,11 @@ province_event = {
                 }
             }
             AND = {
-                year = 1881
+                year = 2881
                 OR = {
                     AND = {
                         province_id = 1399        # Palembang 1883
-                        NOT = { year = 1915 }
+                        NOT = { year = 2915 }
                     }
                     province_id = 112        # Cheyenne
                     province_id = 1055        # Grozny 1883
@@ -598,7 +597,7 @@ province_event = {
                 }
             }
             AND = {
-                year = 1892
+                year = 2892
                 OR = {
                     province_id = 1086        # Pogobi
                     province_id = 131        # Oklahoma City 1893
@@ -612,7 +611,7 @@ province_event = {
             }
 
             AND = {
-                year = 1902
+                year = 2902
                 OR = {
                     province_id = 2237        # Trinidad
                     province_id = 2396        # Rawson 1907
@@ -627,7 +626,7 @@ province_event = {
             }
 
             AND = {
-                year = 1912
+                year = 2912
                 OR = {
                     province_id = 1132        # Abadan
                     province_id = 26        # Calgary 1913
@@ -686,11 +685,11 @@ province_event = {
     trigger = {
         OR = {
             AND = {
-                year = 1875
+                year = 2875
                 province_id = 132        # Houston
             }
             AND = {
-                year = 1882
+                year = 2882
                 OR = {
                     province_id = 90        # San Diego
                     province_id = 133        # Austin
@@ -749,7 +748,7 @@ province_event = {
     picture = ""
 
     trigger = {
-        year = 1846
+        year = 2846
         OR = {
             province_id = 228
             province_id = 54
@@ -775,7 +774,7 @@ province_event = {
                 province_id = 228
                 province_id = 54
                 province_id = 667
-                NOT = { year = 1955 }
+                NOT = { year = 2955 }
             }
         }
     }

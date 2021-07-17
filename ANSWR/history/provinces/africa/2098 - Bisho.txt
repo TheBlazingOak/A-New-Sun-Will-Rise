@@ -1,6 +1,5 @@
-owner = XHO
-controller = XHO
-add_core = XHO
+owner = SAF
+controller = SAF
 add_core = SAF
 trade_goods = wool
 life_rating = 35

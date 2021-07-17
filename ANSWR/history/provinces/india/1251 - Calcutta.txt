@@ -1,10 +1,7 @@
-owner = BNG
-controller = BNG
+owner = SIN
+controller = SIN
+add_core = SIN
 add_core = HND
-add_core = BNG
 trade_goods = dye
 life_rating = 32
-colonial = 2
 fort = 1
-naval_base = 1
-2861.1.1 = { railroad = 3 }

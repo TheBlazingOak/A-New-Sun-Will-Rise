@@ -1260,7 +1260,7 @@ province_event = {
     desc = "EVTDESC14660"
 
     trigger = {
-        year = 1860
+        year = 2860
         NOT = { has_country_modifier = recent_safari }
         is_colonial = yes
         continent = africa

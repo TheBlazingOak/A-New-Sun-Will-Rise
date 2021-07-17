@@ -1,5 +1,6 @@
-owner = MAD
-controller = MAD
+owner = SHO
+controller = SHO
+add_core = SHO
 add_core = MAD
 terrain = jungle
 trade_goods = fruit

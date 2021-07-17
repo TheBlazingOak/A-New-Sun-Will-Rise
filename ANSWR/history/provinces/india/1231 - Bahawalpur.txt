@@ -1,11 +1,5 @@
-owner = MUG
-controller = MUG
-add_core = MUG
-add_core = HND
+owner = IND
+controller = IND
+add_core = IND
 trade_goods = cattle
 life_rating = 32
-2861.1.1 = {
-    owner = ENG
-    controller = ENG
-    colonial = 2
-}

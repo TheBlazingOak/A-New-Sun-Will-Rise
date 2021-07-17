@@ -62,9 +62,41 @@ vassal = {
 #        AFRICA       #
 #######################
 
+# Nigeria/Filayen
+vassal = {
+    first = NGR
+    second = SOK
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Nigeria/Kadakusa
+vassal = {
+    first = NGR
+    second = OYO
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
 #######################
 #        ASIA         #
 #######################
+
+# Afghan/Kunduz
+vassal = {
+    first = AFG
+    second = BDK
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Yangi/Kokand
+vassal = {
+    first = KHI
+    second = KOK
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
 
 #######################
 #        AMERICA      #

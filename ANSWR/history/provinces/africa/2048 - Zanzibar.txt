@@ -1,10 +1,6 @@
-owner = OMA
-controller = OMA
+owner = KNY
+controller = KNY
 add_core = ZAN
-add_core = OMA
+add_core = KNY
 trade_goods = precious_goods
 life_rating = 40
-2861.1.1 = {
-    owner = ZAN
-    controller = ZAN
-}

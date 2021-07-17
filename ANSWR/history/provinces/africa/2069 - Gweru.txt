@@ -1,9 +1,6 @@
+owner = ZBW
+controller = ZBW
 add_core = ZBW
 terrain = savanna
 trade_goods = fruit
-life_rating = 10
-2861.1.1 = {
-    owner = MAT
-    controller = MAT
-    life_rating = 35
-}
+life_rating = 35

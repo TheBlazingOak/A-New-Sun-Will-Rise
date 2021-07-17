@@ -1,7 +1,5 @@
-owner = MUG
-controller = MUG
-add_core = MUG
-add_core = HND
+owner = NAG
+controller = NAG
+add_core = NAG
 trade_goods = wool
-life_rating = 32
-colonial = 2
+life_rating = 40

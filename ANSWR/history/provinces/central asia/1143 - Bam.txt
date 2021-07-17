@@ -1,6 +1,5 @@
-owner = PER
-controller = PER
-add_core = PER
-add_core = BLC
+owner = MYS
+controller = MYS
+add_core = MYS
 trade_goods = cotton
 life_rating = 35

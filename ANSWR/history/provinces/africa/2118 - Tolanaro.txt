@@ -1,5 +1,6 @@
-owner = MAD
-controller = MAD
+owner = NAL
+controller = NAL
+add_core = NAL
 add_core = MAD
 terrain = jungle
 trade_goods = grain

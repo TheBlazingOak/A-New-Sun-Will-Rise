@@ -1,18 +1,18 @@
 capital = 2222
 primary_culture = antillean
 religion = catholic
-government = democracy
+government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_liberty
-literacy = 0.17
-civilized = yes
+literacy = 0.19
+civilized = no
 
 prestige = 2
 
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed
-vote_franschise = wealth_voting
+vote_franschise = no_voting
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = no_trade_unions
@@ -40,12 +40,12 @@ set_country_flag = catholic_country
 
 set_country_flag = new_world_nation
 
-ruling_party = PRI_liberal
+ruling_party = DOM_conservative
 upper_house = {
-    fascist = 1
-    liberal = 49
-    conservative = 39
-    reactionary = 12
+    fascist = 0
+    liberal = 20
+    conservative = 60
+    reactionary = 20
     anarcho_liberal = 0
     socialist = 0
     communist = 0
