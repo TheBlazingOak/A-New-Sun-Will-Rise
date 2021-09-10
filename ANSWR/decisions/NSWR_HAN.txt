@@ -17,7 +17,7 @@ political_decisions = {
 		}
 		effect = {
 			change_tag = LBG
-			government = republic
+			government = democracy
 		}
 
 		ai_will_do = {

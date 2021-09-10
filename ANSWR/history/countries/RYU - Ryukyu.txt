@@ -1,12 +1,11 @@
-capital = 1678
-primary_culture = japanese
-culture = nanfaren
-religion = mahayana
+capital = 1679
+primary_culture = lanzu
+religion = xifang
 government = absolute_monarchy
-plurality = 0.0
+plurality = 2.0
 nationalvalue = nv_tradition
-literacy = 0.06
-prestige = 1
+literacy = 0.15
+prestige = 2
 
 # Political reforms
 slavery = no_slavery

@@ -1,0 +1,2704 @@
+#### All Majority Lanzu Culture Provinces ####
+### Hei Maritime ###
+#North Anhui
+1470 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 15000
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 7750
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 4600
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 6375
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 5400
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 6500
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 545725
+    }
+
+}
+#Chizhou (5088000/1272000 POPS)
+1471 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 18750
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 12000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 3400
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 1900
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 680950
+    }
+}
+#Luzhou (4484000/1121000 POPS)
+1474 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 12100
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 4125
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 5400
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2100
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 221275
+    }
+}
+#Gongye Archipelago
+1476 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 2125
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 1225
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 1000
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 62525
+    }
+}
+#Taiping (4180000/1045000 POPS)
+1477 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 12900
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 8000
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 6500
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 23250
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 6450
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 472920
+    }
+}
+#Zhenjiang (3120000/790000 POPS)
+1544 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 16650
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 4500
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 1875
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 9250
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 4000
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 131375
+    }
+}
+#Hei
+#Yangzhou (3348000/837000 POPS)
+1543 = {
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 9750
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 4850
+    }
+
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 32750
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 7500
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 35000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 22000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 16250
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 7550
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 15000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 6250
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 1139725
+    }
+    farmers = {
+        culture = yue
+        religion = xifang
+        size = 110900
+    }
+    farmers = {
+        culture = cantan
+        religion = xifang
+        size = 103500
+    }
+    farmers = {
+        culture = ping
+        religion = xifang
+        size = 94000
+    }
+}
+#Ningguo (4312000/1078000 POPS)
+1475 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 24500
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 12800
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 4000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 980900
+    }
+}
+#Suzhou (4968000/1242000 POPS)
+1539 = {
+
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 6550
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 3225
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 13000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3500
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 163825
+    }
+}
+#Huzhou (376000/94000 POPS)
+1605 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 4725
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 2375
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 9850
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2375
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 233675
+    }
+}
+#Nanjing (3432000/858000 POPS)
+2221 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 11500
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 5250
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 1250
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 367500
+    }
+}
+#Hei Islands
+#Jinan (5916000/1479000 POPS)
+1563 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 22100
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 9700
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 4900
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 4100
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 1400
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 1100
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 116560
+    }
+}
+#Caozhou (3704000/926000 POPS)
+1564 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 18500
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 2250
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 231948
+    }
+}
+#Qingdao (24000/6000 POPS)
+1566 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 2150
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 500
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 30000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 1750
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 55475
+    }
+}
+#Taian (3688000/922000 POPS)
+1568 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 12425
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 4225
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 6100
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2225
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 315765
+    }
+}
+#Qingzhou (3936000/984000 POPS)
+1567 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 5150
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 2350
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3850
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 62850
+    }
+}
+#Yizhou (3944000/986000 POPS)
+1571 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 23200
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 7850
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 31000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 6300
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 6000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2875
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 357275
+    }
+}
+#Xiaofang
+#Laizhou (3636000/909000 POPS)
+1565 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 18150
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 800
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 2100
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 79450
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 8100
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 389820
+    }
+}
+#Weihaiwei (28000/7000 POPS)
+1569 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 425
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 375
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 2350
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 675
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 51375
+    }
+}
+### Bandao ###
+#Bandao
+#Amari (80000/20000 POPS)
+1679 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 51250
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 6600
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 6275
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 8000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 15000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 4500
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 642750
+    }
+
+    aristocrats = {
+        culture = ping
+        religion = mahayana
+        size = 1400
+    }
+
+    clergymen = {
+        culture = ping
+        religion = mahayana
+        size = 1200
+    }
+
+    artisans = {
+        culture = ping
+        religion = mahayana
+        size = 11050
+    }
+
+    soldiers = {
+        culture = ping
+        religion = mahayana
+        size = 1225
+    }
+
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 121225
+    }
+
+}
+#Fengyang (2224000/556000 POPS)
+1472 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 14750
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 5500
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 7000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 5000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 450
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 182500
+    }
+
+    aristocrats = {
+        culture = ping
+        religion = xifang
+        size = 1700
+    }
+    
+    farmers = {
+        culture = ping
+        religion = xifang
+        size = 52700
+    }
+
+}
+#Runing (2936000/734000 POPS)
+1514 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 8600
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 6375
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 9700
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 5000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 1350
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 429975
+    }
+    farmers = {
+        culture = ping
+        religion = xifang
+        size = 342135
+    }
+}
+#Shanghai (268000/71000 POPS)
+1538 = {
+    aristocrats = {
+        culture = lanzu
+        religion = mahayana
+        size = 3300
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = mahayana
+        size = 1675
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = mahayana
+        size = 13350
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = mahayana
+        size = 1675
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = mahayana
+        size = 149200
+    }
+
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 127315
+    }
+}
+#Wuchang (3324000/831000 POPS)
+1522 = {
+    aristocrats = {
+        culture = lanzu
+        religion = mahayana
+        size = 26000
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = mahayana
+        size = 12500
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = mahayana
+        size = 1500
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = mahayana
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = mahayana
+        size = 1300
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = mahayana
+        size = 222320
+    }
+
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 42500
+    }
+}
+#Hanyang (3352000/838000 POPS)
+1516 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 4000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2000
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 492950
+    }
+
+    aristocrats = {
+        culture = ping
+        religion = mahayana
+        size = 2400
+    }
+
+    clergymen = {
+        culture = ping
+        religion = mahayana
+        size = 2200
+    }
+
+    artisans = {
+        culture = ping
+        religion = mahayana
+        size = 21050
+    }
+
+    soldiers = {
+        culture = ping
+        religion = mahayana
+        size = 1225
+    }
+
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 183125
+    }
+}
+#Jiujiang (3924000/981000 POPS)
+1549 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 8100
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 3550
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 29800
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 4575
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 172975
+    }
+
+    aristocrats = {
+        culture = ping
+        religion = mahayana
+        size = 3825
+    }
+
+    clergymen = {
+        culture = ping
+        religion = mahayana
+        size = 1925
+    }
+
+    artisans = {
+        culture = ping
+        religion = mahayana
+        size = 9650
+    }
+
+    soldiers = {
+        culture = ping
+        religion = mahayana
+        size = 1950
+    }
+
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 135650
+    }
+}
+#Didi
+#Huangzhou (3312000/828000 POPS)
+1518 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 12150
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 4000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 22000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 9500
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 1950
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 423227
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 115475
+    }
+}
+#Changzhou (6124000/1531000 POPS)
+1537 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 42125
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = mahayana
+        size = 21400
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 35500
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 35500
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 35500
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 6850
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 31375
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 561650
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 131550
+    }
+}
+##Xieren##
+#
+#Huizhou (4476000/1119000 POPS)
+1473 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 14000
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 4775
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2800
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 382575
+    }
+}
+#Jolo (44000/11000 POPS)
+1464 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 16150
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 8125
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 5500
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 422155
+    }
+}
+#Nanchang (2776000/694000 POPS)
+1545 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 4325
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 4900
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 5000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 5050
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2025
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 526875
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 124175
+    }
+}
+#Guangxin (2960000/740000 POPS)
+1546 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 4500
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 2250
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 25000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 3300
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 6000
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 291275
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = mahayana
+        size = 55215
+    }
+}
+#Jian (6692000/1673000 POPS)
+1547 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 11500
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 2600
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 9800
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 35000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 8900
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 4000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 21000
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 279000
+    }
+
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 11900
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 22000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 4750
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 1950
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 224100
+    }
+}
+#Raozhou (2916000/729000 POPS)
+1551 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 8500
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 3800
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 34000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 8900
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 1800
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 286255
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 137425
+    }
+}
+##Wuying-Shen##
+#Fuzhou (4208000/1052000 POPS)
+1482 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 4700
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 2350
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 2000
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 2075
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 7000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 6850
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 6000
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 1098175
+    }
+}
+#Jianning (2520000/630000POPS)
+1483 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 3800
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 2950
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 19700
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3950
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 392600
+    }
+}
+#Wenzhou (1764000/ 441000 POPS)
+1611 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 8350
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 4225
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 1100
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2200
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 382225
+    }
+
+    aristocrats = {
+        culture = miao
+        religion = animist
+        size = 400
+    }
+
+    clergymen = {
+        culture = miao
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = miao
+        religion = animist
+        size = 1050
+    }
+
+    soldiers = {
+        culture = miao
+        religion = animist
+        size = 225
+    }
+
+    farmers = {
+        culture = miao
+        religion = animist
+        size = 19125
+    }
+}
+##Chaoxue##
+##Wuying
+#Quanzhou (2804000/701000 POPS)
+1484 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 6700
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 3375
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 7000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 1900
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 1200
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 216625
+    }
+
+    aristocrats = {
+        culture = cantan
+        religion = xifang
+        size = 8700
+    }
+    
+    farmers = {
+        culture = cantan
+        religion = xifang
+        size = 108700
+    }
+}
+#Ganzhou (4940000/1235000 POPS)
+1550 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 13500
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 5750
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 8800
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2775
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 479275
+    }
+}
+#Tingzhou (6064000/1516000 POPS)
+1486 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 3900
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 1975
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 9800
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 1950
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 212375
+    }
+    aristocrats = {
+        culture = cantan
+        religion = xifang
+        size = 1200
+    }
+    
+    farmers = {
+        culture = cantan
+        religion = xifang
+        size = 80700
+    }
+}
+#Zhangzhou (5132000/1283000 POPS)
+1487 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 4750
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 2400
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 2000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 1200
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 323450
+    }
+
+    aristocrats = {
+        culture = cantan
+        religion = xifang
+        size = 4050
+    }
+
+    clergymen = {
+        culture = cantan
+        religion = xifang
+        size = 2050
+    }
+
+    artisans = {
+        culture = cantan
+        religion = xifang
+        size = 8225
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = xifang
+        size = 2050
+    }
+
+    farmers = {
+        culture = cantan
+        religion = xifang
+        size = 95125
+    }
+}
+#Shen
+#Hangzhou (1688000/422000 POPS)
+1604 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 15450
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 3550
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 2475
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 2750
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 25000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 21000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 18000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 4750
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 421650
+    }
+}
+#Jinhua (2064000/516000 POPS)
+1607 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 8375
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 2700
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 4200
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 1050
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2250
+    }
+
+    labourers = {
+        culture = lanzu
+        religion = xifang
+        size = 183125
+    }
+}
+#Ningbo (1156000/289000 POPS)
+1608 = {
+
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 6425
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 3225
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 26100
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 4225
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 372125
+    }
+
+}
+#Shaoxing (872000/218000 POPS)
+1609 = {
+
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 12550
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 5325
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 26500
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 9500
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 15300
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 628025
+    }
+
+}
+#Taizhou (1684000/421000 POPS)
+1610 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 4400
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 4200
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 2050
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2225
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 246125
+    }
+}
+#
+#Chaozhou (3600000/900000 POPS)
+1494 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 6400
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 2325
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 19000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 750
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 192575
+    }
+
+    aristocrats = {
+        culture = cantan
+        religion = xifang
+        size = 3400
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = xifang
+        size = 5500
+    }
+
+    farmers = {
+        culture = cantan
+        religion = xifang
+        size = 128250
+    }
+}
+#Waizao (2200000/550000 POPS)
+1497 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 3400
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 6325
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 9300
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 5000
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 238175
+    }
+
+    aristocrats = {
+        culture = cantan
+        religion = xifang
+        size = 400
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = xifang
+        size = 1500
+    }
+
+    farmers = {
+        culture = cantan
+        religion = xifang
+        size = 82250
+    }
+}
+#Shaozhou (2384000/596000 POPS)
+1500 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 9400
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 5325
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 27000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2750
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 212955
+    }
+
+    aristocrats = {
+        culture = cantan
+        religion = xifang
+        size = 5900
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = xifang
+        size = 2250
+    }
+
+    farmers = {
+        culture = cantan
+        religion = xifang
+        size = 158250
+    }
+
+    farmers = {
+        culture = yue
+        religion = xifang
+        size = 72875
+    }
+}
+#Féiwòdǎo
+2406 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 19400
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 7325
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 15000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 15000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 6000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 9000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2750
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 431255
+    }
+
+    aristocrats = {
+        culture = cantan
+        religion = xifang
+        size = 15900
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = xifang
+        size = 250
+    }
+
+    farmers = {
+        culture = cantan
+        religion = xifang
+        size = 313250
+    }
+
+}
+#Taiwan Region (2980000)
+#under the rule of China in 1836
+#Taitung (67k - 268k) #now part of Taiwan
+2562 = {
+
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 1500
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 1000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 7750
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 6300
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 92125
+    }
+}
+
+#Taipei (1452000/363000 POPS) formerly 2681 - Kikkiaki in Russia.txt
+2681 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 3500
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 1400
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 725
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 6150
+    }
+
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 3000
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 3400
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 11000
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 9000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 4400
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 210800
+    }
+}
+#Okinawa (192000/48000 POPS)  #ryukyuan represented by lanzu
+1678 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 1850
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 145
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 175
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 750
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 4200
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 150
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 29930
+    }
+}

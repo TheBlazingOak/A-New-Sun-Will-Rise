@@ -1,10 +1,10 @@
 capital = 1578
-primary_culture = nanfaren
-religion = mahayana
+primary_culture = yue
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.03
+religion = qiyuan
 non_state_culture_literacy = 0.01
 
 # Political reforms

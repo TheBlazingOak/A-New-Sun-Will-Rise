@@ -1,5 +1,6 @@
-add_core = SHW
+owner = ETH
+controller = ETH
 add_core = ETH
 terrain = dryhills
 trade_goods = cattle
-life_rating = 10
+life_rating = 32

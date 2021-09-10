@@ -36,7 +36,8 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = catholic_country
+set_country_flag = oudrijk_prince
+set_country_flag = ketronant_country
 
 ruling_party = WES_conservative_2
 upper_house = {

@@ -1,7 +1,8 @@
+owner = SOK
+controller = SOK
+add_core = SOK
 trade_goods = fish
-life_rating = 15
-colonial = 1
-terrain = mountain
+life_rating = 35
 2861.1.1 = {
     owner = TKG
     controller = TKG

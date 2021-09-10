@@ -1,7 +1,5 @@
-owner = EGY
-controller = EGY
-add_core = EGY
-add_core = SHK
+owner = ETH
+controller = ETH
 add_core = SUD
 trade_goods = cattle
 life_rating = 34

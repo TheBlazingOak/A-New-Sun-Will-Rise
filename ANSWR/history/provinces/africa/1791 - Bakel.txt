@@ -1,8 +1,6 @@
-owner = WOL
-controller = WOL
+owner = SJR
+controller = SJR
 add_core = WOL
-add_core = GBU
 add_core = TOO
 trade_goods = cattle
-terrain = semidesert
-life_rating = 31
+life_rating = 35

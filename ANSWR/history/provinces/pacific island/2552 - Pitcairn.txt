@@ -1,5 +1,8 @@
+owner = PHL
+controller = PHL
+add_core = PHL
+add_core = HAW
 trade_goods = fish
-life_rating = 15
-terrain = coral_island
-add_core = TMT
+life_rating = 35
+terrain = small_island
 colonial = 2

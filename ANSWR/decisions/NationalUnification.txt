@@ -149,7 +149,7 @@ political_decisions = {
             prestige = 15
             clr_country_flag = crown_from_the_gutter
             clr_country_flag = secondary_union_formation
-            random_owned = { limit = { owner = { accepted_culture = french } } owner = { remove_accepted_culture = parish } }
+            random_owned = { limit = { owner = { accepted_culture = parish } } owner = { remove_accepted_culture = parish } }
             random_owned = { limit = { owner = { accepted_culture = polish } } owner = { remove_accepted_culture = polish } }
             random_owned = { limit = { owner = { accepted_culture = danish } } owner = { remove_accepted_culture = danish } }
             random_owned = { limit = { owner = { accepted_culture = hungarian } } owner = { remove_accepted_culture = hungarian } }
@@ -344,9 +344,9 @@ political_decisions = {
             capital = 749
             add_accepted_culture = north_italian
             add_accepted_culture = south_italian
-            random_owned = { limit = { owner = { accepted_culture = french } } owner = { remove_accepted_culture = french } }
+            random_owned = { limit = { owner = { accepted_culture = parish } } owner = { remove_accepted_culture = parish } }
             random_owned = { limit = { owner = { accepted_culture = south_german } } owner = { remove_accepted_culture = south_german } }
-            random_owned = { limit = { owner = { accepted_culture = british } } owner = { remove_accepted_culture = british } }
+            random_owned = { limit = { owner = { accepted_culture = parish } } owner = { remove_accepted_culture = parish } }
             any_owned = { limit = { is_core = SYC } remove_core = SYC }
             any_owned = { limit = { is_core = SRD } remove_core = SRD }
             any_owned = { limit = { is_core = RMG } remove_core = RMG }
@@ -603,7 +603,7 @@ political_decisions = {
             prestige = 10
             badboy = 5
             clr_country_flag = crown_from_the_gutter
-            random_owned = { limit = { owner = { accepted_culture = french } } owner = { remove_accepted_culture = french } }
+            random_owned = { limit = { owner = { accepted_culture = parish } } owner = { remove_accepted_culture = parish } }
             random_owned = { limit = { owner = { accepted_culture = polish } } owner = { remove_accepted_culture = polish } }
             random_owned = { limit = { owner = { accepted_culture = danish } } owner = { remove_accepted_culture = danish } }
             random_owned = { limit = { owner = { accepted_culture = hungarian } } owner = { remove_accepted_culture = hungarian } }
@@ -697,7 +697,7 @@ political_decisions = {
             clr_country_flag = crown_from_the_gutter
             prestige = 5
             badboy = 5
-            random_owned = { limit = { owner = { accepted_culture = french } } owner = { remove_accepted_culture = french } }
+            random_owned = { limit = { owner = { accepted_culture = parish } } owner = { remove_accepted_culture = parish } }
             random_owned = { limit = { owner = { accepted_culture = polish } } owner = { remove_accepted_culture = polish } }
             random_owned = { limit = { owner = { accepted_culture = danish } } owner = { remove_accepted_culture = danish } }
             random_owned = { limit = { owner = { accepted_culture = hungarian } } owner = { remove_accepted_culture = hungarian } }
@@ -923,7 +923,6 @@ political_decisions = {
             OR = {
                 primary_culture = breton
                 primary_culture = occitan
-                primary_culture = picard
                 primary_culture = maltese
                 is_culture_group = american_cultures
             }

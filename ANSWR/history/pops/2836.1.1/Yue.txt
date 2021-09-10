@@ -1,0 +1,1379 @@
+### Yue Culture Majority ###
+#Sichuan
+#Chengdu (2312000/578000 POPS)
+1578 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 31550
+    }
+
+    bureaucrats = {
+        culture = yue
+        religion = mahayana
+        size = 9125
+    }
+
+    officers = {
+        culture = yue
+        religion = mahayana
+        size = 8550
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 5800
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 40000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 40000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 30000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 2800
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 872750
+    }
+
+    bureaucrats = {
+        culture = ping
+        religion = mahayana
+        size = 1250
+    }
+
+    officers = {
+        culture = ping
+        religion = mahayana
+        size = 1500
+    }
+
+    soldiers = {
+        culture = ping
+        religion = mahayana
+        size = 1750
+    }
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 141450
+    }
+}
+#Jiading (4080000/1020000 POPS)
+1580 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 9900
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 5000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 5000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 2500
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 349340
+    }
+
+    aristocrats = {
+        culture = ping
+        religion = mahayana
+        size = 7300
+    }
+
+    clergymen = {
+        culture = ping
+        religion = mahayana
+        size = 3750
+    }
+
+    artisans = {
+        culture = ping
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = ping
+        religion = mahayana
+        size = 8500
+    }
+
+    soldiers = {
+        culture = ping
+        religion = mahayana
+        size = 2700
+    }
+
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 136750
+    }
+}
+#Longan (2796000/699000 POPS)
+1582 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 5550
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 25000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 25000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 5250
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 4550
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 232250
+    }
+
+    aristocrats = {
+        culture = ping
+        religion = mahayana
+        size = 250
+    }
+
+    clergymen = {
+        culture = ping
+        religion = mahayana
+        size = 500
+    }
+
+    artisans = {
+        culture = ping
+        religion = mahayana
+        size = 1000
+    }
+
+    soldiers = {
+        culture = ping
+        religion = mahayana
+        size = 250
+    }
+
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 158000
+    }
+}
+#Tongchuan (3024000/756000 POPS)
+1584 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 12100
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 4575
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 7800
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 1600
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 161925
+    }
+
+    
+    aristocrats = {
+        culture = ping
+        religion = mahayana
+        size = 1250
+    }
+
+    clergymen = {
+        culture = ping
+        religion = mahayana
+        size = 1500
+    }
+
+    artisans = {
+        culture = ping
+        religion = mahayana
+        size = 10000
+    }
+
+    soldiers = {
+        culture = ping
+        religion = mahayana
+        size = 550
+    }
+
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 124525
+    }
+}
+#Yibin (2888000/722000 POPS)
+1585 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 8550
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 4300
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 25000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 25000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11450
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 1300
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 290400
+    }
+
+    aristocrats = {
+        culture = ping
+        religion = mahayana
+        size = 1250
+    }
+
+    clergymen = {
+        culture = ping
+        religion = mahayana
+        size = 7500
+    }
+
+    artisans = {
+        culture = ping
+        religion = mahayana
+        size = 40000
+    }
+
+    soldiers = {
+        culture = ping
+        religion = mahayana
+        size = 750
+    }
+
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 270525
+    }
+}
+#Yazhou (2528000/632000 POPS)
+1586 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 5025
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 3525
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 6600
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 4525
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 341625
+    }
+
+    aristocrats = {
+        culture = ping
+        religion = mahayana
+        size = 1250
+    }
+
+    clergymen = {
+        culture = ping
+        religion = mahayana
+        size = 750
+    }
+
+    artisans = {
+        culture = ping
+        religion = mahayana
+        size = 1400
+    }
+
+    soldiers = {
+        culture = ping
+        religion = mahayana
+        size = 175
+    }
+
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 107325
+    }
+}
+#Yunnan Region (5652000)
+#Kunming (3016000/754000 POPS)
+1601 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 13500
+    }
+
+    bureaucrats = {
+        culture = yue
+        religion = mahayana
+        size = 2675
+    }
+
+    officers = {
+        culture = yue
+        religion = mahayana
+        size = 1375
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 5750
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 3800
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 775
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 412825
+    }
+}
+#Dali (1216000/304000 POPS)
+1602 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 1025
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 1075
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 7350
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 1575
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 126375
+    }
+}
+#Puer (1420000/355000 POPS)
+1603 = {
+
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 6275
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 3175
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 15850
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 3475
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 176525
+    }
+}
+#Chilun Senlin
+#Guiyang (1156000/289000 POPS)
+1505 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 5050
+    }
+
+    bureaucrats = {
+        culture = yue
+        religion = mahayana
+        size = 1025
+    }
+
+    officers = {
+        culture = yue
+        religion = mahayana
+        size = 1620
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 1600
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 7000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 15350
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 2525
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 192075
+    }
+    farmers = {
+        culture = cantan
+        religion = mahayana
+        size = 29025
+    }
+}
+#Anshun (1876000/469000 POPS)
+1506 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 5500
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 5000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 273500
+    }
+
+    farmers = {
+        culture = cantan
+        religion = mahayana
+        size = 29025
+    }
+}
+#Zhenyuan (2484000/621000 POPS)
+1507 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 9000
+    }
+
+    bureaucrats = {
+        culture = yue
+        religion = mahayana
+        size = 2000
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 4550
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 2750
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 2550
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 314150
+    }
+
+    aristocrats = {
+        culture = ping
+        religion = mahayana
+        size = 2250
+    }
+
+    clergymen = {
+        culture = ping
+        religion = mahayana
+        size = 1150
+    }
+
+    artisans = {
+        culture = ping
+        religion = mahayana
+        size = 5700
+    }
+
+    soldiers = {
+        culture = ping
+        religion = mahayana
+        size = 1150
+    }
+
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 173750
+    }
+    farmers = {
+        culture = cantan
+        religion = mahayana
+        size = 59350
+    }
+}
+#Ju
+#Huaian (3148000/787000 POPS)
+1536 = {
+
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 11200
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 4325
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 18000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 6600
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 7535
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 472150
+    }
+    farmers = {
+        culture = cantan
+        religion = mahayana
+        size = 55625
+    }
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 152250
+    }
+}
+#Taicangzhou (5528000/1382000 POPS)
+#YUE
+1540 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 22150
+    }
+
+    bureaucrats = {
+        culture = yue
+        religion = mahayana
+        size = 7400
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 11075
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 60400
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 50075
+    }
+
+    farmers = {
+        culture = cantan
+        religion = mahayana
+        size = 67205
+    }
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 89250
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 481725
+    }
+}
+#
+#Hengzhou (3796000/949000 POPS)
+1527 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 16800
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 8450
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 2300
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 1475
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 539975
+    }
+
+    aristocrats = {
+        culture = cantan
+        religion = mahayana
+        size = 2000
+    }
+
+    clergymen = {
+        culture = cantan
+        religion = mahayana
+        size = 1050
+    }
+
+    artisans = {
+        culture = cantan
+        religion = mahayana
+        size = 5150
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = mahayana
+        size = 1050
+    }
+
+    farmers = {
+        culture = cantan
+        religion = mahayana
+        size = 93750
+    }
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 193750
+    }
+}
+#Yongzhou (2980000/745000 POPS)
+1530 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 12500
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 6300
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 1400
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 300
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 241500
+    }
+    farmers = {
+        culture = cantan
+        religion = mahayana
+        size = 147205
+    }
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 184250
+    }
+}
+#Changsha (4120000/1030000 POPS)
+1524 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 20475
+    }
+
+    bureaucrats = {
+        culture = yue
+        religion = mahayana
+        size = 4300
+    }
+
+    officers = {
+        culture = yue
+        religion = mahayana
+        size = 5050
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 10275
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 1350
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 2275
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 612500
+    }
+    farmers = {
+        culture = cantan
+        religion = mahayana
+        size = 225205
+    }
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 264250
+    }
+}
+#Changde (1616000/404000 POPS)
+1525 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 7200
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 3650
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 8250
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 650
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 231350
+    }
+
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 177205
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 116250
+    }
+     farmers = {
+        culture = cantan
+        religion = mahayana
+        size = 42105
+    }
+}
+#Yongshun (3028000/757000 POPS)
+1529 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 15000
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 7575
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 7850
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 1600
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 188975
+    }
+    farmers = {
+        culture = ping
+        religion = mahayana
+        size = 123125
+    }
+}
+#Baoqing (3852000/963000 POPS)
+1526 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 11500
+    }
+
+    bureaucrats = {
+        culture = yue
+        religion = mahayana
+        size = 2300
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 8500
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 2000
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 3000
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 351600
+    }
+    farmers = {
+        culture = cantan
+        religion = mahayana
+        size = 173205
+    }
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 191250
+    }
+}
+#Yuezhou (1192000/298000 POPS)
+1528 = {
+    aristocrats = {
+        culture = yue
+        religion = mahayana
+        size = 4850
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 2450
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 11000
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 2200
+    }
+
+    soldiers = {
+        culture = yue
+        religion = mahayana
+        size = 2450
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 417050
+    }
+    farmers = {
+        culture = cantan
+        religion = mahayana
+        size = 111150
+    }
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 233750
+    }
+}

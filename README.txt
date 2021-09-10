@@ -26,7 +26,8 @@ Lead Developer:
 Oak
 Assistant Developers:
 GLitchesHaxBadAudio
-Connor 
+Connor Gorski
+AD3
 Trainee Developers:
 TheRealGrixly
 BlankBoy2002
@@ -60,3 +61,5 @@ Gaucho
 AOE
 
 Play Testers:
+
+Big shout out to Connor Gorski for helping with the postions of the map, and 

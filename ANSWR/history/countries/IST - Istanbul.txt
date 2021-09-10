@@ -4,12 +4,11 @@ religion = sunni
 government = trading_republic
 plurality = 10
 nationalvalue = nv_equality
-literacy = 0.31
+literacy = 0.34
 non_state_culture_literacy = 0.01
 civilized = yes
 
-#GreaterPowers = prestige
-prestige = 10
+prestige = 5
 
 # Political reforms
 slavery = no_slavery
@@ -73,5 +72,3 @@ basic_chemistry = 1
 #Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 0
-
-oob = "TUR_oob.txt"

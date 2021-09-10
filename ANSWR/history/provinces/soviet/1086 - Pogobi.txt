@@ -1,6 +1,8 @@
+owner = EZO
+controller = EZO
+add_core = EZO
 trade_goods = fish
-life_rating = 15
-colonial = 1
+life_rating = 35
 2861.1.1 = {
     owner = RUS
     controller = RUS

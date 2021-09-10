@@ -1,6 +1,6 @@
-owner = MAJ
-controller = MAJ
-add_core = MAJ
+owner = ETH
+controller = ETH
+add_core = ETH
 trade_goods = fish
-life_rating = 20
-terrain = semidesert
+life_rating = 35
+terrain = small_island

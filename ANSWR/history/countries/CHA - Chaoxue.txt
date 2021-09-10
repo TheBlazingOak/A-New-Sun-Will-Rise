@@ -1,13 +1,14 @@
-capital = 1616
-primary_culture = nanfaren
-culture = beifaren
-religion = mahayana
-government = presidential_dictatorship
-plurality = 0.0
-nationalvalue = nv_order
-literacy = 0.05
+capital = 2406
+primary_culture = lanzu
+religion = xifang
+government = absolute_monarchy
+plurality = 3.5
+nationalvalue = nv_tradition
+literacy = 0.13
 non_state_culture_literacy = 0
 civilized = no
+
+prestige = 3
 
 # Political reforms
 slavery = no_slavery

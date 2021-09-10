@@ -76,7 +76,7 @@ political_decisions = {
             }
             NOT = { has_global_flag = bigben_destroyed }
             NOT = { owns = 300 }
-            NOT = { primary_culture = british }
+            NOT = { primary_culture = english }
             civilized = yes
             OR = {
                 government = fascist_dictatorship

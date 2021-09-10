@@ -1917,25 +1917,25 @@
     bureaucrats = {
         culture = russian
         religion = veravburyu
-        size = 4000
+        size = 500
     }
 
     officers = {
         culture = russian
         religion = veravburyu
-        size = 350
+        size = 150
     }
 
     clergymen = {
         culture = russian
         religion = veravburyu
-        size = 1550
+        size = 550
     }
 
     artisans = {
         culture = russian
         religion = veravburyu
-        size = 11525
+        size = 7525
     }
 
 
@@ -1948,13 +1948,13 @@
     labourers = {
         culture = russian
         religion = veravburyu
-        size = 171800
+        size = 40800
     }
 
     serfs = {
         culture = russian
         religion = veravburyu
-        size = 147815
+        size = 62815
     }
 }
 #Borodino (572000/143000 POPS)
@@ -6866,305 +6866,8 @@
         size = 925
     }
 }
-#Amur-Ussuri Region (1348000)
-#under the rule of China in 1836
-#Haishenwai (328000/82000 POPS)
-1082 = {
-    aristocrats = {
-        culture = manchu
-        religion = mahayana
-        size = 1500
-    }
-
-    bureaucrats = {
-        culture = manchu
-        religion = mahayana
-        size = 200
-    }
-
-    officers = {
-        culture = manchu
-        religion = mahayana
-        size = 200
-    }
-
-    clergymen = {
-        culture = manchu
-        religion = mahayana
-        size = 475
-    }
-
-    artisans = {
-        culture = manchu
-        religion = mahayana
-        size = 3900
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = mahayana
-        size = 1200
-    }
-
-    farmers = {
-        culture = manchu
-        religion = mahayana
-        size = 31075
-    }
-
-    artisans = {
-        culture = korean
-        religion = mahayana
-        size = 150
-    }
-
-    farmers = {
-        culture = korean
-        religion = mahayana
-        size = 1050
-    }
-
-    farmers = {
-        culture = siberian
-        religion = animist
-        size = 130
-    }
-
-    slaves = {
-        culture = siberian
-        religion = animist
-        size = 325
-    }
-}
-#Boli (328000/82000 POPS)
-1083 = {
-
-    clergymen = {
-        culture = manchu
-        religion = mahayana
-        size = 375
-    }
-
-    artisans = {
-        culture = manchu
-        religion = mahayana
-        size = 1000
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = mahayana
-        size = 1200
-    }
-
-    farmers = {
-        culture = manchu
-        religion = mahayana
-        size = 22975
-    }
-
-    farmers = {
-        culture = siberian
-        religion = animist
-        size = 125
-    }
-
-    slaves = {
-        culture = siberian
-        religion = animist
-        size = 500
-    }
-}
-#Utchan (18000 POPS)
-1084 = {
-
-    clergymen = {
-        culture = manchu
-        religion = mahayana
-        size = 150
-    }
-
-    artisans = {
-        culture = manchu
-        religion = mahayana
-        size = 800
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = mahayana
-        size = 175
-    }
-
-    farmers = {
-        culture = manchu
-        religion = mahayana
-        size = 14575
-    }
-
-    farmers = {
-        culture = siberian
-        religion = animist
-        size = 200
-    }
-
-    slaves = {
-        culture = siberian
-        religion = animist
-        size = 800
-    }
-}
-#Ulusamudan (372000/93000 POPS)
-1085 = {
-
-    clergymen = {
-        culture = manchu
-        religion = mahayana
-        size = 500
-    }
-
-    artisans = {
-        culture = manchu
-        religion = mahayana
-        size = 2000
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = mahayana
-        size = 1200
-    }
-
-    farmers = {
-        culture = manchu
-        religion = mahayana
-        size = 19375
-    }
-
-    farmers = {
-        culture = siberian
-        religion = animist
-        size = 200
-    }
-
-    slaves = {
-        culture = siberian
-        religion = animist
-        size = 925
-    }
-}
-#Saghalian Oula (62000 POPS)
-2617 = {
-
-    clergymen = {
-        culture = manchu
-        religion = mahayana
-        size = 300
-    }
-
-    artisans = {
-        culture = manchu
-        religion = mahayana
-        size = 1000
-    }
-
-    soldiers = {
-        culture = manchu
-        religion = mahayana
-        size = 1200
-    }
-
-    farmers = {
-        culture = manchu
-        religion = mahayana
-        size = 20525
-    }
-
-    farmers = {
-        culture = siberian
-        religion = animist
-        size = 150
-    }
-
-    farmers = {
-        culture = siberian
-        religion = animist
-        size = 700
-    }
-
-}
 #Sakhalin-Kurile Region (16200)
 #uncolonized in 1836
-#Pogobi (4100/1025 POPS)
-1086 = {
-    aristocrats = {
-        culture = siberian
-        religion = animist
-        size = 15
-    }
-
-    clergymen = {
-        culture = siberian
-        religion = animist
-        size = 5
-    }
-
-    artisans = {
-        culture = siberian
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = siberian
-        religion = animist
-        size = 10
-    }
-
-    farmers = {
-        culture = siberian
-        religion = animist
-        size = 440
-    }
-
-    farmers = {
-        culture = russian
-        religion = veravburyu
-        size = 20
-    }
-}
-#Shumshu (4000/1000 POPS)
-1088 = {
-    aristocrats = {
-        culture = ainu
-        religion = animist
-        size = 2
-    }
-
-    clergymen = {
-        culture = ainu
-        religion = veravburyu
-        size = 3
-    }
-
-    artisans = {
-        culture = ainu
-        religion = veravburyu
-        size = 5
-    }
-
-    soldiers = {
-        culture = ainu
-        religion = animist
-        size = 5
-    }
-
-    farmers = {
-        culture = ainu
-        religion = animist
-        size = 40
-    }
-}
 #Etorofu (4000/1000 POPS)
 1089 = {
     aristocrats = {

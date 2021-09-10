@@ -1,8 +1,6 @@
-owner = GEL
-controller = GEL
-add_core = MAJ
-add_core = GEL
-add_core = WRL
+owner = ETH
+controller = ETH
+add_core = ETH
 trade_goods = cattle
 terrain = savanna
 life_rating = 35

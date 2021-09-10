@@ -5,7 +5,7 @@
     aristocrats = {
         culture = kirgiz
         religion = sunni
-        size = 800
+        size = 1800
     }
 
     clergymen = {
@@ -41,7 +41,7 @@
     farmers = {
         culture = kirgiz
         religion = sunni
-        size = 33775
+        size = 46775
     }
 
     aristocrats = {
@@ -80,28 +80,10 @@
         size = 125
     }
 
-    clergymen = {
-        culture = uighur
-        religion = sunni
-        size = 75
-    }
-
-    artisans = {
-        culture = uighur
-        religion = sunni
-        size = 350
-    }
-
-    soldiers = {
-        culture = uighur
-        religion = sunni
-        size = 75
-    }
-
     farmers = {
         culture = uighur
         religion = sunni
-        size = 7375
+        size = 13375
     }
 }
 #Mawarannahr Region (112000) #see Kazakhstan.txt, Tajikistan.txt, Uzbekistan.txt for balance of region
@@ -114,34 +96,16 @@
         size = 175
     }
 
-    clergymen = {
-        culture = uzbek
-        religion = sunni
-        size = 75
-    }
-
-    artisans = {
-        culture = uzbek
-        religion = sunni
-        size = 450
-    }
-
-    soldiers = {
-        culture = uzbek
-        religion = sunni
-        size = 100
-    }
-
     farmers = {
         culture = uzbek
         religion = sunni
-        size = 8200
+        size = 18200
     }
 
     aristocrats = {
         culture = kirgiz
         religion = sunni
-        size = 375
+        size = 1375
     }
 
     clergymen = {
@@ -153,7 +117,7 @@
     artisans = {
         culture = kirgiz
         religion = sunni
-        size = 900
+        size = 2900
     }
 
     soldiers = {
@@ -171,7 +135,7 @@
     farmers = {
         culture = kirgiz
         religion = sunni
-        size = 13550
+        size = 43550
     }
 
 }

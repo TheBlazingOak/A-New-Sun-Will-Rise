@@ -1,4 +1,5 @@
-add_core = AZA
-add_core = SHK
+owner = BUG
+controller = BUG
+add_core = BUG
 trade_goods = timber
-life_rating = 15
+life_rating = 35

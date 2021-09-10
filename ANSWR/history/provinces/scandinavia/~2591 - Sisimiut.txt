@@ -1,0 +1,11 @@
+owner = TRA
+controller = TRA
+add_core = TRA
+add_core = HND
+trade_goods = fish
+life_rating = 32
+colonial = 2
+2861.1.1 = {
+    owner = ENG
+    controller = ENG
+}

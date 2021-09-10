@@ -1,6 +1,5 @@
-owner = MAS
-controller = MAS
-add_core = MOS
-add_core = MAS
-trade_goods = precious_metal
+owner = DND
+controller = DND
+add_core = DND
+trade_goods = iron
 life_rating = 35

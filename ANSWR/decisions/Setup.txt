@@ -465,13 +465,12 @@ political_decisions = {
 
             SCO = { all_core = { any_pop = { limit = { NOT = { has_pop_culture = irish } } literacy = 0.2 } } }
 
-            ENG_260 = { any_pop = { limit = { has_pop_culture = irish } literacy = 0.14 } }
             ENG_258 = { any_pop = { limit = { has_pop_culture = irish } literacy = 0.05 } }
             ENG_254 = { any_pop = { limit = { has_pop_culture = irish } literacy = 0.2 } }
             ENG_263 = { any_pop = { limit = { has_pop_culture = irish } literacy = 0.18 } }
             263 = { any_pop = { limit = { has_pop_culture = irish } literacy = 0.07 } }
             any_pop = { limit = { has_pop_culture = irish has_pop_religion = protestant } literacy = 0.05 }
-            any_pop = { limit = { has_pop_culture = british has_pop_religion = catholic } literacy = -0.05 }
+            any_pop = { limit = { has_pop_culture = english has_pop_religion = catholic } literacy = -0.05 }
             any_pop = { limit = { has_pop_culture = irish location = { NOT = { is_core = IRE } is_colonial = no } } literacy = 0.2 }
             any_pop = { limit = { has_pop_culture = north_italian } literacy = 0.25 }
             any_pop = { limit = { has_pop_culture = spanish } literacy = 0.03 }
@@ -683,11 +682,9 @@ political_decisions = {
                 literacy = -0.99
             }
 
-            TUR_809 = { add_province_modifier = { name = small_baby_boom duration = 2555 } }
             TUR_810 = { add_province_modifier = { name = small_baby_boom duration = 2555 } }
             #TUR_806 = { add_province_modifier = { name = small_baby_boom duration = 3650 } }
             TUR_803 = { add_province_modifier = { name = small_baby_boom duration = 1825 } }
-            TUR_832 = { add_province_modifier = { name = small_baby_boom duration = 730 } }
             TUR_805 = { add_province_modifier = { name = small_baby_boom duration = 730 } }
             TUR_823 = { add_province_modifier = { name = small_baby_boom duration = 730 } }
 
@@ -1287,7 +1284,7 @@ political_decisions = {
         effect = {
             724 = { any_pop = { literacy = -0.1 } }
             725 = { any_pop = { literacy = -0.1 } }
-            any_pop = { limit = { has_pop_culture = french } literacy = 0.4 }
+            any_pop = { limit = { has_pop_culture = parish } literacy = 0.4 }
         }
     }
 
@@ -1374,7 +1371,7 @@ political_decisions = {
                 name = regency_government
                 duration = -1
             }
-            any_pop = { limit = { has_pop_culture = french } literacy = 0.4 }
+            any_pop = { limit = { has_pop_culture = parish } literacy = 0.4 }
             2435 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.11 } }
             BRZ_2462 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.05 } }
             2457 = { any_pop = { limit = { is_primary_culture = yes } literacy = 0.02 } }
@@ -1667,6 +1664,38 @@ political_decisions = {
                 liquor = 30
                 artillery = 30
                 treasury = 50000
+            }
+            any_country = {
+                limit = {
+                    exists = yes
+                    has_country_flag = oudrijk_prince
+                }
+                add_country_modifier = {
+                        name = oudrijk_prince
+                        duration = -1
+                    }
+                treasury = 15000
+            }
+            any_country = {
+                limit = {
+                    tag = AUS
+                }
+                add_country_modifier = {
+                        name = oudrijk_kaizer
+                        duration = -1
+                    }
+                treasury = 30000
+            }
+
+            any_country = {
+                limit = {
+                    tag = BOH
+                }
+                add_country_modifier = {
+                        name = oudrijk_oppostion
+                        duration = -1
+                    }
+                treasury = 20000
             }
 
             any_country = { limit = { exists = yes civilized = yes is_greater_power = no is_secondary_power = no number_of_states = 2 } treasury = 15000 }
@@ -2656,7 +2685,7 @@ NET_setup_1836 = {
 
         effect = {
             
-            sset_country_flag = existing_country
+            set_country_flag = existing_country
         }
         ai_will_do = { factor = 1 }
     }

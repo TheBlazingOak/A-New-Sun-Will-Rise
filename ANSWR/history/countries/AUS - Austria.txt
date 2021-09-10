@@ -37,7 +37,8 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = catholic_country
+set_country_flag = oudrijk_prince
+set_country_flag = ketronant_country
 
 decision = AUS_setup_1836
 

@@ -155,9 +155,26 @@ liberty = {
     }
     
 }
+african_religions = {
+    harami = {
+        icon = 5
+        color = { 0.3 0.3 0.3 }
+    }
+}
+
 asian_religions = {
     xifang = {
         icon = 20
         color = { 0.5 0.5 0.4}
+    }
+
+    qiyuan = {
+        icon = 1
+        color = { 0.1 0.1 0.2 }
+    }
+
+    tekno = {
+        icon = 1
+        color = { 0.7 0.6 0.7 }
     }
 }

@@ -1,13 +1,14 @@
-capital = 1616
-primary_culture = nanfaren
-culture = beifaren
+capital = 1540
+primary_culture = yue
 religion = mahayana
-government = presidential_dictatorship
-plurality = 0.0
+government = absolute_monarchy
+plurality = 2.0
 nationalvalue = nv_order
-literacy = 0.05
+literacy = 0.11
 non_state_culture_literacy = 0
 civilized = no
+
+prestige = 1
 
 # Political reforms
 slavery = no_slavery
@@ -38,7 +39,7 @@ border_policy = closed_borders
 
 set_country_flag = mahayana_country
 
-ruling_party = KMT_liberal_2
+ruling_party = KMT_liberal
 upper_house = {
     fascist = 0
     liberal = 40

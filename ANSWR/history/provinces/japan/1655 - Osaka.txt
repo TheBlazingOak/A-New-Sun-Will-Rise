@@ -1,6 +1,5 @@
-owner = JAP
-controller = JAP
-add_core = JAP
-add_core = TKG
+owner = NIH
+controller = NIH
+add_core = NIH
 trade_goods = tea
 life_rating = 35

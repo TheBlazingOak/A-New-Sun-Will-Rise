@@ -287,164 +287,157 @@
 #Hokkaido - Ezo Region (60000 People )
 #Hakodate (15000/6000 POPS)
 1642 = {
-    aristocrats = {
-        culture = japanese
-        religion = shinto
-        size = 20
-    }
 
     bureaucrats = {
-        culture = japanese
+        culture = ainu
         religion = shinto
-        size = 20
+        size = 1750
     }
 
     clergymen = {
-        culture = japanese
+        culture = ainu
         religion = shinto
-        size = 80
-    }
-
-    artisans = {
-        culture = japanese
-        religion = shinto
-        size = 280
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = shinto
-        size = 200
-    }
-
-    farmers = {
-        culture = japanese
-        religion = shinto
-        size = 1500
+        size = 1800
     }
 
     aristocrats = {
         culture = ainu
-        religion = animist
-        size = 20
-    }
-
-    clergymen = {
-        culture = ainu
-        religion = animist
-        size = 20
+        religion = shinto
+        size = 7500
     }
 
     artisans = {
         culture = ainu
-        religion = animist
-        size = 160
+        religion = shinto
+        size = 16250
     }
 
     soldiers = {
         culture = ainu
-        religion = animist
-        size = 100
+        religion = shinto
+        size = 6000
     }
 
     farmers = {
         culture = ainu
-        religion = animist
-        size = 3600
+        religion = shinto
+        size = 132780
     }
 }
 #Ishikara (15000/5000 POPS)
 1643 = {
     aristocrats = {
         culture = ainu
-        religion = animist
-        size = 30
+        religion = shinto
+        size = 2500
     }
 
     artisans = {
         culture = ainu
-        religion = animist
-        size = 130
-    }
-
-    farmers = {
-        culture = ainu
-        religion = animist
-        size = 4840
-    }
-
-    clergymen = {
-        culture = japanese
         religion = shinto
-        size = 5
-    }
-
-    artisans = {
-        culture = japanese
-        religion = shinto
-        size = 5
+        size = 11250
     }
 
     soldiers = {
-        culture = japanese
+        culture = ainu
         religion = shinto
-        size = 5
+        size = 3500
     }
 
     farmers = {
-        culture = japanese
+        culture = ainu
         religion = shinto
-        size = 10
+        size = 101250
     }
 }
 #Nemuru - Meakan (15000/4000 POPS)
 1644 = {
     aristocrats = {
         culture = ainu
-        religion = animist
-        size = 20
+        religion = shinto
+        size = 2000
     }
 
     artisans = {
         culture = ainu
-        religion = animist
-        size = 100
+        religion = shinto
+        size = 9250
     }
 
     soldiers = {
         culture = ainu
-        religion = animist
-        size = 100
+        religion = shinto
+        size = 3000
     }
 
     farmers = {
         culture = ainu
-        religion = animist
-        size = 3780
+        religion = shinto
+        size = 83780
+    }
+}
+#Pogobi (4100/1025 POPS)
+1086 = {
+    aristocrats = {
+        culture = ainu
+        religion = shinto
+        size = 1200
     }
 
     clergymen = {
-        culture = japanese
+        culture = ainu
         religion = shinto
-        size = 5
+        size = 900
     }
 
     artisans = {
-        culture = japanese
+        culture = ainu
         religion = shinto
-        size = 5
+        size = 5000
     }
 
     soldiers = {
-        culture = japanese
+        culture = ainu
         religion = shinto
-        size = 5
+        size = 500
     }
 
     farmers = {
-        culture = japanese
+        culture = ainu
         religion = shinto
-        size = 10
+        size = 32150
+    }
+}
+#Shumshu (4000/1000 POPS)
+1088 = {
+    aristocrats = {
+        culture = ainu
+        religion = shinto
+        size = 200
+    }
+
+    clergymen = {
+        culture = ainu
+        religion = shinto
+        size = 300
+    }
+
+    artisans = {
+        culture = ainu
+        religion = shinto
+        size = 1500
+    }
+
+    soldiers = {
+        culture = ainu
+        religion = shinto
+        size = 50
+    }
+
+    farmers = {
+        culture = ainu
+        religion = shinto
+        size = 15940
     }
 }
 #Hokuriku Region (1892000)
@@ -2731,113 +2724,6 @@
 }
 #Ryukyu Region (272000)
 #tributary state to Japan in 1836
-#Okinawa (192000/48000 POPS)  #ryukyuan represented by japanese
-1678 = {
-    aristocrats = {
-        culture = japanese
-        religion = shinto
-        size = 850
-    }
-
-    bureaucrats = {
-        culture = japanese
-        religion = shinto
-        size = 45
-    }
-
-    officers = {
-        culture = japanese
-        religion = shinto
-        size = 75
-    }
-
-    clergymen = {
-        culture = japanese
-        religion = shinto
-        size = 450
-    }
-
-    artisans = {
-        culture = japanese
-        religion = shinto
-        size = 2200
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = shinto
-        size = 450
-    }
-
-    farmers = {
-        culture = japanese
-        religion = shinto
-        size = 59930
-    }
-
-    bureaucrats = {
-        culture = nanfaren
-        religion = shinto
-        size = 5
-    }
-
-    clergymen = {
-        culture = nanfaren
-        religion = shinto
-        size = 75
-    }
-
-    artisans = {
-        culture = nanfaren
-        religion = shinto
-        size = 200
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = shinto
-        size = 2050
-    }
-
-    farmers = {
-        culture = nanfaren
-        religion = shinto
-        size = 3670
-    }
-}
-#Amari (80000/20000 POPS)
-1679 = {
-    aristocrats = {
-        culture = japanese
-        religion = shinto
-        size = 375
-    }
-
-    clergymen = {
-        culture = japanese
-        religion = shinto
-        size = 200
-    }
-
-    artisans = {
-        culture = japanese
-        religion = shinto
-        size = 1100
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = shinto
-        size = 200
-    }
-
-    farmers = {
-        culture = japanese
-        religion = shinto
-        size = 18225
-    }
-
-}
 
 #Sado - Old Reliance (2000/500 POPS)
 12 = {

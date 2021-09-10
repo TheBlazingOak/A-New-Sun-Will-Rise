@@ -2592,10 +2592,6 @@ dutch_dijkes = {
     icon = 19
 }
 
-oudrijk_prince = {
-    icon = 7
-}
-
 adzinoki_propaganda = {
     war_exhaustion = -0.05
     mobilization_economy_impact = -0.15
@@ -2612,4 +2608,31 @@ groot_kouderstad_harbour = {
     middle_income_modifier = 0.05
     poor_income_modifier = 0.05
     icon = 3
+}
+
+oudrijk_prince = {
+    icon = 7
+    prestige = 0.01
+}
+
+oudrijk_allegiance_fernost = {
+    icon = 7
+    prestige = 0.01
+}
+
+oudrijk_allegiance_cislavet = {
+    icon = 7
+    prestige = 0.01
+}
+
+oudrijk_kaizer = {
+    icon = 7
+    prestige = 0.05
+    ruling_party_support = 0.20
+    immigrant_attract = 0.25
+}
+oudrijk_oppostion = {
+    icon = 7
+    prestige = 0.02
+    ruling_party_support = 0.10
 }

@@ -1182,7 +1182,7 @@ iranian_turanian = {
             }
     }
     kazak = {
-        color = {83 102 46}
+        color = {0  175  202}
         first_names = {
             Ablai "Abu al-Khayr" Aryn Bukei Chokan
             Dulat Ibirai Isatai Ishim Jangir Kenisary
@@ -1215,15 +1215,6 @@ iranian_turanian = {
             Khan Tajik Emomali Shohmurod Rahbar Ghoib Fayzullo Sabouri Furmuli Badakhshi Baghlani Mazari Panjsheri Kabuli Herati Kohistani
             }
         radicalism = 10
-    }
-    uighur = {
-        color = {92 96 168}
-        first_names = {
-            Afaq Ahmed Arshad Bahayeddin Burhan Daud Hakim Husayin Kemal Maqsud Muhammad Musa Rashidin Satuq Timur Yaqub
-            }
-        last_names = {
-            Beg Khan
-            }
     }
     pashtun = {
         color = {199 151 230}
@@ -1679,6 +1670,57 @@ southeast_asian = {
 east_asian = {
     leader = asian
     unit = ChineseGC
+
+    lanzu = {
+        color = {212 207 169}
+        first_names = { Lin Shen Chen Wong Yan Sa Hou Zheng Bing Wu Tan He Du Xue Xu Qin
+        }
+        last_names = { Zexu Baozhen Baochen Nai-siong Shu Fu Sen Debang Xin Nee Huiyin
+        }
+    }
+
+    cantan = {
+        color = {2 74 48}
+        first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
+        }
+        last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu
+        }
+    }
+
+    ping = {
+        color = {150 115 92}
+        first_names = { Ma Deng Zhao Tong Guan Oboi Sonin Songgotu Suksaha Mingzhu Nalan Fu Hesehn Changlin
+        }
+        last_names = { Zhanshan Tiemei Shangzhi Linge Xiangying Xingde Kang'an
+        }
+    }
+
+    yue = {
+        color = {89 34 100}
+        first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
+        }
+        last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu
+        }
+    }
+
+    uighur = {
+        color = {183 201 145}
+        first_names = {
+            Afaq Ahmed Arshad Bahayeddin Burhan Daud Hakim Husayin Kemal Maqsud Muhammad Musa Rashidin Satuq Timur Yaqub
+            }
+        last_names = {
+            Beg Khan
+            }
+    }
+
+    hui = {
+        color = {255  214  154}
+        first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
+        }
+        last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu
+        }
+    }
+
     manchu = {
         color = {245 255 160}
         first_names = { Ma Deng Zhao Tong Guan Oboi Sonin Songgotu Suksaha Mingzhu Nalan Fu Hesehn Changlin
@@ -1686,6 +1728,7 @@ east_asian = {
         last_names = { Zhanshan Tiemei Shangzhi Linge Xiangying Xingde Kang'an
         }
     }
+
     beifaren = {
         color = {145 30 30}
         first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
@@ -1722,14 +1765,6 @@ east_asian = {
         }
     }
 
-    lanzu = {
-        color = {50 45 60}
-        first_names = { Lin Shen Chen Wong Yan Sa Hou Zheng Bing Wu Tan He Du Xue Xu Qin
-        }
-        last_names = { Zexu Baozhen Baochen Nai-siong Shu Fu Sen Debang Xin Nee Huiyin
-        }
-    }
-
     zhuang = {
         color = {200 75 134}
         first_names = { Hoang Nong Le Be Van Quoc Quynh The Duc
@@ -1744,13 +1779,7 @@ east_asian = {
         last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu
         }
     }
-    yue = {
-        color = {89 34 100}
-        first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
-        }
-        last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu
-        }
-    }
+    
     union = CHI
 }
 
@@ -1758,7 +1787,7 @@ far_east_asian = {
     leader = asian
     unit = ChineseGC
     japanese = {
-        color = {230 230 230}
+        color = {200 200 200}
         first_names = { Arisugawa Arichi Akiyama Araki Dewa Enomoto Hasegawa Honjo Ito Inoue Ichinohe Itagaki Kido Kuroda Katsura Kodama Kabayama Kawamura Kuroki Kawakami Kamimura Kataoka Kamio Kato Kanin Katsu Makino Muto Minami Masaki Matsudaira Nakamuta Nogi Nire Nozu Okubo Oyama Omura Oku Okada Osumi
         Saigo Suzuki Sato Sakura Shibayama Shimamura Shirakawa Togo Takashima Tsuboi Tachibana Terauchi Tamon Takasugi Tokugawa Uehara Uryu Ugaki Ueda Yamagata Yamamoto Yamakawa Yashiro Yui Yamashita Yamaya Uesugi Takeda Abe Usami Watanabe Honda Hosokawa Asai    Askikaga Chosokabe Date Fukushima Genji Hachisuka Hattori Heike Hojo Ishida Kaga Kuki Maeda Miyamoto Mori Murakami Oda Okamoto Ooka Saito Shibata Shimazu Suwa Takigawa Tanuma Ukita Konoe Takashi Kujo Ichijo Gojo Aburakoji Anenokoji Asukai Daigo Hirohata Imaidegawa Inokuma Jimyoin Kajuji Kaoin Karasuma Kawashi Konjo Kuga Masachika    Matsuki    Minase    Nakayama Nanba Nomiya Oimikado Rakujochigusa Reizei Saioji Sanjo Shigenoi Shijo Shimizudani Tokudaiji Washio Yamashina
         }
@@ -2295,6 +2324,13 @@ oceania_cultures = {
     }
     zealander = {
         color = {115  115  115}
+        first_names = { John Alf Adrian Louis Hallam Henry Shane Stafford William Frederick Thomas Ronald Lawrence Bruce Ray Stuart Brian Bob Scott Guy
+        }
+        last_names = { Hope Tennyson Northcote War Thesinger Denman Forster Baird Issac Stewart Fisher Cook Davis Armstrong Anderson Mitchell MacKenzie
+        }
+    }
+    new_australian = {
+        color = {3 75 130}
         first_names = { John Alf Adrian Louis Hallam Henry Shane Stafford William Frederick Thomas Ronald Lawrence Bruce Ray Stuart Brian Bob Scott Guy
         }
         last_names = { Hope Tennyson Northcote War Thesinger Denman Forster Baird Issac Stewart Fisher Cook Davis Armstrong Anderson Mitchell MacKenzie

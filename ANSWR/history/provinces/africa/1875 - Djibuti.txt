@@ -1,6 +1,6 @@
-add_core = AWS
-add_core = WRL
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = HAR
 trade_goods = cattle
-terrain = semidesert
-life_rating = 10
-colonial = 1
+life_rating = 35

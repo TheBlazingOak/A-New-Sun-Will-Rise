@@ -511,42 +511,8 @@ NET_1426;South Borneo;;;;;;;;;;;;x
 NET_1446;Timor;;;;;;;;;;;;x
 NET_1447;Moluccas;;;;;;;;;;;;x
 NET_1449;Celebes;;;;;;;;;;;;x
-CHI_1465;Eastern Mongolia;;;;;;;;;;;;x
-CHI_1468;Western Mongolia;;;;;;;;;;;;x
-CHI_1470;South Anhui;;;;;;;;;;;;x
-CHI_1477;North Anhui;;;;;;;;;;;;x
-CHI_1479;Fengtian;;;;;;;;;;;;x
-CHI_1482;Fujian;;;;;;;;;;;;x
-CHI_1485;Laozuzong;;;;;;;;;;;;x
-CHI_1490;Gansu;;;;;;;;;;;;x
-CHI_1493;East Canton;;;;;;;;;;;;x
-CHI_1496;Hong Kong;;;;;;;;;;;;x
-CHI_1499;West Canton;;;;;;;;;;;;x
-CHI_1502;Guangxi;;;;;;;;;;;;x
-CHI_1505;Guizhou;;;;;;;;;;;;x
-CHI_1508;East Henan;;;;;;;;;;;;x
-CHI_1510;West Henan;;;;;;;;;;;;x
-CHI_1519;West Hubei;;;;;;;;;;;;x
-CHI_1522;East Hubei;;;;;;;;;;;;x
-PROV1523;Xiangyang;;;;;;;;;;;;x
-CHI_1524;North Hunan;;;;;;;;;;;;x
-CHI_1526;South Hunan;;;;;;;;;;;;x
-CHI_1532;Inner Mongolia;;;;;;;;;;;;x
 PROV1542;Xuzhou;;;;;;;;;;;;x
-CHI_1545;North Jiangxi;;;;;;;;;;;;x
-CHI_1547;South Jiangxi;;;;;;;;;;;;x
-CHI_1552;Heilongjiang;;;;;;;;;;;;x
-CHI_1555;Kirin;;;;;;;;;;;;x
 PROV1559;Xian;;;;;;;;;;;;x
-CHI_1559;Shaanxi;;;;;;;;;;;;x
-CHI_1572;Shanxi;;;;;;;;;;;;x
-CHI_1578;West Sichuan;;;;;;;;;;;;x
-CHI_1579;East Sichuan;;;;;;;;;;;;x
-CHI_1594;Kashgar;;;;;;;;;;;;x
-CHI_1600;Urumqui;;;;;;;;;;;;x
-CHI_1601;Yunnan;;;;;;;;;;;;x
-CHI_1604;North Zhejiang;;;;;;;;;;;;x
-CHI_1610;South Zhejiang;;;;;;;;;;;;x
 PROV1612;Baoding;;;;;;;;;;;;x
 CHI_1612;Hebei;;;;;;;;;;;;x
 PROV1616;Peking;;;;;;;;;;;;x
@@ -736,47 +702,12 @@ NET_1423;East Borneo;;;;;;;;;;;;x
 NET_1426;South Borneo;;;;;;;;;;;;x
 NET_1446;Timor;;;;;;;;;;;;x
 NET_1449;Celebes;;;;;;;;;;;;x
-CHI_1465;Eastern Mongolia;;;;;;;;;;;;x
-CHI_1468;Western Mongolia;;;;;;;;;;;;x
 PROV1469;Uriankhai;;;;;;;;;;;;x
-CHI_1470;South Anhui;;;;;;;;;;;;x
-CHI_1477;North Anhui;;;;;;;;;;;;x
-CHI_1479;Fengtian;;;;;;;;;;;;x
-CHI_1482;Fujian;;;;;;;;;;;;x
-CHI_1485;Formosa;;;;;;;;;;;;x
-CHI_1490;Gansu;;;;;;;;;;;;x
-CHI_1493;East Canton;;;;;;;;;;;;x
-CHI_1496;Hong Kong;;;;;;;;;;;;x
-CHI_1499;Hainan;;;;;;;;;;;;x
-CHI_1502;Guangxi;;;;;;;;;;;;x
-CHI_1505;Guizhou;;;;;;;;;;;;x
-CHI_1508;East Henan;;;;;;;;;;;;x
-CHI_1510;West Henan;;;;;;;;;;;;x
-CHI_1519;West Hubei;;;;;;;;;;;;x
-CHI_1522;East Hubei;;;;;;;;;;;;x
-PROV1523;Xiangyang;;;;;;;;;;;;x
-CHI_1524;North Hunan;;;;;;;;;;;;x
-CHI_1526;South Hunan;;;;;;;;;;;;x
-CHI_1532;Inner Mongolia;;;;;;;;;;;;x
 PROV1542;Xuzhou;;;;;;;;;;;;x
-CHI_1545;North Jiangxi;;;;;;;;;;;;x
-CHI_1547;South Jiangxi;;;;;;;;;;;;x
-CHI_1552;Heilongjiang;;;;;;;;;;;;x
-CHI_1555;Kirin;;;;;;;;;;;;x
 PROV1559;Xian;;;;;;;;;;;;x
-CHI_1559;Shaanxi;;;;;;;;;;;;x
-CHI_1572;Shanxi;;;;;;;;;;;;x
-CHI_1578;West Sichuan;;;;;;;;;;;;x
-CHI_1579;East Sichuan;;;;;;;;;;;;x
-CHI_1594;Kashgar;;;;;;;;;;;;x
-CHI_1600;Urumqui;;;;;;;;;;;;x
-CHI_1601;Yunnan;;;;;;;;;;;;x
-CHI_1604;North Zhejiang;;;;;;;;;;;;x
-CHI_1610;South Zhejiang;;;;;;;;;;;;x
 PROV1612;Baoding;;;;;;;;;;;;x
 CHI_1612;Baoding;;;;;;;;;;;;x
 PROV1616;Peking;;;;;;;;;;;;x
-CHI_1616;Peking;;;;;;;;;;;;x
 PROV1643;Ishikari;;;;;;;;;;;;x
 JAP_1649;Kanto;;;;;;;;;;;;x
 JAP_1654;Bonin Islands;;;;;;;;;;;;x
@@ -1213,12 +1144,6 @@ NIT_637;Bohatéhory;;;;;;;;;;;;;;;;;;;;;;;x
 NIT_714;Roviny;;;;;;;;;;;;;;;;;;;;;;;x
 ENG_74;Terre-Neuve;;;;;;;;;;;;;;;;;;;;;;;x
 PROV994;Peterburgh;;;;;;;;;;;;;;;;;;;;;;;x
-CHI_1540;Hei;;;;;;;;;;;;;;;;;;;;;;;x
-RYU_1679;Bàndao;;;;;;;;;;;;;;;;;;;;;;;x
-RYU_1537;Didì;;;;;;;;;;;;;;;;;;;;;;;x
-JUC_1536;Ju;;;;;;;;;;;;;;;;;;;;;;;x
-CHI_1563;Shangdao;;;;;;;;;;;;;;;;;;;;;;;x
-CHI_1565;Xiaofang;;;;;;;;;;;;;;;;;;;;;;;x
 BRZ_2425;Chapada;;;;;;;;;;;;;;;;;;;;;;;x
 BRZ_1367;Callifal;;;;;;;;;;;;;;;;;;;;;;;x
 BRZ_1954;Rallego;;;;;;;;;;;;;;;;;;;;;;;x
@@ -1270,5 +1195,48 @@ IND_1290;Issac's Ghar;;;;;;;;;;;;;;;;;;;;;;;x
 PROV3307;The Jalmaarg;;;;;;;;;;;;;;;;;;;;;;;x
 PROV3286;The Khula Samudr;;;;;;;;;;;;;;;;;;;;;;;x
 PROV3303;Issac's Gahara;;;;;;;;;;;;;;;;;;;;;;;x
+PROV304;Aistislah;;;;;;;;;;;;;;;;;;;;;;;x
 ENG_1275;Uttam;;;;;;;;;;;;;;;;;;;;;;;x
 ENG_1241;Vikaas;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1637;Cheju and Tsushima;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1476;Gongye Archipelago;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1543;Heicheng;;;;;;;;;;;;;;;;;;;;;;;x
+CHI_1465;Ekhoron;;;;;;;;;;;;x
+CHI_1468;Khuurai;;;;;;;;;;;;x
+CHI_1532;Gadaadaral;;;;;;;;;;;;x
+CHI_1540;Hei;;;;;;;;;;;;;;;;;;;;;;;x
+RYU_1679;Bàndao;;;;;;;;;;;;;;;;;;;;;;;x
+RYU_1537;Didì;;;;;;;;;;;;;;;;;;;;;;;x
+JUC_1536;Ju;;;;;;;;;;;;;;;;;;;;;;;x
+CHI_1563;Shangdao;;;;;;;;;;;;;;;;;;;;;;;x
+CHI_1565;Xiaofang;;;;;;;;;;;;;;;;;;;;;;;x
+CHI_1477;Haishì;;;;;;;;;;;;x
+CHI_1470;South Anhui;;;;;;;;;;;;x
+CHI_1479;Fengtian;;;;;;;;;;;;x
+CHI_1482;Chaoxue;;;;;;;;;;;;x
+CHI_1485;Laozuzong;;;;;;;;;;;;x
+CHI_1490;Gansu;;;;;;;;;;;;x
+CHI_1493;Dongwan;;;;;;;;;;;;x
+CHI_1499;Cantan;;;;;;;;;;;;x
+CHI_1502;Tamlai;;;;;;;;;;;;x
+CHI_1505;Chilún Senlín;;;;;;;;;;;;x
+CHI_1508;East Henan;;;;;;;;;;;;x
+CHI_1510;West Henan;;;;;;;;;;;;x
+CHI_1519;West Hubei;;;;;;;;;;;;x
+CHI_1522;East Hubei;;;;;;;;;;;;x
+PROV1523;Xiangdiqu;;;;;;;;;;;;x
+CHI_1524;North Hunan;;;;;;;;;;;;x
+CHI_1526;South Hunan;;;;;;;;;;;;x
+CHI_1545;North Jiangxi;;;;;;;;;;;;x
+CHI_1547;South Jiangxi;;;;;;;;;;;;x
+CHI_1552;Heilongjiang;;;;;;;;;;;;x
+CHI_1555;Kirin;;;;;;;;;;;;x
+CHI_1559;Shaanxi;;;;;;;;;;;;x
+CHI_1572;Shanxi;;;;;;;;;;;;x
+CHI_1578;West Sichuan;;;;;;;;;;;;x
+CHI_1579;East Sichuan;;;;;;;;;;;;x
+CHI_1594;Kashgar;;;;;;;;;;;;x
+CHI_1600;Urumqui;;;;;;;;;;;;x
+CHI_1601;Yunnan;;;;;;;;;;;;x
+CHI_1604;Shen;;;;;;;;;;;;x
+CHI_1610;Wuying;;;;;;;;;;;;x

@@ -78,6 +78,38 @@ vassal = {
     end_date = 2936.1.1
 }
 
+# Kouderhagen/DND
+vassal = {
+    first = NET
+    second = DND
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Kouderhagen/JAL
+vassal = {
+    first = NET
+    second = JAL
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Kouderhagen/KNG
+vassal = {
+    first = NET
+    second = KNG
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Kouderhagen/ASH
+vassal = {
+    first = SWI
+    second = ASH
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
 #######################
 #        ASIA         #
 #######################
@@ -94,6 +126,14 @@ vassal = {
 vassal = {
     first = KHI
     second = KOK
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Jiyunoji/Hokkaido
+vassal = {
+    first = JIY
+    second = EZO
     start_date = 2836.1.1
     end_date = 2936.1.1
 }

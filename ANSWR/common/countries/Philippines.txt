@@ -1,5 +1,5 @@
-color = { 92 87 122}
-graphical_culture = Generic
+color = { 175 186 180 }
+graphical_culture = AsianGC
 
 party = {
     name = "PHL_reactionary"

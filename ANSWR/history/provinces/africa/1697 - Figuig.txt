@@ -1,4 +1,5 @@
-add_core = MOR
-terrain = semidesert
+owner = TRG
+controller = TRG
+add_core = TRG
 trade_goods = wool
-life_rating = 31
+life_rating = 35

@@ -1,5 +1,6 @@
-owner = JAL
-controller = JAL
+owner = NET
+controller = NET
 add_core = JAL
 trade_goods = fish
 life_rating = 35
+colonial = 2

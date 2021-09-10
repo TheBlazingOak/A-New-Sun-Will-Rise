@@ -1,7 +1,5 @@
-owner = GBU
-controller = GBU
-add_core = GBU
-add_core = TOO
-add_core = WOL
+owner = TRG
+controller = TRG
+add_core = TRG
 trade_goods = wool
-life_rating = 30
+life_rating = 32

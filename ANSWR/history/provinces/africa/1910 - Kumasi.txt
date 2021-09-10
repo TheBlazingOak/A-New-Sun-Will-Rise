@@ -1,5 +1,6 @@
-owner = ASH
-controller = ASH
+owner = SWI
+controller = SWI
 add_core = ASH
 trade_goods = grain
 life_rating = 35
+colonial = 2

@@ -1,11 +1,9 @@
-owner = AWS
-controller = AWS
-add_core = AWS
-add_core = TIG
+owner = ETH
+controller = ETH
 add_core = ETH
+add_core = HAR
 trade_goods = grain
-terrain = desert
-life_rating = 10
+life_rating = 35
 2861.1.1 = {
     owner = ETH
     controller = ETH
