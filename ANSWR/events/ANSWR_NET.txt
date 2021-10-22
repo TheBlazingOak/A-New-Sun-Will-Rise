@@ -1,0 +1,212 @@
+# the crowning of King Florijs
+#strengthen Koudrel- Flanish relations
+
+#Bilderberg Hotel 1/2
+country_event = {
+	id = 52036
+	title = "EVTNAME52036"
+	desc = "EVTDESC52036"
+	picture = "bilderberg"
+	#revolution_n_counterrevolution = 1
+
+	trigger = {
+		tag = NET
+		#change to another year
+		year = 2839
+		NOT = { year = 2842}
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52036OPTA"
+		prestige = 5
+		set_country_flag = bilderberg_tav
+	}
+	
+	
+	mean_time_to_happen = {
+		months = 48
+        	modifier = {
+           		factor = 7
+            		NOT = { year = 2841
+			#change to another year
+        	}
+	}
+	}
+}
+
+#Bilderberg Hotel 2/2
+country_event = {
+	id = 52037
+	title = "EVTNAME52037"
+	desc = "EVTDESC520376"
+	picture = "bilderberg"
+
+	trigger = {
+		tag = NET
+		has_country_flag =  bilderberg_tav
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52037OPTA"
+		clr_country_flag = bilderberg_tav
+		prestige = -5
+		upper_house = {
+			ideology = { fascist }
+			value = 10
+		}
+		#adds + 10% fascist support
+	}
+	option = {
+		name = "EVT52037OPTB"
+		clr_country_flag = bilderberg_tav
+		prestige = -5
+		#adds + 10% communist support
+		upper_house = {
+			ideology = { communist }
+			value = 10
+		}
+	}
+	option = {
+		name = "EVT52037OPTC"
+		clr_country_flag = bilderberg_tav
+		upper_house = {
+			ideology = { communist }
+			value = 5
+		}
+		upper_house = {
+			ideology = { fascist }
+			value = 5
+		}
+		#adds + 5communist +5 fascist support
+	}
+	
+	
+	#some time later
+	mean_time_to_happen = {
+		months = 120
+	}
+}
+
+# Nieuw-Kouderhagen Purchase 1/3
+country_event = {
+	id = 52039
+	title = "EVTNAME52039"
+	desc = "EVTDESC52039"
+	picture = "exemplar_colony"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA52039"
+		money = 200000
+		NET = {
+			country_event = { id=52040 days=14 }
+		}
+		QUE_75 = {
+			add_core = NET		
+			secede_province = NET
+			remove_core = QUE
+		}
+		ai_chance = { factor = 25
+		modifier = {
+            factor = 4
+            relation = { who = FROM value = 100 }
+        	}
+        modifier = {
+            factor = 2
+            relation = { who = FROM value = 150 }
+        	}
+        modifier = {
+            factor = 4
+            QUE = { in_sphere = FROM }
+        	}
+        }
+	}
+	
+	option = {
+		name = "EVTOPTB52039"
+		NET = {
+			country_event = { id=52041 days=14 }
+		}
+		ai_chance = { factor = 75
+ 		modifier = {
+            factor = 1.5
+            relation = { who = FROM value = -200 }
+        	}
+        modifier = {
+            factor = 0.5
+            NOT = { money = 200000 }
+        	}
+    	}
+	}
+}
+
+# Nieuw-Kouderhagen Purchase 2/3 Quebec Accepts 
+country_event = {
+	id = 52040
+	title = "EVTNAME52040"
+	desc = "EVTDESC52040"
+	picture = "exemplar_colony"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA52040"
+		money = -200000	
+	}
+}
+
+# Nieuw-Kouderhagen Purchase 3/3 Quebec Denies
+country_event = {
+	id = 52041
+	title = "EVTNAME52041"
+	desc = "EVTDESC52041"
+	picture = "exemplar_colony"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA52041"
+		relation = {
+			who = FROM
+			value = -100
+		}
+	}
+}
+# Vlanisch War
+country_event = {
+	id = 52042
+	title = "EVTNAME52042"
+	desc = "EVTDESC52042"
+	trigger = {
+		year = 2860
+		exists = NET
+		exists = VLA
+		tag = NET
+		relation = {
+			who = VLA
+			value = -200
+		}
+		NOT = {
+			year = 2870
+			relation = {
+				who = VLA
+				value = 100
+			} 
+		}
+	}
+	mean_time_to_happen = {
+		months = 60
+        	modifier = {
+           		factor = 6
+            		NOT = { year = 2868 }
+		}
+	}
+	option = {
+		name = "EVTOPTA52042"
+		relation = {
+			who = VLA
+			value = -100
+		}
+	}
+}

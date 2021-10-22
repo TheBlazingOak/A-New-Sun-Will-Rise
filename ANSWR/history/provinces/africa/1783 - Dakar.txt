@@ -1,0 +1,11 @@
+owner = WOL
+controller = WOL
+add_core = WOL
+add_core = TOO
+trade_goods = fruit
+terrain = semidesert
+life_rating = 35
+colonial = 2
+2861.1.1 = {
+    naval_base = 1
+}

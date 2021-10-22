@@ -1,0 +1,35 @@
+###Siberia###
+
+#Unclaimed
+#Port Arthur (80000/15000 POPS)
+1481 = {
+    aristocrats = {
+        culture = russian
+        religion = veravburyu
+        size = 100
+    }
+
+    clergymen = {
+        culture = russian
+        religion = veravburyu
+        size = 50
+    }
+
+    artisans = {
+        culture = russian
+        religion = veravburyu
+        size = 250
+    }
+
+    soldiers = {
+        culture = russian
+        religion = veravburyu
+        size = 50
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 4550
+    }
+}

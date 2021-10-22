@@ -1,0 +1,10 @@
+owner = OCC
+controller = OCC
+add_core = OCC
+add_core = FRE
+trade_goods = cattle
+life_rating = 35
+naval_base = 1
+2861.1.1 = {
+    railroad = 3
+}

@@ -1,0 +1,6 @@
+owner = GLC
+controller = GLC
+add_core = GLC
+trade_goods = fruit
+life_rating = 35
+2861.1.1 = { railroad = 3 }

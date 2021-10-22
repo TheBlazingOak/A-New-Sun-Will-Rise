@@ -1,0 +1,6 @@
+owner = BRI
+controller = BRI
+add_core = BRI
+add_core = OUD
+trade_goods = fruit
+life_rating = 40

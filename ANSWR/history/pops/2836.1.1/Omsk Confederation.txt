@@ -1,0 +1,639 @@
+##Omsk Oblast
+#Omsk (223500/55878 POPS)
+1064 = {
+
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 6050
+    }
+
+    bureaucrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1600
+    }
+
+    officers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 250
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 600
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 9250
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 3000
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 180325
+    }
+
+    craftsmen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 12000
+    }
+}
+#Kokshetau (96000/24000 POPS)
+1184 = {
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 105
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 650
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 2225
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 22700
+    }
+}
+#Novo Usensk (340000/85000 POPS)
+1038 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 2250
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 825
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 6250
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1850
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 99725
+    }
+}
+#Spa - Eupen-Malmedy (144000/36000 POPS)
+396 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1050
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 200
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 4650
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 3000
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 54000
+    }
+
+}
+#Eindhoven (230000/57500 POPS)
+379 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1425
+    }
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 125
+    }
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 4500
+    }
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 5000
+    }
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 4000
+    }
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 79000
+    }
+}
+#Galich (304000/76000 POPS)
+1024 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1900
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 750
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 4800
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1750
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 59800
+    }
+
+}
+#Ishim (22000/5500 POPS) => Kainsk
+2686 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 650
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 200
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 750
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1000
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 32000
+    }
+
+}
+#Tobolsk (10800/2700 POPS)
+1066 = {
+
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 50
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 125
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 4200
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1125
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 76050
+    }
+
+}
+#Kokand (300000/75000 POPS)
+1202 = {
+   aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1050
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 325
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 2300
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 2125
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 83020
+    }
+}
+#Tyumen (54000/13500 POPS)
+1061 = {
+
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 150
+    }
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 50
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 800
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 2125
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 92175
+    }
+
+}
+#Kheta (1000/250 POPS)
+2658 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 250
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 150
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1250
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 850
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 42400
+    }
+}
+#Tomsk Region (1346700)
+#under the rule of Russia in 1836
+#Tomsk (814000/203500 POPS)
+1063 = {
+
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 700
+    }
+
+    officers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 250
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 2000
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 5000
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1000
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 20000
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = tatar
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = sunni
+        size = 25
+    }
+
+    farmers = {
+        culture = tatar
+        religion = sunni
+        size = 2775
+    }
+
+    farmers = {
+        culture = siberian
+        religion = animist
+        size = 700
+    }
+}
+#Slavgorod (60000/15000 POPS) => Kuznetsk
+2698 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 300
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 250
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 4000
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 2000
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 55000
+    }
+}
+#Barnaul (116000/29000 POPS)
+1067 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 500
+    }
+
+    officers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 225
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 500
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 5000
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1000
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 55000
+    }
+}
+#Ulala (36000/9000 POPS)
+1068 = {
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 50
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 350
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 125
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 19775
+    }
+}
+#Amon
+#Rzhev (432000/108000 POPS)
+999 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 2500
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 950
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 6500
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1000
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 56850
+    }
+
+}
+#Qaraganda (56000/14000 POPS)
+1181 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 2900
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1150
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 3725
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1925
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 73971
+    }
+}
+#Aktash (68000/17000 POPS)
+2612 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1900
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 750
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 2725
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1245
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 59933
+    }
+}

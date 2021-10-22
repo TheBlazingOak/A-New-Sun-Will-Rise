@@ -1,0 +1,51 @@
+owner = BRI
+controller = BRI
+add_core = BRI
+add_core = OUD
+trade_goods = fruit
+life_rating = 35
+railroad = 1
+fort = 1
+state_building = {
+    level = 1
+    building = glass_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = ammunition_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = small_arms_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = paper_mill
+    upgrade = yes
+}
+2861.1.1 = {
+    state_building = {
+        level = 2
+        building = glass_factory
+        upgrade = yes
+    }
+    state_building = {
+        level = 2
+        building = ammunition_factory
+        upgrade = yes
+    }
+    state_building = {
+        level = 2
+        building = small_arms_factory
+        upgrade = yes
+    }
+    state_building = {
+        level = 2
+        building = paper_mill
+        upgrade = yes
+    }
+}
+2861.1.1 = { railroad = 3 }

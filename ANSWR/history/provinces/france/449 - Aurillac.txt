@@ -1,0 +1,6 @@
+owner = AUV
+controller = AUV
+add_core = AUV
+add_core = FRE
+trade_goods = cattle
+life_rating = 31

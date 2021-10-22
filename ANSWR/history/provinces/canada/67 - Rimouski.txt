@@ -1,0 +1,5 @@
+owner = MRU
+controller = MRU
+add_core = MRU
+trade_goods = grain
+life_rating = 31

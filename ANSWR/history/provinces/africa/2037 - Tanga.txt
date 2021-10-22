@@ -1,0 +1,7 @@
+owner = KNY
+controller = KNY
+add_core = ZAN
+add_core = KNY
+trade_goods = grain
+terrain = savanna
+life_rating = 35

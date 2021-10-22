@@ -1,0 +1,32 @@
+owner = IST
+controller = IST
+add_core = IST
+trade_goods = fruit
+life_rating = 39
+naval_base = 1
+fort = 1
+#state_building = {
+#    level = 1
+#    building = cement_factory
+#    upgrade = yes
+#}
+#state_building = {
+#    level = 1
+#    building = fabric_factory
+#    upgrade = yes
+#}
+#state_building = {
+#    level = 1
+#    building = canned_food_factory
+#    upgrade = yes
+#}
+2861.1.1 = {
+    state_building = {
+        level = 2
+        building = fabric_factory
+        upgrade = yes
+    }
+}
+2861.1.1 = {
+    naval_base = 2
+}

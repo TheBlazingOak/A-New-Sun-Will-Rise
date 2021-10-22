@@ -1,0 +1,10 @@
+owner = QUE
+controller = QUE
+add_core = QUE
+trade_goods = coal
+life_rating = 32
+2861.1.1 = {
+    owner = TKG
+    controller = TKG
+    life_rating = 25
+}

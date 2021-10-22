@@ -1,0 +1,15 @@
+owner = SIB
+controller = SIB
+add_core = SIB
+trade_goods = sulphur
+life_rating = 40
+terrain = mining_district
+2861.1.1 = {
+    state_building = {
+        level = 1
+        building = machine_parts_factory
+        upgrade = yes
+    }
+}
+2861.1.1 = { railroad = 3 }
+2861.1.1 = { remove_core = NET }

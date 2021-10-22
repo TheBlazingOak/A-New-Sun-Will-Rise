@@ -1,0 +1,8 @@
+add_core = TRI
+trade_goods = fruit
+life_rating = 10
+2861.1.1 = {
+    owner = TUR
+    controller = TUR
+    colonial = 2
+}

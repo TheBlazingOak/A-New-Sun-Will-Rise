@@ -1,0 +1,7 @@
+owner = SIB
+controller = SIB
+add_core = SIB
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+2861.1.1 = { railroad = 3 }

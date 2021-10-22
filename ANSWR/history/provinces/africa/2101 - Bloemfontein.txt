@@ -1,0 +1,11 @@
+owner = ZUL
+controller = ZUL
+add_core = ZUL
+trade_goods = wool
+life_rating = 35
+terrain = mining_district
+2861.1.1 = {
+    owner = ORA
+    controller = ORA
+    add_core = SAF
+}

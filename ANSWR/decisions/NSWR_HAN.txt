@@ -1,0 +1,28 @@
+
+political_decisions = {
+	become_limb = {
+		potential ={
+			tag = HAN
+			owns = 538
+			NOT = {
+				owns = 540
+				owns = 541
+				owns = 542
+				owns = 543
+			}
+		}
+		allow = {
+			war = no
+			owns = 538
+		}
+		effect = {
+			change_tag = LBG
+			government = democracy
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

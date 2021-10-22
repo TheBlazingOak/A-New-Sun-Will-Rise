@@ -1,0 +1,6 @@
+owner = FIN
+controller = FIN
+add_core = FIN
+trade_goods = cattle
+life_rating = 35
+2861.1.1 = { railroad = 2 }

@@ -1,0 +1,10 @@
+owner = HEI
+controller = HEI
+add_core = HEI
+trade_goods = grain
+life_rating = 32
+2861.1.1 = {
+    owner = TPG
+    controller = TPG
+    add_core = TPG
+}

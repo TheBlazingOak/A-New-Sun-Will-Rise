@@ -1,0 +1,68 @@
+#Night of the Seventh (secret event)
+country_event = {
+	id = 52021
+	title = "EVTNAME52021" #Burning of Praha
+	desc = "EVTDESC52021"
+	major = yes
+	fire_only_once = yes
+
+	trigger = {
+	exists = AUS
+	exists = BOH
+	tag = AUS
+	great_wars_enabled = no
+	BOH = { war_with = AUS }
+	AUS = { controls = 625 }
+	NOT = {
+	has_country_modifier = the_night_of_the_seventh_aus
+	has_global_flag = night_of_the_seventh
+	}	
+	}
+
+	option = {
+	name = "EVT52021OTPA" #I don't think they'll forget this
+		effect = {
+		prestige = 10
+		badboy = 2.5
+		add_country_modifier = {
+			name = the_night_of_the_seventh_aus
+			duration = 730
+		}
+		set_global_flag = night_of_the_seventh
+		}
+	}
+}
+
+#Bohemia Response Event
+country_event = {
+	id = 52022
+	title = "EVTNAME52022" #Burning of Praha Response
+	desc = "EVTDESC52022"
+	picture = night_of_seventh
+	is_trigger_only = yes
+	fire_only_once = yes
+
+	mean_time_to_happen = {
+		days = 7
+		}
+
+	trigger = {
+	tag = BOH
+	has_global_flag = night_of_the_seventh
+	}
+
+	option = {
+	name = "EVT52022OTPA" #We will remember those who perished! Glory to Bohemia!
+	prestige = -25
+	badboy = -5
+	plurality = 10
+	consciousness = 2
+	militancy = -3
+	anypop = { province_id = 625 reduce_pop = .99 }
+	add_country_modifier = {
+		name = the_night_of_the_seventh_boh
+		duration = -1
+	}
+	}
+}
+#Oto van Kampioen of Bohemia ascends to the throne (Night of the seventh alt)

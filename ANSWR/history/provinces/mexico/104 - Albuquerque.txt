@@ -1,0 +1,6 @@
+owner = SFA
+controller = SFA
+add_core = SFA
+add_core = CAL
+trade_goods = precious_goods
+life_rating = 39

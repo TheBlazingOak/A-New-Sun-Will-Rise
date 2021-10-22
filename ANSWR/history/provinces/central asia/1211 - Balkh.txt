@@ -1,0 +1,10 @@
+owner = KHI
+controller = KHI
+add_core = KHI
+terrain = dryhills
+trade_goods = grain
+life_rating = 35
+2860.1.1 = {
+    owner = AFG
+    controller = AFG
+}

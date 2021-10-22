@@ -1,0 +1,6 @@
+owner = STR
+controller = STR
+add_core = STR
+terrain = desert
+trade_goods = fish
+life_rating = 35

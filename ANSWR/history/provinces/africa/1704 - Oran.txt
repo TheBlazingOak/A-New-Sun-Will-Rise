@@ -1,0 +1,9 @@
+owner = DPA
+controller = DPA
+add_core = ALD
+trade_goods = grain
+life_rating = 35
+colonial = 2
+2861.1.1 = {
+    naval_base = 1
+}

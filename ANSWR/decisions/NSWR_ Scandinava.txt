@@ -1,0 +1,166 @@
+political_decisions = {
+	
+	#Danish ultimatium
+	skandinaviska_union = {
+	picture = form_scandinavia
+		potential = {
+			tag = SAP
+			exists = NOD
+			NOT = { has_country_flag = skandinaviska_ultimatium }
+		}
+		allow = {
+				prestige = 50
+        		nationalism_n_imperialism = 1				
+				war = no
+			}
+
+		effect = {
+			set_country_flag = skandinaviska_ultimatium
+			NOD = { country_event = { id=52001 days=7 } }
+		}
+        ai_will_do = { factor = 1 }
+	}
+	
+	#Uniting Scandinava
+	skandinaviska_victory = {
+	picture = SCA_political_union
+		potential = {
+			tag = SAP
+	 		has_country_flag = skandinaviska_victory
+	 		NOT = { has_country_modifier = kalmar_union }
+		}
+		allow = {
+				nationalism_n_imperialism = 1
+				war = no
+				has_country_flag = skandinaviska_victory
+		}
+		effect = {
+			THIS = {				
+				country_event = { id = 52007 days = 0}
+				add_country_modifier = {
+					name = kalmar_union
+					duration = -1
+					}
+		        prestige = 50
+		        any_pop = {
+		       	limit = { owned_by = THIS }
+		        militancy = -2.00
+		        consciousness = -1.00
+		        }
+		        add_accepted_culture = swedish
+		        add_accepted_culture = norwegian
+		        SWE_308 = { add_core = SAP }
+		        SWE_318 = { add_core = SAP }
+		        SWE_309 = { add_core = NOD }
+		        SWE_313 = { add_core = NOD }
+		        SWE_322 = { add_core = NOD }
+		        SWE_329 = { add_core = NOD }
+		        set_country_flag = skandinaviska_victory
+		        }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	#Uniting Scandinava	agressive
+	skandinaviska_war_victory = {
+	picture = SCA_political_union
+		potential = {
+			tag = SAP
+ 			NOT = {
+		 		exists = NOD
+		        has_country_flag = skandinaviska_victory
+		 		}
+			}
+			allow = {
+				nationalism_n_imperialism = 1
+				war = no
+		        SWE_308 = { owned_by = SAP }
+		        SWE_318 = { owned_by = SAP }
+				}
+
+			effect = {
+				THIS = {				
+				country_event = { id = 52007 days = 0}
+				add_country_modifier = {
+					name = kalmar_union
+					duration = 100
+					}
+		        prestige = 50
+		        any_pop = {
+		        limit = { owned_by = THIS }
+		        militancy = -2.00
+		        consciousness = -1.00
+		        }
+		        add_accepted_culture = swedish
+		        add_accepted_culture = norwegian
+		        SWE_308 = { add_core = SAP }
+		        SWE_318 = { add_core = SAP }
+		        SWE_309 = { add_core = NOD }
+		        SWE_313 = { add_core = NOD }
+		        SWE_322 = { add_core = NOD }
+		        SWE_329 = { add_core = NOD }
+		        set_country_flag = skandinaviska_victory
+		        }
+			}
+			ai_will_do = { factor = 1 }
+		}
+
+	#Renaming Jylland
+	rename_jylland = {
+		picture = form_scandinavia
+		potential = {
+			OR = {
+				tag = SAP
+				tag = NOD
+				tag = SCA
+			}
+			NOT = { has_country_flag = jylland_renamed }
+			owns = 367
+			owns = 366
+			owns = 368
+			owns = 2557
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = jylland_renamed
+			prestige = 3
+			2557 = { change_province_name = "Esbjerg" }
+			367 = {
+				change_province_name = "Aalborg"
+				state_scope = {change_region_name = "Jylland"}
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	#Renaming Slesvig
+	rename_slesvig = {
+		picture = form_scandinavia
+		potential = {
+			OR = {
+				tag = SAP
+				tag = NOD
+				tag = SCA
+			}
+			NOT = { has_country_flag = slesvig_renamed}
+			owns = 371
+			owns = 370
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = slesvig_renamed
+			prestige = 3
+			371 = { change_province_name = "Abenra"}
+			370 = { 
+				change_province_name = "Flensborg"
+				state_scope = {change_region_name = "Slesvig"}
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+	#End of political_decisions brackets	
+}

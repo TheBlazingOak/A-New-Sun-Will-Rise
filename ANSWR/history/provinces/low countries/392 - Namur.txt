@@ -1,0 +1,8 @@
+owner = NET
+controller = NET
+add_core = BEL
+add_core = NET
+trade_goods = iron
+life_rating = 35
+2861.1.1 = { railroad = 3 }
+2861.1.1 = { remove_core = NET }

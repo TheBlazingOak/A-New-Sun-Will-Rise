@@ -1,0 +1,11 @@
+owner = NEJ
+controller = NEJ
+add_core = NEJ
+trade_goods = coffee
+terrain = steppe
+life_rating = 35
+2861.1.1 = {
+    owner = TUR
+    controller = TUR
+    colonial = 2
+}

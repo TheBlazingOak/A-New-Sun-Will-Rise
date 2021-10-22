@@ -1,0 +1,6 @@
+owner = VLA
+controller = VLA
+add_core = VLA
+trade_goods = grain
+life_rating = 40
+2861.1.1 = { railroad = 3 }

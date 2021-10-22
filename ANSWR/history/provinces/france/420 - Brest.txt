@@ -1,0 +1,22 @@
+owner = BRT
+controller = BRT
+add_core = FRE
+add_core = BRT
+trade_goods = grain
+life_rating = 39
+naval_base = 2
+#state_building = {
+#    level = 1
+#    building = lumber_mill
+#    upgrade = yes
+#}
+2861.1.1 = {
+    state_building = {
+        level = 1
+        building = steamer_shipyard
+        upgrade = yes
+    }
+}
+2861.1.1 = {
+    naval_base = 3
+}

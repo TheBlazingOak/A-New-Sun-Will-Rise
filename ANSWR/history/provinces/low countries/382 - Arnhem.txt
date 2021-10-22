@@ -1,0 +1,6 @@
+owner = NET
+controller = NET
+add_core = NET
+trade_goods = cattle
+life_rating = 40
+2861.1.1 = { railroad = 3 }

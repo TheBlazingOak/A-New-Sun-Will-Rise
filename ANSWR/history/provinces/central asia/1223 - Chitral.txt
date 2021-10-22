@@ -1,0 +1,7 @@
+owner = BDK
+controller = BDK
+add_core = AFG
+add_core = PNJ
+add_core = BDK
+trade_goods = grain
+life_rating = 35

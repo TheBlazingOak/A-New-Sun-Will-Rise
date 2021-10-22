@@ -1,0 +1,9 @@
+controller = ASY
+owner = ASY
+add_core = ASY
+trade_goods = grain
+life_rating = 35
+2861.1.1 = {
+    owner = TUR
+    controller = TUR
+}

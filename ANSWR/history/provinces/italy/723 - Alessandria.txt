@@ -1,0 +1,12 @@
+owner = SWI
+controller = SWI
+add_core = SWI
+add_core = SVY
+trade_goods = fruit
+life_rating = 35
+2861.1.1 = {
+    controller = ITA
+    owner = ITA
+    add_core = ITA
+}
+2861.1.1 = { railroad = 3 }

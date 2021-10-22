@@ -1,0 +1,555 @@
+##End of the Treaty of Bergen
+country_event = {
+	id = 17250
+	title = "EVTNAME17250"
+    desc = "EVTDESC17250"
+    fire_only_once = yes
+    picture = big_parade
+
+    mean_time_to_happen = {
+        months = 3 
+    }
+
+    trigger = {
+    tag = SCO
+    owns = 309
+    owns = 310
+    owns = 311
+    owns = 1021
+    NOT = { has_global_flag = bergen_treaty_ended }
+    }
+
+    option = {
+        #End the Bergen Treaty
+    	name = "EVTOPTA17250"
+    	309 = { add_core = SAP }
+        310 = { add_core = SAP }
+        311 = { add_core = SAP }
+        1021 = { add_core = SAP }
+        309 = { secede_province =  SAP }
+        310 = { secede_province =  SAP }
+        311 = { secede_province =  SAP }
+        1021 = { secede_province =  SAP }
+        309 = { add_core = SCO }
+        310 = { add_core = SCO }
+        311 = { add_core = SCO }
+        1021 = { add_core = SCO }
+        prestige = 10
+        set_global_flag = bergen_treaty_ended
+        relation = {
+            who = SAP
+            value = 200
+        }
+        SAP = { country_event = 17251 }
+        ai_chance = {
+        chance = 65
+        modifier = {
+            factor = 1.25
+            relation = {
+            who = SAP
+            value = 150
+                }
+            }
+        }
+    }
+    #Break the Bergen Treaty
+    option = {
+        name = "EVTOPTB17250"
+
+        309 = { add_core = SAP }
+        310 = { add_core = SAP }
+        311 = { add_core = SAP }
+        1021 = { add_core = SAP }
+        prestige = -10
+        relation = {
+            who = SAP
+            value = -100
+        }
+        set_global_flag = bergen_treaty_ended
+        SAP = { country_event = 17252 }
+        leave_alliance = SAP
+        any_country = {
+        limit = {
+        is_greater_power = yes
+            }
+        relation = {
+            who = SCO
+            value = -25
+            }
+        }
+        ai_chance = {
+        chance = 35
+        modifier = {
+            factor = 1.25
+            relation = {
+            who = SAP
+            value = -200
+                }
+            }
+        }
+    }
+}
+#Scandis recieves Norway
+country_event = {
+    id = 17251
+    title = "EVTNAME17251"
+    desc = "EVTDESC17251"
+    is_triggered_only = yes
+    picture = big_parade
+
+    option = {
+        #Thank Scotland for cooperating in the war
+        name = "EVTOPTA17251"
+        prestige = 10
+        relation = {
+            who = SCO
+            value = 200
+            }
+        ai_chance = {
+        chance = 100
+        }
+    }
+}
+#Scotland breaks the Bergen Treaty
+country_event = {
+    id = 17252
+    title = "EVTNAME17252"
+    desc = "EVTDESC17252"
+    is_triggered_only = yes
+    picture = streetriot
+
+    option = {
+        #Declare War againist Scotland for violating the treaty
+        name = "EVTOPTA17252"
+        prestige = 10
+        relation = {
+            who = SCO
+            value = -200
+        }
+        war = {
+        target = SCO
+        attacker_goal = { acquire_core_state = SWE_309 }
+        call_ally = yes
+        }
+        ai_chance = {
+        chance = 80
+        modifier = {
+            factor = 1.25
+            stronger_army_than = SCO
+            }
+        }
+    }
+    option = {
+        #Diplomatically object
+        name = "EVTOPTB17252"
+        prestige = 5
+        relation = {
+            who = SCO
+            value = -150
+        }
+        ai_chance = {
+        chance = 20
+        modifier = {
+            factor = 0.75
+            stronger_army_than = SCO
+            }
+        }
+    }
+}
+#Scotland loses the war againist the Skandi's
+country_event = {
+    id = 17253
+    title = "EVTNAME17253"
+    desc = "EVTDESC17253"
+    picture = siege_evt
+
+    trigger = {
+    NOT = { 
+    311 = { owned_by = SCO }
+    }
+    311 = { is_core = SCO }
+    has_global_flag = bergen_treaty_ended
+    tag = SCO
+    }
+    option = {
+        #Scotland loses its cores in Vestland
+        name = "EVTOPTA17253"
+        prestige = -5
+        SWE_309 = { remove_core = SCO }
+    }
+}
+### ENGLAND ###
+#Representative Sutton's Lions Speech in New Stales
+#Start of English Unification
+country_event = {
+    id = 17300
+    title = "EVTNAME17300"
+    desc = "EVTDESC17300"
+    picture = election
+    fire_only_once = yes
+
+    trigger = {
+    tag = UNS
+    year = 2840
+    NOT = { has_country_flag = the_lions_speech }
+    NOT = { has_country_flag = denounced_lions_speech }
+    NOT = { has_country_flag = imprisioned_the_lions_speech }
+    }
+
+    mean_time_to_happen = {
+        months = 120
+        modifier = {
+            factor = 0.75
+            romanticism = 1
+        }
+        modifier = {
+            factor = 0.75
+            realism = 1
+        }
+        modifier = {
+            factor = 0.75
+            idealism = 1
+        }
+        modifier = {
+            factor = 0.5
+            positivism = 1
+        }
+        modifier = {
+            factor = 0.75
+            functionalism = 1
+        }
+        modifier = {
+            factor = 0.5
+            ideological_thought = 1
+        }
+        modifier = {
+            factor = 0.25
+            state_n_government = 1
+        }
+        modifier = {
+            factor = 0.25
+            biologism = 1
+        }
+        modifier = {
+            factor = 0.125
+            nationalism_n_imperialism = 1
+        }
+        modifier = {
+            factor = 0.25
+            associationism = 1
+        }
+        modifier = {
+            factor = 0.125
+            prestige = 100
+        }
+        modifier = {
+            factor = 0.5
+            prestige = 75
+        }
+        modifier = {
+            factor = 0.75
+            prestige = 60
+        }
+
+    }
+
+    option = {
+        #Union of the Stales stands by Representative Sutton
+        name = "EVTOPTA17300"
+        badboy = 5
+        prestige = 5
+        relation = {
+            who = TYN
+            value = -100
+        }
+        relation = {
+            who = CHS
+            value = -100
+        }
+        relation = {
+            who = ANI
+            value = -100
+        }
+        leave_alliance = TYN
+        leave_alliance = CHS
+        leave_alliance = ANI
+        set_country_flag = the_lions_speech
+        ai_chance = {
+        chance = 70
+        modifier = {
+            factor = 0.75
+            NOT = { is_greater_power = yes }
+            }
+        }
+    }
+    option = {
+        #Union of the Stales denounce Representative Sutton
+        name = "EVTOPTB17300"
+        badboy = -3
+        any_pop = {
+        limit = { pop_majority_ideology = reactionary }
+        militancy = 3
+        }
+        any_pop = {
+        limit = { pop_majority_ideology = conservative }
+        militancy = 2
+        }
+        any_pop = {
+        limit = { pop_majority_ideology = liberal }
+        consciousness = 2
+        }
+        relation = {
+            who = TYN
+            value = 25
+        }
+        relation = {
+            who = CHS
+            value = 25
+        }
+        relation = {
+            who = ANI
+            value = 25
+        }
+        set_country_flag = denounced_lions_speech
+        ai_chance = {
+        chance = 20
+        }
+    }
+    option = {
+        #Union of the Stales imprisions Representative Sutton
+        name = "EVTOPTC17300"
+        badboy = -10
+        prestige = -5
+        any_pop = {
+        limit = { pop_majority_ideology = reactionary }
+        militancy = 9
+        }
+        any_pop = {
+        limit = { pop_majority_ideology = conservative }
+        militancy = 5
+        }
+        any_pop = {
+        limit = { pop_majority_ideology = liberal }
+        consciousness = 5
+        }
+        relation = {
+            who = TYN
+            value = 50
+        }
+        relation = {
+            who = CHS
+            value = 50
+        }
+        relation = {
+            who = ANI
+            value = 50
+        }
+        set_country_flag = imprisioned_the_lions_speech
+        ai_chance = {
+        chance = 10
+        }
+    }
+}
+#Support Sutton 1/6
+country_event = {
+    id = 17301
+    title = "EVTNAME17301"
+    desc = "EVTDESC17301"
+    picture = nationalists
+    is_triggered_only = yes
+
+    option = {
+    name = "EVTOPTA17301"
+        prestige = 5
+        any_country ={
+            limit = { 
+            exists = yes
+            ai = yes
+            capital_scope = { continent = europe }
+            primary_culure = english
+            NOT = { tag = UNS }
+            }
+            country_event = 17302
+        }
+        any_country ={
+            limit = { 
+            exists = yes
+            ai = no
+            capital_scope = { continent = europe }
+            primary_culure = english
+            NOT = { tag = UNS }
+            }
+            country_event = 17303
+        }
+    }
+}
+#Support Sutton Reaction 2/6
+country_event = {
+    id = 17302
+    title = "EVTNAME17302"
+    desc = "EVTDESC17302"
+    is_triggered_only = yes
+    picture = nationalists
+
+    option = {
+    name = "EVTOPTA17302"
+        relation = {
+            who = TYN
+            value = 25
+        }
+        relation = {
+            who = CHS
+            value = 25
+        }
+        relation = {
+            who = ANI
+            value = 25
+        }
+        set_country_flag = the_lions_speech
+    }
+}
+#Support Sutton Reaction Player 2/6
+country_event = {
+    id = 17303
+    title = "EVTNAME17303"
+    desc = "EVTDESC17303"
+    is_triggered_only = yes
+    picture = nationalists
+
+    option = {
+    name = "EVTOPTA17303"
+        relation = {
+            who = TYN
+            value = 25
+        }
+        relation = {
+            who = CHS
+            value = 25
+        }
+        relation = {
+            who = ANI
+            value = 25
+        }
+        set_global_flag = the_lions_speech
+    }
+}
+#Anti-Stales League Signing 3/6
+country_event = {
+    id = 17304
+    title = "EVTNAME17304"
+    desc = "EVTDESC17304"
+    is_triggered_only = yes
+    major = yes
+
+    option = {
+    name = "EVTOPTA17304"
+        prestige = 10
+        ENG_280 = { add_core = ASL }
+        ENG_291 = { add_core = ASL }
+        ENG_277 = { add_core = ASL }
+        ASL = {
+        inherit = TYN
+        inherit = ANI
+        inherit = CHS
+        }
+        all_core = { add_core = ENL }
+        set_global_flag = anti_stales_league_formed
+        UNS = { country_event = 17305 days = 5 }
+    }
+}
+#Anti-Stales AI Core deletion
+country_event = {
+    id = 17309
+    title = "EVTNAME17304"
+    desc = "EVTDESC17304"
+    is_triggered_only = yes
+
+    #It is a wonderful day
+    option = {
+    name = "EVTOPTA17304"
+        prestige = 5
+        all_core = { remove_core = THIS }
+    }
+}
+#Anti-Stales League Reaction 4/6
+country_event = {
+    id = 17305
+    title = "EVTNAME17305"
+    desc = "EVTDESC17305"
+    is_triggered_only = yes
+    picture = banquet
+
+    #How dare they mount a resistance!
+    option = {
+    name = "EVTOPTA17305"
+        relation = {
+            who = ASL
+            value = -200
+        }
+        badboy = 5
+        war = {
+            target = ASL
+            attacker_goal = { casus_belli = unification_annex_casus_belli  }
+            defender_goal = { casus_belli = cut_down_to_size }
+            call_ally = no
+        }
+    }
+}
+#ASL Wins War of England
+#Anti-Stales League Wins Union of Stales Event 5/5
+country_event = {
+    id = 17306
+    title = "EVTNAME17306"
+    desc = "EVTDESC17306"
+    fire_only_once = yes
+    is_triggered_only = yes
+    picture = banquet
+
+    #An era comes to an end, by the sounds of pens scratching papers
+    option = {
+    name = "EVTOPTA17306"
+        prestige = -10
+        all_core = { add_core = ENL }
+        all_core = { remove_core = UNS }
+    }
+}
+#Anti-Stales League Forms ENGLAND Event 5/5
+country_event = {
+    id = 17307
+    title = "EVTNAME17307"
+    desc = "EVTDESC17307"
+    is_triggered_only = yes
+    fire_only_once = yes
+    major = yes
+
+    #It is a wonderful day
+    option = {
+    name = "EVTOPTA17307"
+        change_tag = ENL
+        prestige = 40
+        inherit = UNS
+        all_core = { remove_core = ASL }
+    }
+}
+#UNS Wins War of England
+#Anti-Stales League Wins Union of Stales Event 5/5
+country_event = {
+    id = 17308
+    title = "EVTNAME17308"
+    desc = "EVTDESC17308"
+    is_triggered_only = yes
+    fire_only_once = yes
+    major = yes
+
+    #It is a wonderful day
+    option = {
+    name = "EVTOPTA17308"
+        change_tag = ENL
+        prestige = 20
+        all_core = { remove_core = UNS }
+        ENG_277 = { remove_core = ASL }
+        ENG_280 = { remove_core = ASL }
+        ENG_291 = { remove_core = ASL }
+    }
+}
+

@@ -1,0 +1,64 @@
+political_decisions = {
+
+	confederate_unification = {
+	picture = reform_csa
+		potential = {
+			is_primary_culture = dixie
+            capital_scope = { continent = north_america }
+			NOT = {
+				exists = CSA
+
+			}
+		}
+
+		allow = {
+			is_greater_power = yes
+			prestige = 45
+			nationalism_n_imperialism = 1
+			war = no
+			cultural_union = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            in_sphere = THIS
+                            OR = {
+                                is_vassal = no
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+                    }
+                }
+            }
+        }
+
+		effect = {
+            prestige = 25
+            all_core = { remove_core = THIS }
+            change_tag = CSA
+            any_country = {
+                limit = {
+                    NOT = { is_greater_power = yes }
+                    NOT = { has_country_flag = post_colonial_country }
+                    is_culture_group = THIS
+                    in_sphere = THIS
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                }
+                country_event = 52006
+            }
+            add_accepted_culture = dixie_cajun
+	    add_accepted_culture = floridian
+        }
+        ai_will_do = { factor = 1 }    
+    }
+
+  
+
+#End of political_decisions brackets    
+}

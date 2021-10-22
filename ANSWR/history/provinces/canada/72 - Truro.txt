@@ -1,0 +1,5 @@
+owner = MRU
+controller = MRU
+add_core = MRU
+trade_goods = timber
+life_rating = 35

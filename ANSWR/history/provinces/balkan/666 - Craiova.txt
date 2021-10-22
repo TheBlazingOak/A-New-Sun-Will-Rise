@@ -1,0 +1,10 @@
+owner = CRV
+controller = CRV
+add_core = CRV
+trade_goods = coal
+life_rating = 35
+
+2861.1.1 = {
+    controller = ROM
+    owner = ROM
+}

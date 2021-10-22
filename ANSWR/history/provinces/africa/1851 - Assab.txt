@@ -1,0 +1,12 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = HAR
+trade_goods = fish
+life_rating = 35
+2861.1.1 = {
+    owner = ETH
+    controller = ETH
+    remove_core = TIG
+    remove_core = AWS
+}

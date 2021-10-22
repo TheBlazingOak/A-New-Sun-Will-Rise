@@ -1,0 +1,6 @@
+owner = STR
+controller = STR
+add_core = STR
+trade_goods = cattle
+life_rating = 35
+terrain = small_island

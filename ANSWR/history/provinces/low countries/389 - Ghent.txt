@@ -1,0 +1,11 @@
+owner = URA
+controller = URA
+add_core = URA
+trade_goods = wool
+life_rating = 35
+fort = 1
+state_building = {
+        level = 2
+        building = lumber_mill
+        upgrade = yes
+    }

@@ -1,0 +1,7 @@
+owner = ROU
+controller = ROU
+add_core = ROU
+add_core = FRE
+trade_goods = cattle
+life_rating = 31
+2861.1.1 = { railroad = 3 }

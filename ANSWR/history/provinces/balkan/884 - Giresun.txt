@@ -1,0 +1,6 @@
+owner = OTA
+controller = OTA
+add_core = OTA
+add_core = ARM
+trade_goods = fruit
+life_rating = 35

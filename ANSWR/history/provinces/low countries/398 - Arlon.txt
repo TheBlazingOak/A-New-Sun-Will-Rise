@@ -1,0 +1,8 @@
+owner = NET
+controller = NET
+add_core = NET
+trade_goods = coal
+life_rating = 35
+railroad = 1
+naval_base = 1
+terrain = mining_district

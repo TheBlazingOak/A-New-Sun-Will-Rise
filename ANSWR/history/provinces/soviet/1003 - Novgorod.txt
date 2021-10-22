@@ -1,0 +1,6 @@
+owner = ZVY
+controller = ZVY
+add_core = ZVY
+trade_goods = grain
+life_rating = 32
+2861.1.1 = { railroad = 2 }

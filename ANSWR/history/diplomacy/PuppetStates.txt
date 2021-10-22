@@ -1,0 +1,151 @@
+#ANSWR
+#######################
+#        EUROPE       #
+#######################
+
+#Paltija - Ostikunina
+vassal = {
+    first = LIT
+    second = EST
+    start_date = 2792.1.1
+    end_date = 2871.1.1
+}
+
+###Dacian Confedercy 
+vassal = {
+    first = WAL
+    second = CRV
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = MOL
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = SIE
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = DEV
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = BKV
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+vassal = {
+    first = WAL
+    second = MDV
+    start_date = 2754.9.12
+    end_date = 2900.1.7
+}
+
+#######################
+#        INDIA        #
+#######################
+
+#######################
+#        AFRICA       #
+#######################
+
+# Nigeria/Filayen
+vassal = {
+    first = NGR
+    second = SOK
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Nigeria/Kadakusa
+vassal = {
+    first = NGR
+    second = OYO
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Kouderhagen/DND
+vassal = {
+    first = NET
+    second = DND
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Kouderhagen/JAL
+vassal = {
+    first = NET
+    second = JAL
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Kouderhagen/KNG
+vassal = {
+    first = NET
+    second = KNG
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Kouderhagen/ASH
+vassal = {
+    first = SWI
+    second = ASH
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#######################
+#        ASIA         #
+#######################
+
+# Afghan/Kunduz
+vassal = {
+    first = AFG
+    second = BDK
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+# Yangi/Kokand
+vassal = {
+    first = KHI
+    second = KOK
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Jiyunoji/Hokkaido
+vassal = {
+    first = JIY
+    second = EZO
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#######################
+#        AMERICA      #
+#######################
+
+# Los Angeles/Arizona
+vassal = {
+    first = LOS
+    second = ARI
+    start_date = 2836.1.1
+    end_date = 2850.1.1
+}

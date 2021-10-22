@@ -1,0 +1,281 @@
+### EUROPE
+
+#History of the Netherlands
+country_event = {
+	id = 52025
+	title = "EVTNAME52025"
+	desc = "EVTDESC52025"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = NET
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52025OPTA"
+	}
+}
+
+#History of Flanspublyk
+country_event = {
+	id = 52024
+	title = "EVTNAME52024"
+	DESC = "EVTDESC52024"
+	picture = "history"
+	
+	trigger = {
+		ai = no
+		tag = VLA
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52024OPTA"
+	}
+}
+#History of Skandinaviska
+country_event = {
+	id = 51000
+	title = "EVTNAME51000"
+	DESC = "EVTDESC51000"
+	picture = "history"
+	
+	trigger = {
+		ai = no
+		tag = SAP
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT51000OPTA"
+	}
+}
+#History of Norge-Svea
+country_event = {
+	id = 51001
+	title = "EVTNAME51001"
+	DESC = "EVTDESC51001"
+	picture = "history"
+	
+	trigger = {
+		ai = no
+		tag = NOD
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT51001OPTA"
+	}
+}
+#History of Bohemia
+country_event = {
+	id = 51002
+	title = "EVTNAME51002"
+	DESC = "EVTDESC51002"
+	picture = "history"
+	
+	trigger = {
+		ai = no
+		tag = BOH
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT51002OPTA"
+	}
+}
+#History of Fernost
+country_event = {
+	id = 51003
+	title = "EVTNAME51003"
+	DESC = "EVTDESC51003"
+	picture = "history"
+	
+	trigger = {
+		ai = no
+		tag = AUS
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT51003OPTA"
+	}
+}
+#History of Union of the Stales
+country_event = {
+	id = 51004
+	title = "EVTNAME51004"
+	DESC = "EVTDESC51004"
+	picture = "history"
+	
+	trigger = {
+		ai = no
+		tag = UNS
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT51004OPTA"
+	}
+}
+### SOUTH AMERICA
+
+#History of Buliwya
+country_event = {
+	id = 52030
+	title = "EVTNAME52030"
+	desc = "EVTDESC52030"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = BWK
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52030OPTA"
+	}
+}
+
+#History of Cusco
+country_event = {
+	id = 52028
+	title = "EVTNAME52028"
+	desc = "EVTDESC52028"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = CSK
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52028OPTA"
+	}
+}
+
+#History of Patagonia
+country_event = {
+	id = 52026
+	title = "EVTNAME52026"
+	desc = "EVTDESC52026"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = PTG
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52026OPTA"
+	}
+}
+
+#History of Quycan
+country_event = {
+	id = 52029
+	title = "EVTNAME52029"
+	desc = "EVTDESC52029"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = QKD
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52029OPTA"
+	}
+}
+
+#History of Patagonia
+country_event = {
+	id = 52027
+	title = "EVTNAME52027"
+	desc = "EVTDESC52027"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = RLP
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52027OPTA"
+	}
+}
+
+#History of Amazonia
+country_event = {
+	id = 52031
+	title = "EVTNAME52031"
+	desc = "EVTDESC52031"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = UPA
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52031OPTA"
+	}
+}
+
+#History of Janeiro
+country_event = {
+	id = 52032
+	title = "EVTNAME52032"
+	desc = "EVTDESC52032"
+	picture = "history"
+
+	trigger = {
+		ai = no
+		tag = SJR
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT52032OPTA"
+	}
+}
+
+### AFRICA ###
+#History of Norkselskap I
+country_event = {
+	id = 53000
+	title = "EVTNAME53000"
+	DESC = "EVTDESC53000"
+	picture = "history"
+	
+	trigger = {
+		ai = no
+		tag = NTC
+		year = 2836
+	}
+	fire_only_once = yes
+	option = {
+		name = "EVT53000OPTA"
+		NTC = { country_event = 53001 }
+	}
+}
+#History of Norkselskap II
+country_event = {
+	id = 53001
+	title = "EVTNAME53001"
+	DESC = "EVTDESC53001"
+	picture = "history"
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = "EVT53001OPTA"
+	}
+}

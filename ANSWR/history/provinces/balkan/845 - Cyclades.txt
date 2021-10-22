@@ -1,0 +1,13 @@
+owner = JAM
+controller = JAM
+add_core = JAM
+trade_goods = fish
+life_rating = 30
+terrain = small_island
+2861.1.1 = {
+    state_building = {
+        level = 1
+        building = steamer_shipyard
+        upgrade = yes
+    }
+}

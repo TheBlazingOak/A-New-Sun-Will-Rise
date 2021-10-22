@@ -1,0 +1,7 @@
+owner = NEJ
+controller = NEJ
+add_core = NEJ
+add_core = KWT
+trade_goods = grain
+life_rating = 35
+terrain = semidesert

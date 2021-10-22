@@ -1,0 +1,6 @@
+owner = BAN
+controller = BAN
+add_core = BAN
+add_core = SER
+trade_goods = grain
+life_rating = 35

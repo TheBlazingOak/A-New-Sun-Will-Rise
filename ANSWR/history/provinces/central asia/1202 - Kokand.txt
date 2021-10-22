@@ -1,0 +1,5 @@
+owner = OMS
+controller = OMS
+add_core = OMS
+trade_goods = grain
+life_rating = 35

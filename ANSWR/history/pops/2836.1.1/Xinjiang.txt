@@ -1,0 +1,143 @@
+#Xinjiang Region (1356000)
+#under the "rule" of China in 1836
+#Kashgar (268000/67000 POPS)
+1594 = {
+    aristocrats = {
+        culture = uighur
+        religion = sunni
+        size = 3100
+    }
+
+    bureaucrats = {
+        culture = uighur
+        religion = sunni
+        size = 1250
+    }
+
+    officers = {
+        culture = uighur
+        religion = sunni
+        size = 325
+    }
+
+    clergymen = {
+        culture = uighur
+        religion = sunni
+        size = 1525
+    }
+
+    artisans = {
+        culture = uighur
+        religion = sunni
+        size = 4200
+    }
+
+    soldiers = {
+        culture = uighur
+        religion = sunni
+        size = 2525
+    }
+
+    farmers = {
+        culture = uighur
+        religion = sunni
+        size = 72175
+    }
+}
+#Aksu (192000/48000 POPS)
+1597 = {
+    aristocrats = {
+        culture = uighur
+        religion = sunni
+        size = 950
+    }
+
+    clergymen = {
+        culture = uighur
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = uighur
+        religion = sunni
+        size = 2400
+    }
+
+    soldiers = {
+        culture = uighur
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = uighur
+        religion = sunni
+        size = 43650
+    }
+}
+#Khotan (88000/22000 POPS)
+1598 = {
+    aristocrats = {
+        culture = uighur
+        religion = sunni
+        size = 425
+    }
+
+    clergymen = {
+        culture = uighur
+        religion = sunni
+        size = 225
+    }
+
+    artisans = {
+        culture = uighur
+        religion = sunni
+        size = 1100
+    }
+
+    soldiers = {
+        culture = uighur
+        religion = sunni
+        size = 225
+    }
+
+    farmers = {
+        culture = uighur
+        religion = sunni
+        size = 20025
+    }
+}
+#Lopnur (32000/8000 POPS)
+2607 = {
+    aristocrats = {
+        culture = uighur
+        religion = sunni
+        size = 175
+    }
+
+    clergymen = {
+        culture = uighur
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = uighur
+        religion = sunni
+        size = 2500
+    }
+
+    soldiers = {
+        culture = uighur
+        religion = sunni
+        size = 1500
+    }
+
+    farmers = {
+        culture = uighur
+        religion = sunni
+        size = 44575
+    }
+
+}

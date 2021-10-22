@@ -1,0 +1,13 @@
+owner = SAP
+controller = SAP
+add_core = SAP
+trade_goods = precious_goods
+life_rating = 39
+naval_base = 1
+fort = 1
+
+state_building = {
+    level = 1
+    building = clipper_shipyard
+    upgrade = yes
+}

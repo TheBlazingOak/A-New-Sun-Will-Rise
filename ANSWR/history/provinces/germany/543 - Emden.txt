@@ -1,0 +1,12 @@
+owner = NET
+controller = NET
+add_core = NET
+trade_goods = fish
+life_rating = 40
+railroad = 1
+naval_base = 2
+state_building = {
+        level = 1
+        building = regular_clothes_factory
+        upgrade = yes
+    }  

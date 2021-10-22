@@ -1,0 +1,5 @@
+owner = STR
+controller = STR
+add_core = STR
+trade_goods = coal
+life_rating = 35

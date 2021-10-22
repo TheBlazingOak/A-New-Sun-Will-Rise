@@ -1,0 +1,20 @@
+owner = PZN
+controller = PZN
+add_core = PZN
+add_core = OUD
+trade_goods = fish
+life_rating = 35
+naval_base = 1
+2861.1.1 = {
+    state_building = {
+        level = 1
+        building = steamer_shipyard
+        upgrade = yes
+    }
+    state_building = {
+        level = 1
+        building = furniture_factory
+        upgrade = yes
+    }
+}
+2861.1.1 = { railroad = 3 }

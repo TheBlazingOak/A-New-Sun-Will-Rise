@@ -1,0 +1,121 @@
+### Setjer ###
+#Nukus (180000/45000 POPS)
+1192 = {
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 1400
+    }
+
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 1225
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 8150
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 42525
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 17325
+    }
+}
+#Kizil Arvut (88000/22000 POPS)
+1205 = {
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 700
+    }
+
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 1000
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 3150
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 3500
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 39550
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 12825
+    }
+}
+#Dashhowuz (40000/10000 POPS) #now part of Turkmenistan
+1196 = {
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 125
+    }
+
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 225
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 6200
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 12250
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 9825
+    }
+}

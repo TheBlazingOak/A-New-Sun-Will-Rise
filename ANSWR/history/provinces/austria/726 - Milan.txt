@@ -1,0 +1,12 @@
+owner = SWI
+controller = SWI
+add_core = SWI
+add_core = SVY
+trade_goods = cotton
+life_rating = 39
+fort = 1
+state_building = {
+    level = 2
+    building = fabric_factory
+    upgrade = yes
+}

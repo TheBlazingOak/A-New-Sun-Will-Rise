@@ -1,0 +1,10 @@
+owner = JIY
+controller = JIY
+add_core = JIY
+trade_goods = fruit
+life_rating = 35
+#state_building = {
+#    level = 1
+#    building = glass_factory
+#    upgrade = yes
+#}

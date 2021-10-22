@@ -1,0 +1,353 @@
+#Romanograd (704000/176000 POPS)
+389 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 3750
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 100
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 6000
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 5250
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 122550
+    }
+    serfs = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 65245
+    }
+    craftsmen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 11300
+    }
+    clerks = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 200
+    }
+
+}
+#Naryn (56000/14000 POPS) #now part of Kirghizstan
+1190 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 825
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 25
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1000
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1250
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 42550
+    }
+    serfs = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 25245
+    }
+    craftsmen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 21300
+    }
+    clerks = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 100
+    }
+}
+#Urals Region (832000)
+#Ekaterinburg (396000/99000 POPS)
+1058 = {
+
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 800
+    }
+
+    bureaucrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 275
+    }
+
+    officers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 225
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 500
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 10000
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 4950
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1000
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 25750
+    }
+
+    serfs = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 35000
+    }
+}
+#Vershina Region
+#Chelyabinsk (180000/45000 POPS)
+1059 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 650
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 550
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 3250
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1250
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 61400
+    }
+    craftsmen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 4425
+    }
+}
+#Orsk (180000/45000 POPS)
+1060 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 2450
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 500
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 5250
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 2000
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 58850
+    }
+}
+#Vyterga (96000/24000 POPS)
+993 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 425
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 2950
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 750
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 42350
+    }
+}
+#Turgay (20000/5000 POPS)
+2611 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 1425
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 650
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 3950
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 1250
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 51660
+    }
+}
+#Region
+#Yamilia Region
+#Aksarka (2200/550 POPS)
+2682 = {
+    clergymen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 175
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 250
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 31825
+    }
+}
+#Yar Sale (1000/250 POPS)
+2684 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 500
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 50
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1000
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 150
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 15250
+    }
+}

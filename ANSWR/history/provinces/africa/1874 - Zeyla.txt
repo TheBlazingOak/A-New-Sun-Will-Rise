@@ -1,0 +1,6 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = HAR
+trade_goods = grain
+life_rating = 35

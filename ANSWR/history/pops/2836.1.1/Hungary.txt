@@ -1,0 +1,710 @@
+#Odenburg Region (960000) #see Austria.txt for balance of region
+#under the rule of Austria in 1836
+#Baranya Region (232000) #see Croatia.txt for balance of Region
+#under the rule of Austria in 1836
+#Pecs (232000/58000 POPS)
+640 = {
+    aristocrats = {
+        culture = hungarian
+        religion = catholic
+        size = 650
+    }
+
+    bureaucrats = {
+        culture = hungarian
+        religion = catholic
+        size = 100
+    }
+
+    officers = {
+        culture = hungarian
+        religion = catholic
+        size = 80
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 1250
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 18670
+    }
+
+    aristocrats = {
+        culture = staromadar
+        religion = catholic
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = staromadar
+        religion = catholic
+        size = 75
+    }
+
+    officers = {
+        culture = staromadar
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = catholic
+        size = 1100
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = catholic
+        size = 38545
+    }
+
+    officers = {
+        culture = croat
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 400
+    }
+
+    soldiers = {
+        culture = croat
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 7435
+    }
+}
+#Dunautul Region (1892000)
+#under the rule of Austria in 1836
+#Budapest (644000/161000 POPS)
+641 = {
+    capitalists = {
+        culture = staromadar
+        religion = catholic
+        size = 25
+    }
+
+    aristocrats = {
+        culture = staromadar
+        religion = catholic
+        size = 1800
+    }
+
+    bureaucrats = {
+        culture = staromadar
+        religion = catholic
+        size = 1500
+    }
+
+    officers = {
+        culture = staromadar
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = catholic
+        size = 2250
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = catholic
+        size = 7500
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = catholic
+        size = 4500
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = catholic
+        size = 4000
+    }
+
+    craftsmen = {
+        culture = staromadar
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = catholic
+        size = 115410
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = catholic
+        size = 350
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = catholic
+        size = 3000
+    }
+
+    serfs = {
+        culture = hungarian
+        religion = catholic
+        size =  37250
+    }
+
+
+}
+#Gyor (384000/96000 POPS)
+642 = {
+    aristocrats = {
+        culture = staromadar
+        religion = catholic
+        size = 2250
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = catholic
+        size = 575
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = catholic
+        size = 2750
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = catholic
+        size = 3000
+    }
+
+    craftsmen = {
+        culture = staromadar
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = catholic
+        size = 55325
+    }
+
+    serfs = {
+        culture = hungarian
+        religion = catholic
+        size = 14525
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = catholic
+        size = 11800
+    }
+}
+#Szekesfehervar (364000/91000 POPS)
+643 = {
+    aristocrats = {
+        culture = staromadar
+        religion = catholic
+        size = 4100
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = catholic
+        size = 3000
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = catholic
+        size = 2250
+    }
+
+    craftsmen = {
+        culture = staromadar
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = catholic
+        size =  78277
+    }
+
+    serfs = {
+        culture = hungarian
+        religion = catholic
+        size = 19275
+    }
+
+    aristocrats = {
+        culture = austro_german
+        religion = protestant
+        size = 275
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = catholic
+        size = 13900
+    }
+}
+#Kaposvar (392000/98000 POPS)
+644 = {
+    aristocrats = {
+        culture = staromadar
+        religion = catholic
+        size = 3000
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = catholic
+        size = 3700
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = catholic
+        size = 71750
+    }
+
+    serfs = {
+        culture = hungarian
+        religion = catholic
+        size = 5125
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = catholic
+        size = 2525
+    }
+}
+#Kecskemet (108000/27000 POPS)
+645 = {
+    aristocrats = {
+        culture = staromadar
+        religion = catholic
+        size = 400
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = catholic
+        size = 3200
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = catholic
+        size = 19125
+    }
+
+    serfs = {
+        culture = hungarian
+        religion = catholic
+        size = 9550
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = catholic
+        size = 1800
+    }
+}
+#Felvidek Region (320000) #see Slovakia.txt and Ukraine.txt for balance of Region
+#under the rule of Austria in 1836
+#Miskolc (320000/80000 POPS) #Part of Hungary Today
+646 = {
+    aristocrats = {
+        culture = staromadar
+        religion = catholic
+        size = 1750
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = catholic
+        size = 425
+    }
+
+    bureaucrats = {
+        culture = staromadar
+        religion = catholic
+        size = 700
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = catholic
+        size = 3750
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = catholic
+        size = 450
+    }
+
+    craftsmen = {
+        culture = staromadar
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = catholic
+        size = 61525
+    }
+
+    serfs = {
+        culture = hungarian
+        religion = catholic
+        size = 42125
+    }
+}
+#Partium Region (1112000) #See Romania.txt for balance of region
+#under the rule of Austria in 1836
+#Debrecen (156000/39000 POPS)
+648 = {
+    aristocrats = {
+        culture = hungarian
+        religion = catholic
+        size = 675
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = catholic
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 3350
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 28725
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = protestant
+        size = 300
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 2500
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 125
+    }
+
+    serfs = {
+        culture = hungarian
+        religion = protestant
+        size = 14975
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = catholic
+        size = 3915
+    }
+}
+#Szeged (628000/157000 POPS)
+649 = {
+    aristocrats = {
+        culture = hungarian
+        religion = catholic
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = hungarian
+        religion = catholic
+        size = 600
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = catholic
+        size = 625
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 2500
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = catholic
+        size = 1100
+    }
+
+    serfs = {
+        culture = hungarian
+        religion = catholic
+        size = 54375
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = protestant
+        size = 2500
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 850
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 3900
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 900
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = protestant
+        size = 90850
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = catholic
+        size = 5375
+    }
+}
+#Bekescsab (328000/82000 POPS)
+650 = {
+    aristocrats = {
+        culture = hungarian
+        religion = catholic
+        size = 1100
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = catholic
+        size = 600
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 1900
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = catholic
+        size = 325
+    }
+
+    serfs = {
+        culture = hungarian
+        religion = catholic
+        size = 37375
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = protestant
+        size = 950
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 425
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 2250
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 450
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = protestant
+        size = 52925
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = catholic
+        size = 6675
+    }
+}

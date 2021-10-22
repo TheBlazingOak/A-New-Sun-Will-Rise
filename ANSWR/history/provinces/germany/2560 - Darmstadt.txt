@@ -1,0 +1,6 @@
+owner = RHI
+controller = RHI
+add_core = RHI
+add_core = OUD
+trade_goods = fruit
+life_rating = 39

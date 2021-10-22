@@ -1,0 +1,66 @@
+political_decisions = {
+
+	#Construction of the royal harbour in Kouderstad
+	royal_harbour_kouderstad = {
+		picture = city_plans
+		potential = {
+		tag = NET
+		has = 400
+		post_nelsonian_thought = 1
+		NOT = { has_country_flag = royal_harbour}
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			money = 300000
+			raider_group_doctrine = 1
+		}
+		effect = {
+			treasury = -300000
+			prestige = 15
+			400 = { add_province_modifier = { name = groot_kouderstad_harbour duration = -1 } }
+			set_country_flag = royal_harbour
+		}
+		ai_will_do = {
+		factor = 1
+		}
+	}
+	#Buy Nieuw-Kouderhagen From Quebec
+	the_nieuw_kouderhagen_purchase = {
+	picture = valparaiso_harbor
+		potential = {
+			tag = NET
+			NOT = {
+				has_country_flag = kouderhagen_purchase
+			}
+			nationalism_n_imperialism = 1			
+		}
+		
+		allow = {
+			OR = {
+				is_secondary_power = yes
+				is_greater_power = yes
+			}
+
+			war = no
+			QUE = { 
+				is_greater_power = no
+				OR = {
+					owns = 75
+					owns = 74
+					owns = 77			
+				}
+			}
+			money = 200000
+		}
+		
+		effect = {
+			set_country_flag = kouderhagen_purchase
+			QUE = { country_event = { id=52039 days=0 } }
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

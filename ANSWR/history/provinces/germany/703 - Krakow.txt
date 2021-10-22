@@ -1,0 +1,10 @@
+owner = BOH
+controller = BOH
+add_core = BOH
+trade_goods = coal
+life_rating = 39
+2861.1.1 = {
+    owner = AUS
+    controller = AUS
+}
+2861.1.1 = { railroad = 3 }

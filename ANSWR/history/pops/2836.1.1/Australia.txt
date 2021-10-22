@@ -1,0 +1,5015 @@
+#New South Wales Region 144000
+#Ruled by Britain 1836
+#Sydney (64000/16000 POPS)
+2468 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 6105
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 3282
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 656
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 3663
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 45788
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 9157
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 235350
+    }
+
+    craftsmen = {
+        culture = australian
+        religion = sydnic
+        size = 1526
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 393
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 200
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 2658
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 531
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 15183
+    }
+
+    craftsmen = {
+        culture = eyre
+        religion = sydnic
+        size = 98
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 65
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 31
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 418
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 83
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2530
+    }
+
+    craftsmen = {
+        culture = aborigine
+        religion = animist
+        size = 16
+    }
+
+}
+#Roti (24000/6000 POPS)
+1443 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 1240
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 25
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 10
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 349
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 2277
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 550
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 33625
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 6900
+    }
+}
+#Diego Garcia (700/175 POPS) #remains under British Rule
+2128 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 3240
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 250
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 100
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 1349
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 4277
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 1550
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 62325
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 900
+    }
+}
+#Tutuila (4000/1000 POPS)
+2544 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 1812
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 110
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 42
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 249
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1277
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 750
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 43899
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1900
+    }
+}
+#Newcastle (16000/4000 POPS)
+2469 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 812
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 410
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 82
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 649
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 3248
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 2111
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 73899
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 8
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 27
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 18
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 746
+    }
+
+}
+#Port Macquarie (12000/3000 POPS)
+2470 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 932
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 471
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 94
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 746
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 3730
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 2424
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 84869
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 9
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 6
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 33
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 22
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 857
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 9
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 6
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 32
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 857
+    }
+
+}
+#Eden (12000/3000 POPS)
+2472 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 822
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 162
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 75
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 258
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1290
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 1838
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 51364
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 3
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 2
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 11
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 7
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 296
+    }
+
+}
+#Wagga Wagga (12000/3000 POPS)
+2473 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 2113
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 1067
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 213
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 1267
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 15848
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 3169
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 81463
+    }
+
+    craftsmen = {
+        culture = australian
+        religion = sydnic
+        size = 528
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 21
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 136
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 27
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 822
+    }
+
+    craftsmen = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+}
+#uncolonized in 1836
+#Ophir - Bathurst (8000/2000 POPS)
+2471 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 637
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 321
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 64
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 509
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 2548
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 1656
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 57977
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 6
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 4
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 21
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 14
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 585
+    }
+
+}
+#Moree (8000/2000 POPS)
+2474 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 392
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 230
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 46
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 313
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1568
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 1019
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 35677
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 59
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 40
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 215
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 140
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 5456
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 9
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 31
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 839
+    }
+
+}
+#Broken Hill
+2475 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 331
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 276
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 55
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 265
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1325
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 861
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 30152
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 204
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 138
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 735
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 478
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 18594
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 16
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 56
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 36
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1507
+    }
+
+}
+#Victoria Region - 44000
+#uncolonized in 1836
+#Melbourne (12000/3000 POPS)
+2476 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 1229
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 647
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 129
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 983
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 4919
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 3197
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 111913
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 25
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 17
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 93
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 60
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 2356
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 38
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 24
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 132
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 85
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 3534
+    }
+
+}
+#Amiens (552000/138000 POPS)
+402 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 1250
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 1175
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 5000
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 5000
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1100
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 6000
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 89875
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 9075
+    }
+}
+#Warnambool (8000/2000 POPS)
+2477 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 262
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 141
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 28
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 209
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1049
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 682
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 23878
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 19
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 12
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 67
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 43
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1797
+    }
+
+}
+#Ballarat (8000/2000 POPS)
+2478 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 327
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 170
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 50
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 362
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 3310
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 1500
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 49807
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 6
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 34
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 22
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 931
+    }
+
+}
+#Sale
+2479 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 1299
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 151
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 30
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 239
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1750
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 778
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 47252
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 3
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 1
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 6
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 275
+    }
+
+}
+#Beechworth (4000/1000 POPS)
+2480 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 116
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 23
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 180
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 900
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 585
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 20491
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 6
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 4
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 23
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 633
+    }
+
+}
+#Swan Hill (4000/1000 POPS)
+2481 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 3630
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 2500
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 1100
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 2177
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 27225
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 5445
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 29936
+    }
+
+    craftsmen = {
+        culture = australian
+        religion = sydnic
+        size = 907
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 7150
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 3646
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 18262
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 9652
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 45632
+    }
+
+    craftsmen = {
+        culture = eyre
+        religion = sydnic
+        size = 1787
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 220
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 105
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 1402
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 280
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 3480
+    }
+
+    craftsmen = {
+        culture = aborigine
+        religion = animist
+        size = 55
+    }
+
+}
+#Tasmania Region (36000)
+#ruled by Britain 1836
+#Hobart (36000/9000 POPS)
+2482 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 210
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 106
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 21
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 168
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 843
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 548
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 19181
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 2
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 1
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 7
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 4
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 193
+    }
+
+}
+#Queensland Region : 64000
+#ruled by Britain 1836
+#2483 - Brisbane (12000/3000 POPS)
+2483 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 420
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 212
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 42
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 336
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1683
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 1094
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 38292
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 4
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 2
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 14
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 9
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 386
+    }
+
+}
+#Santa Cruz Islands (6000/1500 POPS)
+2536 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 325
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 10
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 144
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 851
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 310
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 14937
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 420
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 7200
+    }
+}
+
+#Pasir (64000/16000 POPS)
+1424 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 725
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 20
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 20
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 244
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1551
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 110
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 19937
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 120
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2000
+    }
+}
+#uncolonized in 1836
+#Gladstone (8000/2000 POPS)
+2484 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 2073
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 1047
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 209
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 1244
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 15551
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 3110
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 79937
+    }
+
+    craftsmen = {
+        culture = australian
+        religion = sydnic
+        size = 518
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 133
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 26
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 807
+    }
+}
+#Bonin (60/15 POPS)
+1654 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 100
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 112
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 844
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size =3628
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 1110
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 49959
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 200
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 333
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 126
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2807
+    }
+}
+#Marquesas (5000/1250 POPS)
+2551 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 50
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 25
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 250
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1750
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 825
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 36291
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2125
+    }
+}
+#Palmyra Atoll (60/15 POPS)
+2526 = {
+
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 900
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 120
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 85
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 650
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 3750
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 1425
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 51427
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 4125
+    }
+}
+#Clermont (4000/1000 POPS)
+2485 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 118
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 62
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 12
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 95
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 475
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 309
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 10827
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 6
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 4
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 21
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 13
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 569
+    }
+
+}
+#Toowoomba (8000/2000 POPS)
+2486 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 76
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 15
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 100
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 500
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 325
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 11379
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 27
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 17
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 93
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 60
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2497
+    }
+
+}
+
+#Townsville (8000/2000 POPS)
+2487 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 262
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 141
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 28
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 209
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1049
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 682
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 23878
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 19
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 12
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 67
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 43
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1797
+    }
+
+}
+#Cooktown (10000/2500 POPS)
+2488 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 4400
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 12200
+    }
+}
+#Longreach (4000/1000 POPS)
+2489 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 950
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 14200
+    }
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 9500
+    }
+}
+#Charleville (4000/1000 POPS)
+2490 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 900
+    }
+
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 50
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 225
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 30
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 500
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 250
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 15220
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 12220
+    }
+
+}
+#Normanton (6000/1500 POPS)
+2604 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 90
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1370
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 16420
+    }
+}
+#South Australia Region - 32000
+#uncolonized in 1836
+#Port Lincoln (4000/1000 POPS)
+2492 = {
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 30
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 50
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 5
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 8200
+    }
+
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 900
+    }
+}
+#Izhma (2000/500 POPS)
+2699 = {
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1345
+    }
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 30
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 500
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 150
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 13200
+    }
+}
+#Augusta
+#Port Augusta (4000/1000 POPS)
+2494 = {
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = eyre
+        religion = sydnic
+        size = 75
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 300
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 3000
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 49275
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 1000
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 750
+    }
+
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 1000
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 2500
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 32380
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 900
+    }
+}
+#Robe (4000/1000 POPS)
+2493 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 900
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 100
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 1000
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 19262
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 150
+    }
+
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 700
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 500
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 2380
+    }
+}
+#Adelaide (12000/3000 POPS)
+2491 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 20
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 125
+    }
+
+    officers = {
+        culture = australian
+        religion = sydnic
+        size = 30
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 500
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 250
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 18220
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 4500
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 75
+    }
+
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2900
+    }
+}
+#Zamora (176000/44000 POPS)
+2283 = {
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 2855
+    }
+
+    bureaucrats = {
+        culture = eyre
+        religion = sydnic
+        size = 155
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 750
+    }
+
+    officers = {
+        culture = eyre
+        religion = sydnic
+        size = 125
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 5000
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 2500
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 1250
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 58220
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 14500
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1900
+    }
+}
+#Northern Territory
+#Oodnadatta (4000/1000 POPS)
+2495 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2900
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 1740
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 1250
+    }
+}
+#Fromden (4000/1000 POPS)
+2496 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 900
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = eyre
+        religion = sydnic
+        size = 50
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 75
+    }
+
+    officers = {
+        culture = eyre
+        religion = sydnic
+        size = 100
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 1250
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 3000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 32940
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 9250
+    }
+
+}
+#Western Australia Region : 71000
+#ruled by Perth 2836
+#Perth (23000/5750 POPS)
+2497 = {
+    aristocrats = {
+        culture = perther
+        religion = sydnic
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = perther
+        religion = sydnic
+        size = 500
+    }
+
+    officers = {
+        culture = perther
+        religion = sydnic
+        size = 250
+    }
+
+    artisans = {
+        culture = perther
+        religion = sydnic
+        size = 3000
+    }
+
+    clergymen = {
+        culture = perther
+        religion = sydnic
+        size = 600
+    }
+
+    soldiers = {
+        culture = perther
+        religion = sydnic
+        size = 3000
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 167250
+    }
+}
+#Kojonup - Albany (12000/3000 POPS)
+2498 = {
+    aristocrats = {
+        culture = perther
+        religion = sydnic
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = perther
+        religion = sydnic
+        size = 30
+    }
+
+    officers = {
+        culture = perther
+        religion = sydnic
+        size = 50
+    }
+
+    artisans = {
+        culture = perther
+        religion = sydnic
+        size = 1000
+    }
+
+    clergymen = {
+        culture = perther
+        religion = sydnic
+        size = 50
+    }
+
+    soldiers = {
+        culture = perther
+        religion = sydnic
+        size = 400
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 40010
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2700
+    }
+
+}
+#Geraldton (8000/2000 POPS)
+2499 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1850
+    }
+
+    aristocrats = {
+        culture = perther
+        religion = sydnic
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = perther
+        religion = sydnic
+        size = 15
+    }
+
+    officers = {
+        culture = perther
+        religion = sydnic
+        size = 25
+    }
+
+    artisans = {
+        culture = perther
+        religion = sydnic
+        size = 1000
+    }
+
+    clergymen = {
+        culture = perther
+        religion = sydnic
+        size = 50
+    }
+
+    soldiers = {
+        culture = perther
+        religion = sydnic
+        size = 200
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 27050
+    }
+}
+#Kalgoorlie (4000/1000 POPS)
+2500 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 900
+    }
+
+    aristocrats = {
+        culture = perther
+        religion = sydnic
+        size = 700
+    }
+
+    bureaucrats = {
+        culture = perther
+        religion = sydnic
+        size = 50
+    }
+
+    officers = {
+        culture = perther
+        religion = sydnic
+        size = 70
+    }
+
+    artisans = {
+        culture = perther
+        religion = sydnic
+        size = 1200
+    }
+
+    clergymen = {
+        culture = perther
+        religion = sydnic
+        size = 70
+    }
+
+    soldiers = {
+        culture = perther
+        religion = sydnic
+        size = 500
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 29350
+    }
+    serfs = {
+        culture = perther
+        religion = sydnic
+        size = 12500
+    }
+}
+#Broome (8000/2000 POPS)
+2501 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1750
+    }
+
+    aristocrats = {
+        culture = perther
+        religion = sydnic
+        size = 2800
+    }
+
+    bureaucrats = {
+        culture = perther
+        religion = sydnic
+        size = 100
+    }
+
+    officers = {
+        culture = perther
+        religion = sydnic
+        size = 150
+    }
+
+    artisans = {
+        culture = perther
+        religion = sydnic
+        size = 3000
+    }
+
+    clergymen = {
+        culture = perther
+        religion = sydnic
+        size = 150
+    }
+
+    soldiers = {
+        culture = perther
+        religion = sydnic
+        size = 2500
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 69750
+    }
+    serfs = {
+        culture = perther
+        religion = sydnic
+        size = 21700
+    }
+}
+#Maldives (24000/6000 POPS) #now independent
+1325 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2750
+    }
+
+    aristocrats = {
+        culture = perther
+        religion = sydnic
+        size = 800
+    }
+
+    bureaucrats = {
+        culture = perther
+        religion = sydnic
+        size = 10
+    }
+
+    officers = {
+        culture = perther
+        religion = sydnic
+        size = 50
+    }
+
+    artisans = {
+        culture = perther
+        religion = sydnic
+        size = 300
+    }
+
+    clergymen = {
+        culture = perther
+        religion = sydnic
+        size = 150
+    }
+
+    soldiers = {
+        culture = perther
+        religion = sydnic
+        size = 500
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 15750
+    }
+    serfs = {
+        culture = perther
+        religion = sydnic
+        size = 6700
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 4750
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 11750
+    }
+
+    serfs = {
+        culture = eyre
+        religion = sydnic
+        size = 4700
+    }
+
+    serfs = {
+        culture = australian
+        religion = sydnic
+        size = 1700
+    }
+}
+#Eldtrad (2000/500 POPS)
+2502 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 450
+    }
+
+    aristocrats = {
+        culture = perther
+        religion = sydnic
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = perther
+        religion = sydnic
+        size = 30
+    }
+
+    officers = {
+        culture = perther
+        religion = sydnic
+        size = 50
+    }
+
+    artisans = {
+        culture = perther
+        religion = sydnic
+        size = 1000
+    }
+
+    clergymen = {
+        culture = perther
+        religion = sydnic
+        size = 50
+    }
+
+    soldiers = {
+        culture = perther
+        religion = sydnic
+        size = 1500
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 40010
+    }
+    slaves = {
+        culture = aborigine
+        religion = sydnic
+        size = 7500
+    }
+}
+#Laverton (2800/700 POPS)
+2503 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 3630
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 7010
+    }
+}
+#Esperia City (4000/1000 POPS)
+2504 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 900
+    }
+
+    aristocrats = {
+        culture = perther
+        religion = sydnic
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = perther
+        religion = sydnic
+        size = 130
+    }
+
+    officers = {
+        culture = perther
+        religion = sydnic
+        size = 50
+    }
+
+    artisans = {
+        culture = perther
+        religion = sydnic
+        size = 750
+    }
+
+    clergymen = {
+        culture = perther
+        religion = sydnic
+        size = 70
+    }
+
+    soldiers = {
+        culture = perther
+        religion = sydnic
+        size = 1500
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 44010
+    }
+    serfs = {
+        culture = perther
+        religion = sydnic
+        size = 12000
+    }
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 9010
+    }
+}
+#Halls Creek (2000/500 POPS)
+2601 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = perther
+        religion = sydnic
+        size = 10
+    }
+
+    officers = {
+        culture = perther
+        religion = sydnic
+        size = 10
+    }
+
+    artisans = {
+        culture = perther
+        religion = sydnic
+        size = 500
+    }
+
+    clergymen = {
+        culture = perther
+        religion = sydnic
+        size = 25
+    }
+
+    soldiers = {
+        culture = perther
+        religion = sydnic
+        size = 100
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 10010
+    }
+    slaves = {
+        culture = aborigine
+        religion = sydnic
+        size = 4525
+    }
+}
+#Roebourne (2000/500 POPS)
+2602 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 450
+    }
+    bureaucrats = {
+        culture = perther
+        religion = sydnic
+        size = 15
+    }
+
+    officers = {
+        culture = perther
+        religion = sydnic
+        size = 25
+    }
+
+    artisans = {
+        culture = perther
+        religion = sydnic
+        size = 750
+    }
+
+    clergymen = {
+        culture = perther
+        religion = sydnic
+        size = 50
+    }
+
+    soldiers = {
+        culture = perther
+        religion = sydnic
+        size = 250
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 14050
+    }
+    slaves = {
+        culture = aborigine
+        religion = sydnic
+        size = 5640
+    }
+}
+#Wiluna (3200/800 POPS)
+2605 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1725
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 1050
+    }
+}
+#Northern Australia Region (32000)
+#uncolonized in 1836
+#Palmerston - Port Essington (20000/5000 POPS)
+2505 = {
+    aristocrats = {
+        culture = perther
+        religion = sydnic
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = perther
+        religion = sydnic
+        size = 15
+    }
+
+    clergymen = {
+        culture = perther
+        religion = sydnic
+        size = 40
+    }
+
+    officers = {
+        culture = perther
+        religion = sydnic
+        size = 15
+    }
+
+    artisans = {
+        culture = perther
+        religion = sydnic
+        size = 300
+    }
+
+    soldiers = {
+        culture = perther
+        religion = sydnic
+        size = 250
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 14020
+    }
+
+    serfs = {
+        culture = perther
+        religion = sydnic
+        size = 3000
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 125
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 4500
+    }
+}
+#Tennant Creek (8000/2000 POPS)
+2506 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1750
+    }
+
+    clergymen = {
+        culture = perther
+        religion = sydnic
+        size = 40
+    }
+
+    aristocrats = {
+        culture = perther
+        religion = sydnic
+        size = 25
+    }
+
+    artisans = {
+        culture = perther
+        religion = sydnic
+        size = 100
+    }
+
+    soldiers = {
+        culture = perther
+        religion = sydnic
+        size = 150
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 9020
+    }
+
+    serfs = {
+        culture = perther
+        religion = sydnic
+        size = 2000
+    }
+}
+#Alice Springs (2800/700 POPS)
+2507 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1630
+    }
+
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 1020
+    }
+
+}
+#Lajamanu (1200/300 POPS)
+2603 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 30
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2275
+    }
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 2020
+    }
+
+}
+#Hugoton (1000/250 POPS)
+128 = {
+    bureaucrats = {
+        culture = australian
+        religion = sydnic
+        size = 50
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 175
+    }
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1200
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 1250
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 31000
+    }
+
+}
+#Wilmington (188000/47000 POPS)
+210 = {
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 600
+    }
+   clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 250
+    }
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 5200
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 1500
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 36000
+    }
+}
+#Trovenstray
+#Lille (620000/155000 POPS)
+399 = {
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 2600
+    }
+
+   clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 500
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 5200
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 3000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 72420
+    }
+}
+#Toulon (224000/56000 POPS)
+470 = {
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 500
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 250
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 6000
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 1000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 51950
+    }
+}
+847 = {
+    bureaucrats = {
+        culture = eyre
+        religion = sydnic
+        size = 100
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 1200
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 900
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 1570
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 1000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 42750
+    }
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 12125
+    }
+    farmers = {
+        culture = perther
+        religion = sydnic
+        size = 2750
+    }
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 3375
+    }
+}
+#Frejus (132000/33000 POPS)
+471 = {
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 300
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 150
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 1600
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 750
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 47250
+    }
+}
+#Bintulu (44000/11000 POPS)
+1395 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 250
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 125
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 250
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 125
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 24725
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 350
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 10375
+    }
+}
+#Svetlogorsk (2000/500 POPS)
+2657 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    artisans = {
+        culture = aborigine
+        religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 410
+    }
+
+    bureaucrats = {
+        culture = eyre
+        religion = sydnic
+        size = 30
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 125
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 18450
+    }
+
+    farmers = {
+        culture = australian
+        religion = sydnic
+        size = 7045
+    }
+}
+#Ranseyre Region
+#Ferrara (180000/45000 POPS)
+742 = {
+    bureaucrats = {
+        culture = eyre
+        religion = sydnic
+        size = 300
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = catholic
+        size = 1245
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = catholic
+        size = 725
+    }
+
+    artisans = {
+        culture = eyre
+        religion = catholic
+        size = 6500
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = catholic
+        size = 3050
+    }
+
+    farmers = {
+        culture = eyre
+        religion = catholic
+        size = 86575
+    }
+}
+#Tula (1160000/290000 POPS)
+1011 = {
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 900
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 575
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 2000
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 1500
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 1000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 29725
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2410
+    }
+
+}
+#Ellice Islands (2000/500 POPS)
+2541 = {
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 1900
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 875
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 5000
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 5000
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 3000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 69725
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1410
+    }
+}
+#Rhodes (32000/8000 POPS)
+846 = {
+    bureaucrats = { 
+        culture = eyre
+        religion = sydnic
+        size = 125
+    }
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 1200
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 1075
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 5000
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 2000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 52725
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 7410
+    }
+}
+#Jan Mayen, now St Barths
+3246 = {
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 1750
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 625
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 4500
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 500
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 32195
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2640
+    }
+}
+
+#Nowozer-Braze
+#Kular (1000/250 POPS)
+2652 = {
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 2750
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 1125
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 4500
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 4500
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 3000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 82195
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 5640
+    }
+}
+#Limassol (44000/11000 POPS)
+856 = {
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 750
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 125
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 4500
+    }
+
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 700
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 32195
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 5640
+    }
+}
+#Famagusta (44000/11000 POPS)
+857 = {
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 2750
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 1125
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 4500
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 4500
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 3000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 82195
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 5640
+    }
+
+}
+#Inta (3400/850 POPS)
+2688 = {
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 750
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 125
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 1500
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 1000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 18195
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2640
+    }
+}
+#Saskylah (1000/250 POPS)
+2653 = {
+
+    bureaucrats = {
+        culture = eyre
+        religion = sydnic
+        size = 150
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 2750
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 650
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 5000
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 3250
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 3000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 78225
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1375
+    }
+
+}
+#Kiritimati
+3249 = {
+    bureaucrats = {
+        culture = eyre
+        religion = sydnic
+        size = 25
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 2300
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 625
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 4250
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 3720
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 2500
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 62375
+    }
+
+}
+#Niue (2000/500 POPS)
+2548 = {
+    bureaucrats = {
+        culture = eyre
+        religion = sydnic
+        size = 50
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 3300
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 1225
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 6250
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 2000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 54625
+    }
+}
+#Saplaid Region
+#Saplaid (2400/600 POPS)
+60 = {
+    bureaucrats = {
+        culture = eyre
+        religion = sydnic
+        size = 300
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 4300
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 1225
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 5550
+    }
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 5550
+    }
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 1550
+    }
+
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 3000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 99375
+    }
+}
+#Gilbert Islands (14000/3250 POPS)
+2527 = {
+    bureaucrats = {
+        culture = eyre
+        religion = sydnic
+        size = 100
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 600
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 400
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 1250
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 970
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 500
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 28750
+    }
+
+}
+#Chaumont (256000/64000 POPS)
+407 = {
+
+    bureaucrats = {
+        culture = eyre
+        religion = sydnic
+        size = 100
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 3600
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 1400
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 4250
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 2570
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 6000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 112750
+    }
+}
+#Annecy (258400/64600 POPS)
+465 = {
+    bureaucrats = {
+        culture = eyre
+        religion = sydnic
+        size = 50
+    }
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 2600
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 800
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 2250
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 1550
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 2000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 82750
+    }
+}
+#Lifau
+2647 = {
+
+    aristocrats = {
+        culture = eyre
+        religion = sydnic
+        size = 600
+    }
+
+    clergymen = {
+        culture = eyre
+        religion = sydnic
+        size = 425
+    }
+
+    artisans = {
+        culture = eyre
+        religion = sydnic
+        size = 3526
+    }
+
+    soldiers = {
+        culture = eyre
+        religion = sydnic
+        size = 1000
+    }
+
+    farmers = {
+        culture = eyre
+        religion = sydnic
+        size = 52750
+    }
+}

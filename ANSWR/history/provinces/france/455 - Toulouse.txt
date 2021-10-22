@@ -1,0 +1,7 @@
+owner = OCC
+controller = OCC
+add_core = OCC
+add_core = FRE
+trade_goods = tobacco
+life_rating = 35
+2861.1.1 = { railroad = 2 }

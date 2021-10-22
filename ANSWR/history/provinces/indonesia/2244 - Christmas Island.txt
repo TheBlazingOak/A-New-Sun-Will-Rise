@@ -1,0 +1,10 @@
+owner = JAV
+controller = JAV
+add_core = JAV
+trade_goods = fish
+life_rating = 31
+terrain = coral_island
+2861.1.1 = {
+    owner = ENG
+    controller = ENG
+}

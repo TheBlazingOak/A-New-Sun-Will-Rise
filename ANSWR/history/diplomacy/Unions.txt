@@ -1,0 +1,105 @@
+#Holy Australian Empire - Fromden
+vassal = {
+    first = HAE
+    second = FRM
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - Wagga Wagga
+vassal = {
+    first = HAE
+    second = WAG
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - Augusta
+vassal = {
+    first = HAE
+    second = AUG
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - Newport
+vassal = {
+    first = HAE
+    second = PRI
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - Ranseyre
+vassal = {
+    first = HAE
+    second = RPL
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - Trovenstray
+vassal = {
+    first = HAE
+    second = TTB
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - UIL
+vassal = {
+    first = HAE
+    second = UIL
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - Coustre
+vassal = {
+    first = HAE
+    second = UNB
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - Undflaw
+vassal = {
+    first = HAE
+    second = UNM
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - Nowozer
+vassal = {
+    first = HAE
+    second = UOR
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - Chalevia
+vassal = {
+    first = HAE
+    second = FSA
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - Barze
+vassal = {
+    first = HAE
+    second = BLZ
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - Queensland
+vassal = {
+    first = HAE
+    second = VEN
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - Lost CoHAE
+vassal = {
+    first = HAE
+    second = TRE
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+#Holy Australian Empire - Levega
+vassal = {
+    first = HAE
+    second = ION
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}

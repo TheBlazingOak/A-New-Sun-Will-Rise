@@ -1,0 +1,11 @@
+owner = BDK
+controller = BDK
+add_core = AFG
+add_core = PNJ
+add_core = BDK
+trade_goods = silk
+life_rating = 32
+2861.1.1 = {
+    owner = KAS
+    controller = KAS
+}

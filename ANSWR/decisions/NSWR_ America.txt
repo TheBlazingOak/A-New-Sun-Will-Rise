@@ -1,0 +1,249 @@
+political_decisions = {
+
+	#USA/NWE/QUE Core for Maritime union
+	maritime_cores = {
+	picture = map_new_brunswick
+		potential = {
+			exists = MRU
+			primary_culture = yankee
+			OR = { primary_culture = french_canadian }
+			OR = { primary_culture = anglo_canadian }
+			}
+
+		allow = {
+			relation = { who = MRU value = 200 }
+			prestige = 25
+			}
+
+		effect = {
+			inherit = MRU
+			ENG_68 = { add_core = THIS }
+			}
+	}
+
+	#USA First Decision
+	dc_excavation = {
+		potential = {
+		is_culture_group = american_cultures
+		NOT = { has_country_modifier = quest_for_washington 
+			OR = { has_global_flag = quest_for_washington }
+			}
+		}
+
+		allow = {
+				prestige = 50
+				2146 = { owned_by = THIS }
+			OR = {
+				prestige = 65
+				2146 ={
+					owner = { in_sphere = THIS }
+					}
+				}
+			}
+
+		effect = {
+			prestige = 10
+			add_country_modifier = {
+			name = quest_for_washington
+			duration = 3650
+			}
+			set_global_flag = quest_for_washington
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	#Statue of Liberity start decision
+	the_statue = {
+		potential = {
+		    is_culture_group = american_cultures
+		    owns = 232 #New York
+		    NOT = { 
+		    	has_global_flag = statue_of_liberty_has_been_built
+		    		OR = { has_country_flag = statue_of_liberty_start }
+		    		OR = { has_country_flag = statue_liberty_fail }
+		    }
+		}
+
+		allow = {
+			owns = 232
+			nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			prestige = 10
+			set_country_flag = statue_of_liberty_start
+			}
+		ai_will_do = { factor = 1 }
+	}
+
+	#Build Statue of Liberity
+	construction_on_the_lady = {
+		potential = {
+		   	is_culture_group = american_cultures
+			owns = 232 #New York
+			has_country_flag = statue_plans_discovered
+				NOT = { has_global_flag = statue_of_liberty_has_been_built 
+				OR = { has_country_flag = statue_liberty_fail }
+				}
+			}
+
+		allow = {
+			owns = 232
+			has_country_flag = statue_plans_discovered
+			money = 500000
+			invention = martin_steel
+		}
+
+		effect = {
+			treasury = -500000
+			set_country_flag = statue_final_step 
+			}
+		ai_will_do = { factor = 1 }
+	}
+
+cascadia_alaska_core = {
+	picture = map_alaska
+		potential = {
+			tag = COL
+			any_owned_province = {
+			81 = { owned_by = COL}
+			728 = { owned_by = COL}
+			}
+			OR = {
+			AMA = { vassal_of = COL }
+			}
+			NOT = {
+				has_country_flag = alaska_conquest
+				}
+			}
+
+		allow = {
+			prestige = 15
+			war = no
+        }
+
+		effect = {
+            prestige = 5
+            1 = { add_core = THIS }
+			2 = { add_core = THIS }
+			4 = { add_core = THIS }
+			5 = { add_core = THIS }
+			set_country_flag = alaska_conquest
+        }
+        ai_will_do = { factor = 1 }    
+    }
+
+cascadia_amazona_core = {
+    	picture = USA_annex_california
+		potential = {
+			tag = COL
+			exists = AMA
+			NOT = {
+			has_country_flag = amazona_conquest
+				}
+			}
+
+		allow = {
+			prestige = 5
+			war = no
+        }
+
+		effect = {
+            prestige = 5
+            81 = { add_core = COL }
+			728 = { add_core = COL }
+			set_country_flag = amazona_conquest
+        }
+        ai_will_do = { factor = 1 }    
+    }
+cascadia_california_core = {
+    	picture = CAL_greater_california
+		potential = {
+			tag = COL
+			1 = { owned_by = COL }
+			2 = { owned_by = COL }
+			4 = { owned_by = COL }
+			5 = { owned_by = COL }
+			OR = {
+			LSK = { vassal_of = COL }
+			}
+			NOT = {
+				set_country_flag = california_conquest
+				}
+			}
+
+		allow = {
+			prestige = 35
+			war = no
+        }
+
+		effect = {
+            prestige = 5
+            MEX_85 = { add_core = COL }
+			LOS_89 = { add_core = COL }
+			MEX_100 = { add_core = COL}
+			set_country_flag = california_conquest
+        }
+        ai_will_do = { factor = 1 }    
+    }
+    
+transpacifica_unification = {
+		potential = {
+			is_culture_group = pacific_cultures
+            capital_scope = { continent = north_america }
+			NOT = {
+				exists = TRP
+			}
+		}
+
+		allow = {
+			prestige = 50
+			nationalism_n_imperialism = 1
+			war = no
+			all_core = {
+			MEX_85 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			LOS_89 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			100 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			102 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			1 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			2 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			4 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			5 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			USA_78 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			CAN_13 = { owned_by = THIS 
+			OR = { owned_by = { vassal_of = THIS } } }
+			}
+			NOT = {
+			has_country_flag = transpacific
+			}
+        }
+
+		effect = {
+            prestige = 25
+            all_core = { add_core = TRP }
+            all_core = { remove_core = COL }
+            all_core = { remove_core = LOS }
+            all_core = { remove_core = SFA }
+            all_core = { remove_core = CAL }
+            all_core = { remove_core = LSK }
+            all_core = { remove_core = AMA }
+            change_tag = TRP
+        add_accepted_culture = cascadian
+	    add_accepted_culture = alaskan
+	    add_accepted_culture = pacifica
+	    set_country_flag = transpacific
+        }
+        ai_will_do = { factor = 1 }    
+    }
+
+#End of political_decisions brackets	
+}

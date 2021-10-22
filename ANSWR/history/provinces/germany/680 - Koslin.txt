@@ -1,0 +1,8 @@
+owner = PZN
+controller = PZN
+add_core = PZN
+add_core = OUD
+#add_core = POL
+trade_goods = grain
+life_rating = 35
+2861.1.1 = { railroad = 3 }

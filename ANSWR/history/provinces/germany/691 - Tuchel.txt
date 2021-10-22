@@ -1,0 +1,7 @@
+owner = PZN
+controller = PZN
+add_core = PZN
+add_core = OUD
+trade_goods = cattle
+life_rating = 40
+2861.1.1 = { railroad = 3 }

@@ -1,0 +1,129 @@
+political_decisions = {
+
+    centralize_the_oudrijk = {
+        picture = central_oudrijk
+
+        potential = {
+            has_country_modifier = oudrijk_prince
+            NOT = { exists = OUD }
+        }
+
+        allow = {
+            is_greater_power = yes
+            prestige = 75
+            war = no
+                OUD = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                            in_sphere = THIS
+                        }
+                    }
+                }
+            }
+        }
+
+        effect = {
+            prestige = 25
+            change_tag = OUD
+            remove_country_modifier = oudrijk_prince
+            add_country_modifier = {
+                        name = oudrijk_kaizer
+                        duration = -1
+                }
+            add_accepted_culture = north_german
+            add_accepted_culture = south_german
+            add_accepted_culture = rhine_german
+            add_accepted_culture = austro_german
+            country_event = { id = 222000 days = 0 }
+        }
+        ai_will_do = {
+        factor = 1
+        }
+    }
+
+    alignment_in_the_oudrijk = {
+        potential = {
+        has_country_modifier = oudrijk_prince
+        NOT = { exists = OUD }
+        NOT = { tag = AUS }
+        NOT = { tag = BOH }
+        NOT = { has_country_flag = set_allegiance_oudrijk }
+        }
+
+        allow = {
+            prestige = 5
+            has_country_modifier = oudrijk_prince
+        }
+
+        effect = {
+        set_country_flag = set_allegiance_oudrijk
+        country_event = { id = 222004 days = 0 }
+        }
+        ai_will_do = {
+        factor = 1
+        }
+    }
+
+    alignment_in_the_oudrijk_BOH = {
+        potential = {
+        has_country_modifier = oudrijk_prince
+        has_country_modifier = oudrijk_allegiance_fernost
+        NOT = { exists = OUD }
+        NOT = { tag = AUS }
+        NOT = { tag = BOH }
+        NOT = { alliance_with = BOH }
+        }
+
+        allow = {
+            has_country_modifier = oudrijk_prince
+            relation = { who = AUS value = -50 }
+            OR = { in_sphere = BOH }
+            NOT = { has_country_flag = changed_allegiance_oudrijk }
+            NOT = { has_country_modifier = oudrijk_allegiance_cislavet }
+        }
+
+        effect = {
+        set_country_flag = changed_allegiance_oudrijk
+        set_country_modifier = oudrijk_allegiance_cislavet
+        remove_country_modifier = oudrijk_allegiance_fernost
+        BOH = { country_event = { id = 222006 days = 0 } }
+        prestige = -5
+        }
+        ai_will_do = {
+        factor = 1
+        }
+    }
+
+    #Reallign
+    alignment_in_the_oudrijk_AUS = {
+        potential = {
+        has_country_modifier = oudrijk_prince
+        has_country_modifier = oudrijk_allegiance_cislavet
+        NOT = { exists = OUD }
+        NOT = { tag = AUS }
+        NOT = { tag = BOH }
+        NOT = { alliance_with = AUS }
+        }
+
+        allow = {
+            has_country_modifier = oudrijk_prince
+            relation = { who = AUS value = -50 }
+            OR = { in_sphere = BOH }
+            NOT = { has_country_flag = changed_allegiance_oudrijk }
+            NOT = { has_country_modifier = oudrijk_allegiance_fernost }
+        }
+
+        effect = {
+        set_country_flag = changed_allegiance_oudrijk
+        set_country_modifier = oudrijk_allegiance_fernost
+        remove_country_modifier = oudrijk_allegiance_cislavet
+        AUS = { country_event = { id = 222005 days = 0 } }
+        prestige = -5
+        }
+        ai_will_do = {
+        factor = 1
+        }
+    }
+}

@@ -1,0 +1,29 @@
+owner = ALS
+controller = ALS
+add_core = ALS
+add_core = OUD
+trade_goods = cattle
+life_rating = 32
+#state_building = {
+#    level = 1
+#    building = fabric_factory
+#    upgrade = yes
+#}
+2861.1.1 = {
+    state_building = {
+        level = 1
+        building = steel_factory
+        upgrade = yes
+    }
+        state_building = {
+        level = 1
+        building = small_arms_factory
+        upgrade = yes
+    }
+        state_building = {
+        level = 1
+        building = liquor_distillery
+        upgrade = yes
+    }
+}
+2861.1.1 = { railroad = 3 }

@@ -1,0 +1,10 @@
+owner = OMS
+controller = OMS
+add_core = OMS
+trade_goods = sulphur
+life_rating = 40
+state_building = {
+    level = 2
+    building = steel_factory
+    upgrade = yes
+}
