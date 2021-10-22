@@ -1,9 +1,0 @@
-owner = ETH
-controller = ETH
-add_core = SUD
-trade_goods = grain
-life_rating = 35
-2861.1.1 = {
-    owner = EGY
-    controller = EGY
-}

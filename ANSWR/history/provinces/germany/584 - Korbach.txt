@@ -1,7 +1,0 @@
-owner = WES
-controller = WES
-add_core = WES
-add_core = OUD
-trade_goods = timber
-life_rating = 40
-2861.1.1 = { railroad = 3 }

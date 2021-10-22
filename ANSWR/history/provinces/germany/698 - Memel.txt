@@ -1,7 +1,0 @@
-owner = LIT
-controller = LIT
-add_core = PRU
-add_core = LIT
-trade_goods = fish
-life_rating = 40
-2861.1.1 = { railroad = 3 }
