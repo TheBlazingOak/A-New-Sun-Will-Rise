@@ -1,0 +1,163 @@
+#Sphere of Influence
+#GPs
+NET = { value = -5 }
+SWI = { value = 5 }
+UNS = { value = -25 }
+AUS = { value = -30 }
+BOH = { value = 15 }
+AST = { value = 0 }
+NEN = { value = 0 }
+#Minors Europe
+SAP = { value = 150 }
+NOD = { value = -200 }
+VLA = { value = 5 }
+
+leader = {
+    name = "Kaiden Lynch"
+    date = 2836.1.1
+    type = land
+    personality = active_p
+    background = rising_star
+    prestige = 0.1
+}
+
+leader = {
+    name = "Lucas Downie"
+    date = 2830.1.1
+    type = land
+    personality = aggressive
+    background = nationalist
+    prestige = 0.1
+}
+
+leader = {
+    name = "Aaron Russell"
+    date = 2830.1.1
+    type = sea
+    personality = polite
+    background = bureaucrat_speed
+    prestige = 0.15
+}
+
+army = {
+    name = "Scottish Royal Army"
+    location = 269
+    regiment = {
+        name= "1.1. Royal Infantry"
+        type = infantry
+        home = 269
+    }
+
+    regiment = {
+        name= "1.2. Royal Infantry"
+        type = infantry
+        home = 269
+    }
+
+    regiment = {
+        name= "1.3. Royal Infantry"
+        type = infantry
+        home = 271
+    }
+
+    regiment = {
+        name= "1.1. Royal Artillery"
+        type = artillery
+        home = 272
+    }
+
+    regiment = {
+        name= "1.2. Royal Artillery"
+        type = artillery
+        home = 270
+    }
+
+    regiment = {
+        name= "1.1. Royal Calvary"
+        type = hussar
+        home = 268
+    }
+}
+army = {
+    name = "I Colonial Army"
+    location = 1541
+    regiment = {
+        name= "1.1. Colonial Infantry"
+        type = infantry
+        home = 269
+    }
+
+    regiment = {
+        name= "1.2. Colonial Infantry"
+        type = infantry
+        home = 266
+    }
+
+    regiment = {
+        name= "1.1. Colonial Artillery"
+        type = artillery
+        home = 252
+    }
+
+    regiment = {
+        name= "1.1. Colonial Calvary"
+        type = hussar
+        home = 1541
+    }
+}
+navy = {
+    name = "I Colonial Navy"
+    location = 1541
+    ship = {
+        name= "Stirling"
+        type = frigate
+    }
+
+    ship = {
+        name= "Inverness"
+        type = frigate
+    }
+
+    ship = {
+        name= "Dundee"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Majesty"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Edinburgh"
+        type = clipper_transport
+    }
+}
+navy = {
+    name = "Royal Navy"
+    location = 271
+    ship = {
+        name= "Glasgow"
+        type = manowar
+    }
+
+    ship = {
+        name= "Inverness"
+        type = manowar
+    }
+
+    ship = {
+        name= "Aberdeen"
+        type = manowar
+    }
+
+    ship = {
+        name= "Ritchie"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Sutherland"
+        type = clipper_transport
+    }
+}

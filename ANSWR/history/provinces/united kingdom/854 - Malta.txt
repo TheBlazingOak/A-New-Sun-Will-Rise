@@ -1,0 +1,7 @@
+owner = APU
+controller = APU
+add_core = APU
+add_core = SYC
+trade_goods = fish
+life_rating = 35
+terrain = small_island

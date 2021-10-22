@@ -1,0 +1,7 @@
+owner = COW
+controller = COW
+add_core = COW
+add_core = CSA
+trade_goods = coal
+life_rating = 35
+terrain = montane_forest

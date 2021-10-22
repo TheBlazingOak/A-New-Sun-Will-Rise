@@ -1,0 +1,18 @@
+name = "War of November"
+
+2800.11.1 = {
+	add_attacker = UNS
+	add_defender = ANI
+	
+	war_goal = {
+        casus_belli = acquire_state
+        actor = UNS
+        receiver = ANI
+    }
+
+}
+
+2800.12.4 = {
+    rem_attacker = UNS
+    rem_defender = ANI
+}

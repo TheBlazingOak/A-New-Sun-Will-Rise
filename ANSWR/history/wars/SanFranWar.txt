@@ -1,0 +1,23 @@
+name = "San Franciscan War of Independence"
+
+2814.7.4 = {
+    add_attacker = CAL
+    add_defender = SFA
+
+    war_goal = {
+        casus_belli = annex_core_country
+        actor = CAL
+        receiver = CAL
+    }
+    war_goal = {
+        casus_belli = status_quo
+        actor = SFA
+        receiver = CAL
+    }
+
+}
+
+2822.1.3 = {
+    rem_attacker = CAL
+    rem_defender = SFA
+}

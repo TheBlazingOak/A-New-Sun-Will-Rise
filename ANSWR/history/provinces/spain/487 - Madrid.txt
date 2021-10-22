@@ -1,0 +1,16 @@
+owner = LIR
+controller = LIR
+add_core = LIR
+trade_goods = cattle
+life_rating = 31
+#state_building = {
+#    level = 1
+#    building = ammunition_factory
+#    upgrade = yes
+#}
+#state_building = {
+#    level = 1
+#    building = small_arms_factory
+#    upgrade = yes
+#}
+2861.1.1 = { railroad = 2 }

@@ -1,0 +1,30 @@
+owner = CHS
+controller = CHS
+add_core = CHS
+add_core = ENL
+trade_goods = fish
+life_rating = 40
+railroad = 1
+party_loyalty = {
+    ideology = conservative
+    loyalty_value = 20
+}
+party_loyalty = {
+    ideology = liberal
+    loyalty_value = 5
+}
+state_building = {
+    level = 3
+    building = fabric_factory
+    upgrade = yes
+}
+state_building = {
+    level = 2
+    building = regular_clothes_factory
+    upgrade = yes
+}
+naval_base = 2
+2861.1.1 = {
+    railroad = 3
+    naval_base = 2
+}

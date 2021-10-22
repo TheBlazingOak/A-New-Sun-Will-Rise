@@ -1,0 +1,14 @@
+army = {
+    name = "Oldtrad Defenders"
+    location = 2502
+    regiment = {
+        name= "I Oldtrad Defenders"
+        type = infantry
+        home = 2502
+    }
+    regiment = {
+        name= "I Oldtradar Artillery"
+        type = infantry
+        home = 2602
+    }
+}

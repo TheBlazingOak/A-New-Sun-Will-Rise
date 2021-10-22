@@ -1,0 +1,66 @@
+
+leader = {
+    name = "Reggie Sodola"
+    type = land
+    date="2836.1.1"
+    personality = cautious
+    background = elderly
+}
+
+leader = {
+    name = "Rechek Carver"
+    type = sea
+    date="2836.1.1"
+    personality = audacious
+    background = nationalist
+}
+
+
+army = {
+    name = "Army of Texas"
+    location = 133
+    regiment = {
+        name= "Travis' Command"
+        type = hussar
+        home = 133
+    }
+
+    regiment = {
+        name= "Fannin's Command"
+        type = infantry
+        home = 132
+    }
+
+    regiment = {
+        name = "Burleson's Command"
+        type = artillery
+        home = 137
+    }
+
+}
+
+navy = {
+    name = "Texan Navy"
+    location = 133
+
+    ship = {
+        name= "Invincible"
+        type = frigate
+    }
+
+    ship = {
+        name= "Brutus"
+        type = frigate
+    }
+
+    ship = {
+        name= "Independence"
+        type = frigate
+    }
+
+    ship = {
+        name= "Liberty"
+        type = frigate
+    }
+
+}

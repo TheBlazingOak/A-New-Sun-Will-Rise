@@ -1,0 +1,6 @@
+owner = COW
+controller = COW
+add_core = COW
+add_core = CSA
+trade_goods = grain
+life_rating = 35

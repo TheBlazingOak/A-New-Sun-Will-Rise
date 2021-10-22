@@ -1,0 +1,31 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "Setjer Nationals"
+location = 1194
+regiment = {
+name = "1. Setjer Division"
+type = irregular
+home = 1194
+}
+regiment = {
+name = "2. Setjer Division"
+type = irregular
+home = 1194
+}
+regiment = {
+name = "3. Setjer Division"
+type = irregular
+home = 1194
+}
+}
+
+
+#========================= S E A =========================
+
+
+
+#========================= END OF FILE =========================
+

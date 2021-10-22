@@ -1,0 +1,26 @@
+owner = DIX
+controller = DIX
+add_core = DIX
+add_core = CSA
+trade_goods = cotton
+life_rating = 35
+
+party_loyalty = {
+    ideology = conservative
+    loyalty_value = 5
+}
+party_loyalty = {
+    ideology = liberal
+    loyalty_value = 20
+}
+
+2861.1.1 = {
+    party_loyalty = {
+    ideology = conservative
+    loyalty_value = 10
+}
+    controller = CSA
+    owner = CSA
+    add_core = CSA
+}
+2861.1.1 = { railroad = 3 }

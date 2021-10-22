@@ -1,0 +1,19 @@
+owner = BSQ
+controller = BSQ
+add_core = BSQ
+trade_goods = fruit
+life_rating = 35
+
+2861.1.1 = {
+    state_building = {
+        level = 1
+        building = steamer_shipyard
+        upgrade = yes
+    }
+    state_building = {
+        level = 1
+        building = steel_factory
+        upgrade = yes
+    }
+}
+2861.1.1 = { railroad = 3 }

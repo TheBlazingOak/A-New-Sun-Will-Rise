@@ -1,0 +1,19 @@
+army = {
+    name = "I Auseyre Arms"
+    location = 724
+    regiment = {
+        name= "I Auseyre Infantry"
+        type = infantry
+        home = 724
+    }
+    regiment = {
+        name= "II Auseyre Infantry"
+        type = infantry
+        home = 1011
+    }
+    regiment = {
+        name= "III Auseyre Infantry"
+        type = infantry
+        home = 2541
+    }
+}

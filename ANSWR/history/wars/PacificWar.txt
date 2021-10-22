@@ -1,0 +1,18 @@
+name = "The Pacific War"
+
+2813.4.12 = {
+    add_attacker = LOS
+    add_defender = CAL
+
+    war_goal = {
+        casus_belli = acquire_state
+        actor = LOS
+        receiver = CAL
+    }
+
+}
+
+2815.3.17 = {
+    rem_attacker = LOS
+    rem_defender = CAL
+}

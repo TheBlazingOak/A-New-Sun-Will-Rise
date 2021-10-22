@@ -1,0 +1,6 @@
+owner = CLV
+controller = CLV
+add_core = CLV
+trade_goods = fish
+life_rating = 35
+2861.1.1 = { railroad = 3 }

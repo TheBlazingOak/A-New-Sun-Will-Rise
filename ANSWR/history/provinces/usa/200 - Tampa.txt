@@ -1,0 +1,6 @@
+owner = TAM
+controller = TAM
+add_core = TAM
+add_core = CSA
+trade_goods = fruit
+life_rating = 35

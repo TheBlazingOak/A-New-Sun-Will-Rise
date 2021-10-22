@@ -1,0 +1,19 @@
+name = "Red War Of Copenhagen"
+
+2814.4.17 = {
+    add_attacker = SCO
+    add_attacker = SAP
+    add_defender = NOD
+
+    war_goal = {
+        casus_belli = acquire_state
+        actor = SAP
+        receiver = NOD
+    }
+}
+
+2826.9.3 = {
+    rem_attacker = SCO
+    rem_attacker = SAP
+    rem_defender = NOD
+}

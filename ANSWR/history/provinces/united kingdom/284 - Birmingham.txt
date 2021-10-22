@@ -1,0 +1,14 @@
+owner = CHS
+controller = CHS
+add_core = CHS
+add_core = ENL
+trade_goods = coal
+life_rating = 35
+party_loyalty = {
+    ideology = liberal
+    loyalty_value = 15
+}
+party_loyalty = {
+    ideology = conservative
+    loyalty_value = 15
+}

@@ -1,0 +1,29 @@
+name = "Sardinia"
+
+2755.12.25 = {
+    add_attacker = SIC
+    add_defender = APU
+    add_defender = TUS
+
+    war_goal = {
+        casus_belli = acquire_state
+        actor = SIC
+        receiver = APU
+    }
+    war_goal = {
+        casus_belli = acquire_state
+        actor = APU
+        receiver = SIC
+    }
+    war_goal = {
+        casus_belli = acquire_state
+        actor = TUS
+        receiver = SIC
+    }
+}
+
+2756.5.6 = {
+    rem_attacker = SIC
+    rem_defender = APU
+    rem_defender = TUS
+}

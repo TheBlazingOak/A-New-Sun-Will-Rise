@@ -1,0 +1,30 @@
+name = "Vlanisch War of Independence"
+
+2719.3.1 = {
+	add_attacker = NET
+	add_defender = VLA
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = status_quo
+		actor = VLA
+		receiver = NET
+	}
+
+	war_goal = {
+		casus_belli = civil_war
+		actor = VLA
+		receiver = NET
+	}
+
+}
+
+2727.12.25 = {
+	rem_attacker = NET
+	rem_defender = AUS
+	rem_defender = VLA
+}

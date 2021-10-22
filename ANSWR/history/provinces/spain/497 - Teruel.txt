@@ -1,0 +1,7 @@
+owner = DMN
+controller = DMN
+add_core = DMN
+trade_goods = grain
+life_rating = 35
+
+2861.1.1 = { railroad = 3 }

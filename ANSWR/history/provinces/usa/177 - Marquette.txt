@@ -1,0 +1,10 @@
+owner = ANM
+controller = ANM
+add_core = ANM
+trade_goods = iron
+life_rating = 39
+
+party_loyalty = {
+    ideology = anarcho_liberal
+    loyalty_value = 50
+}

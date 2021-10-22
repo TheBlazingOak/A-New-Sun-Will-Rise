@@ -1,0 +1,25 @@
+owner = UNS
+controller = UNS
+add_core = UNS
+add_core = ENL
+trade_goods = grain
+life_rating = 39
+fort = 1
+state_building = {
+    level = 2
+    building = ammunition_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = small_arms_factory
+    upgrade = yes
+}
+state_building = {
+    level = 2
+    building = clipper_shipyard
+    upgrade = yes
+}
+
+
+

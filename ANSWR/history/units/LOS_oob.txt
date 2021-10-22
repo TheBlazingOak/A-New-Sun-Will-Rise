@@ -1,0 +1,88 @@
+CAL = {
+	value = -50
+}
+SFA = {
+	value = 100
+}
+AMA = {
+	value = -150
+}
+COL = {
+	value = 50
+}
+leader = {
+	name = "John López"
+    type = sea
+    date="2836.1.1"
+    personality = heroic
+    background = gifted_administrator
+}
+leader ={
+	name = "Alonso Forreste"
+    type = land
+    date="2836.1.1"
+    personality = soldierly
+    background = adventurer
+}
+
+army = {
+	name = "Gaurds of Los Angeles"
+	location = 89
+
+	regiment = {
+        name= "I Royal Gaurd"
+        type = infantry
+        home = 89
+    }
+
+    regiment = {
+        name= "II Royal Gaurd"
+        type = infantry
+        home = 89
+    }
+
+    regiment = {
+        name= "I Royal Cannon Division"
+        type = artillery
+        home = 87
+    }
+    regiment = {
+    	name = "II Royal Cannon Division"
+    	type = artillery
+    	home = 90
+    }
+    regiment = {
+    	name = "I Scouting Division"
+    	type = hussar
+    	home = 107
+    }
+}
+navy = {
+    name = "Royal Los Angeles Fleet"
+    location = 2184
+    ship = {
+        name= "Vencedor del Alamo"
+        type = frigate
+    }
+    ship = {
+        name= "Bravo"
+        type = frigate
+    }
+    ship = {
+        name= "SS Monterey"
+        type = frigate
+    }
+    ship = {
+        name= "SS Baja"
+        type = frigate
+    }
+    ship = {
+        name= "SS Lopez"
+        type = frigate
+    }
+    ship = {
+        name= "SS Johnson"
+        type = frigate
+    }
+
+}

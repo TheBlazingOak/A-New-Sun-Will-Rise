@@ -1,0 +1,324 @@
+
+ASH = {
+    value = 25        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+army = {
+    name = "Landwehr I"
+    location = 603
+
+    regiment = {
+        name= "1. Brigade"
+        type = infantry
+        home = 603
+    }
+
+    regiment = {
+        name= "2. Brigade"
+        type = infantry
+        home = 604
+    }
+
+    regiment = {
+        name= "3. Brigade"
+        type = infantry
+        home = 605
+    }
+
+    regiment = {
+        name= "4. Brigade"
+        type = infantry
+        home = 606
+    }
+
+    regiment = {
+        name= "I Artillery"
+        type = artillery
+        home = 603
+    }
+
+    regiment = {
+        name= "II Artillery"
+        type = artillery
+        home = 604
+    }
+
+    regiment = {
+        name= "III Artillery"
+        type = artillery
+        home = 605
+    }
+
+    regiment = {
+        name= "IV Artillery"
+        type = artillery
+        home = 606
+    }
+
+}
+army = {
+    name = "Landwehr II"
+    location = 607
+
+    regiment = {
+        name= "5. Brigade"
+        type = infantry
+        home = 607
+    }
+
+    regiment = {
+        name= "6. Brigade"
+        type = infantry
+        home = 2568
+    }
+
+    regiment = {
+        name= "7. Brigade"
+        type = infantry
+        home = 609
+    }
+
+    regiment = {
+        name= "8. Brigade"
+        type = infantry
+        home = 611
+    }
+
+    regiment = {
+        name= "I Artillery"
+        type = artillery
+        home = 433
+    }
+
+    regiment = {
+        name= "II Artillery"
+        type = artillery
+        home = 608
+    }
+
+    regiment = {
+        name= "III Artillery"
+        type = artillery
+        home = 609
+    }
+
+    regiment = {
+        name= "IV Artillery"
+        type = artillery
+        home = 606
+    }
+
+    regiment = {
+        name= "I Hussar"
+        type = hussar
+        home = 607
+    }
+
+}
+
+army = {
+    name = "Italienische Garde I"
+    location = 720
+    regiment = {
+        name= "1. Brigade"
+        type = infantry
+        home = 720
+    }
+
+    regiment = {
+        name= "2. Brigade"
+        type = infantry
+        home = 720
+    }
+
+    regiment = {
+        name= "3. Brigade"
+        type = infantry
+        home = 723
+    }
+
+    regiment = {
+        name= "I Artillery"
+        type = artillery
+        home = 724
+    }
+
+    regiment = {
+        name= "II Artillery"
+        type = artillery
+        home = 472
+    }
+
+    regiment = {
+        name= "I Hussar"
+        type = hussar
+        home = 825
+    }
+
+}
+army = {
+    name = "Italienische Garde II"
+    location = 726
+    regiment = {
+        name= "1. Brigade"
+        type = infantry
+        home = 726
+    }
+
+    regiment = {
+        name= "I Artillery"
+        type = artillery
+        home = 722
+    }
+
+    regiment = {
+        name= "II Artillery"
+        type = artillery
+        home = 721
+    }
+
+    regiment = {
+        name= "I Hussar"
+        type = hussar
+        home = 1981
+    }
+
+}
+army = {
+    name = "Schweizer I"
+    location = 605
+
+    regiment = {
+        name= "1. Schweizer"
+        type = guard
+        home = 611
+    }
+
+    regiment = {
+        name= "2. Schweizer"
+        type = guard
+        home = 2568
+    }
+
+    regiment = {
+        name= "1. Schweizer Hussar"
+        type = hussar
+        home = 604
+    }
+
+    regiment = {
+        name= "I Schweizer Artillery"
+        type = artillery
+        home = 605
+    }
+
+    regiment = {
+        name= "II Schweizer Artillery"
+        type = artillery
+        home = 605
+    }
+
+}
+navy = {
+    name = "Schweizer Flotte"
+    location = 433
+
+    ship = {
+        name= "Schweizer Juwel"
+        type = manowar
+    }
+
+    ship = {
+        name= "Milan"
+        type = frigate
+    }
+
+    ship = {
+        name= "Turin"
+        type = frigate
+    }
+
+    ship = {
+        name= "Geneve"
+        type = frigate
+    }
+
+    ship = {
+        name= "Bern"
+        type = frigate
+    }
+
+    ship = {
+        name= "Zurich"
+        type = clipper_transport
+    }
+}
+
+leader = {
+    name = "Benedicht Krist"
+    date = 2825.1.1
+    type = land
+    personality = defiant
+    background = aristocrat
+    prestige = 0.4
+}
+
+
+leader = {
+    name = "Albert de Kalbermatten"
+    date = 2815.1.1
+    type = land
+    personality = tactful
+    background = exranker
+    prestige = 0.2
+}
+
+leader = {
+    name = "Henri Dufour"
+    date = 2831.1.1
+    type = land
+    personality = intelligent
+    background = cartographer
+    prestige = 0.35
+}
+
+leader = {
+    name = "Leon Aegerter"
+    date = 2820.1.1
+    type = land
+    personality = coolminded
+    background = nationalist
+    prestige = 0.12
+}
+
+leader = {
+    name = "Fredo Ottiker"
+    date = 2836.1.1
+    type = sea
+    personality = sharp
+    background = incompetent
+    prestige = 0.05
+}
+
+leader = {
+    name = "Louis Huggler"
+    date = 2820.1.1
+    type = land
+    personality = deeply_religious
+    background = natural_born_leader
+    prestige = 0.07
+}
+
+NET = { value = -50 }
+AUS = { value = -125 }
+UNS = { value = 10 }
+NEN = { value = 25 }
+BOH = { value = 50 }
+AST = { value = 5 }
+BAV = {
+    value = -75
+    level = 2
+    influence_value = 0
+}

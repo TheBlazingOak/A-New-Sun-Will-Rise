@@ -1,0 +1,12 @@
+owner = CHS
+controller = CHS
+add_core = CHS
+add_core = ENL
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+party_loyalty = {
+    ideology = liberal
+    loyalty_value = 20
+}
+2861.1.1 = { railroad = 3 }

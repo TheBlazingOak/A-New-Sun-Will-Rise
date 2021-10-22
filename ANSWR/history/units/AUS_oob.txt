@@ -1,0 +1,297 @@
+#Sphere of Influence
+BRI = {
+    value = 50        #relation
+    level = 4        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+SAX = {
+    value = 10        #relation
+    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+WES = {
+    value = 5        #relation
+    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+WEI = {
+    value = 5        #relation
+    level = 2        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+BAV = {
+    value = 175        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+RHI = {
+    value = 175        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+ULM = {
+    value = 200        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 50
+}
+ALS = {
+    value = 5        #relation
+    level = 1        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 0
+}
+PZN = {
+    value = 25        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+MEC = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+BAD = {
+    value = 200        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+#Army
+
+army = {
+    name = "I. Armee"
+    location = 619
+    regiment = {
+        name= "1.1. Kavalleriedivision"
+        type = cuirassier
+        home = 619
+    }
+
+    regiment = {
+        name= "2.1. Kavalleriedivision"
+        type = hussar
+        home = 620
+    }
+
+    regiment = {
+        name= "3.1. Kavalleriedivision"
+        type = cuirassier
+        home = 623
+    }
+
+    regiment = {
+        name= "2.2. Infanteriedivision"
+        type = infantry
+        home = 624
+    }
+
+    regiment = {
+        name= "3.2. Infanteriedivision"
+        type = infantry
+        home = 621
+    }
+
+    regiment = {
+        name= "1.3. Infanteriedivision"
+        type = infantry
+        home = 618
+    }
+
+    regiment = {
+        name= "2.3. Infanteriedivision"
+        type = infantry
+        home = 616
+    }
+
+    regiment = {
+        name= "3.3. Infanteriedivision"
+        type = artillery
+        home = 622
+    }
+}
+
+army = {
+    name = "II. Armee"
+    location = 771
+    regiment = {
+        name= "1.6. Infanteriedivision"
+        type = infantry
+        home = 771
+    }
+
+    regiment = {
+        name= "2.6. Infanteriedivision"
+        type = infantry
+        home = 772
+    }
+
+    regiment = {
+        name= "3.6. Infanteriedivision"
+        type = infantry
+        home = 776
+    }
+
+    regiment = {
+        name= "1.7. Infanteriedivision"
+        type = infantry
+        home = 773
+    }
+
+    regiment = {
+        name= "2.7. Infanteriedivision"
+        type = infantry
+        home = 619
+    }
+
+    regiment = {
+        name= "3.7. Infanteriedivision"
+        type = infantry
+        home = 779
+    }
+
+}
+
+army = {
+    name = "III. Armee"
+    location = 616
+    regiment = {
+        name= "1.8. Infanteriedivision"
+        type = infantry
+        home = 616
+    }
+
+    regiment = {
+        name= "2.8. Infanteriedivision"
+        type = infantry
+        home = 616
+    }
+
+    regiment = {
+        name= "3.8. Infanteriedivision"
+        type = infantry
+        home = 619
+    }
+
+    regiment = {
+        name= "1.9. Infanteriedivision"
+        type = infantry
+        home = 619
+    }
+
+    regiment = {
+        name= "2.9. Infanteriedivision"
+        type = infantry
+        home = 617
+    }
+
+    regiment = {
+        name= "3.9. Infanteriedivision"
+        type = infantry
+        home = 623
+    }
+
+}
+
+army = {
+    name = "IV. Armee"
+    location = 734
+    regiment = {
+        name= "1.4. Infanteriedivision"
+        type = infantry
+        home = 612
+    }
+
+    regiment = {
+        name= "2.4. Infanteriedivision"
+        type = infantry
+        home = 613
+    }
+
+    regiment = {
+        name= "3.4. Infanteriedivision"
+        type = infantry
+        home = 735
+    }
+
+    regiment = {
+        name= "1.5. Infanteriedivision"
+        type = infantry
+        home = 734
+    }
+
+    regiment = {
+        name= "2.5. Infanteriedivision"
+        type = artillery
+        home = 733
+    }
+}
+
+navy = {
+    name = "Austrian Imperial Navy"
+    location = 732
+    ship = {
+        name= "1. Klipperflottille"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "2. Klipperflottille"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "3. Klipperflottille"
+        type = clipper_transport
+    }
+    ship = {
+        name= "1. Kriegsschiff"
+        type = manowar
+    }
+    ship = {
+        name= "2. Kriegsschiff"
+        type = manowar
+    }
+    ship = {
+        name= "3. Kriegsschiff"
+        type = manowar
+    }
+    ship = {
+        name= "1. Fregatte"
+        type = frigate
+    }
+}
+
+leader = {
+    name = "Andreas Amstutz"
+    date = 2821.1.1
+    type = land
+    personality = stout
+    background = elderly
+    prestige = 0.45
+}
+
+leader = {
+    name = "Niklas Au"
+    date = 2835.1.1
+    type = land
+    personality = aweless
+    background = natural_born_leader
+    prestige = 0.2
+}
+
+leader = {
+    name = "Stefan Hundertwasser"
+    date = 2833.1.1
+    type = land
+    personality = clever
+    background = nationalist
+    prestige = 0.05
+}
+
+leader = {
+    name = "Christoph Leitner"
+    date = 2836.1.1
+    type = sea
+    personality = defiant
+    background = cartographer
+    prestige = 0.2
+}

@@ -1,0 +1,207 @@
+#Sphere of Influence
+#GPs
+SWI = { value = -25 }
+UNS = { value = -25 }
+AUS = { value = -50 }
+BOH = { value = -50 }
+AST = { value = 0 }
+NET = { value = -25}
+#Minors Europe
+SCO = { value = 25 }
+NOD = { value = 50 }
+SAP = { value = -150 }
+army = {
+    name = "Tipsbyen Forste Klasse"
+    location = 2000
+    regiment = {
+        name= "I. Kompaniets Kavaleribrigade"
+        type = hussar
+        home = 2000
+    }
+
+    regiment = {
+        name= "I. Kompaniets Artilleribrigade"
+        type = artillery
+        home = 2000
+    }
+
+    regiment = {
+        name = "II. Kompaniets Artilleribrigade"
+        type = artillery
+        home = 2000
+    }
+
+    regiment = {
+        name = "I. Kompaniets Haerbrigade"
+        type = infantry
+        home = 1983
+    }
+
+    regiment = {
+        name = "II. Kompaniets Haerbrigade"
+        type = infantry
+        home = 1977
+    }
+
+    regiment = {
+        name = "III. Kompaniets Haerbrigade"
+        type = infantry
+        home = 1977
+    }
+
+    regiment = {
+        name = "IV. Kompaniets Haerbrigade"
+        type = infantry
+        home = 1978
+    }
+
+    regiment = {
+        name = "V. Kompaniets Haerbrigade"
+        type = infantry
+        home = 2624
+    }
+
+    regiment = {
+        name = "VI. Kompaniets Haerbrigade"
+        type = infantry
+        home = 1980
+    }
+}
+
+army = {
+    name = "Nordhaeren"
+    location = 1973
+    regiment = {
+        name= "I. Kompaniets Kavaleribrigade"
+        type = hussar
+        home = 1973
+    }
+
+    regiment = {
+        name= "I. Kompaniets Artilleribrigade"
+        type = artillery
+        home = 1974
+    }
+
+    regiment = {
+        name = "I. Kompaniets Haerbrigade"
+        type = infantry
+        home = 1992
+    }
+
+    regiment = {
+        name = "II. Kompaniets Haerbrigade"
+        type = infantry
+        home = 1975
+    }
+    
+    regiment = {
+        name = "III. Kompaniets Haerbrigade"
+        type = infantry
+        home = 1983
+    }
+}
+
+navy = {
+    name = "Norkhandelsmarinen"
+    location = 2000 #Tipsbyen
+    ship = {
+        name= "Baardsen"
+        type = manowar
+    }
+
+    ship = {
+        name= "Stig"
+        type = manowar
+    }
+
+    ship = {
+        name= "Graven"
+        type = frigate
+    }
+
+    ship = {
+        name= "Kaasa"
+        type = frigate
+    }
+
+    ship = {
+        name= "Nilssen"
+        type = frigate
+    }
+
+    ship = {
+        name= "Eivind"
+        type = frigate
+    }
+
+    ship = {
+        name= "Lied"
+        type = frigate
+    }
+
+    ship = {
+        name= "Schei"
+        type = frigate
+    }
+
+    ship = {
+        name= "Svenn"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Bendik"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Velten"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Robert"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Barstad"
+        type = clipper_transport
+    }
+}
+
+leader = {
+    name = "Helge Mjelde"
+    date = 2836.1.1
+    type = land
+    personality = diplomatic
+    background = eccentric_genius
+    prestige = 0.10
+}
+
+leader = {
+    name = "Dan Gudmundson"
+    date = 2836.1.1
+    type = land
+    personality = intuitive
+    background = colonial_b
+    prestige = 0.10
+}
+
+leader = {
+    name = "Ivar Hope"
+    date = 2830.1.1
+    type = sea
+    personality = hellbent
+    background = cartographer
+    prestige = 0.42
+}
+leader = {
+    name = "Marcus Bergum"
+    date = 2836.1.1
+    type = sea
+    personality = calm
+    background = aristocrat
+    prestige = 0.05
+}

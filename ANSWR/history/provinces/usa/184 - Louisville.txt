@@ -1,0 +1,6 @@
+owner = RSB
+controller = RSB
+add_core = RSB
+add_core = CSA
+trade_goods = tobacco
+life_rating = 35

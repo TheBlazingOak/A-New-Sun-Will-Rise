@@ -1,0 +1,5 @@
+owner = ION
+controller = ION
+add_core = ION
+trade_goods = grain
+life_rating = 35

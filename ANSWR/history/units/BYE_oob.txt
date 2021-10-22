@@ -1,0 +1,211 @@
+army = {
+    name = "1. Armija Adnaho"
+    location = 941
+
+    regiment = {
+        name= "1. Brigade"
+        type = infantry
+        home = 941
+    }
+
+    regiment = {
+        name= "2. Brigade"
+        type = infantry
+        home = 941
+    }
+
+    regiment = {
+        name= "3. Brigade"
+        type = infantry
+        home = 941
+    }
+
+    regiment = {
+        name= "4. Brigade"
+        type = infantry
+        home = 941
+    }
+
+    regiment = {
+        name= "I Artillery"
+        type = artillery
+        home = 941
+    }
+
+    regiment = {
+        name= "II Artillery"
+        type = artillery
+        home = 941
+    }
+
+}
+army = {
+    name = "2. Armija Adnaho"
+    location = 938
+
+    regiment = {
+        name= "5. Brigade"
+        type = infantry
+        home = 941
+    }
+
+    regiment = {
+        name= "6. Brigade"
+        type = infantry
+        home = 941
+    }
+
+    regiment = {
+        name= "7. Brigade"
+        type = infantry
+        home = 948
+    }
+
+    regiment = {
+        name= "8. Brigade"
+        type = infantry
+        home = 718
+    }
+
+    regiment = {
+        name= "I Artillery"
+        type = artillery
+        home = 718
+    }
+
+    regiment = {
+        name= "II Artillery"
+        type = artillery
+        home = 718
+    }
+
+    regiment = {
+        name= "I Hussar"
+        type = hussar
+        home = 942
+    }
+
+}
+
+army = {
+    name = "3. Armija Adnaho"
+    location = 940
+    regiment = {
+        name= "1. Brigade"
+        type = infantry
+        home = 940
+    }
+
+    regiment = {
+        name= "2. Brigade"
+        type = infantry
+        home = 940
+    }
+
+    regiment = {
+        name= "3. Brigade"
+        type = infantry
+        home = 939
+    }
+
+    regiment = {
+        name= "I Artillery"
+        type = artillery
+        home = 938
+    }
+
+}
+navy = {
+    name = "Jahoflot"
+    location = 948
+
+    ship = {
+        name= "Pinsk"
+        type = manowar
+    }
+
+    ship = {
+        name= "Baranovichi"
+        type = manowar
+    }
+
+    ship = {
+        name= "Lida"
+        type = frigate
+    }
+
+    ship = {
+        name= "Raskol"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Varyjaca"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Novialiki"
+        type = clipper_transport
+    }
+}
+
+leader = {
+    name = "Benedicht Krist"
+    date = 2825.1.1
+    type = land
+    personality = harsh
+    background = womanizer
+    prestige = 0.25
+}
+
+
+leader = {
+    name = "Zmitser Ulicionak"
+    date = 2815.1.1
+    type = land
+    personality = tactful
+    background = exranker
+    prestige = 0.25
+}
+
+leader = {
+    name = "Bagumil Biadula"
+    date = 2831.1.1
+    type = land
+    personality = merciless
+    background = diplomat
+    prestige = 0.20
+}
+
+leader = {
+    name = "Hleb Lyakh"
+    date = 2820.1.1
+    type = land
+    personality = deeply_religious
+    background = disgraced
+    prestige = 0.15
+}
+
+leader = {
+    name = "Symon Rusak"
+    date = 2836.1.1
+    type = sea
+    personality = pessimist
+    background = hated
+    prestige = 0.12
+}
+
+NET = { value = -50 }
+AUS = { value = -75 }
+UNS = { value = -10 }
+NEN = { value = -50 }
+BOH = { value = -50 }
+AST = { value = -50 }
+POL = { value = -25 }
+UKR = { value = -25 }
+LIT = { value = -75 }
+BRI = { value = -50 }
+PZN = { value = 15 }
+MOW = { value = 75 }
+EST = { value = -200 }

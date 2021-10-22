@@ -1,0 +1,9 @@
+owner = DAL
+controller = DAL
+add_core = DAL
+trade_goods = fish
+life_rating = 35
+2861.1.1 = {
+    railroad = 3
+    naval_base = 1
+}
