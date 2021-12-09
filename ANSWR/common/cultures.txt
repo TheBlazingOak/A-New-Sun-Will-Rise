@@ -108,7 +108,7 @@ beneluxian = {
     leader = european
     unit = EuropeanGC
     dutch = {
-        color = { 230 130 50}
+        color = { 163  104  8 }
         first_names = {
             Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
             Barthout

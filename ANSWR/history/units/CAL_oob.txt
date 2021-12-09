@@ -1,0 +1,39 @@
+LSK = { value = -150 }
+AMA = { value = -150 }
+ARI = { value = -200 }
+COL = { value = -150 }
+LOS = { value = -150 }
+DES = { value = -200 }
+
+army = {
+    name = "The Sactown Militiamen"
+    location = 84
+
+    regiment = {
+        name= "First Regiment of Sactown"
+        type = infantry
+        home = 84
+    }
+
+    regiment = {
+        name = "Second Regiment of Sactown"
+        type = infantry
+        home = 84
+    }
+
+    regiment = {
+        name = "Third Regiment of Sactown"
+        type = infantry
+        home = 84
+    }
+
+}
+
+leader = {
+    name = "Noel Guillen"
+    type = land
+    date = 2836.1.1
+    personality = harsh
+    background = artillerist
+    prestige = 0.15
+}
