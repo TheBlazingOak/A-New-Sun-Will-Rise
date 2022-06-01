@@ -1,11 +1,17 @@
-CAL = { value = -200 }
-SFA = { value = -200 }
-AMA = { value = -150 }
-COL = {	value = -200 }
-DES = { value = -200 }
-LSK = { value = -150 }
+CAL = {
+	value = -50
+}
+SFA = {
+	value = 100
+}
+AMA = {
+	value = -150
+}
+COL = {
+	value = 50
+}
 leader = {
-	name = "John Lopez"
+	name = "John López"
     type = sea
     date="2836.1.1"
     personality = heroic
@@ -53,7 +59,7 @@ army = {
 }
 navy = {
     name = "Royal Los Angeles Fleet"
-    location = 89
+    location = 2184
     ship = {
         name= "Vencedor del Alamo"
         type = frigate

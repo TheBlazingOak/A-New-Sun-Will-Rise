@@ -683,6 +683,70 @@
         size = 2750
     }
 }
+#Nuevo Leon-Tamaulipas Region (172000)
+#ruled by Mexico 1836
+#Reynosa (16000/4000 POPS)
+2148 = {
+    aristocrats = {
+        culture = pueblo
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = pueblo
+        religion = animist
+        size = 36
+    }
+
+    artisans = {
+        culture = pueblo
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = pueblo
+        religion = animist
+        size = 12
+    }
+
+    farmers = {
+        culture = pueblo
+        religion = animist
+        size = 1000
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 12
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 12
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 850
+    }
+}
 #Matamoros (28000/7000 POPS)
 2149 = {
     aristocrats = {

@@ -833,6 +833,38 @@
 }
 #Corrientes Region (164000)
 #Under rule of Argentina 1836
+#Porlamar (16000/4000 POPS)
+2357 = {
+    aristocrats = {
+        culture = antillean
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = antillean
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = antillean
+        religion = catholic
+        size = 2500
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1825
+    }
+}
 #Santo Tomas (28000/7000 POPS)
 2358 = {
     clergymen = {
@@ -1101,32 +1133,6 @@
         culture = platinean
         religion = catholic
         size = 3900
-    }
-}
-#Cayman Islands : (1200/300 POPS) #still a antillean Colony
-2218 = {
-    aristocrats = {
-        culture = platinean
-        religion = catholic
-        size = 500
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = catholic
-        size = 750
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 125
-    }
-
-    farmers = {
-        culture = platinean
-        religion = catholic
-        size = 13900
     }
 }
 #Under loose authority of Paraguay 1836

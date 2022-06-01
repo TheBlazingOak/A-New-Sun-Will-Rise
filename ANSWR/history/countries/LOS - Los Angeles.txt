@@ -51,7 +51,6 @@ upper_house = {
 }
 
 set_country_flag = new_world_nation
-set_country_flag = los_angeles_core
 
 oob = "LOS_oob.txt"
 

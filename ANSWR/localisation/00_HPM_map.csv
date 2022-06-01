@@ -258,6 +258,8 @@ PROV2632;Kwangchowan;;;;;;;;;;;;x
 PROV1495;Maoming;;;;;;;;;;;;x
 PROV1644;Meakan;;;;;;;;;;;;x
 PROV1443;Rote;;;;;;;;;;;;x
+PROV2224;Antigua & Barbuda;;;;;;;;;;;;x
+PROV2220;Turks & Caicos;;;;;;;;;;;;x
 CHI_1082;Guanwai;;;;;;;;;;;;x
 PROV2591;Tranquebar;;;;;;;;;;;;x
 PROV2625;North West River;;;;;;;;;;;;x
@@ -382,8 +384,8 @@ PROV1028;Vyatka;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV1019;Voronezh;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV3246;Saint Barths;;;;;;;;;;;;;;;;;;;;x;
 PROV82;Grande Ronde;;;;;;;;;;;;;;;;;;;;x;
-PROV81;Portland;;;;;;;;;;;;;;;;;;;;x;
-PROV83;Fort Markus;;;;;;;;;;;;;;;;;;;;x;
+PROV81;Pertend;;;;;;;;;;;;;;;;;;;;x;
+PROV83;Fort Umpqua;;;;;;;;;;;;;;;;;;;;x;
 PROV78;Seattle;;;;;;;;;;;;;;;;;;;;x;
 PROV2101;Thaba Nchu;;;;;;;;;;;;;;;;;;;;x;
 PROV2102;Qwa-Qwa;;;;;;;;;;;;;;;;;;;;x;
@@ -398,7 +400,7 @@ PROV2112;Emnambithi;;;;;;;;;;;;;;;;;;;;x;
 ORA_2103;Basutoland;;;;;;;;;;;;;;;;;;;;x;
 ZUL_2113;Zululand;;;;;;;;;;;;;;;;;;;;x;
 PROV1152;Jeddah;;;;;;;;;;;;x
-CAN_13;Cascadia Major;;;;;;;;;;;;x
+CAN_13;Columbia;;;;;;;;;;;;x
 PROV13;Grand Vancouver;;;;;;;;;;;;x
 PROV17;Stikine;;;;;;;;;;;;x
 CAN_19;New Caledonia;;;;;;;;;;;;x
@@ -583,7 +585,7 @@ MEX_2172;México;;;;;;;;;;;;x
 MEX_2181;Chiapas;;;;;;;;;;;;x
 PROV220;Annapolis;;;;;;;;;;;;x
 PROV981;Arkhangelsk;;;;;;;;;;;;x
-PROV1;New Juneau;;;;;;;;;;;;x
+PROV1;New Arkhangelsk;;;;;;;;;;;;x
 PROV2;Saint Dionysius;;;;;;;;;;;;x
 PROV3;Kasilof;;;;;;;;;;;;x
 PROV4;Paul's Harbor;;;;;;;;;;;;x
@@ -1238,18 +1240,3 @@ CHI_1600;Urumqui;;;;;;;;;;;;x
 CHI_1601;Yunnan;;;;;;;;;;;;x
 CHI_1604;Shen;;;;;;;;;;;;x
 CHI_1610;Wuying;;;;;;;;;;;;x
-MEX_85;Old Sac;;;;;;;;;;;;x
-CAL_85;Sonoma;;;;;;;;;;;;x
-LOS_90;Lower Pacifica;;;;;;;;;;;;x
-PROV97;New Jerusalem;;;;;;;;;;;;x
-PROV368;Belchior;;;;;;;;;;;;x
-PROV376;Iago Point;;;;;;;;;;;;x
-PROV385;Vieira;;;;;;;;;;;;x
-PROV2234;Cavalcanti;;;;;;;;;;;;x
-PROV2220;Cássio's Edge;;;;;;;;;;;;x
-PROV2232;Chagas;;;;;;;;;;;;x
-PROV2402;Carvalho;;;;;;;;;;;;x
-PROV2224;Borges;;;;;;;;;;;;x
-PROV2235;Paiva City;;;;;;;;;;;;x
-PROV1954;Prestes;;;;;;;;;;;;x
-PROV2238;Barbaro;;;;;;;;;;;;x

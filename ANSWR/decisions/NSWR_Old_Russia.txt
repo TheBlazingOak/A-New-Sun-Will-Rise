@@ -5,15 +5,12 @@ political_decisions = {
 		potential = {
 			tag = MOW
 			OR = {
-				AND = { 
-						primary_culture = russian 
-						NOT = { exists = MOW }
-						}
+				primary_culture = russian
+				NOT = { exists = MOW }
 					}
 			NOT = {
-				any_owned_province = { region = RUS_1020 }
-				any_owned_province = { region = RUS_1037 }
-				has_global_flag = colonized_old_russia
+				RUS_1020 = { owned_by = THIS }
+				RUS_1037 = { owned_by = THIS }
 				}
 			}
 
@@ -25,12 +22,10 @@ political_decisions = {
 			}
 
 		effect = {
-		prestige = 5
 		RUS_1020 = { secede_province = THIS }
 		RUS_1020 = { add_core = THIS }
 		RUS_1037 = { secede_province = THIS }
 		RUS_1037 = { add_core = THIS }
-		set_global_flag = colonized_old_russia
 			}
 		ai_will_do = {
 		factor = 1

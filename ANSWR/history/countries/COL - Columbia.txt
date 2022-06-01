@@ -50,7 +50,7 @@ upper_house = {
 }
 
 set_country_flag = new_world_nation
-set_country_flag = cascadia_core
+
 
 # Technologies
 post_napoleonic_thought = 1
@@ -79,5 +79,3 @@ hot_blast = 1
 basic_chemistry = 1
 fire_control_systems = 1
 naval_professionalism = 1
-
-oob = "COL_oob.txt"

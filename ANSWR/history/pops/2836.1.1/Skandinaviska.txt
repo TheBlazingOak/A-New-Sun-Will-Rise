@@ -88,6 +88,42 @@
         size = 14500
     }
 }
+#Ribe (148000/37000 POPS)
+#1k moved to 2557
+#10k moved to 2557
+368 = {
+    aristocrats = {
+        culture = flanish
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 23400
+    }
+
+}
+
 # Esbjerg (Pops moved from Aalborg)
 2557 = {
     artisans = {
