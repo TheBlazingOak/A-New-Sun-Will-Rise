@@ -1,0 +1,33 @@
+LSK = { value = -150 }
+AMA = { value = -150 }
+ARI = { value = -200 }
+CAL = { value = -150 }
+LOS = { value = -150 }
+DES = { value = -200 }
+
+army = {
+    name = "The Royal Vancouver Army"
+    location = 13
+
+    regiment = {
+        name= "First Royal Vancouver Infantry"
+        type = infantry
+        home = 13
+    }
+
+    regiment = {
+        name = "First Royal Vancouver Artillery"
+        type = artillery
+        home = 13
+    }
+
+}
+
+leader = {
+    name = "James S. Partroy"
+    type = land
+    date = 2836.1.1
+    personality = persistant
+    background = uncommonly_young
+    prestige = 0.25
+}

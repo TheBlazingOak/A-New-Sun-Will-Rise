@@ -462,6 +462,47 @@
         size = 12500
     }
 }
+#Saguenay (4000/1000 POPS)
+45 = {
+
+   aristocrats = {
+        culture = french_canadian
+        religion = catholic
+        size = 250
+    }
+
+    officers = {
+        culture = french_canadian
+        religion = catholic
+        size = 125
+    }
+
+    clergymen = {
+        culture = french_canadian
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = french_canadian
+        religion = catholic
+        size = 1125
+    }
+
+    artisans = {
+        culture = french_canadian
+        religion = catholic
+        size = 555
+    }
+
+    farmers = {
+        culture = french_canadian
+        religion = catholic
+        size = 15500
+    }
+
+}
+
 #Sherbrooke (68000/17000 POPS)
 66 = {
     clergymen = {

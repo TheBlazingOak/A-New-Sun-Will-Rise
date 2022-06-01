@@ -78,37 +78,36 @@
     }
 }
 #Utah Region (16000)
-#"ruled" by Mexico 1836/de facto under Native Control
-#Salt Lake City (8000/2000 POPS)
+#New Jerusalem (8000/2000 POPS)
 97 = {
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 2500
+        size = 4500
     }
 
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 50
+        size = 500
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 1000
+        size = 4000
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 1250
+        size = 15250
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 33820
+        size = 93820
     }
 }
 #Loa (4000/1000 POPS)
@@ -116,7 +115,7 @@
     aristocrats = {
         culture = mormon
         religion = mormon
-        size = 100
+        size = 1000
     }
 
     clergymen = {
@@ -128,13 +127,13 @@
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 150
+        size = 3000
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 8000
+        size = 24000
     }
 }
 #Moab (4000/1000 POPS)
@@ -194,45 +193,83 @@
     farmers = {
         culture = deisui
         religion = protestant
-        size = 2900
+        size = 5900
+    }
+
+    farmers = {
+        culture = texan
+        religion = protestant
+        size = 1500
     }
 }
 #Las Cruces (4000/1000 POPS)
 105 = {
     aristocrats = {
-        culture = mexican
+        culture = deisui
         religion = catholic
-        size = 10
+        size = 100
     }
 
     clergymen = {
-        culture = mexican
+        culture = deisui
         religion = catholic
-        size = 25
+        size = 250
     }
 
     soldiers = {
-        culture = mexican
+        culture = deisui
         religion = catholic
-        size = 15
+        size = 150
     }
 
     farmers = {
-        culture = mexican
+        culture = deisui
         religion = catholic
-        size = 850
+        size = 2850
     }
 
     farmers = {
-        culture = pacifica
+        culture = texan
         religion = protestant
-        size = 450
+        size = 4500
     }
 
     farmers = {
         culture = deisui
         religion = protestant
-        size = 1750
+        size = 3750
+    }
+}
+#Reynosa (16000/4000 POPS)
+2148 = {
+    aristocrats = {
+        culture = deisui
+        religion = catholic
+        size = 400
+    }
+
+    clergymen = {
+        culture = deisui
+        religion = catholic
+        size = 650
+    }
+
+    soldiers = {
+        culture = deisui
+        religion = catholic
+        size = 550
+    }
+
+    farmers = {
+        culture = deisui
+        religion = catholic
+        size = 6125
+    }
+
+    farmers = {
+        culture = texan
+        religion = protestant
+        size = 500
     }
 }
 #Colorado Region (20000)
@@ -7310,7 +7347,7 @@
 2662 = {
 
     clergymen = {
-        culture = mexican
+        culture = deisui
         religion = catholic
         size = 25
     }
@@ -7322,14 +7359,20 @@
     }
 
     soldiers = {
-        culture = mexican
-        religion = catholic
+        culture = deisui
+        religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = mexican
-        religion = catholic
+        culture = mormon
+        religion = mormon
+        size = 650
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
         size = 650
     }
 
