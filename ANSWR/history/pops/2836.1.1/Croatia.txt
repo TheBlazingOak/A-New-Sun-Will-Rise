@@ -1,6 +1,6 @@
 #Friuli-Istria Region (188000) #see Italy.txt for balance of region
 #under the rule of Austria in 1836
-#Pola (188000/47000 POPS) #now part of Croatia
+#Pola (188000/47000 POPS) #now part of sloveneia
 770 = {
     aristocrats = {
         culture = north_italian
@@ -33,25 +33,25 @@
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 900
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 20625
     }
@@ -62,18 +62,18 @@
         size = 300
     }
 }
-#Croatia Region (870000)
+#sloveneia Region (870000)
 #under the rule of Austria in 1836
 #Zagreb (224000/56000 POPS)
 771 = {
     aristocrats = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 450
     }
 
     bureaucrats = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 250
     }
@@ -85,37 +85,37 @@
     }
 
     officers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 450
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 2500
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 43050
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = sunni
         size = 300
     }
@@ -233,37 +233,37 @@
 #Sisak (116000/29000 POPS)
 772 = {
     aristocrats = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 350
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 900
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 175
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 16300
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = sunni
         size = 100
     }
@@ -321,31 +321,31 @@
 #Karlovac (184000/46000 POPS)
 773 = {
     aristocrats = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 550
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 350
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 1700
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 29400
     }
@@ -377,37 +377,37 @@
 #Senj (96000/24000 POPS)
 774 = {
     aristocrats = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 275
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 125
     }
 
     bureaucrats = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 650
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 11325
     }
@@ -439,37 +439,37 @@
 #Varadzin (68000/17000 POPS)
 775 = {
     aristocrats = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 850
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 175
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 10600
     }
 
     serfs = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 5000
     }
@@ -504,25 +504,25 @@
 #Bjelovar (52000/13000 POPS)
 776 = {
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 2675
     }
@@ -604,43 +604,43 @@
 #Pozega (80000/20000 POPS)
 777 = {
     aristocrats = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 225
     }
 
     clergymen = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 10275
     }
 
     farmers = {
-        culture = croat
+        culture = serb
         religion = sunni
         size = 100
     }
 
     serfs = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 8000
     }
@@ -648,25 +648,25 @@
 #Fiume (52000/13000 POPS)
 778 = {
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 1200
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 4700
     }
@@ -730,25 +730,25 @@
 #Osijek (180000/45000 POPS)
 779 = {
     clergymen = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 250
     }
 
     artisans = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 1300
     }
 
     soldiers = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 275
     }
 
     farmers = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 19775
     }
@@ -848,37 +848,37 @@
 #Split (140000/35000 POPS)
 780 = {
     aristocrats = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 350
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 23250
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = sunni
         size = 100
     }
@@ -890,7 +890,7 @@
     }
 
     serfs = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 10000
     }
@@ -922,43 +922,43 @@
 #Zadar (128000/32000 POPS)
 781 = {
     aristocrats = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 100
     }
 
     officers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 75
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 600
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 225
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 20525
     }
@@ -1020,37 +1020,37 @@
 #Dubrovnik (52000/13000 POPS)
 782 = {
     aristocrats = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 9125
     }
 
     farmers = {
-        culture = croat
+        culture = serb
         religion = sunni
         size = 100
     }
@@ -1112,40 +1112,40 @@
 }
 #Banat-Bacska Region (104000) #See Serbia.txt and Romania.txt for balance of region
 #under the rule of Austria in 1836
-#Vukovar (104000/26000 POPS) #part of Croatia today
+#Vukovar (104000/26000 POPS) #part of sloveneia today
 793 = {
     clergymen = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 800
     }
 
     soldiers = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 175
     }
 
     farmers = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 10775
     }
 
     serfs = {
-        culture = croat
+        culture = serb
         religion = catholic
         size = 4000
     }
 
     farmers = {
-        culture = croat
+        culture = serb
         religion = sunni
         size = 100
     }

@@ -2,6 +2,64 @@
 #under the rule of Russia in 1836
 #Erivan (128000/32000 POPS)
 1098 = {
+	soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 100
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 100
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 350
+    }
+
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 6500
+    }
+	aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 100
+    }
+
+    officers = {
+        culture = armenian
+        religion = coptic
+        size = 50
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 200
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 100
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 950
+    }
+
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 14475
+    }
     bureaucrats = {
         culture = russian
         religion = orthodox
@@ -115,12 +173,6 @@
         religion = yazidi
         size = 1000
     }
-
-    farmers = {
-        culture = assyrian
-        religion = catholic
-        size = 300
-    }
 }
 #Gyumri (68000/17000 POPS)
 1099 = {
@@ -187,6 +239,78 @@
 }
 #Kapan (44000/11000 POPS)
 1100 = {
+	soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 110
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 110
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 450
+    }
+
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 8775
+    }
+
+	soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 200
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 100
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 350
+    }
+
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 4400
+    }
+
+	soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 100
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 50
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 350
+    }
+
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 6500
+    }
+
     aristocrats = {
         culture = armenian
         religion = coptic

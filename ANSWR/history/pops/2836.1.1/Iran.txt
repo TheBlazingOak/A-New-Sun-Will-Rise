@@ -251,12 +251,6 @@
         size = 11925
     }
 
-    farmers = {
-        culture = assyrian
-        religion = catholic
-        size = 1000
-    }
-
     slaves = {
         culture = armenian
         religion = coptic
@@ -383,12 +377,6 @@
         culture = kurdish
         religion = sunni
         size = 6425
-    }
-
-    farmers = {
-        culture = assyrian
-        religion = catholic
-        size = 1000
     }
 }
 #Mahabad (200000/50000 POPS)
@@ -1654,31 +1642,31 @@
     }
 
     aristocrats = {
-        culture = persian
+        culture = mashriqi
         religion = shiite
         size = 100
     }
 
     clergymen = {
-        culture = persian
+        culture = mashriqi
         religion = shiite
         size = 50
     }
 
     artisans = {
-        culture = persian
+        culture = mashriqi
         religion = shiite
         size = 300
     }
 
     soldiers = {
-        culture = persian
+        culture = mashriqi
         religion = shiite
         size = 75
     }
 
     farmers = {
-        culture = persian
+        culture = mashriqi
         religion = shiite
         size = 5475
     }

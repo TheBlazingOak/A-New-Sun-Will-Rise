@@ -3,80 +3,80 @@
 #Petrich (192000/48000 POPS) #now part of Bulgaria
 808 = {
     aristocrats = {
-        culture = turkish
-        religion = sunni
+        culture = bulgarian
+        religion = orthodox
         size = 1100
     }
 
     soldiers = {
-        culture = turkish
-        religion = sunni
+        culture = bulgarian
+        religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = turkish
-        religion = sunni
+        culture = bulgarian
+        religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = turkish
-        religion = sunni
+        culture = bulgarian
+        religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = turkish
-        religion = sunni
+        culture = bulgarian
+        religion = orthodox
         size = 10600
     }
 
     soldiers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = croat
+        religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = bulgarian
-        religion = orthodox
+        culture = croat
+        religion = catholic
         size = 625
     }
 
     artisans = {
-        culture = bulgarian
-        religion = orthodox
+        culture = croat
+        religion = catholic
         size = 900
     }
 
     farmers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = croat
+        religion = catholic
         size = 28075
     }
 
     soldiers = {
-        culture = bulgarian
-        religion = sunni
+        culture = croat
+        religion = catholic
         size = 300
     }
 
     clergymen = {
-        culture = bulgarian
-        religion = sunni
+        culture = croat
+        religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = bulgarian
-        religion = sunni
+        culture = croat
+        religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = croat
+        religion = catholic
         size = 4100
     }
 
@@ -784,44 +784,44 @@
 #Plovdiv (120000/30000 POPS)
 815 = {
     aristocrats = {
-        culture = turkish
-        religion = sunni
+        culture = bulgarian
+        religion = orthodox
         size = 800
     }
 
     bureaucrats = {
-        culture = turkish
-        religion = sunni
+        culture = bulgarian
+        religion = orthodox
         size = 550
     }
 
     officers = {
-        culture = turkish
-        religion = sunni
+        culture = bulgarian
+        religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = turkish
-        religion = sunni
+        culture = bulgarian
+        religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = turkish
-        religion = sunni
+        culture = bulgarian
+        religion = orthodox
         size = 1100
     }
 
     soldiers = {
-        culture = turkish
-        religion = sunni
+        culture = bulgarian
+        religion = orthodox
         size = 275
     }
 
     farmers = {
-        culture = turkish
-        religion = sunni
+        culture = bulgarian
+        religion = orthodox
         size = 6425
     }
 
@@ -850,44 +850,44 @@
     }
 
     farmers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = croat
+        religion = catholic
         size = 33475
     }
 
     aristocrats = {
         culture = bulgarian
-        religion = sunni
+        religion = orthodox
         size = 300
     }
 
     officers = {
         culture = bulgarian
-        religion = sunni
+        religion = orthodox
         size = 100
     }
 
     clergymen = {
         culture = bulgarian
-        religion = sunni
+        religion = orthodox
         size = 300
     }
 
     artisans = {
         culture = bulgarian
-        religion = sunni
+        religion = orthodox
         size = 200
     }
 
     soldiers = {
         culture = bulgarian
-        religion = sunni
+        religion = orthodox
         size = 300
     }
 
     farmers = {
         culture = bulgarian
-        religion = sunni
+        religion = orthodox
         size = 9700
     }
 

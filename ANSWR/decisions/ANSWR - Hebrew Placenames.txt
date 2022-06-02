@@ -1,0 +1,25 @@
+political_decisions = {
+	the_sinai_settlements = {
+		potential = {
+			tag = ISR
+			NOT = { has_country_flag = sinai_renamed }
+		}
+		
+		allow = {
+			NOT = { war = yes }
+			owns = 921
+			owns = 922
+			owns = 1757
+			money = 20000
+		}
+		
+		effect = { 
+			prestige = 5
+			921 = { change_province_name = "Be'er Sheva" }
+			922 = { change_province_name = "Elath" }
+			1757 = { change_province_name = "Ofira" }
+			set_country_flag = sinai_renamed
+			money = -20000
+		}
+	}
+}

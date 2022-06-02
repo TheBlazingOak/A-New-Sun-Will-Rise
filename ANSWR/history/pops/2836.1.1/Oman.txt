@@ -459,6 +459,23 @@
 
 #Gwadar - Ziryanka (1000/250 POPS)
 2640 = {
+	clergymen = {
+        culture = assyrian
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = assyrian
+        religion = catholic
+        size = 1600
+    }
+
+    farmers = {
+        culture = assyrian
+        religion = catholic
+        size = 15000
+    }
     aristocrats = {
         culture = bedouin
         religion = ibadi
@@ -490,7 +507,7 @@
     }
 
     farmers = {
-        culture = baluchi
+        culture = bedouin
         religion = sunni
         size = 600
     }
@@ -502,7 +519,7 @@
     }
 
     farmers = {
-        culture = baluchi
+        culture = bedouin
         religion = shiite
         size = 450
     }
