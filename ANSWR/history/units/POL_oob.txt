@@ -1,0 +1,195 @@
+#Sphere of Influence
+#GPs
+SWI = { value = -125 }
+UNS = { value = -75 }
+AUS = { value = -75 }
+BOH = { value = -75 }
+AST = { value = 0 }
+NET = { value = 25 }
+
+army = {
+    name = "Wojsko of Warsaw"
+    location = 706
+    regiment = {
+        name= "I. Dywizja Huzarów"
+        type = hussar
+        home = 706
+    }
+
+    regiment = {
+        name= "I. Brygada Artylerii"
+        type = artillery
+        home = 706
+    }
+
+    regiment = {
+        name = "II. Brygada Artylerii"
+        type = artillery
+        home = 937
+    }
+
+    regiment = {
+        name = "I. Brygada Piechota"
+        type = infantry
+        home = 707
+    }
+
+    regiment = {
+        name = "II. Brygada Piechota"
+        type = infantry
+        home = 706
+    }
+
+    regiment = {
+        name = "III. Brygada Piechota"
+        type = infantry
+        home = 708
+    }
+
+    regiment = {
+        name = "IV. Brygada Piechota"
+        type = infantry
+        home = 709
+    }
+
+    regiment = {
+        name = "V. Brygada Piechota"
+        type = infantry
+        home = 710
+    }
+
+    regiment = {
+        name = "VI. Brygada Piechota"
+        type = infantry
+        home = 711
+    }
+
+    regiment = {
+        name = "VII. Brygada Piechota"
+        type = infantry
+        home = 705
+    }
+}
+
+army = {
+    name = "Polacy Armia Ochotnicza"
+    location = 705 #Przemysl
+    regiment = {
+        name= "Brygada Prestiżu"
+        type = infantry
+        home = 705
+    }
+
+    regiment = {
+        name= "I. Dywizja Ochotnicza"
+        type = irregular
+        home = 705
+    }
+
+    regiment = {
+        name= "II. Dywizja Ochotnicza"
+        type = irregular
+        home = 705
+    }
+
+    regiment = {
+        name= "III. Dywizja Ochotnicza"
+        type = irregular
+        home = 705
+    }
+
+    regiment = {
+        name= "IV. Dywizja Ochotnicza"
+        type = irregular
+        home = 705
+    }
+}
+
+army = {
+    name = "Krainakrólów Armia"
+    location = 695 #Krainakrólów
+    regiment = {
+        name= "I. Brygada Krainakrólów"
+        type = infantry
+        home = 695
+    }
+    regiment = {
+        name= "II. Brygada Krainakrólów"
+        type = infantry
+        home = 695
+    }
+    regiment = {
+        name= "III. Brygada Krainakrólów"
+        type = infantry
+        home = 695
+    }
+}
+
+navy = {
+    name = "Polacy Flota"
+    location = 695 #Krainakrólów
+    ship = {
+        name= "Nizińsk"
+        type = manowar
+    }
+
+    ship = {
+        name= "Bujak"
+        type = frigate
+    }
+
+    ship = {
+        name= "I. Transport Eskader"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "II. Transport Eskader"
+        type = clipper_transport
+    }
+}
+
+leader = {
+    name = "Fabian Sobiech"
+    date = 2836.1.1
+    type = land
+    personality = cautious
+    background = drillmaster
+    prestige = 0.75
+}
+
+leader = {
+    name = "Artur Grech"
+    date = 2836.1.1
+    type = land
+    personality = mediocre
+    background = nationalist
+    prestige = 0.2
+}
+
+leader = {
+    name = "Brunon Badowski"
+    date = 2836.1.1
+    type = land
+    personality = active_p
+    background = butcher
+    prestige = 0.05
+}
+
+leader = {
+    name = "Wiktor Major"
+    date = 2836.1.1
+    type = sea
+    personality = balanced_p
+    background = poet
+    prestige = 0.15
+}
+
+leader = {
+    name = "Mariusz Gulan"
+    date = 2836.1.1
+    type = sea
+    personality = brutish
+    background = natural_born_leader 
+    prestige = 0.05
+}

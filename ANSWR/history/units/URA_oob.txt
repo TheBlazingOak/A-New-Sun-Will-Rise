@@ -1,0 +1,127 @@
+#Sphere of Influence
+#GPs
+SWI = { value = -200 }
+UNS = { value = -200 }
+AUS = { value = -200 }
+BOH = { value = -200 }
+AST = { value = -200 }
+NET = { value = -200 }
+
+army = {
+    name = "Krilograd Narodnaya Armiya"
+    location = 394
+
+    regiment = {
+        name= "I. Narodnaya Artilleriya"
+        type = artillery
+        home = 394
+    }
+
+    regiment = {
+        name = "I. Narodnaya Brigada"
+        type = infantry
+        home = 394
+    }
+
+    regiment = {
+        name = "II. Narodnaya Brigada"
+        type = infantry
+        home = 2656
+    }
+
+    regiment = {
+        name = "III. Narodnaya Brigada"
+        type = infantry
+        home = 1070
+    }
+
+    regiment = {
+        name = "IV. Narodnaya Brigada"
+        type = infantry
+        home = 2692
+    }
+
+    regiment = {
+        name = "V. Narodnaya Brigada"
+        type = infantry
+        home = 1063
+    }
+
+    regiment = {
+        name = "VI. Brygada Piechota"
+        type = infantry
+        home = 2690
+    }
+
+    regiment = {
+        name = "VII. Brygada Piechota"
+        type = infantry
+        home = 2646
+    }
+    regiment = {
+        name = "VIII. Brygada Piechota"
+        type = infantry
+        home = 2701
+    }
+    regiment = {
+        name = "IX. Brygada Piechota"
+        type = infantry
+        home = 576
+    }
+}
+
+army = {
+    name = "Khardi Armiya"
+    location = 2674 #Przemysl
+    regiment = {
+        name = "I. Brygada Piechota"
+        type = infantry
+        home = 2615
+    }
+    regiment = {
+        name = "II. Brygada Piechota"
+        type = infantry
+        home = 2659
+    }
+    regiment = {
+        name = "III. Brygada Piechota"
+        type = infantry
+        home = 1077
+    }
+}
+
+leader = {
+    name = "Filippov Petrovich"
+    date = 2836.1.1
+    type = land
+    personality = strange
+    background = school_of_the_bayonet
+    prestige = 0.25
+}
+
+leader = {
+    name = "Roshchin Demian"
+    date = 2836.1.1
+    type = land
+    personality = perverse
+    background = womanizer
+    prestige = 0.2
+}
+
+leader = {
+    name = "Avilov Taras"
+    date = 2836.1.1
+    type = land
+    personality = au_fait
+    background = yesman
+    prestige = 0.05
+}
+
+leader = {
+    name = "Khrushchyov Luchok"
+    date = 2836.1.1
+    type = sea
+    personality = wretched
+    background = corrupt
+    prestige = 0.05
+}

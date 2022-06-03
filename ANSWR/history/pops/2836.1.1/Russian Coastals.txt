@@ -1,0 +1,516 @@
+##Peterburgh (Civilized Martime Republic)##
+#Saint Petersburg (735000/147000 POPS)
+994 = {
+    aristocrats = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 5650
+    }
+
+    bureaucrats = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 1750
+    }
+
+    officers = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 760
+    }
+
+    clergymen = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 2600
+    }
+
+    artisans = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 10000
+    }
+
+    artisans = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 10000
+    }
+
+    artisans = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 10000
+    }
+
+	artisans = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 10000
+    }
+
+	artisans = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 10000
+    }
+
+    artisans = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 10000
+    }
+
+    artisans = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 8750
+    }
+
+    soldiers = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 9000
+    }
+
+    farmers = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 64700
+    }
+
+    clergymen = {
+        culture = finnish
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = finnish
+        religion = protestant
+        size = 8000
+    }
+
+    farmers = {
+        culture = finnish
+        religion = protestant
+        size = 14000
+    }
+}
+#Luga (132000/33000 POPS)
+996 = {
+    aristocrats = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 200
+    }
+
+    clergymen = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 125
+    }
+
+    artisans = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 10250
+    }
+
+    soldiers = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 3200
+    }
+
+    farmers = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 42325
+    }
+
+}
+#Gdov (120000/30000 POPS)
+997 = {
+    aristocrats = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 475
+    }
+
+    clergymen = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 275
+    }
+
+    artisans = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 10400
+    }
+
+    soldiers = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 3400
+    }
+
+    farmers = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 46800
+    }
+}
+#Stara Ladoga (64000/16000 POPS)
+2580 = {
+    aristocrats = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 200
+    }
+
+    clergymen = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 125
+    }
+
+    artisans = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 650
+    }
+
+    soldiers = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 1100
+    }
+
+    farmers = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 25200
+    }
+}
+#Onega Island (192000/12000 POPS)
+2715 = {
+
+	aristocrats = {
+        culture = tesredinikh
+        religion = veravburyu
+        size = 600
+    }
+
+    clergymen = {
+        culture = tesredinikh
+        religion = orthodox
+        size = 1250
+    }
+
+    artisans = {
+        culture = tesredinikh
+        religion = orthodox
+        size = 2500
+    }
+
+    soldiers = {
+        culture = tesredinikh
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = tesredinikh
+        religion = orthodox
+        size = 6700
+    }
+    farmers = {
+        culture = finnish
+        religion = orthodox
+        size = 8000
+    }
+}
+##Nabereza (Uncivilized Absolute Monarchy)##
+#Petrozavorsk (104000/26000 POPS)
+995 = {
+    aristocrats = {
+        culture = russian
+        religion = veravburyu
+        size = 2500
+    }
+
+    clergymen = {
+        culture = russian
+        religion = veravburyu
+        size = 1850
+    }
+
+    artisans = {
+        culture = russian
+        religion = veravburyu
+        size = 9300
+    }
+
+    soldiers = {
+        culture = russian
+        religion = veravburyu
+        size = 10875
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 38475
+    }
+
+    serfs = {
+        culture = russian
+        religion = veravburyu
+        size = 80000
+    }
+}
+
+#Povyents (28000/7000 POPS)
+988 = {
+    aristocrats = {
+        culture = russian
+        religion = veravburyu
+        size = 500
+    }
+
+    clergymen = {
+        culture = russian
+        religion = veravburyu
+        size = 450
+    }
+
+    artisans = {
+        culture = russian
+        religion = veravburyu
+        size = 7100
+    }
+
+    soldiers = {
+        culture = russian
+        religion = veravburyu
+        size = 6000
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 14710
+    }
+
+    serfs = {
+        culture = russian
+        religion = veravburyu
+        size = 30000
+    }
+
+}
+#Tikhvin (156000/44000 POPS)
+1004 = {
+    aristocrats = {
+        culture = russian
+        religion = veravburyu
+        size = 3050
+    }
+
+    clergymen = {
+        culture = russian
+        religion = veravburyu
+        size = 1825
+    }
+
+    artisans = {
+        culture = russian
+        religion = veravburyu
+        size = 8100
+    }
+
+    soldiers = {
+        culture = russian
+        religion = veravburyu
+        size = 3425
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 32400
+    }
+    serfs = {
+        culture = russian
+        religion = veravburyu
+        size = 60000
+    }
+}
+#Borovichi (344000/86000 POPS)
+1005 = {
+    aristocrats = {
+        culture = russian
+        religion = veravburyu
+        size = 900
+    }
+
+    clergymen = {
+        culture = russian
+        religion = veravburyu
+        size = 600
+    }
+
+    artisans = {
+        culture = russian
+        religion = veravburyu
+        size = 3200
+    }
+
+    soldiers = {
+        culture = russian
+        religion = veravburyu
+        size = 3075
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 42000
+    }
+
+    serfs = {
+        culture = russian
+        religion = veravburyu
+        size = 42125
+    }
+}
+## Zelenvody (Uncivilized Absolute Monarchy) ##
+#Velikiye Luki (320000/80000 POPS)
+1007 = {
+    aristocrats = {
+        culture = russian
+        religion = veravburyu
+        size = 3525
+    }
+
+    clergymen = {
+        culture = russian
+        religion = veravburyu
+        size = 1800
+    }
+
+    artisans = {
+        culture = russian
+        religion = veravburyu
+        size = 12000
+    }
+
+    soldiers = {
+        culture = russian
+        religion = veravburyu
+        size = 6000
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 52875
+    }
+
+    serfs = {
+        culture = russian
+        religion = veravburyu
+        size = 70000
+    }
+
+}
+#Novgorod (240000/60000 POPS)
+1003 = {
+    aristocrats = {
+        culture = russian
+        religion = veravburyu
+        size = 7100
+    }
+
+    bureaucrats = {
+        culture = russian
+        religion = veravburyu
+        size = 575
+    }
+
+    officers = {
+        culture = russian
+        religion = veravburyu
+        size = 400
+    }
+
+    clergymen = {
+        culture = russian
+        religion = veravburyu
+        size = 600
+    }
+
+    artisans = {
+        culture = russian
+        religion = veravburyu
+        size = 3000
+    }
+
+    soldiers = {
+        culture = russian
+        religion = veravburyu
+        size = 1000
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 60925
+    }
+
+    serfs = {
+        culture = russian
+        religion = veravburyu
+        size = 50000
+    }
+}
+#Borodino (572000/143000 POPS)
+1009 = {
+    aristocrats = {
+        culture = russian
+        religion = veravburyu
+        size = 2500
+    }
+
+    clergymen = {
+        culture = russian
+        religion = veravburyu
+        size = 1400
+    }
+
+    artisans = {
+        culture = russian
+        religion = veravburyu
+        size = 9150
+    }
+
+    soldiers = {
+        culture = russian
+        religion = veravburyu
+        size = 3450
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 15500
+    }
+
+    serfs = {
+        culture = russian
+        religion = veravburyu
+        size = 70000
+    }
+}

@@ -1,0 +1,687 @@
+#Lithuania Region (1272000)
+#under the rule of Russia in 1836
+#Vilnius (168000/42000 POPS)
+360 = {
+    aristocrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 3500
+    }
+    aristocrats = {
+        culture = osti
+        religion = prosperity
+        size = 500
+    }
+
+    officers = {
+        culture = paltijan
+        religion = prosperity
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 1000
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 2500
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 9500
+    }
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 9500
+    }
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 9500
+    }
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 3500
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 6000
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 62460
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = prosperity
+        size = 225
+    }
+
+    officers = {
+        culture = polish
+        religion = prosperity
+        size = 250
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 3750
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 14325
+    }
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 19675
+    }
+}
+#Kaunas (204000/51000 POPS)
+361 = {
+    aristocrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 950
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 400
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 1150
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 2100
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 76500
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 250
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 150
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 100
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 4550
+    }
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 6550
+    }
+}
+#Marjampole (240000/60000 POPS)
+362 = {
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 250
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 1500
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 2250
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 53100
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = prosperity
+        size = 1950
+    }
+
+    clergymen = {
+        culture = polish
+        religion = prosperity
+        size = 275
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 4200
+    }
+
+    soldiers = {
+        culture = polish
+        religion = prosperity
+        size = 300
+    }
+
+    farmers = {
+        culture = polish
+        religion = prosperity
+        size = 33225
+    }
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 2150
+    }
+}
+#Panevezys (204000/51000 POPS)
+363 = {
+    aristocrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 1025
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 375
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 1750
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 375
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 54475
+    }
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 19875
+    }
+}
+#Siauliai (200000/50000 POPS)
+364 = {
+    aristocrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 900
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 400
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 3250
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 3000
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 62250
+    }
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 1375
+    }
+}
+#Kurassala
+#Palanga (84000/21000 POPS)
+365 = {
+    aristocrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 2350
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 150
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 9500
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 9500
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 9500
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 3500
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 475
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 99825
+    }
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 8250
+    }
+
+}
+#Memel (172000/43000 POPS) #now part of Lithuania
+698 = {
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 550
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 7950
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 3000
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 36100
+    }
+}
+#Niksic (52000/13000 POPS)
+2569 = {
+    aristocrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 550
+    }
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 175
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 7500
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 1100
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 37475
+    }
+}
+#Riga (220000/55000 POPS)
+354 = {
+    aristocrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 950
+    }
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 625
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 10500
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 3400
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 51775
+    }
+}
+#Ventspils (140000/35000 POPS) #uralic = Livonian
+358 = {
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 9300
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 575
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 21450
+    }
+}
+#Liepaja (96000/24000 POPS)
+359 = {
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 475
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 5050
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 800
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 31475
+    }
+}
+#Pamestas
+#Vitebsk (272000/68000 POPS)
+945 = {
+    clergymen = {
+        culture = byelorussian
+        religion = the_one
+        size = 500
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = the_one
+        size = 2750
+    }
+
+    soldiers = {
+        culture = byelorussian
+        religion = the_one
+        size = 1000
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = the_one
+        size = 18825
+    }
+
+    aristocrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 150
+    }
+
+    officers = {
+        culture = paltijan
+        religion = prosperity
+        size = 200
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 50
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 25
+    }
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 21125
+    }
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 23455
+    }
+}
+#Polotsk (628000/157000 POPS)
+946 = {
+    clergymen = {
+        culture = byelorussian
+        religion = the_one
+        size = 1225
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = the_one
+        size = 4850
+    }
+
+    soldiers = {
+        culture = byelorussian
+        religion = the_one
+        size = 6100
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = the_one
+        size = 48200
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 250
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 100
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 42125
+    }
+
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 13455
+    }
+}
+#Pastavy (348000/87000 POPS)
+947 = {
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 550
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 2000
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 1500
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 35850
+    }
+
+    clergymen = {
+        culture = byelorussian
+        religion = the_one
+        size = 125
+    }
+
+    artisans = {
+        culture = byelorussian
+        religion = the_one
+        size = 600
+    }
+
+    soldiers = {
+        culture = byelorussian
+        religion = the_one
+        size = 4150
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = the_one
+        size = 26125
+    }
+
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 21125
+    }
+}

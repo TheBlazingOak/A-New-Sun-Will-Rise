@@ -1,0 +1,19 @@
+#France Flavor Events
+#Across the Sea
+country_event = {
+	id = 224000
+	title = "EVTNAME224000"
+    desc = "EVTDESC224000"
+    picture = autocracy
+
+    mean_time_to_happen = { months = 12 }
+
+    trigger = {
+        OR = { has_country_flag = embraced_nobility has_country_flag = embraced_unity}
+    }
+
+    option = {
+    name = "EVTOPTA224000"
+    
+    }
+}

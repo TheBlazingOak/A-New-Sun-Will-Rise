@@ -15,20 +15,16 @@ country_event = {
 
     option = {
     	name = "EVT52008OPTA" #Option for step two
-    	effect = {
     	money = 100000
  		set_country_flag = liberty_part_two
-    	}
     	ai_chance = {
             factor = 99
         }
     }
     option = {
     	name = "EVT52008OPTB" #Fail the reconstruction
-    	effect = {
-    	remove_country_flag = statue_of_liberty_start
+    	clear_country_flag = statue_of_liberty_start
     	set_country_flag = statue_liberty_fail
-    	}
     	ai_chance = {
             factor = 1
         }
@@ -51,7 +47,6 @@ country_event = {
 
     option = {
     	name = "EVT52009OPTA" #Option for Final Step
-    	effect = {
     	money = -200000
     	any_country = {
     	set_country_flag = statue_plans_discovered
@@ -59,15 +54,12 @@ country_event = {
 		ai_chance = {
             factor = 85
         	}
-    	}
     }
     option = {
     	name = "EVT52009OPTB" #Give up
-    	effect = {
     	prestige = -5
-    	   remove_country_flag = statue_of_liberty_start
+    	   clear_country_flag = statue_of_liberty_start
     	set_country_flag = statue_liberty_fail
-    	}
     	ai_chance = {
             factor = 15
         	}    
@@ -89,7 +81,6 @@ country_event = {
 
     option = {
     	name = "EVT52009OPTA" #Statue of Liberity complete
-    	effect = {
     	set_global_flag = statue_of_liberty_has_been_built
     	prestige = 100
     	any_pop = {
@@ -101,10 +92,9 @@ country_event = {
 		}
         add_province_modifier = {
 		name = the_statue_of_liberty
-		duration = 3036.1.1
+		duration = -1
 		}
     			}
-    		}
 		}
 	}
 
@@ -119,7 +109,6 @@ country_event = {
 
     option = {
     	name = "EVT52011OPTA" #Perhaps we are closer than we think
-    	effect = {
     	prestige = 25
     	any_country = {
     	limit = {
@@ -131,9 +120,8 @@ country_event = {
     	countryevent = { id=52012 days=0}
     	add_country_modifier = {
 		name = new_american_national_identity
-		duration = 3036.1.1
-				}
-    		}
+		duration = -1
+			}
     	}
 	}
 }
@@ -148,11 +136,9 @@ country_event = {
 
 		option = {
 			name = "EVT52012OPTA"
-			effect = {
 			add_country_modifier = {
 			name = new_american_national_identity
-			duration = 3036.1.1
-			}
+			duration = -1
 		}
 	}
 }
@@ -167,7 +153,6 @@ country_event = {
 
 		option = {
 		name = "EVT52013OPTA" #agree to help
-		effect = {
 		prestige = 10
 		money = -50000
 		relation = {
@@ -177,7 +162,6 @@ country_event = {
 		FROM = {
 		country_event = { id = 52014 days = 30 }
 				}
-			}
 		ai_chance = {
 		chance = 75
  		modifier = {
@@ -229,13 +213,11 @@ country_event = {
 
 		option = {
 		name = "EVT52014OPTA" #We look towards the horizons
-		effect = {
 		prestige = -5
 		add_country_modifier = {
 			name = western_influences
-			duration = 3036.1.1
+			duration = -1
 				}
-			}
 		relation = {
 		who = FROM
 		value = 25
@@ -256,7 +238,6 @@ country_event = {
 
 		option = {
 		name = "EVT52015OPTA" #We look towards the horizons
-		effect = {
 		relation = {
 		who = FROM
 		value = -75
@@ -264,7 +245,6 @@ country_event = {
 		ai_chance = {
             factor = 100
         		}
-			}
 		}
 	}
 #######New England Flavor#######
@@ -293,10 +273,8 @@ country_event = {
 
 	option = {
 	name = "EVT52016OPTA" #What a strange man...
-	effect = {
 	prestige = 10
 	set_global_flag = ternith_theory
-		}
 		ai_chance = {
             factor = 100
         		}
@@ -340,7 +318,6 @@ country_event = {
 
 	option = {
 	name = "EVT52017OPTA" #Washington is ours!
-	effect = {
 	prestige = 5
 	add_core = 2146
 	any_country = {
@@ -352,7 +329,6 @@ country_event = {
 		value = -50
 				}
 			}
-		}
 	ai_chance = {
             factor = 60
             modifier = {
@@ -381,10 +357,8 @@ country_event = {
 	}
 	option = {
 	name = "EVT52017OPTC" #It's not worth it...
-	effect = {
 	prestige = -2.5
 	badboy = -1.0
-	}
 	ai_chance = {
 	factor = 10
 	modifier = {
@@ -411,7 +385,6 @@ country_event = {
 
 	option = {
 	name = "EVT52018OPTA" #Agree to $100000
-	effect = {
 	220 = { change_owner = FROM add_core = FROM }
 	money = 100000
 	any_country = {
@@ -420,19 +393,16 @@ country_event = {
 			}
 	country_event = { id = 52019 days = 0 }
 			}
-		}
 		ai_chance = {
 		factor = 75
 		}
 	}
 	option = {
 	name = "EVT52018OPTB" #Don't sell
-	effect = {
 		limit = {
 		tag = FROM
 		}
 	country_event = { id = 52020 days = 0 }
-				}
 			}
 		ai_chance = {
 		factor = 25
@@ -452,9 +422,7 @@ country_event = {
 
 	option = {
 	name = "EVT52019OPTA" #Great
-	effect = {
 	prestige = 5
-		}
 	}
 }
 #They said no!
@@ -467,10 +435,8 @@ country_event = {
 
 	option = {
 	name = "EVT52020OPTA" #It's our rightful clay!
-	effect = {
 	money = 100000
 	220 = { add_core = THIS }
-		}
 	ai_chance = {
 	factor = 25
 	modifier = { stronger_army_than = FROM }
@@ -478,9 +444,251 @@ country_event = {
 	}
 	option = {
 	name = "EVT52020OPTB" #I suppose that we could back down
-	effect = {
 	money = 100000
 	prestige = -5
+	}
+}
+
+###Transpacifica###
+##Unification Events##
+#Alaska Core
+country_event = {
+	id = 52100
+	title = "EVTNAME52100"
+	desc = "EVTDESC52100"
+	picture = yankee
+
+	mean_time_to_happen = { days = 14 }
+
+	trigger = {
+		OR = { 1 = { owned_by = THIS }
+		LSK = { vassal_of = THIS } }
+		NOT = { OR = { 
+		tag = LSK 
+		has_country_flag = alaska_core 
+			} 
 		}
+		is_culture_group = pacific_cultures
+	}
+
+	option = {
+	name = "EVTOPTA52100"
+	USA_1 = { add_core = THIS }
+	set_country_flag = alaska_core
+	badboy = -15
+	ai_chance = { factor = 1}
+	}
+}
+#Cascadia Core
+country_event = {
+	id = 52101
+	title = "EVTNAME52101"
+	desc = "EVTDESC52101"
+	picture = yankee
+
+	mean_time_to_happen = { days = 14 }
+
+	trigger = {
+		OR = { 13 = { owned_by = THIS }
+		COL = { vassal_of = THIS } }
+		NOT = { 
+		OR = { tag = COL
+		has_country_flag = cascadia_core 
+			} 
+		}
+		is_culture_group = pacific_cultures
+	}
+
+	option = {
+	name = "EVT52101OPTA"
+	CAN_13 = { add_core = THIS }
+	USA_78 = { add_core = THIS }
+	set_country_flag = cascadia_core
+	badboy = -15
+	ai_chance = { factor = 1}
+	}
+}
+#California Core
+country_event = {
+	id = 52102
+	title = "EVTNAME52102"
+	desc = "EVTDESC52102"
+	picture = yankee
+
+	mean_time_to_happen = { days = 14 }
+
+	trigger = {
+		OR = { 84 = { owned_by = THIS }
+		CAL = { vassal_of = THIS } }
+		NOT = { 
+			OR = { 
+			tag = CAL
+			has_country_flag = california_core 
+			} 
+		}
+		is_culture_group = pacific_cultures
+	}
+
+	option = {
+	name = "EVTOPTA52102"
+	MEX_85 = { add_core = THIS }
+	USA_78 = { add_core = THIS }
+	set_country_flag = california_core
+	badboy = -15
+	ai_chance = { factor = 1}
+	}
+}
+
+#Los Angeles Core
+country_event = {
+	id = 52103
+	title = "EVTNAME52103"
+	desc = "EVTDESC52103"
+	picture = yankee
+
+	mean_time_to_happen = { days = 14 }
+
+	trigger = {
+		OR = { 89 = { owned_by = THIS }
+		LOS = { vassal_of = THIS } }
+		NOT = { 
+		OR = { 
+			tag = LOS
+			has_country_flag = los_angeles_core 
+			} 
+		}
+		is_culture_group = pacific_cultures
+	}
+
+	option = {
+	name = "EVTOPTA52103"
+		LOS_89 = { add_core = THIS }
+		LOS_90 = { add_core = THIS }
+		MEX_100 = { add_core = THIS }
+		set_country_flag = los_angeles_core
+		badboy = -20
+		ai_chance = { factor = 1}
+	}
+}
+##Flavor Events##
+#Unification Event for non-TRP
+country_event = {
+	id = 52104
+	title = "EVTNAME52104"
+	desc = "EVTDESC52104"
+	is_triggered_only = yes
+	picture = yankee
+
+	option = {
+	name = "EVTOPTA52104" #Accept annexation
+		TRP = { inherit = THIS }
+		ai_chance = { factor = 1}
+	}
+	option = {
+	name = "EVTOPTB52104" #Reject annexation
+		prestige = -10
+		relation = { 
+			who = FROM 
+			value = -200 
+			}
+	}
+}
+#Unification Event for TRP
+country_event = {
+	id = 52105
+	title = "EVTNAME52105"
+	desc = "EVTDESC52105"
+	is_triggered_only = yes
+	major = yes
+
+	option = {
+	name = "EVTOPTA52105" #A Great Day
+		prestige = 10
+		ai_chance = { factor = 1}
+	}
+}
+#Contact with the Mormons for Mormon side of the event
+country_event = {
+	id = 52106
+	title = "EVTNAME52106"
+	desc = "EVTDESC52106"
+	is_triggered_only = yes
+	picture = wasteland_evt
+
+	option = {
+	name = "EVTOPTA52106" #Open up relations with Pacifica (Will likely lead to annexation)
+		prestige = 10
+		add_country_modifier = { name = western_influences duration = -1 }
+		relation = { who = FROM relation = 50 }
+		research_points = 11000
+		FROM = { country_event = 52108 days = 21 }
+		ai_chance = { chance = 70
+		modifier = { 
+			factor = 2
+			relation = { who = FROM value = 150 }
+			}
+		}
+	}
+	option = {
+	name = "EVTOPTA52106" #Capture the messangers
+		badboy = 10
+		prestige = -5
+		MEX_94 = { secede_province = THIS }
+		MEX_94 = { add_core = THIS }
+		research_points = 30000
+		define_general = {
+			name = { Alex Black }
+			personality = { audacious }
+			background = { school_of_hartskamp }
+		}
+		set_country_flag = opposed_pacifica
+		FROM = { country_event = 52107 days = 21 }
+		ai_chance = { 
+		chance = 30
+		modifier = {
+            factor = 50
+            stronger_army_than = FROM
+            }
+		}
+	}
+}
+
+#Contact with the Mormons Failure - Cascadia
+country_event = {
+	id = 52107
+	title = "EVTNAME52107"
+	desc = "EVTDESC52107"
+	is_triggered_only = yes
+	picture = wasteland_evt
+
+	option = {
+	name = "EVTOPTA52107" #How dare they!
+	add_casus_belli = {
+		target = FROM
+		type = colonial_conquest
+		months = 60
+		}
+	consciousness = 2
+	militancy = 1
+	set_global_flag = mormon_talks_failed
+	}
+}
+
+#Contact with the Mormons Success - Cascadia
+country_event = {
+	id = 52108
+	title = "EVTNAME52108"
+	desc = "EVTDESC52108"
+	is_triggered_only = yes
+	picture = wasteland_evt
+
+	option = {
+	name = "EVTOPTA52108" #We look forward to the start great relationship
+	militancy = -1
+	diplomatic_influence = {
+		who = FROM
+		value = 50
+		}
+	set_global_flag = contacted_the_mormons
 	}
 }

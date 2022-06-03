@@ -63,25 +63,25 @@
     }
 
     clergymen = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 120
     }
 
     artisans = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 500
     }
 
     soldiers = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 500
     }
 
     farmers = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 9950
     }
@@ -191,25 +191,25 @@
     }
 
     soldiers = {
-        culture = bulgarian
+        culture = iskhor
         religion = sunni
         size = 200
     }
 
     clergymen = {
-        culture = bulgarian
+        culture = iskhor
         religion = sunni
         size = 120
     }
 
     artisans = {
-        culture = bulgarian
+        culture = iskhor
         religion = sunni
         size = 120
     }
 
     farmers = {
-        culture = bulgarian
+        culture = iskhor
         religion = sunni
         size = 10825
     }
@@ -297,37 +297,37 @@
     }
 
     aristocrats = {
-        culture = bulgarian
+        culture = iskhor
         religion = sunni
         size = 120
     }
 
     officers = {
-        culture = bulgarian
+        culture = iskhor
         religion = sunni
         size = 120
     }
 
     soldiers = {
-        culture = bulgarian
+        culture = iskhor
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = bulgarian
+        culture = iskhor
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = bulgarian
+        culture = iskhor
         religion = sunni
         size = 2000
     }
 
     farmers = {
-        culture = bulgarian
+        culture = iskhor
         religion = sunni
         size = 5475
     }
@@ -446,37 +446,37 @@
         size = 20900
     }
     aristocrats = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 120
     }
 
     officers = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 120
     }
 
     soldiers = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 120
     }
 
     clergymen = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 120
     }
 
     artisans = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 5000
     }
 
     farmers = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 475
     }

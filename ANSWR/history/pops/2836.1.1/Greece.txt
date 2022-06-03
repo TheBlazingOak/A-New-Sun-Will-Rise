@@ -271,37 +271,37 @@
     }
 
     aristocrats = {
-        culture = bulgarian
+        culture = iskhor
         religion = catholic
         size = 125
     }
 
     officers = {
-        culture = bulgarian
+        culture = iskhor
         religion = catholic
         size = 125
     }
 
     clergymen = {
-        culture = bulgarian
+        culture = iskhor
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = bulgarian
+        culture = iskhor
         religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = bulgarian
+        culture = iskhor
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = bulgarian
+        culture = iskhor
         religion = catholic
         size = 7000
     }
@@ -534,25 +534,25 @@
     }
 
     clergymen = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 200
     }
 
     artisans = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 200
     }
 
     soldiers = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 400
     }
 
     farmers = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 3800
     }
@@ -997,25 +997,25 @@
     }
 
     soldiers = {
-        culture = bulgarian
+        culture = iskhor
         religion = catholic
         size = 300
     }
 
     clergymen = {
-        culture = bulgarian
+        culture = iskhor
         religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = bulgarian
+        culture = iskhor
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = bulgarian
+        culture = iskhor
         religion = catholic
         size = 2550
     }
@@ -1077,25 +1077,25 @@
     }
 
     soldiers = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 400
     }
 
     clergymen = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 200
     }
 
     artisans = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 300
     }
 
     farmers = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 3625
     }
@@ -1796,62 +1796,6 @@
         culture = turkish
         religion = sunni
         size = 12450
-    }
-}
-#Mytilene (44000/11000 POPS)
-844 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 250
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 125
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 500
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 500
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 9125
     }
 }
 #Crete Region (140000)

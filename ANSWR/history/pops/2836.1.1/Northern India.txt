@@ -1,0 +1,1411 @@
+### Northern Indian Remnants ###
+##########################
+### Issac's Land (IND) ###
+##########################
+#Cultures: Issaclanders, Delhiites, and Utaras
+##Issac's Cathedral Region ##
+#Issac's Church (596000/149000 POPS)
+1290 = {
+    aristocrats = {
+        culture = issaclander
+        religion = issacite
+        size = 6350
+    }
+
+    bureaucrats = {
+        culture = issaclander
+        religion = issacite
+        size = 2500
+    }
+
+    officers = {
+        culture = issaclander
+        religion = issacite
+        size = 1500
+    }
+
+    clergymen = {
+        culture = issaclander
+        religion = issacite
+        size = 3350
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 11750
+    }
+
+    soldiers = {
+        culture = issaclander
+        religion = issacite
+        size = 6000
+    }
+
+    soldiers = {
+        culture = issaclander
+        religion = issacite
+        size = 6000
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 122500
+    }
+
+    serfs = {
+        culture = issaclander
+        religion = issacite
+        size = 352500
+    }
+
+    aristocrats = {
+        culture = delhiite
+        religion = daharite
+        size = 125
+    }
+
+    clergymen = {
+        culture = delhiite
+        religion = daharite
+        size = 125
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 3800
+    }
+
+    serfs = {
+        culture = delhiite
+        religion = daharite
+        size = 54950
+    }
+
+    serfs = {
+        culture = utara
+        religion = daharite
+        size = 33125
+    }    
+
+}
+#Under Native Rule 1836
+#Rajkot (2040000/510000 POPS)
+1292 = {
+    aristocrats = {
+        culture = issaclander
+        religion = issacite
+        size = 3350
+    }
+
+    clergymen = {
+        culture = issaclander
+        religion = issacite
+        size = 2250
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 11750
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 11750
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 5750
+    }
+
+    soldiers = {
+        culture = issaclander
+        religion = issacite
+        size = 6000
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 82800
+    }
+
+    serfs = {
+        culture = issaclander
+        religion = issacite
+        size = 127500
+    }
+
+    serfs = {
+        culture = delhiite
+        religion = daharite
+        size = 31950
+    }
+
+    serfs = {
+        culture = utara
+        religion = daharite
+        size = 27125
+    }  
+}
+#Patan (1816000/454000 POPS)
+1294 = {
+    aristocrats = {
+        culture = issaclander
+        religion = issacite
+        size = 2350
+    }
+
+    clergymen = {
+        culture = issaclander
+        religion = issacite
+        size = 1350
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 6750
+    }
+
+    soldiers = {
+        culture = issaclander
+        religion = issacite
+        size = 6000
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 12800
+    }
+
+    serfs = {
+        culture = issaclander
+        religion = issacite
+        size = 127500
+    }
+
+    serfs = {
+        culture = delhiite
+        religion = daharite
+        size = 31950
+    }
+
+    serfs = {
+        culture = utara
+        religion = daharite
+        size = 27125
+    }  
+}
+#Cuttack (944000/236000 POPS)
+1261 = {
+    aristocrats = {
+        culture = issaclander
+        religion = issacite
+        size = 350
+    }
+
+    clergymen = {
+        culture = issaclander
+        religion = issacite
+        size = 350
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 3750
+    }
+
+    soldiers = {
+        culture = issaclander
+        religion = issacite
+        size = 3000
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 12800
+    }
+
+    serfs = {
+        culture = issaclander
+        religion = issacite
+        size = 77500
+    }
+
+    serfs = {
+        culture = delhiite
+        religion = daharite
+        size = 11350
+    }
+
+    serfs = {
+        culture = utara
+        religion = daharite
+        size = 7425
+    }  
+}
+#Jaisalmer (440000/110000 POPS)
+1265 = {
+    aristocrats = {
+        culture = issaclander
+        religion = issacite
+        size = 4350
+    }
+
+    clergymen = {
+        culture = issaclander
+        religion = issacite
+        size = 2350
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 7750
+    }
+
+    soldiers = {
+        culture = issaclander
+        religion = issacite
+        size = 6000
+    }
+
+    soldiers = {
+        culture = issaclander
+        religion = issacite
+        size = 3000
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 112800
+    }
+
+    serfs = {
+        culture = issaclander
+        religion = issacite
+        size = 167500
+    }
+
+    serfs = {
+        culture = delhiite
+        religion = daharite
+        size = 31350
+    }
+
+    serfs = {
+        culture = utara
+        religion = daharite
+        size = 47425
+    }  
+}
+## Rajputana Region ##
+#Port of Issac (1296000/324000 POPS)
+1266 = {
+    aristocrats = {
+        culture = issaclander
+        religion = issacite
+        size = 4350
+    }
+
+    clergymen = {
+        culture = issaclander
+        religion = issacite
+        size = 3350
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 13750
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 13750
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 13750
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 4150
+    }
+
+    soldiers = {
+        culture = issaclander
+        religion = issacite
+        size = 9000
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 72800
+    }
+
+    serfs = {
+        culture = issaclander
+        religion = issacite
+        size = 119500
+    }
+
+    serfs = {
+        culture = delhiite
+        religion = daharite
+        size = 94350
+    }
+
+    serfs = {
+        culture = utara
+        religion = daharite
+        size = 24425
+    }  
+}
+#Bikaner (1044000/261000 POPS)
+1267 = {
+    aristocrats = {
+        culture = issaclander
+        religion = issacite
+        size = 3750
+    }
+
+    clergymen = {
+        culture = issaclander
+        religion = issacite
+        size = 2350
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 11750
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 5150
+    }
+
+    soldiers = {
+        culture = issaclander
+        religion = issacite
+        size = 5000
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 42800
+    }
+
+    serfs = {
+        culture = issaclander
+        religion = issacite
+        size = 132500
+    }
+
+    serfs = {
+        culture = delhiite
+        religion = daharite
+        size = 118350
+    }
+
+    serfs = {
+        culture = utara
+        religion = daharite
+        size = 94425
+    }  
+}
+#Bahawalpur (352000/88000 POPS)
+1231 = {
+    aristocrats = {
+        culture = issaclander
+        religion = issacite
+        size = 2750
+    }
+
+    clergymen = {
+        culture = issaclander
+        religion = issacite
+        size = 2350
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 9750
+    }
+
+    artisans = {
+        culture = issaclander
+        religion = issacite
+        size = 7150
+    }
+
+    soldiers = {
+        culture = issaclander
+        religion = issacite
+        size = 3000
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 62800
+    }
+
+    serfs = {
+        culture = issaclander
+        religion = issacite
+        size = 72500
+    }
+
+    serfs = {
+        culture = delhiite
+        religion = daharite
+        size = 44150
+    }
+
+    serfs = {
+        culture = utara
+        religion = daharite
+        size = 114425
+    }
+}
+###################
+### Utara (PNJ) ###
+###################
+#Land of Utara
+#Lahore (2644000/661000 POPS)
+1227 = {
+    aristocrats = {
+        culture = utara
+        religion = daharite
+        size = 12500
+    }
+
+    bureaucrats = {
+        culture = utara
+        religion = daharite
+        size = 1400
+    }
+
+    officers = {
+        culture = utara
+        religion = daharite
+        size = 2000
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 15000
+    }
+
+    soldiers = {
+        culture = utara
+        religion = daharite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = utara
+        religion = daharite
+        size = 9000
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 270600
+    }
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 47000
+    }
+}
+#Multan (656000/164000 POPS)
+1228 = {
+    aristocrats = {
+        culture = utara
+        religion = daharite
+        size = 15200
+    }
+
+    clergymen = {
+        culture = utara
+        religion = daharite
+        size = 8120
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 12000
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 8000
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 8000
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 8000
+    }
+
+    soldiers = {
+        culture = utara
+        religion = daharite
+        size = 4500
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 324500
+    }
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 92000
+    }
+}
+#Sialkot (548000/137000 POPS)
+1229 = {
+    aristocrats = {
+        culture = utara
+        religion = daharite
+        size = 1300
+    }
+
+    clergymen = {
+        culture = utara
+        religion = daharite
+        size = 1300
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 6000
+    }
+
+    soldiers = {
+        culture = utara
+        religion = daharite
+        size = 3000
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 115400
+    }
+}
+#Attock (344000/87000 POPS)
+1230 = {
+    aristocrats = {
+        culture = utara
+        religion = daharite
+        size = 500
+    }
+
+    clergymen = {
+        culture = utara
+        religion = daharite
+        size = 500
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 2500
+    }
+
+    soldiers = {
+        culture = utara
+        religion = daharite
+        size = 500
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 47000
+    }
+}
+#Shahpur (1132000/283000 POPS)
+1232 = {
+    aristocrats = {
+        culture = utara
+        religion = daharite
+        size = 50
+    }
+
+    clergymen = {
+        culture = utara
+        religion = daharite
+        size = 50
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = utara
+        religion = daharite
+        size = 50
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 4850
+    }
+}
+#Amritsar (2228000/557000 POPS)
+1233 = {
+    aristocrats = {
+        culture = utara
+        religion = daharite
+        size = 1100
+    }
+
+    clergymen = {
+        culture = utara
+        religion = daharite
+        size = 800
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 10000
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = utara
+        religion = daharite
+        size = 1100
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 64200
+    }
+
+    aristocrats = {
+        culture = utara
+        religion = daharite
+        size = 3000
+    }
+
+    clergymen = {
+        culture = utara
+        religion = daharite
+        size = 2500
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 2000
+    }
+
+    soldiers = {
+        culture = utara
+        religion = daharite
+        size = 3000
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 290500
+    }
+}
+#Firuzapur (952000/238000 POPS)
+1234 = {
+    aristocrats = {
+        culture = utara
+        religion = daharite
+        size = 250
+    }
+
+    clergymen = {
+        culture = utara
+        religion = daharite
+        size = 250
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 1500
+    }
+
+    soldiers = {
+        culture = utara
+        religion = daharite
+        size = 1100
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 21000
+    }
+
+    aristocrats = {
+        culture = utara
+        religion = daharite
+        size = 800
+    }
+
+    clergymen = {
+        culture = utara
+        religion = daharite
+        size = 750
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 5000
+    }
+
+    soldiers = {
+        culture = utara
+        religion = daharite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = utara
+        religion = daharite
+        size = 1000
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 175450
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 34000
+    }
+
+    aristocrats = {
+        culture = delhiite
+        religion = daharite
+        size = 650
+    }
+
+    clergymen = {
+        culture = delhiite
+        religion = daharite
+        size = 650
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = delhiite
+        religion = daharite
+        size = 650
+    }
+
+    farmers = {
+        culture = delhiite
+        religion = daharite
+        size = 47950
+    }
+}
+#Under Rule of Britain 1836
+#Simla (574000/143500 POPS)
+1235 = {
+    aristocrats = {
+        culture = utara
+        religion = daharite
+        size = 150
+    }
+
+    clergymen = {
+        culture = utara
+        religion = daharite
+        size = 175
+    }
+
+    artisans = {
+        culture = utara
+        religion = daharite
+        size = 2000
+    }
+
+    soldiers = {
+        culture = utara
+        religion = daharite
+        size = 100
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 53775
+    }
+
+    aristocrats = {
+        culture = delhiite
+        religion = daharite
+        size = 600
+    }
+
+    clergymen = {
+        culture = delhiite
+        religion = daharite
+        size = 625
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 2400
+    }
+
+    soldiers = {
+        culture = delhiite
+        religion = daharite
+        size = 750
+    }
+
+    farmers = {
+        culture = delhiite
+        religion = daharite
+        size = 33625
+    }
+
+    aristocrats = {
+        culture = nepali
+        religion = daharite
+        size = 1100
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = daharite
+        size = 750
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 3500
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 3000
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 30750
+    }
+
+}
+#######################
+### New Delhi (NAG) ###
+#######################
+#
+#Delhi (1356000/339000 POPS)
+1236 = {
+    aristocrats = {
+        culture = delhiite
+        religion = daharite
+        size = 18100
+    }
+
+    bureaucrats = {
+        culture = delhiite
+        religion = daharite
+        size = 3750
+    }
+
+    clergymen = {
+        culture = delhiite
+        religion = daharite
+        size = 6125
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 16000
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 16000
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 16000
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 16000
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 7800
+    }
+
+    soldiers = {
+        culture = delhiite
+        religion = daharite
+        size = 6100
+    }
+
+    soldiers = {
+        culture = delhiite
+        religion = daharite
+        size = 6100
+    }
+
+    soldiers = {
+        culture = delhiite
+        religion = daharite
+        size = 6100
+    }
+
+    farmers = {
+        culture = delhiite
+        religion = daharite
+        size = 480125
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 111250
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 92250
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 86250
+    }
+}
+#Panipat (1280000/320000 POPS)
+1237 = {
+    aristocrats = {
+        culture = delhiite
+        religion = daharite
+        size = 3100
+    }
+
+    clergymen = {
+        culture = delhiite
+        religion = daharite
+        size = 2125
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 7800
+    }
+
+    soldiers = {
+        culture = delhiite
+        religion = daharite
+        size = 6100
+    }
+
+    farmers = {
+        culture = delhiite
+        religion = daharite
+        size = 180125
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 44250
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 36250
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 13250
+    }
+}
+#Bardwan (4456000/1114000 POPS)
+1253 = {
+    aristocrats = {
+        culture = delhiite
+        religion = daharite
+        size = 8100
+    }
+
+    clergymen = {
+        culture = delhiite
+        religion = daharite
+        size = 1125
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 4800
+    }
+
+    soldiers = {
+        culture = delhiite
+        religion = daharite
+        size = 6100
+    }
+
+    farmers = {
+        culture = delhiite
+        religion = daharite
+        size = 241125
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 14250
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 9250
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 21250
+    }
+}
+#Jessore (2372000/593000 POPS)
+1256 = {
+    aristocrats = {
+        culture = delhiite
+        religion = daharite
+        size = 6100
+    }
+
+    clergymen = {
+        culture = delhiite
+        religion = daharite
+        size = 2125
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 13800
+    }
+
+    soldiers = {
+        culture = delhiite
+        religion = daharite
+        size = 9100
+    }
+
+    farmers = {
+        culture = delhiite
+        religion = daharite
+        size = 251125
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 71250
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 61250
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 21250
+    }
+}
+#Jaipur (1636000/409000 POPS)
+1268 = {
+    aristocrats = {
+        culture = delhiite
+        religion = daharite
+        size = 4100
+    }
+
+    clergymen = {
+        culture = delhiite
+        religion = daharite
+        size = 1925
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 12800
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 5800
+    }
+
+    soldiers = {
+        culture = delhiite
+        religion = daharite
+        size = 3100
+    }
+
+    farmers = {
+        culture = delhiite
+        religion = daharite
+        size = 220250
+    }
+
+    farmers = {
+        culture = issaclander
+        religion = issacite
+        size = 74250
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 12250
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 6250
+    }
+}
+### United Provinces Region ###
+#Dehra Dun (952000/238000 POPS)
+1238 = {
+    aristocrats = {
+        culture = delhiite
+        religion = daharite
+        size = 250
+    }
+
+    clergymen = {
+        culture = delhiite
+        religion = daharite
+        size = 250
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = delhiite
+        religion = daharite
+        size = 3250
+    }
+
+    farmers = {
+        culture = delhiite
+        religion = daharite
+        size = 86250
+    }
+
+    aristocrats = {
+        culture = nepali
+        religion = daharite
+        size = 1500
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = daharite
+        size = 1500
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 7000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 2100
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 94000
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 38000
+    }
+}
+#Meerut (1580000/395000 POPS)
+1239 = {
+
+    aristocrats = {
+        culture = delhiite
+        religion = daharite
+        size = 3500
+    }
+
+    clergymen = {
+        culture = delhiite
+        religion = daharite
+        size = 2000
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 7000
+    }
+
+    soldiers = {
+        culture = delhiite
+        religion = daharite
+        size = 6000
+    }
+
+    soldiers = {
+        culture = delhiite
+        religion = daharite
+        size = 3500
+    }
+
+    farmers = {
+        culture = delhiite
+        religion = daharite
+        size = 113000
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 87625
+    }
+}
+#Agra (4180000/1045000 POPS)
+1240 = {
+    aristocrats = {
+        culture = delhiite
+        religion = daharite
+        size = 5500
+    }
+
+    artisans = {
+        culture = delhiite
+        religion = daharite
+        size = 10000
+    }
+
+    soldiers = {
+        culture = delhiite
+        religion = daharite
+        size = 3000
+    }
+
+    farmers = {
+        culture = delhiite
+        religion = daharite
+        size = 155250
+    }
+
+    farmers = {
+        culture = utara
+        religion = daharite
+        size = 20000
+    }
+}

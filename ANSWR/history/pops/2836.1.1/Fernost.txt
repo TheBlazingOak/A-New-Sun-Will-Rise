@@ -1,0 +1,1609 @@
+#Tirol Region (556000) #see Italy.txt for balance of Region
+#under the rule of Austria in 1836
+#Innsbruck (236000/59000 POPS)
+612 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 750
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 1375
+    }
+
+    officers = {
+        culture = austro_german
+        religion = ketronant
+        size = 1250
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 550
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 2750
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 50325
+    }
+}
+#Salzburg (136000/34000 POPS)
+613 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 450
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 650
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 3250
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 1100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 24975
+    }
+}
+#Lienz (52000/13000 POPS)
+615 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 175
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 125
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 600
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 1125
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 11975
+    }
+}
+#Carinthia-Styria Region (736000) #see Slovenia.txt for balance of Region
+#under the rule of Austria in 1836
+#Graz (380000/95000 POPS)
+616 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 1550
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 1425
+    }
+
+    officers = {
+        culture = austro_german
+        religion = ketronant
+        size = 275
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 1025
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 10000
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 2050
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 60675
+    }
+}
+#Judenburg (168000/42000 POPS)
+617 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 700
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 450
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 2250
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 1050
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 45150
+    }
+}
+#Klagenfurt (188000/47000 POPS)
+618 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 450
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 325
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 1550
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 1100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 35675
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = ketronant
+        size = 175
+    }
+
+    artisans = {
+        culture = slovene
+        religion = ketronant
+        size = 950
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = ketronant
+        size = 1200
+    }
+
+    farmers = {
+        culture = slovene
+        religion = ketronant
+        size = 16675
+    }
+}
+#Austria Region (2000000)
+#under the rule of Austria in 1836
+#Vienna (1084000/271000 POPS)
+619 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 4250
+    }
+
+    capitalists = {
+        culture = austro_german
+        religion = ketronant
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 3100
+    }
+
+    officers = {
+        culture = austro_german
+        religion = ketronant
+        size = 600
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 2750
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 10000
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 10000
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 10000
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 10000
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 10000
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 4500
+    }
+
+    craftsmen = {
+        culture = austro_german
+        religion = ketronant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 2750
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 3000
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 186250
+    }
+
+    ####Czechs
+    aristocrats = {
+        culture = czech
+        religion = ketronant
+        size = 100
+    }
+
+    clergymen = {
+        culture = czech
+        religion = ketronant
+        size = 100
+    }
+
+    soldiers = {
+        culture = czech
+        religion = ketronant
+        size = 100
+    }
+
+    craftsmen = {
+        culture = czech
+        religion = ketronant
+        size = 1100
+    }
+
+    artisans = {
+        culture = czech
+        religion = ketronant
+        size = 3650
+    }
+
+    farmers = {
+        culture = czech
+        religion = ketronant
+        size = 1000
+    }
+    #####
+
+    ####Hungarians
+    aristocrats = {
+        culture = hungarian
+        religion = ketronant
+        size = 100
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = ketronant
+        size = 100
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = ketronant
+        size = 100
+    }
+
+    craftsmen = {
+        culture = hungarian
+        religion = ketronant
+        size = 300
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = ketronant
+        size = 300
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = ketronant
+        size = 100
+    }
+
+    ####
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    capitalists = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+    ########
+}
+#Sankt Polten (88000/22000 POPS)
+620 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 375
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 600
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 250
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 1200
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 250
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 19925
+    }
+}
+#Krems (240000/60000 POPS)
+621 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 925
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 625
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 3100
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 2650
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 50700
+    }
+}
+#Linz (588000/147000 POPS)
+622 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 2300
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 3200
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 7650
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 1550
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 3000
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 105900
+    }
+}
+#Odenburg Region (196000) #see Hungary.txt for balance of region
+#under the rule of Austria in 1836
+#Eisenstadt (196000/49000 POPS)
+624 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 700
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 475
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 2350
+    }
+
+    craftsmen = {
+        culture = austro_german
+        religion = ketronant
+        size = 100
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 2100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 40075
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = ketronant
+        size = 60
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = ketronant
+        size = 150
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = ketronant
+        size = 1025
+    }
+
+    craftsmen = {
+        culture = staromadar
+        religion = ketronant
+        size = 100
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = ketronant
+        size = 12665
+    }
+}
+#Sopron (100000/25000 POPS) #part of Hungary today
+623 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 400
+    }
+
+    officers = {
+        culture = austro_german
+        religion = ketronant
+        size = 200
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 100
+    }
+
+    craftsmen = {
+        culture = austro_german
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 1400
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 1200
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 18600
+    }
+
+    aristocrats = {
+        culture = staromadar
+        religion = ketronant
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = staromadar
+        religion = ketronant
+        size = 125
+    }
+
+    officers = {
+        culture = staromadar
+        religion = ketronant
+        size = 150
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = ketronant
+        size = 125
+    }
+
+    craftsmen = {
+        culture = staromadar
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = ketronant
+        size = 1000
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = ketronant
+        size = 1250
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = ketronant
+        size = 32125
+    }
+}
+#Zalaegerszeg (860000/215000 POPS) #part of Hungary today
+639 = {
+    capitalists = {
+        culture = austro_german
+        religion = ketronant
+        size = 50
+    }
+
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 450
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 400
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 1500
+    }
+
+    craftsmen = {
+        culture = austro_german
+        religion = ketronant
+        size = 100
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 1100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 47350
+    }
+
+    aristocrats = {
+        culture = staromadar
+        religion = ketronant
+        size = 3750
+    }
+
+    clergymen = {
+        culture = staromadar
+        religion = ketronant
+        size = 1250
+    }
+
+    artisans = {
+        culture = staromadar
+        religion = ketronant
+        size = 5900
+    }
+
+    craftsmen = {
+        culture = staromadar
+        religion = ketronant
+        size = 100
+    }
+
+    soldiers = {
+        culture = staromadar
+        religion = ketronant
+        size = 3000
+    }
+    soldiers = {
+        culture = staromadar
+        religion = ketronant
+        size = 250
+    }
+
+    farmers = {
+        culture = staromadar
+        religion = ketronant
+        size = 12000
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = ketronant
+        size = 150
+    }
+
+    artisans = {
+        culture = slovene
+        religion = ketronant
+        size = 750
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = ketronant
+        size = 150
+    }
+
+    serfs = {
+        culture = slovene
+        religion = ketronant
+        size = 43950
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = slovene
+        religion = ketronant
+        size = 350
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = ketronant
+        size = 100
+    }
+
+    serfs = {
+        culture = slovene
+        religion = ketronant
+        size = 36525
+    }
+}
+#Southern Tirol
+#Trent (276000/69000 POPS) #now part of Italy
+734 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 60
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 80
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 800
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 200
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 50
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 34610
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 575
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 2800
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 550
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 30075
+    }
+}
+#Bozen (92000/23000 POPS) #now part of Italy
+735 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 250
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size =  150
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 150
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 14950
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size =  50
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 500
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 50
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 5400
+    }
+}
+#Friuli-Istria Region (292000) #see Croatia.txt for balance of region
+#under the rule of Austria in 1836
+#Trieste (112000/28000 POPS)
+736 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 425
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 450
+    }
+
+    officers = {
+        culture = austro_german
+        religion = ketronant
+        size = 100
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 175
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 5000
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 1175
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 9875
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = slovene
+        religion = ketronant
+        size = 4500
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = ketronant
+        size = 100
+    }
+
+    farmers = {
+        culture = slovene
+        religion = ketronant
+        size = 6300
+    }
+}
+#Gorizia (180000/45000 POPS)
+737 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 700
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 125
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 1250
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 125
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 7800
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = ketronant
+        size = 300
+    }
+
+    artisans = {
+        culture = slovene
+        religion = ketronant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = ketronant
+        size = 325
+    }
+
+    farmers = {
+        culture = slovene
+        religion = ketronant
+        size = 20000
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 13375
+    }
+
+}
+#Belluno - Former Ross River (4000/1000 POPS)
+8 = {
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 750
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 27600
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 1000
+    }
+
+}
+#Treviso (232000/58000 POPS)
+732 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 1175
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 575
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 2900
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 550
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 50300
+    }
+    farmers = {
+        culture = slovene
+        religion = ketronant
+        size = 16700
+    }
+}
+#Udine (300000/75000 POPS)
+733 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 1550
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 750
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 3750
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 750
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 52200
+    }
+}
+##############
+## Slowenia ##
+##############
+#Carinthia-Styria Region (204000) #see Austria.txt for balance of Region
+#under the rule of Austria in 1836
+#Maribor (204000/51000 POPS) #Part of Slovenia Today
+767 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 750
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 250
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 14650
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = ketronant
+        size = 450
+    }
+
+    artisans = {
+        culture = slovene
+        religion = ketronant
+        size = 1600
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = ketronant
+        size = 450
+    }
+
+    farmers = {
+        culture = slovene
+        religion = ketronant
+        size = 35000
+    }
+
+    ######Jews
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+    ########
+
+}
+#Carniola Region (460000)
+#under the rule of Austria in 1836
+#Ljubljana (280000/70000 POPS)
+768 = {
+    aristocrats = {
+        culture = slovene
+        religion = ketronant
+        size = 825
+    }
+
+    bureaucrats = {
+        culture = slovene
+        religion = ketronant
+        size = 225
+    }
+
+    officers = {
+        culture = slovene
+        religion = ketronant
+        size = 100
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = ketronant
+        size = 700
+    }
+
+    artisans = {
+        culture = slovene
+        religion = ketronant
+        size = 4000
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = ketronant
+        size = 1100
+    }
+
+    farmers = {
+        culture = slovene
+        religion = ketronant
+        size = 36150
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 3000
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 4000
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 20000
+    }
+
+}
+#Postojna (180000/45000 POPS)
+769 = {
+    aristocrats = {
+        culture = slovene
+        religion = ketronant
+        size = 500
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = ketronant
+        size = 425
+    }
+
+    artisans = {
+        culture = slovene
+        religion = ketronant
+        size = 2100
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = ketronant
+        size = 425
+    }
+
+    farmers = {
+        culture = slovene
+        religion = ketronant
+        size = 25075
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 2500
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 13975
+    }
+
+}
+#Pola (188000/47000 POPS) #now part of sloveneia
+770 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 750
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 200
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 1450
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 225
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 20875
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = ketronant
+        size = 225
+    }
+
+    artisans = {
+        culture = slovene
+        religion = ketronant
+        size = 900
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = ketronant
+        size = 250
+    }
+
+    farmers = {
+        culture = slovene
+        religion = ketronant
+        size = 40625
+    }
+}
+#Fiume (52000/13000 POPS)
+778 = {
+    clergymen = {
+        culture = slovene
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = slovene
+        religion = ketronant
+        size = 1200
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = ketronant
+        size = 100
+    }
+
+    farmers = {
+        culture = slovene
+        religion = ketronant
+        size = 4700
+    }
+
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 150
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 1300
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 4425
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = ketronant
+        size = 100
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = ketronant
+        size = 250
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = ketronant
+        size = 100
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = ketronant
+        size = 700
+    }
+}

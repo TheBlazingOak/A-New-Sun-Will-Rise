@@ -3,91 +3,91 @@
 603 = {
     aristocrats = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1450
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1300
     }
 
     capitalists = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 200
     }
 
     clerks = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 100
     }
 
     craftsmen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 5200
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 5300
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 3100
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 74590
     }
 
     aristocrats = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 1500
     }
 
     clergymen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 500
     }
 
     clerks = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 100
     }
 
     craftsmen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 800
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 5000
     }
 
     soldiers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 4100
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 75720
     }
 }
@@ -95,85 +95,85 @@
 604 = {
     aristocrats = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 550
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 275
     }
 
     clerks = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 100
     }
 
     craftsmen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 750
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 3250
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1100
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 73540
     }
 
     aristocrats = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 450
     }
 
     clergymen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 250
     }
 
     clerks = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 100
     }
 
     craftsmen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 600
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 2900
     }
 
     soldiers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 2100
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 35800
     }
 }
@@ -181,85 +181,85 @@
 605 = {
     aristocrats = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 5350
     }
 
     capitalists = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 300
     }
 
     officers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 500
     }
 
     bureaucrats = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1800
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 625
     }
 
     clerks = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 400
     }
 
     craftsmen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 35500
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 4500
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 4500
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 4500
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 13500
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 182525
     }
 
     farmers = {
         culture = north_italian
-        religion = protestant
+        religion = vitalic
         size = 22000
     }
 
     farmers = {
         culture = provencal
-        religion = protestant
+        religion = vitalic
         size = 22000
     }
 }
@@ -267,31 +267,31 @@
 606 = {
     aristocrats = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 1175
     }
 
     clergymen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 750
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 5500
     }
 
     soldiers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 5100
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 80975
     }
 
@@ -301,97 +301,97 @@
 607 = {
     aristocrats = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 2000
     }
 
     bureaucrats = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 420
     }
 
     officers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 125
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 700
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 5000
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 3100
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 89320
     }
 
     aristocrats = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 900
     }
 
     bureaucrats = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 80
     }
 
     officers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 50
     }
 
     clergymen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 350
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 3000
     }
 
     soldiers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 1100
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 51230
     }
 
     clerks = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 500
     }
 
     craftsmen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 25200
     }
 }
@@ -399,31 +399,31 @@
 608 = {
     aristocrats = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 650
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 350
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 5000
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 2500
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 75625
     }
 }
@@ -431,31 +431,31 @@
 609 = {
     aristocrats = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 650
     }
 
     clergymen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 375
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 2100
     }
 
     soldiers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 1500
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 28675
     }
 
@@ -465,55 +465,55 @@
 2568 = {
     aristocrats = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 1250
     }
 
     bureaucrats = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 500
     }
 
     officers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 150
     }
 
     clergymen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 275
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 4250
     }
 
     soldiers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 3500
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 44075
     }
 
     clerks = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 600
     }
 
     craftsmen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 12500
     }
 }
@@ -521,61 +521,61 @@
 611 = {
     aristocrats = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 100
     }
 
     clergymen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 275
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 650
     }
 
     soldiers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 1100
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 15275
     }
 
     aristocrats = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 100
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 100
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 350
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 100
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 9475
     }
 
@@ -584,36 +584,36 @@
 614 = {
     aristocrats = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 400
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 200
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1350
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1000
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 26475
     }
     farmers = {
         culture = austro_german
-        religion = catholic
+        religion = vitalic
         size = 6250
     }
 }
@@ -622,43 +622,43 @@
 432 = {
     aristocrats = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 1400
     }
 
     officers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 250
     }
 
     bureaucrats = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 550
     }
 
     clergymen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 1250
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 8000
     }
 
     soldiers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 2100
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 64050
     }
 }
@@ -666,31 +666,31 @@
 433 = {
     aristocrats = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 700
     }
 
     clergymen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 400
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 4000
     }
 
     soldiers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 2000
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 42400
     }
 
@@ -700,43 +700,43 @@
 466 = {
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 550
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 375
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 2800
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 1000
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 26375
     }
 
     farmers = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 33175
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 11175
     }
 }
@@ -744,49 +744,49 @@
 454 = {
     aristocrats = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 1700
     }
 
     clergymen = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 1250
     }
 
     artisans = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 4500
     }
 
         artisans = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 4000
     }
 
     soldiers = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 1750
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 7300
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 47300
     }
 
     farmers = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 90800
     }
 
@@ -795,37 +795,37 @@
 469 = {
     aristocrats = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 250
     }
 
     clergymen = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 100
     }
 
     artisans = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 1500
     }
 
     soldiers = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 350
     }
 
     farmers = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 22900
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 12000
     }
 }
@@ -833,42 +833,42 @@
 472 = {
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 450
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 225
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 6000
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 1000
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 11025
     }
 
     farmers = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 18825
     }
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 9825
     }
 
@@ -878,36 +878,36 @@
 825 = {
     aristocrats = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1400
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 200
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1350
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 3000
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 42475
     }
     farmers = {
         culture = north_italian
-        religion = protestant
+        religion = vitalic
         size = 12250
     }
 }
@@ -917,98 +917,98 @@
 720 = {
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 1000
     }
 
     capitalists = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 25
     }
 
     bureaucrats = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 400
     }
 
     officers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 125
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 2325
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 5000
     }
 
     craftsmen = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 3000
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 500
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 5000
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 90950
     }
 
     ########Swiss Pops
     capitalists = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 200
     }
 
     soldiers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 2100
     }
 
     clergymen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 600
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 10000
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 4500
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 65165
     }
 
@@ -1017,91 +1017,91 @@
 721 = {
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 175
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 150
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 775
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 150
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 14250
     }
 
     aristocrats = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 475
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 150
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1775
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 550
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 34250
     }
 
     aristocrats = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 275
     }
 
     clergymen = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 225
     }
 
     artisans = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 1175
     }
 
     soldiers = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 225
     }
 
     farmers = {
         culture = provencal
-        religion = catholic
+        religion = vitalic
         size = 11600
     }
 }
@@ -1109,55 +1109,55 @@
 722 = {
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 950
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 525
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 3000
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 2000
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 38525
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 100
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1500
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 500
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 33325
     }
 }
@@ -1165,55 +1165,55 @@
 723 = {
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 1500
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 300
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 4500
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 2000
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 45200
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 100
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 2500
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1500
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 21325
     }
 }
@@ -1223,73 +1223,73 @@
 724 = {
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 2550
     }
 
     bureaucrats = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 300
     }
 
     officers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 150
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 600
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 4000
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 5000
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 3000
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 90500
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 100
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 2500
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 700
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 29325
     }
 }
@@ -1297,55 +1297,55 @@
 725 = {
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 1500
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 800
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 2000
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 2000
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 40700
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 100
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1500
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 500
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 13325
     }
 }
@@ -1355,122 +1355,122 @@
 726 = {
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 4350
     }
 
     capitalists = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 25
     }
 
     bureaucrats = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 1325
     }
 
     officers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 400
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 3350
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 7000
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 7000
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 5000
     }
 
     craftsmen = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 4000
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 3350
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 125925
     }
 
     ########Swiss Pops
     aristocrats = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 3100
     }
 
     capitalists = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 175
     }
 
     soldiers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 4175
     }
 
     craftsmen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 2100
     }
 
     clergymen = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 1100
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 5300
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 5300
     }
 
     artisans = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 5300
     }
 
     farmers = {
         culture = swiss
-        religion = catholic
+        religion = vitalic
         size = 70250
     }
 }
@@ -1478,55 +1478,55 @@
 727 = {
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 1500
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 1075
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 3400
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 500
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 26975
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 100
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1500
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 500
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 43325
     }
 }
@@ -1535,31 +1535,31 @@
 2669 = {
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 100
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1500
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 500
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 23325
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 10000
     }
 
@@ -1570,49 +1570,49 @@
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 35
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 450
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 200
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = vitalic
         size = 9065
     }
 
     clergymen = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 100
     }
 
     artisans = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 1000
     }
 
     soldiers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 500
     }
 
     farmers = {
         culture = swiss
-        religion = protestant
+        religion = vitalic
         size = 21325
     }
 }

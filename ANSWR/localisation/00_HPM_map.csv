@@ -12,7 +12,7 @@ ABU_1162;Arabian Gulf;;;;;;;;;;;;x
 EGY_897;Western Syria;;;;;;;;;;;;x
 EGY_903;Eastern Syria;;;;;;;;;;;;x
 PROV928;Baqubah;;;;;;;;;;;;x
-PROV1813;Hasakeh-Magarisu;;;;;;;;;;;;x
+PROV1813;Hasakah;;;;;;;;;;;;x
 PROV907;Deir ez-Zor;;;;;;;;;;;;x
 PROV901;Raqqah;;;;;;;;;;;;x
 PROV2133;Gizab;;;;;;;;;;;;x
@@ -236,7 +236,7 @@ PROV2526;Palmyra and Line Islands;;;;;;;;;;;;;;;;;;;;;;;x
 TIB_1591;Tibetan Plateau;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2482;Van Diemen's Land;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2382;Laboulaye;;;;;;;;;;;;;;;;;;;;;;;x
-PROV2640;Tagrit-Idiqlat;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2640;Gwadar;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1071;Qeshm;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2786;Gulf of Oman;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2787;Hormuz Strait;;;;;;;;;;;;;;;;;;;;;;;x
@@ -461,7 +461,7 @@ TUR_805;Southern Macedonia;;;;;;;;;;;;x
 TUR_806;Northern Macedonia;;;;;;;;;;;;x
 TUR_809;Eastern Rumelia;;;;;;;;;;;;x
 TUR_823;Eastern Macedonia;;;;;;;;;;;;x
-PROV829;Ksanti;;;;;;;;;;;;x
+PROV829;Xanthe;;;;;;;;;;;;x
 TUR_876;Ankara;;;;;;;;;;;;x
 TUR_880;Kastamonu;;;;;;;;;;;;x
 TUR_882;Trebizond;;;;;;;;;;;;x
@@ -653,6 +653,7 @@ TUR_805;Southern Macedonia;;;;;;;;;;;;x
 TUR_806;Northern Macedonia;;;;;;;;;;;;x
 TUR_809;Eastern Rumelia;;;;;;;;;;;;x
 TUR_823;Eastern Macedonia;;;;;;;;;;;;x
+PROV829;Xanthe;;;;;;;;;;;;x
 TUR_876;Ankara;;;;;;;;;;;;x
 TUR_880;Kastamonu;;;;;;;;;;;;x
 TUR_882;Trabizond;;;;;;;;;;;;x
@@ -1239,29 +1240,3 @@ CHI_1600;Urumqui;;;;;;;;;;;;x
 CHI_1601;Yunnan;;;;;;;;;;;;x
 CHI_1604;Shen;;;;;;;;;;;;x
 CHI_1610;Wuying;;;;;;;;;;;;x
-PROV923;Ninwe;;;;;;;;;;;;x
-PROV843;Sakiz;;;;;;;;;;;;x
-PROV859;Gelibolu;;;;;;;;;;;;x
-PROV805;Solun;;;;;;;;;;;;x
-PROV821;Vodinu;;;;;;;;;;;;x
-PROV819;Lerin;;;;;;;;;;;;x
-PROV820;Grebini;;;;;;;;;;;;x
-PROV833;Trikolj;;;;;;;;;;;;x
-PROV834;Athina;;;;;;;;;;;;x
-PROV840;Korinthos;;;;;;;;;;;;x
-PROV1751;Rakoti-Alexandria;;;;;;;;;;;;x
-PROV1747;Tandata;;;;;;;;;;;;x
-PROV1750;Tipersis-Phylake;;;;;;;;;;;;x
-PROV1765;Phiom-Philadelphia;;;;;;;;;;;;x
-PROV1763;Het-Nesut-Heracleopolis;;;;;;;;;;;;x
-PROV1745;Al Qahiroah;;;;;;;;;;;;x
-PROV1767;Al Luqsur;;;;;;;;;;;;x
-PROV917;Yerushalayim;;;;;;;;;;;;x
-PROV989;Hevron;;;;;;;;;;;;x
-PROV920;Azza;;;;;;;;;;;;x
-PROV919;Yaffo-Tel Aviv;;;;;;;;;;;;x
-PROV918;Shechem;;;;;;;;;;;;x
-PROV916;Akko;;;;;;;;;;;;x
-PROV908;Rabat-Ammon;;;;;;;;;;;;x
-PROV1132;Ar-Ramadi;;;;;;;;;;;;x
-PROV927;Sur-marrati;;;;;;;;;;;;x

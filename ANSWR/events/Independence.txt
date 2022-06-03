@@ -1664,7 +1664,7 @@ country_event = {
     }
 }
 
-# Bulgarian Independence?
+# iskhor Independence?
 country_event = {
 
     id = 90029
@@ -1678,28 +1678,28 @@ country_event = {
         NOT = {
             exists = BUL
             has_country_flag = no_bulgaria_independence
-            primary_culture = bulgarian
+            primary_culture = iskhor
         }
         is_possible_vassal = BUL
         nationalism_n_imperialism = 1
         OR = {
             AND = {
-                NOT = { accepted_culture = bulgarian }
+                NOT = { accepted_culture = iskhor }
                 any_state = {
                     any_owned_province = {
                         is_core = BUL
-                        culture = bulgarian
+                        culture = iskhor
                         literacy = 0.25
                     }
                     average_militancy = 2
                 }
             }
             AND = {
-                accepted_culture = bulgarian
+                accepted_culture = iskhor
                 any_state = {
                     any_owned_province = {
                         is_core = BUL
-                        culture = bulgarian
+                        culture = iskhor
                         literacy = 0.5
                     }
                     average_militancy = 6
@@ -1714,7 +1714,7 @@ country_event = {
         modifier = {
             factor = 1.5
             any_pop = {
-                has_pop_culture = bulgarian
+                has_pop_culture = iskhor
                 is_accepted_culture = yes
             }
         }
@@ -1756,17 +1756,17 @@ country_event = {
         }
     }
 
-    immediate = { random_owned = { limit = { owner = { accepted_culture = bulgarian } } owner = { remove_accepted_culture = bulgarian } } }
+    immediate = { random_owned = { limit = { owner = { accepted_culture = iskhor } } owner = { remove_accepted_culture = iskhor } } }
 
     option = {
         name = "EVT90017OPTA"
         set_global_flag = balkans_call_for_help
         any_pop = {
-            limit = { has_pop_culture = bulgarian}
+            limit = { has_pop_culture = iskhor}
             militancy = 3
         }
         any_owned = {
-            limit = { culture = bulgarian }
+            limit = { culture = iskhor }
             add_province_modifier = {
                 name = nationalist_agitation
                 duration = 365
@@ -1811,17 +1811,17 @@ country_event = {
         release_vassal = BUL
         BUL = {
             any_pop = {
-                limit = { has_pop_culture = bulgarian }
+                limit = { has_pop_culture = iskhor }
                 militancy = -8
             }
         }
         any_pop = {
-            limit = { has_pop_culture = bulgarian }
+            limit = { has_pop_culture = iskhor }
             militancy = -3
         }
         any_pop = {
             limit = {
-                NOT = { has_pop_culture = bulgarian }
+                NOT = { has_pop_culture = iskhor }
                 is_primary_culture = no
             }
             militancy = 1
@@ -1889,7 +1889,7 @@ country_event = {
         set_country_flag = no_bulgaria_independence
         set_global_flag = balkans_call_for_help
         any_pop = {
-            limit = { has_pop_culture = bulgarian}
+            limit = { has_pop_culture = iskhor}
             militancy = 8
         }
         ai_chance = {

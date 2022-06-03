@@ -1,0 +1,280 @@
+#Macedonia Region (424000) #see Greece.txt and Bulgaria.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Nadatise (424000/106000 POPS)
+806 = {
+
+    aristocrats = {
+        culture = nadati
+        religion = the_broken
+        size = 4500
+    }
+
+    bureaucrats = {
+        culture = nadati
+        religion = the_broken
+        size = 1225
+    }
+
+    officers = {
+        culture = nadati
+        religion = the_broken
+        size = 475
+    }
+
+    clergymen = {
+        culture = nadati
+        religion = the_broken
+        size = 2325
+    }
+
+    artisans = {
+        culture = nadati
+        religion = the_broken
+        size = 10000
+    }
+
+    artisans = {
+        culture = nadati
+        religion = the_broken
+        size = 10000
+    }
+
+    artisans = {
+        culture = nadati
+        religion = the_broken
+        size = 10000
+    }
+
+    soldiers = {
+        culture = nadati
+        religion = the_broken
+        size = 6000
+    }
+
+    farmers = {
+        culture = nadati
+        religion = the_broken
+        size = 103255
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 11225
+    }
+
+    aristocrats = {
+        culture = iskhor
+        religion = the_broken
+        size = 125
+    }
+
+    officers = {
+        culture = iskhor
+        religion = the_broken
+        size = 110
+    }
+
+    soldiers = {
+        culture = iskhor
+        religion = the_broken
+        size = 200
+    }
+
+    clergymen = {
+        culture = iskhor
+        religion = the_broken
+        size = 125
+    }
+
+    artisans = {
+        culture = iskhor
+        religion = the_broken
+        size = 2100
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = the_broken
+        size = 36350
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = the_broken
+        size = 110
+    }
+
+    officers = {
+        culture = greek
+        religion = the_broken
+        size = 110
+    }
+
+    soldiers = {
+        culture = greek
+        religion = the_broken
+        size = 200
+    }
+
+    clergymen = {
+        culture = greek
+        religion = the_broken
+        size = 110
+    }
+
+    artisans = {
+        culture = greek
+        religion = the_broken
+        size = 1200
+    }
+
+    farmers = {
+        culture = greek
+        religion = the_broken
+        size = 11200
+    }
+
+    farmers = {
+        culture = croat
+        religion = the_broken
+        size = 4200
+    }
+
+    farmers = {
+        culture = serb
+        religion = the_broken
+        size = 11200
+    }
+}
+#Monastir Region (268000) #see Greece.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Bitola (268000/67000 POPS)
+807 = {
+    soldiers = {
+        culture = iskhor
+        religion = the_broken
+        size = 1200
+    }
+
+    clergymen = {
+        culture = iskhor
+        religion = the_broken
+        size = 110
+    }
+
+    artisans = {
+        culture = iskhor
+        religion = the_broken
+        size = 425
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = the_broken
+        size = 24075
+    }
+
+    soldiers = {
+        culture = serb
+        religion = the_broken
+        size = 200
+    }
+
+    clergymen = {
+        culture = serb
+        religion = the_broken
+        size = 110
+    }
+
+    artisans = {
+        culture = serb
+        religion = the_broken
+        size = 225
+    }
+
+    farmers = {
+        culture = serb
+        religion = the_broken
+        size = 12965
+    }
+
+    farmers = {
+        culture = serb
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = sunni
+        size = 6000
+    }
+
+    aristocrats = {
+        culture = nadati
+        religion = the_broken
+        size = 1250
+    }
+
+    clergymen = {
+        culture = nadati
+        religion = the_broken
+        size = 1125
+    }
+
+    artisans = {
+        culture = nadati
+        religion = the_broken
+        size = 10000
+    }
+
+    artisans = {
+        culture = nadati
+        religion = the_broken
+        size = 4000
+    }
+
+    soldiers = {
+        culture = nadati
+        religion = the_broken
+        size = 3000
+    }
+
+    farmers = {
+        culture = nadati
+        religion = the_broken
+        size = 61255
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 5975
+    }
+
+    soldiers = {
+        culture = greek
+        religion = the_broken
+        size = 175
+    }
+
+    clergymen = {
+        culture = greek
+        religion = the_broken
+        size = 110
+    }
+
+    artisans = {
+        culture = greek
+        religion = the_broken
+        size = 250
+    }
+
+    farmers = {
+        culture = greek
+        religion = the_broken
+        size = 14475
+    }
+
+}

@@ -86,14 +86,13 @@ political_decisions = {
     picture = france_liberty
         potential = {
         tag = PRP
-        NOT = {
-        418 = { core = THIS }
-        }
+        418 = { owned_by = DPA }
+        NOT = { has_country_flag = pars_republic_victory }
         }
 
         allow = {
             war = no
-            owns = 418
+            418 = { owned_by = PRP }
             NOT = {
                 exists = DPA
             }
@@ -105,27 +104,24 @@ political_decisions = {
             FRA_418 = { add_core = PRP remove_core = DPA }
             FRA_435 = { add_core = PRP remove_core = DPA }
             FRA_399 = { add_core = PRP remove_core = DPA }
+            set_country_flag = pars_republic_victory
         }
         ai_will_do = { factor = 1 }
     }
 
     #DPA wins Parish civil war
     parish_duchy_victory = {
-    picture = war_propaganda_lady
+    picture = war_propaganda_france
         potential = {
         tag = DPA
-        425 = { core = THIS }
-        NOT = {
-        425 = { is_capital = yes }
-        }
+        425 = { owned_by = THIS }
+        NOT = { has_country_flag = pars_duchy_victory }
         }
 
         allow = {
             war = no
-            owns = 425
-            NOT = {
-            exists = PRP
-            }
+            425 = { owned_by = THIS}
+            NOT = { exists = PRP }
         }
 
         effect = {
@@ -133,9 +129,105 @@ political_decisions = {
             capital = 425
             FRA_400 = { add_core = DPA remove_core = PRP }
             FRA_425 = { add_core = DPA remove_core = PRP }
+            set_country_flag = pars_duchy_victory
         }
         ai_will_do = { factor = 1 }
     }
+    #####################################
+    ## FRANCE UNIFIED FLAVOR AND CHAINS##
+    #####################################
 
+    ## Monarchy takes the Isles de France
+    #The New French Autocracy
+    neo_french_autocracy = {
+    picture = fra_deci
+        potential = {
+        tag = FRE
+        AND = { OR = { government = absolute_monarchy government = prussian_constitutionalism government = hms_government }}
+        not = { has_country_flag = french_nobility }
+        }
+
+        allow = {
+            is_greater_power = yes
+            prestige = 60
+            idealism = 1
+            associationism = 1
+            war = no
+        }
+
+        effect = {
+            prestige = 10
+            set_country_flag = french_nobility
+        }
+        ai_will_do = { factor = 1 }
+    }
+    embrace_the_autocracy = {
+    potential = {
+        tag = FRE
+        has_country_flag = french_nobility
+        NOT = { has_country_flag = embraced_nobility }
+        }
+
+        allow = {
+            is_greater_power = yes
+            prestige = 80
+            functionalism = 1
+            penomenalism = 1
+            war = no
+        }
+
+        effect = {
+            prestige = 15
+            schools = culture_tech_school
+            nationalvalue = nv_autocracy
+            set_country_flag = embraced_nobility
+        }
+    }
+    ## Republic of the Iles
+    #The New French Autocracy
+    neo_french_commons = {
+    picture = fra_deci
+        potential = {
+        tag = FRE
+        AND = { OR = { government = democracy government = trading_republic government = fascist_dictatorship government = bourgeois_dictatorship government = presidential_dictatorship government = proletarian_dictatorship }}
+        NOT = { has_country_flag = french_unity }
+        }
+
+        allow = {
+            is_greater_power = yes
+            prestige = 60
+            medicine = 1
+            interchangeable_parts = 1
+            war = no
+        }
+
+        effect = {
+            prestige = 5
+            set_country_flag = french_unity
+        }
+        ai_will_do = { factor = 1 }
+    }
+    embrace_the_commoners = {
+    potential = {
+        tag = FRE
+        has_country_flag = french_unity
+        not = { has_country_flag = embraced_unity }
+        }
+
+        allow = {
+            is_greater_power = yes
+            prestige = 80
+            functionalism = 1
+            inorganic_chemistry = 1
+            war = no
+        }
+
+        effect = {
+            prestige = 10
+            schools = french_commoner_school
+            nationalvalue = nv_equality
+            set_country_flag = embraced_unity
+        }
+    }
 #End of political_decisions brackets    
 }

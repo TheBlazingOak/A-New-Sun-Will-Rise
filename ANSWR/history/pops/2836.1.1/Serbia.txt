@@ -4,25 +4,25 @@
 791 = {
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 150
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 750
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 250
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 15350
     }
 
@@ -90,25 +90,25 @@
 792 = {
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 250
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 1100
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 300
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 23325
     }
 
@@ -180,25 +180,25 @@
 
     clergymen = {
         culture = romanian
-        religion = orthodox
+        religion = the_broken
         size = 100
     }
 
     artisans = {
         culture = romanian
-        religion = orthodox
+        religion = the_broken
         size = 500
     }
 
     soldiers = {
         culture = romanian
-        religion = orthodox
+        religion = the_broken
         size = 100
     }
 
     farmers = {
         culture = romanian
-        religion = orthodox
+        religion = the_broken
         size = 10300
     }
 }
@@ -206,31 +206,31 @@
 2538 = {
     officers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 75
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 275
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 1250
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 300
     }
 
     serfs = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 24175
     }
 
@@ -398,49 +398,49 @@
 794 = {
     aristocrats = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 2200
     }
 
     bureaucrats = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 100
     }
 
     officers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 250
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 900
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 4000
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 2025
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 55925
     }
 
     farmers = {
         culture = gypsy
-        religion = orthodox
+        religion = the_broken
         size = 4500
     }
 
@@ -474,55 +474,55 @@
 795 = {
     aristocrats = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 500
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 150
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 2600
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 1600
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 33360
     }
 
     clergymen = {
         culture = romanian
-        religion = orthodox
+        religion = the_broken
         size = 100
     }
 
     artisans = {
         culture = romanian
-        religion = orthodox
+        religion = the_broken
         size = 500
     }
 
     soldiers = {
         culture = romanian
-        religion = orthodox
+        religion = the_broken
         size = 400
     }
 
     farmers = {
         culture = romanian
-        religion = orthodox
+        religion = the_broken
         size = 16000
     }
 }
@@ -530,31 +530,31 @@
 796 = {
     aristocrats = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 400
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 150
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 1200
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 1500
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 40200
     }
 }
@@ -562,31 +562,31 @@
 797 = {
     aristocrats = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 150
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 150
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 400
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 500
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 13000
     }
 }
@@ -596,49 +596,49 @@
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 1350
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 350
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 2000
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 48300
     }
 
     soldiers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     clergymen = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 150
     }
 
     farmers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 3700
     }
 
@@ -689,49 +689,49 @@
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 1100
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 125
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 1500
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 38425
     }
 
     soldiers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     clergymen = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 250
     }
 
     farmers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 7950
     }
 
@@ -772,61 +772,61 @@
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 1100
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 100
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 900
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 21420
     }
 
     aristocrats = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     officers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     soldiers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     clergymen = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     farmers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
@@ -948,74 +948,74 @@
     }
 
     aristocrats = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     officers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     soldiers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     clergymen = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     farmers = {
-        culture = bulgarian
-        religion = orthodox
+        culture = iskhor
+        religion = the_broken
         size = 2000
     }
 
     aristocrats = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 100
     }
 
     officers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 100
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 1100
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 100
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 200
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 4000
     }
 
@@ -1099,37 +1099,37 @@
 
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = the_broken
         size = 100
     }
 
     officers = {
         culture = greek
-        religion = orthodox
+        religion = the_broken
         size = 100
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = the_broken
         size = 200
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = the_broken
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = the_broken
         size = 100
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = the_broken
         size = 1425
     }
 }
@@ -1137,25 +1137,25 @@
 804 = {
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 200
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 400
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 33250
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = the_broken
         size = 1100
     }
 

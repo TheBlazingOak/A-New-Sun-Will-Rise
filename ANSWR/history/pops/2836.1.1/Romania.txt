@@ -1703,11 +1703,37 @@
         religion = orthodox
         size = 62075
     }
-
-    slaves = {
-        culture = gypsy
+}
+#Mytilene (44000/11000 POPS)
+844 = {
+    aristocrats = {
+        culture = romanian
         religion = orthodox
-        size = 6000
+        size = 560
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = orthodox
+        size = 325
+    }
+
+    artisans = {
+        culture = romanian
+        religion = orthodox
+        size = 1100
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = orthodox
+        size = 700
+    }
+
+    farmers = {
+        culture = romanian
+        religion = orthodox
+        size = 31250
     }
 }
 #Calarasi (140000/35000 POPS)
@@ -2018,37 +2044,37 @@
     }
 
     aristocrats = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 100
     }
 
     officers = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 550
     }
 
     farmers = {
-        culture = bulgarian
+        culture = iskhor
         religion = orthodox
         size = 12050
     }

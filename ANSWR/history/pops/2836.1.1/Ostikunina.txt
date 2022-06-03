@@ -1,0 +1,415 @@
+#under the rule of Ostikunina
+#Ostikeskne
+#Tallinn/Reval (160000/40000 POPS)
+349 = {
+    aristocrats = {
+        culture = osti
+        religion = prosperity
+        size = 1300
+    }
+
+    officers = {
+        culture = osti
+        religion = prosperity
+        size = 200
+    }
+
+    clergymen = {
+        culture = osti
+        religion = prosperity
+        size = 325
+    }
+
+    artisans = {
+        culture = osti
+        religion = prosperity
+        size = 8750
+    }
+
+    artisans = {
+        culture = osti
+        religion = prosperity
+        size = 8750
+    }
+
+    artisans = {
+        culture = osti
+        religion = prosperity
+        size = 1750
+    }
+
+    soldiers = {
+        culture = osti
+        religion = prosperity
+        size = 6000
+    }
+
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 134425
+    }
+
+    aristocrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 775
+    }
+
+    bureaucrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 175
+    }
+
+    officers = {
+        culture = paltijan
+        religion = prosperity
+        size = 225
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 2825
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 1500
+    }
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 3425
+    }
+}
+#Narva (184000/46000 POPS)
+350 = {
+    clergymen = {
+        culture = osti
+        religion = prosperity
+        size = 1425
+    }
+
+    artisans = {
+        culture = osti
+        religion = prosperity
+        size = 5300
+    }
+
+    soldiers = {
+        culture = osti
+        religion = prosperity
+        size = 3050
+    }
+
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 51825
+    }
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 4425
+    }
+}
+
+#Kuressaare (16000/4000 POPS)
+353 = {
+
+    clergymen = {
+        culture = osti
+        religion = prosperity
+        size = 1000
+    }
+
+    artisans = {
+        culture = osti
+        religion = prosperity
+        size = 9500
+    }
+
+    artisans = {
+        culture = osti
+        religion = prosperity
+        size = 9500
+    }
+
+    artisans = {
+        culture = osti
+        religion = prosperity
+        size = 7500
+    }
+
+    soldiers = {
+        culture = osti
+        religion = prosperity
+        size = 1900
+    }
+
+    artisans = {
+        culture = osti
+        religion = prosperity
+        size = 9500
+    }
+
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 8425
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 8425
+    }
+
+}
+## Owned by Paltija ##
+#Vanaläti
+#Parnu (92000/23000 POPS)
+351 = {
+    aristocrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 350
+    }
+
+    clergymen = {
+        culture = osti
+        religion = prosperity
+        size = 400
+    }
+
+    artisans = {
+        culture = osti
+        religion = prosperity
+        size = 600
+    }
+
+    soldiers = {
+        culture = osti
+        religion = prosperity
+        size = 200
+    }
+
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 27800
+    }
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 4350
+    }
+}
+#Tartu/Dorpat (156000/39000 POPS)
+352 = {
+
+    clergymen = {
+        culture = osti
+        religion = prosperity
+        size = 350
+    }
+
+    artisans = {
+        culture = osti
+        religion = prosperity
+        size = 1300
+    }
+
+    soldiers = {
+        culture = osti
+        religion = prosperity
+        size = 350
+    }
+
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 41500
+    }
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 7375
+    }
+}
+#Valmeira (516000/129000 POPS)
+355 = {
+    clergymen = {
+        culture = osti
+        religion = prosperity
+        size = 2100
+    }
+
+    artisans = {
+        culture = osti
+        religion = prosperity
+        size = 7350
+    }
+
+    soldiers = {
+        culture = osti
+        religion = prosperity
+        size = 3150
+    }
+
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 83375
+    }
+
+    aristocrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 1250
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 600
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 100
+    }
+
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 18175
+    }
+
+}
+#Daugavpils (136000/34000 POPS)
+356 = {
+    clergymen = {
+        culture = osti
+        religion = prosperity
+        size = 175
+    }
+
+    artisans = {
+        culture = osti
+        religion = prosperity
+        size = 650
+    }
+
+    soldiers = {
+        culture = osti
+        religion = prosperity
+        size = 250
+    }
+
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 39800
+    }
+
+    aristocrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 700
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 2200
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 100
+    }
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 13635
+    }
+}
+#Jelgava (128000/32000 POPS)
+357 = {
+    clergymen = {
+        culture = osti
+        religion = prosperity
+        size = 225
+    }
+
+    artisans = {
+        culture = osti
+        religion = prosperity
+        size = 250
+    }
+
+    soldiers = {
+        culture = osti
+        religion = prosperity
+        size = 250
+    }
+
+    farmers = {
+        culture = osti
+        religion = prosperity
+        size = 38275
+    }
+
+    aristocrats = {
+        culture = paltijan
+        religion = prosperity
+        size = 1150
+    }
+
+    clergymen = {
+        culture = paltijan
+        religion = prosperity
+        size = 100
+    }
+
+    artisans = {
+        culture = paltijan
+        religion = prosperity
+        size = 750
+    }
+
+    soldiers = {
+        culture = paltijan
+        religion = prosperity
+        size = 100
+    }
+    farmers = {
+        culture = paltijan
+        religion = prosperity
+        size = 5175
+    }
+}

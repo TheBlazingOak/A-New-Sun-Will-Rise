@@ -1,0 +1,1390 @@
+####Provinces owned by Grand Para in 2836####
+#Maranhao Region (412000)
+#Sao Luis (160000/40000 POPS)
+2424 = {
+    aristocrats = {
+        culture = nossogene
+        religion = catholic
+        size = 1025
+    }
+
+    bureaucrats = {
+        culture = nossogene
+        religion = catholic
+        size = 225
+    }
+
+    officers = {
+        culture = nossogene
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = catholic
+        size = 325
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = catholic
+        size = 9100
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = catholic
+        size = 6550
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 62375
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 4600
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 12020
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 5000
+    }
+}
+#Teresina (160000/40000 POPS)
+2426 = {
+    aristocrats = {
+        culture = nossogene
+        religion = catholic
+        size = 425
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = catholic
+        size = 875
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 15000
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 5000
+    }
+}
+#Fortaleza (180000/45000 POPS)
+2429 = {
+    aristocrats = {
+        culture = nossogene
+        religion = catholic
+        size = 925
+    }
+
+    bureaucrats = {
+        culture = nossogene
+        religion = catholic
+        size = 150
+    }
+
+    officers = {
+        culture = nossogene
+        religion = catholic
+        size = 125
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = catholic
+        size = 1300
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = catholic
+        size = 4150
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 25250
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 2000
+    }
+}
+#Ribe (148000/37000 POPS)
+368 = {
+    aristocrats = {
+        culture = nossogene
+        religion = catholic
+        size = 1925
+    }
+
+    bureaucrats = {
+        culture = nossogene
+        religion = catholic
+        size = 550
+    }
+
+    officers = {
+        culture = nossogene
+        religion = catholic
+        size = 325
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = catholic
+        size = 2300
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = catholic
+        size = 6150
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 21150
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 4000
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1500
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 22020
+    }
+}
+##Nordeste##
+#Paraiba (92000/23000 POPS)
+2428 = {
+    aristocrats = {
+        culture = nossogene
+        religion = catholic
+        size = 1475
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = catholic
+        size = 1200
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = catholic
+        size = 6725
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = catholic
+        size = 175
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 19525
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 5000
+    }
+}
+#Crato (52000/13000 POPS)
+2430 = {
+    aristocrats = {
+        culture = nossogene
+        religion = catholic
+        size = 1275
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = catholic
+        size = 400
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = catholic
+        size = 1325
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 12225
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 2000
+    }
+}
+#Natal (132000/33000 POPS)
+2431 = {
+    aristocrats = {
+        culture = nossogene
+        religion = catholic
+        size = 1675
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = catholic
+        size = 6750
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 23025
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 4000
+    }
+}
+#Cabreibo (80000/20000 POPS)
+2433 = {
+    aristocrats = {
+        culture = nossogene
+        religion = catholic
+        size = 725
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = catholic
+        size = 3250
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = catholic
+        size = 750
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 14025
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 6000
+    }
+}
+#Antigua (25000/6250 POPS) #now independent
+2224 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 40
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = muisca
+        religion = catholic
+        size = 3080
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1080
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 5950
+    }
+}
+##Callifal##
+#Leeuwarden (209200/52300 POPS)
+385 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1450
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1325
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 29175
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 19000
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 5500
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = animist
+        size = 3700
+    }
+}
+#Belem (60000/15000 POPS)
+2410 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 25
+    }
+
+    officers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 325
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 7175
+    }
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 6000
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 1150
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 1500
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1700
+    }
+}
+#Santarem (20000/5000 POPS)
+2411 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 7100
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 2600
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = animist
+        size = 1975
+    }
+}
+#Porlamar (16000/4000 POPS)
+2357 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1500
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1500
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 5000
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 2500
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 17100
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 5600
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = animist
+        size = 4215
+    }
+}
+#Rotterdam (567000/141750 POPS)
+376 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1465
+    }
+
+    bureaucrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 550
+    }
+
+    officers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 400
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 3325
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 3250
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 33175
+    }
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 4200
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 10500
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = animist
+        size = 1200
+    }
+}
+#Barbados (100000/25000 POPS) #now independent
+2229 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1150
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 2500
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 6325
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 2200
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 22175
+    }
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 1000
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 5500
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = animist
+        size = 13700
+    }
+}
+##Grao-Para##
+#Dominica (19000/4750 POPS) #now independent
+2232 = {
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 2500
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 19200
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = animist
+        size = 11400
+    }
+}
+#Saint Lucia (18000/4500 POPS) #now independent
+2231 = {
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 2500
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 700
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 550
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 11200
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 11200
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = animist
+        size = 18400
+    }
+}
+#Oriximina (8000/2000 POPS)
+2408 = {
+    aristocrats = {
+        culture = amazonian
+        religion = catholic
+        size = 25
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 25
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 1650
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1520
+    }
+}
+#Turks & Caicos Islands (3000/750 POPS) #still a British colony
+2220 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1000
+    }
+
+    bureaucrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 600
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1500
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1750
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = muisca
+        religion = catholic
+        size = 6080
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 12455
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 4900
+    }
+}
+#Curacao (12300/3100 POPS)
+2234 = {
+
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 60
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1250
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 750
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = muisca
+        religion = catholic
+        size = 6080
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 9455
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 10900
+    }
+}
+#Under loose authority of Brazil 1836
+#Obidos (8000/2000 POPS)
+2412 = {
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 25
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 50
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = muisca
+        religion = catholic
+        size = 2900
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 5400
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = animist
+        size = 10900
+    }
+}
+##Amazonas##
+#Aruba (2400/600 POPS)
+2235 = {
+
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1120
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 125
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 38400
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 5715
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 2175
+    }
+
+    bureaucrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 80
+    }
+
+    officers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 150
+    }
+}
+
+####Not owned by Grand Para####
+##Amazonas##
+#Tefe (4000/1000 POPS)
+2404 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 1500
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 6000
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 6020
+    }
+}
+#Borba (12000/3000 POPS)
+2405 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 250
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 4875
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 550
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 6020
+    }
+}
+#Tabatinga (4000/1000 POPS)
+2407 = {
+    aristocrats = {
+        culture = amazonian
+        religion = catholic
+        size = 10
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = catholic
+        size = 15
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 4675
+    }
+
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 5
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 5
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 3520
+    }
+}
+##Mato Grosso##
+#Cachimbo (12000/3000 POPS)
+2413 = {
+    clergymen = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 25
+    }
+
+    artisans = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 50
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1200
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1400
+    }
+}
+
+##Rallego##
+#Tobago (15000/3750 POPS)
+2238 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 250
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 6000
+    }
+
+    farmers = {
+        culture = muisca
+        religion = catholic
+        size = 1220
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 3020
+    }
+}
+#Cachoeira (8000/2000 POPS)
+2403 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 250
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 2550
+    }
+
+    farmers = {
+        culture = muisca
+        religion = catholic
+        size = 1220
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 2020
+    }
+}
+#Sao Tome (16000/4000 POPS)
+1954 = {
+    aristocrats = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 400
+    }
+
+    soldiers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 400
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = muisca
+        religion = catholic
+        size = 1510
+    }
+
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 5015
+    }
+}

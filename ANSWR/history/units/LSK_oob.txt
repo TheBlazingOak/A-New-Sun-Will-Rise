@@ -1,0 +1,27 @@
+COL = { value = -150 }
+AMA = { value = -150 }
+ARI = { value = -200 }
+CAL = { value = -150 }
+LOS = { value = -150 }
+DES = { value = -200 }
+
+army = {
+    name = "The Alaskan Democratic Forces"
+    location = 1
+
+    regiment = {
+        name= "First Alaskan Regiment"
+        type = infantry
+        home = 1
+    }
+
+}
+
+leader = {
+    name = "Issac Uven"
+    type = land
+    date = 2836.1.1
+    personality = keen
+    background = incompetent
+    prestige = 0.25
+}

@@ -1,0 +1,343 @@
+#Grattoville (128000/32000 POPS)
+674 = {
+
+    aristocrats = {
+        culture = romanian
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = romanian
+        religion = orthodox
+        size = 18150
+    }
+
+    aristocrats = {
+        culture = iskhor
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = orthodox
+        size = 13050
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 1650
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 375
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 5100
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 3100
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 74165
+    }
+}
+#Dobruja Region (84000) #see Romania.txt for balance of Region
+#under the rule of the Ottoman Empire in 1836
+#Silistre (84000/21000 POPS) #now part of Bulgaria
+818 = {
+    aristocrats = {
+        culture = iskhor
+        religion = the_broken
+        size = 500
+    }
+
+    clergymen = {
+        culture = iskhor
+        religion = the_broken
+        size = 200
+    }
+
+    artisans = {
+        culture = iskhor
+        religion = the_broken
+        size = 450
+    }
+
+    soldiers = {
+        culture = iskhor
+        religion = the_broken
+        size = 500
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = the_broken
+        size = 14250
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = the_broken
+        size = 750
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = the_broken
+        size = 100
+    }
+
+    artisans = {
+        culture = romanian
+        religion = the_broken
+        size = 200
+    }
+
+    farmers = {
+        culture = romanian
+        religion = the_broken
+        size = 19625
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 450
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 3100
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 54100
+    }
+}
+#Shumen (144000/36000 POPS)
+813 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 1650
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 125
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 950
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 25275
+    }
+
+    clergymen = {
+        culture = iskhor
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = iskhor
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = iskhor
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = iskhor
+        religion = the_broken
+        size = 500
+    }
+
+    clergymen = {
+        culture = iskhor
+        religion = the_broken
+        size = 500
+    }
+
+    artisans = {
+        culture = iskhor
+        religion = the_broken
+        size = 750
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = the_broken
+        size = 31700
+    }
+}
+#Varna (220000/55000 POPS)
+814 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 700
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 2100
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 26425
+    }
+
+    clergymen = {
+        culture = iskhor
+        religion = the_broken
+        size = 400
+    }
+
+    artisans = {
+        culture = iskhor
+        religion = the_broken
+        size = 1900
+    }
+
+    soldiers = {
+        culture = iskhor
+        religion = the_broken
+        size = 500
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = the_broken
+        size = 29875
+    }
+}
+#Ruse (188000/47000 POPS)
+811 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 1050
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 850
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 3000
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 23250
+    }
+
+    clergymen = {
+        culture = iskhor
+        religion = the_broken
+        size = 200
+    }
+
+    artisans = {
+        culture = iskhor
+        religion = the_broken
+        size = 750
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = the_broken
+        size = 16050
+    }
+}

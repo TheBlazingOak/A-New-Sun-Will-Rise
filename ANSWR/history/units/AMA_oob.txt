@@ -1,0 +1,27 @@
+LSK = { value = -150 }
+COL = { value = -150 }
+ARI = { value = -200 }
+CAL = { value = -150 }
+LOS = { value = -150 }
+DES = { value = -200 }
+
+army = {
+    name = "The Amazona Packing Reserve"
+    location = 81
+
+    regiment = {
+        name= "First Amazona Reserve"
+        type = infantry
+        home = 81
+    }
+
+}
+
+leader = {
+    name = "Jeffery Jorgensen XIII"
+    type = land
+    date = 2836.1.1
+    personality = merciless
+    background = madman
+    prestige = 0.25
+}

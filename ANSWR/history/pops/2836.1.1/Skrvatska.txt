@@ -1,0 +1,391 @@
+#Skrvatska
+#Nation of Immigrated Croatians
+#Novigrad (72000/18000 POPS)
+829 = {
+
+	aristocrats = {
+        culture = skrvat
+    	religion = the_broken
+        size = 2200
+    }
+
+    bureaucrats = {
+        culture = skrvat
+    	religion = the_broken
+        size = 400
+    }
+
+    officers = {
+        culture = skrvat
+    	religion = the_broken
+        size = 250
+    }
+
+    soldiers = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 6000
+    }
+
+    artisans = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 9500
+    }
+
+    artisans = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 9500
+    }
+
+    artisans = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 3500
+    }
+
+    farmers = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 61255
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 14925
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 450
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 11350
+    }
+
+    clergymen = {
+        culture = iskhor
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = iskhor
+        religion = orthodox
+        size = 300
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = orthodox
+        size = 6550
+    }
+}
+#Hraj (160000/40000 POPS) #now part of Greece
+823 = {
+    aristocrats = {
+        culture = skrvat
+    	religion = the_broken
+        size = 800
+    }
+
+    artisans = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 4000
+    }
+
+    soldiers = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 3255
+    }
+
+    farmers = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 43255
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 9525
+    }
+
+    soldiers = {
+        culture = iskhor
+        religion = orthodox
+        size = 400
+    }
+
+    artisans = {
+        culture = iskhor
+        religion = orthodox
+        size = 300
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = orthodox
+        size = 7000
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 225
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 900
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 28175
+    }
+}
+#Ruzbrda (192000/48000 POPS)
+808 = {
+    aristocrats = {
+        culture = skrvat
+    	religion = the_broken
+        size = 500
+    }
+
+    artisans = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 2000
+    }
+
+    soldiers = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 1500
+    }
+
+    farmers = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 23255
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 4600
+    }
+
+    soldiers = {
+        culture = iskhor
+        religion = the_broken
+        size = 500
+    }
+
+    clergymen = {
+        culture = iskhor
+        religion = the_broken
+        size = 625
+    }
+
+    artisans = {
+        culture = iskhor
+        religion = the_broken
+        size = 900
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = the_broken
+        size = 28075
+    }
+
+    soldiers = {
+        culture = iskhor
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = iskhor
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = iskhor
+        religion = sunni
+        size = 300
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = the_broken
+        size = 5100
+    }
+
+    soldiers = {
+        culture = greek
+        religion = the_broken
+        size = 300
+    }
+
+    clergymen = {
+        culture = greek
+        religion = the_broken
+        size = 300
+    }
+
+    artisans = {
+        culture = greek
+        religion = the_broken
+        size = 300
+    }
+
+    farmers = {
+        culture = greek
+        religion = the_broken
+        size = 1500
+    }
+
+}
+#Plovdiv (120000/30000 POPS)
+815 = {
+	
+	aristocrats = {
+        culture = skrvat
+    	religion = the_broken
+        size = 1200
+    }
+
+    artisans = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 6000
+    }
+
+    soldiers = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 4000
+    }
+
+    farmers = {
+    	culture = skrvat
+    	religion = the_broken
+    	size = 31750
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 3425
+    }
+
+    aristocrats = {
+        culture = iskhor
+        religion = the_broken
+        size = 400
+    }
+
+    aristocrats = {
+        culture = iskhor
+        religion = the_broken
+        size = 200
+    }
+
+    clergymen = {
+        culture = iskhor
+        religion = the_broken
+        size = 800
+    }
+
+    artisans = {
+        culture = iskhor
+        religion = the_broken
+        size = 600
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = the_broken
+        size = 21475
+    }
+
+    aristocrats = {
+        culture = iskhor
+        religion = sunni
+        size = 300
+    }
+
+    officers = {
+        culture = iskhor
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = iskhor
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = iskhor
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = iskhor
+        religion = sunni
+        size = 300
+    }
+
+    farmers = {
+        culture = iskhor
+        religion = sunni
+        size = 9700
+    }
+
+    soldiers = {
+        culture = greek
+        religion = the_broken
+        size = 300
+    }
+
+    clergymen = {
+        culture = greek
+        religion = the_broken
+        size = 300
+    }
+
+    artisans = {
+        culture = greek
+        religion = the_broken
+        size = 600
+    }
+
+    farmers = {
+        culture = greek
+        religion = the_broken
+        size = 6200
+    }
+}

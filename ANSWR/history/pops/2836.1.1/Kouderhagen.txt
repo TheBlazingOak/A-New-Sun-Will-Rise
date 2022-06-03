@@ -1,3 +1,4 @@
+##Controlled by Kouderhagen (NET) in 2836##
 #Holland & Zeeland Region - 1353000
 #Amsterdam (464000/116000 POPS)
 375 = {
@@ -35,11 +36,6 @@
         culture = dutch
         religion = ketronant
         size = 36911
-    }
-    farmers = {
-        culture = flemish
-        religion = ketronant
-        size = 17990
     }
 }
 #Utrecht (152000/38000 POPS)
@@ -103,12 +99,12 @@
         size = 32182
     }
     artisans = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 141
     }
     farmers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 8034
     }
@@ -216,37 +212,37 @@
     }
 
     aristocrats = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 300
     }
 
     clergymen = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 200
     }
 
     artisans = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 1100
     }
 
     soldiers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 1100
     }
 
     artisans = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 900
     }
 
     farmers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 9100
     }
@@ -320,9 +316,9 @@
 #Kouderstad (396000/175000 POPS)
 400 = {
     aristocrats = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
-        size = 1800
+        size = 9800
     }
 
     aristocrats = {
@@ -338,15 +334,9 @@
     }
 
     capitalists = {
-        culture = flemish
-        religion = ketronant
-        size = 400
-    }
-
-    capitalists = {
         culture = dutch
         religion = ketronant
-        size = 500
+        size = 1200
     }
 
     officers = {
@@ -358,7 +348,7 @@
     aristocrats = {
         culture = dutch
         religion = ketronant
-        size = 2250
+        size = 3250
     }
 
     craftsmen = {
@@ -374,7 +364,7 @@
     }
 
     clergymen = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 200
     }
@@ -391,6 +381,24 @@
         size = 10000
     }
 
+    artisans = {
+        culture = dutch
+        religion = ketronant
+        size = 10000
+    }
+
+    artisans = {
+        culture = dutch
+        religion = ketronant
+        size = 10000
+    }
+
+    artisans = {
+        culture = dutch
+        religion = ketronant
+        size = 4750
+    }
+
     soldiers = {
         culture = dutch
         religion = ketronant
@@ -398,7 +406,7 @@
     }
 
     soldiers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 3000
     }
@@ -406,19 +414,13 @@
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 252550
+        size = 372575
     }
 
     artisans = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 5500
-    }
-
-    farmers = {
-        culture = flemish
-        religion = ketronant
-        size = 110000
     }
 }
 #Groningen (186600/46650 POPS)
@@ -456,12 +458,18 @@
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 93323
+        size = 97323
     }
     farmers = {
         culture = rhine_german
         religion = ketronant
-        size = 10034
+        size = 7034
+    }
+
+    farmers = {
+        culture = flanish
+        religion = ketronant
+        size = 14051
     }
 }
 #Zwolle (238000/59500 POPS)
@@ -489,7 +497,7 @@
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 65190
+        size = 68190
     }
     artisans = {
         culture = rhine_german
@@ -517,12 +525,12 @@
     artisans = {
         culture = dutch
         religion = ketronant
-        size = 9000
+        size = 11000
     }
     artisans = {
         culture = dutch
         religion = ketronant
-        size = 9000
+        size = 11000
     }
     artisans = {
         culture = dutch
@@ -537,12 +545,17 @@
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 131745
+        size = 136745
     }
     farmers = {
         culture = rhine_german
         religion = ketronant
         size = 5334
+    }
+    farmers = {
+        culture = flanish
+        religion = ketronant
+        size = 12150
     }
 }
 #Former Ghat - Now Nordhorn(16000/4000 POPS)
@@ -578,7 +591,7 @@
     }
 
     farmers = {
-        culture = north_german
+        culture = rhine_german
         size = 4500
         religion = ketronant
     }
@@ -592,9 +605,14 @@
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 37255
+        size = 47255
     }
 
+    farmers = {
+        culture = flanish
+        religion = ketronant
+        size = 4515
+    }
 }
 #under the rule of Hannover 1836
 #Lingen (80000/20000 POPS)
@@ -627,7 +645,7 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = rhine_german
         religion = ketronant
         size = 10
     }
@@ -646,33 +664,42 @@
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 28075
+        size = 38075
     }
 
     clergymen = {
-        culture = north_german
+        culture = rhine_german
         religion = ketronant
         size = 65
     }
 
     artisans = {
-        culture = north_german
+        culture = rhine_german
         religion = ketronant
         size = 150
     }
 
     soldiers = {
-        culture = north_german
+        culture = rhine_german
         religion = ketronant
         size = 25
     }
 
     farmers = {
+        culture = rhine_german
+        religion = ketronant
+        size = 11260
+    }
+    farmers = {
+        culture = flanish
+        religion = ketronant
+        size = 16200
+    }
+    farmers = {
         culture = north_german
         religion = ketronant
-        size = 26260
+        size = 5000
     }
-
 }
 #Emden (84000/21000 POPS)
 543 = {
@@ -689,7 +716,7 @@
     }
 
     aristocrats = {
-        culture = north_german
+        culture = rhine_german
         religion = ketronant
         size = 150
     }
@@ -707,7 +734,7 @@
     }
 
     artisans = {
-        culture = north_german
+        culture = rhine_german
         religion = ketronant
         size = 5000
     }
@@ -718,7 +745,7 @@
     }
 
     soldiers = {
-        culture = north_german
+        culture = rhine_german
         religion = ketronant
         size = 150
     }
@@ -734,7 +761,16 @@
         religion = ketronant
         size = 8000
     }
-
+    farmers = {
+        culture = flanish
+        religion = ketronant
+        size = 14200
+    }
+    farmers = {
+        culture = north_german
+        religion = ketronant
+        size = 5000
+    }
 }
 #Tournai (292000/73000 POPS)
 393 = {
@@ -826,7 +862,7 @@
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 64950
+        size = 68950
     }
 
     farmers = {
@@ -863,73 +899,77 @@
         religion = ketronant
         size = 18550
     }
-
+    farmers = {
+        culture = rhine_german
+        religion = ketronant
+        size = 15000
+    }
 }
 #Flanders Region (2558000)
 #Brussels (772000/193000 POPS)
 387 = {
     aristocrats = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 1500
     }
 
     officers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 200
     }
 
     bureaucrats = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 400
     }
 
     clergymen = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 625
     }
 
     capitalists = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 100
     }
 
     clerks = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 2150
     }
 
     craftsmen = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 15000
     }
 
     artisans = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 10000
     }
 
     artisans = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 10000
     }
 
     soldiers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 9000
     }
 
     labourers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 103725
     }
@@ -984,7 +1024,7 @@
         size = 23525
     }
     farmers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 14000
     }
@@ -993,7 +1033,7 @@
 390 = {
 
     aristocrats = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 1025
     }
@@ -1005,13 +1045,13 @@
     }
 
     clergymen = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 475
     }
 
     craftsmen = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 500
     }
@@ -1023,19 +1063,19 @@
     }
 
     artisans = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 7500
     }
 
     soldiers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 1400
     }
 
     farmers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 70700
     }
@@ -1067,31 +1107,31 @@
 #Hasselt (272000/68000 POPS)
 391 = {
     aristocrats = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 650
     }
 
     clergymen = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 475
     }
 
     artisans = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 3700
     }
 
     soldiers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 1100
     }
 
     farmers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 35175
     }
@@ -1107,13 +1147,13 @@
 #Luxembourg (172000/43000 POPS)
 397 = {
     aristocrats = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 175
     }
 
     bureaucrats = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 25
     }
@@ -1149,7 +1189,7 @@
     }
 
     farmers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 3580
     }
@@ -1165,61 +1205,61 @@
 #Namur (388000/97000 POPS)
 392 = {
     aristocrats = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 850
     }
 
     officers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 350
     }
 
     bureaucrats = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 500
     }
 
     clergymen = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 550
     }
 
     capitalists = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 150
     }
 
     clerks = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 2000
     }
 
     craftsmen = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 14000
     }
 
     artisans = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 5300
     }
 
     soldiers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 4000
     }
 
     labourers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 45200
     }
@@ -1239,43 +1279,43 @@
 #Liege (212000/53000 POPS)
 395 = {
     aristocrats = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 750
     }
 
     clergymen = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 500
     }
 
     clerks = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 100
     }
 
     craftsmen = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 6000
     }
 
     artisans = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 5200
     }
 
     soldiers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 3100
     }
 
     farmers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 63800
     }
@@ -1290,7 +1330,7 @@
 #Arlon (172000/43000 POPS)
 398 = {
     aristocrats = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 450
     }
@@ -1302,13 +1342,13 @@
     }
 
     clergymen = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 225
     }
 
     artisans = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 1350
     }
@@ -1326,7 +1366,7 @@
     }
 
     farmers = {
-        culture = flemish
+        culture = dutch
         religion = ketronant
         size = 5425
     }
@@ -1515,19 +1555,19 @@
     aristocrats = {
         culture = rhine_german
         religion = ketronant
-        size = 1300
+        size = 3300
     }
 
     bureaucrats = {
         culture = dutch
         religion = ketronant
-        size = 850
+        size = 1250
     }
 
     officers = {
         culture = rhine_german
         religion = ketronant
-        size = 200
+        size = 300
     }
 
     clergymen = {
@@ -1560,7 +1600,7 @@
     farmers = {
         culture = rhine_german
         religion = ketronant
-        size = 128777
+        size = 148777
     }
 
     aristocrats = {
@@ -1584,7 +1624,7 @@
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 45800
+        size = 85800
     }
 }
 #Munster (464000/95000 POPS)
@@ -1640,6 +1680,6 @@
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 46250
+        size = 56250
     }
 }

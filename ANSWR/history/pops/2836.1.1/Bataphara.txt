@@ -1,0 +1,928 @@
+#######################
+### Bataphara (NEP) ###
+#######################
+### Rajad Region ###
+#Katmandu (540000/135000 POPS)
+1326 = {
+    aristocrats = {
+        culture = nepali
+        religion = daharite
+        size = 6000
+    }
+
+    bureaucrats = {
+        culture = nepali
+        religion = daharite
+        size = 2175
+    }
+
+    officers = {
+        culture = nepali
+        religion = daharite
+        size = 3225
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = daharite
+        size = 7100
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 12050
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 12050
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 12050
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 12050
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 12050
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 7050
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 9000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 9000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 6000
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 186250
+    }
+
+    slaves = {
+        culture = nepali
+        religion = daharite
+        size = 351250
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = daharite
+        size = 2000
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = daharite
+        size = 1000
+    }
+
+    artisans = {
+        culture = bengali
+        religion = daharite
+        size = 8250
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = daharite
+        size = 3000
+    }
+
+    farmers = {
+        culture = bengali
+        religion = daharite
+        size = 110125
+    }
+
+    slaves = {
+        culture = bengali
+        religion = daharite
+        size = 131550
+    }
+}
+#Patna (3028000/757000 POPS)
+1247 = {
+    aristocrats = {
+        culture = nepali
+        religion = daharite
+        size = 5000
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = daharite
+        size = 3500
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 10000
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 5000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 500
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 140750
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = daharite
+        size = 2500
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = daharite
+        size = 2250
+    }
+
+    artisans = {
+        culture = bengali
+        religion = daharite
+        size = 7000
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = daharite
+        size = 1250
+    }
+
+    farmers = {
+        culture = bengali
+        religion = daharite
+        size = 73750
+    }
+    slaves = {
+        culture = bengali
+        religion = daharite
+        size = 110000
+    }
+}
+#Bhagalpur (1900000/475000 POPS)
+1250 = {
+    aristocrats = {
+        culture = nepali
+        religion = daharite
+        size = 4000
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = daharite
+        size = 3250
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 10000
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 2000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 3000
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 135250
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = daharite
+        size = 1900
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = daharite
+        size = 1625
+    }
+
+    artisans = {
+        culture = bengali
+        religion = daharite
+        size = 2000
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = daharite
+        size = 1500
+    }
+
+    farmers = {
+        culture = bengali
+        religion = daharite
+        size = 60375
+    }
+    slaves = {
+        culture = bengali
+        religion = daharite
+        size = 40000
+    }
+
+}
+### The Himas Region ###
+#Jumla (412000/103000 POPS)
+1327 = {
+    aristocrats = {
+        culture = nepali
+        religion = daharite
+        size = 3900
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = daharite
+        size = 1450
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 9300
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 9100
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 149250
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = daharite
+        size = 1700
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = daharite
+        size = 1375
+    }
+
+    artisans = {
+        culture = bengali
+        religion = daharite
+        size = 8850
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = daharite
+        size = 3350
+    }
+
+    farmers = {
+        culture = bengali
+        religion = daharite
+        size = 63725
+    }
+    slaves = {
+        culture = bengali
+        religion = daharite
+        size = 70000
+    }
+    slaves = {
+        culture = delhiite
+        religion = daharite
+        size = 42500
+    }
+}
+#Lucknow (2756000/689000 POPS)
+1242 = {
+    aristocrats = {
+        culture = nepali
+        religion = daharite
+        size = 2250
+    }
+
+    bureaucrats = {
+        culture = nepali
+        religion = daharite
+        size = 1500
+    }
+
+    officers = {
+        culture = nepali
+        religion = daharite
+        size = 1500
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = daharite
+        size = 1125
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 10000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 3500
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 91125
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = daharite
+        size = 1750
+    }
+
+    bureaucrats = {
+        culture = bengali
+        religion = daharite
+        size = 1700
+    }
+
+    officers = {
+        culture = bengali
+        religion = daharite
+        size = 750
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = daharite
+        size = 1275
+    }
+
+    artisans = {
+        culture = bengali
+        religion = daharite
+        size = 5000
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = daharite
+        size = 1100
+    }
+
+    farmers = {
+        culture = bengali
+        religion = daharite
+        size = 51525
+    }
+    slaves = {
+        culture = bengali
+        religion = daharite
+        size = 50000
+    }
+    slaves = {
+        culture = delhiite
+        religion = daharite
+        size = 22500
+    }
+}
+#Fyzabad (2064000/516000 POPS)
+1244 = {
+    aristocrats = {
+        culture = nepali
+        religion = daharite
+        size = 4000
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = daharite
+        size = 2000
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 8000
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 1500
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 164500
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = daharite
+        size = 700
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = daharite
+        size = 400
+    }
+
+    artisans = {
+        culture = bengali
+        religion = daharite
+        size = 10000
+    }
+
+    artisans = {
+        culture = bengali
+        religion = daharite
+        size = 6100
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = daharite
+        size = 3500
+    }
+
+    farmers = {
+        culture = bengali
+        religion = daharite
+        size = 121400
+    }
+    slaves = {
+        culture = bengali
+        religion = daharite
+        size = 90000
+    }
+}
+#Gorakhpur (2476000/619000 POPS)
+1246 = {
+    aristocrats = {
+        culture = nepali
+        religion = daharite
+        size = 500
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = daharite
+        size = 375
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 6000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 500
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 141625
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = daharite
+        size = 2500
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = daharite
+        size = 6250
+    }
+
+    artisans = {
+        culture = bengali
+        religion = daharite
+        size = 10000
+    }
+
+    artisans = {
+        culture = bengali
+        religion = daharite
+        size = 5000
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = daharite
+        size = 3000
+    }
+
+    farmers = {
+        culture = bengali
+        religion = daharite
+        size = 166250
+    }
+
+    slaves = {
+        culture = bengali
+        religion = daharite
+        size = 40000
+    }
+}
+### Pahajala ###
+#Tumlong (56000/14000 POPS)  #now part of India
+#Animist - Lepcha Mun
+1328 = {
+    aristocrats = {
+        culture = nepali
+        religion = daharite
+        size = 1050
+    }
+
+    bureaucrats = {
+        culture = nepali
+        religion = daharite
+        size = 520
+    }
+
+    officers = {
+        culture = nepali
+        religion = daharite
+        size = 450
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = daharite
+        size = 2000
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 9000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 4100
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 92095
+    }
+
+    farmers = {
+        culture = bengali
+        religion = daharite
+        size = 42250
+    }
+
+    slaves = {
+        culture = bengali
+        religion = daharite
+        size = 63000
+    }
+}
+#Thimpu (136000/34000 POPS)
+1329 = {
+    aristocrats = {
+        culture = nepali
+        religion = daharite
+        size = 1575
+    }
+
+    bureaucrats = {
+        culture = nepali
+        religion = daharite
+        size = 780
+    }
+
+    officers = {
+        culture = nepali
+        religion = daharite
+        size = 425
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = daharite
+        size = 3000
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 11000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 3100
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 105575
+    }
+
+    aristocrats = {
+        culture = bengali
+        religion = daharite
+        size = 500
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = daharite
+        size = 750
+    }
+
+    artisans = {
+        culture = bengali
+        religion = daharite
+        size = 2000
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = daharite
+        size = 125
+    }
+
+    slaves = {
+        culture = bengali
+        religion = daharite
+        size = 73000
+    }
+}
+#Darjeeling (3248000/812000 POPS)
+1252 = {
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 90000
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 12500
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 3000
+    }
+
+    farmers = {
+        culture = bengali
+        religion = daharite
+        size = 115250
+    }
+
+    slaves = {
+        culture = bengali
+        religion = daharite
+        size = 45000
+    }
+
+}
+#Rajshahi (2332000/583000 POPS)
+1255 = {
+    aristocrats = {
+        culture = bengali
+        religion = daharite
+        size = 2950
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = daharite
+        size = 2750
+    }
+
+    artisans = {
+        culture = bengali
+        religion = daharite
+        size = 10000
+    }
+
+    artisans = {
+        culture = bengali
+        religion = daharite
+        size = 7000
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = daharite
+        size = 3000
+    }
+
+    farmers = {
+        culture = bengali
+        religion = daharite
+        size = 193750
+    }
+
+    aristocrats = {
+        culture = nepali
+        religion = daharite
+        size = 1500
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = daharite
+        size = 2000
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 10000
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 2000
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 131500
+    }
+}
+#Gauhati (1060000/265000 POPS)
+1258 = {
+
+    aristocrats = {
+        culture = nepali
+        religion = daharite
+        size = 11500
+    }
+
+    bureaucrats = {
+        culture = nepali
+        religion = daharite
+        size = 500
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = daharite
+        size = 1500
+    }
+
+    artisans = {
+        culture = nepali
+        religion = daharite
+        size = 6000
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = daharite
+        size = 1500
+    }
+
+    farmers = {
+        culture = nepali
+        religion = daharite
+        size = 85500
+    }
+
+    bureaucrats = {
+        culture = bengali
+        religion = daharite
+        size = 250
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = daharite
+        size = 500
+    }
+
+    artisans = {
+        culture = bengali
+        religion = daharite
+        size = 12500
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = daharite
+        size = 3500
+    }
+
+    farmers = {
+        culture = bengali
+        religion = daharite
+        size = 145750
+    }
+}
