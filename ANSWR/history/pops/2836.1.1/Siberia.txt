@@ -1,35 +1,1617 @@
 ###Siberia###
-
-#Unclaimed
-#Port Arthur (80000/15000 POPS)
-1481 = {
-    aristocrats = {
-        culture = russian
-        religion = veravburyu
+2672 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
         size = 100
     }
 
     clergymen = {
-        culture = russian
-        religion = veravburyu
+        culture = ledyanyyeludi
+        religion = shiset
         size = 50
     }
 
     artisans = {
-        culture = russian
-        religion = veravburyu
+        culture = ledyanyyeludi
+        religion = shiset
         size = 250
     }
 
     soldiers = {
-        culture = russian
-        religion = veravburyu
+        culture = ledyanyyeludi
+        religion = shiset
         size = 50
     }
 
     farmers = {
-        culture = russian
-        religion = veravburyu
+        culture = ledyanyyeludi
+        religion = shiset
         size = 4550
     }
 }
+2668 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2665 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2642 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+1072 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2639 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2618 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2638 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2660 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2621 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2619 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2643 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2620 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2661 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2666 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2637 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2634 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2622 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2663 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+1073 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2616 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2633 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+1074 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+1076 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+2677 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+2694 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+2675 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+1032 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+2651 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+2650 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+2645 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+2695 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+2676 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+2670 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+1078 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+1079 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+2671 = {
+	 aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 4550
+    }
+}
+2649 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+1069 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+1081 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2697 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+1080 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2641 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2648 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+2696 = {
+	 aristocrats = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = shiset
+        size = 4550
+    }
+}
+#Unclaimed
+#Port Arthur (80000/15000 POPS)
+1481 = {
+    aristocrats = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 4550
+    }
+}
+2655 = {
+    aristocrats = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 4550
+    }
+}
+2693 = {
+    aristocrats = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 4550
+    }
+}
+2673 = {
+    aristocrats = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 4550
+    }
+}
+2667 = {
+    aristocrats = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 4550
+    }
+}
+2654 = {
+    aristocrats = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 4550
+    }
+}
+2680 = {
+    aristocrats = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 100
+    }
+
+    clergymen = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    artisans = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 250
+    }
+
+    soldiers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 50
+    }
+
+    farmers = {
+        culture = ledyanyyeludi
+        religion = veravzem
+        size = 4550
+    }
+}
+
+

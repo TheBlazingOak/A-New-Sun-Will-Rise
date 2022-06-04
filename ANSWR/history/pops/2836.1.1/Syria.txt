@@ -528,73 +528,73 @@
 #Latakia (112000/28000 POPS)
 905 = {
     clergymen = {
-        culture = mashriqi
+        culture = neopunic
         religion = shiite
         size = 165
     }
 
     artisans = {
-        culture = mashriqi
+        culture = neopunic
         religion = shiite
         size = 1100
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = neopunic
         religion = shiite
         size = 275
     }
 
     farmers = {
-        culture = mashriqi
+        culture = neopunic
         religion = shiite
         size = 19225
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = neopunic
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = neopunic
         religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = mashriqi
+        culture = neopunic
         religion = orthodox
         size = 200
     }
 
     farmers = {
-        culture = mashriqi
+        culture = neopunic
         religion = orthodox
         size = 3000
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = neopunic
         religion = sunni
         size = 200
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = neopunic
         religion = sunni
         size = 35
     }
 
     artisans = {
-        culture = mashriqi
+        culture = neopunic
         religion = sunni
         size = 200
     }
 
     farmers = {
-        culture = mashriqi
+        culture = neopunic
         religion = sunni
         size = 3525
     }

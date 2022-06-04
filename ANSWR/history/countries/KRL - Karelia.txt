@@ -1,9 +1,6 @@
 capital = 995
-primary_culture = finnish
-culture = ugrian
-culture = russian
-culture = sami
-religion = orthodox
+primary_culture = kochevnik
+religion = shiset
 government = democracy
 plurality = 0.5
 nationalvalue = nv_equality

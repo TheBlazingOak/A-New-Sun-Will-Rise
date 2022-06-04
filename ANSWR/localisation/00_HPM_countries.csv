@@ -2388,8 +2388,6 @@ WES_conservative_3;Christsoz. Arbeiterpartei;Christsoz. Arbeiterpartei;Christsoz
 WES_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbeiterpartei;;;;;;;;;;;,,
 WES_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;;;;;,,
 WES_fascist;NSDP;NSDP;NSDP;;;;;;;;;;;,,
-WHA;Wales;;;;;;;;;;;;;,,
-WHA_ADJ;Welsh;;;;;;;;;;;;;,,
 WHA_liberal;Democratiaid Rhyddfrydol;;;;;;;;;;;;;,,
 WHA_conservative;Plaid Geidwadol;;;;;;;;;;;;;,,
 WHA_socialist;Plaid Cymru;;;;;;;;;;;;;,,
@@ -3669,3 +3667,15 @@ MAS;Barsabim;;;;;;;;;;;;;,,
 MAS_ADJ;Barsabimi;;;;;;;;;;;;;,,
 MOS;Aratak;;;;;;;;;;;;;,,
 MOS_ADJ;Aratak;;;;;;;;;;;;;,,
+ledyanyyeludi;Ledyanyye Ludi;;;;;;;;;;;;;,,
+kochevnik;Kochevnik;;;;;;;;;;;;;,,
+PTO;Aigyptos;;;;;;;;;;;;;,,
+PTO_ADJ;Aigyption-Elniki;;;;;;;;;;;;;,,
+EGY;Misr;;;;;;;;;;;;;,,
+EGY_ADJ;Misri;;;;;;;;;;;;;,,
+grecocopt;Aigyption-Elniki;;;;;;;;;;;;;
+neopunic;Tyren-Sidunen;;;;;;;;;;;;;
+peloponesian;Peloponnesos;;;;;;;;;;;;;
+welsh;Pryddish;;;;;;;;;;;;;
+WHA;Holy Court of House Pendragon;;;;;;;;;;;;;
+WHA_ADJ;Pendragonian;;;;;;;;;;;;;
