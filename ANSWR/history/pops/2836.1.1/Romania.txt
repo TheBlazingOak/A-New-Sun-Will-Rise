@@ -2116,43 +2116,43 @@
     }
 
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 650
     }
 
     bureaucrats = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 75
     }
 
     officers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 1100
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 4165
     }

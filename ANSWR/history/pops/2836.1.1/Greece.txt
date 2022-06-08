@@ -1023,55 +1023,55 @@
 #Dedeagatch (72000/18000 POPS)
 830 = {
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 450
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 400
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 175
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 9900
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = orthodox
         size = 500
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = orthodox
         size = 200
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = orthodox
         size = 450
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = orthodox
         size = 27450
     }
@@ -1721,79 +1721,79 @@
 #Chios (68000/17000 POPS)
 843 = {
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 150
     }
 
     bureaucrats = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 50
     }
 
     officers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 600
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 175
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 700
     }
 
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 120
     }
 
     officers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 120
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 2400
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 12450
     }
@@ -1803,39 +1803,9 @@
 #Iraklion (68000/17000 POPS)
 848 = {
     aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 250
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 550
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 175
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 5850
-    }
-
-    aristocrats = {
         culture = greek
         religion = orthodox
-        size = 100
+        size = 350
     }
 
     officers = {
@@ -1847,25 +1817,25 @@
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 375
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 450
+        size = 1000
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 9475
+        size = 15325
     }
 
 }

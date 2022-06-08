@@ -1,0 +1,377 @@
+#below are the events for Dacia
+
+country_event = { 
+        id= 223001
+        title = "EVTNAME223001"
+        desc = "EVTDESC223001"
+        picture = guinea_coast
+        fire_only_once = yes
+
+        mean_time_to_happen = {
+            months = 4
+        }
+
+        trigger = {
+            tag = WAL
+            OR = {
+                CRV= { nationalism_n_imperialism = 1 } 
+                MOL= { nationalism_n_imperialism = 1 } 
+                SIE= { nationalism_n_imperialism = 1 } 
+                DEV= { nationalism_n_imperialism = 1 } 
+                BKR= { nationalism_n_imperialism = 1 } 
+                MDV= { nationalism_n_imperialism = 1 } 
+                WAL= { nationalism_n_imperialism = 1 } 
+            }
+            
+        }
+
+        option = {
+            name = "EVTOPTA223001"
+            any_pop = {
+                limit = { pop_majority_ideology = reactionary }
+                consciousness = 1
+            }
+            set_country_flag = rom_event_1
+        }
+
+        option = {
+            name = "EVTOPTB223001"
+            badboy = 2
+        }
+}
+
+country_event = { 
+        id= 223002
+        title = "EVTNAME223002"
+        desc = "EVTDESC223002"
+        picture = mysticism_in_russia
+        fire_only_once = yes
+
+        mean_time_to_happen = {
+            months = 1
+        }
+
+        trigger = {  has_country_flag = rom_event_1 }
+
+        option = {
+            name = "EVTOPTA223002"
+            set_country_flag = rom_event_2
+            any_pop = {
+                consciousness = 2
+            }
+        }
+
+}
+
+country_event = { 
+        id= 223003
+        name = "EVTNAME223003"
+        desc = "EVTDESC223003"
+        picture = luddites
+        fire_only_once = yes
+
+        mean_time_to_happen = {
+            months = 1
+        }
+
+        trigger = { has_country_flag = rom_event_2       }
+
+        option = {
+            name = "EVTOPTA223003"
+            set_country_flag = rom_event_3
+            any_pop = { consciousness = 3 }
+        }
+}
+
+country_event = { 
+            id = 223004
+            name = "EVTNAME223004"
+            desc = "EVTDESC223004"
+            picture = romanian_independance
+            fire_only_once = yes
+
+            mean_time_to_happen = {
+                months = 1
+            }
+
+            trigger = { has_country_flag = rom_event_3}
+
+            option = {
+                name = "EVTOPTA223004"
+                any_pop = {consciousness = 2}
+                set_country_flag = rom_event_4
+            }
+
+            option = {
+                name = "EVTOPTB223004"
+                set_country_flag = rom_event_7
+            }
+
+
+}
+
+country_event = { 
+        id = 223005
+        name = "EVTNAME223005"
+        desc = "EVTDESC223005"
+        picture = gadsden_treaty
+        fire_only_once = yes
+
+        mean_time_to_happen = {
+            months = 1
+        }
+
+        trigger = {has_country_flag = rom_event_4}
+
+
+        option = { 
+            name = "EVTOPTA223005"
+            any_pop ={ consciousness = 5}
+           set_country_flag = rom_event_5
+            ai_chance = 95
+        }
+
+        option = { 
+            name = "EVTOPTB223005"
+            any_pop = {consciousness = 10}
+            any_pop = {
+                limit = { pop_majority_ideology = reactionary }
+                militancy = 10
+            }
+
+            set_country_flag = rom_event_6
+
+
+            ai_chance = 5
+        }
+
+}
+
+country_event = {
+        id = 223009
+        title = "EVTNAME223009"
+        desc = "EVTDESC223009"
+        picture = garibaldi_raid
+        fire_only_once = yes
+
+        mean_time_to_happen = {days =10}
+        trigger = {has_country_flag = rom_event_6}
+
+        option = {
+            name = "EVTOPTA223009"
+            any_country = {
+                limit = { vassal_of = WAL}
+                country_event = 223012
+            }
+
+            
+        }
+
+}
+
+
+country_event = {
+    id = 223012
+    title = "EVTNAME223012"
+    desc = "EVTDESC2230012"
+    picture = garibaldi_raid
+    is_triggered_only = yes
+
+    option = {
+        name = "EVTOPTA223012"
+        release_vassal = THIS
+
+        war = {
+	            target = WAL 
+	            attacker_goal = { casus_belli = become_independent }
+	            defender_goal = {  casus_belli = make_puppet}
+	            call_ally = no
+                }
+
+    }
+
+
+}
+
+
+country_event = { 
+            id = 223420
+            title = "EVTNAME223420"
+            desc = "EVTDESC223420"
+            picture = italoturk_peace
+            fire_only_once = yes
+
+
+
+            mean_time_to_happen = { days = 5}
+
+
+            trigger = {has_country_flag = rom_event_5}
+
+
+            option = {
+                name = "EVTOPTA223011"
+                669 = {add_core = ROM}
+                668 = {add_core = ROM}
+                844 = {add_core = ROM}
+                664 = {add_core = ROM}
+                667 = {add_core = ROM}
+                666 = {add_core = ROM}
+                665 = {add_core = ROM}
+                656 = {add_core = ROM}
+                655 = {add_core = ROM}
+                654 = {add_core = ROM}
+                661 = {add_core = ROM}
+                2533 = {add_core = ROM}
+                660 = {add_core = ROM}
+                657 = {add_core = ROM}
+                659 = {add_core = ROM}
+                672 = {add_core = ROM}
+                673 = {add_core = ROM}
+                670 = {add_core = ROM}
+                671 = {add_core = ROM}
+                663 = {add_core =ROM}
+                662 = {add_core = ROM}
+                677 = {add_core = ROM}
+                676 = {add_core =ROM}
+                678 = {add_core = ROM}
+                675 = {add_core = ROM}
+
+                any_country = {
+                    limit = { vassal_of = THIS}
+                    annex_to = THIS 
+                }
+                change_tag = ROM
+                badboy = 10
+                government = fascist_dictatorship
+            
+            }
+}
+
+
+country_event = { 
+            id = 223006
+            title = "EVTNAME223006"
+            desc = "EVTDESC223006"
+            picture = confederation
+            fire_only_once = yes
+
+            mean_time_to_happen = { days = 15}
+            trigger = { has_country_flag = rom_event_7}
+
+            option = {
+                name = "EVTOPTA223006"
+                set_country_flag = rom_event_8
+
+            }
+
+            option = {
+                name = "EVTOPTB223006"
+                set_country_flag = rom_event_9
+            }
+}
+
+
+country_event = {
+            id = 223007
+            title = "EVTNAME223007"
+            desc = "EVTDESC223007"
+            picture = frc_salvador
+            fire_only_once = yes
+
+            mean_time_to_happen = {days = 15}
+            trigger = has_country_flag = rom_event_8
+
+            option = {
+                name = {"EVTOPTA223007"}
+                any_pop = { consciousness = -5}
+            
+            
+            }
+}
+country_event = {
+            id = 223008
+            title = "EVTNAME223008"
+            desc = "EVTDESC223008"
+            picture = dominican_revolution
+            fire_only_once = yes
+
+            mean_time_to_happen = {days = 15}
+            trigger = {has_country_flag = rom_event_9}
+
+            option = {
+                name = "EVTOPTA223008"
+                set_country_flag = rom_event_6
+                any_pop = {
+                    limit = { pop_majority_ideology = reactionary }
+                    militancy = 10
+                }
+            }
+
+            option = {
+                name = "EVTOPTB223008"
+                 set_country_flag = rom_event_4
+            
+            }
+}
+
+
+
+country_event = { 
+        id = 223010
+        title = "EVTNAME223010"
+        desc = "EVTDESC223010"
+        picture = croatia_issue
+        fire_only_once = yes
+
+        mean_time_to_happen = {days = 30}
+        trigger = {
+            has_country_flag = rom_event_6
+            war = no
+        }
+
+        option = {
+            name = "EVTOPTA223010"
+            any_pop = {
+                militancy  = -3
+                consciousness = -4
+            }
+        }
+
+        option = {
+            name = "EVTOPTB223010"
+                669 = {add_core = ROM}
+                668 = {add_core = ROM}
+                844 = {add_core = ROM}
+                664 = {add_core = ROM}
+                667 = {add_core = ROM}
+                666 = {add_core = ROM}
+                665 = {add_core = ROM}
+                656 = {add_core = ROM}
+                655 = {add_core = ROM}
+                654 = {add_core = ROM}
+                661 = {add_core = ROM}
+                2533 = {add_core = ROM}
+                660 = {add_core = ROM}
+                657 = {add_core = ROM}
+                659 = {add_core = ROM}
+                672 = {add_core = ROM}
+                673 = {add_core = ROM}
+                670 = {add_core = ROM}
+                671 = {add_core = ROM}
+                663 = {add_core =ROM}
+                662 = {add_core = ROM}
+                677 = {add_core = ROM}
+                676 = {add_core =ROM}
+                678 = {add_core = ROM}
+                675 = {add_core = ROM}
+            any_country = {
+                limit = { vassal_of = THIS}
+                annex_to = THIS 
+                }
+            change_tag = ROM
+            badboy = 10
+        
+        }
+
+}

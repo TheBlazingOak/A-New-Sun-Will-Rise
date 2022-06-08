@@ -392,31 +392,31 @@
 #Ruse (188000/47000 POPS)
 811 = {
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 1050
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 850
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 1000
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 3250
     }
@@ -578,31 +578,31 @@
 #Shumen (144000/36000 POPS)
 813 = {
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 650
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 125
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 950
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 1100
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 5275
     }
@@ -658,31 +658,31 @@
 #Varna (220000/55000 POPS)
 814 = {
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 700
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 175
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 2100
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 2000
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 6425
     }
@@ -1177,31 +1177,31 @@
     }
 
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 400
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 450
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 1100
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 4100
     }
