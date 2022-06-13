@@ -971,12 +971,12 @@ DNB_presidential_dictatorship;Danubian Republic;;;;;;;;;;;;;,,
 DNB_bourgeois_dictatorship;Danubian Republic;;;;;;;;;;;;;,,
 DOI;Dominica;;;;;;;;;;;;;,,
 DOI_ADJ;Dominican;;;;;;;;;;;;;,,
-DON;Cossack Republic;;;;;;;;;;;;;,,
-DON_absolute_monarchy;Cossack Hetmanate;;;;;;;;;;;;;,,
-DON_hms_government;Cossack Union;;;;;;;;;;;;;,,
+DON;Vladimirskaya Zemlya;;;;;;;;;;;;;,,
+DON_absolute_monarchy;Tsardom of Vladimirskaya;;;;;;;;;;;;;,,
+DON_hms_government;Cherkesskiy Federation;;;;;;;;;;;;;,,
 DON_prussian_constitutionalism;Cossack Hetmanate;;;;;;;;;;;;;,,
 DON_fascist_dictatorship;Cossackia;;;;;;;;;;;;;,,
-DON_ADJ;Cossack;;;;;;;;;;;;;,,
+DON_ADJ;Cherkesskiy;;;;;;;;;;;;;,,
 DON_conservative;The Conservatives;Faction royale;Königsfraktion;;;;;;;;;;;,,
 DON_liberal;The Liberals;Faction libérale;Die liberale Fraktion;;;;;;;;;;;,,
 DON_reactionary;The Hetmanate Faction;Faction nationaliste;Die nationalistische Fraktion;;;;;;;;;;;,,
@@ -3675,8 +3675,37 @@ EGY;Misr;;;;;;;;;;;;;,,
 EGY_ADJ;Misri;;;;;;;;;;;;;,,
 grecocopt;Aigyption-Elniki;;;;;;;;;;;;;
 neopunic;Tyren-Sidunen;;;;;;;;;;;;;
-peloponesian;Peloponnesos;;;;;;;;;;;;;
-welsh;Pryddish;;;;;;;;;;;;;
-WHA;Holy Court of House Pendragon;;;;;;;;;;;;;
+peloponesian;Lacedaemonian;;;;;;;;;;;;;
+welsh;Pendragonish;;;;;;;;;;;;;
+WHA;Holy Court Of Pendragon;;;;;;;;;;;;;
 WHA_ADJ;Pendragonian;;;;;;;;;;;;;
 westturkish;Trakyan-Dobrucan;;;;;;;;;;;;;
+mazandarani;Mazandarani;;;;;;;;;;;;;
+krymskiy;Krymskiy;;;;;;;;;;;;;
+cherkesskiy;Cherkesskiy;;;;;;;;;;;;;
+NIN;New Bharata;;;;;;;;;;;;;
+NIN_ADJ;New Bharatan;;;;;;;;;;;;;
+RIZ;Knights of Rizal;;;;;;;;;;;;;
+RIZ_ADJ;Rizalista;;;;;;;;;;;;;
+QUZ;Holy Banahaw;;;;;;;;;;;;;
+QUZ_ADJ;Banahawan;;;;;;;;;;;;;
+filipino;Rizali-Banahawa;;;;;;;;;;;;;
+indianfilipino;Tanayan;;;;;;;;;;;;;
+macoyan;Macoyan Samtoy;;;;;;;;;;;;;
+lunati;Lunati-Tagailog;;;;;;;;;;;;;
+nagan;Lenlen-Nagan;;;;;;;;;;;;;
+cordilleran;Banawe Terracer;;;;;;;;;;;;;
+pampangan;Subicer-New Olongapoan;;;;;;;;;;;;;
+CRD;Cordillera Valleys;;;;;;;;;;;;;
+SBI;PAX Freeport Island;;;;;;;;;;;;;
+ALN;Sons of Luna;;;;;;;;;;;;;
+ILC;Bagong Lipunan;;;;;;;;;;;;;
+BIC;Robredian Commune;;;;;;;;;;;;;
+lanaoan;Lanaoan;;;;;;;;;;;;;
+chavacan;Pilarista;;;;;;;;;;;;;
+cebuan;Lapu-Lapuian;;;;;;;;;;;;;
+waray;San Juanican;;;;;;;;;;;;;
+aklanon;Boracayan;;;;;;;;;;;;;
+negrense;Negrense-Buglasin;;;;;;;;;;;;;
+boholan;Siquijori-Boholano;;;;;;;;;;;;;
+leyteno;Palo-Macarthurista;;;;;;;;;;;;;

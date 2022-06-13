@@ -1,114 +1,85 @@
 #Partium Region (1288000) #See Hungary.txt for balance of region
 #under the rule of Austria in 1836
-#Oradea (844000/211000 POPS) #part of Romania today
+#Oradea (444000/111000 POPS) #part of Romania today
 647 = {
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 250
-    }
-
-    bureaucrats = {
-        culture = hungarian
-        religion = catholic
-        size = 750
+        size = 500
     }
 
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 1500
-    }
-
-    farmers = {
-        culture = romanian
-        religion = orthodox
-        size = 9900
+        size = 2500
     }
 
     serfs = {
         culture = romanian
         religion = orthodox
-        size = 15000
+        size = 27450
     }
 
     aristocrats = {
         culture = hungarian
         religion = catholic
-        size = 2500
-    }
-
-    bureaucrats = {
-        culture = hungarian
-        religion = catholic
-        size = 2050
-    }
-
-    officers = {
-        culture = hungarian
-        religion = catholic
-        size = 500
+        size = 1250
     }
 
     clergymen = {
         culture = hungarian
         religion = catholic
-        size = 300
+        size = 175
     }
 
     artisans = {
         culture = hungarian
         religion = catholic
-        size = 1400
+        size = 900
     }
 
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 300
+        size = 1200
     }
 
     farmers = {
         culture = hungarian
         religion = catholic
-        size = 62250
+        size = 35475
     }
 
     aristocrats = {
         culture = hungarian
         religion = protestant
-        size = 3000
-    }
-
-    officers = {
-        culture = hungarian
-        religion = protestant
-        size = 350
+        size = 1500
     }
 
     clergymen = {
         culture = hungarian
         religion = protestant
-        size = 375
+        size = 225
     }
 
     artisans = {
         culture = hungarian
         religion = protestant
-        size = 2100
+        size = 1300
     }
 
     soldiers = {
         culture = hungarian
         religion = protestant
-        size = 400
+        size = 250
     }
 
     farmers = {
         culture = hungarian
         religion = protestant
-        size = 43775
+        size = 31725
     }
+
 }
 #Szatmare (444000/111000 POPS) #part of Romania today
 651 = {

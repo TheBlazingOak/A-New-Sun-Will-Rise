@@ -1,0 +1,741 @@
+#Lucena-Quezon (780000/195000 POPS)
+3332 = {
+    aristocrats = {
+        culture = filipino
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = filipino
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 116550
+    }
+
+    slaves = {
+        culture = filipino
+        religion = catholic
+        size = 20000
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = catholic
+        size = 800
+    }
+}
+
+#New Antipolo
+3333 = {
+    aristocrats = {
+        culture = indianfilipino
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = indianfilipino
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = indianfilipino
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = indianfilipino
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = indianfilipino
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = indianfilipino
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = indianfilipino
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = indianfilipino
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = indianfilipino
+        religion = catholic
+        size = 116550
+    }
+
+    slaves = {
+        culture = indianfilipino
+        religion = catholic
+        size = 20000
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = catholic
+        size = 800
+    }
+}
+#New Subic
+3334 = {
+    aristocrats = {
+        culture = pampangan
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = pampangan
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = pampangan
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = pampangan
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = pampangan
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = pampangan
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = pampangan
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = pampangan
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = pampangan
+        religion = catholic
+        size = 116550
+    }
+
+    slaves = {
+        culture = pampangan
+        religion = catholic
+        size = 20000
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = catholic
+        size = 800
+    }
+}
+#Cabanatuan
+3336 = {
+    aristocrats = {
+        culture = lunati
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = lunati
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = lunati
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = lunati
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = lunati
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = lunati
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = lunati
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lunati
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = lunati
+        religion = catholic
+        size = 116550
+    }
+
+    slaves = {
+        culture = lunati
+        religion = catholic
+        size = 20000
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = catholic
+        size = 800
+    }
+}
+#
+3333 = {
+    aristocrats = {
+        culture = indianfilipino
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = indianfilipino
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = indianfilipino
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = indianfilipino
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = indianfilipino
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = indianfilipino
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = indianfilipino
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = indianfilipino
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = indianfilipino
+        religion = catholic
+        size = 116550
+    }
+
+    slaves = {
+        culture = indianfilipino
+        religion = catholic
+        size = 20000
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = catholic
+        size = 800
+    }
+}
+#Baguio
+3340 = {
+    aristocrats = {
+        culture = cordilleran
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = cordilleran
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = cordilleran
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = cordilleran
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = cordilleran
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = cordilleran
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = cordilleran
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = cordilleran
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = cordilleran
+        religion = catholic
+        size = 116550
+    }
+
+    slaves = {
+        culture = cordilleran
+        religion = catholic
+        size = 20000
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = catholic
+        size = 800
+    }
+}
+#Palo Leyte
+3341 = {
+    aristocrats = {
+        culture = leyteno
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = leyteno
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = leyteno
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = leyteno
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = leyteno
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = leyteno
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = leyteno
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = leyteno
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = leyteno
+        religion = catholic
+        size = 116550
+    }
+
+    slaves = {
+        culture = leyteno
+        religion = catholic
+        size = 20000
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = catholic
+        size = 800
+    }
+}
+#Negros Island
+3335 = {
+    aristocrats = {
+        culture = negrense
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = negrense
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = negrense
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = negrense
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = negrense
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = negrense
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = negrense
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = negrense
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = negrense
+        religion = catholic
+        size = 116550
+    }
+
+    slaves = {
+        culture = negrense
+        religion = catholic
+        size = 20000
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = catholic
+        size = 800
+    }
+}
+#Bohol Island
+3337 = {
+    aristocrats = {
+        culture = boholan
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = boholan
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = boholan
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = boholan
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = boholan
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = boholan
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = boholan
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = boholan
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = boholan
+        religion = catholic
+        size = 116550
+    }
+
+    slaves = {
+        culture = boholan
+        religion = catholic
+        size = 20000
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = catholic
+        size = 800
+    }
+}
+#Lanaon Province
+3338 = {
+    aristocrats = {
+        culture = lanaoan
+        religion = sunni
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = lanaoan
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = lanaoan
+        religion = sunni
+        size = 750
+    }
+
+    artisans = {
+        culture = lanaoan
+        religion = sunni
+        size = 10000
+    }
+
+    artisans = {
+        culture = lanaoan
+        religion = sunni
+        size = 10000
+    }
+
+    artisans = {
+        culture = lanaoan
+        religion = sunni
+        size = 9000
+    }
+
+    soldiers = {
+        culture = lanaoan
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lanaoan
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = lanaoan
+        religion = sunni
+        size = 116550
+    }
+
+    slaves = {
+        culture = lanaoan
+        religion = sunni
+        size = 20000
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = sunni
+        size = 1200
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = sunni
+        size = 800
+    }
+}

@@ -562,43 +562,43 @@
 #Rasht (168000/42000 POPS)
 1113 = {
     aristocrats = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 800
     }
 
     bureaucrats = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 100
     }
 
     officers = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 125
     }
 
     clergymen = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 425
     }
 
     artisans = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 1100
     }
 
     soldiers = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 1100
     }
 
     farmers = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 40500
     }
@@ -612,31 +612,31 @@
 #Noshehr (88000/22000 POPS)
 1114 = {
     aristocrats = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 400
     }
 
     clergymen = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 225
     }
 
     artisans = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 1100
     }
 
     soldiers = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 225
     }
 
     farmers = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size =21050
     }
@@ -644,31 +644,31 @@
 #Sari (52000/13000 POPS)
 1115 = {
     aristocrats = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 250
     }
 
     clergymen = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 125
     }
 
     artisans = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 650
     }
 
     soldiers = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 125
     }
 
     farmers = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 11850
     }
@@ -676,31 +676,31 @@
 #Gorgan (140000/35000 POPS)
 1116 = {
     aristocrats = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 500
     }
 
     clergymen = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 250
     }
 
     artisans = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 1300
     }
 
     soldiers = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 1100
     }
 
     farmers = {
-        culture = persian
+        culture = mazandarani
         religion = shiite
         size = 22950
     }
@@ -989,6 +989,54 @@
 #under the rule of Persia in 1836
 #Tehran (338000/84500 POPS)
 1121 = {
+	    aristocrats = {
+        culture = mazandarani
+        religion = shiite
+        size = 1875
+    }
+
+    bureaucrats = {
+        culture = mazandarani
+        religion = shiite
+        size = 325
+    }
+
+    officers = {
+        culture = mazandarani
+        religion = shiite
+        size = 300
+    }
+
+    clergymen = {
+        culture = mazandarani
+        religion = shiite
+        size = 875
+    }
+
+    artisans = {
+        culture = mazandarani
+        religion = shiite
+        size = 10000
+    }
+
+    artisans = {
+        culture = mazandarani
+        religion = shiite
+        size = 2000
+    }
+
+    soldiers = {
+        culture = mazandarani
+        religion = shiite
+        size = 1100
+    }
+
+    farmers = {
+        culture = mazandarani
+        religion = shiite
+        size = 56125
+    }
+
     aristocrats = {
         culture = persian
         religion = shiite
@@ -1163,6 +1211,35 @@
 }
 #Qazvin (140000/35000 POPS)
 1124 = {
+	  aristocrats = {
+        culture = mazandarani
+        religion = shiite
+        size = 700
+    }
+
+    clergymen = {
+        culture = mazandarani
+        religion = shiite
+        size = 375
+    }
+
+    artisans = {
+        culture = mazandarani
+        religion = shiite
+        size = 5000
+    }
+
+    soldiers = {
+        culture = mazandarani
+        religion = shiite
+        size = 1100
+    }
+
+    farmers = {
+        culture = mazandarani
+        religion = shiite
+        size = 27925
+    }
     aristocrats = {
         culture = persian
         religion = shiite

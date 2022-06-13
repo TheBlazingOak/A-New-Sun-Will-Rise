@@ -582,61 +582,61 @@
 1047 = {
 
     aristocrats = {
-        culture = ukrainian
+        culture = cherkesskiy
         religion = veravburyu
         size = 400
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = cherkesskiy
         religion = veravburyu
         size = 300
     }
 
     artisans = {
-        culture = ukrainian
+        culture = cherkesskiy
         religion = veravburyu
         size = 1650
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = cherkesskiy
         religion = veravburyu
         size = 2000
     }
 
     farmers = {
-        culture = ukrainian
+        culture = cherkesskiy
         religion = veravburyu
         size = 24700
     }
 
     aristocrats = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 300
     }
 
     clergymen = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 100
     }
 
     artisans = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 750
     }
 
     soldiers = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 100
     }
 
     farmers = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 17750
     }
@@ -1905,37 +1905,37 @@
 #Ekaterinodar (136000/34000 POPS)
 1048 = {
     aristocrats = {
-        culture = ukrainian
+        culture = cherkesskiy
         religion = veravburyu
         size = 400
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = cherkesskiy
         religion = veravburyu
         size = 300
     }
 
     artisans = {
-        culture = ukrainian
+        culture = cherkesskiy
         religion = veravburyu
         size = 1400
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = cherkesskiy
         religion = veravburyu
         size = 325
     }
 
     farmers = {
-        culture = ukrainian
+        culture = cherkesskiy
         religion = veravburyu
         size = 30625
     }
 
     farmers = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 20000
     }
@@ -1967,75 +1967,75 @@
 #Temen/Novorossiysk (60000/15000 POPS)
 1049 = {
         clergymen = {
-        culture = ukrainian
+        culture = circassian
         religion = veravburyu
         size = 50
     }
 
     artisans = {
-        culture = ukrainian
+        culture = circassian
         religion = veravburyu
         size = 350
     }
 
 
     farmers = {
-        culture = ukrainian
+        culture = circassian
         religion = veravburyu
         size = 6600
     }
 
     aristocrats = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 150
     }
 
     clergymen = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 75
     }
 
     artisans = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 350
     }
 
 
     farmers = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 6525
     }
 
     aristocrats = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 2750
     }
 
     clergymen = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 1500
     }
 
     artisans = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 7500
     }
 
     soldiers = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 20000
     }
 
     farmers = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 118250
     }
@@ -2043,94 +2043,94 @@
 #Stavropol (188000/47000 POPS)
 1050 = {
     clergymen = {
-        culture = ukrainian
+        culture = circassian
         religion = veravburyu
         size = 100
     }
 
     artisans = {
-        culture = ukrainian
+        culture = circassian
         religion = veravburyu
         size = 650
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = circassian
         religion = veravburyu
         size = 150
     }
 
     farmers = {
-        culture = ukrainian
+        culture = circassian
         religion = veravburyu
         size = 12100
     }
 
     aristocrats = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 500
     }
 
     bureaucrats = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 150
     }
 
     officers = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 75
     }
 
     clergymen = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 200
     }
 
     artisans = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 1100
     }
 
     soldiers = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 2000
     }
 
     farmers = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 6075
     }
 
     aristocrats = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 250
         militancy = 3
     }
 
     officers = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 50
         militancy = 3
     }
 
     clergymen = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 125
         militancy = 3
     }
 
     artisans = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 650
         militancy = 3
@@ -2144,14 +2144,14 @@
     }
 
     soldiers = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 1150
         militancy = 3
     }
 
     farmers = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 12775
         militancy = 3
@@ -2191,31 +2191,31 @@
 1051 = {
 
     aristocrats = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 1425
     }
 
     clergymen = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 1200
     }
 
     artisans = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 1100
     }
 
     soldiers = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 10000
     }
 
     farmers = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 212175
     }

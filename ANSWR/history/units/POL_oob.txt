@@ -1,12 +1,3 @@
-#Sphere of Influence
-#GPs
-SWI = { value = -125 }
-UNS = { value = -75 }
-AUS = { value = -75 }
-BOH = { value = -75 }
-AST = { value = 0 }
-NET = { value = 25 }
-
 army = {
     name = "Wojsko of Warsaw"
     location = 706

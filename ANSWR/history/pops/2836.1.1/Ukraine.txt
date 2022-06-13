@@ -1423,67 +1423,67 @@
 964 = {
 
     clergymen = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 1000
     }
 
     artisans = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 1500
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 3000
     }
 
     farmers = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 42750
     }
 
     aristocrats = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 1000
     }
 
     bureaucrats = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 175
     }
 
     officers = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 60
     }
 
     clergymen = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 15465
     }
@@ -1515,67 +1515,67 @@
 #Cherson (126000/29000 POPS)
 965 = {
     aristocrats = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 1500
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 275
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 22000
     }
 
     serfs = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 15000
     }
 
     aristocrats = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 6625
     }
@@ -1583,67 +1583,67 @@
 #Kerch (48000/12000 POPS)
 966 = {
 aristocrats = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 1500
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 275
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 500
     }
 
     farmers = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 12000
     }
 
     serfs = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 5000
     }
 
     aristocrats = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 16625
     }
@@ -1651,67 +1651,67 @@ aristocrats = {
 #Sevastopol (60000/15000 POPS)
 967 = {
     aristocrats = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 1500
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 2750
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 500
     }
 
     farmers = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 22125
     }
 
     serfs = {
-        culture = ukrainian
+        culture = krymskiy
         religion = orthodox
         size = 16250
     }
 
     aristocrats = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 1000
     }
 
     clergymen = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 1000
     }
 
     artisans = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 150
     }
 
     soldiers = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 1000
     }
 
     farmers = {
-        culture = russian
+        culture = ukrainian
         religion = orthodox
         size = 26625
     }

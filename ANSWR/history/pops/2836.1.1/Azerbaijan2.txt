@@ -1,0 +1,736 @@
+#New Azerbaijan Provinces from Malaysia
+#Malacca (52800/13200 POPS)
+1386 = {
+	 bureaucrats = {
+        culture = russian
+        religion = orthodox
+        size = 40
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 5
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 15
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 40
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = sunni
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = azerbaijani
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 60
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 5350
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = shiite
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = azerbaijani
+        religion = shiite
+        size = 5
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = shiite
+        size = 110
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = shiite
+        size = 600
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = shiite
+        size = 125
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = shiite
+        size = 10985
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 10
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 740
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 5
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 245
+    }
+}
+
+#Kuala Lumpur (68000/17000 POPS)
+1387 = {
+ bureaucrats = {
+        culture = russian
+        religion = orthodox
+        size = 40
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 5
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 15
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 40
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = sunni
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = azerbaijani
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 60
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 5350
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = shiite
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = azerbaijani
+        religion = shiite
+        size = 5
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = shiite
+        size = 110
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = shiite
+        size = 600
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = shiite
+        size = 125
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = shiite
+        size = 10985
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 10
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 740
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 5
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 245
+    }
+}
+
+#Alor Setar (116000/29000 POPS)
+1389 = {
+ bureaucrats = {
+        culture = russian
+        religion = orthodox
+        size = 40
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 5
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 15
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 40
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = sunni
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = azerbaijani
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 60
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 5350
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = shiite
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = azerbaijani
+        religion = shiite
+        size = 5
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = shiite
+        size = 110
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = shiite
+        size = 600
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = shiite
+        size = 125
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = shiite
+        size = 10985
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 10
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 740
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 5
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 245
+    }
+}
+
+#Tanjungpinang (100000/25000 POPS)
+1402 = {
+ bureaucrats = {
+        culture = russian
+        religion = orthodox
+        size = 40
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 5
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 15
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 40
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = sunni
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = azerbaijani
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 60
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 5350
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = shiite
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = azerbaijani
+        religion = shiite
+        size = 5
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = shiite
+        size = 110
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = shiite
+        size = 600
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = shiite
+        size = 125
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = shiite
+        size = 10985
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 10
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 740
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 5
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 245
+    }
+}
+#Marsabit (52000/13000 POPS
+2025 = {
+	 bureaucrats = {
+        culture = russian
+        religion = orthodox
+        size = 40
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 5
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 15
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 40
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = sunni
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = azerbaijani
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 60
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 5350
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = shiite
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = azerbaijani
+        religion = shiite
+        size = 5
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = shiite
+        size = 110
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = shiite
+        size = 600
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = shiite
+        size = 125
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = shiite
+        size = 10985
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 10
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 740
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 5
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 245
+    }
+}
+#Jibuti (28000/7000 POPS) #now part of Djibouti
+1875 = {
+	bureaucrats = {
+        culture = russian
+        religion = orthodox
+        size = 40
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 5
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 15
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 40
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = sunni
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = azerbaijani
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 60
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = sunni
+        size = 5350
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = shiite
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = azerbaijani
+        religion = shiite
+        size = 5
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = shiite
+        size = 110
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = shiite
+        size = 600
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = shiite
+        size = 125
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = shiite
+        size = 10985
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 10
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 740
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 5
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 245
+    }
+}

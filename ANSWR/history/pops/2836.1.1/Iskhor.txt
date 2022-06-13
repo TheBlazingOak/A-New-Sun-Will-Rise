@@ -110,43 +110,43 @@
 #Sofia (260000/65000 POPS)
 809 = {
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 1450
     }
 
     bureaucrats = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 400
     }
 
     officers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 300
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 125
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 2500
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 500
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 7383
     }
@@ -262,31 +262,31 @@
 #Vidin (124000/31000 POPS)
 810 = {
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 650
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 110
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 800
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 500
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 1125
     }
@@ -389,140 +389,34 @@
     }
     ########
 }
-#Ruse (188000/47000 POPS)
-811 = {
-    aristocrats = {
-        culture = westturkish
-        religion = the_broken
-        size = 1050
-    }
-
-    clergymen = {
-        culture = westturkish
-        religion = the_broken
-        size = 100
-    }
-
-    artisans = {
-        culture = westturkish
-        religion = the_broken
-        size = 850
-    }
-
-    soldiers = {
-        culture = westturkish
-        religion = the_broken
-        size = 1000
-    }
-
-    farmers = {
-        culture = westturkish
-        religion = the_broken
-        size = 3250
-    }
-
-    clergymen = {
-        culture = iskhor
-        religion = the_broken
-        size = 100
-    }
-
-    artisans = {
-        culture = iskhor
-        religion = the_broken
-        size = 250
-    }
-
-    soldiers = {
-        culture = iskhor
-        religion = the_broken
-        size = 250
-    }
-
-    farmers = {
-        culture = iskhor
-        religion = the_broken
-        size = 1500
-    }
-
-    clergymen = {
-        culture = iskhor
-        religion = the_broken
-        size = 200
-    }
-
-    artisans = {
-        culture = iskhor
-        religion = the_broken
-        size = 750
-    }
-
-    soldiers = {
-        culture = iskhor
-        religion = the_broken
-        size = 500
-    }
-
-    farmers = {
-        culture = iskhor
-        religion = the_broken
-        size = 46050
-    }
-
-    ######Jews
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 300
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 250
-    }
-    ########
-}
 #Pleven (196000/49000 POPS)
 812 = {
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 875
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 1350
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 1000
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 3939
     }
@@ -546,7 +440,7 @@
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 1736
     }
@@ -573,172 +467,6 @@
         culture = iskhor
         religion = the_broken
         size = 47650
-    }
-}
-#Shumen (144000/36000 POPS)
-813 = {
-    aristocrats = {
-        culture = westturkish
-        religion = the_broken
-        size = 650
-    }
-
-    clergymen = {
-        culture = westturkish
-        religion = the_broken
-        size = 125
-    }
-
-    artisans = {
-        culture = westturkish
-        religion = the_broken
-        size = 950
-    }
-
-    soldiers = {
-        culture = westturkish
-        religion = the_broken
-        size = 1100
-    }
-
-    farmers = {
-        culture = westturkish
-        religion = the_broken
-        size = 5275
-    }
-
-    clergymen = {
-        culture = iskhor
-        religion = the_broken
-        size = 250
-    }
-
-    artisans = {
-        culture = iskhor
-        religion = the_broken
-        size = 500
-    }
-
-    soldiers = {
-        culture = iskhor
-        religion = the_broken
-        size = 250
-    }
-
-    farmers = {
-        culture = iskhor
-        religion = the_broken
-        size = 3000
-    }
-
-    soldiers = {
-        culture = iskhor
-        religion = the_broken
-        size = 500
-    }
-
-    clergymen = {
-        culture = iskhor
-        religion = the_broken
-        size = 500
-    }
-
-    artisans = {
-        culture = iskhor
-        religion = the_broken
-        size = 750
-    }
-
-    farmers = {
-        culture = iskhor
-        religion = the_broken
-        size = 42700
-    }
-}
-#Varna (220000/55000 POPS)
-814 = {
-    aristocrats = {
-        culture = westturkish
-        religion = the_broken
-        size = 700
-    }
-
-    clergymen = {
-        culture = westturkish
-        religion = the_broken
-        size = 175
-    }
-
-    artisans = {
-        culture = westturkish
-        religion = the_broken
-        size = 2100
-    }
-
-    soldiers = {
-        culture = westturkish
-        religion = the_broken
-        size = 2000
-    }
-
-    farmers = {
-        culture = westturkish
-        religion = the_broken
-        size = 6425
-    }
-
-    aristocrats = {
-        culture = iskhor
-        religion = the_broken
-        size = 700
-    }
-
-    clergymen = {
-        culture = iskhor
-        religion = the_broken
-        size = 300
-    }
-
-    artisans = {
-        culture = iskhor
-        religion = the_broken
-        size = 500
-    }
-
-    soldiers = {
-        culture = iskhor
-        religion = the_broken
-        size = 500
-    }
-
-    farmers = {
-        culture = iskhor
-        religion = the_broken
-        size = 4000
-    }
-
-    clergymen = {
-        culture = iskhor
-        religion = the_broken
-        size = 400
-    }
-
-    artisans = {
-        culture = iskhor
-        religion = the_broken
-        size = 1900
-    }
-
-    soldiers = {
-        culture = iskhor
-        religion = the_broken
-        size = 500
-    }
-
-    farmers = {
-        culture = iskhor
-        religion = the_broken
-        size = 35875
     }
 }
 #Rumelia Region (396000)
@@ -912,31 +640,31 @@
 #Stara Zagora (80000/20000 POPS)
 816 = {
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 325
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 110
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 550
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 175
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 4900
     }
@@ -998,31 +726,31 @@
 #Burgas (196000/49000 POPS)
 817 = {
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 1100
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 125
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 900
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 450
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = the_broken
         size = 8425
     }
@@ -1117,122 +845,4 @@
         size = 4950
     }
 
-}
-#Dobruja Region (84000) #see Romania.txt for balance of Region
-#under the rule of the Ottoman Empire in 1836
-#Silistre (84000/21000 POPS) #now part of Bulgaria
-818 = {
-    aristocrats = {
-        culture = iskhor
-        religion = the_broken
-        size = 500
-    }
-
-    clergymen = {
-        culture = iskhor
-        religion = the_broken
-        size = 200
-    }
-
-    artisans = {
-        culture = iskhor
-        religion = the_broken
-        size = 450
-    }
-
-    soldiers = {
-        culture = iskhor
-        religion = the_broken
-        size = 500
-    }
-
-    farmers = {
-        culture = iskhor
-        religion = the_broken
-        size = 24250
-    }
-
-    soldiers = {
-        culture = romanian
-        religion = the_broken
-        size = 750
-    }
-
-    clergymen = {
-        culture = romanian
-        religion = the_broken
-        size = 100
-    }
-
-    artisans = {
-        culture = romanian
-        religion = the_broken
-        size = 200
-    }
-
-    farmers = {
-        culture = romanian
-        religion = the_broken
-        size = 19625
-    }
-
-    aristocrats = {
-        culture = westturkish
-        religion = the_broken
-        size = 400
-    }
-
-    clergymen = {
-        culture = westturkish
-        religion = the_broken
-        size = 100
-    }
-
-    artisans = {
-        culture = westturkish
-        religion = the_broken
-        size = 450
-    }
-
-    soldiers = {
-        culture = westturkish
-        religion = the_broken
-        size = 1100
-    }
-
-    farmers = {
-        culture = westturkish
-        religion = the_broken
-        size = 4100
-    }
-
-    aristocrats = {
-        culture = iskhor
-        religion = the_broken
-        size = 400
-    }
-
-    clergymen = {
-        culture = iskhor
-        religion = the_broken
-        size = 100
-    }
-
-    artisans = {
-        culture = iskhor
-        religion = the_broken
-        size = 450
-    }
-
-    soldiers = {
-        culture = iskhor
-        religion = the_broken
-        size = 1100
-    }
-
-    farmers = {
-        culture = iskhor
-        religion = the_broken
-        size = 4100
-    }
 }
