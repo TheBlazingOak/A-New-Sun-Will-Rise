@@ -39,27 +39,15 @@
     soldiers = {
         culture = filipino
         religion = catholic
-        size = 3000
+        size = 14000
     }
-
-    soldiers = {
-        culture = filipino
-        religion = catholic
-        size = 1000
-    }
-
+	
     farmers = {
         culture = filipino
         religion = catholic
-        size = 116550
+        size = 126550
     }
-
-    slaves = {
-        culture = filipino
-        religion = catholic
-        size = 20000
-    }
-
+	
     artisans = {
         culture = nanfaren
         religion = catholic
@@ -76,75 +64,69 @@
 #New Antipolo
 3333 = {
     aristocrats = {
-        culture = indianfilipino
+        culture = filipino
         religion = catholic
-        size = 1250
+        size = 2250
     }
 
     bureaucrats = {
-        culture = indianfilipino
+        culture = filipino
         religion = catholic
-        size = 450
+        size = 1450
     }
 
     clergymen = {
-        culture = indianfilipino
+        culture = filipino
         religion = catholic
-        size = 750
+        size = 1750
     }
 
     artisans = {
-        culture = indianfilipino
+        culture = filipino
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = indianfilipino
+        culture = filipino
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = indianfilipino
+        culture = filipino
         religion = catholic
-        size = 9000
+        size = 19000
     }
 
     soldiers = {
-        culture = indianfilipino
+        culture = filipino
         religion = catholic
-        size = 3000
+        size = 13000
     }
 
     soldiers = {
-        culture = indianfilipino
+        culture = filipino
         religion = catholic
-        size = 1000
+        size = 11000
     }
 
     farmers = {
-        culture = indianfilipino
+        culture = filipino
         religion = catholic
-        size = 116550
+        size = 176550
     }
-
-    slaves = {
-        culture = indianfilipino
-        religion = catholic
-        size = 20000
-    }
-
+	
     artisans = {
-        culture = nanfaren
+        culture = chinito
         religion = catholic
-        size = 1200
+        size = 11200
     }
 
     farmers = {
-        culture = nanfaren
+        culture = chinito
         religion = catholic
-        size = 800
+        size = 10800
     }
 }
 #New Subic
@@ -224,61 +206,61 @@
 #Cabanatuan
 3336 = {
     aristocrats = {
-        culture = lunati
+        culture = filipino
         religion = catholic
         size = 1250
     }
 
     bureaucrats = {
-        culture = lunati
+        culture = filipino
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = lunati
+        culture = filipino
         religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = lunati
+        culture = filipino
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = lunati
+        culture = filipino
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = lunati
+        culture = filipino
         religion = catholic
         size = 9000
     }
 
     soldiers = {
-        culture = lunati
+        culture = filipino
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = lunati
+        culture = filipino
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = lunati
+        culture = filipino
         religion = catholic
         size = 116550
     }
 
     slaves = {
-        culture = lunati
+        culture = filipino
         religion = catholic
         size = 20000
     }
@@ -295,76 +277,76 @@
         size = 800
     }
 }
-#
-3333 = {
+#Aparri
+3339 = {
     aristocrats = {
-        culture = indianfilipino
+        culture = macoyan
         religion = catholic
         size = 1250
     }
 
     bureaucrats = {
-        culture = indianfilipino
+        culture = macoyan
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = indianfilipino
+        culture = macoyan
         religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = indianfilipino
+        culture = macoyan
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = indianfilipino
+        culture = macoyan
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = indianfilipino
+        culture = macoyan
         religion = catholic
         size = 9000
     }
 
     soldiers = {
-        culture = indianfilipino
+        culture = cordilleran
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = indianfilipino
+        culture = cordilleran
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = indianfilipino
+        culture = cordilleran
         religion = catholic
         size = 116550
     }
 
     slaves = {
-        culture = indianfilipino
+        culture = cordilleran
         religion = catholic
         size = 20000
     }
 
     artisans = {
-        culture = nanfaren
+        culture = cordilleran
         religion = catholic
         size = 1200
     }
 
     farmers = {
-        culture = nanfaren
+        culture = cordilleran
         religion = catholic
         size = 800
     }
@@ -446,61 +428,61 @@
 #Palo Leyte
 3341 = {
     aristocrats = {
-        culture = leyteno
+        culture = cebuan
         religion = catholic
         size = 1250
     }
 
     bureaucrats = {
-        culture = leyteno
+        culture = cebuan
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = leyteno
+        culture = cebuan
         religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = leyteno
+        culture = cebuan
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = leyteno
+        culture = cebuan
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = leyteno
+        culture = cebuan
         religion = catholic
         size = 9000
     }
 
     soldiers = {
-        culture = leyteno
+        culture = cebuan
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = leyteno
+        culture = cebuan
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = leyteno
+        culture = cebuan
         religion = catholic
         size = 116550
     }
 
     slaves = {
-        culture = leyteno
+        culture = cebuan
         religion = catholic
         size = 20000
     }
@@ -520,61 +502,61 @@
 #Negros Island
 3335 = {
     aristocrats = {
-        culture = negrense
+        culture = aklanon
         religion = catholic
         size = 1250
     }
 
     bureaucrats = {
-        culture = negrense
+        culture = aklanon
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = negrense
+        culture = aklanon
         religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = negrense
+        culture = aklanon
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = negrense
+        culture = aklanon
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = negrense
+        culture = aklanon
         religion = catholic
         size = 9000
     }
 
     soldiers = {
-        culture = negrense
+        culture = aklanon
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = negrense
+        culture = aklanon
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = negrense
+        culture = aklanon
         religion = catholic
         size = 116550
     }
 
     slaves = {
-        culture = negrense
+        culture = aklanon
         religion = catholic
         size = 20000
     }

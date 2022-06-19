@@ -416,7 +416,7 @@ TUR_880 = { 880 881 883 } #Kastamonu
 
 TUR_882 = { 882 884 879 888 887 } #Trabizond
 
-TUR_885 = { 885 886 } #Kars
+#TUR_885 = { } #Kars
 
 #TUR_890 = { } #Van
 
@@ -452,15 +452,19 @@ TUR_932 = { 935 930 934 } #Kuwait
 
 TUR_926 = { 926 1133 931 } #
 
-RUS_1090 = { 1090 1093 1091 1092 1094 1095 } #Georgia
+RUS_1090 = { 1090 1093 1091 886 } #Georgia
+
+GEO_1095 = { 1092 1094 1095 } #Colchis-West Georgia
 
 GEO_1052 = { 1052 1053 1104 } #
 
-RUS_1098 = { 1098 1099 1100 1101 1105 } #Armenia
+RUS_1098 = { 1098 1099 1105 1106 885 } #Armenia
 
-RUS_1102 = { 1102 1106 1107 1103 } #Azerbaijan
+RUS_1102 = { 1102 1107 1103 } #Azerbaijan
 
-AZB_1389 = { 1389 1387 1402 1386 } #Central Azerbaijan
+AZB_1389 = { 1389 1100 1101 } #Central Azerbaijan
+
+AZB_1386 = { 1387 1402 1386 } #Zanzegur
 
 PER_1112 = { 1108 1875 2025 1112 1123 } #Tabriz
 
@@ -567,9 +571,9 @@ RUS_1037 = { 1037 1025 } #Tartaria
 
 RUS_1041 = { 1041 1036 1040 1039 1046 } #Astrakhan
 
-RUS_1048 = { 1048 1049 1050 1051 1047 } #Circassia
+RUS_1048 = { 1048 1049 1050 1051 1047 1056 } #Circassia
 
-RUS_1052 = { 1054 1055 1057 1056 } #North Caucasia
+RUS_1052 = { 1054 1055 1057 } #North Caucasia
 
 RUS_1060 = { 1044 1042 1034 1043 1035 } #Samara
 

@@ -2774,43 +2774,43 @@
 #Pau (676000/169000 POPS)
 460 = {
     aristocrats = {
-        culture = occitan
+        culture = basque
         religion = catholic
         size = 1200
     }
 
     clergymen = {
-        culture = occitan
+        culture = basque
         religion = catholic
         size = 850
     }
 
     artisans = {
-        culture = occitan
+        culture = basque
         religion = catholic
         size = 3000
     }
 
     artisans = {
-        culture = occitan
+        culture = basque
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = occitan
+        culture = basque
         religion = catholic
         size = 1250
     }
 
     farmers = {
-        culture = occitan
+        culture = basque
         religion = catholic
         size = 64700
     }
 
     farmers = {
-        culture = occitan
+        culture = basque
         religion = catholic
         size = 10000
     }
@@ -2964,31 +2964,31 @@
 #Perpignan (164000/41000 POPS)
 464 = {
     aristocrats = {
-        culture = occitan
+        culture = catalan
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = occitan
+        culture = catalan
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = occitan
+        culture = catalan
         religion = catholic
         size = 1250
     }
 
     soldiers = {
-        culture = occitan
+        culture = catalan
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = occitan
+        culture = catalan
         religion = catholic
         size = 11425
     }

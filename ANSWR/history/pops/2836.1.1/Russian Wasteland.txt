@@ -2434,62 +2434,62 @@
 #Vladikavkaz (76000/19000 POPS)
 1054 = {
     bureaucrats = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 100
     }
 
     clergymen = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 25
     }
 
     artisans = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 50
     }
 
     soldiers = {
-        culture = russian
+        culture = cherkesskiy
         religion = veravburyu
         size = 825
     }
 
     aristocrats = {
-        culture = circassian
-        religion = veravburyu
+        culture = ossetian
+        religion = orthodox
         size = 2000
     }
 
     clergymen = {
-        culture = circassian
-        religion = veravburyu
+        culture = ossetian
+        religion = orthodox
         size = 2000
     }
 
     artisans = {
-        culture = circassian
-        religion = veravburyu
+        culture = ossetian
+        religion = orthodox
         size = 4000
     }
 
     soldiers = {
-        culture = circassian
-        religion = veravburyu
+        culture = ossetian
+        religion = orthodox
         size = 2000
     }
 
     soldiers = {
-        culture = circassian
-        religion = veravburyu
+        culture = ossetian
+        religion = orthodox
         size = 20000
     }
 
     farmers = {
-        culture = circassian
-        religion = animist
+        culture = ossetian
+        religion = orthodox
         size = 104250
     }
 }
@@ -2528,43 +2528,43 @@
 #Pyatigorsk (136000/34000 POPS)
 1056 = {
     aristocrats = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 675
     }
 
     clergymen = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 1350
     }
 
     officers = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 50
     }
 
     artisans = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 1700
     }
 
     soldiers = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 13350
     }
 
     farmers = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 175875
     }
 
     farmers = {
-        culture = circassian
+        culture = cherkesskiy
         religion = veravburyu
         size = 25875
     }

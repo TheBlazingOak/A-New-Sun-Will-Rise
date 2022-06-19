@@ -112,6 +112,8 @@ CPL        = "countries/Congress Poland.txt"
 KAM        = "countries/Kamchatka.txt"
 BRY        ="countries/Buryatia.txt"
 STR        ="countries/Setjer.txt"
+OSE	   ="countries/Ossetia.txt"
+
 
 ##Australasia ANSWR
 AST        ="countries/Australia.txt"
@@ -557,6 +559,7 @@ NEJ        ="countries/Nejd.txt"
 OMA        ="countries/Oman.txt"
 PER        ="countries/Persia.txt"
 YEM        ="countries/Yemen.txt"
+WGO 	   ="countries/West Georgia.txt"
 
 # India
 HND     ="countries/India.txt"

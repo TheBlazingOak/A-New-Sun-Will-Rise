@@ -75,36 +75,6 @@
     }
 
     aristocrats = {
-        culture = circassian
-        religion = orthodox
-        size = 25
-    }
-
-    clergymen = {
-        culture = circassian
-        religion = orthodox
-        size = 25
-    }
-
-    artisans = {
-        culture = circassian
-        religion = orthodox
-        size = 150
-    }
-
-    soldiers = {
-        culture = circassian
-        religion = orthodox
-        size = 25
-    }
-
-    farmers = {
-        culture = circassian
-        religion = orthodox
-        size = 2775
-    }
-
-    aristocrats = {
         culture = armenian
         religion = coptic
         size = 50
@@ -184,6 +154,35 @@
 }
 #Pasanauri (76000/19000 POPS)
 1091 = {
+	 aristocrats = {
+        culture = ossetian
+        religion = orthodox
+        size = 25
+    }
+
+    clergymen = {
+        culture = ossetian
+        religion = orthodox
+        size = 25
+    }
+
+    artisans = {
+        culture = ossetian
+        religion = orthodox
+        size = 150
+    }
+
+    soldiers = {
+        culture = ossetian
+        religion = orthodox
+        size = 25
+    }
+
+    farmers = {
+        culture = ossetian
+        religion = orthodox
+        size = 2775
+    }
     aristocrats = {
         culture = georgian
         religion = orthodox
@@ -215,31 +214,31 @@
     }
 
     aristocrats = {
-        culture = circassian
+        culture = ossetian
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = circassian
+        culture = ossetian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = circassian
+        culture = ossetian
         religion = orthodox
         size = 300
     }
 
     soldiers = {
-        culture = circassian
+        culture = ossetian
         religion = orthodox
         size = 50
     }
 
     farmers = {
-        culture = circassian
+        culture = ossetian
         religion = orthodox
         size = 5500
     }
@@ -283,31 +282,31 @@
 #Kutaisi (120000/30000 POPS)
 1092 = {
     aristocrats = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 550
     }
 
     clergymen = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 300
     }
 
     artisans = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 1300
     }
 
     soldiers = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 300
     }
 
     serfs = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 27300
     }
@@ -419,25 +418,25 @@
 #Poti (104000/26000 POPS)
 1094 = {
     aristocrats = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 500
     }
 
     clergymen = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 250
     }
 
     artisans = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 1300
     }
 
     soldiers = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 275
     }
@@ -449,13 +448,13 @@
     }
 
     serfs = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 20675
     }
 
     farmers = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 3000
     }
@@ -493,19 +492,19 @@
     }
 
     aristocrats = {
-        culture = circassian
+        culture = abkhazian
         religion = orthodox
         size = 150
     }
 
     clergymen = {
-        culture = circassian
+        culture = abkhazian
         religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = circassian
+        culture = abkhazian
         religion = orthodox
         size = 450
     }
@@ -517,37 +516,37 @@
     }
 
     farmers = {
-        culture = circassian
+        culture = abkhazian
         religion = orthodox
         size = 28225
     }
 
     aristocrats = {
-        culture = circassian
+        culture = abkhazian
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = circassian
+        culture = abkhazian
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = circassian
+        culture = abkhazian
         religion = sunni
         size = 250
     }
 
     soldiers = {
-        culture = circassian
+        culture = abkhazian
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = circassian
+        culture = abkhazian
         religion = sunni
         size = 20550
     }
