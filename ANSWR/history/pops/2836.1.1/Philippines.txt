@@ -3,31 +3,31 @@
 #Manila (780000/195000 POPS)
 1455 = {
     aristocrats = {
-        culture = spanish
+        culture = tisoy
         religion = catholic
         size = 200
     }
 
     bureaucrats = {
-        culture = spanish
+        culture = tisoy
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = spanish
+        culture = tisoy
         religion = catholic
         size = 250
     }
 
     artisans = {
-        culture = spanish
+        culture = tisoy
         religion = catholic
         size = 1050
     }
 
     soldiers = {
-        culture = spanish
+        culture = tisoy
         religion = catholic
         size = 100
     }
@@ -93,37 +93,37 @@
     }
 
     artisans = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 1200
     }
 
     farmers = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 800
     }
 
     clergymen = {
-        culture = malay
+        culture = tisoy
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = malay
+        culture = tisoy
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = malay
+        culture = tisoy
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = malay
+        culture = tisoy
         religion = catholic
         size = 17725
     }
@@ -167,25 +167,25 @@
     }
 
     clergymen = {
-        culture = asian_minor
+        culture = tisoy
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = asian_minor
+        culture = tisoy
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = asian_minor
+        culture = tisoy
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = asian_minor
+        culture = tisoy
         religion = catholic
         size = 6650
     }
@@ -224,25 +224,25 @@
 
 
     clergymen = {
-        culture = malay
+        culture = tisoy
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = tisoy
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = malay
+        culture = tisoy
         religion = catholic
         size = 100
     }
 
     slaves = {
-        culture = malay
+        culture = tisoy
         religion = catholic
         size = 10350
     }
@@ -280,26 +280,26 @@
     }
 
     clergymen = {
-        culture = filipino
-        religion = sunni
+        culture = pampangan
+        religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = filipino
-        religion = sunni
+        culture = pampangan
+        religion = catholic
         size = 750
     }
 
     soldiers = {
-        culture = filipino
-        religion = sunni
+        culture = pampangan
+        religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = filipino
-        religion = sunni
+        culture = pampangan
+        religion = catholic
         size = 11025
     }
 

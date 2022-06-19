@@ -49,13 +49,13 @@
     }
 	
     artisans = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 1200
     }
 
     farmers = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 800
     }
@@ -118,13 +118,13 @@
     }
 	
     artisans = {
-        culture = chinito
+        culture = tisoy
         religion = catholic
         size = 11200
     }
 
     farmers = {
-        culture = chinito
+        culture = tisoy
         religion = catholic
         size = 10800
     }
@@ -192,13 +192,13 @@
     }
 
     artisans = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 1200
     }
 
     farmers = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 800
     }
@@ -266,13 +266,13 @@
     }
 
     artisans = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 1200
     }
 
     farmers = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 800
     }
@@ -414,13 +414,13 @@
     }
 
     artisans = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 1200
     }
 
     farmers = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 800
     }
@@ -488,13 +488,13 @@
     }
 
     artisans = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 1200
     }
 
     farmers = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 800
     }
@@ -562,13 +562,13 @@
     }
 
     artisans = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 1200
     }
 
     farmers = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 800
     }
@@ -636,13 +636,13 @@
     }
 
     artisans = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 1200
     }
 
     farmers = {
-        culture = nanfaren
+        culture = tisoy
         religion = catholic
         size = 800
     }
@@ -710,13 +710,13 @@
     }
 
     artisans = {
-        culture = nanfaren
+        culture = tisoy
         religion = sunni
         size = 1200
     }
 
     farmers = {
-        culture = nanfaren
+        culture = tisoy
         religion = sunni
         size = 800
     }

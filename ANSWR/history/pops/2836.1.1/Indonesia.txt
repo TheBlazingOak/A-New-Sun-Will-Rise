@@ -69,61 +69,61 @@
     }
 
     aristocrats = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 1100
     }
 
     bureaucrats = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 250
     }
 
     clergymen = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 875
     }
 
     artisans = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 4000
     }
 
     soldiers = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 91875
     }
 
     bureaucrats = {
-        culture = dutch
+        culture = yue
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = dutch
+        culture = yue
         religion = protestant
         size = 20
     }
 
     artisans = {
-        culture = dutch
+        culture = yue
         religion = protestant
         size = 20
     }
 
     soldiers = {
-        culture = dutch
+        culture = yue
         religion = protestant
         size = 50
     }
@@ -754,31 +754,31 @@
 #Tapaktuan (156000/39000 POPS)
 1407 = {
     aristocrats = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 250
     }
 
     clergymen = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 275
     }
 
     artisans = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 1250
     }
 
     soldiers = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 20725
     }
@@ -824,43 +824,43 @@
 #Padang (240000/60000 POPS)
 1408 = {
     aristocrats = {
-        culture = dutch
+        culture = yue
         religion = protestant
         size = 100
     }
 
     bureaucrats = {
-        culture = dutch
+        culture = yue
         religion = protestant
         size = 100
     }
 
     aristocrats = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 450
     }
 
     clergymen = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 375
     }
 
     artisans = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 2100
     }
 
     soldiers = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 400
     }
 
     farmers = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 36975
     }
@@ -970,31 +970,31 @@
     }
 
     aristocrats = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 1250
     }
 
     clergymen = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 875
     }
 
     artisans = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 3750
     }
 
     soldiers = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 80125
     }
@@ -1068,61 +1068,61 @@
     }
 
     aristocrats = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 200
     }
 
     bureaucrats = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 150
     }
 
     clergymen = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 750
     }
 
     soldiers = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 150
     }
 
     farmers = {
-        culture = malay
+        culture = sumatranmalay
         religion = sunni
         size = 14625
     }
 
     bureaucrats = {
-        culture = dutch
+        culture = yue
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = dutch
+        culture = yue
         religion = protestant
         size = 20
     }
 
     artisans = {
-        culture = dutch
+        culture = yue
         religion = protestant
         size = 20
     }
 
     soldiers = {
-        culture = dutch
+        culture = yue
         religion = protestant
         size = 50
     }
@@ -2071,61 +2071,61 @@
     }
 
     aristocrats = {
-        culture = malay
+        culture = borneanmalay
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = malay
+        culture = borneanmalay
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = borneanmalay
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = malay
+        culture = borneanmalay
         religion = animist
         size = 25
     }
 
     labourers = {
-        culture = malay
+        culture = borneanmalay
         religion = animist
         size = 2650
     }
 
     aristocrats = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 750
     }
 
     soldiers = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 50
     }
 
     labourers = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 8100
     }

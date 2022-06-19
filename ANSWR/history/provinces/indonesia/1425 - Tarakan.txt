@@ -1,6 +1,5 @@
-owner = JAV
-controller = JAV
-add_core = JAV
-add_core = KTI
+owner = BRU
+controller = BRU
+add_core = BRU
 trade_goods = wool
 life_rating = 35

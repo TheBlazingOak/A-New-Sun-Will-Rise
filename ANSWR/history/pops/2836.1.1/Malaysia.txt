@@ -495,49 +495,49 @@
 #Brunei (24000/6000 POPS)
 1393 = {
     aristocrats = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 75
     }
 
     bureaucrats = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 50
     }
 
     officers = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 300
     }
 
     soldiers = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 75
     }
 
     farmers = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 5000
     }
 
     slaves = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 500
     }
@@ -545,31 +545,31 @@
 #Kuching (88000/22000 POPS)
 1394 = {
     aristocrats = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 12300
     }
@@ -667,31 +667,31 @@
     }
 
     aristocrats = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 350
     }
 
     soldiers = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 75
     }
 
     farmers = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 6425
     }
@@ -754,31 +754,31 @@
     }
 
     aristocrats = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 2750
     }
