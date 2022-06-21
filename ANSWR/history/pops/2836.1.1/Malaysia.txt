@@ -492,54 +492,48 @@
 }
 #Northern Borneo Region (252000)
 #Under the Rule of Brunei in 1836 (212000)
-#Brunei (24000/6000 POPS)
+#Brunei (100687 POPS)
 1393 = {
     aristocrats = {
         culture = borneanmalay
         religion = sunni
-        size = 75
+        size = 1175
     }
 
     bureaucrats = {
         culture = borneanmalay
         religion = sunni
-        size = 50
+        size = 1150
     }
 
     officers = {
         culture = borneanmalay
         religion = sunni
-        size = 25
+        size = 1025
     }
 
     clergymen = {
         culture = borneanmalay
         religion = sunni
-        size = 50
+        size = 1050
     }
 
     artisans = {
         culture = borneanmalay
         religion = sunni
-        size = 300
+        size = 6300
     }
 
     soldiers = {
         culture = borneanmalay
         religion = sunni
-        size = 75
+        size = 5075
     }
 
     farmers = {
         culture = borneanmalay
         religion = sunni
-        size = 5000
-    }
-
-    slaves = {
-        culture = borneanmalay
-        religion = sunni
-        size = 500
+        size = 85000
     }
 }
 #Kuching (88000/22000 POPS)
@@ -628,159 +622,87 @@
         size = 500
     }
 }
-#Api (56000/14000 POPS)
+#Api (160000 POPS)
 1396 = {
-    aristocrats = {
-        culture = asian_minor
-        religion = animist
-        size = 50
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = animist
-        size = 250
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = asian_minor
-        religion = animist
-        size = 2575
-    }
-
     slaves = {
         culture = asian_minor
         religion = animist
-        size = 3000
+        size = 12000
     }
 
-    aristocrats = {
+	slaves = {
         culture = borneanmalay
         religion = sunni
-        size = 75
+        size = 126425
+    }
+	
+	aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 125
     }
 
     clergymen = {
-        culture = borneanmalay
-        religion = sunni
-        size = 75
-    }
-
-    artisans = {
-        culture = borneanmalay
-        religion = sunni
-        size = 350
-    }
-
-    soldiers = {
-        culture = borneanmalay
-        religion = sunni
-        size = 75
-    }
-
-    farmers = {
-        culture = borneanmalay
-        religion = sunni
-        size = 6425
-    }
-
-    clergymen = {
-        culture = yue
-        religion = mahayana
-        size = 25
-    }
-
-    artisans = {
-        culture = yue
-        religion = mahayana
-        size = 500
-    }
-
-    farmers = {
-        culture = yue
-        religion = mahayana
-        size = 475
-    }
-}
-#Under the Rule of Sulu in 1836 (40000)
-#Sandakan (40000/10000 POPS)
-1397 = {
-    aristocrats = {
-        culture = asian_minor
-        religion = animist
-        size = 75
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = animist
-        size = 300
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = asian_minor
-        religion = animist
-        size = 3475
-    }
-
-    slaves = {
-        culture = asian_minor
-        religion = animist
-        size = 3000
-    }
-
-    aristocrats = {
-        culture = borneanmalay
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = borneanmalay
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = borneanmalay
-        religion = sunni
+        culture = australian
+        religion = sydnic
         size = 150
     }
 
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 1100
+    }
+
     soldiers = {
-        culture = borneanmalay
-        religion = sunni
-        size = 25
+        culture = australian
+        religion = sydnic
+        size = 6075
     }
 
     farmers = {
+        culture = australian
+        religion = sydnic
+        size = 12575
+    }
+}
+#Under the Rule of Sulu in 1836 (40000)
+#Sandakan (83750 POPS)
+1397 = {
+    aristocrats = {
+        culture = australian
+        religion = sydnic
+        size = 100
+    }
+
+    clergymen = {
+        culture = australian
+        religion = sydnic
+        size = 1250
+    }
+
+    artisans = {
+        culture = australian
+        religion = sydnic
+        size = 4500
+    }
+
+    soldiers = {
+        culture = australian
+        religion = sydnic
+        size = 6000
+    }
+
+    slaves = {
+        culture = asian_minor
+        religion = animist
+        size = 6475
+    }
+
+    slaves = {
         culture = borneanmalay
         religion = sunni
-        size = 2750
+        size = 72750
     }
 
 }

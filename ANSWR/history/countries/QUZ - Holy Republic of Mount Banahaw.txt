@@ -51,6 +51,8 @@ schools = developing_tech_school
 
 foreign_weapons = yes_foreign_weapons
 
+oob = "QUZ_oob.txt"
+
 # Technologies
 flintlock_rifles = 1
 

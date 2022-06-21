@@ -3,25 +3,25 @@
 #Tblisi (232000/58000 POPS) #circassian-orthodox = Ossetian
 1090 = {
     bureaucrats = {
-        culture = russian
+        culture = georgian
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = russian
+        culture = georgian
         religion = orthodox
         size = 25
     }
 
     artisans = {
-        culture = russian
+        culture = georgian
         religion = orthodox
         size = 25
     }
 
     soldiers = {
-        culture = russian
+        culture = georgian
         religion = orthodox
         size = 250
     }
@@ -105,7 +105,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = armenian
         religion = orthodox
         size = 4000
     }
@@ -244,8 +244,8 @@
     }
 
     farmers = {
-        culture = chechen
-        religion = sunni
+        culture = armenian
+        religion = coptic
         size = 500
     }
 
@@ -462,31 +462,31 @@
 #Sukhumi (72000/18000 POPS) #circassian = abkhaz
 1095 = {
     aristocrats = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 75
     }
 
     clergymen = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 200
     }
 
     soldiers = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 50
     }
 
     farmers = {
-        culture = georgian
+        culture = westgeorgian
         religion = orthodox
         size = 17600
     }
@@ -510,7 +510,7 @@
     }
 
     soldiers = {
-        culture = russian
+        culture = westgeorgian
         religion = orthodox
         size = 100
     }

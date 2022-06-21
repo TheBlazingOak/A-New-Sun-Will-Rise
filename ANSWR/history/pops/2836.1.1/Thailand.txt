@@ -525,32 +525,32 @@
 #Nakhon Si Thammanet (196000/49000 POPS)
 1354 = {
     aristocrats = {
-        culture = thai
-        religion = theravada
+        culture = malay
+        religion = animist
         size = 625
     }
 
     clergymen = {
-        culture = thai
-        religion = theravada
+        culture = malay
+        religion = animist
         size = 325
     }
 
     artisans = {
-        culture = thai
-        religion = theravada
+        culture = malay
+        religion = animist
         size = 1300
     }
 
     soldiers = {
-        culture = thai
-        religion = theravada
+        culture = malay
+        religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = thai
-        religion = theravada
+        culture = malay
+        religion = animist
         size = 42800
     }
 
@@ -585,32 +585,32 @@
     }
 
     aristocrats = {
-        culture = malay
-        religion = sunni
+        culture = thai
+        religion = theravada
         size = 200
     }
 
     clergymen = {
-        culture = malay
-        religion = sunni
+        culture = thai
+        religion = theravada
         size = 125
     }
 
     artisans = {
-        culture = malay
-        religion = sunni
+        culture = thai
+        religion = theravada
         size = 600
     }
 
     soldiers = {
-        culture = malay
-        religion = sunni
+        culture = thai
+        religion = theravada
         size = 100
     }
 
     farmers = {
-        culture = malay
-        religion = sunni
+        culture = thai
+        religion = theravada
         size = 10975
     }
 }
