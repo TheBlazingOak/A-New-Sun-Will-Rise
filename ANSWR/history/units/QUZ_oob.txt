@@ -1,0 +1,37 @@
+leader = {
+    name = "Agripino Lontoc XIII"
+    type = land
+    date = 2836.1.1
+    personality = coolminded
+    background = priest
+}
+
+army = {
+    name = "Kapatiran ng Sion-Banahaw"
+    location = 3332
+    regiment = {
+            name= "1. Irregulares"
+            type = irregular
+            home = 3332
+    }
+    regiment = {
+            name= "2. Irregulares"
+            type = irregular
+            home = 3332
+	}
+    regiment = {
+            name= "3. Irregulares"
+            type = irregular
+            home = 3332
+    }
+    regiment = {
+            name= "4. Irregulares"
+            type = irregular
+            home = 3332
+    }
+    regiment = {
+            name= "5. Irregulares"
+            type = irregular
+            home = 3332
+    }
+}

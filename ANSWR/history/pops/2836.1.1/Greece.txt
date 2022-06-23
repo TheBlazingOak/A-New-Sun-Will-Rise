@@ -45,79 +45,79 @@
     }
 
     aristocrats = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 220
     }
 
     officers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 120
     }
 
     clergymen = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 5900
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 250
     }
 
     aristocrats = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 1120
     }
 
     officers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 120
     }
 
     clergymen = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 375
     }
 
     artisans = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 1500
     }
 
     farmers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 34005
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 1000
     }
@@ -179,49 +179,49 @@
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 300
     }
 
     clergymen = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 1425
     }
 
     clergymen = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 450
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 33300
     }
@@ -307,37 +307,37 @@
     }
 
     aristocrats = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 700
     }
 
     officers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 900
     }
 
     farmers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 28175
     }
@@ -397,55 +397,55 @@
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 150
     }
 
     clergymen = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 4800
     }
 
     aristocrats = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 475
     }
 
     clergymen = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 800
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 2325
     }
@@ -478,31 +478,31 @@
     }
 
     aristocrats = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 350
     }
 
     clergymen = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 900
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 325
     }
@@ -510,25 +510,25 @@
 #Edessa (128000/32000 POPS) #now part of Greece
 821 = {
     clergymen = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 650
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 33125
     }
@@ -558,7 +558,7 @@
     }
 
     aristocrats = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 750
     }
@@ -973,25 +973,25 @@
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 450
     }
 
     farmers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 33350
     }
@@ -1023,55 +1023,55 @@
 #Dedeagatch (72000/18000 POPS)
 830 = {
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 450
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 400
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 175
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 9900
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = orthodox
         size = 500
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = orthodox
         size = 200
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = orthodox
         size = 450
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = orthodox
         size = 27450
     }
@@ -1105,43 +1105,43 @@
 #Larisa (140000/35000 POPS)
 831 = {
     aristocrats = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 600
     }
 
     bureaucrats = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 150
     }
 
     officers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 750
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 3650
     }
@@ -1174,31 +1174,31 @@
 #Volos (224000/56000 POPS)
 832 = {
     aristocrats = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 650
     }
 
     clergymen = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 1300
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 6425
     }
@@ -1274,31 +1274,31 @@
 #Trikala (44000/11000 POPS)
 833 = {
     aristocrats = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = croat
+        culture = skrvat
         religion = catholic
         size = 450
     }
@@ -1526,19 +1526,19 @@
 839 = {
 
     clergymen = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 170
     }
 
     artisans = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 300
     }
 
     soldiers = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 200
     }
@@ -1550,7 +1550,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 10070
     }
@@ -1558,25 +1558,25 @@
 #Corinth (40000/10000 POPS)
 840 = {
     clergymen = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 500
     }
 
     soldiers = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 400
     }
 
     farmers = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 9100
     }
@@ -1584,25 +1584,25 @@
 #Kalamai (68000/17000 POPS)
 841 = {
     clergymen = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 350
     }
 
     soldiers = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 400
     }
 
     farmers = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 9000
     }
@@ -1611,43 +1611,43 @@
 842 = {
 
     aristocrats = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 1100
     }
 
     bureaucrats = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 100
     }
 
     officers = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 60
     }
 
     clergymen = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 400
     }
 
     soldiers = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = greek
+        culture = peloponesian
         religion = orthodox
         size = 41000
     }
@@ -1721,79 +1721,79 @@
 #Chios (68000/17000 POPS)
 843 = {
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 150
     }
 
     bureaucrats = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 50
     }
 
     officers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 600
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 175
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 700
     }
 
     aristocrats = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 120
     }
 
     officers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 120
     }
 
     soldiers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 2400
     }
 
     farmers = {
-        culture = turkish
+        culture = westturkish
         religion = sunni
         size = 12450
     }
@@ -1803,39 +1803,9 @@
 #Iraklion (68000/17000 POPS)
 848 = {
     aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 250
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 550
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 175
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 5850
-    }
-
-    aristocrats = {
         culture = greek
         religion = orthodox
-        size = 100
+        size = 350
     }
 
     officers = {
@@ -1847,25 +1817,25 @@
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 375
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 450
+        size = 1000
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 9475
+        size = 15325
     }
 
 }

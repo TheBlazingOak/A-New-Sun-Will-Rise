@@ -1,5 +1,6 @@
-owner = TCA
-controller = TCA
+owner = ABK
+controller = ABK
+add_core = ABK
 add_core = TCA
 add_core = GEO
 trade_goods = grain

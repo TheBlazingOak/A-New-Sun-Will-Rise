@@ -12,7 +12,7 @@ ABU_1162;Arabian Gulf;;;;;;;;;;;;x
 EGY_897;Western Syria;;;;;;;;;;;;x
 EGY_903;Eastern Syria;;;;;;;;;;;;x
 PROV928;Baqubah;;;;;;;;;;;;x
-PROV1813;Hasakah;;;;;;;;;;;;x
+PROV1813;Hasakeh-Magarisu;;;;;;;;;;;;x
 PROV907;Deir ez-Zor;;;;;;;;;;;;x
 PROV901;Raqqah;;;;;;;;;;;;x
 PROV2133;Gizab;;;;;;;;;;;;x
@@ -83,7 +83,6 @@ PROV3291;Lake Mackay;;;;;;;;;;;;x
 PROV3289;Scottish Channel;;;;;;;;;;;;x
 PROV3287;Lake Gairdner;;;;;;;;;;;;x
 PROV3285;Fagnano Lake;;;;;;;;;;;;x
-PROV12;Sado;;;;;;;;;;;x
 PROV1531;Tombara;;;;;;;;;;;x
 PROV2537;Birara;;;;;;;;;;;x
 PROV158;Grand Portage;;;;;;;;;;;x
@@ -173,7 +172,6 @@ PROV2505;Port Essington;;;;;;;;;;;;;x
 RUS_973;Kherson-Zaporizhia;;;;;;;;;;;;;x
 RUS_955;Yekaterinoslav;;;;;;;;;;;;x
 PROV3107;Lake Baikal;;;;;;;;;;;;;;;;;;;;;x;;;;;;
-PROV2589;Tsushima;;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1724;Orkney & Shetland;;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1858;Asaita;;;;;;;;;;;;;;;;;;;;;;;;x
 australia_new_zealand;Oceania;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -205,7 +203,6 @@ PROV1937;Wukari;;;;;;;;;;;;;;;;;;x;;;;
 PROV1936;Nsukka;;;;;;;;;;;;;;;;;;x;;;;
 PROV2697;Jingkiri;;;;;;;;;;;;;;;;;;x;;;;
 PROV1081;Yakesa;;;;;;;;;;;;;;;;;;x;;;;
-RUS_1072;Hailanpao;;;;;;;;;;;;;;;;;x;;;;
 PROV1085;Hailanpao;;;;;;;;;;;;;;;;;x;;;;
 PROV1600;Urumqi;;;;;;;;;;;;;;;;;x;;;;
 PROV2839;Gulf of Patience;;;;;;;;;;;;;;;;;x;;;;
@@ -432,12 +429,6 @@ NET_394;Wallonia;;;;;;;;;;;;x
 HAN_528;Lower Elbe;;;;;;;;;;;;x
 HAN_534;Hanover;;;;;;;;;;;;x
 HAN_540;Oost-Friesland;;;;;;;;;;;;x
-PRU_544;Mecklenburg;;;;;;;;;;;;x
-PRU_546;Pomerania;;;;;;;;;;;;x
-PRU_553;Anhalt;;;;;;;;;;;;x
-PRU_554;Thuringia;;;;;;;;;;;;x
-SAX_558;Saxony;;;;;;;;;;;;x
-PRU_570;Palatinate;;;;;;;;;;;;x
 PRU_575;West-Rijnland;;;;;;;;;;;;x
 PRU_578;Ostrheinland;;;;;;;;;;;;x
 BAV_595;Franconia;;;;;;;;;;;;x
@@ -542,8 +533,6 @@ EGY_1753;Qattara;;;;;;;;;;;;x
 EGY_1755;Sinai;;;;;;;;;;;;x
 ENG_1844;Sudd;;;;;;;;;;;;x
 ETH_1852;Begemder;;;;;;;;;;;;x
-ETH_1853;Tigray;;;;;;;;;;;;x
-ETH_1859;Shewa;;;;;;;;;;;;x
 ETH_1862;Gibe;;;;;;;;;;;;x
 ETH_1865;Hararghe;;;;;;;;;;;;x
 PROV1860;Hawassa;;;;;;;;;;;;x
@@ -631,19 +620,10 @@ PRU_553;Anhalt;;;;;;;;;;;;x
 PRU_554;Thuringia;;;;;;;;;;;;x
 SAX_558;Saxony;;;;;;;;;;;;x
 PRU_570;Palatinate;;;;;;;;;;;;x
-PRU_575;Rheinland;;;;;;;;;;;;x
-PRU_578;Eastern Rheinland;;;;;;;;;;;;x
 BAV_595;Franconia;;;;;;;;;;;;x
 BAV_599;Upper Bavaria;;;;;;;;;;;;x
 SPA_610;Caroline Islands;;;;;;;;;;;;x
-AUS_652;Banat;;;;;;;;;;;;x
-AUS_654;Western Transylvania;;;;;;;;;;;;x
-AUS_657;Eastern Transylvania;;;;;;;;;;;;x
-MOL_676;Bessarabia;;;;;;;;;;;;x
 PRU_684;Upper Silesia;;;;;;;;;;;;x
-AUS_702;Galicia-Lodomeria;;;;;;;;;;;;x
-PROV704;Nowy Sacz;;;;;;;;;;;;x
-RUS_706;Masovia;;;;;;;;;;;;x
 PROV711;Siedlce;;;;;;;;;;;;x
 RUS_715;West Galicia;;;;;;;;;;;;x
 PROV719;Bialystok;;;;;;;;;;;;x
@@ -733,8 +713,6 @@ EGY_1753;Qattara;;;;;;;;;;;;x
 EGY_1755;Sinai;;;;;;;;;;;;x
 ENG_1844;Sudd;;;;;;;;;;;;x
 ETH_1852;Begemder;;;;;;;;;;;;x
-ETH_1853;Tigray;;;;;;;;;;;;x
-ETH_1859;Shewa;;;;;;;;;;;;x
 ETH_1862;Gibe;;;;;;;;;;;;x
 ETH_1865;Hararghe;;;;;;;;;;;;x
 PROV1860;Hawassa;;;;;;;;;;;;x
@@ -909,7 +887,7 @@ PROV2247;Bacatá;;;;;;;;;;;;x
 USA_2556;Carolingia Proper;;;;;;;;;;;;x
 PAW_166;Outer Illinois;;;;;;;;;;;;x
 LOS_89;Greater Los Angeles Area;;;;;;;;;;;;x
-TEX_134;West Texas;;;;;;;;;;;;x
+TEX_134;East Texas;;;;;;;;;;;;x
 CLM_2004;Old Taislas;;;;;;;;;;;;x
 MEX_2165;Chiapas;;;;;;;;;;;;x
 ARG_2355;La Isla de La Plata;;;;;;;;;;;;x
@@ -1240,3 +1218,55 @@ CHI_1600;Urumqui;;;;;;;;;;;;x
 CHI_1601;Yunnan;;;;;;;;;;;;x
 CHI_1604;Shen;;;;;;;;;;;;x
 CHI_1610;Wuying;;;;;;;;;;;;x
+PROV923;Ninwe;;;;;;;;;;;;x
+PROV843;Sakiz;;;;;;;;;;;;x
+PROV859;Gelibolu;;;;;;;;;;;;x
+PROV805;Solun;;;;;;;;;;;;x
+PROV821;Vodinu;;;;;;;;;;;;x
+PROV819;Lerin;;;;;;;;;;;;x
+PROV820;Grebini;;;;;;;;;;;;x
+PROV833;Trikolj;;;;;;;;;;;;x
+PROV834;Athina;;;;;;;;;;;;x
+PROV840;Korinthos;;;;;;;;;;;;x
+PROV1751;Rakoti-Alexandria;;;;;;;;;;;;x
+PROV1747;Tandata;;;;;;;;;;;;x
+PROV1750;Tipersis-Phylake;;;;;;;;;;;;x
+PROV1765;Phiom-Philadelphia;;;;;;;;;;;;x
+PROV1763;Het-Nesut-Heracleopolis;;;;;;;;;;;;x
+PROV1745;Al Qahiroah;;;;;;;;;;;;x
+PROV1767;Al Luqsur;;;;;;;;;;;;x
+PROV917;Yerushalayim;;;;;;;;;;;;x
+PROV989;Hevron;;;;;;;;;;;;x
+PROV920;Azza;;;;;;;;;;;;x
+PROV919;Yaffo-Tel Aviv;;;;;;;;;;;;x
+PROV918;Shechem;;;;;;;;;;;;x
+PROV916;Akko;;;;;;;;;;;;x
+PROV908;Rabat-Ammon;;;;;;;;;;;;x
+PROV1132;Ar-Ramadi;;;;;;;;;;;;x
+PROV927;Sur-marrati;;;;;;;;;;;;x
+PROV1939;Tsakiyar;;;;;;;;;;;;x
+PROV927;Sur-marrati;;;;;;;;;;;;x
+PROV1457;Naga;;;;;;;;;;;;x
+PROV3333;Tanay;;;;;;;;;;;;x
+PROV3336;Cabanatuan;;;;;;;;;;;;x
+PROV3340;Baguio;;;;;;;;;;;;x
+PROV3334;New Subic;;;;;;;;;;;;x
+PROV1455;Lipa;;;;;;;;;;;;x
+PROV3332;Lucena;;;;;;;;;;;;x
+PROV3335;Zambales;;;;;;;;;;;;x
+PROV3337;Nueva Vizcaya;;;;;;;;;;;;x
+PROV3338;Qurinio-Isabela;;;;;;;;;;;;x
+PROV3339;Cagayan-Isabela;;;;;;;;;;;;x
+PROV3341;Great Kalinga;;;;;;;;;;;;x
+ETH_1859;Onneelafa;;;;;;;;;;;;x
+PROV1859;Onnee City;;;;;;;;;;;;x
+ETH_1853;Ma'ibeli Meretochi;;;;;;;;;;;;x
+PROV1857;Ma'ibeli City;;;;;;;;;;;;x
+FRA_1927;The Tsakiya Heartlands;;;;;;;;;;;;x
+PROV2589;Sarki City;;;;;;;;;;;;x
+FRA_1815;Korgenkore;;;;;;;;;;;;x
+FRA_1816;Mruwa;;;;;;;;;;;;x
+TOR_1784;Fleuvmar;;;;;;;;;;;;x
+WOL_1785;Marcage;;;;;;;;;;;;x
+PROV12;Babbangabas;;;;;;;;;;;;x
+PROV2589;Hanyamai-Sauri;;;;;;;;;;;;x

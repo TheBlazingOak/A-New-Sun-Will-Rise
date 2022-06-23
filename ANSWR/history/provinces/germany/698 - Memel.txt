@@ -1,6 +1,5 @@
 owner = LIT
 controller = LIT
-add_core = PRU
 add_core = LIT
 trade_goods = fish
 life_rating = 40

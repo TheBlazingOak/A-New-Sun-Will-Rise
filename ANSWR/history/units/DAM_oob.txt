@@ -29,11 +29,11 @@ regiment = {
 
 
 regiment = {
-        name= "1st Hausa Warriors"
+        name= "1st tsakiya Warriors"
         type = irregular
     home = 1815    }
 regiment = {
-        name= "2nd Hausa Warriors"
+        name= "2nd tsakiya Warriors"
         type = irregular
     home = 1811    }
 }

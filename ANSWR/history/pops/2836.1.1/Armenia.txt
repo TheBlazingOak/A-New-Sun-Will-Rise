@@ -231,7 +231,7 @@
     }
 
     farmers = {
-        culture = greek
+        culture = armenian
         religion = orthodox
         size = 325
     }
@@ -240,104 +240,104 @@
 #Kapan (44000/11000 POPS)
 1100 = {
 	soldiers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 110
     }
 
     clergymen = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 110
     }
 
     artisans = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 450
     }
 
     farmers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 8775
     }
 
 	soldiers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 200
     }
 
     clergymen = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 350
     }
 
     farmers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 4400
     }
 
 	soldiers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 350
     }
 
     farmers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 6500
     }
 
     aristocrats = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 125
     }
 
     clergymen = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 400
     }
 
     soldiers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 75
     }
 
     farmers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 7325
     }
 
@@ -368,32 +368,32 @@
 #Nakhichevan (60000/15000 POPS) #now part of Azerbaijan
 1101 = {
     aristocrats = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 125
     }
 
     clergymen = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 175
     }
 
     artisans = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 450
     }
 
     soldiers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = sunni
         size = 8250
     }
 

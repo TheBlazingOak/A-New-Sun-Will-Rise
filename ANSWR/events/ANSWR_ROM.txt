@@ -22,7 +22,7 @@ country_event = {
                 MDV= { nationalism_n_imperialism = 1 } 
                 WAL= { nationalism_n_imperialism = 1 } 
             }
-            
+
         }
 
         option = {
@@ -112,8 +112,8 @@ country_event = {
 
 country_event = { 
         id = 223005
-        name = "EVNTNAME223005"
-        desc = "EVNTDESC223005"
+        name = "EVTNAME223005"
+        desc = "EVTDESC223005"
         picture = gadsden_treaty
         fire_only_once = yes
 
@@ -121,7 +121,7 @@ country_event = {
             months = 1
         }
 
-        trigger = {has_country_flag = rom_event_4 }
+        trigger = {has_country_flag = rom_event_4}
 
 
         option = { 
@@ -154,55 +154,98 @@ country_event = {
         picture = garibaldi_raid
         fire_only_once = yes
 
-        mean_time_to_happen = { days =10 }
-
+        mean_time_to_happen = {days =10}
         trigger = {has_country_flag = rom_event_6}
 
         option = {
             name = "EVTOPTA223009"
             any_country = {
                 limit = { vassal_of = WAL}
-                release_vassal = WAL
-
+                country_event = 223012
             }
 
-            war = {
-	            target = {any_country = {limit = {vassal_of = WAL} }}
-	            attacker_goal = { casus_belli = make_puppet }
-	            defender_goal = { casus_belli = become_independent }
-	            call_ally = no
-                }
+
         }
 
 }
 
 
-
-country_event = { 
-id = 223420
-title = "EVTNAME223420"
-desc = "EVTDESC223420"
-picture = italoturk_peace
-fire_only_once = yes
-
-mean_time_to_happen = { days = 5}
-
-trigger = {has_country_flag = rom_event_5}
+country_event = {
+    id = 223012
+    title = "EVTNAME223012"
+    desc = "EVTDESC2230012"
+    picture = garibaldi_raid
+    is_triggered_only = yes
 
     option = {
-        name = "EVTOPTA223011"
-        any_country = {
-            limit = {vassal_of=THIS}
-        all_core = {add_core = ROM}
-        }
-        any_country = {
-            limit = { vassal_of = THIS}
-            annex_to = THIS 
-                    }
-        change_tag = ROM
-        badboy = 10
-        government = fascist_dictatorship
-        }
+        name = "EVTOPTA223012"
+        release_vassal = THIS
+
+        war = {
+                target = WAL 
+                attacker_goal = { casus_belli = become_independent }
+                defender_goal = {  casus_belli = make_puppet}
+                call_ally = no
+                }
+
+    }
+
+
+}
+
+
+country_event = { 
+            id = 223420
+            title = "EVTNAME223420"
+            desc = "EVTDESC223420"
+            picture = italoturk_peace
+            fire_only_once = yes
+
+
+
+            mean_time_to_happen = { days = 5}
+
+
+            trigger = {has_country_flag = rom_event_5}
+
+
+            option = {
+                name = "EVTOPTA223011"
+                669 = {add_core = ROM}
+                668 = {add_core = ROM}
+                844 = {add_core = ROM}
+                664 = {add_core = ROM}
+                667 = {add_core = ROM}
+                666 = {add_core = ROM}
+                665 = {add_core = ROM}
+                656 = {add_core = ROM}
+                655 = {add_core = ROM}
+                654 = {add_core = ROM}
+                661 = {add_core = ROM}
+                2533 = {add_core = ROM}
+                660 = {add_core = ROM}
+                657 = {add_core = ROM}
+                659 = {add_core = ROM}
+                672 = {add_core = ROM}
+                673 = {add_core = ROM}
+                670 = {add_core = ROM}
+                671 = {add_core = ROM}
+                663 = {add_core =ROM}
+                662 = {add_core = ROM}
+                677 = {add_core = ROM}
+                676 = {add_core =ROM}
+                678 = {add_core = ROM}
+                675 = {add_core = ROM}
+
+                any_country = {
+                    limit = { vassal_of = THIS}
+                    annex_to = THIS 
+                }
+                change_tag = ROM
+                badboy = 10
+                government = fascist_dictatorship
+
+            }
 }
 
 
@@ -214,7 +257,7 @@ country_event = {
             fire_only_once = yes
 
             mean_time_to_happen = { days = 15}
-            trigger = { has_country_flag = rom_event_7 }
+            trigger = { has_country_flag = rom_event_7}
 
             option = {
                 name = "EVTOPTA223006"
@@ -237,13 +280,13 @@ country_event = {
             fire_only_once = yes
 
             mean_time_to_happen = {days = 15}
-            trigger = has_country_flag = rom_event_8
+            trigger = { has_country_flag = rom_event_8 } 
 
             option = {
                 name = {"EVTOPTA223007"}
                 any_pop = { consciousness = -5}
-            
-            
+
+
             }
 }
 country_event = {
@@ -268,7 +311,7 @@ country_event = {
             option = {
                 name = "EVTOPTB223008"
                  set_country_flag = rom_event_4
-            
+
             }
 }
 
@@ -297,17 +340,38 @@ country_event = {
 
         option = {
             name = "EVTOPTB223010"
-            any_country = {
-                     limit = {vassal_of = THIS}
-                    all_core = {add_core = ROM}
-                }
+                669 = {add_core = ROM}
+                668 = {add_core = ROM}
+                844 = {add_core = ROM}
+                664 = {add_core = ROM}
+                667 = {add_core = ROM}
+                666 = {add_core = ROM}
+                665 = {add_core = ROM}
+                656 = {add_core = ROM}
+                655 = {add_core = ROM}
+                654 = {add_core = ROM}
+                661 = {add_core = ROM}
+                2533 = {add_core = ROM}
+                660 = {add_core = ROM}
+                657 = {add_core = ROM}
+                659 = {add_core = ROM}
+                672 = {add_core = ROM}
+                673 = {add_core = ROM}
+                670 = {add_core = ROM}
+                671 = {add_core = ROM}
+                663 = {add_core =ROM}
+                662 = {add_core = ROM}
+                677 = {add_core = ROM}
+                676 = {add_core =ROM}
+                678 = {add_core = ROM}
+                675 = {add_core = ROM}
             any_country = {
                 limit = { vassal_of = THIS}
                 annex_to = THIS 
                 }
             change_tag = ROM
             badboy = 10
-        
+
         }
 
 }

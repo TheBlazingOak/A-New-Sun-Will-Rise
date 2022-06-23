@@ -95,37 +95,37 @@
     }
 
     aristocrats = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 2000
     }
 
     clergymen = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 1000
     }
 
     artisans = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 8250
     }
 
     soldiers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 3000
     }
 
     farmers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 110125
     }
 
     slaves = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 131550
     }
@@ -175,36 +175,36 @@
     }
 
     aristocrats = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 2500
     }
 
     clergymen = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 2250
     }
 
     artisans = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 7000
     }
 
     soldiers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 1250
     }
 
     farmers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 73750
     }
     slaves = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 110000
     }
@@ -248,36 +248,36 @@
     }
 
     aristocrats = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 1900
     }
 
     clergymen = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 1625
     }
 
     artisans = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 2000
     }
 
     soldiers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 1500
     }
 
     farmers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 60375
     }
     slaves = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 40000
     }
@@ -317,36 +317,36 @@
     }
 
     aristocrats = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 1700
     }
 
     clergymen = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 1375
     }
 
     artisans = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 8850
     }
 
     soldiers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 3350
     }
 
     farmers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 63725
     }
     slaves = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 70000
     }
@@ -401,48 +401,48 @@
     }
 
     aristocrats = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 1750
     }
 
     bureaucrats = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 1700
     }
 
     officers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 750
     }
 
     clergymen = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 1275
     }
 
     artisans = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 5000
     }
 
     soldiers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 1100
     }
 
     farmers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 51525
     }
     slaves = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 50000
     }
@@ -497,42 +497,42 @@
     }
 
     aristocrats = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 700
     }
 
     clergymen = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 400
     }
 
     artisans = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 10000
     }
 
     artisans = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 6100
     }
 
     soldiers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 3500
     }
 
     farmers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 121400
     }
     slaves = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 90000
     }
@@ -570,43 +570,43 @@
     }
 
     aristocrats = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 2500
     }
 
     clergymen = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 6250
     }
 
     artisans = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 10000
     }
 
     artisans = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 5000
     }
 
     soldiers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 3000
     }
 
     farmers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 166250
     }
 
     slaves = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 40000
     }
@@ -658,13 +658,13 @@
     }
 
     farmers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 42250
     }
 
     slaves = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 63000
     }
@@ -714,31 +714,31 @@
     }
 
     aristocrats = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 500
     }
 
     clergymen = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 750
     }
 
     artisans = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 2000
     }
 
     soldiers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 125
     }
 
     slaves = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 73000
     }
@@ -771,13 +771,13 @@
     }
 
     farmers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 115250
     }
 
     slaves = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 45000
     }
@@ -786,37 +786,37 @@
 #Rajshahi (2332000/583000 POPS)
 1255 = {
     aristocrats = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 2950
     }
 
     clergymen = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 2750
     }
 
     artisans = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 10000
     }
 
     artisans = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 7000
     }
 
     soldiers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 3000
     }
 
     farmers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 193750
     }
@@ -897,31 +897,31 @@
     }
 
     bureaucrats = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 250
     }
 
     clergymen = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 500
     }
 
     artisans = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 12500
     }
 
     soldiers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 3500
     }
 
     farmers = {
-        culture = bengali
+        culture = talobum
         religion = daharite
         size = 145750
     }

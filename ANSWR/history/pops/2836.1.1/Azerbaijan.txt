@@ -309,32 +309,32 @@
 #Ganja (68000/17000 POPS)
 1105 = {
     aristocrats = {
-        culture = azerbaijani
-        religion = shiite
+        culture = armenian
+        religion = orthodox
         size = 225
     }
 
     clergymen = {
-        culture = azerbaijani
-        religion = shiite
+        culture = armenian
+        religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = azerbaijani
-        religion = shiite
+        culture = armenian
+        religion = orthodox
         size = 500
     }
 
     soldiers = {
-        culture = azerbaijani
-        religion = shiite
+        culture = armenian
+        religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = azerbaijani
-        religion = shiite
+        culture = armenian
+        religion = orthodox
         size = 9100
     }
 
@@ -371,32 +371,32 @@
 #Agdam (60000/15000 POPS)
 1106 = {
     aristocrats = {
-        culture = azerbaijani
-        religion = sunni
+        culture = armenian
+        religion = orthodox
         size = 150
     }
 
     clergymen = {
-        culture = azerbaijani
-        religion = sunni
+        culture = armenian
+        religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = azerbaijani
-        religion = sunni
+        culture = armenian
+        religion = orthodox
         size = 450
     }
 
     soldiers = {
-        culture = azerbaijani
-        religion = sunni
+        culture = armenian
+        religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = azerbaijani
-        religion = sunni
+        culture = armenian
+        religion = orthodox
         size = 8225
     }
 

@@ -500,7 +500,7 @@ country_event = {
 	}
 
 	option = {
-	name = "EVT52101OPTA"
+	name = "EVTOPTA52101"
 	CAN_13 = { add_core = THIS }
 	USA_78 = { add_core = THIS }
 	set_country_flag = cascadia_core

@@ -171,7 +171,7 @@ political_decisions = {
                 1826 = { secede_province = THIS any_pop = { literacy = -0.99 } }
                 owner = { prestige = 1 }
             }
-            #Owner of Outer Hausaland gets Niger
+            #Owner of Outer tsakiyaland gets Niger
             random_owned = {
                 limit = {
                     owner = {
@@ -1506,7 +1506,7 @@ political_decisions = {
             }
             NIG = {
                 primary_culture = THIS
-                add_accepted_culture = hausa
+                add_accepted_culture = tsakiya
                 tech_school = developing_tech_school
                 set_country_flag = post_colonial_country
                 set_country_flag = sunni_country

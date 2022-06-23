@@ -1,6 +1,5 @@
-owner = JAV
-controller = JAV
-add_core = JAV
-add_core = SAK
+owner = AZB
+controller = AZB
+add_core = AZB
 trade_goods = timber
 life_rating = 35

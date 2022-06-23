@@ -1329,31 +1329,31 @@
     }
 
     aristocrats = {
-        culture = asian_minor
+        culture = assamese
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = asian_minor
+        culture = assamese
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = asian_minor
+        culture = assamese
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = asian_minor
+        culture = assamese
         religion = animist
         size = 1250
     }
 
     farmers = {
-        culture = asian_minor
+        culture = assamese
         religion = animist
         size = 25000
     }
@@ -1411,31 +1411,31 @@
 #Agartala (608000/152000 POPS)
 2566 = {
     aristocrats = {
-        culture = asian_minor
+        culture = bengali
         religion = animist
         size = 1100
     }
 
     clergymen = {
-        culture = asian_minor
+        culture = bengali
         religion = animist
         size = 875
     }
 
     artisans = {
-        culture = asian_minor
+        culture = bengali
         religion = animist
         size = 5000
     }
 
     soldiers = {
-        culture = asian_minor
+        culture = bengali
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = asian_minor
+        culture = bengali
         religion = animist
         size = 89125
     }

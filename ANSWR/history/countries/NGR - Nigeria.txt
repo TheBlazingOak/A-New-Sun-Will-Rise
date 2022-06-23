@@ -1,24 +1,15 @@
-capital = 1923
-primary_culture = yoruba
-culture = hausa
-culture = ibo
-culture = fulbe
-culture = kanuri
-culture = itsekari
-culture = edo
-culture = east_kwa
-culture = tiv
-culture = ibibio
-religion = protestant
+capital = 1939
+primary_culture = tsakiya
+religion = sarki
 government = absolute_monarchy
-plurality = 0.0
+plurality = 2.0
 nationalvalue = nv_order
-literacy = 0.03
+literacy = 0.05
 civilized = no
-prestige = 5
+prestige = 25
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = landed_voting
 public_meetings = no_meeting
@@ -44,9 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
-
-set_country_flag = post_colonial_country
+set_country_flag = sarki_country
 
 ruling_party = NGR_reactionary
 upper_house = {

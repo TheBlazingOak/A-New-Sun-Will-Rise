@@ -1,5 +1,6 @@
-owner = PHL
-controller = PHL
+owner = ILC
+controller = ILC
+add_core = ILC
 add_core = PHL
 trade_goods = tobacco
 life_rating = 35

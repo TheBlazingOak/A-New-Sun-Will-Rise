@@ -205,30 +205,30 @@
 
     clergymen = {
         culture = tesredinikh
-        religion = orthodox
+        religion = veravburyu
         size = 1250
     }
 
     artisans = {
         culture = tesredinikh
-        religion = orthodox
+        religion = veravburyu
         size = 2500
     }
 
     soldiers = {
         culture = tesredinikh
-        religion = orthodox
+        religion = veravburyu
         size = 500
     }
 
     farmers = {
         culture = tesredinikh
-        religion = orthodox
+        religion = veravburyu
         size = 6700
     }
     farmers = {
         culture = finnish
-        religion = orthodox
+        religion = veravburyu
         size = 8000
     }
 }
@@ -512,5 +512,45 @@
         culture = russian
         religion = veravburyu
         size = 70000
+    }
+}
+#Smolensk Region (392000) #see Russia.txt for balance of region
+#under the rule of Russia in 1836
+#Orsha (392000/98000 POPS) #now part of Belarus
+944 = {
+    aristocrats = {
+        culture = russian
+        religion = veravburyu
+        size = 1825
+    }
+
+    clergymen = {
+        culture = russian
+        religion = veravburyu
+        size = 400
+    }
+
+    artisans = {
+        culture = russian
+        religion = veravburyu
+        size = 3000
+    }
+
+    soldiers = {
+        culture = russian
+        religion = veravburyu
+        size = 1100
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 47500
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 42000
     }
 }

@@ -1,0 +1,446 @@
+#Lucena-Quezon (121904 POPS)
+3332 = {
+    aristocrats = {
+        culture = filipino
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = filipino
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 8750
+    }
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 9000
+    }
+	
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 96550
+    }
+	
+    artisans = {
+        culture = tisoy
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = tisoy
+        religion = catholic
+        size = 5800
+    }
+}
+
+#New Antipolo
+3333 = {
+    aristocrats = {
+        culture = filipino
+        religion = catholic
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = filipino
+        religion = catholic
+        size = 1450
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 1750
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 12550
+    }
+	
+    artisans = {
+        culture = tisoy
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = tisoy
+        religion = catholic
+        size = 1800
+    }
+}
+#New Subic
+3334 = {
+    aristocrats = {
+        culture = pampangan
+        religion = catholic
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = pampangan
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = pampangan
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = pampangan
+        religion = catholic
+        size = 2000
+    }
+
+    soldiers = {
+        culture = pampangan
+        religion = catholic
+        size = 4000
+    }
+
+    farmers = {
+        culture = pampangan
+        religion = catholic
+        size = 86550
+    }
+
+    artisans = {
+        culture = tisoy
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = tisoy
+        religion = catholic
+        size = 800
+    }
+}
+#Cabanatuan (~300000 pops)
+3336 = {
+    aristocrats = {
+        culture = filipino
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = filipino
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 7500
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 29000
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 14000
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 216550
+    }
+
+    artisans = {
+        culture = tisoy
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = tisoy
+        religion = catholic
+        size = 110800
+    }
+}
+#Aparri (230359 POPS)
+3339 = {
+    aristocrats = {
+        culture = macoyan
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = macoyan
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = macoyan
+        religion = catholic
+        size = 7500
+    }
+
+    artisans = {
+        culture = macoyan
+        religion = catholic
+        size = 29000
+    }
+	
+    soldiers = {
+        culture = macoyan
+        religion = catholic
+        size = 15000
+    }
+
+	farmers = {
+        culture = macoyan
+        religion = catholic
+        size = 70000
+    }
+
+    farmers = {
+        culture = cordilleran
+        religion = catholic
+        size = 116550
+    }
+
+    artisans = {
+        culture = cordilleran
+        religion = catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = cordilleran
+        religion = catholic
+        size = 800
+    }
+}
+#Baguio
+3340 = {
+    aristocrats = {
+        culture = cordilleran
+        religion = animist
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = cordilleran
+        religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = cordilleran
+        religion = animist
+        size = 750
+    }
+
+    artisans = {
+        culture = cordilleran
+        religion = animist
+        size = 5000
+    }
+
+    soldiers = {
+        culture = cordilleran
+        religion = animist
+        size = 4000
+    }
+
+    farmers = {
+        culture = cordilleran
+        religion = animist
+        size = 97550
+    }
+}
+#Palo Leyte (111053 POPS)
+3341 = {
+    aristocrats = {
+        culture = cebuan
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = cebuan
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = cebuan
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = cebuan
+        religion = catholic
+        size = 10000
+    }
+
+    soldiers = {
+        culture = cebuan
+        religion = catholic
+        size = 4000
+    }
+
+    farmers = {
+        culture = cebuan
+        religion = catholic
+        size = 91550
+    }
+}
+#Negros Island (291059 POPS)
+3335 = {
+    aristocrats = {
+        culture = aklanon
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = aklanon
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = aklanon
+        religion = catholic
+        size = 7500
+    }
+
+    artisans = {
+        culture = aklanon
+        religion = catholic
+        size = 29000
+    }
+
+    soldiers = {
+        culture = aklanon
+        religion = catholic
+        size = 15000
+    }
+
+    farmers = {
+        culture = aklanon
+        religion = catholic
+        size = 216550
+    }
+}
+#Bohol Island (93608 POP)
+3337 = {
+    aristocrats = {
+        culture = boholan
+        religion = catholic
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = boholan
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = boholan
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = boholan
+        religion = catholic
+        size = 10000
+    }
+
+    soldiers = {
+        culture = boholan
+        religion = catholic
+        size = 5000
+    }
+
+    farmers = {
+        culture = boholan
+        religion = catholic
+        size = 76550
+    }
+}
+#Lanaon Province (74719 POPS)
+3338 = {
+    aristocrats = {
+        culture = lanaoan
+        religion = sunni
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = lanaoan
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = lanaoan
+        religion = sunni
+        size = 750
+    }
+
+    artisans = {
+        culture = lanaoan
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = lanaoan
+        religion = sunni
+        size = 3000
+    }
+
+    farmers = {
+        culture = lanaoan
+        religion = sunni
+        size = 69550
+    }
+}

@@ -1,14 +1,14 @@
-capital = 1271
-primary_culture = marathi
-religion = hindu
+capital = 1290
+primary_culture = issaclander
+religion = issacite
 government = absolute_monarchy
-plurality = 0.0
+plurality = 2.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.04
 non_state_culture_literacy = 0.01
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = no_meeting
@@ -34,7 +34,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = hindu_country
+set_country_flag = issacite_country
 
 ruling_party = IND_conservative
 upper_house = {

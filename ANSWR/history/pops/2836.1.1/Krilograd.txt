@@ -338,20 +338,20 @@
 #Olyekminsk (6000/1500 POPS)
 2644 = {
     clergymen = {
-        culture = novosibiryaki
-        religion = orthodox
+        culture = ledyanyyeludi
+        religion = shiset
         size = 75
     }
 
     soldiers = {
-        culture = novosibiryaki
-        religion = orthodox
+        culture = ledyanyyeludi
+        religion = shiset
         size = 250
     }
 
     farmers = {
-        culture = novosibiryaki
-        religion = orthodox
+        culture = ledyanyyeludi
+        religion = shiset
         size = 12450
     }
 }

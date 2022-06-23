@@ -1,0 +1,47 @@
+leader = {
+    name = "Paciano Mercado XXX"
+    type = land
+    date = 2836.1.1
+    personality = charismatic
+    background = expert_raider
+}
+
+army = {
+    name = "Caballeros de Orden Rizalista"
+    location = 1455
+    regiment = {
+            name= "1. Caballeros"
+            type = cavalry
+            home = 1455
+    }
+    regiment = {
+            name= "2. Caballeros"
+            type = cavalry
+            home = 1455
+	}
+    regiment = {
+            name= "3. Caballeros"
+            type = cavalry
+            home = 1455
+    }
+    regiment = {
+            name= "4. Caballeros"
+            type = cavalry
+            home = 1455
+    }
+    regiment = {
+            name= "5. Caballeros"
+            type = cavalry
+            home = 1455
+    }
+    regiment = {
+            name= "6. Caballeros"
+            type = cavalry
+            home = 1455
+    }
+	regiment = {
+            name= "7. Caballeros"
+            type = cavalry
+            home = 1455
+    }
+}

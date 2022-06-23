@@ -921,6 +921,12 @@
     farmers = {
         culture = cascadian
         religion = protestant
+        size = 3520
+    }
+
+    farmers = {
+        culture = deisui
+        religion = protestant
         size = 5520
     }
 }
@@ -1046,6 +1052,11 @@
         culture = cascadian
         religion = protestant
         size = 1360
+    }
+    farmers = {
+        culture = deisui
+        religion = protestant
+        size = 2160
     }
 }
 #Washington Region (20000)

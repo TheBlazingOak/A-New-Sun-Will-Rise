@@ -1,5 +1,5 @@
 #Total in 1918 - 1 074 062 or 268.515 pops See http://pdf.usaid.gov/pdf_docs/PCAAA637.pdf pp 106
-#Baguirmi Region (164000)
+#yankun Region (164000)
 #under the rule of Kanem-Bornu in 1836
 #Massenya (320000/80000 POPS)
 1818 = {
@@ -88,149 +88,39 @@
     }
 
     aristocrats = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 200
     }
 
     clergymen = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 500
     }
 
     farmers = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 9000
     }
 
     slaves = {
-        culture = baguirmi
+        culture = yankun
         religion = animist
         size = 700
-    }
-}
-#Moundou (48000/12000 POPS)
-1819 = {
-    aristocrats = {
-        culture = sara
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = sara
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = sara
-        religion = sunni
-        size = 400
-    }
-
-    soldiers = {
-        culture = sara
-        religion = sunni
-        size = 500
-    }
-
-    farmers = {
-        culture = sara
-        religion = sunni
-        size = 8000
-    }
-
-    aristocrats = {
-        culture = kanuri
-        religion = sunni
-        size = 200
-    }
-
-    clergymen = {
-        culture = kanuri
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = kanuri
-        religion = sunni
-        size = 500
-    }
-
-    soldiers = {
-        culture = kanuri
-        religion = sunni
-        size = 1000
-    }
-
-    farmers = {
-        culture = kanuri
-        religion = sunni
-        size = 11000
-    }
-
-    aristocrats = {
-        culture = sara
-        religion = animist
-        size = 600
-    }
-
-    bureaucrats = {
-        culture = sara
-        religion = animist
-        size = 300
-    }
-
-    clergymen = {
-        culture = sara
-        religion = animist
-        size = 200
-    }
-
-    artisans = {
-        culture = sara
-        religion = animist
-        size = 2000
-    }
-
-    soldiers = {
-        culture = sara
-        religion = animist
-        size = 3000
-    }
-
-    farmers = {
-        culture = sara
-        religion = animist
-        size = 30566
-    }
-
-    slaves = {
-        culture = sara
-        religion = animist
-        size = 4000
-    }
-
-    slaves = {
-        culture = ubangian
-        religion = animist
-        size = 2000
     }
 }
 #Bongor (36000/9000 POPS)
@@ -372,37 +262,37 @@
     }
 
     aristocrats = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 100
     }
 
     officers = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 550
     }
@@ -480,7 +370,7 @@
     }
 
     slaves = {
-        culture = baguirmi
+        culture = yankun
         religion = animist
         size = 300
     }
@@ -595,37 +485,37 @@
 
 
     aristocrats = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 100
     }
 
     bureaucrats = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 1500
     }
 
     soldiers = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = baguirmi
+        culture = yankun
         religion = sunni
         size = 7246
     }
@@ -638,86 +528,6 @@
 }
 #Kanem Region (288000)
 #under the rule of Kanem-Bornu in 1836
-#Mao (149453/37362 POPS)
-1824 = {
-    aristocrats = {
-        culture = teda
-        religion = sunni
-        size = 300
-    }
-
-    clergymen = {
-        culture = teda
-        religion = sunni
-        size = 200
-    }
-
-    artisans = {
-        culture = teda
-        religion = sunni
-        size = 200
-    }
-
-    soldiers = {
-        culture = teda
-        religion = sunni
-        size = 300
-    }
-
-    farmers = {
-        culture = teda
-        religion = sunni
-        size = 9216
-    }
-
-    aristocrats = {
-        culture = kanuri
-        religion = sunni
-        size = 100
-    }
-
-    bureaucrats = {
-        culture = kanuri
-        religion = sunni
-        size = 100
-    }
-
-    officers = {
-        culture = kanuri
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = kanuri
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = kanuri
-        religion = sunni
-        size = 200
-    }
-
-    soldiers = {
-        culture = kanuri
-        religion = sunni
-        size = 200
-    }
-
-    farmers = {
-        culture = kanuri
-        religion = sunni
-        size = 15010
-    }
-
-    slaves = {
-        culture = baguirmi
-        religion = animist
-        size = 1300
-    }
-}
 #Zouar (72000/18000 POPS)
 1825 = {
     aristocrats = {

@@ -597,46 +597,6 @@
         size = 150
     }
 }
-#Smolensk Region (392000) #see Russia.txt for balance of region
-#under the rule of Russia in 1836
-#Orsha (392000/98000 POPS) #now part of Belarus
-944 = {
-    aristocrats = {
-        culture = russian
-        religion = orthodox
-        size = 1825
-    }
-
-    clergymen = {
-        culture = russian
-        religion = orthodox
-        size = 400
-    }
-
-    artisans = {
-        culture = russian
-        religion = orthodox
-        size = 3000
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 47500
-    }
-
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 42000
-    }
-}
 #Vitebsk Region (2028000)
 #under the rule of Russia in 1836
 #Mogilev (392000/98000 POPS)
@@ -690,94 +650,56 @@
     }
 
     aristocrats = {
-        culture = russian
+        culture = byelorussian
         religion = the_one
         size = 1400
     }
 
     clergymen = {
-        culture = russian
+        culture = byelorussian
         religion = the_one
         size = 75
     }
 
     artisans = {
-        culture = russian
+        culture = byelorussian
         religion = the_one
         size = 300
     }
 
     soldiers = {
-        culture = russian
+        culture = byelorussian
         religion = the_one
         size = 50
     }
 
     farmers = {
-        culture = russian
+        culture = byelorussian
         religion = the_one
         size = 3175
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
+        culture = byelorussian
+        religion = the_one
         size = 100
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
+        culture = byelorussian
+        religion = the_one
         size = 1250
     }
 
     soldiers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = byelorussian
+        religion = the_one
         size = 100
     }
 
     farmers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = byelorussian
+        religion = the_one
         size = 6600
-    }
-}
-#Gomel (388000/97000 POPS)
-949 = {
-    aristocrats = {
-        culture = russian
-        religion = orthodox
-        size = 1000
-    }
-
-    clergymen = {
-        culture = russian
-        religion = orthodox
-        size = 400
-    }
-
-    artisans = {
-        culture = russian
-        religion = orthodox
-        size = 4250
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 37500
-    }
-
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 62250
     }
 }
