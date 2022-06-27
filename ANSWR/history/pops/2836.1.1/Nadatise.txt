@@ -58,8 +58,8 @@
     }
 
     farmers = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 11225
     }
 
@@ -100,43 +100,43 @@
     }
 
     aristocrats = {
-        culture = greek
+        culture = serb
         religion = the_broken
         size = 110
     }
 
     officers = {
-        culture = greek
+        culture = serb
         religion = the_broken
         size = 110
     }
 
     soldiers = {
-        culture = greek
+        culture = serb
         religion = the_broken
         size = 200
     }
 
     clergymen = {
-        culture = greek
+        culture = serb
         religion = the_broken
         size = 110
     }
 
     artisans = {
-        culture = greek
+        culture = serb
         religion = the_broken
         size = 1200
     }
 
     farmers = {
-        culture = greek
+        culture = serb
         religion = the_broken
         size = 11200
     }
 
     farmers = {
-        culture = croat
+        culture = serb
         religion = the_broken
         size = 4200
     }
@@ -152,25 +152,25 @@
 #Bitola (268000/67000 POPS)
 807 = {
     soldiers = {
-        culture = iskhor
+        culture = serb
         religion = the_broken
         size = 1200
     }
 
     clergymen = {
-        culture = iskhor
+        culture = serb
         religion = the_broken
         size = 110
     }
 
     artisans = {
-        culture = iskhor
+        culture = serb
         religion = the_broken
         size = 425
     }
 
     farmers = {
-        culture = iskhor
+        culture = serb
         religion = the_broken
         size = 24075
     }
@@ -201,13 +201,13 @@
 
     farmers = {
         culture = serb
-        religion = sunni
+        religion = the_broken
         size = 500
     }
 
     farmers = {
-        culture = iskhor
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 6000
     }
 
@@ -248,31 +248,31 @@
     }
 
     farmers = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 5975
     }
 
     soldiers = {
-        culture = greek
+        culture = serb
         religion = the_broken
         size = 175
     }
 
     clergymen = {
-        culture = greek
+        culture = serb
         religion = the_broken
         size = 110
     }
 
     artisans = {
-        culture = greek
+        culture = serb
         religion = the_broken
         size = 250
     }
 
     farmers = {
-        culture = greek
+        culture = serb
         religion = the_broken
         size = 14475
     }

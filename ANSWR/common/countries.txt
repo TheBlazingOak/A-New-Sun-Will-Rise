@@ -112,8 +112,7 @@ CPL        = "countries/Congress Poland.txt"
 KAM        = "countries/Kamchatka.txt"
 BRY        ="countries/Buryatia.txt"
 STR        ="countries/Setjer.txt"
-OSE	   ="countries/Ossetia.txt"
-
+OSE	       ="countries/Ossetia.txt"
 
 ##Australasia ANSWR
 AST        ="countries/Australia.txt"
@@ -608,7 +607,6 @@ SIA        ="countries/Siam.txt"
 WIA        ="countries/Wiang Chhan.txt"
 PHL        ="countries/Philippines.txt"
 SXI        ="countries/Shanxi.txt"
-PHL        ="countries/Philippines.txt"
 RIZ        ="countries/Rizalia.txt"
 QUZ        ="countries/Holy Banahaw.txt"
 NIN        ="countries/New India.txt"

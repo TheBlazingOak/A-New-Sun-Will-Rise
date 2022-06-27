@@ -384,46 +384,6 @@
         size = 2000
     }
 }
-#Uliatai / Uriankhai (32000/8000 POPS) #now Tuva Republic of Russia  Tatar = Tuvan
-1469 = {
-
-    aristocrats  = {
-        culture = mongol
-        religion = gelugpa
-        size = 150
-    }
-
-    clergymen = {
-        culture = tatar
-        religion = gelugpa
-        size = 75
-    }
-
-    artisans = {
-        culture = tatar
-        religion = gelugpa
-        size = 400
-    }
-
-    soldiers = {
-        culture = tatar
-        religion = gelugpa
-        size = 75
-    }
-
-    farmers = {
-        culture = tatar
-        religion = gelugpa
-        size = 7300
-    }
-
-    slaves = {
-        culture = tatar
-        religion = gelugpa
-        size = 1000
-    }
-
-}
 #Gansu Jiayuguan(6048000/1512000 POPS)
 #MONG
 1488 = {

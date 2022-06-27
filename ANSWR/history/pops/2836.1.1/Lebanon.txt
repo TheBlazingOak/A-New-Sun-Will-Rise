@@ -489,37 +489,37 @@
     }
 
     aristocrats = {
-        culture = greek
+        culture = neopunic
         religion = orthodox
         size = 2120
     }
 
     officers = {
-        culture = greek
+        culture = neopunic
         religion = orthodox
         size = 120
     }
 
     soldiers = {
-        culture = greek
+        culture = neopunic
         religion = orthodox
         size = 1250
     }
 
     clergymen = {
-        culture = greek
+        culture = neopunic
         religion = orthodox
         size = 300
     }
 
     artisans = {
-        culture = greek
+        culture = neopunic
         religion = orthodox
         size = 7150
     }
 
     farmers = {
-        culture = greek
+        culture = neopunic
         religion = orthodox
         size = 30150
     }

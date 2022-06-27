@@ -167,9 +167,9 @@ political_decisions = {
             prestige = -10
             treasury = -25000
             define_general = {
-                name = [Nechov Vyacheslav]
-                personality = [keen]
-                background = [dvrenerusskiy_merc]
+                name = {Nechov Vyacheslav}
+                personality = {sharp}
+                background = {dvrenerusskiy_merc}
             }
             set_country_flag = hired_mercenaries
         }
@@ -242,7 +242,7 @@ political_decisions = {
     boh_pressure_aus = {
         potential = {
             prestige = 75
-            year = 2845
+            year = 2945
         }
         allow = {
             semi_automatization = 1
@@ -264,7 +264,9 @@ political_decisions = {
                 who = AUS
                 value = -200
             }
+            tag = BOH
             NOT = { has_global_flag = charles_xi_provoked has_global_flag = charles_xi_assassinated}
+            year = 2945
         }
         allow = {
             prestige = 200
@@ -284,6 +286,7 @@ political_decisions = {
                 who = AUS
                 value = -200
             }
+            tag = BOH
             NOT = { has_global_flag = charles_xi_provoked has_global_flag = charles_xi_assassinated}
         }
         allow = {

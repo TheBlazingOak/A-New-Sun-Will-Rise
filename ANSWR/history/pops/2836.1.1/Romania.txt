@@ -179,44 +179,44 @@
     }
 
     aristocrats = {
-        culture = hungarian
-        religion = catholic
+        culture = austro_german
+        religion = ketronant
         size = 100
     }
 
     bureaucrats = {
-        culture = hungarian
-        religion = catholic
+        culture = austro_german
+        religion = ketronant
         size = 400
     }
 
     officers = {
-        culture = hungarian
-        religion = catholic
+        culture = austro_german
+        religion = ketronant
         size = 225
     }
 
     serfs = {
-        culture = hungarian
-        religion = catholic
+        culture = austro_german
+        religion = ketronant
         size = 10500
     }
 
     aristocrats = {
-        culture = hungarian
-        religion = protestant
+        culture = austro_german
+        religion = ketronant
         size = 150
     }
 
     farmers = {
-        culture = hungarian
-        religion = protestant
+        culture = austro_german
+        religion = ketronant
         size = 21275
     }
 
     aristocrats = {
         culture = austro_german
-        religion = catholic
+        religion = ketronant
         size = 2350
     }
 
@@ -261,25 +261,37 @@
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 600
+        size = 300
     }
 
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 3000
+        size = 1500
+    }
+
+	clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 300
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 1500
     }
 
     soldiers = {
-        culture = romanian
-        religion = orthodox
+        culture = austro_german
+        religion = ketronant
         size = 600
     }
 
     farmers = {
         culture = romanian
         religion = orthodox
-        size = 26200
+        size = 26100
     }
 
     serfs = {
@@ -314,13 +326,13 @@
 
     aristocrats = {
         culture = austro_german
-        religion = catholic
+        religion = ketronant
         size = 1100
     }
 
     farmers = {
-        culture = hungarian
-        religion = protestant
+        culture = austro_german
+        religion = ketronant
         size = 14420
     }
 

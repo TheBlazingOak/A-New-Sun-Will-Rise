@@ -2,5 +2,5 @@ owner = DAM
 controller = DAM
 add_core = DAM
 trade_goods = fish
-terrain = savanna
+terrain = plains
 life_rating = 35

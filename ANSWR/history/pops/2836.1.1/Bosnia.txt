@@ -397,32 +397,32 @@
 #Foca (92000/23000 POPS)
 787 = {
     aristocrats = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = catholic
         size = 600
     }
 
     farmers = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = catholic
         size = 5925
     }
 

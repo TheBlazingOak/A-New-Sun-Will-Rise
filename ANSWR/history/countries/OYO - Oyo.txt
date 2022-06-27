@@ -1,11 +1,11 @@
-capital = 1926
-primary_culture = yoruba
-culture = fon
-religion = animist
+capital = 1928
+primary_culture = shenkuda
+culture = tsakiya
+religion = sarki
 government = absolute_monarchy
-plurality = 0.0
+plurality = 2.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.02
 non_state_culture_literacy = 0.01
 
 # Political reforms

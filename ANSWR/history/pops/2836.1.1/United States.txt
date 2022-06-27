@@ -951,7 +951,7 @@
     farmers = {
         culture = texan
         religion = protestant
-        size = 1500
+        size = 12500
     }
 
     slaves = {
@@ -975,7 +975,7 @@
     farmers = {
         culture = deisui
         religion = protestant
-        size = 7800
+        size = 3800
     }
 }
 #Texas Region (67400)

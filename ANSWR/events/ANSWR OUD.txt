@@ -266,6 +266,7 @@ country_event = {
         has_country_modifier = oudrijk_prince
         year = 2840
         TAG = AUS
+        NOT = { has_country_flag = aus_rijkskomst_of_2840 }
     }
 
     option = {
@@ -397,7 +398,7 @@ country_event = {
     picture = autocracy
     is_triggered_only = yes
 
-    #Ask for the redrawing of 
+    #Ask for the redrawing of the Oudrijk
     option = {
     name = "EVTOPTA222051"
         
@@ -408,6 +409,8 @@ country_event = {
     name = "EVTOPTB222051"
         
     }
+
+    #Refuse to appear at the Council of Wien
     
 }
 ##Not Finished Repurcussions and War of the Seventh

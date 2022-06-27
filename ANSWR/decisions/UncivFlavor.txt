@@ -402,11 +402,11 @@ political_decisions = {
         }
     }
 
-    become_hausaland = {
-    picture = become_hausaland
+    become_tsakiyaland = {
+    picture = become_tsakiyaland
         potential = {
             tag = SOK
-            NOT = { has_country_flag = became_hausaland }
+            NOT = { has_country_flag = became_tsakiyaland }
         }
 
         allow = {
@@ -415,9 +415,9 @@ political_decisions = {
         }
 
         effect = {
-            set_country_flag = became_hausaland
+            set_country_flag = became_tsakiyaland
             prestige = 5
-            primary_culture = hausa
+            primary_culture = tsakiya
             add_accepted_culture = fulbe
             years_of_research = 0.5
         }
@@ -549,7 +549,7 @@ political_decisions = {
     }
 
     establish_writing_system = {
-        picture = become_hausaland
+        picture = become_tsakiyaland
         potential = {
             OR = {
                 has_country_modifier = lacks_writing_system

@@ -831,28 +831,4 @@
         religion = sunni
         size = 6150
     }
-
-    clergymen = {
-        culture = assyrian
-        religion = catholic
-        size = 200
-    }
-
-    soldiers = {
-        culture = assyrian
-        religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = assyrian
-        religion = catholic
-        size = 550
-    }
-
-    farmers = {
-        culture = assyrian
-        religion = catholic
-        size = 1050
-    }
 }

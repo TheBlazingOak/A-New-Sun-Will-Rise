@@ -1521,33 +1521,6 @@
     }
 }
 
-#Tsushima - formerly Shoyna
-2589 = {
-    clergymen = {
-        culture = japanese
-        religion = shinto
-        size = 124
-    }
-
-    artisans = {
-        culture = japanese
-        religion = shinto
-        size = 500
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = shinto
-        size = 207
-    }
-
-    farmers = {
-        culture = japanese
-        religion = shinto
-        size = 3308
-    }
-}
-
 #Nagasaki (1012000/253000 POPS)
 1661 = {
     aristocrats = {
@@ -2720,35 +2693,5 @@
         culture = japanese
         religion = shinto
         size = 81000
-    }
-}
-#Ryukyu Region (272000)
-#tributary state to Japan in 1836
-
-#Sado - Old Reliance (2000/500 POPS)
-12 = {
-
-    clergymen = {
-        culture = japanese
-        religion = shinto
-        size = 250
-    }
-
-    artisans = {
-        culture = japanese
-        religion = shinto
-        size = 3500
-    }
-
-    soldiers = {
-        culture = japanese
-        religion = shinto
-        size = 1100
-    }
-
-    farmers = {
-        culture = japanese
-        religion = shinto
-        size = 20150
     }
 }

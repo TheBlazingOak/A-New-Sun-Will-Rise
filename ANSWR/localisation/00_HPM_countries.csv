@@ -15,8 +15,6 @@ PNK_ADJ;Pontianaki;;;;;;;;;;;;;,,
 PNK_conservative;Pontianaki Faction;;;;;;;;;;;;;,,
 PNK_liberal;Sambas Faction;;;;;;;;;;;;;,,
 PNK_reactionary;Mempawah Faction;;;;;;;;;;;;;,,
-ATC;Antillean Confederation;;;;;;;;;;;;;,,
-ATC_ADJ;Antillean;;;;;;;;;;;;;,,
 PPG;Papua New Guinea;;;;;;;;;;;;;,,
 PPG_ADJ;Papua New Guinean;;;;;;;;;;;;;,,
 VTU;Vanuatu;;;;;;;;;;;;;,,
@@ -86,8 +84,8 @@ nilotic;Nilotic;;;;;;;;;;;;;,,
 lacustrine_bantu;Northeast Bantu;;;;;;;;;;;;;,,
 maasai;Kalenjin-Maasai;;;;;;;;;;;;;,,
 kikuyu;Kikuyu–Kamba;;;;;;;;;;;;;,,
-HTY;Turkmeneli;;;;;;;;;;;;;,,
-HTY_ADJ;Turkomani;;;;;;;;;;;;;,,
+HTY;Dogu Himayesi;;;;;;;;;;;;;,,
+HTY_ADJ;Dogulu;;;;;;;;;;;;;,,
 POR_fascist;Movimento Nacional-Sindicalista;;;;;;;;;;;;;,,
 IRE_fascist;The Blueshirts;;;;;;;;;;;;;,,
 IRE_communist;Communist Party of Ireland;;;;;;;;;;;;;,,
@@ -196,7 +194,6 @@ FIN_fascist;Isänmaallinen kansanliike;;;;;;;;;;;;;,,
 MEX_socialist;Partido Laborista Mexicano;;;;;;;;;;;;;,,
 MEX_communist;Partido Socialista Obrero;;;;;;;;;;;;;,,
 MEX_fascist;Unión Nacional Sinarquista;;;;;;;;;;;;;,,
-NET_conservative;Anti-Revolutionaire Partij;;;;;;;;;;;;;,,
 HOL_socialist_1;Sociaal-Democratische Vereeniging;;;;;;;;;;;;;,,
 HOL_socialist_2;Sociaal-Democratische Bond;;;;;;;;;;;;;,,
 HOL_socialist_3;Sociaal Democratische Arbeiders Partij;;;;;;;;;;;;;,,
@@ -788,8 +785,6 @@ BIH_fascist;Bihari Fascist Party;;;;;;;;;;;;;,,
 TMR;Timor;;;;;;;;;;;;;,,
 TMR_ADJ;Timorese;;;;;;;;;;;;;,,
 TMR_absolute_monarchy;Wehali;;;;;;;;;;;;;,,
-BKV;Bukovina;;;;;;;;;;;;;,,
-BKV_ADJ;Bukovinian;;;;;;;;;;;;;,,
 BLC;Baluchistan;;;;;;;;;;;;;,,
 BLC_ADJ;Baluchi;;;;;;;;;;;;;,,
 BNG_conservative;Awami League;;;;;;;;;;;;;,,
@@ -808,9 +803,6 @@ BRT_socialist;Unvaniezh Demokratel;;;;;;;;;;;;;,,
 BRT_liberal;Strollad Liberal;;;;;;;;;;;;;,,
 BRT_anarcho_liberal;Strollad Radical;;;;;;;;;;;;;,,
 BRT_conservative;Strollad Mirour;;;;;;;;;;;;;,,
-BRU_ADJ;Bruneian;;;;;;;;;;;;;,,
-BSQ;Basque Country;;;;;;;;;;;;;,,
-BSQ_ADJ;Basque;;;;;;;;;;;;;,,
 BSQ_socialist;Abertzale Ekintza;;;;;;;;;;;;;,,
 BSQ_conservative;Alderdi Jeltzalea;;;;;;;;;;;;;,,
 BSQ_liberal;Alderdi Abertzale Errepublikanoa;;;;;;;;;;;;;,,
@@ -876,8 +868,8 @@ CHP_anarcho_liberal;Partido Anarchista;Partido Anarchista;Partido Anarchista;;;;
 CHP_communist;Partido Comunista;Partido Comunista;Partido Comunista;;;;;;;;;;;,,
 CHP_fascist;Partido Nacionalista;Partido Nacionalista;Partido Nacionalista;;;;;;;;;;;,,
 CHP_reactionary;Unión Republicana;Unión Republicana;Unión Republicana;;;;;;;;;;;,,
-CIR;Circassia;;;;;;;;;;;;;,,
-CIR_ADJ;Circassian;;;;;;;;;;;;;,,
+CIR;Adyghe-Balkaria;;;;;;;;;;;;;,,
+CIR_ADJ;Adyghe-Balkarian;;;;;;;;;;;;;,,
 CIR_liberal;Partiye Libyeral;;;;;;;;;;;;;,,
 CIR_conservative;Partiye Wuhumenig;;;;;;;;;;;;;,,
 CIR_socialist;Partiye Sotsialist;;;;;;;;;;;;;,,
@@ -971,11 +963,11 @@ DNB_presidential_dictatorship;Danubian Republic;;;;;;;;;;;;;,,
 DNB_bourgeois_dictatorship;Danubian Republic;;;;;;;;;;;;;,,
 DOI;Dominica;;;;;;;;;;;;;,,
 DOI_ADJ;Dominican;;;;;;;;;;;;;,,
-DON;Vladimirskaya Zemlya;;;;;;;;;;;;;,,
-DON_absolute_monarchy;Tsardom of Vladimirskaya;;;;;;;;;;;;;,,
-DON_hms_government;Cherkesskiy Federation;;;;;;;;;;;;;,,
-DON_prussian_constitutionalism;Cossack Hetmanate;;;;;;;;;;;;;,,
-DON_fascist_dictatorship;Cossackia;;;;;;;;;;;;;,,
+DON;Cherkess Horde;;;;;;;;;;;;;,,
+DON_absolute_monarchy;Cherkess Hetmanate;;;;;;;;;;;;;,,
+DON_hms_government;Cherkess Union;;;;;;;;;;;;;,,
+DON_prussian_constitutionalism;Cherkess Hetmanate;;;;;;;;;;;;;,,
+DON_fascist_dictatorship;Cherkesskia;;;;;;;;;;;;;,,
 DON_ADJ;Cherkesskiy;;;;;;;;;;;;;,,
 DON_conservative;The Conservatives;Faction royale;Königsfraktion;;;;;;;;;;;,,
 DON_liberal;The Liberals;Faction libérale;Die liberale Fraktion;;;;;;;;;;;,,
@@ -1204,8 +1196,6 @@ IVC_reactionary;Democratic Party;;;;;;;;;;;;;,,
 IVC_socialist;African Socialist Movement;;;;;;;;;;;;;,,
 IVC_communist;Ivorian Popular Front;;;;;;;;;;;;;,,
 IVC_fascist;Movement of the Forces of the Future;;;;;;;;;;;;;,,
-IZH;Ingria;;;;;;;;;;;;;,,
-IZH_ADJ;Ingrian;;;;;;;;;;;;;,,
 JAM_conservative;Conservative Party;Conservative Party;Conservative Party;;;;;;;;;;;,,
 JAM_liberal;Liberal Party;Liberal Party;Liberal Party;;;;;;;;;;;,,
 JAM_reactionary;Alliance for National Unity;Alliance for National Unity;Alliance for National Unity;;;;;;;;;;;,,
@@ -1486,8 +1476,6 @@ MDR_socialist;Partido Socialist;;;;;;;;;;;;;,,
 MDR_communist;Partido Communist;;;;;;;;;;;;;,,
 MDR_anarcho_liberal;Partido Anarchist;;;;;;;;;;;;;,,
 MDR_fascist;Fascistos;;;;;;;;;;;;;,,
-MDV;Moldova;;;;;;;;;;;;;,,
-MDV_ADJ;Moldovian;;;;;;;;;;;;;,,
 MGH;Maghreb;;;;;;;;;;;;;,,
 MGH_ADJ;Maghrebi;;;;;;;;;;;;;,,
 MLI;Mali;;;;;;;;;;;;;,,
@@ -1568,8 +1556,6 @@ NEJ_anarcho_liberal;Al-Hizb al-Metterf;;;;;;;;;;;;;,,
 NEJ_socialist;Hizb al-Ba'ath al-'Arabi al-Ishtiraki;;;;;;;;;;;;;,,
 NEJ_communist;Al-Hizb al-Shuyu'i;;;;;;;;;;;;;,,
 NEJ_fascist;Al-Hizb al-Fashy;;;;;;;;;;;;;,,
-NGR;Nigeria;;;;;;;;;;;;;,,
-NGR_ADJ;Nigerian;;;;;;;;;;;;;,,
 NGR_liberal;National Council;;;;;;;;;;;;;,,
 NGR_conservative;Northern People's Congress;;;;;;;;;;;;;,,
 NGR_socialist;Action Group;;;;;;;;;;;;;,,
@@ -2121,8 +2107,6 @@ SWK_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;
 SWK_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La facción socialista;;;;;;;;;,,
 SWK_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La facción comunista;;;;;;;;;,,
 SWK_fascist;The Borneo Faction;Faction fasciste;Die faschistische Fraktion;;La facción fascista;;;;;;;;;,,
-SIE;Transylvania;;;;;;;;;;;;;,,
-SIE_ADJ;Transylvanian;;;;;;;;;;;;;,,
 SXI;Shanxi;Clique de Shanxi;Shanxi-Clique;;;;;;;;;;;,,
 SXI_presidential_dictatorship;Shanxi Clique;Clique de Shanxi;Shanxi-Clique;;;;;;;;;;;,,
 SYR_liberal;Hizb al-Islah al-Suriy;;;;;;;;;;;;;,,
@@ -2388,6 +2372,8 @@ WES_conservative_3;Christsoz. Arbeiterpartei;Christsoz. Arbeiterpartei;Christsoz
 WES_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbeiterpartei;;;;;;;;;;;,,
 WES_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;;;;;,,
 WES_fascist;NSDP;NSDP;NSDP;;;;;;;;;;;,,
+WHA;Wales;;;;;;;;;;;;;,,
+WHA_ADJ;Welsh;;;;;;;;;;;;;,,
 WHA_liberal;Democratiaid Rhyddfrydol;;;;;;;;;;;;;,,
 WHA_conservative;Plaid Geidwadol;;;;;;;;;;;;;,,
 WHA_socialist;Plaid Cymru;;;;;;;;;;;;;,,
@@ -2553,7 +2539,7 @@ DAM_proletarian_dictatorship;Jamhuriyar Kafawa;;;;;;;;;;;;;,,
 DAM_presidential_dictatorship;Jamhuriyar Kafawa;;;;;;;;;;;;;,,
 DAM_bourgeois_dictatorship;Jamhuriyar Kafawa;;;;;;;;;;;;;,,
 DAM_fascist_dictatorship;Jamhuriyar Kafawa;;;;;;;;;;;;;,,
-DAM_democracy;Hausaland;Jamhuriyar Kafawa;;;;;;;;;;;;,,
+DAM_democracy;tsakiyaland;Jamhuriyar Kafawa;;;;;;;;;;;;,,
 DAR;Darfur;Darfour;Darfur;;Darfur;;;;;;;;;,,
 DAR_ADJ;Darfuri;Darfourienne;Darfur;;;;;;;;;;;,,
 DAR_conservative;Sultan's Faction;Faction sultan;Sultan Fraktion;;;;;;;;;;;,,
@@ -2937,6 +2923,7 @@ NET_ADJ;Koudrel;;;;;;;;;;;;;,,
 NET_presidential_dictatorship;Beneluxia;;;;;;;;;;;;;,,
 NET_bourgeois_dictatorship;Beneluxia;;;;;;;;;;;;;,,
 NET_fascist_dictatorship;Netherlands;;;;;;;;;;;;;,,
+NET_conservative;Anti-Revolutionaire Partij;;;;;;;;;;;;;,,
 SWH_presidential_dictatorship;Flansia;;;;;;;;;;;;;,,
 SWH_bourgeois_dictatorship;Flansia;;;;;;;;;;;;;,,
 SWH_fascist_dictatorship;Flansia;;;;;;;;;;;;;,,
@@ -3006,7 +2993,8 @@ PAW_ADJ;Pawnee;;;;;;;;;;;;;,,
 RSB;Rustica;;;;;;;;;;;;;,,
 RSB_ADJ;Rustic;;;;;;;;;;;;;,,
 ANM;Yooper;;;;;;;;;;;;;,,
-ANM_bourgeois_dictatorship;The Anarcho State of Michigan;;;;;;;;;;;;;,,
+ANM_bourgeois_dictatorship;Michigonia;;;;;;;;;;;;;,,
+ANM_presidential_dictatorship;The Anarcho State of Michigan;;;;;;;;;;;;;,,
 ANM_ADJ;Yoopanese;;;;;;;;;;;;;,,
 CRA;Carolingia;;;;;;;;;;;;;,,
 CRA_ADJ;Carolingian;;;;;;;;;;;;;,,
@@ -3039,8 +3027,8 @@ DAU_ADJ;Duranguense;;;;;;;;;;;;;,,
 DAU_absolute_monarchy;Gran Durango;;;;;;;;;;;;;,,
 DAU_hms_government;Gran Durango;;;;;;;;;;;;;,,
 DAU_fascist_dictatorship;Gran Durango;;;;;;;;;;;;;,,
-UNS_presidential_dictatorship;Gran Durango;;;;;;;;;;;;;,,
-UNS_bourgeois_dictatorship;Gran Durango;;;;;;;;;;;;;,,
+DAU_presidential_dictatorship;Gran Durango;;;;;;;;;;;;;,,
+DAU_bourgeois_dictatorship;Gran Durango;;;;;;;;;;;;;,,
 RDM;Reyes de Morelia;;;;;;;;;;;;;,,
 RDM_ADJ;Morelian;;;;;;;;;;;;;,,
 HDR;Los Hombres de Ruiz;;;;;;;;;;;;;,,
@@ -3331,9 +3319,6 @@ WAG_prussian_constitutionalism;County of Wagga Wagga;;;;;;;;;;;;;,,
 PRI;Newport;;;;;;;;;;;;;,,
 PRI_ADJ;Newporter;;;;;;;;;;;;;,,
 PRI_democracy;Free Cities of Newport;;;;;;;;;;;;;,,
-PRI;Newport;;;;;;;;;;;;;,,
-PRI_ADJ;Newporter;;;;;;;;;;;;;,,
-PRI_democracy;Free Cities of Newport;;;;;;;;;;;;;,,
 RPL;Ranseyre;;;;;;;;;;;;;,,
 RPL_ADJ;Ranseyre;;;;;;;;;;;;;,,
 RPL_absolute_monarchy;County of Ranseyre;;;;;;;;;;;;;,,
@@ -3387,8 +3372,6 @@ ALB_presidential_dictatorship;President's Quarters;;;;;;;;;;;;;,,
 PZN;Halbinsel;;;;;;;;;;;;;,,
 PZN_ADJ;Stitten;;;;;;;;;;;;;,,
 PZN_democracy;Stitten Republik;;;;;;;;;;;;;,,
-WES;Jungfeld;;;;;;;;;;;;;,,
-WES_ADJ;Jungfeld;;;;;;;;;;;;;,,
 BAV;Bayerberg;;;;;;;;;;;;;,,
 BAV_ADJ;Bayerberger;;;;;;;;;;;;;,,
 MEC;Dünkreuz;;;;;;;;;;;;;,,
@@ -3436,7 +3419,7 @@ IZH_ADJ;Tesredinikh;;;;;;;;;;;x;
 IZH_trading_republic;Peterburgh-Respublika;;;;;;;;;;;x;
 IZH_democracy;Peterburgh-Respublika;;;;;;;;;;;x;
 BEL;Belgie;;;;;;;;;;;x;
-BEL;Belgisch;;;;;;;;;;;x;
+BEL_ADJ;Belgisch;;;;;;;;;;;x;
 HEI;Hei;;;;;;;;;;;x;
 HEI_democracy;Hei Republic;;;;;;;;;;;x;
 HEI_trading_republic;Hei Maritime;;;;;;;;;;;x;
@@ -3484,11 +3467,11 @@ ZUL_hms_government;Great Zulu;;;;;;;;;;;x;
 ZUL_absolute_monarchy;Great Zulu;;;;;;;;;;;x;
 ZUL_prussian_constitutionalism;Great Zulu;;;;;;;;;;;x;
 TRN;Pretoria;;;;;;;;;;;x;
-SAF_ADJ;Pretorian;;;;;;;;;;;x;
+TRN_ADJ;Pretorian;;;;;;;;;;;x;
 SOK;Filayen;;;;;;;;;;;x;
-SAF_ADJ;Filayen;;;;;;;;;;;x;
-OYO;Kadakusa;;;;;;;;;;;x;
-OYO_ADJ;Kadakusan;;;;;;;;;;;x;
+SOK_ADJ;Filayen;;;;;;;;;;;x;
+OYO;Shenkudu;;;;;;;;;;;x;
+OYO_ADJ;Shenkuda;;;;;;;;;;;x;
 MAT;Tswana;;;;;;;;;;;x;
 MAT_ADJ;Tswana;;;;;;;;;;;x;
 MAT_democracy;Tswana Republic;;;;;;;;;;;x;
@@ -3496,6 +3479,7 @@ MAT_hms_government;Tswana Kingdoms;;;;;;;;;;;x;
 MAT_absolute_monarchy;Tswana Kingdoms;;;;;;;;;;;x;
 MAT_prussian_constitutionalism;Tswana Kingdoms;;;;;;;;;;;x;
 NGR;Tsakiya;;;;;;;;;;;x;
+NGR_ADJ;Tsakiyan;;;;;;;;;;;;;,,
 NGR_democracy;Tsakiya Republic;;;;;;;;;;;x;
 NGR_hms_government;Tsakiya Empire;;;;;;;;;;;x;
 NGR_absolute_monarchy;Tsakiya Empire;;;;;;;;;;;x;
@@ -3521,11 +3505,6 @@ GAZ_ADJ;Moyo;;;;;;;;;;;x;
 GAZ_hms_government;Shona Empire;;;;;;;;;;;x;
 GAZ_absolute_monarchy;Shona Empire;;;;;;;;;;;x;
 GAZ_prussian_constitutionalism;Shona Empire;;;;;;;;;;;x;
-GAZ;Moyo;;;;;;;;;;;x;
-GAZ_ADJ;Moyo;;;;;;;;;;;x;
-GAZ_hms_government;Shona Empire;;;;;;;;;;;x;
-GAZ_absolute_monarchy;Shona Empire;;;;;;;;;;;x;
-GAZ_prussian_constitutionalism;Shona Empire;;;;;;;;;;;x;
 KZB;Barotse;;;;;;;;;;;x;
 KZB_ADJ;Barotse;;;;;;;;;;;x;
 ZBW;Nbele;;;;;;;;;;;x;
@@ -3537,8 +3516,8 @@ IND_ADJ;Issac;;;;;;;;;;;;x;
 NAG;New Delhi;;;;;;;;;;;;x;
 NAG_ADJ;Delhi;;;;;;;;;;;;x;
 NAG_democracy;New Delhi Republic;;;;;;;;;;;;x;
-ALD;Algeria;;;;;;;;;;;;x;
-ALD_ADJ;Algeria;;;;;;;;;;;;x;
+ALD;Aljers;;;;;;;;;;;;x;
+ALD_ADJ;Aljera;;;;;;;;;;;;x;
 NAL;Atisimo;;;;;;;;;;;;x;
 NAL_ADJ;Atisimo;;;;;;;;;;;;x;
 SHO;Nosyfenoala;;;;;;;;;;;;x;
@@ -3599,7 +3578,7 @@ SHA_ADJ;Natsein;;;;;;;;;;;;;,,
 KCH;Athurakal;;;;;;;;;;;;;,,
 KCH_ADJ;Athurakan;;;;;;;;;;;;;,,
 SIA;Syam;;;;;;;;;;;;;,,
-SIA;Syamese;;;;;;;;;;;;;,,
+SIA_ADJ;Syamese;;;;;;;;;;;;;,,
 SIA_absolute_monarchy;Daeng Kingdom;;;;;;;;;;;;;,,
 SIA_hms_government;Daeng Kingdom;;;;;;;;;;;;;,,
 SIA_prussian_constitutionalism;Daeng Kingdom;;;;;;;;;;;;;,,
@@ -3667,47 +3646,44 @@ MAS;Barsabim;;;;;;;;;;;;;,,
 MAS_ADJ;Barsabimi;;;;;;;;;;;;;,,
 MOS;Aratak;;;;;;;;;;;;;,,
 MOS_ADJ;Aratak;;;;;;;;;;;;;,,
-ledyanyyeludi;Ledyanyye Ludi;;;;;;;;;;;;;,,
-kochevnik;Kochevnik;;;;;;;;;;;;;,,
 PTO;Aigyptos;;;;;;;;;;;;;,,
 PTO_ADJ;Aigyption-Elniki;;;;;;;;;;;;;,,
 EGY;Misr;;;;;;;;;;;;;,,
 EGY_ADJ;Misri;;;;;;;;;;;;;,,
-grecocopt;Aigyption-Elniki;;;;;;;;;;;;;
-neopunic;Tyren-Sidunen;;;;;;;;;;;;;
-peloponesian;Lacedaemonian;;;;;;;;;;;;;
-welsh;Pendragonish;;;;;;;;;;;;;
-WHA;Holy Court Of Pendragon;;;;;;;;;;;;;
+WHA;Holy Court of House Pendragon;;;;;;;;;;;;;
 WHA_ADJ;Pendragonian;;;;;;;;;;;;;
-westturkish;Trakyan-Dobrucan;;;;;;;;;;;;;
-mazandarani;Mazandarani;;;;;;;;;;;;;
-krymskiy;Krymskiy;;;;;;;;;;;;;
-cherkesskiy;Cherkesskiy;;;;;;;;;;;;;
-NIN;New Bharata;;;;;;;;;;;;;
-NIN_ADJ;New Bharatan;;;;;;;;;;;;;
+NIN;Sugbuan Union;;;;;;;;;;;;;
+NIN_ADJ;Sugbuan;;;;;;;;;;;;;
 RIZ;Knights of Rizal;;;;;;;;;;;;;
 RIZ_ADJ;Rizalista;;;;;;;;;;;;;
 QUZ;Holy Banahaw;;;;;;;;;;;;;
 QUZ_ADJ;Banahawan;;;;;;;;;;;;;
-filipino;Rizali-Banahawa;;;;;;;;;;;;;
-indianfilipino;Tanayan;;;;;;;;;;;;;
-macoyan;Macoyan Samtoy;;;;;;;;;;;;;
-lunati;Lunati-Tagailog;;;;;;;;;;;;;
-nagan;Lenlen-Nagan;;;;;;;;;;;;;
-cordilleran;Banawe Terracer;;;;;;;;;;;;;
-pampangan;Subicer-New Olongapoan;;;;;;;;;;;;;
 CRD;Cordillera Valleys;;;;;;;;;;;;;
+CRD_ADJ;Cordillera;;;;;;;;;;;;;
 SBI;PAX Freeport Island;;;;;;;;;;;;;
+SBI_ADJ;Freeporter;;;;;;;;;;;;;
 ALN;Sons of Luna;;;;;;;;;;;;;
+ALN_ADJ;Lunar;;;;;;;;;;;;;
 ILC;Bagong Lipunan;;;;;;;;;;;;;
+ILC_ADJ;Bagong Lipunan;;;;;;;;;;;;;
 BIC;Robredian Commune;;;;;;;;;;;;;
-lanaoan;Lanaoan;;;;;;;;;;;;;
-chavacan;Pilarista;;;;;;;;;;;;;
-cebuan;Lapu-Lapuian;;;;;;;;;;;;;
-waray;San Juanican;;;;;;;;;;;;;
-aklanon;Boracayan;;;;;;;;;;;;;
-negrense;Negrense-Buglasin;;;;;;;;;;;;;
-boholan;Siquijori-Boholano;;;;;;;;;;;;;
-leyteno;Palo-Macarthurista;;;;;;;;;;;;;
+BIC_ADJ;Robredian;;;;;;;;;;;;;
+AQS;Alqarasina;;;;;;;;;;;;;,,
+AQS_ADJ;Alqarasina;;;;;;;;;;;;;,,
+MOR;Rabat L-Shamse;;;;;;;;;;;;;,,
+MOR_ADJ:Alshami;;;;;;;;;;;;;,,
+MOR_absolute_monarchy;Rabat L-Shamse;;;;;;;;;;;;;,,
+MOR_hms_government;Rabat L-Shamse;;;;;;;;;;;;;,,
+MOR_prussian_constitutionalism;Rabat L-Shamse;;;;;;;;;;;;;,,
+ETH;Lands of the Ma'ibeli;;;;;;;;;;;;;,,
+ETH_ADJ;Ma'ibeli;;;;;;;;;;;;;,,
+ETH_absolute_monarchy;Ma'ibeli Empire;;;;;;;;;;;;;,,
+ETH_hms_government;Ma'ibeli Empire;;;;;;;;;;;;;,,
+ETH_prussian_constitutionalism;Ma'ibeli Empire;;;;;;;;;;;;;,,
+GEO;Kartvli;;;;;;;;;;;;;
+GEO_ADJ;Sakartvlin;;;;;;;;;;;;;
+AZB;Benzinli Torpaq;;;;;;;;;;;;;
+AZB_ADJ;Benzin Qoxusu;;;;;;;;;;;;;
+ARM;Sacred Ararat;;;;;;;;;;;;;
 OSE;Alania;;;;;;;;;;;;;
 WGO;New Colchis;;;;;;;;;;;;;

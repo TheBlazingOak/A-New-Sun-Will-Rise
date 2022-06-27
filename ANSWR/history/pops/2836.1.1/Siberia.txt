@@ -743,6 +743,37 @@
         size = 4550
     }
 }
+1469 = {
+     aristocrats = {
+        culture = kochevnik
+        religion = shiset
+        size = 1000
+    }
+
+    clergymen = {
+        culture = kochevnik
+        religion = shiset
+        size = 500
+    }
+
+    artisans = {
+        culture = kochevnik
+        religion = shiset
+        size = 2500
+    }
+
+    soldiers = {
+        culture = kochevnik
+        religion = shiset
+        size = 15050
+    }
+
+    farmers = {
+        culture = kochevnik
+        religion = shiset
+        size = 29550
+    }
+}
 2677 = {
 	 aristocrats = {
         culture = kochevnik

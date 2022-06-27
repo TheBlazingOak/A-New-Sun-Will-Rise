@@ -75,37 +75,37 @@
     }
 
     aristocrats = {
-        culture = yoruba
+        culture = shenkuda
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = yoruba
+        culture = shenkuda
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = yoruba
+        culture = shenkuda
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = yoruba
+        culture = shenkuda
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = yoruba
+        culture = shenkuda
         religion = animist
         size = 3600
     }
 
     slaves = {
-        culture = yoruba
+        culture = shenkuda
         religion = animist
         size = 4000
     }
@@ -167,37 +167,37 @@
     }
 
     aristocrats = {
-        culture = yoruba
+        culture = shenkuda
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = yoruba
+        culture = shenkuda
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = yoruba
+        culture = shenkuda
         religion = animist
         size = 400
     }
 
     soldiers = {
-        culture = yoruba
+        culture = shenkuda
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = yoruba
+        culture = shenkuda
         religion = animist
         size = 7300
     }
 
     slaves = {
-        culture = yoruba
+        culture = shenkuda
         religion = animist
         size = 2000
     }
@@ -273,7 +273,7 @@
     }
 
     slaves = {
-        culture = yoruba
+        culture = shenkuda
         religion = animist
         size = 1100
     }

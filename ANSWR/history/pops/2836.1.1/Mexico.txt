@@ -39,32 +39,32 @@
     }
 
     aristocrats = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 2700
     }
 }
@@ -236,32 +236,32 @@
     }
 
     aristocrats = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 2700
         militancy = 9
     }
@@ -299,26 +299,26 @@
     }
 
     clergymen = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 2200
     }
 }
@@ -356,26 +356,26 @@
     }
 
     clergymen = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 1200
     }
 }
@@ -412,32 +412,32 @@
     }
 
     aristocrats = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 2700
         militancy = 9
     }
@@ -477,26 +477,26 @@
     }
 
     clergymen = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 2200
     }
 }
@@ -545,26 +545,26 @@
     }
 
     clergymen = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 2750
         militancy = 9
     }
@@ -604,26 +604,26 @@
     }
 
     clergymen = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 5000
     }
 }
@@ -658,92 +658,68 @@
         religion = catholic
         size = 9925
     }
-
-    clergymen = {
-        culture = nahua #native_american_minor
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = nahua #native_american_minor
-        religion = animist
-        size = 150
-    }
-
-    soldiers = {
-        culture = nahua #native_american_minor
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = nahua #native_american_minor
-        religion = animist
-        size = 2750
-    }
 }
 #Nuevo Leon-Tamaulipas Region (172000)
 #ruled by Mexico 1836
 #Reynosa (16000/4000 POPS)
 2148 = {
     aristocrats = {
-        culture = pueblo
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = pueblo
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 36
     }
 
     artisans = {
-        culture = pueblo
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 75
     }
 
     soldiers = {
-        culture = pueblo
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 12
     }
 
     farmers = {
-        culture = pueblo
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 1000
     }
 
     aristocrats = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 12
     }
 
     clergymen = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 12
     }
 
     farmers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 850
     }
 }
@@ -780,26 +756,26 @@
     }
 
     clergymen = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 5700
     }
 }
@@ -854,30 +830,30 @@
     }
 
     clergymen = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 75
         militancy = 9
     }
 
     artisans = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 350
         militancy = 9
     }
 
     soldiers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 75
 
         militancy = 9
     }
 
     farmers = {
-        culture = native_american_minor
-        religion = animist
+        culture = deisui
+        religion = protestant
         size = 6500
         militancy = 9
     }
@@ -917,32 +893,32 @@
     }
 
     aristocrats = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 1800
     }
 }
@@ -979,32 +955,32 @@
     }
 
     aristocrats = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 1800
     }
 }
@@ -1280,26 +1256,26 @@
     }
 
     clergymen = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = nahua #native_american_minor
-        religion = animist
+        culture = nahua #deisui
+        religion = protestant
         size = 3700
     }
 }
@@ -1585,21 +1561,21 @@
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = deisui
         religion = catholic
         size = 50
         militancy = 5
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = deisui
         religion = catholic
         size = 500
         militancy = 5
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = deisui
         religion = catholic
         size = 100
 
@@ -1607,7 +1583,7 @@
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = deisui
         religion = catholic
         size = 9350
         militancy = 5
@@ -1646,25 +1622,25 @@
     }
 
     clergymen = {
-        culture = nahua #native_american_minor
+        culture = nahua #deisui
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = nahua #native_american_minor
+        culture = nahua #deisui
         religion = catholic
         size = 900
     }
 
     soldiers = {
-        culture = nahua #native_american_minor
+        culture = nahua #deisui
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = nahua #native_american_minor
+        culture = nahua #deisui
         religion = catholic
         size = 16850
     }
@@ -1843,19 +1819,19 @@
     }
 
     clergymen = {
-        culture = nahua #native_american_minor
+        culture = nahua #deisui
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = nahua #native_american_minor
+        culture = nahua #deisui
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = nahua #native_american_minor
+        culture = nahua #deisui
         religion = catholic
         size = 125
 
@@ -1863,7 +1839,7 @@
     }
 
     farmers = {
-        culture = nahua #native_american_minor
+        culture = nahua #deisui
         religion = catholic
         size = 10275
     }
@@ -1901,25 +1877,25 @@
     }
 
     clergymen = {
-        culture = nahua #native_american_minor
+        culture = nahua #deisui
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = nahua #native_american_minor
+        culture = nahua #deisui
         religion = catholic
         size = 650
     }
 
     soldiers = {
-        culture = nahua #native_american_minor
+        culture = nahua #deisui
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = nahua #native_american_minor
+        culture = nahua #deisui
         religion = catholic
         size = 12125
     }

@@ -161,9 +161,20 @@ liberty = {
     
 }
 african_religions = {
+    #Harmony
     harami = {
         icon = 5
         color = { 0.3 0.3 0.3 }
+    }
+    #The King's Cult
+    sarki = {
+        icon = 5
+        color = { 0.6 0.35 0.4 }
+    }
+    #The King's Exiles
+    kaura = {
+        icon = 5
+        color = { 0.15 0.35 0.15 }
     }
 }
 

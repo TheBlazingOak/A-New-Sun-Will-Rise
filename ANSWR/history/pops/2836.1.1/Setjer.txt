@@ -2,120 +2,417 @@
 #Nukus (180000/45000 POPS)
 1192 = {
     aristocrats = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 1400
     }
 
     clergymen = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 1225
     }
 
     artisans = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 8150
     }
 
     soldiers = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 3000
     }
 
     soldiers = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 2000
     }
 
     farmers = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 42525
     }
 
     farmers = {
         culture = russian
-        religion = orthodox
+        religion = veravburyu
+        size = 17325
+    }
+}
+#idk (180000/45000 POPS)
+1183 = {
+    aristocrats = {
+        culture = setjer
+        religion = veravburyu
+        size = 1400
+    }
+
+    clergymen = {
+        culture = setjer
+        religion = veravburyu
+        size = 1225
+    }
+
+    artisans = {
+        culture = setjer
+        religion = veravburyu
+        size = 8150
+    }
+
+    soldiers = {
+        culture = setjer
+        religion = veravburyu
+        size = 3000
+    }
+
+    soldiers = {
+        culture = setjer
+        religion = veravburyu
+        size = 2000
+    }
+
+    farmers = {
+        culture = setjer
+        religion = veravburyu
+        size = 42525
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
         size = 17325
     }
 }
 #Kizil Arvut (88000/22000 POPS)
 1205 = {
     aristocrats = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 700
     }
 
     clergymen = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 1000
     }
 
     artisans = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 3150
     }
 
     soldiers = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 3500
     }
 
     farmers = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 39550
     }
 
     farmers = {
         culture = russian
-        religion = orthodox
+        religion = veravburyu
         size = 12825
     }
 }
 #Dashhowuz (40000/10000 POPS) #now part of Turkmenistan
 1196 = {
     aristocrats = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 125
     }
 
     clergymen = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 225
     }
 
     artisans = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 6200
     }
 
     soldiers = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 250
     }
 
     farmers = {
-        culture = kazak
-        religion = sunni
+        culture = setjer
+        religion = veravburyu
         size = 12250
     }
 
     farmers = {
         culture = russian
-        religion = orthodox
+        religion = veravburyu
         size = 9825
+    }
+}
+#Astrakhan Region
+#Astrakhan
+1036 = {
+    aristocrats = {
+        culture = setjer
+        religion = veravburyu
+        size = 250
+    }
+
+    clergymen = {
+        culture = setjer
+        religion = veravburyu
+        size = 500
+    }
+
+    artisans = {
+        culture = setjer
+        religion = veravburyu
+        size = 9200
+    }
+
+    soldiers = {
+        culture = setjer
+        religion = veravburyu
+        size = 3550
+    }
+
+    farmers = {
+        culture = setjer
+        religion = veravburyu
+        size = 42250
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 12825
+    }
+}
+#Elista
+1041 = {
+    aristocrats = {
+        culture = setjer
+        religion = veravburyu
+        size = 50
+    }
+
+    clergymen = {
+        culture = setjer
+        religion = veravburyu
+        size = 425
+    }
+
+    artisans = {
+        culture = setjer
+        religion = veravburyu
+        size = 3200
+    }
+
+    soldiers = {
+        culture = setjer
+        religion = veravburyu
+        size = 850
+    }
+
+    farmers = {
+        culture = setjer
+        religion = veravburyu
+        size = 14250
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 625
+    }
+}
+#Chirskaya
+1046 = {
+    aristocrats = {
+        culture = setjer
+        religion = veravburyu
+        size = 50
+    }
+
+    clergymen = {
+        culture = setjer
+        religion = veravburyu
+        size = 425
+    }
+
+    artisans = {
+        culture = setjer
+        religion = veravburyu
+        size = 8200
+    }
+
+    soldiers = {
+        culture = setjer
+        religion = veravburyu
+        size = 3750
+    }
+
+    farmers = {
+        culture = setjer
+        religion = veravburyu
+        size = 23250
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 10625
+    }
+    farmers = {
+        culture = setjer
+        religion = veravburyu
+        size = 13625
+    }
+}
+#Setjer
+#Aqtau (32000/8000 POPS)
+1194 = {
+    aristocrats = {
+        culture = setjer
+        religion = veravburyu
+        size = 2585
+    }
+
+    clergymen = {
+        culture = setjer
+        religion = veravburyu
+        size = 1075
+    }
+
+    artisans = {
+        culture = setjer
+        religion = veravburyu
+        size = 2350
+    }
+
+    soldiers = {
+        culture = setjer
+        religion = veravburyu
+        size = 7500
+    }
+
+    farmers = {
+        culture = setjer
+        religion = veravburyu
+        size = 147350
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 13150
+    }
+}
+#Aralsk (28000/7000 POPS)
+2702 = {
+    aristocrats = {
+        culture = setjer
+        religion = veravburyu
+        size = 725
+    }
+
+    clergymen = {
+        culture = setjer
+        religion = veravburyu
+        size = 650
+    }
+
+    artisans = {
+        culture = setjer
+        religion = veravburyu
+        size = 1050
+    }
+
+    soldiers = {
+        culture = setjer
+        religion = veravburyu
+        size = 475
+    }
+
+    farmers = {
+        culture = setjer
+        religion = veravburyu
+        size = 26425
+    }
+}
+#Guryev (19000/4750 POPS)
+1182 = {
+    bureaucrats = {
+        culture = setjer
+        religion = veravburyu
+        size = 200
+    }
+
+    clergymen = {
+        culture = russian
+        religion = veravburyu
+        size = 150
+    }
+
+    artisans = {
+        culture = russian
+        religion = veravburyu
+        size = 3500
+    }
+
+    soldiers = {
+        culture = russian
+        religion = veravburyu
+        size = 150
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 6650
+    }
+
+    aristocrats = {
+        culture = setjer
+        religion = veravburyu
+        size = 750
+    }
+
+    clergymen = {
+        culture = setjer
+        religion = veravburyu
+        size = 750
+    }
+
+    artisans = {
+        culture = setjer
+        religion = veravburyu
+        size = 2000
+    }
+
+    soldiers = {
+        culture = setjer
+        religion = veravburyu
+        size = 250
+    }
+
+    farmers = {
+        culture = setjer
+        religion = veravburyu
+        size = 53625
     }
 }

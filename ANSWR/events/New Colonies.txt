@@ -158,7 +158,7 @@ province_event = {
                 any_pop = { militancy = -3 }
             }
         }
-        NGR = { add_accepted_culture = hausa }
+        NGR = { add_accepted_culture = tsakiya }
     }
 }
 
@@ -226,7 +226,7 @@ province_event = {
                 any_pop = { militancy = -3 }
             }
         }
-        NGR = { add_accepted_culture = hausa }
+        NGR = { add_accepted_culture = tsakiya }
     }
 }
 
@@ -1111,7 +1111,7 @@ province_event = {
                 any_pop = { militancy = -3 }
             }
         }
-        NIG = { add_accepted_culture = hausa }
+        NIG = { add_accepted_culture = tsakiya }
     }
 }
 
