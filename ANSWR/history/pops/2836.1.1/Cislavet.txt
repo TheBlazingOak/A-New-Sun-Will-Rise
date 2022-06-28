@@ -974,37 +974,37 @@
     }
 
     farmers = {
-        culture = austro_german
+        culture = polish
         religion = ketronant
         size = 5385
     }
 
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 250
     }
 
     officers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 100
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 140
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 200
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1550
     }
@@ -1339,25 +1339,25 @@
     }
 
     farmers = {
-        culture = austro_german
+        culture = polish
         religion = ketronant
         size = 2385
     }
 
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 750
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1200
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 21750
     }
@@ -1400,25 +1400,25 @@
     }
 
     farmers = {
-        culture = austro_german
+        culture = polish
         religion = ketronant
         size = 2385
     }
 
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 450
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 500
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 37750
     }
@@ -1461,25 +1461,25 @@
     }
 
     farmers = {
-        culture = austro_german
+        culture = czech
         religion = ketronant
         size = 3385
     }
 
     aristocrats = {
-        culture = north_german
+        culture = czech
         religion = ketronant
         size = 350
     }
 
     soldiers = {
-        culture = north_german
+        culture = czech
         religion = ketronant
         size = 1800
     }
 
     farmers = {
-        culture = north_german
+        culture = czech
         religion = ketronant
         size = 14750
     }

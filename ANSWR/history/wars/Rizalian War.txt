@@ -1,0 +1,23 @@
+name = "Mount Banahaw War"
+
+2833.12.27 = {
+    add_attacker = RIZ
+    add_defender = QUZ
+
+    war_goal = {
+        casus_belli = civil_war
+        actor = RIZ
+        receiver = QUZ
+    }
+    war_goal = {
+        casus_belli = civil_war
+        actor = QUZ
+        receiver = RIZ
+    }
+
+}
+
+2839.2.6 = {
+    rem_attacker = RIZ
+    rem_defender = QUZ
+}

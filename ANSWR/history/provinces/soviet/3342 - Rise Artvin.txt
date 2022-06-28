@@ -1,0 +1,7 @@
+owner = WGO
+controller = WGO
+add_core = WGO
+add_core = TCA
+add_core = GEO
+trade_goods = fruit
+life_rating = 35

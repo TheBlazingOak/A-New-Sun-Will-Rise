@@ -3,26 +3,26 @@
 #Baku (76000/19000 POPS)
 1102 = {
     bureaucrats = {
-        culture = russian
-        religion = orthodox
+        culture = cherkesskiy
+        religion = veravburyu
         size = 40
     }
 
     clergymen = {
-        culture = russian
-        religion = orthodox
+        culture = cherkesskiy
+        religion = veravburyu
         size = 5
     }
 
     artisans = {
-        culture = russian
-        religion = orthodox
+        culture = cherkesskiy
+        religion = veravburyu
         size = 15
     }
 
     soldiers = {
-        culture = russian
-        religion = orthodox
+        culture = cherkesskiy
+        religion = veravburyu
         size = 40
     }
 
@@ -309,124 +309,124 @@
 #Ganja (68000/17000 POPS)
 1105 = {
     aristocrats = {
-        culture = armenian
-        religion = orthodox
+        culture = azerbaijani
+        religion = sunni
         size = 225
     }
 
     clergymen = {
-        culture = armenian
-        religion = orthodox
+        culture = azerbaijani
+        religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = armenian
-        religion = orthodox
+        culture = azerbaijani
+        religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = armenian
-        religion = orthodox
+        culture = azerbaijani
+        religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = armenian
-        religion = orthodox
+        culture = azerbaijani
+        religion = sunni
         size = 9100
     }
 
     aristocrats = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = shiite
         size = 75
     }
 
     clergymen = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = shiite
         size = 75
     }
 
     artisans = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = shiite
         size = 350
     }
 
     soldiers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = shiite
         size = 75
     }
 
     farmers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = shiite
         size = 6425
     }
 }
 #Agdam (60000/15000 POPS)
 1106 = {
     aristocrats = {
-        culture = armenian
-        religion = orthodox
+        culture = azerbaijani
+        religion = sunni
         size = 150
     }
 
     clergymen = {
-        culture = armenian
-        religion = orthodox
+        culture = azerbaijani
+        religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = armenian
-        religion = orthodox
+        culture = azerbaijani
+        religion = sunni
         size = 450
     }
 
     soldiers = {
-        culture = armenian
-        religion = orthodox
+        culture = azerbaijani
+        religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = armenian
-        religion = orthodox
+        culture = azerbaijani
+        religion = sunni
         size = 8225
     }
 
     aristocrats = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = shiite
         size = 100
     }
 
     clergymen = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = shiite
         size = 50
     }
 
     artisans = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = shiite
         size = 300
     }
 
     soldiers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = shiite
         size = 75
     }
 
     farmers = {
-        culture = armenian
-        religion = coptic
+        culture = azerbaijani
+        religion = shiite
         size = 5475
     }
 }

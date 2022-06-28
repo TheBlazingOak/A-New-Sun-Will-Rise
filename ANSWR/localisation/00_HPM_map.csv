@@ -7,7 +7,7 @@ PROV2131;Falkland & South Georgia;;;;;;;;;;;;;x
 PROV3322;Panaki;;;;;;;;;;;;;x
 FRA_411;Louréne;;;;;;;;;;;;x
 PROV934;Samawah;;;;;;;;;;;;x
-AUS_627;Lower Silesia;;;;;;;;;;;;x
+AUS_627;East Cislavy;;;;;;;;;;;;x
 ABU_1162;Arabian Gulf;;;;;;;;;;;;x
 EGY_897;Western Syria;;;;;;;;;;;;x
 EGY_903;Eastern Syria;;;;;;;;;;;;x
@@ -31,7 +31,7 @@ RUS_959;Volyn;;;;;;;;;;;;x
 druze;Druze;;;;;;;;;;;;x
 PROV911;Ma'an;;;;;;;;;;;;x
 PROV910;Azraq;;;;;;;;;;;;x
-PROV2582;Cattaro;;;;;;;;;;;;x
+PROV2582;Kotor;;;;;;;;;;;;x
 PROV1839;Al-Fula;;;;;;;;;;;;x
 PROV1739;An Nuhud;;;;;;;;;;;;x
 PROV1806;Bayuda;;;;;;;;;;;;x
@@ -51,7 +51,7 @@ new_world_plains;Grassland;;;;;;;;;;;;x
 new_world_small_island;Island;;;;;;;;;;;;x
 arid_climate;Arid Climate;;;;;;;;;;;;x
 CANAL_6;English Channel;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-GRE_837;Central Greece;;;;;;;;;;;;x
+GRE_837;Sterea Ellada;;;;;;;;;;;;x
 PROV2669;Sondrio;;;;;;;;;;;;x
 PROV8;Belluno;;;;;;;;;;;;x
 PROV2351;Magdalena;;;;;;;;;;;;x
@@ -102,7 +102,7 @@ PROV2594;Osnaburgh House;;;;;;;;;;;x
 PROV49;Rat Portage;;;;;;;;;;;x
 PROV52;Sudbury;;;;;;;;;;;x
 PROV69;Petit-Sault;;;;;;;;;;;;x
-PROV683;Waldenburg;;;;;;;;;;;x
+PROV683;Valbrich;;;;;;;;;;;x
 PROV43;Clarksville;;;;;;;;;;;x
 PROV134;Fort Parker;;;;;;;;;;;x
 PROV135;Llano Estacado;;;;;;;;;;;x
@@ -194,7 +194,7 @@ PROV1377;Da Nang;;;;;;;;;;;;;;;;;;x;;;;
 PROV1720;Bechar;;;;;;;;;;;;;;;;;;x;;;;
 PROV1714;Santa Rosa;;;;;;;;;;;;;;;;;;x;;;;
 PROV2631;Unalakleet;;;;;;;;;;;;;;;;;;x;;;;
-PROV1780;Debar;;;;;;;;;;;;;;;;;;x;;;;
+PROV1780;Dibra e Madhe;;;;;;;;;;;;;;;;;;x;;;;
 PROV2371;Uquia;;;;;;;;;;;;;;;;;;x;;;;
 PROV2953;New York Bight;;;;;;;;;;;;;;;;;;x;;;;
 PROV2954;Chesapeake Bay;;;;;;;;;;;;;;;;;;x;;;;
@@ -263,7 +263,7 @@ PROV2625;North West River;;;;;;;;;;;;x
 PROV2580;Novaya Ladoga;;;;;;;;;;;;x
 PROV995;Petrozavodsk;;;;;;;;;;;;x
 PROV965;Kherson;;;;;;;;;;;;x
-PROV1048;Yekaterinodar;;;;;;;;;;;;x
+PROV1048;Krasnoadar;;;;;;;;;;;;x
 PROV1045;Migulinskaya;;;;;;;;;;;;x
 PROV950;Ungvár;;;;;;;;;;;;x
 RUS_1185;Zhetysu;;;;;;;;;;;;x
@@ -338,10 +338,10 @@ ARG_2384;Córdoba de Argentina;;;;;;;;;;;;;;;;;;;;;;;x
 ARG_2393;La Pampa;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1391;Kota Kubang Labu;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1382;Hà Tiên;;;;;;;;;;;;;;;;;;;;;;;x
-RUS_1048;Circassia;;;;;;;;;;;;;;;;;;;;;;;x
-PROV1049;Ubykhia;;;;;;;;;;;;;;;;;;;;;;;x
+RUS_1048;Western Cherkess Plains;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1049;Upper Sochi;;;;;;;;;;;;;;;;;;;;;;;x
 PROV900;Antakya;;;;;;;;;;;;;;;;;;;;;;;x
-PROV689;Teschen;;;;;;;;;;;;;;;;;;;;;;;x
+PROV689;Tesin;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1773;Saguia el-Hamra;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1178;Sana'a;;;;;;;;;;;;;x
 PROV969;Olviopol;;;;;;;;;;;;;x
@@ -435,9 +435,9 @@ BAV_595;Franconia;;;;;;;;;;;;x
 BAV_599;Upper Bavaria;;;;;;;;;;;;x
 SPA_610;Caroline Islands;;;;;;;;;;;;x
 AUS_652;Banovinhaben;;;;;;;;;;;;x
-AUS_654;Western Transylvania;;;;;;;;;;;;x
-AUS_657;Eastern Transylvania;;;;;;;;;;;;x
-MOL_676;Bessarabia;;;;;;;;;;;;x
+AUS_654;West Ardeal;;;;;;;;;;;;x
+AUS_657;East Ardeal;;;;;;;;;;;;x
+MOL_676;Basarabia;;;;;;;;;;;;x
 PRU_682;Silesia;;;;;;;;;;;;x
 AUS_702;Galicia-Lodomeria;;;;;;;;;;;;x
 PROV704;Nowy Sacz;;;;;;;;;;;;x
@@ -448,10 +448,11 @@ PROV719;Bialystok;;;;;;;;;;;;x
 PROV748;Grosseto;;;;;;;;;;;;x
 SAR_765;Thyrrenian Islands;;;;;;;;;;;;x
 FRA_801;Tahiti;;;;;;;;;;;;x
-TUR_805;Southern Macedonia;;;;;;;;;;;;x
-TUR_806;Northern Macedonia;;;;;;;;;;;;x
+TUR_805;Makedonska;;;;;;;;;;;;x
+TUR_806;Nadatisea;;;;;;;;;;;;x
+TUR_853;Shqiperi;;;;;;;;;;;;x
 TUR_809;Eastern Rumelia;;;;;;;;;;;;x
-TUR_823;Eastern Macedonia;;;;;;;;;;;;x
+TUR_823;Skrvatia;;;;;;;;;;;;x
 PROV829;Xanthe;;;;;;;;;;;;x
 TUR_876;Ankara;;;;;;;;;;;;x
 TUR_880;Kastamonu;;;;;;;;;;;;x
@@ -629,8 +630,6 @@ RUS_715;West Galicia;;;;;;;;;;;;x
 PROV719;Bialystok;;;;;;;;;;;;x
 PROV748;Grosseto;;;;;;;;;;;;x
 FRA_801;Tahiti;;;;;;;;;;;;x
-TUR_805;Southern Macedonia;;;;;;;;;;;;x
-TUR_806;Northern Macedonia;;;;;;;;;;;;x
 TUR_809;Eastern Rumelia;;;;;;;;;;;;x
 TUR_823;Eastern Macedonia;;;;;;;;;;;;x
 PROV829;Xanthe;;;;;;;;;;;;x
@@ -1249,15 +1248,15 @@ PROV927;Sur-marrati;;;;;;;;;;;;x
 PROV1457;Naga;;;;;;;;;;;;x
 PROV3333;Tanay;;;;;;;;;;;;x
 PROV3336;Cabanatuan;;;;;;;;;;;;x
-PROV3340;Baguio;;;;;;;;;;;;x
-PROV3334;New Subic;;;;;;;;;;;;x
-PROV1455;Lipa;;;;;;;;;;;;x
-PROV3332;Lucena;;;;;;;;;;;;x
-PROV3335;Zambales;;;;;;;;;;;;x
-PROV3337;Nueva Vizcaya;;;;;;;;;;;;x
-PROV3338;Qurinio-Isabela;;;;;;;;;;;;x
-PROV3339;Cagayan-Isabela;;;;;;;;;;;;x
-PROV3341;Great Kalinga;;;;;;;;;;;;x
+PROV3340;Ibaguiow;;;;;;;;;;;;x
+PROV3334;Upper Subc;;;;;;;;;;;;x
+PROV1455;Pa;;;;;;;;;;;;x
+PROV3332;Upper Lucina;;;;;;;;;;;;x
+PROV3335;Upper Bacolod;;;;;;;;;;;;x
+PROV3337;Upper Tagblaran;;;;;;;;;;;;x
+PROV3338;Maraw;;;;;;;;;;;;x
+PROV3339;Upper Apar;;;;;;;;;;;;x
+PROV3341;UpperPalo;;;;;;;;;;;;x
 ETH_1859;Onneelafa;;;;;;;;;;;;x
 PROV1859;Onnee City;;;;;;;;;;;;x
 ETH_1853;Ma'ibeli Meretochi;;;;;;;;;;;;x
@@ -1270,3 +1269,66 @@ TOR_1784;Fleuvmar;;;;;;;;;;;;x
 WOL_1785;Marcage;;;;;;;;;;;;x
 PROV12;Babbangabas;;;;;;;;;;;;x
 PROV2589;Hanyamai-Sauri;;;;;;;;;;;;x
+PROV1463;Cagyan Doro;;;;;;;;;;;;x
+PROV1462;Fort Pilaria;;;;;;;;;;;;x
+PROV1459;Puer Prin;;;;;;;;;;;;x
+PROV3342;Rise-Artvin;;;;;;;;;;;;x
+PROV3343;Nalchik;;;;;;;;;;;;x
+PROV3344;Armavir;;;;;;;;;;;;x
+PROV3345;Maitum;;;;;;;;;;;;x
+PROV3346;Glan;;;;;;;;;;;;x
+PROV3347;Malaybalay;;;;;;;;;;;;x
+PROV3348;Bislig;;;;;;;;;;;;x
+PROV3349;Tagum;;;;;;;;;;;;x
+PROV3350;Kalawit;;;;;;;;;;;;x
+PROV1057;Kizlyar;;;;;;;;;;;;x
+PROV3351;Tskhinvali;;;;;;;;;;;;x
+PROV3352;Gori;;;;;;;;;;;;x
+PROV3353;Telavi;;;;;;;;;;;;x
+PROV3354;Martuni;;;;;;;;;;;;x
+PROV3355;Stepanavan;;;;;;;;;;;;x
+PROV3356;Sumayquit;;;;;;;;;;;;x
+PROV3357;Azari Shirvan;;;;;;;;;;;;x
+PROV3358;Quobustan;;;;;;;;;;;;x
+PROV3359;Masalli;;;;;;;;;;;;x
+PROV1051;Cerkessk-New Maykop;;;;;;;;;;;;x
+RUS_1056;Eastern Cherkess Plains;;;;;;;;;;;;x
+TUR_788;West Istoslavia;;;;;;;;;;;;x
+SER_794;East Istoslavia;;;;;;;;;;;;x
+TUR_803;Lesser Iskhoria;;;;;;;;;;;;x
+TUR_810;Greater Iskhoria;;;;;;;;;;;;x
+MON_2582;Southwest Istoslavia;;;;;;;;;;;;x
+TUR_674;Dobruca;;;;;;;;;;;;x
+TUR_860;Trakya;;;;;;;;;;;;x
+TUR_931;Ninwe Plains;;;;;;;;;;;;x
+GEO_3353;Ganja-Agdam;;;;;;;;;;;;x
+AZB_1389;Zanzegur;;;;;;;;;;;;x
+AZB_1386;Eastern Karabakh Valley;;;;;;;;;;;;x
+DAG_1104;Dagestani Hills;;;;;;;;;;;;x
+AZB_1107;Lankaran;;;;;;;;;;;;x
+RUS_1102;Baku;;;;;;;;;;;;x
+RUS_1090;Kartvli;;;;;;;;;;;;x
+RUS_1098;Hayakstan;;;;;;;;;;;;x
+GEO_1095;Egrisi;;;;;;;;;;;;x
+RUS_1052;Northern Kavkaz Foothills;;;;;;;;;;;;x
+MOL_673;Moldova;;;;;;;;;;;;x
+WAL_665;Tara Dacianeasca;;;;;;;;;;;;x
+AUS_623;Starodamarsk;;;;;;;;;;;;x
+AUS_641;Igaz Magyarorszag;;;;;;;;;;;;x
+PROV703;Krakov;;;;;;;;;;;;x
+PROV688;Opava;;;;;;;;;;;;x
+PROV2584;Bilsko Bela;;;;;;;;;;;;x
+PROV685;Katovice;;;;;;;;;;;;x
+PROV682;Vratislav;;;;;;;;;;;;x
+PROV628;Usti Nad Labem;;;;;;;;;;;;x
+PROV627;Karlovy Vary;;;;;;;;;;;;x
+PROV684;Opoli;;;;;;;;;;;;x
+PROV826;Korfuz;;;;;;;;;;;;x
+AUS_625;West Cislavy;;;;;;;;;;;;x
+GRE_826;Peloponnesos;;;;;;;;;;;;x
+KUR_890;Wan;;;;;;;;;;;;x
+PROV890;Wan;;;;;;;;;;;;x
+KUR_925;Urmiye;;;;;;;;;;;;x
+PROV1110;Urmiye;;;;;;;;;;;;x
+KUR_928;Kirmasan;;;;;;;;;;;;x
+PROV1117;Kirmasan;;;;;;;;;;;;x

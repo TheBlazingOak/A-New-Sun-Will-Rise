@@ -1,5 +1,6 @@
-owner = PHL
-controller = PHL
+owner = NIN
+controller = NIN
+add_core = NIN
 add_core = PHL
 trade_goods = iron
 life_rating = 35

@@ -114,67 +114,67 @@
 
     serfs = {
         culture = serb
-        religion = catholic
+        religion = ketronant
         size = 1000
     }
 
     aristocrats = {
-        culture = hungarian
-        religion = catholic
+        culture = austro_german
+        religion = ketronant
         size = 600
     }
 
     clergymen = {
-        culture = hungarian
-        religion = catholic
+        culture = austro_german
+        religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = hungarian
-        religion = catholic
+        culture = austro_german
+        religion = ketronant
         size = 500
     }
 
     soldiers = {
-        culture = hungarian
-        religion = catholic
+        culture = austro_german
+        religion = ketronant
         size = 100
     }
 
     farmers = {
-        culture = hungarian
-        religion = catholic
+        culture = austro_german
+        religion = ketronant
         size = 8700
     }
 
     aristocrats = {
         culture = austro_german
-        religion = catholic
+        religion = ketronant
         size = 1100
     }
 
     clergymen = {
         culture = austro_german
-        religion = catholic
+        religion = ketronant
         size = 200
     }
 
     artisans = {
         culture = austro_german
-        religion = catholic
+        religion = ketronant
         size = 1100
     }
 
     soldiers = {
         culture = austro_german
-        religion = catholic
+        religion = ketronant
         size = 200
     }
 
     farmers = {
         culture = austro_german
-        religion = catholic
+        religion = ketronant
         size = 17600
     }
 
@@ -595,25 +595,25 @@
 798 = {
 
     soldiers = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 1350
     }
 
     clergymen = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 350
     }
 
     artisans = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 2000
     }
 
     farmers = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 48300
     }
@@ -643,44 +643,44 @@
     }
 
     aristocrats = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 1150
     }
 
     bureaucrats = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 150
     }
 
     officers = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 150
     }
 
     clergymen = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 3000
     }
 
     soldiers = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 1100
     }
 
     farmers = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 3450
     }
 }
@@ -688,25 +688,25 @@
 799 = {
 
     soldiers = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 1100
     }
 
     clergymen = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 125
     }
 
     artisans = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 1500
     }
 
     farmers = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 38425
     }
@@ -736,32 +736,32 @@
     }
 
     aristocrats = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 450
     }
 
     clergymen = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 2500
     }
 
     soldiers = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 100
     }
 
     farmers = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 4575
     }
 }
@@ -771,25 +771,25 @@
 802 = {
 
     soldiers = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 1100
     }
 
     clergymen = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 900
     }
 
     farmers = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 21420
     }
@@ -832,79 +832,79 @@
 
     farmers = {
         culture = gypsy
-        religion = sunni
+        religion = the_broken
         size = 300
     }
 
     aristocrats = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 850
     }
 
     bureaucrats = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 150
     }
 
     officers = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 150
     }
 
     clergymen = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 2000
     }
 
     soldiers = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 100
     }
 
     farmers = {
-        culture = turkish
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 2800
     }
 
     soldiers = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 100
     }
 
     clergymen = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 1100
     }
 
     soldiers = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 1100
     }
 
     farmers = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 19700
     }
 }
@@ -912,38 +912,38 @@
 803 = {
 
     aristocrats = {
-        culture = bosniak
-        religion = sunni
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     officers = {
-        culture = bosniak
-        religion = sunni
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     soldiers = {
-        culture = bosniak
-        religion = sunni
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     clergymen = {
-        culture = bosniak
-        religion = sunni
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = bosniak
-        religion = sunni
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     farmers = {
-        culture = bosniak
-        religion = sunni
+        culture = iskhor
+        religion = the_broken
         size = 3000
     }
 
@@ -984,151 +984,151 @@
     }
 
     aristocrats = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 100
     }
 
     officers = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 100
     }
 
     soldiers = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 1100
     }
 
     clergymen = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 200
     }
 
     farmers = {
-        culture = serb
+        culture = iskhor
         religion = the_broken
         size = 4000
     }
 
     farmers = {
         culture = gypsy
-        religion = sunni
+        religion = the_broken
         size = 600
     }
 
     aristocrats = {
-        culture = turkish
-        religion = sunni
+        culture = iskhor
+        religion = the_broken
         size = 750
     }
 
     clergymen = {
-        culture = turkish
-        religion = sunni
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = turkish
-        religion = sunni
+        culture = iskhor
+        religion = the_broken
         size = 1750
     }
 
     soldiers = {
-        culture = turkish
-        religion = sunni
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     farmers = {
-        culture = turkish
-        religion = sunni
+        culture = iskhor
+        religion = the_broken
         size = 5150
     }
 
     farmers = {
-        culture = circassian
-        religion = sunni
+        culture = iskhor
+        religion = the_broken
         size = 100
     }
 
     aristocrats = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 100
     }
 
     officers = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 100
     }
 
     clergymen = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 900
     }
 
     soldiers = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 100
     }
 
     farmers = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 34550
     }
 
     aristocrats = {
-        culture = greek
+        culture = iskhor
         religion = the_broken
         size = 100
     }
 
     officers = {
-        culture = greek
+        culture = iskhor
         religion = the_broken
         size = 100
     }
 
     soldiers = {
-        culture = greek
+        culture = iskhor
         religion = the_broken
         size = 200
     }
 
     clergymen = {
-        culture = greek
+        culture = iskhor
         religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = iskhor
         religion = the_broken
         size = 100
     }
 
     farmers = {
-        culture = greek
+        culture = iskhor
         religion = the_broken
         size = 1425
     }
@@ -1160,26 +1160,26 @@
     }
 
     clergymen = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = orthodox
         size = 200
     }
 
     artisans = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = orthodox
         size = 450
     }
 
     soldiers = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = orthodox
         size = 7450
     }
 

@@ -84,8 +84,8 @@ nilotic;Nilotic;;;;;;;;;;;;;,,
 lacustrine_bantu;Northeast Bantu;;;;;;;;;;;;;,,
 maasai;Kalenjin-Maasai;;;;;;;;;;;;;,,
 kikuyu;Kikuyu–Kamba;;;;;;;;;;;;;,,
-HTY;Turkmeneli;;;;;;;;;;;;;,,
-HTY_ADJ;Turkomani;;;;;;;;;;;;;,,
+HTY;Dogu Himayesi;;;;;;;;;;;;;,,
+HTY_ADJ;Dogulu;;;;;;;;;;;;;,,
 POR_fascist;Movimento Nacional-Sindicalista;;;;;;;;;;;;;,,
 IRE_fascist;The Blueshirts;;;;;;;;;;;;;,,
 IRE_communist;Communist Party of Ireland;;;;;;;;;;;;;,,
@@ -868,8 +868,8 @@ CHP_anarcho_liberal;Partido Anarchista;Partido Anarchista;Partido Anarchista;;;;
 CHP_communist;Partido Comunista;Partido Comunista;Partido Comunista;;;;;;;;;;;,,
 CHP_fascist;Partido Nacionalista;Partido Nacionalista;Partido Nacionalista;;;;;;;;;;;,,
 CHP_reactionary;Unión Republicana;Unión Republicana;Unión Republicana;;;;;;;;;;;,,
-CIR;Circassia;;;;;;;;;;;;;,,
-CIR_ADJ;Circassian;;;;;;;;;;;;;,,
+CIR;Adyghe-Balkaria;;;;;;;;;;;;;,,
+CIR_ADJ;Adyghe-Balkarian;;;;;;;;;;;;;,,
 CIR_liberal;Partiye Libyeral;;;;;;;;;;;;;,,
 CIR_conservative;Partiye Wuhumenig;;;;;;;;;;;;;,,
 CIR_socialist;Partiye Sotsialist;;;;;;;;;;;;;,,
@@ -963,12 +963,12 @@ DNB_presidential_dictatorship;Danubian Republic;;;;;;;;;;;;;,,
 DNB_bourgeois_dictatorship;Danubian Republic;;;;;;;;;;;;;,,
 DOI;Dominica;;;;;;;;;;;;;,,
 DOI_ADJ;Dominican;;;;;;;;;;;;;,,
-DON;Cossack Republic;;;;;;;;;;;;;,,
-DON_absolute_monarchy;Cossack Hetmanate;;;;;;;;;;;;;,,
-DON_hms_government;Cossack Union;;;;;;;;;;;;;,,
-DON_prussian_constitutionalism;Cossack Hetmanate;;;;;;;;;;;;;,,
-DON_fascist_dictatorship;Cossackia;;;;;;;;;;;;;,,
-DON_ADJ;Cossack;;;;;;;;;;;;;,,
+DON;Cherkess Horde;;;;;;;;;;;;;,,
+DON_absolute_monarchy;Cherkess Hetmanate;;;;;;;;;;;;;,,
+DON_hms_government;Cherkess Union;;;;;;;;;;;;;,,
+DON_prussian_constitutionalism;Cherkess Hetmanate;;;;;;;;;;;;;,,
+DON_fascist_dictatorship;Cherkesskia;;;;;;;;;;;;;,,
+DON_ADJ;Cherkesskiy;;;;;;;;;;;;;,,
 DON_conservative;The Conservatives;Faction royale;Königsfraktion;;;;;;;;;;;,,
 DON_liberal;The Liberals;Faction libérale;Die liberale Fraktion;;;;;;;;;;;,,
 DON_reactionary;The Hetmanate Faction;Faction nationaliste;Die nationalistische Fraktion;;;;;;;;;;;,,
@@ -3652,8 +3652,8 @@ EGY;Misr;;;;;;;;;;;;;,,
 EGY_ADJ;Misri;;;;;;;;;;;;;,,
 WHA;Holy Court of House Pendragon;;;;;;;;;;;;;
 WHA_ADJ;Pendragonian;;;;;;;;;;;;;
-NIN;New Bharata;;;;;;;;;;;;;
-NIN_ADJ;New Bharatan;;;;;;;;;;;;;
+NIN;Sugbuan Union;;;;;;;;;;;;;
+NIN_ADJ;Sugbuan;;;;;;;;;;;;;
 RIZ;Knights of Rizal;;;;;;;;;;;;;
 RIZ_ADJ;Rizalista;;;;;;;;;;;;;
 QUZ;Holy Banahaw;;;;;;;;;;;;;

@@ -1,6 +1,6 @@
-owner = ZKY
-controller = ZKY
-add_core = ZKY
+owner = STR
+controller = STR
+add_core = STR
 trade_goods = coal
 life_rating = 40
 terrain = mining_district

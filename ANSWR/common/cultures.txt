@@ -866,7 +866,7 @@ leader = russian
                           Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko }
     }
     krymskiy = {
-        color = {100 240 50}
+        color = {200 140 50}
            first_names = { Aleksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady
                          Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim
                          Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei
@@ -1096,7 +1096,7 @@ levantine = {
         radicalism = 5
     }
     abkhazian = {
-            color = {85 206 16}
+            color = {185 106 16}
             first_names = {
                 Aghwrbiy Abatiy Albech Albot "Alhx'es" "Alhx'o" Alijiqwe Bale Batirbiy Biylhosten Blaneshu Bubeird Chetsu "Ch'ischiqwe" Chawis Dariqwe Dokshiqua Dzeghaschte Dzune Foqwe Ghwaze Gushina Gushipsa Hegwtsire Hanaqua Hetsu Jirandiqwe Kwshbiy Lhostenasch Mamsriqwe Menshaq Meshiqwe Nalbiy Nartshu Nerzan Pschimaxwe Qideghaze Schebet Shumaxwe Shupashe Takwu Tsumash Tighwenbiy Tighwen Werdeschawe Wezroqwe Yedij Zhore
                 }
@@ -1926,6 +1926,16 @@ southeast_asian = {
 
         }
     }
+	manobo = {
+        color = {214 70 177}
+        first_names = { Emilio Apolinario Andrés José Hermano Jacinto Mariano Deodato Ladislao Teodoro Valentíne Antonio León Simeón Arcadio Artemio Manuel
+
+        }
+
+        last_names = { Aguainaldo Mabini Bonifacio Jacinto Rizal Díaz Plata Diwa Arellano
+
+        }
+    }
     tisoy = {
         color = {142 71 73}
         first_names = { Emilio Apolinario Andrés José Hermano Jacinto Mariano Deodato Ladislao Teodoro Valentíne Antonio León Simeón Arcadio Artemio Manuel
@@ -1969,7 +1979,7 @@ southeast_asian = {
         }
     }
     chavacan = {
-        color = {14 20 237}
+        color = {114 220 137}
         first_names = { Emilio Apolinario Andres Jose Hermano Jacinto Mariano Deodato Ladislao Teodoro Valentine Antonio Leon Simeon Arcadio Artemio Manuel
         }
 
@@ -1994,14 +2004,6 @@ southeast_asian = {
     }
     aklanon = {
         color = {44 70 237}
-        first_names = { Emilio Apolinario Andres Jose Hermano Jacinto Mariano Deodato Ladislao Teodoro Valentine Antonio Leon Simeon Arcadio Artemio Manuel
-        }
-
-        last_names = { Aguainaldo Mabini Bonifacio Jacinto Rizal Diaz Plata Diwa Arellano
-        }
-    }
-    boholan = {
-        color = {214 70 177}
         first_names = { Emilio Apolinario Andres Jose Hermano Jacinto Mariano Deodato Ladislao Teodoro Valentine Antonio Leon Simeon Arcadio Artemio Manuel
         }
 

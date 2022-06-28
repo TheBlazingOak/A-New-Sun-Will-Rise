@@ -1,5 +1,6 @@
-owner = PHL
-controller = PHL
+owner = SBI
+controller = SBI
+add_core = SBI
 add_core = PHL
 trade_goods = fruit
 life_rating = 35

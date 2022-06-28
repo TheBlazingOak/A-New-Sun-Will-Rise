@@ -1,0 +1,7 @@
+owner = OSE
+controller = OSE
+add_core = OSE
+add_core = TCA
+add_core = GEO
+trade_goods = wool
+life_rating = 35

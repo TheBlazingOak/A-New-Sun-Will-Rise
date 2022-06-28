@@ -1,5 +1,6 @@
-owner = CRD
-controller = CRD
+owner = ILC
+controller = ILC
+add_core = ILC
 add_core = CRD
 add_core = PHL
 trade_goods = iron

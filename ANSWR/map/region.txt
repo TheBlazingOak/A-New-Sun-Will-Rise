@@ -385,7 +385,7 @@ TUR_803 = { 803 798 802 799 } #Southern Serbia
 
 TUR_805 = { 805 819 820 821 822 832 831 833 } #Southern Macedonia
 
-TUR_806 = { 806 807 1780 } #Northern Macedonia
+TUR_806 = { 806 807 } #Northern Macedonia
 
 TUR_810 = { 809 810 812 816 817 } #Bulgaria
 
@@ -393,11 +393,11 @@ TUR_823 = { 823 829 815 808 } #Eastern Macedonia
 
 GRE_826 = { 839 842 840 841 } #Peloponnese
 
-GRE_837 = { 834 837 836 835 838 845 } #Attica - Central Greece
+GRE_837 = { 834 837 836 835 } #Attica - Central Greece
 
-EGY_843 = { 848 855 827 826 } #Aegean Islands
+EGY_843 = { 838 845 848 827 } #Aegean Islands
 
-TUR_853 = { 849 853 852 851 824 } #Albania
+TUR_853 = { 849 1780 853 852 851 824 826 } #Albania
 
 TUR_860 = { 860 828 858 859 843 830 } #Thrace
 
@@ -420,7 +420,7 @@ TUR_882 = { 882 884 879 888 887 } #Trabizond
 
 #TUR_890 = { } #Van
 
-TUR_893 = { 893 889 899 2414 891 } #Diyarbakir
+TUR_893 = { 893 889 899 } #Diyarbakir
 
 TUR_894 = { 894 896 895 } #Adana
 
@@ -432,7 +432,7 @@ EGY_903 = { 906 907 910 } #Eastern Syria
 
 EGY_915 = { 913 915 912 914 } #Lebanon
 
-EGY_900 = { 900 905 } #Northern Phoenicia
+EGY_900 = { 900 905 855 } #Northern Phoenicia
 
 EGY_921 = { 917 920 919 918 916 989 } #Palestine
 
@@ -444,7 +444,7 @@ KUR_928 = { 928 1111 1117 1118 } #
 
 KUR_925 = { 925 924 892 1110 } #
 
-KUR_890 = { 890 1109 }
+KUR_890 = { 890 1109 2414 891 }
 
 TUR_935 = { 932 933 929 1131 } #Basra
 
@@ -452,23 +452,29 @@ TUR_932 = { 935 930 934 } #Kuwait
 
 TUR_926 = { 926 1133 931 } #
 
-RUS_1090 = { 1090 1093 1091 886 } #Georgia
+RUS_1090 = { 1090 1093 1091 886 3351 3352 } #Georgia
 
-GEO_1095 = { 1092 1094 1095 } #Colchis-West Georgia
+GEO_3353 = { 3353 1105 1106 } #Great Ganja
 
-RUS_1098 = { 1098 1099 1105 1106 885 } #Armenia
+GEO_1095 = { 1092 1094 1095 3342 } #Colchis-West Georgia
 
-RUS_1102 = { 1102 1107 1103 } #Azerbaijan
+RUS_1098 = { 1098 1099 885 3354 3355 } #Armenia
+
+DAG_1104 = { 1052 1104 1053 } #Dagestan
+
+AZB_1107 = { 1107 3357 3359 }
+
+RUS_1102 = { 1102 1103 3356 3358  } #Azerbaijan
 
 AZB_1389 = { 1389 1100 1101 } #Central Azerbaijan
 
-AZB_1386 = { 1387 1402 1386 } #Zanzegur
+AZB_1386 = { 1387 1402 1386 } #Zanzegur-Greater Nakchievan
 
-PER_1112 = { 1108 1875 2025 1112 1123 } #Tabriz
+PER_1112 = { 1108 1875 2025 1112 } #Tabriz
 
 PER_1116 = { 1113 1114 1115 1116 } #Mazandaran
 
-PER_1121 = { 1121 1124 } #Irakajemi
+PER_1121 = { 1121 1124 1123 } #Irakajemi
 
 PER_1127 = { 1127 1129 1130 1126 } #Isfahan
 
@@ -541,9 +547,9 @@ RUS_958 = { 958 959 960 954 955 } #Kiev
 
 RUS_959 = { 956 957 702 952 } #Volyn
 
-RUS_964 = { 967 966 964 } #Crimea
+RUS_964 = { 967 966 964 965 } #Crimea
 
-RUS_973 = { 976 973 975 965 979 } #Kherson-Zaporizhia
+RUS_973 = { 976 973 975 } #Kherson-Zaporizhia
 
 RUS_955 = { 972 971 970 961 968 969 } #Yekaterinoslav
 
@@ -567,11 +573,13 @@ RUS_1026 = { 1026 2689 1029 1031 2700 } #Perm
 
 RUS_1037 = { 1037 1025 } #Tartaria
 
-RUS_1041 = { 1041 1036 1040 1039 1046 } #Astrakhan
+RUS_1041 = { 1041 1036 1040 1039 1046 979 } #Astrakhan
 
-RUS_1048 = { 1048 1049 1050 1051 1047 1056 } #Circassia
+RUS_1048 = { 1048 1049 1047 3344 } #West Circassian Plain
 
-RUS_1052 = { 1054 1055 1057 } #North Caucasia
+RUS_1056 = { 1050 1056 1057 } #East Circassian Plain
+
+RUS_1052 = { 1054 1055 3343 1051 } #North Caucasia
 
 RUS_1060 = { 1044 1042 1034 1043 1035 } #Samara
 
@@ -776,7 +784,9 @@ SPA_1459 = { 3337 3341 1461 2565 } #Visayas
 
 PHL_1459 = { 1459 1460 3335 } #East Visayas
 
-SPA_1463 = { 1463 1462 3338 } #Mindanao
+SPA_1463 = { 1463 1462 3338 3345 3350 } #Mindanao
+
+PHL_3346 = { 3346 3347 3348 3349 } #East Mindanao
 
 
 ### China
@@ -993,7 +1003,7 @@ ENG_2044 = { 2046 2042 } #Tanganyika
 
 FRA_1775 = { 1781 1782 } #Mauritania
 
-#FRA_1780 = { 1780 1781 1782 } #Inner Mauritania
+#FRA_1780 = { 1781 1782 } #Inner Mauritania
 
 #FRA_1783 = { } #Senegal
 

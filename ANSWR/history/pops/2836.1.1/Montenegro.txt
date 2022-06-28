@@ -87,38 +87,38 @@
     }
 
     aristocrats = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 250
     }
 
     clergymen = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 300
     }
 
     soldiers = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 150
     }
 
     farmers = {
-        culture = bosniak
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 3000
     }
 
     farmers = {
         culture = gypsy
-        religion = sunni
+        religion = the_broken
         size = 200
     }
 }
