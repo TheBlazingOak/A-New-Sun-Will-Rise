@@ -1,6 +1,9 @@
 capital = 1264
-primary_culture = baluchi
+primary_culture = panjabi
+culture = baluchi
+culture = pashtun
 culture = sindi
+culture = kashmiri
 religion = sunni
 government = absolute_monarchy
 plurality = 1.0

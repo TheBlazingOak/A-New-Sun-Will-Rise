@@ -1114,73 +1114,73 @@
 #Sittwe (176000/44000 POPS)
 1345 = {
     bureaucrats = {
-        culture = assamese
+        culture = bengali
         religion = protestant
         size = 10
     }
 
     aristocrats = {
-        culture = assamese
+        culture = bengali
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = assamese
+        culture = bengali
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = assamese
+        culture = bengali
         religion = sunni
         size = 2750
     }
 
     soldiers = {
-        culture = assamese
+        culture = bengali
         religion = sunni
         size = 150
     }
 
     farmers = {
-        culture = assamese
+        culture = bengali
         religion = sunni
         size = 14875
     }
 
     aristocrats = {
-        culture = assamese
+        culture = bengali
         religion = theravada
         size = 250
     }
 
     bureaucrats = {
-        culture = assamese
+        culture = bengali
         religion = theravada
         size = 50
     }
 
     clergymen = {
-        culture = assamese
+        culture = bengali
         religion = theravada
         size = 375
     }
 
     artisans = {
-        culture = assamese
+        culture = bengali
         religion = theravada
         size = 6250
     }
 
     soldiers = {
-        culture = assamese
+        culture = bengali
         religion = theravada
         size = 250
     }
 
     farmers = {
-        culture = assamese
+        culture = bengali
         religion = theravada
         size = 15825
     }
@@ -1198,13 +1198,13 @@
     }
 
     clergymen = {
-        culture = assamese
+        culture = bengali
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = assamese
+        culture = bengali
         religion = sunni
         size = 1950
     }
