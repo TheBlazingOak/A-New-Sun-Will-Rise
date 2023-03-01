@@ -2702,3 +2702,91 @@
         size = 29930
     }
 }
+
+3360 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 1850
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 145
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 175
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 750
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 4200
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 150
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 29930
+    }
+}
+
+3361 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 1850
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 145
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 175
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 750
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 4200
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 150
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 29930
+    }
+}

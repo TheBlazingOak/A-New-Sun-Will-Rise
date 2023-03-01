@@ -7,6 +7,7 @@ life_rating = 35
 railroad = 1
 fort = 1
 naval_base = 1
+terrain = ruined_city
 state_building = {
     level = 1
     building = cement_factory

@@ -3,4 +3,5 @@ controller = NEN
 add_core = NEN
 add_core = NYO
 trade_goods = grain
+terrain = ruined_city
 life_rating = 35

@@ -2,4 +2,5 @@ owner = PRT
 controller = PRT
 add_core = PRT
 trade_goods = grain
+terrain = ruined_city
 life_rating = 39
