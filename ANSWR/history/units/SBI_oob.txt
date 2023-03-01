@@ -1,0 +1,34 @@
+
+navy = {
+    name = "77th Fleet Patrol"
+    location = 3334
+    ship = {
+        name= "Arleigh Burke 12"
+        type = frigate
+    }
+    ship = {
+        name= "Stout 15"
+        type = frigate
+    }
+    ship = {
+        name= "Mitscher 7"
+        type = frigate
+    }
+    ship = {
+        name= "Russell 10"
+        type = frigate
+    }
+    ship = {
+        name= "Carney 4"
+        type = frigate
+    }
+
+}
+
+leader = {
+    name = "Erik Lashley"
+    type = sea
+    date="2830.1.1"
+    personality = clever
+    background = nationalist
+}

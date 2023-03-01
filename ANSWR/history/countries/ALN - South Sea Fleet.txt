@@ -1,6 +1,7 @@
-capital = 3334
-primary_culture = pampangan
-religion = catholic
+capital = 2681
+primary_culture = lanzu
+culture = yue
+religion = mahayana
 government = trading_republic
 plurality = 0.0
 nationalvalue = nv_equality
@@ -35,7 +36,7 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = PHL_conservative
+ruling_party = MCK_conservative
 last_election = 1834.1.1
 upper_house = {
     fascist = 0
@@ -97,4 +98,4 @@ nonstate_consciousness = 2
 #Inventions
 }
 
-oob = "SBI_oob.txt"
+oob = "ALN_oob.txt"
