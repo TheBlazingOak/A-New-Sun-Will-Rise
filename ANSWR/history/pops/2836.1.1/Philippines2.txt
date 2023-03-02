@@ -101,25 +101,25 @@
 #New Subic
 3334 = {
     aristocrats = {
-        culture = pampangan
+        culture = pacifica
         religion = catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = pampangan
+        culture = pacifica
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = pampangan
+        culture = pacifica
         religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = pampangan
+        culture = pacifica
         religion = catholic
         size = 2000
     }

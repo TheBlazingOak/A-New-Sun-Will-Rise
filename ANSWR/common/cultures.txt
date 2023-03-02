@@ -1744,16 +1744,6 @@ south_asian = {
 
         }
     }
-    delhiite = {
-        color = {44 51 45}
-        first_names = { Kirtisri Vikrama Sri Vijaya Viraparakkama Vimala Rajasingha Senarat  Anagarika Wimalaratne
-
-        }
-
-        last_names = { Dharmasurya Narendrasimha Rajasimha Rajadhirajasimha Doraisami
-
-        }
-    }
     tekno = {
         color = {125 125 75}
         first_names = { Chetan Fakirbhai Jivraj Madhavsingh Khemchand Manubhai Bharatsingh Balwantry Chabildas Maniraj
@@ -1830,6 +1820,16 @@ indo_iranian = {
 
         }
 
+    }
+	 delhiite = {
+        color = {44 51 45}
+        first_names = { Kirtisri Vikrama Sri Vijaya Viraparakkama Vimala Rajasingha Senarat  Anagarika Wimalaratne
+
+        }
+
+        last_names = { Dharmasurya Narendrasimha Rajasimha Rajadhirajasimha Doraisami
+
+        }
     }
 }
 

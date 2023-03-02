@@ -1,5 +1,6 @@
-owner = JAV
-controller = JAV
-add_core = JAV
-trade_goods = grain
+owner = SWK
+controller = SWK
+add_core = SWK
+trade_goods = tropical_wood
+terrain = montane_forest
 life_rating = 31

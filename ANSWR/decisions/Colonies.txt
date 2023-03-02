@@ -704,7 +704,7 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
-    colonial_legacy = {
+    #colonial_legacy = {
         picture = begin_line_of_advantage
         potential = {
             civilized = no
@@ -776,7 +776,7 @@ political_decisions = {
         }
 
         ai_will_do = { factor = 1 }
-    }
+    #}
 
     end_of_natural_dyes = {
         picture = tea_production

@@ -5,6 +5,8 @@ government = fascist_dictatorship
 plurality = 0.0
 nationalvalue = nv_equality
 literacy = 0.28
+civilized = no
+
 
 # Political reforms
 slavery = no_slavery
@@ -49,10 +51,14 @@ upper_house = {
 
 schools = developing_tech_school
 
+foreign_artillery = yes_foreign_artillery
 foreign_weapons = yes_foreign_weapons
+western_shipyards = yes_western_shipyards
 
 # Technologies
 flintlock_rifles = 1
+post_nelsonian_thought = 1
+bronze_muzzle_loaded_artillery = 1
 
 # Inventions
 #bottling_process = yes
