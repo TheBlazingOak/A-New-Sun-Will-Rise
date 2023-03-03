@@ -1077,7 +1077,6 @@ breech_loaded_rifles = {
     year = 2850
     cost = 10800
 
-    activate_unit = guard
     unciv_military = yes
 
     combat_width = -2

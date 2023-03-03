@@ -689,9 +689,9 @@ TIB_1591 = { 1587 1591 1592 1589 1588 1590 1593 } #Himalaya
 
 BUR_1330 = { 1331 1336 1337 1339 } #Pegu
 
-BUR_1334 = { 1335 1333 1338 1340 1332 } #Former Shan States - Yadanabon - Mandalay
+BUR_1334 = { 1335 1333 1338 1340 1332 3365 } #Former Shan States - Yadanabon - Mandalay
 
-BUR_1339 = { 1334 1341 1342 } #Kachin
+BUR_1339 = { 1334 1341 1342 3367} #Kachin
 
 #SIA_1355 = { } #Shan
 
@@ -721,7 +721,7 @@ ENG_1261 = { 1263 1251 1305 } #Orissa
 
 ### Indochina
 
-LUA_1356 = { 1356 1360 1357 1361 1358 } #Laos
+LUA_1356 = { 1356 1360 1357 1361 1358 3366 } #Laos
 
 SIA_1366 = { 1364 1368 1363 1362 } #Cambodia
 
@@ -853,7 +853,7 @@ CHI_1594 = { 1594 1597 1598 2607 } #Kashgar
 
 CHI_1600 = { 1600 1595 1596 1186 1188 } #Urumqui
 
-CHI_1601 = { 1601 1602 1603 } #Yunnan
+CHI_1601 = { 1601 1602 1603 3369 3368 } #Yunnan
 
 CHI_1604 = { 1604 1608 1609 1610 1607 } #North Zhejiang
 
