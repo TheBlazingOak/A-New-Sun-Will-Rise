@@ -389,43 +389,43 @@
 1488 = {
 
     bureaucrats = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
         size = 4250
     }
 
     aristocrats = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
         size = 9500
     }
 
     clergymen = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
         size = 4800
     }
 
     artisans = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
-        size = 11000
+        size = 16000
     }
 
     artisans = {
         culture = mongol
         religion = gelugpa
-        size = 11000
+        size = 6000
     }
 
     artisans = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
         size = 4000
     }
 
     soldiers = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
         size = 6000
     }
@@ -437,10 +437,17 @@
     }
 
     farmers = {
+        culture = ping
+        religion = gelugpa
+        size = 204900
+    }
+	
+	farmers = {
         culture = mongol
         religion = gelugpa
-        size = 234900
+        size = 30000
     }
+	
     farmers = {
         culture = uighur
         religion = gelugpa
@@ -456,19 +463,19 @@
 1599 = {
 
     aristocrats = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
         size = 6500
     }
 
     clergymen = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
         size = 2800
     }
 
     artisans = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
         size = 11000
     }
@@ -480,16 +487,23 @@
     }
 
     soldiers = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
         size = 4000
     }
 
     farmers = {
+        culture = ping
+        religion = gelugpa
+        size = 92700
+    }
+	
+	farmers = {
         culture = mongol
         religion = gelugpa
-        size = 112700
+        size = 20000
     }
+	
     farmers = {
         culture = uighur
         religion = gelugpa
@@ -499,19 +513,19 @@
 #Guihua Tumed (436000/109000 POPS)
 1532 = {
     aristocrats = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
-        size = 2000
+        size = 1000
     }
 
     bureaucrats = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
         size = 225
     }
 
     officers = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
         size = 225
     }
@@ -519,13 +533,13 @@
     clergymen = {
         culture = mongol
         religion = gelugpa
-        size = 1050
+        size = 550
     }
 
     artisans = {
         culture = mongol
         religion = gelugpa
-        size = 4200
+        size = 2200
     }
 
     soldiers = {
@@ -537,7 +551,7 @@
     farmers = {
         culture = mongol
         religion = gelugpa
-        size = 85250
+        size = 25250
     }
 
     serfs = {
@@ -546,22 +560,28 @@
         size = 10000
     }
 
+	aristocrats = {
+        culture = ping
+        religion = mahayana
+        size = 1000
+    }
+
     clergymen = {
         culture = ping
         religion = mahayana
-        size = 75
+        size = 575
     }
 
     artisans = {
         culture = ping
         religion = mahayana
-        size = 200
+        size = 2200
     }
 
     farmers = {
         culture = ping
         religion = gelugpa
-        size = 3625
+        size = 63625
     }
 
     bureaucrats = {
@@ -617,21 +637,21 @@
 #Yeke Juu Chuulghan (456000/114000 POPS)
 1535 = {
     aristocrats = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
-        size = 2225
+        size = 225
     }
 
     clergymen = {
-        culture = mongol
+        culture = ping
         religion = gelugpa
-        size = 1125
+        size = 125
     }
 
     artisans = {
         culture = mongol
         religion = gelugpa
-        size = 5600
+        size = 2600
     }
 
     soldiers = {
@@ -643,24 +663,30 @@
     farmers = {
         culture = mongol
         religion = gelugpa
-        size = 101925
+        size = 31925
+    }
+
+	aristocrats = {
+        culture = ping
+        religion = mahayana
+        size = 2000
     }
 
     clergymen = {
         culture = ping
         religion = mahayana
-        size = 25
+        size = 1025
     }
 
     artisans = {
         culture = ping
         religion = mahayana
-        size = 100
+        size = 3100
     }
 
     farmers = {
         culture = ping
         religion = gelugpa
-        size = 1875
+        size = 71875
     }
 }

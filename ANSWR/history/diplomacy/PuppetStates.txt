@@ -185,6 +185,29 @@ vassal = {
     end_date = 2936.1.1
 }
 
+#Dongbei/Mongolian Rump state
+vassal = {
+    first = MCK
+    second = MGL
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Dongbei/Greater Beijing Frontier Region
+vassal = {
+    first = MCK
+    second = HNN
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Xiya Red Army/Greater Xi'an Frontier Region
+vassal = {
+    first = GMJ
+    second = HUI
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
 #######################
 #        AMERICA      #
 #######################

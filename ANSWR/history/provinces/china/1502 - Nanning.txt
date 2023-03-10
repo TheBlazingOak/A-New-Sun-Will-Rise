@@ -1,6 +1,5 @@
-owner = GNG
-controller = GNG
-add_core = GNG
-add_core = GXI
+owner = YNN
+controller = YNN
+add_core = YNN
 trade_goods = fish
 life_rating = 32

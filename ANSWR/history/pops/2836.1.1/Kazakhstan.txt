@@ -288,64 +288,71 @@
 1595 = {
 
     aristocrats = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 2100
     }
 
     clergymen = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 3250
     }
 
     artisans = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 7300
     }
 
     soldiers = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 2450
     }
 
     farmers = {
+        culture = ping
+        religion = sunni
+        size = 47175
+    }
+	
+	farmers = {
         culture = kazak
         religion = sunni
-        size = 87175
+        size = 40000
     }
+	
 }
 #Urumqi (Tihwa) (332000/83000 POPS)
 1600 = {
 
     aristocrats = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 450
     }
 
     clergymen = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 750
     }
 
     artisans = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 4200
     }
 
     soldiers = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 1200
     }
 
     farmers = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 56250
     }
@@ -354,31 +361,31 @@
 1596 = {
 
     aristocrats = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 1125
     }
 
     clergymen = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 2075
     }
 
     artisans = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 13150
     }
 
     soldiers = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 1075
     }
 
     farmers = {
-        culture = kazak
+        culture = ping
         religion = sunni
         size = 52375
     }

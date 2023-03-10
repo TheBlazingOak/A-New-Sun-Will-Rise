@@ -1,6 +1,6 @@
-owner = MGL
-controller = MGL
-
+owner = TNT
+controller = TNT
+add_core = TNT
 add_core = MGL
 trade_goods = cotton
 life_rating = 32

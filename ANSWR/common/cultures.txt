@@ -2175,18 +2175,26 @@ east_asian = {
         last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
         }
     }
-    miao = {
-        color = {98 67 155}
-        first_names = { Pa Hang Mee Chay Kao Bang Zong Zoua Mai Blong Qin Shen Ka Dia Neng Kak
-        }
-        last_names = { Thao Sao Moua Vue Her Lyfoung Pao Yang Lo Cha Congwen Zhiming Liangyu
-        }
-    }
     min = {
         color = {76 32 200}
         first_names = { Lin Shen Chen Wong Yan Sa Hou Zheng Bing Wu Tan He Du Xue Xu Qin
         }
         last_names = { Zexu Baozhen Baochen Nai-siong Shu Fu Sen Debang Xin Nee Huiyin
+        }
+    }
+
+	hani = {
+		 #!religion = { taoism }
+		 color = { 184 134 11 }
+		 first_names = { Hoang Nong Le Be Van Quoc Quynh The Duc }
+		 last_names = { Thu Manh Trieu Khanh Phung Hau Chan Den Phach Cao }
+	}
+
+	miao = {
+        color = {98 67 155}
+        first_names = { Pa Hang Mee Chay Kao Bang Zong Zoua Mai Blong Qin Shen Ka Dia Neng Kak
+        }
+        last_names = { Thao Sao Moua Vue Her Lyfoung Pao Yang Lo Cha Congwen Zhiming Liangyu
         }
     }
 

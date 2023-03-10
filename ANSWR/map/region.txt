@@ -599,8 +599,6 @@ RUS_2678 = { 2678 1465 2608 } #Lower Bikail
 
 RUS_1079 = { 1078 1079 2670 2671 } #Trans-Baikal
 
-CHI_1082 = { 1082 1083 1085 1084 2617 } #Guanwai - Outer Manchuria
-
 RUS_1182 = { 1182 1183 2610 2702 } #Uralsk
 
 RUS_1194 = { 1194 1196 1192 1205 } #Rogevik
@@ -689,7 +687,7 @@ TIB_1591 = { 1587 1591 1592 1589 1588 1590 1593 } #Himalaya
 
 BUR_1330 = { 1331 1336 1337 1339 } #Pegu
 
-BUR_1334 = { 1335 1333 1338 1340 1332 3365 } #Former Shan States - Yadanabon - Mandalay
+BUR_1334 = { 1335 1333 1338 1340 1332 3365 3372 } #Former Shan States - Yadanabon - Mandalay
 
 BUR_1339 = { 1334 1341 1342 3367} #Kachin
 
@@ -721,7 +719,7 @@ ENG_1261 = { 1263 1251 1305 } #Orissa
 
 ### Indochina
 
-LUA_1356 = { 1356 1360 1357 1361 1358 3366 } #Laos
+LUA_1356 = { 1356 1360 1357 1361 1358 3366 3370 } #Laos
 
 SIA_1366 = { 1364 1368 1363 1362 } #Cambodia
 
@@ -735,7 +733,7 @@ ENG_1384 = { 1384 1385 1390 } #Southern Malaya
 
 ENG_1391 = { 1391 1388 2575 1392 1354 } #Northern Malaya
 
-SIA_1392 = { 1347 1348 1349 2572 1355 } #Ayutthaya
+SIA_1392 = { 1347 1348 1349 2572 1355 3371 } #Ayutthaya
 
 SIA_1352 = { 1352 1353 1344 1343 1320 } #Patani
 
@@ -796,6 +794,8 @@ CHI_1465 = { 1466 1467 2207 } #Urga
 CHI_1468 = { 1468 2679 1599 } #Uliastai
 
 CHI_1470 = { } #South Anhui
+
+CHI_1082 = { 1082 1083 1085 1084 2617 } #Guanwai - Outer Manchuria
 
 CHI_1479 = { 1479 1480 1554 1555 }  #Fengtian - South Manchuria
 

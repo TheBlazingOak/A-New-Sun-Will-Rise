@@ -1,0 +1,556 @@
+#Fengtian Region (2888000)
+#under the rule of China in 1836
+#Mukden (2128000/532000 POPS)
+#PING
+1479 = {
+    aristocrats = {
+        culture = beifaren
+        religion = mahayana
+        size = 3000
+    }
+
+    bureaucrats = {
+        culture = beifaren
+        religion = mahayana
+        size = 1000
+    }
+
+    officers = {
+        culture = beifaren
+        religion = mahayana
+        size = 750
+    }
+
+    aristocrats = {
+        culture = korean
+        religion = mahayana
+        size = 150
+    }
+
+    clergymen = {
+        culture = korean
+        religion = mahayana
+        size = 120
+    }
+
+    artisans = {
+        culture = korean
+        religion = mahayana
+        size = 200
+    }
+
+    soldiers = {
+        culture = korean
+        religion = mahayana
+        size = 200
+    }
+
+    slaves = {
+        culture = korean
+        religion = mahayana
+        size = 91600
+    }
+
+    aristocrats = {
+        culture = beifaren
+        religion = mahayana
+        size = 1025
+    }
+
+    officers = {
+        culture = beifaren
+        religion = mahayana
+        size = 135
+    }
+
+    clergymen = {
+        culture = beifaren
+        religion = mahayana
+        size = 225
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = mahayana
+        size = 5600
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = mahayana
+        size = 1325
+    }
+
+    farmers = {
+        culture = beifaren
+        religion = mahayana
+        size = 145100
+    }
+
+    slaves = {
+        culture = mongol
+        religion = gelugpa
+        size = 31225
+    }
+}
+
+## Xi-Jingping ##
+#Fentian
+#Jinzhou (680000/170000 POPS)
+#PING
+1480 = {
+
+    clergymen = {
+        culture = beifaren
+        religion = mahayana
+        size = 150
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = mahayana
+        size = 700
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = mahayana
+        size = 3500
+    }
+
+    farmers = {
+        culture = beifaren
+        religion = mahayana
+        size = 181150
+    }
+
+    slaves = {
+        culture = mongol
+        religion = gelugpa
+        size = 72720
+    }
+    slaves = {
+        culture = korean
+        religion = mahayana
+        size = 72720
+    }
+}
+#Ninguta (1068000/267000 POPS)
+1554 = {
+
+    clergymen = {
+        culture = beifaren
+        religion = mahayana
+        size = 1400
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = mahayana
+        size = 10000
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = mahayana
+        size = 6000
+    }
+
+    slaves = {
+        culture = mongol
+        religion = gelugpa
+        size = 21150
+    }
+
+    labourers = {
+        culture = beifaren
+        religion = mahayana
+        size = 145700
+    }
+
+    slaves = {
+        culture = korean
+        religion = mahayana
+        size = 98200
+    }
+}
+#Jilin (1136000/284000 POPS)
+1555 = {
+
+    clergymen = {
+        culture = beifaren
+        religion = mahayana
+        size = 1850
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = mahayana
+        size = 700
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = mahayana
+        size = 1200
+    }
+
+    labourers = {
+        culture = beifaren
+        religion = mahayana
+        size = 127550
+    }
+    labourers = {
+        culture = korean
+        religion = mahayana
+        size = 87550
+    }
+    slaves = {
+        culture = mongol
+        religion = gelugpa
+        size = 57150
+    }
+}
+#pingria
+#Qiqihar (2784700/696175 POPS)
+1552 = {
+    aristocrats = {
+        culture = beifaren
+        religion = mahayana
+        size = 3750
+    }
+
+    aristocrats = {
+        culture = mongol
+        religion = gelugpa
+        size = 650
+    }
+
+    bureaucrats = {
+        culture = beifaren
+        religion = mahayana
+        size = 300
+    }
+
+    officers = {
+        culture = beifaren
+        religion = mahayana
+        size = 300
+    }
+
+    clergymen = {
+        culture = beifaren
+        religion = mahayana
+        size = 500
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = mahayana
+        size = 1000
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = mahayana
+        size = 3000
+    }
+
+    labourers = {
+        culture = beifaren
+        religion = mahayana
+        size = 104100
+    }
+
+    slaves = {
+        culture = mongol
+        religion = gelugpa
+        size = 81225
+    }
+
+}
+#Aigun (1524000/381000 POPS)
+1553 = {
+
+    clergymen = {
+        culture = beifaren
+        religion = mahayana
+        size = 300
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = mahayana
+        size = 1900
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = mahayana
+        size = 1200
+    }
+
+    labourers = {
+        culture = beifaren
+        religion = mahayana
+        size = 133950
+    }
+    slaves = {
+        culture = mongol
+        religion = gelugpa
+        size = 29225
+    }
+}
+#Manzhouli (251300/62825 POPS)
+1002 = {
+
+    clergymen = {
+        culture = beifaren
+        religion = mahayana
+        size = 225
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = mahayana
+        size = 750
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = mahayana
+        size = 1100
+    }
+
+    farmers = {
+        culture = beifaren
+        religion = mahayana
+        size = 40800
+    }
+
+    slaves = {
+        culture = mongol
+        religion = gelugpa
+        size = 65000
+    }
+
+}
+
+#Jirim Chuulghan (152000/38000 POPS)
+1533 = {
+
+    clergymen = {
+        culture = mongol
+        religion = gelugpa
+        size = 325
+    }
+
+    artisans = {
+        culture = mongol
+        religion = gelugpa
+        size = 1375
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = gelugpa
+        size = 3000
+    }
+
+    slaves = {
+        culture = mongol
+        religion = gelugpa
+        size = 94650
+    }
+
+    clergymen = {
+        culture = beifaren
+        religion = mahayana
+        size = 200
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = mahayana
+        size = 1000
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = mahayana
+        size = 1100
+    }
+
+    farmers = {
+        culture = beifaren
+        religion = mahayana
+        size = 1035650
+    }
+}
+
+#Amur-Ussuri Region (1348000)
+#Haishenwai (328000/82000 POPS)
+1082 = {
+    aristocrats = {
+        culture = beifaren
+        religion = mahayana
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = beifaren
+        religion = mahayana
+        size = 1200
+    }
+
+    officers = {
+        culture = beifaren
+        religion = mahayana
+        size = 200
+    }
+
+    clergymen = {
+        culture = beifaren
+        religion = mahayana
+        size = 475
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = mahayana
+        size = 3900
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = mahayana
+        size = 1200
+    }
+
+    farmers = {
+        culture = beifaren
+        religion = mahayana
+        size = 131075
+    }
+
+    artisans = {
+        culture = korean
+        religion = mahayana
+        size = 150
+    }
+
+    farmers = {
+        culture = korean
+        religion = mahayana
+        size = 51050
+    }
+}
+#Boli (328000/82000 POPS)
+1083 = {
+
+    clergymen = {
+        culture = beifaren
+        religion = mahayana
+        size = 375
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = mahayana
+        size = 1000
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = mahayana
+        size = 1200
+    }
+
+    farmers = {
+        culture = beifaren
+        religion = mahayana
+        size = 192975
+    }
+}
+#Utchan (18000 POPS)
+1084 = {
+
+    clergymen = {
+        culture = beifaren
+        religion = mahayana
+        size = 150
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = mahayana
+        size = 800
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = mahayana
+        size = 1750
+    }
+
+    farmers = {
+        culture = beifaren
+        religion = mahayana
+        size = 80575
+    }
+}
+#Ulusamudan (372000/93000 POPS)
+1085 = {
+
+    clergymen = {
+        culture = beifaren
+        religion = mahayana
+        size = 500
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = mahayana
+        size = 2000
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = mahayana
+        size = 1200
+    }
+
+    farmers = {
+        culture = beifaren
+        religion = mahayana
+        size = 72375
+    }
+
+}
+#Saghalian Oula (62000 POPS)
+2617 = {
+
+    clergymen = {
+        culture = beifaren
+        religion = mahayana
+        size = 300
+    }
+
+    artisans = {
+        culture = beifaren
+        religion = mahayana
+        size = 1000
+    }
+
+    soldiers = {
+        culture = beifaren
+        religion = mahayana
+        size = 1200
+    }
+
+    farmers = {
+        culture = beifaren
+        religion = mahayana
+        size = 100525
+    }
+}

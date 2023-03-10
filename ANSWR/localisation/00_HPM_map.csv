@@ -204,7 +204,6 @@ PROV1936;Nsukka;;;;;;;;;;;;;;;;;;x;;;;
 PROV2697;Jingkiri;;;;;;;;;;;;;;;;;;x;;;;
 PROV1081;Yakesa;;;;;;;;;;;;;;;;;;x;;;;
 PROV1085;Hailanpao;;;;;;;;;;;;;;;;;x;;;;
-PROV1600;Urumqi;;;;;;;;;;;;;;;;;x;;;;
 PROV2839;Gulf of Patience;;;;;;;;;;;;;;;;;x;;;;
 PROV2831;Soya Strait;;;;;;;;;;;;;;;;;x;;;;
 PROV2830;East Sea;;;;;;;;;;;;;;;;;x;;;;
@@ -230,7 +229,7 @@ PROV2080;Otjivanda;;;;;;;;;;;;;;;;;x;;;;
 PROV1788;Kahone;;;;;;;;;;;;;;;;;x;;;;
 PROV1540;Nantong;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2526;Palmyra and Line Islands;;;;;;;;;;;;;;;;;;;;;;;x
-TIB_1591;Tibetan Plateau;;;;;;;;;;;;;;;;;;;;;;;x
+TIB_1591;Xizang Plateau;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2482;Van Diemen's Land;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2382;Laboulaye;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2640;Gwadar;;;;;;;;;;;;;;;;;;;;;;;x
@@ -1336,3 +1335,25 @@ PROV3360;Nantou;;;;;;;;;;;;x
 PROV3361;Sanya;;;;;;;;;;;;x
 PROV1393;New Brunei;;;;;;;;;;;;x
 PROV1394;New Sarawak;;;;;;;;;;;;x
+PROV3362;Kelabit;;;;;;;;;;;;x
+PROV3363;Tongod;;;;;;;;;;;;x
+PROV3364;Kapoea;;;;;;;;;;;;x
+PROV3365;Kengtung;;;;;;;;;;;;x
+PROV3366;Bokeo-Luangnamtha;;;;;;;;;;;;x
+PROV3367;Dehong;;;;;;;;;;;;x
+PROV3368;Baoshan-Lincang;;;;;;;;;;;;x
+PROV3369;Honghe-Wenshan;;;;;;;;;;;;x
+PROV3370;Oudomxay-Phongsaly;;;;;;;;;;;;x
+PROV3371;Chiang Rai;;;;;;;;;;;;x
+PROV3372;Namsang;;;;;;;;;;;;x
+PROV1598;Yu'tien;;;;;;;;;;;;x
+PROV2607;Ruoqiang;;;;;;;;;;;;x
+PROV1594;Kashi;;;;;;;;;;;;x
+PROV1597;Akesu;;;;;;;;;;;;x
+PROV1587;Chengguan;;;;;;;;;;;;x
+PROV1588;Changdu;;;;;;;;;;;;x
+PROV1589;Rikaze;;;;;;;;;;;;x
+PROV1590;Shannan;;;;;;;;;;;;x
+PROV1592;Ali;;;;;;;;;;;;x
+PROV1599;Hami;;;;;;;;;;;;x
+PROV1600;Dihua;;;;;;;;;;;;x

@@ -1210,3 +1210,191 @@
     }
 
 }
+
+#Namsang (264000/66000 POPS)
+3372 = {
+    aristocrats = {
+        culture = shan
+        religion = theravada
+        size = 500
+    }
+
+    clergymen = {
+        culture = shan
+        religion = theravada
+        size = 500
+    }
+
+    artisans = {
+        culture = shan
+        religion = theravada
+        size = 2500
+    }
+
+    soldiers = {
+        culture = shan
+        religion = theravada
+        size = 500
+    }
+
+    farmers = {
+        culture = shan
+        religion = theravada
+        size = 46000
+    }
+
+    aristocrats = {
+        culture = kachin
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = kachin
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = kachin
+        religion = animist
+        size = 550
+    }
+
+    soldiers = {
+        culture = kachin
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = kachin
+        religion = animist
+        size = 10100
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 75
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 350
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 100
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 6475
+    }
+
+    slaves = {
+        culture = lao
+        religion = theravada
+        size = 7000
+    }
+
+}
+
+#Dehong (264000/66000 POPS)
+3367 = {
+    aristocrats = {
+        culture = shan
+        religion = theravada
+        size = 500
+    }
+
+    clergymen = {
+        culture = shan
+        religion = theravada
+        size = 500
+    }
+
+    artisans = {
+        culture = shan
+        religion = theravada
+        size = 2500
+    }
+
+    soldiers = {
+        culture = shan
+        religion = theravada
+        size = 500
+    }
+
+    farmers = {
+        culture = shan
+        religion = theravada
+        size = 46000
+    }
+
+    aristocrats = {
+        culture = kachin
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = kachin
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = kachin
+        religion = animist
+        size = 550
+    }
+
+    soldiers = {
+        culture = kachin
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = kachin
+        religion = animist
+        size = 10100
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = theravada
+        size = 75
+    }
+
+    artisans = {
+        culture = burmese
+        religion = theravada
+        size = 350
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = theravada
+        size = 100
+    }
+
+    farmers = {
+        culture = burmese
+        religion = theravada
+        size = 6475
+    }
+
+    slaves = {
+        culture = lao
+        religion = theravada
+        size = 7000
+    }
+
+}
