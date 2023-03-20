@@ -2,5 +2,6 @@ owner = SHA
 controller = SHA
 add_core = SHA
 add_core = BUR
-trade_goods = opium
+trade_goods = fruit
+terrain = urban
 life_rating = 35

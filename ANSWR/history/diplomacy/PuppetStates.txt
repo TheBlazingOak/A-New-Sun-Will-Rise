@@ -208,6 +208,27 @@ vassal = {
     start_date = 2836.1.1
     end_date = 2936.1.1
 }
+
+######################
+#		INDIA 		 #
+######################
+
+# Nagaland-Manipur
+vassal = {
+    first = NGL
+    second = MNP
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Rohingyadesh-Bangladesh
+vassal = {
+    first = ROH
+    second = BNG
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
 #######################
 #        AMERICA      #
 #######################

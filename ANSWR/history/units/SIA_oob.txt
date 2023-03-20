@@ -19,8 +19,8 @@ DAI = {
 
 
 army = {
-    name = "Royal Siamese Army"
-    location = 1346
+    name = "Royal Dae Army"
+    location = 1349
     regiment = {
         name= "1. Brigade"
         type = irregular

@@ -943,7 +943,7 @@ muzzle_loaded_rifles = {
     cost = 7200
     unciv_military = yes
     activate_unit = engineer
-
+	
     combat_width = -2
 
     ai_chance = {

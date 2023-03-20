@@ -1588,19 +1588,11 @@ central_asian = {
     }
 }
 
+
+
 south_asian = {
     leader = indian
     unit = IndianGC
-    assamese = {
-        color = {112 134 156}
-        first_names = { Chandraka Purandar Ruchinath Kaganath Dhekial Jogeshwar Sudingphaa Kamaleswar Daman Hao Jama Patalang
-
-        }
-
-        last_names = { Singha Aideo Dogoi Bora Khan Purnananda Phukan
-        }
-    }
-
     bihari = {
         color = {180 75 130}
         first_names = { Maharshi Mahavira Ashtravakra Chanakya Ashoka Samudragupta Vachaspati Vatsyayana Asvaghosa Udayanacharaya
@@ -1608,16 +1600,6 @@ south_asian = {
         }
 
         last_names = { Singh Valmiki Janak Jarasandh Mishra
-
-        }
-    }
-    manipuri = {
-        color = {190 150 240}
-        first_names = { Churachandra Kulachanrda Surachandra Chandrakirti Devendra Nara Genavira Pitambara Marjit Moduchanrda Charajit Harshachandra Chingthang
-
-        }
-
-        last_names = { Singh Khomba Sai
 
         }
     }
@@ -1829,6 +1811,22 @@ indo_iranian = {
 
         last_names = { Dharmasurya Narendrasimha Rajasimha Rajadhirajasimha Doraisami
 
+        }
+    }
+	rohingya = {
+		 #!religion = { sunni }
+		 #color = { 107 142 35 }
+		 color = { 136 154 152 }
+		 first_names = { Hswe Hsö Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun }
+		 last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min }
+	}
+	assamese = {
+        color = {112 134 156}
+        first_names = { Chandraka Purandar Ruchinath Kaganath Dhekial Jogeshwar Sudingphaa Kamaleswar Daman Hao Jama Patalang
+
+        }
+
+        last_names = { Singha Aideo Dogoi Bora Khan Purnananda Phukan
         }
     }
 }
@@ -2090,7 +2088,35 @@ southeast_asian = {
 
         }
     }
-}
+	manipuri = {
+        color = {190 150 240}
+        first_names = { Churachandra Kulachanrda Surachandra Chandrakirti Devendra Nara Genavira Pitambara Marjit Moduchanrda Charajit Harshachandra Chingthang
+
+        }
+
+        last_names = { Singh Khomba Sai
+
+        }
+    }
+	naga = {
+		 #!religion = { protestant }
+		 color = { 201 0 0 }
+		 first_names = { Hswe Hsö Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun }
+		 last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min }
+	}
+	khasi = {
+		 #!religion = { protestant }
+		 color = { 106 90 205 }
+		 first_names = { Hswe Hsö Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun }
+		 last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min }
+	}
+	mizoram = {
+		 #!religion = { protestant }
+		 color = { 153 50 204 }
+		 first_names = { Hswe Hsö Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun }
+		 last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min }
+	}
+}	
 
 east_asian = {
     leader = asian
@@ -3791,4 +3817,11 @@ southern_african = {
         last_names = { kaMpande kaMahole KaMdlela waMswati Buthelezei Khoza kaSihayo kaMvundlana kaZikhala kaMaphitha
         }
     }
+	
+	coloured = { # tag = _SAF
+		 #!religion = { protestant }
+		 color = { 244 164 96 }
+		 first_names = { Cetshwayo Ntshingwayo Dabulamanzi Sikukuni Sihayo Mavumengwana Mbilini Mnyamana Hamu Gawozi Mgojana Zibhebhu Hehlokazulu Manyonyoba Mahubulwana Mkhosana Dingiswayo Senzagkhona Sekhukhune Sekethwayo Somopho }
+		 last_names = { kaMpande kaMahole KaMdlela waMswati Buthelezei Khoza kaSihayo kaMvundlana kaZikhala kaMaphitha }
+	}
 }

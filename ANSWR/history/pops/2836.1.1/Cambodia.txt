@@ -199,7 +199,7 @@
     }
 }
 #under the rule of Siam in 1836
-#Battambang (152000/48000 POPS)
+#Battambang (93080 POPS)
 1366 = {
     aristocrats = {
         culture = thai
@@ -270,7 +270,7 @@
     farmers = {
         culture = khmer
         religion = theravada
-        size = 39425
+        size = 79425
     }
 
     slaves = {

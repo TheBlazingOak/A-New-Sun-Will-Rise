@@ -484,7 +484,6 @@ SIA_1352;Pattani;;;;;;;;;;;;x
 SIA_1355;Shan;;;;;;;;;;;;x
 LUA_1356;Laos;;;;;;;;;;;;x
 SIA_1358;Isan;;;;;;;;;;;;x
-PROV1360;Xiangabouli;;;;;;;;;;;;x
 DAI_1369;Tonkin;;;;;;;;;;;;x
 DAI_1375;Annam;;;;;;;;;;;;x
 DAI_1380;Cochinchina;;;;;;;;;;;;x
@@ -663,7 +662,7 @@ SIA_1352;Pattani;;;;;;;;;;;;x
 SIA_1355;Shan;;;;;;;;;;;;x
 LUA_1356;Laos;;;;;;;;;;;;x
 SIA_1358;Isan;;;;;;;;;;;;x
-PROV1360;Xiangabouli;;;;;;;;;;;;x
+PROV1360;Xayaburi;;;;;;;;;;;;x
 DAI_1369;Tonkin;;;;;;;;;;;;x
 DAI_1375;Annam;;;;;;;;;;;;x
 DAI_1380;Cochinchina;;;;;;;;;;;;x
@@ -1247,15 +1246,15 @@ PROV927;Sur-marrati;;;;;;;;;;;;x
 PROV1457;Naga;;;;;;;;;;;;x
 PROV3333;Tanay;;;;;;;;;;;;x
 PROV3336;Cabanatuan;;;;;;;;;;;;x
-PROV3340;Ibaguiow;;;;;;;;;;;;x
-PROV3334;Upper Subc;;;;;;;;;;;;x
-PROV1455;Pa;;;;;;;;;;;;x
-PROV3332;Upper Lucina;;;;;;;;;;;;x
+PROV3340;Baguio;;;;;;;;;;;;x
+PROV3334;Upper Subic;;;;;;;;;;;;x
+PROV1455;Lipa;;;;;;;;;;;;x
+PROV3332;Upper Lucena;;;;;;;;;;;;x
 PROV3335;Upper Bacolod;;;;;;;;;;;;x
-PROV3337;Upper Tagblaran;;;;;;;;;;;;x
-PROV3338;Maraw;;;;;;;;;;;;x
-PROV3339;Upper Apar;;;;;;;;;;;;x
-PROV3341;UpperPalo;;;;;;;;;;;;x
+PROV3337;Upper Tagbilaran;;;;;;;;;;;;x
+PROV3338;Marawi;;;;;;;;;;;;x
+PROV3339;New Aparri;;;;;;;;;;;;x
+PROV3341;New Palo;;;;;;;;;;;;x
 ETH_1859;Onneelafa;;;;;;;;;;;;x
 PROV1859;Onnee City;;;;;;;;;;;;x
 ETH_1853;Ma'ibeli Meretochi;;;;;;;;;;;;x
@@ -1268,9 +1267,9 @@ TOR_1784;Fleuvmar;;;;;;;;;;;;x
 WOL_1785;Marcage;;;;;;;;;;;;x
 PROV12;Babbangabas;;;;;;;;;;;;x
 PROV2589;Hanyamai-Sauri;;;;;;;;;;;;x
-PROV1463;Cagyan Doro;;;;;;;;;;;;x
-PROV1462;Fort Pilaria;;;;;;;;;;;;x
-PROV1459;Puer Prin;;;;;;;;;;;;x
+PROV1463;New Cagayan De Oro;;;;;;;;;;;;x
+PROV1462;Fuerte Pilaria;;;;;;;;;;;;x
+PROV1459;Port-of-Captains;;;;;;;;;;;;x
 PROV3342;Rise-Artvin;;;;;;;;;;;;x
 PROV3343;Nalchik;;;;;;;;;;;;x
 PROV3344;Armavir;;;;;;;;;;;;x
@@ -1345,7 +1344,7 @@ PROV3368;Baoshan-Lincang;;;;;;;;;;;;x
 PROV3369;Honghe-Wenshan;;;;;;;;;;;;x
 PROV3370;Oudomxay-Phongsaly;;;;;;;;;;;;x
 PROV3371;Chiang Rai;;;;;;;;;;;;x
-PROV3372;Namsang;;;;;;;;;;;;x
+PROV3372;Loikaw;;;;;;;;;;;;x
 PROV1598;Yu'tien;;;;;;;;;;;;x
 PROV2607;Ruoqiang;;;;;;;;;;;;x
 PROV1594;Kashi;;;;;;;;;;;;x
@@ -1357,3 +1356,44 @@ PROV1590;Shannan;;;;;;;;;;;;x
 PROV1592;Ali;;;;;;;;;;;;x
 PROV1599;Hami;;;;;;;;;;;;x
 PROV1600;Dihua;;;;;;;;;;;;x
+PROV1346;Nakhon-Nayok;;;;;;;;;;;;x
+PROV3373;Phetchabun and Loei;;;;;;;;;;;;x
+PROV3374;Maha Sarakham,Kohn Kaen, Roi Et and Kalasin;;;;;;;;;;;;x
+PROV3375;Phitsanulok and Phitchit;;;;;;;;;;;;x
+PROV3376;Uttaradit;;;;;;;;;;;;x
+PROV1348;Kampaeng Phet;;;;;;;;;;;;x
+PROV1347;Nakhon Sawan;;;;;;;;;;;;x
+PROV1344;Prachuap Khiri Khan;;;;;;;;;;;;x
+PROV1343;New Molamyin;;;;;;;;;;;;x
+PROV3377;Se Kong and Attapu;;;;;;;;;;;;x
+PROV3378;Dich Vu;;;;;;;;;;;;x
+PROV3379;Phonsavan;;;;;;;;;;;;x
+PROV3380;Nguoi Dung Dau Bo Toc;;;;;;;;;;;;x
+PROV3381;Sagaing;;;;;;;;;;;;x
+SIA_2572;Lan Na;;;;;;;;;;;;x
+SIA_1350;Nam Lao;;;;;;;;;;;;x
+DAI_1361;Savannakhet;;;;;;;;;;;;x
+PROV1333;New Hpa-An;;;;;;;;;;;;x
+PROV3372;New Loikaw;;;;;;;;;;;;x
+PROV1332;New Bago;;;;;;;;;;;;x
+PROV1335;Naypyidaw;;;;;;;;;;;;x
+PROV1334;Mandalay;;;;;;;;;;;;x
+PROV1337;New Pyay;;;;;;;;;;;;x
+PROV1331;Daksina Bandara;;;;;;;;;;;;x
+PROV1339;Hakha;;;;;;;;;;;;x
+PROV1345;Bijayera Sthana;;;;;;;;;;;;x
+ROH_1345;Greater Rohang;;;;;;;;;;;;x
+PROV3382;Purba Darga;;;;;;;;;;;;x
+PROV1339;Abdulera Bisrama;;;;;;;;;;;;x
+PROV3383;Kohima;;;;;;;;;;;;x
+PROV1254;Shillong;;;;;;;;;;;;x
+PROV1257;Aizawl;;;;;;;;;;;;x
+PROV2566;New Chittagong;;;;;;;;;;;;x
+PROV1366;Xiem Riep;;;;;;;;;;;;x
+PROV1362;Hang Ngay;;;;;;;;;;;;x
+PROV1361;Den Kaysone Phomsong;;;;;;;;;;;;x
+PROV1357;Vieng Chan;;;;;;;;;;;;x
+PROV1356;Luong Pha Bang;;;;;;;;;;;;x
+PROV1368;Tuong Duong;;;;;;;;;;;;x
+PROV1367;Nam Moi;;;;;;;;;;;;x
+PROV1380;Kratie;;;;;;;;;;;;x

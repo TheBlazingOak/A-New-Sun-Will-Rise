@@ -97,6 +97,28 @@ army = {
 }
 
 army = {
+    name = "Polish Eastern Palatinate"
+    location = 719 #Bialystock
+   regiment = {
+        name= "I.Paladin"
+        type = guard
+        home = 719
+    }
+
+    regiment = {
+        name= "II.Paladin"
+        type = guard
+        home = 937
+    }
+
+    regiment = {
+        name= "III.Paladin"
+        type = guard
+        home = 936
+    }
+}
+
+army = {
     name = "Krainakrólów Armia"
     location = 695 #Krainakrólów
     regiment = {

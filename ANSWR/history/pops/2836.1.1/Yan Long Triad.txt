@@ -44,7 +44,7 @@
         size = 76000
     }
 }
-#Kengtung (42908/10727 POPS)
+#Kengtung (42908/30727 POPS)
 3365 = {
 	aristocrats = {
         culture = cantan
@@ -73,7 +73,19 @@
     slaves = {
         culture = yue
         religion = mahayana
-        size = 6500
+        size = 14000
+    }
+	
+	slaves = {
+        culture = shan
+        religion = theravada
+        size = 7500
+    }
+	
+	slaves = {
+        culture = hani
+        religion = mahayana
+        size = 5000
     }
 }
 
@@ -198,4 +210,180 @@
         religion = theravada
         size = 23000
     }
+}
+
+#Shan Region (680000)
+#Under Burma rule 1836
+#Taunggye (816000/204000 POPS)
+1338 = {
+    aristocrats = {
+        culture = cantan
+        religion = mahayana
+        size = 900
+    }
+
+    bureaucrats = {
+        culture = cantan
+        religion = mahayana
+        size = 225
+    }
+
+    officers = {
+        culture = cantan
+        religion = mahayana
+        size = 175
+    }
+
+    clergymen = {
+        culture = cantan
+        religion = mahayana
+        size = 850
+    }
+
+    artisans = {
+        culture = cantan
+        religion = mahayana
+        size = 4250
+    }
+
+    slaves = {
+        culture = shan
+        religion = theravada
+        size = 45250
+    }
+
+	slaves = {
+        culture = yue
+        religion = theravada
+        size = 30000
+    }
+
+    aristocrats = {
+        culture = cantan
+        religion = mahayana
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = cantan
+        religion = mahayana
+        size = 100
+    }
+
+    officers = {
+        culture = cantan
+        religion = mahayana
+        size = 25
+    }
+
+    clergymen = {
+        culture = cantan
+        religion = mahayana
+        size = 200
+    }
+
+    artisans = {
+        culture = cantan
+        religion = mahayana
+        size = 3100
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = mahayana
+        size = 8725
+    }
+
+    slaves = {
+        culture = burmese
+        religion = theravada
+        size = 58300
+    }
+
+	farmers = {
+        culture = cantan
+        religion = mahayana
+        size = 50000
+    }
+
+    slaves = {
+        culture = thai
+        religion = theravada
+        size = 15000
+    }
+}
+#Lashio (400000/100000 POPS)
+1340 = {
+    aristocrats = {
+        culture = cantan
+        religion = mahayana
+        size = 500
+    }
+
+    clergymen = {
+        culture = cantan
+        religion = mahayana
+        size = 500
+    }
+
+    artisans = {
+        culture = cantan
+        religion = mahayana
+        size = 2500
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = mahayana
+        size = 3500
+    }
+
+    aristocrats = {
+        culture = cantan
+        religion = mahayana
+        size = 100
+    }
+
+    clergymen = {
+        culture = cantan
+        religion = mahayana
+        size = 175
+    }
+
+    artisans = {
+        culture = cantan
+        religion = mahayana
+        size = 900
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = mahayana
+        size = 250
+    }
+
+	slaves = {
+        culture = shan
+        religion = theravada
+        size = 38000
+    }
+
+    slaves = {
+        culture = kachin
+        religion = animist
+        size = 10100
+    }
+
+    slaves = {
+        culture = burmese
+        religion = theravada
+        size = 26475
+    }
+	
+	slaves = {
+        culture = yue
+        religion = theravada
+        size = 20000
+    }
+
 }

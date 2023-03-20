@@ -165,6 +165,10 @@ TRG        = "countries/Taureg.txt"
 ##Middle East East
 OTA        = "countries/Ostanatonlien.txt"
 
+##India ANSWR
+ROH		   = "countries/Rohingya.txt"
+NGL		   = "countries/Nagaland.txt"
+
 ##Formables
 OUD        ="countries/Oudrijk.txt"
 RUS        = "countries/Russia.txt"
