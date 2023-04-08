@@ -48,7 +48,7 @@ party = {
 
 party = {
     name = "HOL_liberal_3"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -93,7 +93,7 @@ party = {
 
 party = {
     name = "HOL_socialist_1"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 2881.1.1
 
     ideology = socialist
@@ -109,7 +109,7 @@ party = {
 party = {
     name = "HOL_socialist_2"
     start_date = 2881.1.1
-    end_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = socialist
 
@@ -183,7 +183,7 @@ party = {
 
 party = {
     name = "HOL_communist_2"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = communist
@@ -198,7 +198,7 @@ party = {
 
 party = {
     name = "HOL_fascist"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = fascist

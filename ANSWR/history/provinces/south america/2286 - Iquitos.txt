@@ -1,2 +1,5 @@
+owner = SPU
+controller = SPU
+add_core = SPU
 trade_goods = rubber
 life_rating = 15

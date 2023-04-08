@@ -33,7 +33,7 @@ party = {
 
 party = {
     name = "FRA_conservative"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 2870.1.1
 
     ideology = conservative
@@ -48,7 +48,7 @@ party = {
 
 party = {
     name = "FRA_socialist"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 2870.1.1
 
     ideology = socialist
@@ -63,7 +63,7 @@ party = {
 
 party = {
     name = "FRA_liberal_2"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -93,7 +93,7 @@ party = {
 
 party = {
     name = "FRA_conservative_3"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -153,7 +153,7 @@ party = {
 
 party = {
     name = "FRA_socialist_2"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 2905.1.1
 
     ideology = socialist
@@ -168,7 +168,7 @@ party = {
 
 party = {
     name = "FRA_communist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = communist
@@ -213,7 +213,7 @@ party = {
 
 party = {
     name = "FRA_socialist_3"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = socialist
@@ -228,7 +228,7 @@ party = {
 
 party = {
     name = "FRA_fascist"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = fascist

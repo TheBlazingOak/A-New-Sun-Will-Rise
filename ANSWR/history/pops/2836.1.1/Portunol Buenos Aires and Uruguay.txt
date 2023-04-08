@@ -1,0 +1,265 @@
+
+#Buenos Aires Region (272000)
+#Under rule of Argentina 1836
+#Junin (56000/14000 POPS)
+2349 = {
+    aristocrats = {
+        culture = portunol
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = portunol
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = portunol
+        religion = catholic
+        size = 400
+    }
+
+    soldiers = {
+        culture = portunol
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = portunol
+        religion = catholic
+        size = 12550
+    }
+}
+#Azul (12000/3000 POPS)
+2350 = {
+    aristocrats = {
+        culture = portunol
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = portunol
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = portunol
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = portunol
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = portunol
+        religion = catholic
+        size = 6700
+    }
+}
+#La Plata (4000/1000 POPS)
+2351 = {
+    aristocrats = {
+        culture = portunol
+        religion = catholic
+        size = 115
+    }
+
+    clergymen = {
+        culture = portunol
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = portunol
+        religion = catholic
+        size = 750
+    }
+
+    soldiers = {
+        culture = portunol
+        religion = catholic
+        size = 2000
+    }    
+
+    farmers = {
+        culture = portunol
+        religion = catholic
+        size = 22500
+    }
+}
+#Mar del Plata (12000/3000 POPS)
+2352 = {
+    
+    bureaucrats = {
+        culture = portunol
+        religion = catholic
+        size = 500
+    }
+
+    aristocrats = {
+        culture = portunol
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = portunol
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = portunol
+        religion = catholic
+        size = 400
+    }
+
+    soldiers = {
+        culture = portunol
+        religion = catholic
+        size = 3250
+    }
+
+    farmers = {
+        culture = portunol
+        religion = catholic
+        size = 23700
+    }
+}
+#Under loose authority of Argentina 1836
+#Trenque Lanquen (12000/9000 POPS)
+2353 = {
+    clergymen = {
+        culture = portunol
+        religion = catholic
+        size = 125
+    }
+
+
+    farmers = {
+        culture = portunol
+        religion = catholic
+        size = 17900
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = catholic
+        size = 225
+    }
+    artisans = {
+        culture = portunol
+        religion = catholic
+        size = 1400
+    }
+
+    soldiers = {
+        culture = portunol
+        religion = catholic
+        size = 2000
+    }    
+}
+#Bahia Blanca (24000/6000 POPS)
+2354 = {
+    clergymen = {
+        culture = portunol
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = portunol
+        religion = catholic
+        size = 9725
+    }
+
+    aristocrats = {
+        culture = portunol
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = portunol
+        religion = catholic
+        size = 400
+    }
+
+    soldiers = {
+        culture = portunol
+        religion = catholic
+        size = 1000
+    }
+
+}
+#Carmen (20000/5000 POPS)
+2355 = {
+
+    clergymen = {
+        culture = portunol
+        religion = catholic
+        size = 250
+    }
+
+    aristocrats = {
+        culture = portunol
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = portunol
+        religion = catholic
+        size = 1400
+    }
+
+    soldiers = {
+        culture = portunol
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = portunol
+        religion = catholic
+        size = 20875
+    }
+
+}
+#Rosario (8000/2000 POPS)
+2363 = {
+    aristocrats = {
+        culture = portunol
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = portunol
+        religion = catholic
+        size = 50
+    }
+
+    soldiers = {
+        culture = portunol
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = portunol
+        religion = catholic
+        size = 500
+    }
+
+}

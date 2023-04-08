@@ -283,7 +283,7 @@ country_event = {
             trigger = { has_country_flag = rom_event_8 } 
 
             option = {
-                name = {"EVTOPTA223007"}
+                name = "EVTOPTA223007"
                 any_pop = { consciousness = -5}
 
 

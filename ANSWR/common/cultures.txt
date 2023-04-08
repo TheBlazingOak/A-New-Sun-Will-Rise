@@ -3037,6 +3037,43 @@ south_american_cultures = {
         Guilarte "La Mar" Latorre Lynch Melgarejo Monje Montero Montes Montt Orbegoso
         Pezet Rebolledo Ruíz-Tagle Salaverry "Santa María" Siles Sotomayor Toro Valencia Zañartu Zapata
         }
+		
+		last_names = { Aritomo Goro Gentaro Gonnohyoe Heihachiro Hiroshi Hikonojo Hyoe Hayao Iwao Jiro Jinzaburo Kiyotaka Kuranosuke Kozo Kantaro Koichiro Kagenori Kageaki Kotohito Keisuke Kazushige Kenkichi Maresuke Masujiro Michisura Masatake Mitsuomi Mitsue Mineo Nariaki Nobuyoshi Rokuro Sukeyuki Sukenori Shoin Sumiyoshi Samata Soroku Shichiro Shigeto Sotokichi Shigeru Sadao Shinsaku Takayoshi Takamori Toshimichi Tsugumichi Tadakuni Tomonosuke Taro Toshiyoshi Tetsutaro Taruhito Takeaki Tamemoto Tomasaburo Yoshika Yoshinobu Yoshimichi Yoshida Yasukata Yahachi Yusaku Yoshifuru Yoshinori Yasuyoshi Ieyasu
+        }
+    }
+	
+	nikkeijinperu = {
+        color = {180 219 75}
+        first_names = { Adolfo Agustín Alejandro Andrés Aníbal Antonio Bartolomé Bernardo David Diego
+        Domingo Eduardo Emiliano Emilio Enrique Esteban Eusebio Federico Felipe Francisco
+        Germán Hernando Hilarión Ignacio Isidoro Ismael Jorge José "José Miguel" Juan
+        "Juan Antonio" "Juan Francisco" Justo Ladislao Luis Manuel Mariano Miguel Narciso
+        Nicolás Pablo Patricio Pedro Ramón Rufino Ruperto Santiago Sebastián Severino Tomás
+        }
+
+		last_names = { Akechi Arisato Aritomo Asahino Goro Gentaro Gonnohyoe Heihachiro Hiroshi Hikonojo Hyoe Hayao Iwao Jiro Jinzaburo Fujimori Kiyotaka 
+		Kuranosuke Kozo Kantaro Koichiro Kagenori Kageaki Kotohito Keisuke Kazushige Kenkichi Kikuchi Maresuke Masujiro Michisura 
+		Masatake Mitsuomi Mitsue Mineo Nariaki Nobuyoshi Rokuro Sukeyuki Sukenori Shoin Sumiyoshi Samata Soroku Shichiro Shigeto
+		Sotokichi Shigeru Sadao Shinsaku Takayoshi Takamori Toshimichi Tsugumichi Tadakuni Tomonosuke Taro Toshiyoshi Tetsutaro Taruhito Takeaki 
+		Tamemoto Tomasaburo Yoshika Yoshinobu Yoshimichi Yoshida Yasukata Yahachi Yusaku Yoshifuru Yoshinori Yasuyoshi
+        }
+    }
+	
+	portunol = {
+        color = {90 211 140}
+        first_names = {  Adolfo Agustín Alejandro Andrés Aníbal Antonio Bartolomé Bernardo David Diego
+        Domingo Eduardo Emiliano Emilio Enrique Esteban Eusebio Federico Felipe Francisco
+        Germán Hernando Hilarión Ignacio Isidoro Ismael Jorge José "José Miguel" Juan
+        "Juan Antonio" "Juan Francisco" Justo Ladislao Luis Manuel Mariano Miguel Narciso
+        Nicolás Pablo Patricio Pedro Ramón Rufino Ruperto Santiago Sebastián Severino Tomás
+        }
+
+        last_names = { Barreto Bernardes Brandão Bras "Cabral da Silva" Costa "da Camara"
+        "da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+        "de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
+        Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
+        Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas
+        }
     }
 }
 

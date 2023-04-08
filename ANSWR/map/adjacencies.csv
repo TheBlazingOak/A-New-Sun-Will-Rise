@@ -244,6 +244,9 @@ From;To;Type;Through;Data;Comment
 1339;1259;impassable;0;0;scary mountain
 1339;1345;impassable;0;0;scary mountain
 3383;3381;impassable;0;0;scary mountain
+2288;2287;impassable;0;0;scary mountain
+2288;3385;impassable;0;0;scary mountain
+2290;3393;impassable;0;0;scary mountain
 
 #Alps
 #Siberia

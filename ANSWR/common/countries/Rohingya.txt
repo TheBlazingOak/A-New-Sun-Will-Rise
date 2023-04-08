@@ -19,7 +19,7 @@ party = {
 party = {
     name = "BNG_liberal"
     start_date = 2820.1.1
-    end_date = 2936.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -63,7 +63,7 @@ party = {
 
 party = {
     name = "BNG_socialist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = socialist
@@ -78,7 +78,7 @@ party = {
 
 party = {
     name = "BNG_communist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = communist
@@ -93,7 +93,7 @@ party = {
 
 party = {
     name = "BNG_fascist"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = fascist
@@ -107,30 +107,21 @@ party = {
 }
 
 unit_names = {
-	carrier = {
+	dreadnought = {
 		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
 	}
-	transportship = {
-	}
-	modern_frigate = {
-		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
+	clipper_transport = {
 	}
 	cruiser = {
-		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
-	}
-	modern_cruiser = {
 		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
 	}
 	frigate = {
 		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
 	}
-	modern_destroyer = {
-		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
-	}
 	destroyer = {
 		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
 	}
-	submarine = {
+	ironclad = {
 		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
 	}
 

@@ -1,0 +1,6 @@
+owner = SPU
+controller = SPU
+add_core = ECU
+add_core = SPU
+trade_goods = timber
+life_rating = 35

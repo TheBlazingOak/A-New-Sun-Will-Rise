@@ -78,7 +78,7 @@ party = {
 
 party = {
     name = "ENG_communist"
-    start_date = 2860.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = communist

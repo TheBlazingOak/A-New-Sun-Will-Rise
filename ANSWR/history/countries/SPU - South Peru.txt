@@ -1,7 +1,9 @@
-capital = 2578
-primary_culture = pacinian
+capital = 2293
+primary_culture = quechua
+culture = pacinian
+culture = amazonian
 religion = catholic
-government = presidential_dictatorship
+government = proletarian_dictatorship
 plurality = 25.0
 nationalvalue = nv_equality
 literacy = 0.09
@@ -38,7 +40,7 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = PEU_conservative
+ruling_party = PEU_communist
 upper_house = {
     fascist = 0
     liberal = 29

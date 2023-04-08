@@ -18,7 +18,7 @@ party = {
 party = {
     name = "HEJ_liberal"
     start_date = 2820.1.1
-    end_date = 2936.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -62,7 +62,7 @@ party = {
 
 party = {
     name = "HEJ_socialist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = socialist
@@ -77,7 +77,7 @@ party = {
 
 party = {
     name = "HEJ_communist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = communist
@@ -92,7 +92,7 @@ party = {
 
 party = {
     name = "HEJ_fascist"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = fascist

@@ -48,7 +48,7 @@ party = {
 
 party = {
     name = "FRO_socialist" # Javnaðarflokkurin
-    start_date = 2848.1.1 # Actually founded in 1925
+    start_date = 2836.1.1 # Actually founded in 1925
     end_date = 3000.1.1
 
     ideology = socialist
@@ -80,7 +80,7 @@ party = {
 
 party = {
     name = "FRO_communist" # Kommunistiski Flokkur Føroya
-    start_date = 2848.1.1 # Anachronistic
+    start_date = 2836.1.1 # Anachronistic
     end_date = 3000.1.1
 
     ideology = communist
@@ -95,7 +95,7 @@ party = {
 
 party = {
     name = "FRO_fascist" # Loysingarflokkurin
-    start_date = 2900.1.1 # Actually founded in 1932
+    start_date = 2836.1.1 # Actually founded in 1932
     end_date = 3000.1.1
 
     ideology = fascist

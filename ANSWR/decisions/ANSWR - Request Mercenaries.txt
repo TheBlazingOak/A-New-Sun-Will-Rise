@@ -1,6 +1,6 @@
-political_decisions = {
+#political_decisions = {
 
-	request_volunteers = {
+	#request_volunteers = {
 		picture = "request_volunteers"
 		potential = {
 			war = yes
@@ -36,9 +36,9 @@ political_decisions = {
 			}
 			add_country_modifier = { name = requested_volunteers duration = 365 }
 		}
-		ai_will_do = {
+		#ai_will_do = {
 			factor = 1
-		}
-	}
+		#}
+	#}
 	
-}
+#}

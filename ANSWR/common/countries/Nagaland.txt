@@ -18,7 +18,7 @@ party = {
 party = {
     name = "HND_liberal"
     start_date = 2820.1.1
-    end_date = 2936.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -62,7 +62,7 @@ party = {
 
 party = {
     name = "HND_socialist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = socialist
@@ -77,7 +77,7 @@ party = {
 
 party = {
     name = "HND_communist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = communist
@@ -92,7 +92,7 @@ party = {
 
 party = {
     name = "HND_fascist"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = fascist
@@ -106,30 +106,30 @@ party = {
 }
 
 unit_names = {
-	carrier = {
+	dreadnought = {
 		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
 	}
-	transportship = {
-	}
-	modern_frigate = {
-		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+	clipper_transport = {
 	}
 	cruiser = {
 		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
 	}
-	modern_cruiser = {
+	battleship = {
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+	}
+	manowar = {
 		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
 	}
 	frigate = {
 		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
 	}
-	modern_destroyer = {
+	ironclad = {
 		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
 	}
-	destroyer = {
+	frigate = {
 		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
 	}
-	submarine = {
+	monitor = {
 		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
 	}
 

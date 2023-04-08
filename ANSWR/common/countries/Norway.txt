@@ -94,7 +94,7 @@ party = {
 
 party = {
     name = "NOR_conservative_5" #Frisinnede Venstre
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 1933.9.4
 
     ideology = conservative
@@ -229,7 +229,7 @@ party = {
 
 party = {
     name = "NOR_communist" #Communists
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 1919.1.1
 
     ideology = communist
@@ -274,7 +274,7 @@ party = {
 
 party = {
     name = "NOR_fascist" #Nationalists
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 1933.1.1
 
     ideology = fascist

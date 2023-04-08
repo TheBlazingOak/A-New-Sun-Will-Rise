@@ -240,3 +240,11 @@ vassal = {
     start_date = 2836.1.1
     end_date = 2850.1.1
 }
+
+#Arequipa-Peru/Sendero Luminoso Cartel
+vassal = {
+	first = PEU
+	second = PBC
+	start_date = 2836.1.1
+	end_date = 2900.1.1
+}

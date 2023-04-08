@@ -34,7 +34,7 @@ party = {
 party = {
     name = "FRA_liberal" #Républicain
     start_date = 2830.1.1
-    end_date = 2848.1.1
+    end_date = 2836.1.1
 
     ideology = liberal
 
@@ -48,7 +48,7 @@ party = {
 
 party = {
     name = "FRA_liberal_2" #Union libérale
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 1870.1.1
 
     ideology = liberal
@@ -79,7 +79,7 @@ party = {
 party = {
     name = "FRA_conservative" #Orléaniste
     start_date = 2830.1.1
-    end_date = 2848.1.1
+    end_date = 2836.1.1
 
     ideology = conservative
 
@@ -93,7 +93,7 @@ party = {
 
 party = {
     name = "FRA_conservative_2" #Bonapartiste
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 1885.1.1
 
     ideology = conservative
@@ -108,7 +108,7 @@ party = {
 
 party = {
     name = "FRA_conservative_3" #Républicain modéré
-    start_date = 2860.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -168,7 +168,7 @@ party = {
 
 party = {
     name = "FRA_socialist_2" #Possibilistes
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 1870.1.1
 
     ideology = socialist
@@ -183,7 +183,7 @@ party = {
 
 party = {
     name = "FRA_socialist_3" #SFIO
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = socialist
@@ -213,7 +213,7 @@ party = {
 
 party = {
     name = "FRA_communist" #Parti Ouvrier Français
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = communist
@@ -228,7 +228,7 @@ party = {
 
 party = {
     name = "FRA_fascist" #Fascists
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = fascist

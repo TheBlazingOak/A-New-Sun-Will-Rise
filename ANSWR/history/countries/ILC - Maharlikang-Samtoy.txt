@@ -3,7 +3,7 @@ primary_culture = macoyan
 religion = catholic
 government = fascist_dictatorship
 plurality = 0.0
-nationalvalue = nv_equality
+nationalvalue = nv_order
 literacy = 0.28
 civilized = no
 
@@ -37,7 +37,7 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = PHL_conservative
+ruling_party = PHL_fascist
 last_election = 1834.1.1
 upper_house = {
     fascist = 0

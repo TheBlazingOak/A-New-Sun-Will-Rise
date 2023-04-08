@@ -18,7 +18,7 @@ party = {
 
 party = {
     name = "CHI_conservative_2"
-    start_date = 2861.1.1
+    start_date = 2836.1.1
     end_date = 1895.1.1
 
     ideology = conservative
@@ -123,7 +123,7 @@ party = {
 
 party = {
     name = "CHI_liberal_4"
-    start_date = 2860.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -139,7 +139,7 @@ party = {
 party = {
     name = "CHI_reactionary"
     start_date = 2830.1.1
-    end_date = 2900.1.1
+    end_date = 3000.1.1
 
     ideology = reactionary
 
@@ -183,7 +183,7 @@ party = {
 
 party = {
     name = "CHI_socialist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = socialist
@@ -213,7 +213,7 @@ party = {
 
 party = {
     name = "CHI_fascist"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = fascist

@@ -1,609 +1,754 @@
-#Atacama Region (164000) #see Peru.txt for balance of Region
-#Ruled by Buliwya 2836
-#Antofagasta (80000/20000 POPS)
-2305 = {
+#Cusco Region (404000)
+#Ruled by Peru 1836
+#Cusco (228000/57000 POPS)
+2302 = {
     aristocrats = {
+        culture = quechua
+        religion = animist
+        size = 450
+    }
+
+    slaves = {
         culture = pacinian
-        religion = catholic
-        size = 50
+        religion = animist
+        size = 10800
     }
 
     bureaucrats = {
-        culture = pacinian
-        religion = catholic
-        size = 5
+        culture = quechua
+        religion = animist
+        size = 500
     }
 
     officers = {
-        culture = pacinian
-        religion = catholic
-        size = 5
+        culture = quechua
+        religion = animist
+        size = 200
     }
 
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 1100
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 1100
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 11625
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = quechua
+        religion = animist
+        size = 2100
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 44275
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = animist
+        size = 6000
+    }
+}
+#Puno (77403 POPS)
+2303 = {
+    aristocrats = {
+        culture = quechua
+        religion = animist
+        size = 575
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = animist
         size = 150
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 10025
+    }
+
+    slaves = {
+        culture = quechua
+        religion = animist
+        size = 2800
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 3150
+    }
+
+    soldiers = {
+        culture = aimara
+        religion = animist
+        size = 2500
+    }
+
+    farmers = {
+        culture = aimara
+        religion = animist
+        size = 58500
+    }
+}
+
+#Atacama Region (164000) #see Peru.txt for balance of Region
+#Ruled by Buliwya 2836
+#Antofagasta (22498 POPS)
+2305 = {
+    aristocrats = {
+        culture = quechua
+        religion = animist
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = quechua
+        religion = animist
+        size = 5
+    }
+
+    officers = {
+        culture = quechua
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = quechua
+        religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 75
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 4900
     }
 
     clergymen = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 300
     }
 
     soldiers = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     farmers = {
         culture = aimara
-        religion = catholic
-        size = 1225
+        religion = animist
+        size = 17225
     }
 }
-#Calama (32000/8000 POPS)
+#Calama (10721 POPS)
 2309 = {
     aristocrats = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 175
     }
 
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 50
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 50
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 2700
     }
 
     clergymen = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     soldiers = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = aimara
-        religion = catholic
-        size = 1700
+        religion = animist
+        size = 6700
     }
 }
 #Ruled by Peru 1836
-#Iquique (32000/8000 POPS)
+#Iquique (20660 POPS)
 2307 = {
     aristocrats = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 375
     }
 
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 150
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 325
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 8650
     }
 
     clergymen = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 300
     }
 
     soldiers = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     farmers = {
         culture = aimara
-        religion = catholic
-        size = 7575
+        religion = animist
+        size = 9575
     }
 }
 #Arica (20000/5000 POPS)
 2308 = {
     aristocrats = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 525
     }
 
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 200
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 450
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 500
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 9740
     }
 
     clergymen = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 400
     }
 
     soldiers = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 350
     }
 
     farmers = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 4725
     }
 }
 #La Paz Region (784000)
 #Ruled by Bolivia 1836
-#La Paz (392000/98000 POPS)
+#La Paz (198000 POPS)
 2310 = {
     aristocrats = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 1100
     }
 
     bureaucrats = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 200
     }
 
     officers = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 325
     }
 
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 650
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 5825
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
-        size = 3000
+        culture = aimara
+        religion = animist
+        size = 10000
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 100
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
-        size = 40000
+        culture = quechua
+        religion = animist
+        size = 20000
     }
 
     clergymen = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 300
     }
 
     artisans = {
         culture = aimara
-        religion = catholic
-        size = 2525
+        religion = animist
+        size = 7525
     }
 
     farmers = {
         culture = aimara
-        religion = catholic
-        size = 12175
+        religion = animist
+        size = 122175
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
-        size = 50
+        religion = animist
+        size = 2050
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
-        size = 2775
+        religion = animist
+        size = 22775
     }
 }
-#Cochabamba (352000/88000 POPS)
+#Cochabamba (109884 POPS)
 2311 = {
     aristocrats = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 1700
     }
 
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 550
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 1150
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
+        size = 1100
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 23600
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = aimara
+        religion = animist
+        size = 3250
+    }
+
+	soldiers = {
+        culture = aimara
+        religion = animist
         size = 2100
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
-        size = 33600
-    }
-
-    clergymen = {
         culture = aimara
-        religion = catholic
-        size = 300
-    }
-
-    artisans = {
-        culture = aimara
-        religion = catholic
-        size = 3250
-    }
-
-    farmers = {
-        culture = aimara
-        religion = catholic
-        size = 21500
+        religion = animist
+        size = 71500
     }
 }
-#Oruro (40000/10000 POPS)
+#Oruro (34568 POPS)
 2312 = {
     aristocrats = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 225
     }
 
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 50
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
-        size = 50
+        culture = aimara
+        religion = animist
+        size = 950
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
-        size = 1525
+        culture = quechua
+        religion = animist
+        size = 5525
     }
 
     clergymen = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = aimara
-        religion = catholic
-        size = 350
+        religion = animist
+        size = 950
     }
 
     farmers = {
         culture = aimara
-        religion = catholic
-        size = 2575
+        religion = animist
+        size = 25575
     }
 }
 #Chuquisaca Region (288000)
 #Ruled by Bolivia 1836
-#Chuquisaca (116000/29000 POPS)
+#Chuquisaca (36335 POPS)
 2313 = {
     aristocrats = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 100
     }
 
     bureaucrats = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 25
     }
 
     officers = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 175
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
-        size = 300
+        culture = aimara
+        religion = animist
+        size = 1300
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 11825
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1200
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
-        size = 1050
+        religion = animist
+        size = 50
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
-        size = 9325
+        religion = animist
+        size = 19325
     }
 }
-#Potosi (120000/30000 POPS)
+#Potosi (56350 POPS)
 2314 = {
     aristocrats = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 325
     }
 
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 150
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = aimara
+        religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
-        size = 25
+        culture = aimara
+        religion = animist
+        size = 1025
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
-        size = 7050
+        culture = aimara
+        religion = animist
+        size = 37050
     }
 
     clergymen = {
-        culture = aimara
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 125
     }
 
     artisans = {
-        culture = aimara
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 1350
     }
 
     farmers = {
-        culture = aimara
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 14525
     }
 }
 #Tarija (52000/13000 POPS)
 2315 = {
     aristocrats = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 275
     }
 
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 75
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 25
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 575
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 3225
     }
 }
@@ -612,94 +757,94 @@
 #Santa Cruz (16000/4000 POPS)
 2316 = {
     aristocrats = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 100
     }
 
     bureaucrats = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 5
     }
 
     officers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 75
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 25
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 735
     }
 
     clergymen = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     soldiers = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = aimara
-        religion = catholic
+        religion = animist
         size = 1775
     }
 }
 #San Ignacio (20000/5000 POPS)
 2317 = {
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 25
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 25
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 300
     }
 
@@ -800,68 +945,68 @@
 #Santa Ana (76000/19000 POPS)
 2319 = {
     aristocrats = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 275
     }
 
     bureaucrats = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 25
     }
 
     officers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 75
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 50
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 2400
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1350
     }
 
@@ -930,56 +1075,56 @@
 #Cobija (28000/7000 POPS)
 2321 = {
     aristocrats = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 50
     }
 
     artisans = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 25
     }
 
     farmers = {
-        culture = pacinian
-        religion = catholic
+        culture = quechua
+        religion = animist
         size = 375
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1120
     }
 

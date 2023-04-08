@@ -37,7 +37,7 @@ party = {
 
 party = {
     name = "GER_liberal_2"
-    start_date = 2861.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -52,7 +52,7 @@ party = {
 
 party = {
     name = "GER_socialist"
-    start_date = 2860.1.1
+    start_date = 2836.1.1
     end_date = 2875.1.1
 
     ideology = socialist
@@ -67,7 +67,7 @@ party = {
 
 party = {
     name = "GER_socialist_2"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 2860.1.1
 
     ideology = socialist
@@ -142,7 +142,7 @@ party = {
 
 party = {
     name = "GER_communist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = communist
@@ -157,7 +157,7 @@ party = {
 
 party = {
     name = "GER_fascist"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = fascist

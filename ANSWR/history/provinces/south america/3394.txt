@@ -1,0 +1,5 @@
+owner = SPU
+controller = SPU
+add_core = SPU
+trade_goods = cattle
+life_rating = 35

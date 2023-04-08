@@ -20,7 +20,7 @@ party = {
 party = {
     name = "TRA_liberal"
     start_date = 2820.1.1
-    end_date = 2936.1.1
+    end_date = 3000.1.1
 
     ideology = liberal
 
@@ -64,7 +64,7 @@ party = {
 
 party = {
     name = "TRA_socialist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = socialist
@@ -79,7 +79,7 @@ party = {
 
 party = {
     name = "TRA_communist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = communist
@@ -94,7 +94,7 @@ party = {
 
 party = {
     name = "TRA_fascist"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = fascist
@@ -109,7 +109,7 @@ party = {
 
 party = {
     name = "TRA_socialist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = socialist
@@ -124,7 +124,7 @@ party = {
 
 party = {
     name = "TRA_communist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = communist
@@ -139,7 +139,7 @@ party = {
 
 party = {
     name = "TRA_fascist"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = fascist

@@ -140,7 +140,7 @@ party = {
 
 party = {
     name = "ROM_socialist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = socialist
@@ -155,7 +155,7 @@ party = {
 
 party = {
     name = "ROM_communist"
-    start_date = 2848.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = communist
@@ -170,7 +170,7 @@ party = {
 
 party = {
     name = "ROM_fascist"
-    start_date = 2900.1.1
+    start_date = 2836.1.1
     end_date = 3000.1.1
 
     ideology = fascist
