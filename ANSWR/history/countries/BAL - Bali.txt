@@ -1,12 +1,13 @@
 capital = 1438
-primary_culture = malay
-culture = moluccan
+primary_culture = moluccan
 religion = hindu
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.01
 non_state_culture_literacy = 0.01
+civilized = no
+
 
 slavery = yes_slavery
 upper_house_composition = appointed

@@ -2,5 +2,5 @@ owner = TRA
 controller = TRA
 add_core = TRA
 add_core = HND
-trade_goods = fruit
+trade_goods = iron
 life_rating = 32

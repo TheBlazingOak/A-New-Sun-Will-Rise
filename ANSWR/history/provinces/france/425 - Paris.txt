@@ -4,6 +4,7 @@ add_core = PRP
 add_core = FRE
 trade_goods = grain
 life_rating = 35
+terrain = ruined_city
 state_building = {
     level = 1
     building = luxury_furniture_factory

@@ -1,7 +1,7 @@
 owner = MDV
 controller = MDV
 add_core = MDV
-add_core = MOL
+add_core = ROM
 trade_goods = fish
 life_rating = 33
 fort = 1

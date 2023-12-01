@@ -17,7 +17,7 @@
     bureaucrats = {
         culture = czech
         religion = ketronant
-        size = 400
+        size = 2400
     }
 
     officers = {
@@ -41,7 +41,7 @@
     craftsmen = {
         culture = czech
         religion = ketronant
-        size = 300
+        size = 60300
     }
 
     artisans = {
@@ -65,7 +65,7 @@
     farmers = {
         culture = czech
         religion = ketronant
-        size = 310000
+        size = 280000
     }
 
     serfs = {
@@ -1304,6 +1304,11 @@
         culture = polish
         religion = prosperity
         size = 3250
+    }
+    craftsmen = {
+        culture = north_german
+        religion = ketronant
+        size = 29210
     }
 }
 #Oppeln

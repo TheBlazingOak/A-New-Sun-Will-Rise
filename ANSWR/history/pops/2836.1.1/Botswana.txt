@@ -5,31 +5,41 @@
     aristocrats = {
         culture = tswana
         religion = animist
-        size = 125
+        size = 725
     }
 
     clergymen = {
         culture = tswana
         religion = animist
-        size = 75
+        size = 275
     }
 
     artisans = {
         culture = tswana
         religion = animist
-        size = 350
+        size = 1350
     }
 
     soldiers = {
         culture = tswana
         religion = animist
-        size = 75
+        size = 6000
     }
 
     farmers = {
         culture = tswana
         religion = animist
-        size = 6375
+        size = 36375
+    }
+    farmers = {
+        culture = afrikaan
+        religion = ancestor
+        size = 5650
+    }
+    farmers = {
+        culture = boer
+        religion = ancestor
+        size = 12500
     }
 }
 #Nokaneng (12000/3000 POPS)
@@ -65,31 +75,31 @@
     }
 
     aristocrats = {
-        culture = herero
+        culture = tswana
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = herero
+        culture = tswana
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = herero
+        culture = tswana
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = herero
+        culture = tswana
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = herero
+        culture = tswana
         religion = animist
         size = 1800
     }
@@ -117,43 +127,23 @@
     soldiers = {
         culture = tswana
         religion = animist
-        size = 25
+        size = 1025
     }
 
     farmers = {
         culture = tswana
         religion = animist
-        size = 1800
+        size = 18800
     }
-
-    aristocrats = {
-        culture = khoisan
-        religion = animist
-        size = 15
-    }
-
-    clergymen = {
-        culture = khoisan
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = khoisan
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = khoisan
-        religion = animist
-        size = 10
-    }
-
     farmers = {
-        culture = khoisan
-        religion = animist
-        size = 900
+        culture = afrikaan
+        religion = ancestor
+        size = 4650
+    }
+    farmers = {
+        culture = boer
+        religion = ancestor
+        size = 5500
     }
 }
 #Mochidi (16000/4000 POPS)
@@ -185,46 +175,27 @@
     farmers = {
         culture = tswana
         religion = animist
+        size = 13650
+    }
+    farmers = {
+        culture = afrikaan
+        religion = ancestor
         size = 3650
+    }
+    farmers = {
+        culture = boer
+        religion = ancestor
+        size = 4500
     }
 }
 #under the rule of Matabele in 1836
 #Serowe (16000/4000 POPS)
 2075 = {
-    aristocrats = {
-        culture = nguni
-        religion = animist
-        size = 30
-    }
-
-    clergymen = {
-        culture = nguni
-        religion = animist
-        size = 30
-    }
-
-    artisans = {
-        culture = nguni
-        religion = animist
-        size = 100
-    }
-
-    soldiers = {
-        culture = nguni
-        religion = animist
-        size = 40
-    }
-
-    farmers = {
-        culture = nguni
-        religion = animist
-        size = 1800
-    }
 
     aristocrats = {
         culture = tswana
         religion = animist
-        size = 30
+        size = 330
     }
 
     clergymen = {
@@ -242,13 +213,13 @@
     soldiers = {
         culture = tswana
         religion = animist
-        size = 20
+        size = 6000
     }
 
     farmers = {
         culture = tswana
         religion = animist
-        size = 1800
+        size = 6800
     }
 
 }

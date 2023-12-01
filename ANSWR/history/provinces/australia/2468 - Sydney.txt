@@ -1,7 +1,8 @@
 owner = HAE
 controller = HAE
 add_core = HAE
-trade_goods = grain
+trade_goods = iron
+terrain = ruined_city
 life_rating = 39
 naval_base = 2
 railroad = 1

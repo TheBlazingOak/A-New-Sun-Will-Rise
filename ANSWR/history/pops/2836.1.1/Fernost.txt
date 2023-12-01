@@ -159,6 +159,11 @@
         religion = ketronant
         size = 60675
     }
+    craftsmen = {
+        culture = austro_german
+        religion = ketronant
+        size = 35000
+    }
 }
 #Judenburg (168000/42000 POPS)
 617 = {

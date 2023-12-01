@@ -161,7 +161,6 @@ PROV702;Lemberg;;;;;;;;;;;;;x
 PROV952;Tarnopol;;;;;;;;;;;;;x
 PROV2605;Ngaanyatjarraku;;;;;;;;;;;;;x
 PROV2601;Wilkinkarra;;;;;;;;;;;;;x
-PROV2495;Tirari;;;;;;;;;;;;;x
 PROV1990;Kindu;;;;;;;;;;;;;x
 PROV1991;Rusozi;;;;;;;;;;;;;x
 PROV2471;Bathurst;;;;;;;;;;;;;x
@@ -204,7 +203,6 @@ PROV1936;Nsukka;;;;;;;;;;;;;;;;;;x;;;;
 PROV2697;Jingkiri;;;;;;;;;;;;;;;;;;x;;;;
 PROV1081;Yakesa;;;;;;;;;;;;;;;;;;x;;;;
 PROV1085;Hailanpao;;;;;;;;;;;;;;;;;x;;;;
-PROV1600;Urumqi;;;;;;;;;;;;;;;;;x;;;;
 PROV2839;Gulf of Patience;;;;;;;;;;;;;;;;;x;;;;
 PROV2831;Soya Strait;;;;;;;;;;;;;;;;;x;;;;
 PROV2830;East Sea;;;;;;;;;;;;;;;;;x;;;;
@@ -223,15 +221,14 @@ POR_2060;Moçambique;;;;;;;;;;;;;;;;;x;;;;
 PROV2088;O'okiep;;;;;;;;;;;;;;;;;x;;;;
 PROV2558;Emthanjeni;;;;;;;;;;;;;;;;;x;;;;
 PROV2093;Hantam;;;;;;;;;;;;;;;;;x;;;;
-PROV2084;Nomabeb;;;;;;;;;;;;;;;;;x;;;;
 PROV2081;Luhonono;;;;;;;;;;;;;;;;;x;;;;
 PROV2082;Epako;;;;;;;;;;;;;;;;;x;;;;
 PROV2080;Otjivanda;;;;;;;;;;;;;;;;;x;;;;
 PROV1788;Kahone;;;;;;;;;;;;;;;;;x;;;;
 PROV1540;Nantong;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2526;Palmyra and Line Islands;;;;;;;;;;;;;;;;;;;;;;;x
-TIB_1591;Tibetan Plateau;;;;;;;;;;;;;;;;;;;;;;;x
-PROV2482;Van Diemen's Land;;;;;;;;;;;;;;;;;;;;;;;x
+TIB_1591;Xizang Plateau;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2482;Dieman;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2382;Laboulaye;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2640;Gwadar;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1071;Qeshm;;;;;;;;;;;;;;;;;;;;;;;x
@@ -376,7 +373,6 @@ PROV2086;Aixa-aibes;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV2079;Otjozondjii;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV2078;Otjomuise;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV1481;Lüshun;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV2083;Ezorongondo;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV1028;Vyatka;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV1019;Voronezh;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV3246;Saint Barths;;;;;;;;;;;;;;;;;;;;x;
@@ -388,10 +384,7 @@ PROV2101;Thaba Nchu;;;;;;;;;;;;;;;;;;;;x;
 PROV2102;Qwa-Qwa;;;;;;;;;;;;;;;;;;;;x;
 PROV2103;Lephoi;;;;;;;;;;;;;;;;;;;;x;
 PROV2094;Griqualand;;;;;;;;;;;;;;;;;;;;x;
-TRN_2108;Tky-Gariep;;;;;;;;;;;;;;;;;;;;x;
 PROV2107;Makwasi;;;;;;;;;;;;;;;;;;;;x;
-PROV2106;Saan;;;;;;;;;;;;;;;;;;;;x;
-PROV2105;Ga-Rankuwa;;;;;;;;;;;;;;;;;;;;x;
 PROV2109;Ga-Riba;;;;;;;;;;;;;;;;;;;;x;
 PROV2112;Emnambithi;;;;;;;;;;;;;;;;;;;;x;
 ORA_2103;Basutoland;;;;;;;;;;;;;;;;;;;;x;
@@ -485,7 +478,6 @@ SIA_1352;Pattani;;;;;;;;;;;;x
 SIA_1355;Shan;;;;;;;;;;;;x
 LUA_1356;Laos;;;;;;;;;;;;x
 SIA_1358;Isan;;;;;;;;;;;;x
-PROV1360;Xiangabouli;;;;;;;;;;;;x
 DAI_1369;Tonkin;;;;;;;;;;;;x
 DAI_1375;Annam;;;;;;;;;;;;x
 DAI_1380;Cochinchina;;;;;;;;;;;;x
@@ -559,7 +551,7 @@ BEL_1996;Congo Orientale;;;;;;;;;;;;x
 BEL_2034;Ruanda-Urundi;;;;;;;;;;;;x
 ENG_2036;Zanzibar;;;;;;;;;;;;x
 ENG_2044;Tanganyika;;;;;;;;;;;;x
-ENG_2048;Zanzibar;;;;;;;;;;;;x
+ENG_2036;Bingwa;;;;;;;;;;;;x
 POR_2054;Sofala;;;;;;;;;;;;x
 ENG_2067;Nyasaland;;;;;;;;;;;;x
 ENG_2068;Mashonaland;;;;;;;;;;;;x
@@ -664,7 +656,7 @@ SIA_1352;Pattani;;;;;;;;;;;;x
 SIA_1355;Shan;;;;;;;;;;;;x
 LUA_1356;Laos;;;;;;;;;;;;x
 SIA_1358;Isan;;;;;;;;;;;;x
-PROV1360;Xiangabouli;;;;;;;;;;;;x
+PROV1360;Xayaburi;;;;;;;;;;;;x
 DAI_1369;Tonkin;;;;;;;;;;;;x
 DAI_1375;Annam;;;;;;;;;;;;x
 DAI_1380;Cochinchina;;;;;;;;;;;;x
@@ -733,7 +725,14 @@ FRA_1970;Bangassou;;;;;;;;;;;;x
 BEL_1990;Kivu;;;;;;;;;;;;x
 BEL_1996;Congo Orientale;;;;;;;;;;;;x
 BEL_2034;Ruanda-Urundi;;;;;;;;;;;;x
-ENG_2036;Zanzibar;;;;;;;;;;;;x
+ENG_2024;Viwa;;;;;;;;;;;;x
+ENG_2019;Ugandla;;;;;;;;;;;;x
+KBO_1969;Bor-Waw;;;;;;;;;;;;x
+BEL_1991;Ruz Penisula;;;;;;;;;;;;x
+NIG_1937;Yola Hills;;;;;;;;;;;;x
+SOK_1961;Berti Penisula;;;;;;;;;;;;x
+FRA_1940;Sarki;;;;;;;;;;;;x
+FRA_1938;Bussa;;;;;;;;;;;;x
 ENG_2044;Tanganyika;;;;;;;;;;;;x
 ENG_2048;Zanzibar;;;;;;;;;;;;x
 ENG_2067;Nyasaland;;;;;;;;;;;;x
@@ -1096,7 +1095,6 @@ PROV77;Zittend en Kade;;;;;;;;;;;;;;;;;;;;;;;x
 QUE_75;Nieuw-Kouderhagen;;;;;;;;;;;;;;;;;;;;;;;x
 PROV3290;The Sea of Eyre;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2492;Palicon;;;;;;;;;;;;;;;;;;;;;;;x
-PROV2496;Fromden;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2499;Black Hills;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2495;Desert;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2507;Windy Sands;;;;;;;;;;;;;;;;;;;;;;;x
@@ -1248,15 +1246,15 @@ PROV927;Sur-marrati;;;;;;;;;;;;x
 PROV1457;Naga;;;;;;;;;;;;x
 PROV3333;Tanay;;;;;;;;;;;;x
 PROV3336;Cabanatuan;;;;;;;;;;;;x
-PROV3340;Ibaguiow;;;;;;;;;;;;x
-PROV3334;Upper Subc;;;;;;;;;;;;x
-PROV1455;Pa;;;;;;;;;;;;x
-PROV3332;Upper Lucina;;;;;;;;;;;;x
+PROV3340;Baguio;;;;;;;;;;;;x
+PROV3334;Upper Subic;;;;;;;;;;;;x
+PROV1455;Lipa;;;;;;;;;;;;x
+PROV3332;Upper Lucena;;;;;;;;;;;;x
 PROV3335;Upper Bacolod;;;;;;;;;;;;x
-PROV3337;Upper Tagblaran;;;;;;;;;;;;x
-PROV3338;Maraw;;;;;;;;;;;;x
-PROV3339;Upper Apar;;;;;;;;;;;;x
-PROV3341;UpperPalo;;;;;;;;;;;;x
+PROV3337;Upper Tagbilaran;;;;;;;;;;;;x
+PROV3338;Marawi;;;;;;;;;;;;x
+PROV3339;New Aparri;;;;;;;;;;;;x
+PROV3341;New Palo;;;;;;;;;;;;x
 ETH_1859;Onneelafa;;;;;;;;;;;;x
 PROV1859;Onnee City;;;;;;;;;;;;x
 ETH_1853;Ma'ibeli Meretochi;;;;;;;;;;;;x
@@ -1269,9 +1267,9 @@ TOR_1784;Fleuvmar;;;;;;;;;;;;x
 WOL_1785;Marcage;;;;;;;;;;;;x
 PROV12;Babbangabas;;;;;;;;;;;;x
 PROV2589;Hanyamai-Sauri;;;;;;;;;;;;x
-PROV1463;Cagyan Doro;;;;;;;;;;;;x
-PROV1462;Fort Pilaria;;;;;;;;;;;;x
-PROV1459;Puer Prin;;;;;;;;;;;;x
+PROV1463;New Cagayan De Oro;;;;;;;;;;;;x
+PROV1462;Fuerte Pilaria;;;;;;;;;;;;x
+PROV1459;Port-of-Captains;;;;;;;;;;;;x
 PROV3342;Rise-Artvin;;;;;;;;;;;;x
 PROV3343;Nalchik;;;;;;;;;;;;x
 PROV3344;Armavir;;;;;;;;;;;;x
@@ -1332,3 +1330,118 @@ KUR_925;Urmiye;;;;;;;;;;;;x
 PROV1110;Urmiye;;;;;;;;;;;;x
 KUR_928;Kirmasan;;;;;;;;;;;;x
 PROV1117;Kirmasan;;;;;;;;;;;;x
+PROV3360;Nantou;;;;;;;;;;;;x
+PROV3361;Sanya;;;;;;;;;;;;x
+PROV1393;New Brunei;;;;;;;;;;;;x
+PROV1394;New Sarawak;;;;;;;;;;;;x
+PROV3362;Kelabit;;;;;;;;;;;;x
+PROV3363;Tongod;;;;;;;;;;;;x
+PROV3364;Kapoea;;;;;;;;;;;;x
+PROV3365;Kengtung;;;;;;;;;;;;x
+PROV3366;Bokeo-Luangnamtha;;;;;;;;;;;;x
+PROV3367;Dehong;;;;;;;;;;;;x
+PROV3368;Baoshan-Lincang;;;;;;;;;;;;x
+PROV3369;Honghe-Wenshan;;;;;;;;;;;;x
+PROV3370;Oudomxay-Phongsaly;;;;;;;;;;;;x
+PROV3371;Chiang Rai;;;;;;;;;;;;x
+PROV3372;Loikaw;;;;;;;;;;;;x
+PROV1598;Yu'tien;;;;;;;;;;;;x
+PROV2607;Ruoqiang;;;;;;;;;;;;x
+PROV1594;Kashi;;;;;;;;;;;;x
+PROV1597;Akesu;;;;;;;;;;;;x
+PROV1587;Chengguan;;;;;;;;;;;;x
+PROV1588;Changdu;;;;;;;;;;;;x
+PROV1589;Rikaze;;;;;;;;;;;;x
+PROV1590;Shannan;;;;;;;;;;;;x
+PROV1592;Ali;;;;;;;;;;;;x
+PROV1599;Hami;;;;;;;;;;;;x
+PROV1600;Dihua;;;;;;;;;;;;x
+PROV1346;Nakhon-Nayok;;;;;;;;;;;;x
+PROV3373;Phetchabun and Loei;;;;;;;;;;;;x
+PROV3374;Maha Sarakham,Kohn Kaen, Roi Et and Kalasin;;;;;;;;;;;;x
+PROV3375;Phitsanulok and Phitchit;;;;;;;;;;;;x
+PROV3376;Uttaradit;;;;;;;;;;;;x
+PROV1348;Kampaeng Phet;;;;;;;;;;;;x
+PROV1347;Nakhon Sawan;;;;;;;;;;;;x
+PROV1344;Prachuap Khiri Khan;;;;;;;;;;;;x
+PROV1343;New Molamyin;;;;;;;;;;;;x
+PROV3377;Se Kong and Attapu;;;;;;;;;;;;x
+PROV3378;Dich Vu;;;;;;;;;;;;x
+PROV3379;Phonsavan;;;;;;;;;;;;x
+PROV3380;Nguoi Dung Dau Bo Toc;;;;;;;;;;;;x
+PROV3381;Sagaing;;;;;;;;;;;;x
+SIA_2572;Lan Na;;;;;;;;;;;;x
+SIA_1350;Nam Lao;;;;;;;;;;;;x
+DAI_1361;Savannakhet;;;;;;;;;;;;x
+PROV1333;New Hpa-An;;;;;;;;;;;;x
+PROV3372;New Loikaw;;;;;;;;;;;;x
+PROV1332;New Bago;;;;;;;;;;;;x
+PROV1335;Naypyidaw;;;;;;;;;;;;x
+PROV1334;Mandalay;;;;;;;;;;;;x
+PROV1337;New Pyay;;;;;;;;;;;;x
+PROV1331;Daksina Bandara;;;;;;;;;;;;x
+PROV1339;Hakha;;;;;;;;;;;;x
+PROV1345;Bijayera Sthana;;;;;;;;;;;;x
+ROH_1345;Greater Rohang;;;;;;;;;;;;x
+PROV3382;Purba Darga;;;;;;;;;;;;x
+PROV1339;Abdulera Bisrama;;;;;;;;;;;;x
+PROV3383;Kohima;;;;;;;;;;;;x
+PROV1254;Shillong;;;;;;;;;;;;x
+PROV1257;Aizawl;;;;;;;;;;;;x
+PROV2566;New Chittagong;;;;;;;;;;;;x
+PROV1366;Xiem Riep;;;;;;;;;;;;x
+PROV1362;Hang Ngay;;;;;;;;;;;;x
+PROV1361;Den Kaysone Phomsong;;;;;;;;;;;;x
+PROV1357;Vieng Chan;;;;;;;;;;;;x
+PROV1356;Luong Pha Bang;;;;;;;;;;;;x
+PROV1368;Tuong Duong;;;;;;;;;;;;x
+PROV1367;Nam Moi;;;;;;;;;;;;x
+PROV1380;Kratie;;;;;;;;;;;;x
+PROV2096;Port Anneline;;;;;;;;;;;;x
+PROV2098;Winterstrand;;;;;;;;;;;;x
+PROV2099;Keiskammahoek;;;;;;;;;;;;x
+PROV2087;Kaapstad;;;;;;;;;;;;x
+PROV2090;Suiderstrand;;;;;;;;;;;x
+PROV2091;Heidelberg;;;;;;;;;;;x
+PROV2092;Kruidfontein;;;;;;;;;;;x
+PROV2089;Aan de Doorns;;;;;;;;;;;x
+PROV2088;Lutzville;;;;;;;;;;;x
+PROV2084;Kamieskroon;;;;;;;;;;;x
+PROV2083;Port Nolloth;;;;;;;;;;;x
+ENG_2096;Oos-Kaap;;;;;;;;;;;;x
+ENG_2087;Wes-Kaap;;;;;;;;;;;;x
+ZUL_2110;Mbabane;;;;;;;;;;;;x
+TRN_2108;Pretoria;;;;;;;;;;;;x
+PROV2106;Johannesburg;;;;;;;;;;;;;;;;;;;;x;
+PROV2105;Pretoria;;;;;;;;;;;;;;;;;;;;x;
+PROV2108;Vaalwater;;;;;;;;;;;;;;;;;;;;x;
+VNZ_2239;Mahdia;;;;;;;;;;;;;;;;;;;;x;
+PROV2468;Sydnica;;;;;;;;;;;;;;;;;;;;x;
+PROV1395;Desima;;;;;;;;;;;;;;;;;;;;x;
+PROV2478;Basamer;;;;;;;;;;;;;;;;;;;;x;
+PROV2652;Nowozer;;;;;;;;;;;;;;;;;;;;x;
+PROV2653;Brazie City;;;;;;;;;;;;;;;;;;;;x;
+PROV856;Bessiva;;;;;;;;;;;;;;;;;;;;x;
+PROV2688;Pincess;;;;;;;;;;;;;;;;;;;;x;
+PROV407;White Harbour;;;;;;;;;;;;;;;;;;;;x;
+PROV465;Jake's Plains
+PROV2527;Redlunds
+PROV2647;Coustre;;;;;;;;;;;;;;;;;;;;x;
+PROV399;Trovenstray City;;;;;;;;;;;;;;;;;;;;x;
+PROV847;Chess;;;;;;;;;;;;;;;;;;;;x;
+PROV470;The Bin Bay;;;;;;;;;;;;;;;;;;;;x;
+PROV742;Ranseyre;;;;;;;;;;;;;;;;;;;;x;
+PROV1011;Tesse;;;;;;;;;;;;;;;;;;;;x;
+PROV2541;Ervesta;;;;;;;;;;;;;;;;;;;;x;
+PROV3246;Saint Jerms;;;;;;;;;;;;;;;;;;;;x;
+PROV210;Newport;;;;;;;;;;;;;;;;;;;;x;
+PROV846;Eldport;;;;;;;;;;;;;;;;;;;;x;
+PROV2492;Fromden;;;;;;;;;;;;;;;;;;;;x;
+ENG_2468;Newale;;;;;;;;;;;;;;;;;;;;x;
+AST_2476;Melbore;;;;;;;;;;;;;;;;;;;;x;
+PROV2476;Melbore;;;;;;;;;;;;;;;;;;;;x;
+PROV2490;Charlevia;;;;;;;;;;;;;;;;;;;;x;
+PROV1654;Bones;;;;;;;;;;;;;;;;;;;;x;
+PROV2536;Saint Charles
+PROV1424;Unver
+PROV1325;Lectaton

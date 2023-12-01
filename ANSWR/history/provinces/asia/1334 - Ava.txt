@@ -3,4 +3,5 @@ controller = KCH
 add_core = KCH
 add_core = BUR
 trade_goods = wool
+terrain = urban
 life_rating = 35

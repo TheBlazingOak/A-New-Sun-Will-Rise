@@ -35,6 +35,7 @@ luxury_needs = {
     automobiles = 0.5
     radio = 1.0
     fuel = 0.1
+	opium = 1
     #dye = 0.5
 }
 

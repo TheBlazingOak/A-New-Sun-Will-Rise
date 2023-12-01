@@ -1,10 +1,10 @@
 capital = 1319
 primary_culture = tekno
-religion = hindu
+religion = teknic
 government = presidential_dictatorship
 plurality = 1.0
 nationalvalue = nv_tradition
-literacy = 0.07
+literacy = 0.3
 non_state_culture_literacy = 0.01
 
 # Political reforms
@@ -34,7 +34,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = hindu_country
+set_country_flag = teknic_country
 
 ruling_party = TRA_conservative
 upper_house = {

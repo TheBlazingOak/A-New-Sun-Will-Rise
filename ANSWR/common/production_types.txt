@@ -1412,6 +1412,23 @@ artisan_fabric = {
     workforce = 10000
 }
 
+artisan_fabric2 = {
+    input_goods = {
+        wool = 24        # 36
+        dye = 2                # 24 total input+maint = 60
+    }
+    output_goods = fabric
+    value = 38        #68.4 - profit = 8.4
+    owner = {
+        poptype = artisans
+        effect = output
+    }
+
+    type = artisan
+
+    workforce = 10000
+}
+
 artisan_cement = {
     input_goods = {
         coal = 12        #27.6        total input = 27.6

@@ -1,6 +1,7 @@
-owner = KAR
-controller = KAR
+owner = SHA
+controller = SHA
+add_core = SHA
 add_core = KAR
 add_core = BUR
-trade_goods = opium
+trade_goods = timber
 life_rating = 35

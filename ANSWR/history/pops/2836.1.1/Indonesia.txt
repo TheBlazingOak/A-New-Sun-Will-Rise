@@ -1979,36 +1979,36 @@
 #Muraleve (166875 POPS)
 1422 = {
     aristocrats = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 2500
     }
 
     artisans = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 7250
     }
 
     soldiers = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 2250
     }
 
     farmers = {
-        culture = malay
+        culture = borneanmalay
         religion = sunni
         size = 79950
     }
 
-    slaves = {
+    farmers = {
         culture = asian_minor
         religion = animist
         size = 77000
@@ -2639,55 +2639,55 @@
     }
 
     aristocrats = {
-        culture = malay
+        culture = moluccan
         religion = hindu
         size = 1500
     }
 
     bureaucrats = {
-        culture = malay
+        culture = moluccan
         religion = hindu
         size = 125
     }
 
     officers = {
-        culture = malay
+        culture = moluccan
         religion = hindu
         size = 200
     }
 
     clergymen = {
-        culture = malay
+        culture = moluccan
         religion = hindu
         size = 1425
     }
 
     artisans = {
-        culture = malay
+        culture = moluccan
         religion = hindu
         size = 7000
     }
 
     soldiers = {
-        culture = malay
+        culture = moluccan
         religion = hindu
         size = 3000
     }
 
     soldiers = {
-        culture = malay
+        culture = moluccan
         religion = hindu
         size = 1000
     }
 
     farmers = {
-        culture = malay
+        culture = moluccan
         religion = hindu
         size = 109750
     }
 
     slaves = {
-        culture = malay
+        culture = moluccan
         religion = hindu
         size = 20000
     }

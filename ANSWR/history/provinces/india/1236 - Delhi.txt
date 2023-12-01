@@ -2,4 +2,5 @@ owner = NAG
 controller = NAG
 add_core = NAG
 trade_goods = fruit
+terrain = ruined_city
 life_rating = 32

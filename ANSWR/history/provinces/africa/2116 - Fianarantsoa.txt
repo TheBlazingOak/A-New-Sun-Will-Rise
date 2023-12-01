@@ -1,6 +1,5 @@
-owner = NAL
-controller = NAL
-add_core = NAL
+owner = MAD
+controller = MAD
 add_core = MAD
 terrain = montane_forest
 trade_goods = tropical_wood

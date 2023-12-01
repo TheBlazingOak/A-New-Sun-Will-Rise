@@ -387,6 +387,7 @@ political_decisions = {
                 is_culture_group = south_asian
                 is_culture_group = indo_iranian
             }
+			NOT = { tag = NAG } 
             NOT = { tag = PAK }
             NOT = { tag = MUG }
             NOT = { tag = NEP }

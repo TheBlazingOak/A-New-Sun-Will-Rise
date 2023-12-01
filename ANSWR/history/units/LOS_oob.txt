@@ -59,7 +59,7 @@ army = {
 }
 navy = {
     name = "Royal Los Angeles Fleet"
-    location = 2184
+    location = 89
     ship = {
         name= "Vencedor del Alamo"
         type = frigate

@@ -2,4 +2,5 @@ owner = MCK
 controller = MCK
 add_core = MCK
 trade_goods = tea
+terrain = ruined_city
 life_rating = 32

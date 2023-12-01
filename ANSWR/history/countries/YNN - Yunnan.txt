@@ -1,5 +1,10 @@
 capital = 1602
-primary_culture = yue
+primary_culture = nanfaren
+culture = yue
+culture = yi
+culture = miao
+culture = zhuang
+culture = hani
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

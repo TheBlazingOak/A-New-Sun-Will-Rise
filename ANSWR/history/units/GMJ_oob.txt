@@ -1,0 +1,48 @@
+army = {
+    name = "Dihua Revolutionary Guard"
+    location = 1600
+    regiment = {
+        name= "1.People's Riders"
+        type = cavalry
+        home = 1600
+    }
+
+    regiment = {
+        name= "1.People's Militia"
+        type = irregular
+        home = 1600
+    }
+
+    regiment = {
+        name= "2.People's Militia"
+        type = irregular
+        home = 1558
+    }
+	
+	regiment = {
+        name= "3.People's Militia"
+        type = irregular
+        home = 1558
+    }
+	
+	 regiment = {
+        name= "1.People's Artillery"
+        type = artillery
+        home = 1488
+    }
+	
+	regiment = {
+        name= "2.People's Artillery"
+        type = artillery
+        home = 1488
+    }
+
+}
+
+leader = {
+    name = "Wang Fenbiao"
+    type = land
+    date="2830.1.1"
+    personality = clever
+    background = nationalist
+}

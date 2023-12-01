@@ -1,0 +1,129 @@
+ZUL = {
+    value = -200
+}
+MAT = {
+    value = -200
+}
+GAZ = {
+    value = -200
+}
+ZBW = {
+    value = -200
+}
+KNY = {
+    value = -200
+}
+KZB = {
+    value = -200
+}
+BUG = {
+    value = -200
+}
+
+leader = {
+    name = "Renier Prinsloo"
+    picture = african_general_1
+    date = 2836.1.1
+    type = land
+    personality = balanced_p
+    background = old_school
+}
+leader = {
+    name = "Kian van der Watt"
+    picture = african_general_2
+    date = 2836.1.1
+    type = land
+    personality = bold
+    background = hated
+}
+
+leader = {
+    name = "Hans de Lange"
+    picture = african_admiral_2
+    date = 2836.1.1
+    type = sea
+    personality = heroic
+    background = bureaucrat_speed 
+}
+
+army = {
+    name = "Matriarch's Company"
+    location = 2087
+    regiment = {
+        name= "Matriarch's Guard"
+        type = guard
+        home = 2087
+    }
+    regiment = {
+        name= "I. Afdeling"
+        type = infantry
+        home = 2087
+    }
+
+    regiment = {
+        name= "II. Afdeling"
+        type = infantry
+        home = 2087
+    }
+
+    regiment = {
+        name= "III. Afdeling"
+        type = infantry
+        home = 2092
+    }
+
+    regiment = {
+        name= "IV. Afdeling"
+        type = infantry
+        home = 2096
+    }
+}
+army = {
+    name = "Madakagaskar Afdeling"
+    location = 2081
+    regiment = {
+        name= "I. Madakagaskar"
+        type = guard
+        home = 2087
+    }
+    regiment = {
+        name= "II. Madakagaskar"
+        type = infantry
+        home = 2090
+    }
+
+    regiment = {
+        name= "III. Madakagaskar"
+        type = infantry
+        home = 2092
+    }
+
+}
+navy = {
+    name = "Vervoer Vloot"
+    location = 2087 #Kaapstad
+    ship = {
+        name= "1 Vervoer"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "2 Vervoer"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "3 Vervoer"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "3 Vervoer"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "3 Vervoer"
+        type = clipper_transport
+    }
+}

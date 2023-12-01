@@ -1,0 +1,7 @@
+owner = NGL
+controller = NGL
+add_core = BNG
+add_core = ASM
+add_core = NGL
+trade_goods = dye
+life_rating = 32

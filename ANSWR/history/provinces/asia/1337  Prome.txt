@@ -1,6 +1,6 @@
-owner = BNG
-controller = BNG
-add_core = BNG
+owner = SHA
+controller = SHA
+add_core = SHA
 add_core = BUR
 trade_goods = grain
 life_rating = 35

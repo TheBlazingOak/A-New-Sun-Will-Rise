@@ -2,5 +2,5 @@ owner = KUT
 controller = KUT
 add_core = KUT
 add_core = HND
-trade_goods = opium
+trade_goods = cotton
 life_rating = 32

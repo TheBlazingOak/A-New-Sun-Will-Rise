@@ -1,5 +1,8 @@
-owner = BNG
-controller = BNG
+owner = MNP
+controller = MNP
 add_core = BNG
+add_core = ASM
+add_core = MNP
+add_core = NGL
 trade_goods = cattle
 life_rating = 32

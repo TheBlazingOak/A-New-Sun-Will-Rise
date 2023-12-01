@@ -149,8 +149,8 @@ PGG_anarcho_liberal;Jijin Dang;;;;;;;;;;;;;,,
 PGG_socialist;Shehuidang;;;;;;;;;;;;;,,
 PGG_communist;Gòngchandang;;;;;;;;;;;;;,,
 PGG_fascist;Fàxisi Dang;;;;;;;;;;;;;,,
-PGG;Pingnan Guo;;;;;;;;;;;;;,,
-PGG_ADJ;Hui;;;;;;;;;;;;;,,
+PGG;Yan Long Triad;;;;;;;;;;;;;,,
+PGG_ADJ;Red Poler;;;;;;;;;;;;;,,
 UKR_conservative;Ukrainian Democratic Agrarian Party;;;;;;;;;;;;;,,
 UKR_liberal;Ukrainian Democratic Party;;;;;;;;;;;;;,,
 UKR_reactionary;Congress of Landowners;;;;;;;;;;;;;,,
@@ -772,16 +772,16 @@ BHR_anarcho_liberal;Al Anarkiliberali;;;;;;;;;;;;;,,
 BHR_socialist;Hizb al-Baath al-Ishtiraki al-Urduni;;;;;;;;;;;;;,,
 BHR_communist;Al-Hizb al-Shuyui al-Urduni;;;;;;;;;;;;;,,
 BHR_fascist;Hizb al-Mustaqbal;;;;;;;;;;;;;,,
-BIH;Bihar;;;;;;;;;;;;;,,
-BIH_ADJ;Bihari;;;;;;;;;;;;;,,
-BIH_proletarian_dictatorship;Bihari People's Republic;;;;;;;;;;;;;,,
-BIH_conservative;Lok Janshakti Party;;;;;;;;;;;;;,,
-BIH_liberal;Samata Party;;;;;;;;;;;;;,,
-BIH_reactionary;Bihar Vikas;;;;;;;;;;;;;,,
-BIH_anarcho_liberal;Bihari Radical Party;;;;;;;;;;;;;,,
+BIH;Antim Pahaadyon;;;;;;;;;;;;;,,
+BIH_ADJ;Pahaadi;;;;;;;;;;;;;,,
+BIH_proletarian_dictatorship;People's Republic of the Last Hills;;;;;;;;;;;;;,,
+BIH_conservative;Lok Janshakti;;;;;;;;;;;;;,,
+BIH_liberal;Samata;;;;;;;;;;;;;,,
+BIH_reactionary;Pahaadi Vikas;;;;;;;;;;;;;,,
+BIH_anarcho_liberal;Pahaadi Merchant Guild;;;;;;;;;;;;;,,
 BIH_socialist;Janata Dal;;;;;;;;;;;;;,,
-BIH_communist;Bihari Communist Party;;;;;;;;;;;;;,,
-BIH_fascist;Bihari Fascist Party;;;;;;;;;;;;;,,
+BIH_communist;Miners and Farmers Union;;;;;;;;;;;;;,,
+BIH_fascist;Reclaim the Plains Society;;;;;;;;;;;;;,,
 TMR;Timor;;;;;;;;;;;;;,,
 TMR_ADJ;Timorese;;;;;;;;;;;;;,,
 TMR_absolute_monarchy;Wehali;;;;;;;;;;;;;,,
@@ -1090,8 +1090,8 @@ GMB_reactionary;Muslim Congress Party;;;;;;;;;;;;;,,
 GMB_socialist;People's Progressive Party;;;;;;;;;;;;;,,
 GMB_communist;Gambian People's Party;;;;;;;;;;;;;,,
 GMB_fascist;Gambia Congress Party;;;;;;;;;;;;;,,
-GMJ;Guominjun;;;;;;;;;;;;;,,
-GMJ_ADJ;Guominjun;;;;;;;;;;;;;,,
+GMJ;Xiyu People's Republic;;;;;;;;;;;;;,,
+GMJ_ADJ;Xiyu'i;;;;;;;;;;;;;,,
 GMJ_reactionary;Beiyang Faction;Faction Rongting;Rongting-Fraktion;;;;;;;;;;;,,
 GMJ_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;;;;;;;;;;,,
 GMJ_communist;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei China;;;;;;;;;;;,,
@@ -1140,9 +1140,9 @@ HAL_communist;Al-Hizb al-Shuyui al-Urduni;;;;;;;;;;;;;,,
 HAL_fascist;Hizb al-Mustaqbal;;;;;;;;;;;;;,,
 HDU;Hindustan;;;;;;;;;;;;;,,
 HDU_ADJ;Hindustani;;;;;;;;;;;;;,,
-HNN;Hunan;;;;;;;;;;;;;,,
-HNN_ADJ;Hunan;;;;;;;;;;;;;,,
-HNN_presidential_dictatorship;Hunan Clique;;;;;;;;;;;;;,,
+HNN;Beijing Frontier Region;;;;;;;;;;;;;,,
+HNN_ADJ;Beijinger;;;;;;;;;;;;;,,
+HNN_presidential_dictatorship;Beijing Frontier Region;;;;;;;;;;;;;,,
 HNN_reactionary;Beiyang Faction;Faction Rongting;Rongting-Fraktion;;;;;;;;;;;,,
 HNN_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;;;;;;;;;;,,
 HNN_communist;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei China;;;;;;;;;;;,,
@@ -1151,9 +1151,9 @@ HNN_conservative;Kuomintang Faction;Faction Kuomintang;Guomintang-Fraktion;;;;;;
 HNN_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;;;;;;;;;;,,
 HNN_anarcho_liberal;Freedom Party;Parti de la liberté;Freiheitspartei;;;;;;;;;;;,,
 HOL_anarcho_liberal;Radicale Partij;;;;;;;;;;;;;,,
-HUI;Anhui;;;;;;;;;;;;;,,
-HUI_ADJ;Anhui;;;;;;;;;;;;;,,
-HUI_presidential_dictatorship;Anhui Clique;;;;;;;;;;;;;,,
+HUI;Xi'an;;;;;;;;;;;;;,,
+HUI_ADJ;Xi'aner;;;;;;;;;;;;;,,
+HUI_presidential_dictatorship;Xi'an Frontier Region;;;;;;;;;;;;;,,
 HUI_reactionary;Beiyang Faction;Faction Rongting;Rongting-Fraktion;;;;;;;;;;;,,
 HUI_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;;;;;;;;;;,,
 HUI_communist;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei China;;;;;;;;;;;,,
@@ -2096,9 +2096,9 @@ SWH_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;;,,
 SWH_anarcho_liberal;Radical Arbeiterpartei;;;;;;;;;;;;;,,
 SWH_communist;Communist Arbeiterpartei;;;;;;;;;;;;;,,
 SWH_fascist;NSDP;;;;;;;;;;;;;,,
-SWK;Sarawak;;;;;;;;;;;;;,,
+SWK;Hitam Kerajaan Sarawak;;;;;;;;;;;;;,,
 SWK_ADJ;Sarawakian;;;;;;;;;;;;;,,
-SWK_fascist_dictatorship;Borneo Republic;;;;;;;;;;;;;,,
+SWK_fascist_dictatorship;Domain of the Black Rajahs;;;;;;;;;;;;;,,
 SWK_fascist_dictatorship_ADJ;Bornean;;;;;;;;;;;;;,,
 SWK_conservative;Rajah Faction;Faction royale;Königsfraktion;;Facción real;;;;;;;;;,,
 SWK_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La facción liberal;;;;;;;;;,,
@@ -2107,8 +2107,9 @@ SWK_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;
 SWK_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La facción socialista;;;;;;;;;,,
 SWK_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;La facción comunista;;;;;;;;;,,
 SWK_fascist;The Borneo Faction;Faction fasciste;Die faschistische Fraktion;;La facción fascista;;;;;;;;;,,
-SXI;Shanxi;Clique de Shanxi;Shanxi-Clique;;;;;;;;;;;,,
-SXI_presidential_dictatorship;Shanxi Clique;Clique de Shanxi;Shanxi-Clique;;;;;;;;;;;,,
+SXI;Luoyang Republic;Clique de Shanxi;Shanxi-Clique;;;;;;;;;;;,,
+SXI_presidential_dictatorship;Luoyang Clique;Clique de Shanxi;Shanxi-Clique;;;;;;;;;;;,,
+SXI_fascist_dictatorship;Luoyang White Army;Luoyang Clique;Clique de Shanxi;Ejercito Blanco de Luoyang ;;;;;;;;;;;,,
 SYR_liberal;Hizb al-Islah al-Suriy;;;;;;;;;;;;;,,
 SYR_conservative;Jam’iyat al-Arabiya al-Fatat;;;;;;;;;;;;;,,
 SYR_socialist;Haraka al-Ishtirakiyyun al-Arab;;;;;;;;;;;;;,,
@@ -2116,9 +2117,9 @@ SYR_reactionary;Haraka al-Ahd al-Watani;;;;;;;;;;;;;,,
 SYR_anarcho_liberal;Hizb al-Wataniyyin al-Ahrar;;;;;;;;;;;;;,,
 SYR_communist;Al-hizb ash-Shuyu'i as-Suri;;;;;;;;;;;;;,,
 SYR_fascist;Al-Hizb Al-Suri Al-Qawmi Al-'Ijtima'i;;;;;;;;;;;;;,,
-SZC;Sichuan;;;;;;;;;;;;;,,
+SZC;New People's Republic of China;;;;;;;;;;;;;,,
 SZC_ADJ;Sichuan;;;;;;;;;;;;;,,
-SZC_presidential_dictatorship;Sichuan Clique;;;;;;;;;;;;;,,
+SZC_presidential_dictatorship;New People's Republic of China;;;;;;;;;;;;;,,
 SZC_reactionary;Beiyang Faction;Faction Rongting;Rongting-Fraktion;;;;;;;;;;;,,
 SZC_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;;;;;;;;;;,,
 SZC_communist;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei China;;;;;;;;;;;,,
@@ -3208,8 +3209,6 @@ TUR;Yeni Imparatorluk;;;;;;;;;;;;;,,
 TUR_ADJ;Turkish;;;;;;;;;;;;;,,
 OTA;Ostanatolien;;;;;;;;;;;;;,,
 OTA_ADJ;Ostanatola;;;;;;;;;;;;;,,
-ARM;Armenia;;;;;;;;;;;;;,,
-ARM_ADJ;Armenian;;;;;;;;;;;;;,,
 LBN;Phoenicia;;;;;;;;;;;;;,,
 LBN_ADJ;Phoenicia;;;;;;;;;;;;;,,
 JOR;Mazandaran;;;;;;;;;;;;;,,
@@ -3428,22 +3427,22 @@ CHA;Chaoxue;;;;;;;;;;;x;
 CHA_ADJ;Chaoxue;;;;;;;;;;;x;
 WYS;Wuying-Shen;;;;;;;;;;;x;
 WYS_ADJ;Wuying-Shen;;;;;;;;;;;x;
-JUC;Ju;;;;;;;;;;;x;
-JUC_ADJ;Ju;;;;;;;;;;;x;
+JUC;Xiang;;;;;;;;;;;x;
+JUC_ADJ;Xiang'an;;;;;;;;;;;x;
 XIR;Xieren;;;;;;;;;;;x;
 XIR_ADJ;Xieren;;;;;;;;;;;x;
 RYU;Bàndao;;;;;;;;;;;x;
 RYU_ADJ;Bàndao;;;;;;;;;;;x;
-YNN;Sichuan;;;;;;;;;;;x;
-YNN_ADJ;Sichuan;;;;;;;;;;;x;
+YNN;Baiyue Confederacy;;;;;;;;;;;x;
+YNN_ADJ;Baiyue-Sino;;;;;;;;;;;x;
 GNG;Cantan;;;;;;;;;;;x;
 GNG_ADJ;Cantan;;;;;;;;;;;x;
-FJN;Chen;;;;;;;;;;;x;
-FJN_ADJ;Chen;;;;;;;;;;;x;
-GXI;Mao;;;;;;;;;;;x;
-GXI_ADJ;Mao;;;;;;;;;;;x;
-MCK;Xi-Jingping;;;;;;;;;;;x;
-MCK_ADJ;Xi-Ping;;;;;;;;;;;x;
+FJN;New State of Ba;;;;;;;;;;;x;
+FJN_ADJ;Ba'an;;;;;;;;;;;x;
+GXI;Shanxi Maoist Special Military Zone;;;;;;;;;;;x;
+GXI_ADJ;Maoist;;;;;;;;;;;x;
+MCK;Dongbei;;;;;;;;;;;x;
+MCK_ADJ;Dongbei-Erhua;;;;;;;;;;;x;
 XIN;Kholq;;;;;;;;;;;x;
 XIN_ADJ;Kholq;;;;;;;;;;;x;
 NTC;Norkselskap;;;;;;;;;;;x;
@@ -3461,6 +3460,22 @@ SAF;Der Kaap;;;;;;;;;;;x;
 SAF_ADJ;Kaap;;;;;;;;;;;x;
 SAF_democracy;Kaap Republic;;;;;;;;;;;x;
 SAF_presidential_dictatorship;Kaap Republic;;;;;;;;;;;x;
+SAF_absolute_monarchy;Kaaper Matriargie;;;;;;;;;;;x;
+SAF_hms_government;Kaaper Matriargie;;;;;;;;;;;x;
+SAF_prussian_constitutionalism;Kaaper Matriargie;;;;;;;;;;;x;
+SAF_bourgeois_dictatorship;Kaap People's Republic;;;;;;;;;;;x;
+SAF_proletarian_dictatorship;KSSR;;;;;;;;;;;x;
+SAF_fascist_dictatorship;Kaaper Empire;;;;;;;;;;;x;
+SAF_liberal;Progressief Party;;;;;;;;;;;x;
+SAF_conservative;Matriargse Party;;;;;;;;;;;x;
+SAF_socialist;Baster Koalisie;;;;;;;;;;;x;
+SAF_conservative_2;Matriargse Beskermers;;;;;;;;;;;x;
+SAF_liberal_2;Oranje Koalisie;;;;;;;;;;;x;
+SAF_conservative_3;Minderomgee;;;;;;;;;;;x;
+SAF_reactionary;Matriargse Wag;;;;;;;;;;;x;
+SAF_anarcho_liberal;Anti-Regering Koalisie;;;;;;;;;;;x;
+SAF_communist;Volkskoalisie;;;;;;;;;;;x;
+SAF_fascist;Voorspoed Party;;;;;;;;;;;x;
 ZUL;Zulu;;;;;;;;;;;x;
 ZUL_democracy;Zulu Republic;;;;;;;;;;;x;
 ZUL_hms_government;Great Zulu;;;;;;;;;;;x;
@@ -3565,22 +3580,22 @@ AFG;Pashtistan;;;;;;;;;;;;;,,
 AFG_ADJ;Pashtun;;;;;;;;;;;;;,,
 KNY;Viwabingwa;;;;;;;;;;;;;,,
 KNY_ADJ;Viwabingwan;;;;;;;;;;;;;,,
-BNG;Banladesa;;;;;;;;;;;;;,,
-BNG_ADJ;Banladesi;;;;;;;;;;;;;,,
-BNG_absolute_monarchy;Banla;;;;;;;;;;;;;,,
-BNG_prussian_constitutionalism;Banla;;;;;;;;;;;;;,,
-BNG_hms_government;Banla;;;;;;;;;;;;;,,
-BNG_proletarian_dictatorship;Banla People's Republic;;;;;;;;;;;;;,,
-KAR;Bago;;;;;;;;;;;;;,,
+BNG;New Bangladesh;;;;;;;;;;;;;,,
+BNG_ADJ;Bhagyabana;;;;;;;;;;;;;,,
+BNG_absolute_monarchy;Hamid Dynasty;;;;;;;;;;;;;,,
+BNG_prussian_constitutionalism;Bangla Kingdom;;;;;;;;;;;;;,,
+BNG_hms_government;Bangla Kingdom;;;;;;;;;;;;;,,
+BNG_proletarian_dictatorship;Bangla People's Republic;;;;;;;;;;;;;,,
+KAR;Karen State of Bago;;;;;;;;;;;;;,,
 KAR_ADJ;Bagese;;;;;;;;;;;;;,,
-SHA;Natsein;;;;;;;;;;;;;,,
-SHA_ADJ;Natsein;;;;;;;;;;;;;,,
-KCH;Athurakal;;;;;;;;;;;;;,,
-KCH_ADJ;Athurakan;;;;;;;;;;;;;,,
-SIA;Syam;;;;;;;;;;;;;,,
-SIA_ADJ;Syamese;;;;;;;;;;;;;,,
-SIA_absolute_monarchy;Daeng Kingdom;;;;;;;;;;;;;,,
-SIA_hms_government;Daeng Kingdom;;;;;;;;;;;;;,,
+SHA;Bamar National Union;;;;;;;;;;;;;,,
+SHA_ADJ;East Burmese;;;;;;;;;;;;;,,
+KCH;Bamar Citizen's Front;;;;;;;;;;;;;,,
+KCH_ADJ;West Burmese;;;;;;;;;;;;;,,
+SIA;Sukhothai Thani;;;;;;;;;;;;;,,
+SIA_ADJ;Phayap;;;;;;;;;;;;;,,
+SIA_absolute_monarchy;Rongthrong Dynasty;;;;;;;;;;;;;,,
+SIA_hms_government;Kingdom of Dynasty;;;;;;;;;;;;;,,
 SIA_prussian_constitutionalism;Daeng Kingdom;;;;;;;;;;;;;,,
 WOL;Marcage;;;;;;;;;;;;;,,
 JIY;Jiyunoji;;;;;;;;;;;;;,,
@@ -3660,10 +3675,10 @@ QUZ;Holy Banahaw;;;;;;;;;;;;;
 QUZ_ADJ;Banahawan;;;;;;;;;;;;;
 CRD;Cordillera Valleys;;;;;;;;;;;;;
 CRD_ADJ;Cordillera;;;;;;;;;;;;;
-SBI;PAX Freeport Island;;;;;;;;;;;;;
-SBI_ADJ;Freeporter;;;;;;;;;;;;;
-ALN;Sons of Luna;;;;;;;;;;;;;
-ALN_ADJ;Lunar;;;;;;;;;;;;;
+SBI;Seven Captaincies of New Pacifica ;;;;;;;;;;;;;
+SBI_ADJ;New Pacificans;;;;;;;;;;;;;
+ALN;The People's South Sea Fleet;;;;;;;;;;;;;
+ALN_ADJ;Dong Cliquer;;;;;;;;;;;;;
 ILC;Bagong Lipunan;;;;;;;;;;;;;
 ILC_ADJ;Bagong Lipunan;;;;;;;;;;;;;
 BIC;Robredian Commune;;;;;;;;;;;;;
@@ -3684,6 +3699,18 @@ GEO;Kartvli;;;;;;;;;;;;;
 GEO_ADJ;Sakartvlin;;;;;;;;;;;;;
 AZB;Benzinli Torpaq;;;;;;;;;;;;;
 AZB_ADJ;Benzin Qoxusu;;;;;;;;;;;;;
-ARM;Sacred Ararat;;;;;;;;;;;;;
+ARM;Ararat;;;;;;;;;;;;;
+ARM_ADJ;Araratian;;;;;;;;;;;;;
 OSE;Alania;;;;;;;;;;;;;
 WGO;New Colchis;;;;;;;;;;;;;
+HND;Uyar Tolilnutpam;;;;;;;;;;;;;
+TIB;South Tibet;;;;;;;;;;;;;
+ROH;Rohingyadesh;;;;;;;;;;;;;
+ROH_ADJ;Bemce Thakan;;;;;;;;;;;;;
+ROH_absolute_monarchy;Jununi Dynasty;;;;;;;;;;;;;,,
+ROH_prussian_constitutionalism;Rohingya Kingdom;;;;;;;;;;;;;,,
+ROH_hms_government;Rohingya Kingdom;;;;;;;;;;;;;,,
+ROH_proletarian_dictatorship;Rohingya People's Republic;;;;;;;;;;;;;,,
+ROH_fascist_dictatorship;8-1-1438 Sain'Yadala;;;;;;;;;;;;;,,
+NGL;North East Christian Council;;;;;;;;;;;;;,,
+NGL_ADJ;NEFA Council Member;;;;;;;;;;;;;,,

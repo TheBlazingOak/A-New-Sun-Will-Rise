@@ -33,6 +33,7 @@ luxury_needs = {
     paper = 1.0
     telephones = 1.0
     automobiles = 0.5
+	opium = 1
     radio = 1.0
     fuel = 0.1
     #dye = 0.5

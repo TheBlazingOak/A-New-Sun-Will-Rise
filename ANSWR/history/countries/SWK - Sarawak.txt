@@ -1,5 +1,8 @@
-capital = 1394
-primary_culture = malay
+capital = 1393
+primary_culture = pacifica
+culture = borneanmalay
+culture = malay
+culture = asian_minor
 culture = yue
 religion = sunni
 government = absolute_monarchy
@@ -7,6 +10,8 @@ plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
 non_state_culture_literacy = 0.01
+civilized = no
+
 
 # Political reforms
 slavery = yes_slavery
@@ -45,5 +50,21 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+schools = developing_tech_school
+
+foreign_weapons = yes_foreign_weapons
+foreign_artillery = yes_foreign_artillery
+foreign_naval_officers = yes_foreign_naval_officers
+western_shipyards = yes_western_shipyards
+foreign_navies = yes_foreign_navies
+naval_schools = yes_naval_schools
+
+# Technologies
+flintlock_rifles = 1
+post_nelsonian_thought = 1
+clipper_design = 1 
+steamers = 1
+bronze_muzzle_loaded_artillery = 1
 
 set_country_flag = sunni_country

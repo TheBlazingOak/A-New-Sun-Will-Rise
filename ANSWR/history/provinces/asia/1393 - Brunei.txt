@@ -1,5 +1,6 @@
-owner = BRU
-controller = BRU
-add_core = BRU
+owner = SWK
+controller = SWK
+add_core = SWK
 trade_goods = fish
 life_rating = 31
+naval_base = 1

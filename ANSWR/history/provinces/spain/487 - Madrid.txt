@@ -3,6 +3,7 @@ controller = LIR
 add_core = LIR
 trade_goods = cattle
 life_rating = 31
+terrain = ruined_city
 #state_building = {
 #    level = 1
 #    building = ammunition_factory

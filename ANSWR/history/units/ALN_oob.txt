@@ -1,0 +1,34 @@
+
+navy = {
+    name = "Taiwan Coast Guard"
+    location = 2681
+    ship = {
+        name= "Beijing 17"
+        type = frigate
+    }
+    ship = {
+        name= "Nanking 22"
+        type = frigate
+    }
+    ship = {
+        name= "Chongqing 14"
+        type = frigate
+    }
+    ship = {
+        name= "Hong Kong 13"
+        type = frigate
+    }
+    ship = {
+        name= "Haikou 3"
+        type = frigate
+    }
+
+}
+
+leader = {
+    name = "Dong Huazhi"
+    type = sea
+    date="2830.1.1"
+    personality = clever
+    background = nationalist
+}

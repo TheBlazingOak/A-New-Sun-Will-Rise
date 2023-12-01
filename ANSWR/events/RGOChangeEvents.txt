@@ -5932,7 +5932,6 @@ country_event = {
     option = {
         name = "EVTOPTD199038" #Coffee
         1394 = { trade_goods = coffee }
-        1395 = { trade_goods = coffee }
         1388 = { trade_goods = coffee }
 
         ai_chance = {

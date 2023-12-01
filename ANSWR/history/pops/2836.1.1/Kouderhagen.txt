@@ -354,13 +354,13 @@
     craftsmen = {
         culture = dutch
         religion = ketronant
-        size = 20000
+        size = 40000
     }
 
     clerks = {
         culture = dutch
         religion = ketronant
-        size = 2000
+        size = 6000
     }
 
     clergymen = {
@@ -373,12 +373,6 @@
         culture = dutch
         religion = ketronant
         size = 1000
-    }
-
-    artisans = {
-        culture = dutch
-        religion = ketronant
-        size = 10000
     }
 
     artisans = {
@@ -414,7 +408,13 @@
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 372575
+        size = 362575
+    }
+
+    farmers = {
+        culture = rhine_german
+        religion = ketronant
+        size = 13300
     }
 
     artisans = {
@@ -941,13 +941,13 @@
     clerks = {
         culture = dutch
         religion = ketronant
-        size = 2150
+        size = 4150
     }
 
     craftsmen = {
         culture = dutch
         religion = ketronant
-        size = 15000
+        size = 35000
     }
 
     artisans = {
@@ -971,13 +971,13 @@
     labourers = {
         culture = dutch
         religion = ketronant
-        size = 103725
+        size = 93725
     }
 
     labourers = {
         culture = dutch
         religion = ketronant
-        size = 76725
+        size = 66725
     }
 
 }
@@ -1016,17 +1016,22 @@
     farmers = {
         culture = rhine_german
         religion = ketronant
-        size = 75525
+        size = 55525
     }
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 23525
+        size = 43525
     }
-    farmers = {
+    craftsmen = {
         culture = dutch
         religion = ketronant
-        size = 14000
+        size = 18000
+    }
+    clerks = {
+        culture = dutch
+        religion = ketronant
+        size = 3000
     }
 }
 #Antwerp (354000/88500 POPS)
@@ -1443,10 +1448,10 @@
         size = 22500
     }
 
-    artisans = {
+    craftsmen = {
         culture = rhine_german
         religion = ketronant
-        size = 10000
+        size = 60000
     }
 
     artisans = {
@@ -1464,7 +1469,7 @@
     farmers = {
         culture = rhine_german
         religion = ketronant
-        size = 115712
+        size = 85712
     }    
 
     artisans = {
@@ -1515,7 +1520,7 @@
     farmers = {
         culture = rhine_german
         religion = ketronant
-        size = 65400
+        size = 55400
     }
 
     aristocrats = {
@@ -1545,7 +1550,17 @@
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 22275
+        size = 32275
+    }
+    craftsmen = {
+        culture = dutch
+        religion = ketronant
+        size = 7000
+    }
+    craftsmen = {
+        culture = rhine_german
+        religion = ketronant
+        size = 7000
     }
 
 }
