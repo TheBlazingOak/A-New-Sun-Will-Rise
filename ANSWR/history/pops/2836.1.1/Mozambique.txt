@@ -3,73 +3,37 @@
 #Maputo (244000/61000)
 2049 = {
     aristocrats = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 2400
     }
 
     clergymen = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 350
     }
 
     artisans = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 1600
     }
 
     soldiers = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 400
     }
 
     farmers = {
-        culture = nguni
+        culture = kasashe
         religion = animist
-        size = 42250
+        size = 25250
     }
 
     slaves = {
-        culture = nguni
-        religion = animist
-        size = 3000
-    }
-
-    aristocrats = {
-        culture = tonga
-        religion = animist
-        size = 1250
-    }
-
-    clergymen = {
-        culture = tonga
-        religion = animist
-        size = 225
-    }
-
-    artisans = {
-        culture = tonga
-        religion = animist
-        size = 1750
-    }
-
-    soldiers = {
-        culture = tonga
-        religion = animist
-        size = 250
-    }
-
-    farmers = {
-        culture = tonga
-        religion = animist
-        size = 21525
-    }
-
-    slaves = {
-        culture = tonga
+        culture = kasashe
         religion = animist
         size = 3000
     }
@@ -77,37 +41,37 @@
 #Chaimate (280000/70000 POPS)
 2050 = {
     aristocrats = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 350
     }
 
     artisans = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 1600
     }
 
     soldiers = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 400
     }
 
     farmers = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 23250
     }
 
     slaves = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 5000
     }
@@ -151,37 +115,37 @@
 #Inhambane (176000/44000 POPS)
 2051 = {
     aristocrats = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 150
     }
 
     clergymen = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 125
     }
 
     artisans = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 600
     }
 
     soldiers = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 25975
     }
 
     slaves = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 2000
     }
@@ -225,31 +189,31 @@
 #Massekisse (172000/43000 POPS)
 2052 = {
     aristocrats = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = nguni
+        culture = kasashe
         religion = animist
         size = 3650
     }

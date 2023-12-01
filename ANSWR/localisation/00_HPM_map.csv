@@ -165,8 +165,6 @@ PROV1990;Kindu;;;;;;;;;;;;;x
 PROV1991;Rusozi;;;;;;;;;;;;;x
 PROV2471;Bathurst;;;;;;;;;;;;;x
 PROV2496;Nullarbor;;;;;;;;;;;;;x
-PROV2603;Chanamee;;;;;;;;;;;;;x
-PROV2507;Mparntwe;;;;;;;;;;;;;x
 PROV2505;Port Essington;;;;;;;;;;;;;x
 RUS_973;Kherson-Zaporizhia;;;;;;;;;;;;;x
 RUS_955;Yekaterinoslav;;;;;;;;;;;;x
@@ -1110,7 +1108,6 @@ AST_399;Trovenstray;;;;;;;;;;;;;;;;;;;;;;;x
 AST_407;Saplaid;;;;;;;;;;;;;;;;;;;;;;;x
 AST_856;Nowozer-Braze;;;;;;;;;;;;;;;;;;;;;;;x
 AST_742;Ranseyre;;;;;;;;;;;;;;;;;;;;;;;x
-AST_2476;Melbourne;;;;;;;;;;;;;;;;;;;;;;;x
 AST_128;The Lost Coast;;;;;;;;;;;;;;;;;;;;;;;x
 AST_2473;Broken Plains;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1485;Lenikhtinsk;;;;;;;;;;;;;;;;;;;;;;;x
@@ -1424,8 +1421,9 @@ PROV2653;Brazie City;;;;;;;;;;;;;;;;;;;;x;
 PROV856;Bessiva;;;;;;;;;;;;;;;;;;;;x;
 PROV2688;Pincess;;;;;;;;;;;;;;;;;;;;x;
 PROV407;White Harbour;;;;;;;;;;;;;;;;;;;;x;
-PROV465;Jake's Plains
-PROV2527;Redlunds
+PROV471;Undflaw;;;;;;;;;;;;;;;;;;;;x;
+PROV465;Jake's Plains;;;;;;;;;;;;;;;;;;;;x;
+PROV2527;Redlunds;;;;;;;;;;;;;;;;;;;;x;
 PROV2647;Coustre;;;;;;;;;;;;;;;;;;;;x;
 PROV399;Trovenstray City;;;;;;;;;;;;;;;;;;;;x;
 PROV847;Chess;;;;;;;;;;;;;;;;;;;;x;
@@ -1442,6 +1440,10 @@ AST_2476;Melbore;;;;;;;;;;;;;;;;;;;;x;
 PROV2476;Melbore;;;;;;;;;;;;;;;;;;;;x;
 PROV2490;Charlevia;;;;;;;;;;;;;;;;;;;;x;
 PROV1654;Bones;;;;;;;;;;;;;;;;;;;;x;
-PROV2536;Saint Charles
-PROV1424;Unver
-PROV1325;Lectaton
+PROV2536;Saint Charles;;;;;;;;;;;;;;;;;;;;x;
+PROV1424;Unver;;;;;;;;;;;;;;;;;;;;x;
+PROV1325;Lectaton;;;;;;;;;;;;;;;;;;;;x;
+PROV2544;Acter;;;;;;;;;;;;;;;;;;;;x;
+PROV2128;Peresha;;;;;;;;;;;;;;;;;;;;x;
+PROV2486;Forest;;;;;;;;;;;;;;;;;;;;x;
+PROV2551;Everret;;;;;;;;;;;;;;;;;;;;x;

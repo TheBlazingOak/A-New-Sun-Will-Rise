@@ -3469,6 +3469,22 @@ central_african = {
         last_names = { Kasang Nambing Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
         }
     }
+    nbele = {
+        color = {231 144 144}
+        first_names = { Ngalifourou Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
+        }
+
+        last_names = { Bongo Ganao Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
+        }
+    }
+    kasai = {
+        color = {77 66 99}
+        first_names = { Poaty Loembe M'voudoukousala Pratt N'Gangue M'voumbe Mfutila Kivuzi Nteve Kenje
+        }
+
+        last_names = { "Ma Nombo" "Ma N'Sangou" N'Gombi Matou Mvemba Lukeni Mpanzu Nimi Nsindi
+        }
+    }
 }
 
 east_african = {
@@ -3691,11 +3707,27 @@ southern_african = {
         }
     }
     tswana = {
-        color = {94 180 42}
+        color = {89  141  140}
         first_names = { Samuel Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
         }
 
         last_names = { Maharero Witbooi Tjavikwa Tjimba Hakawona vaKuvale vaZemba
+        }
+    }
+    barot = {
+        color = {200 191 231}
+        first_names = { Kaumba Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
+        }
+
+        last_names = { Kasang Nambing Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
+        }
+    }
+    barbaro = {
+        color = {100 100 150}
+        first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
+        }
+
+        last_names = { Bolia Bokote Bongandu Ekonda Mbole Nkutu Ntomba Sengele Songomeno Dengese Tetela-Kusu
         }
     }
     lomwe = {
