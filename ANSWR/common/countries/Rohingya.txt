@@ -107,30 +107,10 @@ party = {
 }
 
 unit_names = {
-	carrier = {
-		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
-	}
-	transportship = {
-	}
-	modern_frigate = {
-		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
-	}
 	cruiser = {
 		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
 	}
-	modern_cruiser = {
-		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
-	}
 	frigate = {
-		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
-	}
-	modern_destroyer = {
-		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
-	}
-	destroyer = {
-		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
-	}
-	submarine = {
 		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan Tavoy Mergui Tanintharyi Ye Irrawady
 	}
 

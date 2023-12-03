@@ -141,6 +141,11 @@ europe_religions = {
         icon = 20
         color = { 0.6 0.7 0.7}
     }
+    #Jardin Brokers
+    jardinite = {
+        icon = 28
+        color = { 1.0 0.7 0.7}
+    }
 }
 
 liberty = {

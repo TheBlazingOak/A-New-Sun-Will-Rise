@@ -8,19 +8,24 @@
     aristocrats = {
         culture = afrikaan
         religion = ancestor
-        size = 7s00
+        size = 2000
     }
 
     clergymen = {
         culture = afrikaan
         religion = ancestor
-        size = 450
+        size = 1750
     }
 
     artisans = {
         culture = afrikaan
         religion = ancestor
-        size = 7750
+        size = 10000
+    }
+    artisans = {
+        culture = afrikaan
+        religion = ancestor
+        size = 4200
     }
 
     soldiers = {

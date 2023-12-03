@@ -36,8 +36,6 @@ border_policy = open_borders
 
 set_country_flag = prosperity_country
 
-set_country_flag = prosperity_country
-
 ruling_party = EST_conservative
 upper_house = {
     fascist = 0

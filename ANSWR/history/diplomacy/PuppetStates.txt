@@ -2,14 +2,6 @@
 #######################
 #        EUROPE       #
 #######################
-Dutch-Germanized Danes
-vassal = {
-    first = NIW
-    second = VLA
-    start_date = 2836.1.1
-    end_date = 2936.1.1
-}
-
 #Circassian Steppe Russians-Native Circassians
 vassal = {
     first = DON

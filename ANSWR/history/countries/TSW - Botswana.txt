@@ -1,13 +1,10 @@
 capital = 2074
 primary_culture = tswana
-culture = nguni
-culture = tswana
-culture = khoisan
 religion = animist
-government = democracy
-plurality = 0.0
+government = absolute_monarchy
+plurality = 1.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.18
 non_state_culture_literacy = 0
 
 

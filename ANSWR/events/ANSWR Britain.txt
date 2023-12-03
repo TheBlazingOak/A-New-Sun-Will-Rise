@@ -197,7 +197,7 @@ country_event = {
     }
 
     mean_time_to_happen = {
-        months = 120
+        months = 60
         modifier = {
             factor = 0.75
             romanticism = 1

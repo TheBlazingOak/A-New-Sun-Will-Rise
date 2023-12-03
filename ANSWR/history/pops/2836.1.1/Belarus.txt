@@ -106,31 +106,31 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = paltijan
         religion = the_one
         size = 100
     }
 
     officers = {
-        culture = lithuanian
+        culture = paltijan
         religion = the_one
         size = 100
     }
 
     artisans = {
-        culture = lithuanian
+        culture = paltijan
         religion = the_one
         size = 200
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = paltijan
         religion = the_one
         size = 100
     }
 
     farmers = {
-        culture = lithuanian
+        culture = paltijan
         religion = the_one
         size = 4700
     }
@@ -481,37 +481,37 @@
     }
 
     aristocrats = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 100
     }
 
     officers = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 2910
     }
@@ -519,25 +519,25 @@
 #Lida (192000/48000 POPS)
 938 = {
     clergymen = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 800
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 35875
     }
@@ -986,25 +986,25 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = lithuanian
+        culture = paltijan
         religion = catholic
         size = 4625
     }

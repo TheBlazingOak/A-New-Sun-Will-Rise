@@ -240,7 +240,7 @@
     }
 
     slaves = {
-        culture = khoisan
+        culture = barot
         religion = animist
         size = 5800
     }
@@ -395,7 +395,7 @@
     }
 
     slaves = {
-        culture = khoisan
+        culture = barot
         religion = animist
         size = 1250
     }

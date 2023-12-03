@@ -27,7 +27,6 @@ political_decisions = {
 	}
 	#Sell off ceylon
 	sell_off_ceylon = {
-		picture = 
 		alert = no
 		potential = {
 			TAG = SAF
@@ -43,6 +42,7 @@ political_decisions = {
 		}
 		ai_will_do = { factor = 1 }  
 	}
+
 	rename_zululand = {
 		alert = yes
 		potential ={
@@ -158,11 +158,11 @@ political_decisions = {
 		}
 	}
 	tswana_conquest = {
+		picture = embrace_the_boer
 		potential = {
 			TAG = SAF
 			prestige = 25
 			NOT = {  has_country_flag = claimed_tswanaland }
-			year = 2840
 		}
 		allow = {
 			2105 = {owned_by = SAF}
@@ -171,18 +171,14 @@ political_decisions = {
 			ENG_2074 = { add_core = SAF}
 			set_country_flag = claimed_tswanaland
 		}
-
 	}
-	###Matriarch Decisions###
 	#Emma van der Sandt#
 	#Rebuild Kaapstad#
 	renovate_kaapstad_sandt = {
 		potential = {
 			TAG = SAF
-			prestige = 5
-			experimental_railroad = 1
 			has_country_modifier = matriarch_emma_van_der_sandt
-			NOT = { 2087 = { add_province_modifier = { name = kaapstad_sandt } } }
+			NOT = { has_country_flag = kaapstad_renovated }
 		}
 		allow = {
 			owns = 2087
@@ -190,23 +186,26 @@ political_decisions = {
 			naval_design_bureaus = 1
 		}
 		effect = {
-			2087 = { add_province_modifier = { name = recently_built_city duration = 1825 } }
-			2087 = { add_province_modifier = { name = kaapstad_sandt duration = -1 } }
-			2087 = { trade_goods = cotton }
-			2087 = { naval_base = 2 }
-			2087 = { railroad = 1 }
-			money = -100000
+			any_core = {
+				limit = {
+					owned_by = THIS
+					is_capital = yes
+				}
+				add_province_modifier = { name = recently_built_city duration = 1825 }
+				add_province_modifier = { name = kaapstad_sandt duration = -1 }
+				naval_base = 2
+				railroad = 1
+				trade_goods = cotton
+			}
+			set_country_flag = kaapstad_renovated
 		}
 	}
-	#Marlize van Rooyen#
-	#Rebuild Kaapstad#
+	#Van Rooyen#
 	renovate_kaapstad_rooyen = {
 		potential = {
 			TAG = SAF
-			prestige = 5
-			experimental_railroad = 1
 			has_country_modifier = matriarch_marlize_van_rooyen
-			NOT = { 2087 = { has_province_modifier = { name = kaapstad_rooyen  } } }
+			NOT = { has_country_flag = kaapstad_renovated }
 		}
 		allow = {
 			owns = 2087
@@ -214,39 +213,46 @@ political_decisions = {
 			mechanized_mining = 1
 		}
 		effect = {
-			2087 = { add_province_modifier = { name = recently_built_city duration = 1825 } }
-			2087 = { add_province_modifier = { name = kaapstad_rooyen duration = -1 } }
-			2087 = { trade_goods = coal }
-			2087 = { railroad = 2 }
-			money = -100000
+			any_core = {
+				limit = {
+					owned_by = THIS
+					is_capital = yes
+				}
+				add_province_modifier = { name = recently_built_city duration = 1825 }
+				add_province_modifier = { name = kaapstad_rooyen duration = -1 }
+				naval_base = 1
+				railroad = 2
+				trade_goods = coal
+			}
+			set_country_flag = kaapstad_renovated
 		}
 	}
-	#Mine industry push
-	#Zeah de Volk#
-	#Rebuild Kaapstad#
+	#Volk#
 	renovate_kaapstad_volk = {
 		potential = {
 			TAG = SAF
-			prestige = 5
-			experimental_railroad = 1
 			has_country_modifier = matriarch_zeah_de_volk
-			NOT = { 2087 = { has_province_modifier = { name = kaapstad_volk } } }
+			NOT = { has_country_flag = kaapstad_renovated }
 		}
 		allow = {
 			owns = 2087
-			medicine = 1
 			treasury = 100000
+			medicine = 1
 		}
 		effect = {
-			2087 = { add_province_modifier = { name = recently_built_city duration = 1825 } }
-			2087 = { add_province_modifier = { name = kaapstad_volk duration = -1 } }
-			2087 = { trade_goods = silk }
-			2087 = { railroad = 1 }
-			money = -100000
+			any_core = {
+				limit = {
+					owned_by = THIS
+					is_capital = yes
+				}
+				add_province_modifier = { name = recently_built_city duration = 1825 }
+				add_province_modifier = { name = kaapstad_volk duration = -1 }
+				railroad = 1
+				trade_goods = silk
+			}
+			set_country_flag = kaapstad_renovated
 		}
 	}
-	#Hospital Reform
-	###Republic Decisions###
 
 }
 

@@ -3,43 +3,43 @@
 474 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2200
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 450
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 650
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 6350
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 3000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 154350
     }
 }
@@ -47,51 +47,51 @@
 475 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1050
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 5000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 10850
     }
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 50
         militancy = 8
     }
 
     soldiers = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 50
         militancy = 8
     }
 
     farmers = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 3900
         militancy = 8
     }
@@ -100,31 +100,31 @@
 476 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 700
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 800
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 4000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 75500
     }
 
@@ -134,43 +134,43 @@
 477 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 800
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 300
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 400
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 700
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 3500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 700
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 63600
     }
 }
@@ -178,51 +178,51 @@
 478 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 400
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 3500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 400
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 35700
     }
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 50
         militancy = 8
     }
 
     soldiers = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 50
         militancy = 8
     }
 
     farmers = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 3900
         militancy = 8
     }
@@ -231,44 +231,44 @@
 479 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 650
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 575
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 5500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 600
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 50675
     }
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 25
         militancy = 8
     }
 
     farmers = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 975
         militancy = 8
     }
@@ -277,31 +277,31 @@
 480 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 600
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 6000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 40900
     }
 
@@ -311,43 +311,43 @@
 481 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1500
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 250
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 350
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 700
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 3500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 62700
     }
 }
@@ -355,31 +355,31 @@
 482 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 550
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2600
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 48750
     }
 }
@@ -387,31 +387,31 @@
 483 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1200
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 550
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 4000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 49250
     }
 
@@ -421,43 +421,43 @@
 484 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1250
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 200
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 250
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 550
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 4500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 600
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 46650
     }
 }
@@ -465,31 +465,31 @@
 485 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1050
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2250
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 43700
     }
 }
@@ -497,31 +497,31 @@
 486 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 900
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 425
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 450
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 38725
     }
 
@@ -531,85 +531,85 @@
 487 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2000
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 900
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 8500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 3000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 3000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 20100
     }
 }
@@ -617,31 +617,31 @@
 488 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1200
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 45800
     }
 }
@@ -649,37 +649,37 @@
 489 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1550
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 750
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 6000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 3000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 62200
     }
 }
@@ -687,31 +687,31 @@
 490 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1800
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 875
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 4200
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 850
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 78775
     }
 }
@@ -719,31 +719,31 @@
 491 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1500
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 700
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 3500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 700
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 65600
     }
 
@@ -753,61 +753,61 @@
 492 = {
     aristocrats = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 600
     }
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 550
     }
 
     artisans = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 3000
     }
 
     soldiers = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 550
     }
 
     farmers = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 51800
     }
 
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 250
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 200
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 200
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 18850
     }
 }
@@ -815,85 +815,85 @@
 493 = {
     aristocrats = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 700
     }
 
     officers = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 100
     }
 
     bureaucrats = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 150
     }
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 375
     }
 
     artisans = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 1750
     }
 
     soldiers = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 400
     }
 
     labourers = {
         culture = basque
-        religion = catholic
+        religion = jardinite
         size = 35025
     }
 
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 100
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 200
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 225
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1250
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 250
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 19975
     }
 }
@@ -901,544 +901,32 @@
 494 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 850
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 400
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 400
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 35850
-    }
-
-}
-#Aragon Region (764000)
-#Zaragosa (312000/78000 POPS)
-495 = {
-    aristocrats = {
-        culture = spanish
-        religion = catholic
-        size = 1600
-    }
-
-    officers = {
-        culture = spanish
-        religion = catholic
-        size = 250
-    }
-
-    bureaucrats = {
-        culture = spanish
-        religion = catholic
-        size = 300
-    }
-
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 750
-    }
-
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 5000
-    }
-
-    soldiers = {
-        culture = spanish
-        religion = catholic
-        size = 1100
-    }
-
-    farmers = {
-        culture = spanish
-        religion = catholic
-        size = 57100
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 1950
-    }
-}
-#Huesca (224000/56000 POPS)
-496 = {
-    aristocrats = {
-        culture = spanish
-        religion = catholic
-        size = 450
-    }
-
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 350
-    }
-
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 1850
-    }
-
-    soldiers = {
-        culture = spanish
-        religion = catholic
-        size = 400
-    }
-
-    farmers = {
-        culture = spanish
-        religion = catholic
-        size = 35450
-    }
-
-    aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 175
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 850
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 250
-    }
-
-    labourers = {
-        culture = catalan
-        religion = catholic
-        size = 16025
-    }
-}
-#Teruel (228000/57000 POPS)
-497 = {
-    aristocrats = {
-        culture = spanish
-        religion = catholic
-        size = 1200
-    }
-
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 550
-    }
-
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 2750
-    }
-
-    soldiers = {
-        culture = spanish
-        religion = catholic
-        size = 1100
-    }
-
-    farmers = {
-        culture = spanish
-        religion = catholic
-        size = 51500
-    }
-
-}
-#Catalonia Region (1340000)
-#Barcelona (464000/116000 POPS)
-498 = {
-    aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 1700
-    }
-
-    officers = {
-        culture = catalan
-        religion = catholic
-        size = 200
-    }
-
-    bureaucrats = {
-        culture = catalan
-        religion = catholic
-        size = 550
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 825
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 2000
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 53225
-    }
-
-    aristocrats = {
-        culture = spanish
-        religion = catholic
-        size = 500
-    }
-
-    officers = {
-        culture = spanish
-        religion = catholic
-        size = 100
-    }
-
-    bureaucrats = {
-        culture = spanish
-        religion = catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 275
-    }
-
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 9000
-    }
-
-    soldiers = {
-        culture = spanish
-        religion = catholic
-        size = 300
-    }
-
-    farmers = {
-        culture = spanish
-        religion = catholic
-        size = 16125
-    }
-}
-#Gerona (228000/57000 POPS)
-499 = {
-    aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 750
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 350
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 1750
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 350
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 33300
-    }
-
-    aristocrats = {
-        culture = spanish
-        religion = catholic
-        size = 450
-    }
-
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = spanish
-        religion = catholic
-        size = 250
-    }
-
-    farmers = {
-        culture = spanish
-        religion = catholic
-        size = 18600
-    }
-}
-#Lerida (164000/41000 POPS)
-500 = {
-    aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 550
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 2750
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 275
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 24150
-    }
-
-    aristocrats = {
-        culture = spanish
-        religion = catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 125
-    }
-
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 1250
-    }
-
-    soldiers = {
-        culture = spanish
-        religion = catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = spanish
-        religion = catholic
-        size = 11275
-    }
-}
-#Tarragona (244000/61000 POPS)
-501 = {
-    aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 850
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 400
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 2000
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 400
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 37850
-    }
-
-    aristocrats = {
-        culture = spanish
-        religion = catholic
-        size = 450
-    }
-
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = spanish
-        religion = catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = spanish
-        religion = catholic
-        size = 17650
-    }
-}
-#Balearics (240000/60000 POPS)
-502 = {
-    aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 400
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 400
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 6000
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 400
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 33300
-    }
-
-    aristocrats = {
-        culture = spanish
-        religion = catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = spanish
-        religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = spanish
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = spanish
-        religion = catholic
-        size = 200
-    }
-
-    labourers = {
-        culture = spanish
-        religion = catholic
-        size = 15900
     }
 
 }
@@ -1447,97 +935,97 @@
 503 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 175
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 275
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 550
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 37900
     }
 
     aristocrats = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     officers = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 100
     }
 
     bureaucrats = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 225
     }
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 10000
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     soldiers = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     farmers = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 39675
     }
 }
@@ -1545,61 +1033,61 @@
 504 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 550
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 250
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1300
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 250
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 21650
     }
 
     aristocrats = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 275
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 1700
     }
 
     soldiers = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 250
     }
 
     farmers = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 26275
     }
 }
@@ -1607,61 +1095,61 @@
 505 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 525
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 550
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 49825
     }
 
     aristocrats = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 400
     }
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 400
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 2000
     }
 
     soldiers = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 400
     }
 
     labourers = {
         culture = catalan
-        religion = catholic
+        religion = jardinite
         size = 38300
     }
 
@@ -1671,43 +1159,43 @@
 506 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 150
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 900
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 525
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 7000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 550
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 42375
     }
 }
@@ -1715,31 +1203,31 @@
 507 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 225
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 250
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 21025
     }
 }
@@ -1747,31 +1235,31 @@
 508 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2400
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 45600
     }
 
@@ -1781,55 +1269,55 @@
 509 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1800
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 550
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 450
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 5000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 3000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 62200
     }
 }
@@ -1837,31 +1325,31 @@
 510 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1700
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 800
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 9000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 68500
     }
 }
@@ -1869,31 +1357,31 @@
 511 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 750
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 375
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 31375
     }
 }
@@ -1901,37 +1389,37 @@
 512 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 850
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 6500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 64650
     }
 
@@ -1941,49 +1429,49 @@
 513 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2750
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 450
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 950
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 5000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 3000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 72850
     }
 }
@@ -1991,37 +1479,37 @@
 514 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 2700
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 900
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 7500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 78400
     }
 }
@@ -2029,31 +1517,31 @@
 515 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1650
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 550
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 5000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 52600
     }
 }
@@ -2061,31 +1549,31 @@
 516 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1700
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 600
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 6000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 58200
     }
 
@@ -2096,43 +1584,43 @@
 2136 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 825
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 50
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 75
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 525
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 3000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 500
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = jardinite
         size = 47025
     }
 
