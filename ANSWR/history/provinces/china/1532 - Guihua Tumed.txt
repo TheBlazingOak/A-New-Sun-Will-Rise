@@ -1,5 +1,6 @@
-owner = MGL
-controller = MGL
+owner = HUI
+controller = HUI
+add_core = HUI
 add_core = MGL
 trade_goods = iron
 life_rating = 32

@@ -101,25 +101,25 @@
 #New Subic
 3334 = {
     aristocrats = {
-        culture = pampangan
+        culture = pacifica
         religion = catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = pampangan
+        culture = pacifica
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = pampangan
+        culture = pacifica
         religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = pampangan
+        culture = pacifica
         religion = catholic
         size = 2000
     }
@@ -371,37 +371,37 @@
 #Bohol Island (93608 POP)
 3337 = {
     aristocrats = {
-        culture = boholan
+        culture = cebuan
         religion = catholic
         size = 1250
     }
 
     bureaucrats = {
-        culture = boholan
+        culture = cebuan
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = boholan
+        culture = cebuan
         religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = boholan
+        culture = cebuan
         religion = catholic
         size = 10000
     }
 
     soldiers = {
-        culture = boholan
+        culture = cebuan
         religion = catholic
         size = 5000
     }
 
     farmers = {
-        culture = boholan
+        culture = cebuan
         religion = catholic
         size = 76550
     }
@@ -435,12 +435,255 @@
     soldiers = {
         culture = lanaoan
         religion = sunni
-        size = 3000
+        size = 3550
     }
 
     farmers = {
         culture = lanaoan
         religion = sunni
-        size = 69550
+        size = 69000
+    }
+}
+
+#Sarangani-South Cotabato (74719 POPS)
+3345 = {
+    aristocrats = {
+        culture = lanaoan
+        religion = sunni
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = lanaoan
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = lanaoan
+        religion = sunni
+        size = 750
+    }
+
+    artisans = {
+        culture = lanaoan
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = lanaoan
+        religion = sunni
+        size = 3550
+    }
+
+    farmers = {
+        culture = lanaoan
+        religion = sunni
+        size = 69000
+    }
+	
+	slaves = {
+        culture = aklanon
+        religion = sunni
+        size = 40000
+    }
+}
+
+#Gensan-Davao Del Sur (74719 POPS)
+3346 = {
+    aristocrats = {
+        culture = lanaoan
+        religion = sunni
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = lanaoan
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = lanaoan
+        religion = sunni
+        size = 750
+    }
+
+    artisans = {
+        culture = lanaoan
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = lanaoan
+        religion = sunni
+        size = 3550
+    }
+
+    farmers = {
+        culture = lanaoan
+        religion = sunni
+        size = 69000
+    }
+	
+	slaves = {
+        culture = cebuan
+        religion = sunni
+        size = 80000
+    }
+}
+
+#CEntral Highland Mindanao
+3347 = {
+    aristocrats = {
+        culture = manobo
+        religion = animist
+        size = 125
+    }
+ 
+    clergymen = {
+        culture = manobo
+        religion = animist
+        size = 377
+    }
+
+    artisans = {
+        culture = manobo
+        religion = animist
+        size = 1500
+    }
+
+    soldiers = {
+        culture = manobo
+        religion = animist
+        size = 2000
+    }
+
+    farmers = {
+        culture = manobo
+        religion = animist
+        size = 30550
+    }
+	aristocrats = {
+        culture = lanaoan
+        religion = animist
+        size = 125
+    }
+ 
+    clergymen = {
+        culture = lanaoan
+        religion = animist
+        size = 377
+    }
+
+    artisans = {
+        culture = lanaoan
+        religion = animist
+        size = 1500
+    }
+
+    soldiers = {
+        culture = lanaoan
+        religion = animist
+        size = 2000
+    }
+
+    farmers = {
+        culture = lanaoan
+        religion = animist
+        size = 30550
+    }
+}
+
+#Highland Zamboanga
+3350 = {
+	aristocrats = {
+        culture = manobo
+        religion = animist
+        size = 125
+    }
+ 
+    clergymen = {
+        culture = manobo
+        religion = animist
+        size = 377
+    }
+
+    artisans = {
+        culture = manobo
+        religion = animist
+        size = 1500
+    }
+
+    farmers = {
+        culture = manobo
+        religion = animist
+        size = 32550
+    }
+}
+#Agusan
+3348 = {
+	aristocrats = {
+        culture = manobo
+        religion = animist
+        size = 125
+    }
+ 
+    clergymen = {
+        culture = manobo
+        religion = animist
+        size = 377
+    }
+
+    artisans = {
+        culture = manobo
+        religion = animist
+        size = 1500
+    }
+
+	soldiers = {
+		culture = manobo
+        religion = animist
+        size = 3000
+    }
+
+    farmers = {
+        culture = manobo
+        religion = animist
+        size = 62550
+    }
+}
+#West Agusan
+3349 = {
+	aristocrats = {
+        culture = manobo
+        religion = animist
+        size = 250
+    }
+ 
+    clergymen = {
+        culture = manobo
+        religion = animist
+        size = 750
+    }
+
+    artisans = {
+        culture = manobo
+        religion = animist
+        size = 3500
+    }
+
+    soldiers = {
+		culture = manobo
+        religion = animist
+        size = 6000
+    }
+
+    farmers = {
+        culture = manobo
+        religion = animist
+        size = 104550
     }
 }

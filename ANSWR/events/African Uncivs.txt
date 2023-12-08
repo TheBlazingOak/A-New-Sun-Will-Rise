@@ -160,3 +160,287 @@ country_event = {
         }
     }
 }
+
+#The Kaaper Kingdom
+#Pretoria Annexation Chain
+country_event = {
+    id = 65510
+    title = "EVTNAME65510"
+    desc = "EVTDESC65510"
+    picture = "exemplar_colony"
+
+    trigger = {
+        has_global_flag = saf_demand_pretoria
+        TAG = TRN
+        NOT = { OR = { has_country_flag = accepted_saf has_country_flag = refused_saf}}
+    }
+
+    mean_time_to_happen = { months = 1 }
+
+    #Accept (Annexed by SAF)
+    option = {
+        name = "EVTOPTA65510"
+        SAF = { country_event = { id = 65511 days = 0 } }
+        set_country_flag = accepted_saf
+        ai_chance = {
+        chance = 50
+        }
+    }
+    #Refuse (Go to war with SAF)
+    option = {
+        name = "EVTOPTB65510"
+        SAF = { country_event = { id = 65512 days = 0} }
+        relation = {
+            who = SAF
+            value = -200
+        }
+        set_country_flag = refused_saf
+        2105 = {fort = 2 sub_unit = { type = infantry value = 3 } }
+        2106 = {fort = 2 sub_unit = { type = infantry value = 3 } }
+        2108 = {fort = 2 sub_unit = { type = infantry value = 3 } }
+        ai_chance = {
+        chance = 50
+        }
+    }
+}
+#Accepted Demands
+country_event = {
+    id = 65511
+    title = "EVTNAME65511"
+    desc = "EVTDESC65511"
+    picture = "exemplar_colony"
+    is_triggered_only = yes
+
+    option = {
+        name = "EVTOPTA65511"
+        prestige = 10
+        inherit = TRN
+        2106 = { add_core = SAF }
+        2105 = { add_core = SAF }
+        2108 = { add_core = SAF }
+    }
+}
+#Refused Demands
+country_event = {
+    id = 65512
+    title = "EVTNAME65512"
+    desc = "EVTDESC65512"
+    picture = "exemplar_colony"
+    is_triggered_only = yes
+
+    #Gain cores on TRN
+    option = {
+        name = "EVTOPTA65512"
+        2106 = { add_core = SAF }
+        2105 = { add_core = SAF }
+        2108 = { add_core = SAF }
+        militancy = 1
+    }
+}
+#Selling Ceylon Chain
+country_event = {
+    id = 65517
+    title = "EVTNAME65517"
+    desc = "EVTDESC65517"
+    picture = "exemplar_colony"
+    is_triggered_only = yes
+
+    #Kouderhagen
+    option = {
+        name = "EVTOPTA65517"
+        NET = { set_country_flag = ceylon_offered }
+        ai_chance = { chance = 25 }
+    }
+    option = {
+        name = "EVTOPTB65517"
+        UNS = { set_country_flag = ceylon_offered }
+        ai_chance = { chance = 25 }
+    }
+    option = {
+        name = "EVTOPTC65517"
+        SCO = { set_country_flag = ceylon_offered }
+        ai_chance = { chance = 25 }
+    }
+    option = {
+        name = "EVTOPTD65517"
+        HAE = { set_country_flag = ceylon_offered }
+        ai_chance = { chance = 25 }
+    }
+    #Rather Not Sell Ceylon
+    option = {
+        name = "EVTOPTE65517"
+        clr_country_flag = selling_ceylon
+    }
+}
+#Ceylon Offered
+country_event = {
+    id = 65518
+    title = "EVTNAME65518"
+    desc = "EVTDESC65518"
+    picture = "exemplar_colony"
+
+    trigger = {
+        has_country_flag = ceylon_offered
+    }
+
+    mean_time_to_happen = { months = 1 }
+
+    #Buy ceylon
+    option = {
+        name = "EVTOPTA65518"
+        SAF = { country_event = { id = 65519 days = 0}}
+        money = -100000
+        clr_country_flag = ceylon_offered
+        1321 = { secede_province = THIS }
+        1322 = { secede_province = THIS }
+        1323 = { secede_province = THIS }
+        1324 = { secede_province = THIS }
+        ai_chance = {
+        chance = 50
+        modifier = {
+            factor = 10
+            treasury = 50000
+            }
+
+        }
+    }
+    #Refuse ceylon
+    option = {
+        name = "EVTOPTB65518"
+        SAF = { country_event = { id = 65520 days = 0}}
+        clr_country_flag = ceylon_offered
+        ai_chance = {
+        chance = 50
+        modifier = {
+            factor = 2
+            treasury = 20000
+            }
+        }
+    }
+}
+#Ceylon Sold
+country_event = {
+    id = 65519
+    title = "EVTNAME65519"
+    desc = "EVTDESC65519"
+    picture = "exemplar_colony"
+    is_triggered_only = yes
+
+    #A better future
+    option = {
+        name = "EVTOPTA65519"
+        money = 150000
+    }
+}
+#Ceylon Refused
+country_event = {
+    id = 65520
+    title = "EVTNAME65520"
+    desc = "EVTDESC65520"
+    picture = "exemplar_colony"
+    is_triggered_only = yes
+
+    #A shame
+    option = {
+        name = "EVTOPTA65520"
+        clr_country_flag = selling_ceylon
+        }
+    }
+#Death of the Last Matriarch
+country_event = {
+    id = 65521
+    title = "EVTNAME65521"
+    desc = "EVTDESC65521"
+    picture = "big_parade"
+
+    trigger = {
+        tag = SAF
+        year = 2836
+        NOT = {has_country_flag = death_of_the_last_matriarch}
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { months = 1 }
+
+    option = {
+        name = "EVTOPTA65521"
+        set_country_flag = death_of_the_last_matriarch
+        prestige = -10
+        add_country_modifier = { name = memories_of_the_matriarch duration = 1825 }
+    }
+}
+#A Ticking Bomb
+country_event = {
+    id = 65522
+    title = "EVTNAME65522"
+    desc = "EVTDESC65522"
+    picture = "regency"
+
+    trigger = {
+        tag = SAF
+        year = 2836
+        has_country_flag = death_of_the_last_matriarch
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { months = 9 }
+
+    #Stay as a Monarchy (Vote for a new Matriarch path)
+    option = {
+        name = "EVTOPTA65522"
+        militancy = 3
+        set_country_flag = kaap_matriarchy
+    }
+    #Republic (Kaap Repbulic, and early reform path)
+    option = {
+        name = "EVTOPTB65522"
+        consciousness = 3
+        government = democracy
+        political_reform = wealth_voting
+        political_reform = secret_ballots
+        set_country_flag = kaap_republic
+    }
+}
+#Matriarchy
+country_event = {
+    id = 65523
+    title = "EVTNAME65523"
+    desc = "EVTDESC65523"
+    picture = "regency"
+
+    trigger = {
+        tag = SAF
+        year = 2837
+        has_country_flag = kaap_matriarchy
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { months = 12 }
+
+    option = {
+        name = "EVTOPTA65523"
+        add_country_modifier = {
+            name = matriarch_emma_van_der_sandt
+            duration = -1
+        }
+    }
+    option = {
+        name = "EVTOPTB65523"
+        consciousness = 3
+        add_country_modifier = {
+            name = matriarch_marlize_van_rooyen
+            duration = -1
+        }
+    }
+    option = {
+        name = "EVTOPTC65523"
+        miltancy = 3
+        add_country_modifier = {
+            name = matriarch_zeah_de_volk
+            duration = -1
+        }
+    }
+}

@@ -1,6 +1,6 @@
-capital = 465
+capital = 60
 primary_culture = eyre
-religion = protestant
+religion = sydnic
 government = hms_government
 plurality = 5.0
 nationalvalue = nv_productivity
@@ -34,7 +34,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
+set_country_flag = sydnic_country
 
 ruling_party = AST_reactionary
 upper_house = {

@@ -2601,65 +2601,200 @@
     aristocrats = {
         culture = lanzu
         religion = xifang
-        size = 3500
+        size = 1750
     }
 
     bureaucrats = {
         culture = lanzu
         religion = xifang
-        size = 1400
+        size = 700
     }
 
     officers = {
         culture = lanzu
         religion = xifang
-        size = 725
+        size = 362
     }
 
     artisans = {
         culture = lanzu
         religion = xifang
-        size = 6150
+        size = 3075
     }
 
     aristocrats = {
         culture = lanzu
         religion = xifang
-        size = 3000
+        size = 1500
     }
 
     clergymen = {
         culture = lanzu
         religion = xifang
-        size = 3400
+        size = 1700
     }
 
     artisans = {
         culture = lanzu
         religion = xifang
-        size = 11000
-    }
-
-    artisans = {
-        culture = lanzu
-        religion = xifang
-        size = 9000
+        size = 10000
     }
 
     soldiers = {
         culture = lanzu
         religion = xifang
-        size = 4400
+        size = 2200
     }
 
     farmers = {
         culture = lanzu
         religion = xifang
-        size = 210800
+        size = 105400
     }
 }
 #Okinawa (192000/48000 POPS)  #ryukyuan represented by lanzu
 1678 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 1850
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 145
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 175
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 750
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 4200
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 150
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 29930
+    }
+}
+
+3360 = {
+	aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 1750
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 700
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 362
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 3075
+    }
+
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 1500
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 1700
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 10000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 2200
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 105400
+    }
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 1850
+    }
+
+    bureaucrats = {
+        culture = lanzu
+        religion = xifang
+        size = 145
+    }
+
+    officers = {
+        culture = lanzu
+        religion = xifang
+        size = 175
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 750
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 4200
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 150
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 29930
+    }
+}
+
+3361 = {
     aristocrats = {
         culture = lanzu
         religion = xifang

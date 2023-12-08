@@ -313,19 +313,13 @@
     clerks = {
         culture = scottish
         religion = protestant
-        size = 10850
+        size = 14850
     }
 
     craftsmen = {
         culture = scottish
         religion = protestant
-        size = 55000
-    }
-
-    artisans = {
-        culture = scottish
-        religion = protestant
-        size = 10000
+        size = 75000
     }
 
     artisans = {

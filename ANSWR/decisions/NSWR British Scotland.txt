@@ -1,0 +1,22 @@
+political_decisions = {
+	scotland_is_stalish = {
+		potential = {
+			tag = ENL
+			NOT = { has_country_flag = stalish_scots }
+		}
+		
+		allow = {
+			mass_politics = 1
+			NOT = { owns = 269 }
+			SCO = { exists = yes }
+			ruling_party_ideology = fascist
+		}
+		
+		effect = {
+			set_country_flag = stalish_scots
+			SCO = { all_core = { add_core = THIS } }
+			prestige = 20
+			badboy = 10
+		}
+	}
+}

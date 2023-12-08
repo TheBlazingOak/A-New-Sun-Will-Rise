@@ -1,5 +1,5 @@
-owner = GXI
-controller = GXI
-add_core = GXI
+owner = SXI
+controller = SXI
+add_core = SXI
 trade_goods = cattle
 life_rating = 32

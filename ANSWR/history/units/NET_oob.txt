@@ -287,12 +287,12 @@ navy = {
     }
 
     ship = {
-        name= "3 Transport Eskader"
+        name= "4 Transport Eskader"
         type = clipper_transport
     }
 
     ship = {
-        name= "3 Transport Eskader"
+        name= "5 Transport Eskader"
         type = clipper_transport
     }
 }

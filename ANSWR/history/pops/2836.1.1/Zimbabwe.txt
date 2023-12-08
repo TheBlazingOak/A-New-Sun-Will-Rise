@@ -325,19 +325,19 @@
     }
 
     artisans = {
-        culture = sotho
+        culture = zulu
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = sotho
+        culture = zulu
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = sotho
+        culture = zulu
         religion = animist
         size = 6650
     }

@@ -2636,3 +2636,57 @@ oudrijk_oppostion = {
     prestige = 0.02
     ruling_party_support = 0.10
 }
+
+#KAAP#
+memories_of_the_matriarch = {
+    icon = 7
+    prestige = 0.1
+    research_points_modifier = 0.15
+    ruling_party_support = -0.10
+    pop_consciousness_modifier = 0.05
+}
+matriarch_emma_van_der_sandt = {
+    icon = 7
+    prestige = 0.05
+    suppression_points_modifier = 0.5
+    local_ship_build = -0.25
+    navy_tech_research_bonus = 0.05
+    army_tech_research_bonus = 0.05
+}
+matriarch_marlize_van_rooyen = {
+    icon = 7
+    prestige = 0.03
+    rgo_output = 0.5
+    factory_throughput = 0.25
+    factory_output = 0.25
+    mine_rgo_eff = 0.5
+    industry_tech_research_bonus = .05
+}
+matriarch_zeah_de_volk = {
+    icon = 7
+    prestige = 0.01
+    political_reform_desire = 0.1
+    global_immigrant_attract = 1
+    education_efficiency_modifier = 0.25
+    culture_tech_research_bonus = 0.05
+}
+kaapstad_sandt = {
+    icon = 17
+    local_repair = 0.25
+    local_RGO_output = 0.5
+    local_ship_build = -0.25
+    immigrant_attract = 0.5
+}
+kaapstad_rooyen = {
+    icon = 13
+    local_factory_output = 1.0
+    local_RGO_output = 1.0
+    immigrant_attract = 0.5
+}
+kaapstad_volk = {
+    icon = 7
+    local_RGO_output = 0.5
+    local_factory_output = 0.25
+    population_growth = 0.001
+    immigrant_attract = 1.0
+}

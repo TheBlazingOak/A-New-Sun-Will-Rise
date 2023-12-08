@@ -1,5 +1,6 @@
 owner = DEV
 controller = DEV
 add_core = DEV
+add_core = ROM
 trade_goods = grain
 life_rating = 35

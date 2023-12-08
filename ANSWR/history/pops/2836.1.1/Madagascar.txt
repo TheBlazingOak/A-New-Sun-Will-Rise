@@ -136,6 +136,7 @@
         size = 60425
     }
 }
+
 #Tolanaro (176000/44000 POPS)
 2118 = {
     aristocrats = {
@@ -583,3 +584,192 @@
     }
 
 }
+####Owned by afrikaan Kingdom#####
+#Linyati (16000/4000 POPS)
+2081 = {
+    aristocrats = {
+        culture = malagasy
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = malagasy
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = malagasy
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = malagasy
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = malagasy
+        religion = animist
+        size = 17700
+    }
+
+    aristocrats = {
+        culture = afrikaan
+        religion = ancestor
+        size = 100
+    }
+
+    clergymen = {
+        culture = afrikaan
+        religion = ancestor
+        size = 100
+    }
+
+    artisans = {
+        culture = afrikaan
+        religion = ancestor
+        size = 100
+    }
+
+    soldiers = {
+        culture = afrikaan
+        religion = ancestor
+        size = 100
+    }
+
+    farmers = {
+        culture = afrikaan
+        religion = ancestor
+        size = 3900
+    }
+}
+#Mayotte (8000/2000 POPS)
+2124 = {
+    aristocrats = {
+        culture = malagasy
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = malagasy
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = malagasy
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = malagasy
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = malagasy
+        religion = animist
+        size = 3300
+    }
+
+    aristocrats = {
+        culture = afrikaan
+        religion = ancestor
+        size = 100
+    }
+
+    clergymen = {
+        culture = afrikaan
+        religion = ancestor
+        size = 100
+    }
+
+    artisans = {
+        culture = afrikaan
+        religion = ancestor
+        size = 100
+    }
+
+    soldiers = {
+        culture = afrikaan
+        religion = ancestor
+        size = 100
+    }
+
+    farmers = {
+        culture = afrikaan
+        religion = ancestor
+        size = 500
+    }
+
+}
+#Reunion (98000/24500 POPS)
+2126 = {
+     aristocrats = {
+        culture = malagasy
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = malagasy
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = malagasy
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = malagasy
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = malagasy
+        religion = animist
+        size = 4150
+    }
+
+    aristocrats = {
+        culture = afrikaan
+        religion = ancestor
+        size = 100
+    }
+
+    clergymen = {
+        culture = afrikaan
+        religion = ancestor
+        size = 100
+    }
+
+    artisans = {
+        culture = afrikaan
+        religion = ancestor
+        size = 100
+    }
+
+    soldiers = {
+        culture = afrikaan
+        religion = ancestor
+        size = 100
+    }
+
+    farmers = {
+        culture = afrikaan
+        religion = ancestor
+        size = 800
+    }
+}
+

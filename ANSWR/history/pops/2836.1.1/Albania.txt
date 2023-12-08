@@ -53,8 +53,8 @@
     }
     ########
 }
-850 = {
-    aristocrats = {
+851 = {
+	aristocrats = {
         culture = albanian
         religion = sunni
         size = 880
@@ -94,8 +94,6 @@
         religion = catholic
         size = 10127
     }
-}
-851 = {
     aristocrats = {
         culture = albanian
         religion = sunni

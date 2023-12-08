@@ -1,6 +1,6 @@
-capital = 1602
-primary_culture = nanfaren
-religion = sunni
+capital = 1603
+primary_culture = cantan
+religion = mahayana
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -32,7 +32,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = closed_borders
 
-ruling_party = PGG_conservative
+ruling_party = YNN_reactionary
 upper_house = {
     fascist = 0
     liberal = 10
@@ -47,18 +47,23 @@ upper_house = {
 consciousness = 0
 nonstate_consciousness = 0
 
-set_country_flag = sunni_country
+set_country_flag = mahayana_country
 
+#New Reforms
 foreign_weapons = yes_foreign_weapons
+
+#Technologies
 flintlock_rifles = 1
+piston_steam_engine = 1
+high_pressure_steam_engine = 1
+compound_steam_engines = 1
 
 2861.1.1 = {
-
+#New Reforms
 foreign_weapons = yes_foreign_weapons
 
 # Technologies
 flintlock_rifles = 1
 
 # Inventions
-
 }

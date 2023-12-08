@@ -1,5 +1,6 @@
 owner = CRV
 controller = CRV
 add_core = CRV
+add_core = ROM
 trade_goods = grain
 life_rating = 35

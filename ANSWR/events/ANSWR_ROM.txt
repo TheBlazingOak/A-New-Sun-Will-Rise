@@ -32,11 +32,17 @@ country_event = {
                 consciousness = 1
             }
             set_country_flag = rom_event_1
+            ai_chance = {
+                chance = 95
+                }
         }
 
         option = {
             name = "EVTOPTB223001"
             badboy = 2
+            ai_chance = {
+                chance = 5
+                }
         }
 }
 
@@ -100,11 +106,17 @@ country_event = {
                 name = "EVTOPTA223004"
                 any_pop = {consciousness = 2}
                 set_country_flag = rom_event_4
+                ai_chance = {
+                chance = 60
+                }
             }
 
             option = {
                 name = "EVTOPTB223004"
                 set_country_flag = rom_event_7
+                ai_chance = {
+                chance = 40
+                }
             }
 
 
@@ -128,7 +140,9 @@ country_event = {
             name = "EVTOPTA223005"
             any_pop ={ consciousness = 5}
            set_country_flag = rom_event_5
-            ai_chance = 95
+            ai_chance = {
+                chance = 40
+                }
         }
 
         option = { 
@@ -142,7 +156,9 @@ country_event = {
             set_country_flag = rom_event_6
 
 
-            ai_chance = 5
+            ai_chance = {
+                chance = 60
+                }
         }
 
 }
@@ -154,7 +170,7 @@ country_event = {
         picture = garibaldi_raid
         fire_only_once = yes
 
-        mean_time_to_happen = {days =10}
+        mean_time_to_happen = {days = 10}
         trigger = {has_country_flag = rom_event_6}
 
         option = {
@@ -211,32 +227,6 @@ country_event = {
 
             option = {
                 name = "EVTOPTA223011"
-                669 = {add_core = ROM}
-                668 = {add_core = ROM}
-                844 = {add_core = ROM}
-                664 = {add_core = ROM}
-                667 = {add_core = ROM}
-                666 = {add_core = ROM}
-                665 = {add_core = ROM}
-                656 = {add_core = ROM}
-                655 = {add_core = ROM}
-                654 = {add_core = ROM}
-                661 = {add_core = ROM}
-                2533 = {add_core = ROM}
-                660 = {add_core = ROM}
-                657 = {add_core = ROM}
-                659 = {add_core = ROM}
-                672 = {add_core = ROM}
-                673 = {add_core = ROM}
-                670 = {add_core = ROM}
-                671 = {add_core = ROM}
-                663 = {add_core =ROM}
-                662 = {add_core = ROM}
-                677 = {add_core = ROM}
-                676 = {add_core =ROM}
-                678 = {add_core = ROM}
-                675 = {add_core = ROM}
-
                 any_country = {
                     limit = { vassal_of = THIS}
                     annex_to = THIS 
@@ -262,12 +252,18 @@ country_event = {
             option = {
                 name = "EVTOPTA223006"
                 set_country_flag = rom_event_8
+                ai_chance = {
+                chance = 5
+                }
 
             }
 
             option = {
                 name = "EVTOPTB223006"
                 set_country_flag = rom_event_9
+                ai_chance = {
+                chance = 95
+                }
             }
 }
 
@@ -306,12 +302,17 @@ country_event = {
                     limit = { pop_majority_ideology = reactionary }
                     militancy = 10
                 }
+                ai_chance = {
+                chance = 95
+                }
             }
 
             option = {
                 name = "EVTOPTB223008"
                  set_country_flag = rom_event_4
-
+                ai_chance = {
+                chance = 5
+                }
             }
 }
 
@@ -340,38 +341,15 @@ country_event = {
 
         option = {
             name = "EVTOPTB223010"
-                669 = {add_core = ROM}
-                668 = {add_core = ROM}
-                844 = {add_core = ROM}
-                664 = {add_core = ROM}
-                667 = {add_core = ROM}
-                666 = {add_core = ROM}
-                665 = {add_core = ROM}
-                656 = {add_core = ROM}
-                655 = {add_core = ROM}
-                654 = {add_core = ROM}
-                661 = {add_core = ROM}
-                2533 = {add_core = ROM}
-                660 = {add_core = ROM}
-                657 = {add_core = ROM}
-                659 = {add_core = ROM}
-                672 = {add_core = ROM}
-                673 = {add_core = ROM}
-                670 = {add_core = ROM}
-                671 = {add_core = ROM}
-                663 = {add_core =ROM}
-                662 = {add_core = ROM}
-                677 = {add_core = ROM}
-                676 = {add_core =ROM}
-                678 = {add_core = ROM}
-                675 = {add_core = ROM}
             any_country = {
                 limit = { vassal_of = THIS}
                 annex_to = THIS 
                 }
             change_tag = ROM
             badboy = 10
-
+            ai_chance = {
+            chance = 100
+            }
         }
 
 }

@@ -17,11 +17,11 @@ party_loyalty = {
 
 state_building = {
     level = 2
-    building = canned_food_factory
+    building = steel_factory
     upgrade = yes
 }
 state_building = {
-    level = 1
-    building = glass_factory
+    level = 3
+    building = machine_parts_factory
     upgrade = yes
 }

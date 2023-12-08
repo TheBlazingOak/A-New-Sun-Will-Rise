@@ -808,28 +808,28 @@
 #Shkoder
 850 = {
     aristocrats = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 880
     }
     clergymen = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 307
     }
     artisans = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 1556
     }
     soldiers = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 819
     }
     farmers = {
-        culture = albanian
-        religion = sunni
+        culture = serb
+        religion = the_broken
         size = 20566
     }
     clergymen = {

@@ -1,6 +1,6 @@
-capital = 1559
-primary_culture = beifaren
-religion = protestant
+capital = 1600
+primary_culture = ping
+religion = mahayana
 government = presidential_dictatorship
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -34,7 +34,35 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = closed_borders
 
-set_country_flag = protestant_country
+set_country_flag = mahayana_country
+
+oob = "GMJ_oob.txt"
+
+# Technologies
+flintlock_rifles = 1
+post_nelsonian_thought = 1
+clipper_design = 1 
+steamers = 1
+bronze_muzzle_loaded_artillery = 1
+army_command_principle = 1
+the_command_principle = 1
+private_banks = 1
+no_standard = 1
+guild_based_production = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+piston_steam_engine = 1
+mechanical_production = 1
+
+# Inventions
+#bottling_process = yes
+modern_winemaking = yes
+small_arms_production = yes
+ammunition_production = yes
+#big_sail_ships = yes
+#sail_ships_transport = yes
+#big_sail_support = yes
 
 ruling_party = GMJ_socialist
 upper_house = {

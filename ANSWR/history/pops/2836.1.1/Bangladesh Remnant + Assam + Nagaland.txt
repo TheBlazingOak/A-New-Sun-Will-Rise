@@ -1,0 +1,473 @@
+#Assam Region : 2676000
+#under rule of Britain 1836
+#Imphal (178487 POPS)
+1259 = {
+    aristocrats = {
+        culture = assamese
+        religion = sunni
+        size = 1000
+    }
+
+    clergymen = {
+        culture = assamese
+        religion = sunni
+        size = 1100
+    }
+
+    artisans = {
+        culture = assamese
+        religion = sunni
+        size = 4750
+    }
+
+    soldiers = {
+        culture = assamese
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = assamese
+        religion = sunni
+        size = 42250
+    }
+
+	farmers = {
+        culture = bengali
+        religion = sunni
+        size = 20000
+    }
+
+	aristocrats = {
+        culture = naga
+        religion = protestant
+        size = 100
+    }
+
+	farmers = {
+        culture = naga
+        religion = protestant
+        size = 26000
+    }
+
+    clergymen = {
+        culture = manipuri
+        religion = hindu
+        size = 375
+    }
+
+    artisans = {
+        culture = manipuri
+        religion = hindu
+        size = 500
+    }
+
+    soldiers = {
+        culture = manipuri
+        religion = hindu
+        size = 500
+    }
+
+    farmers = {
+        culture = manipuri
+        religion = hindu
+        size = 8125
+    }
+
+    aristocrats = {
+        culture = manipuri
+        religion = animist #Follower of Sanamahism
+        size = 250
+    }
+
+    clergymen = {
+        culture = manipuri
+        religion = animist
+        size = 250
+    }
+
+    soldiers = {
+        culture = manipuri
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = manipuri
+        religion = animist
+        size = 2750
+    }
+
+    farmers = {
+        culture = manipuri
+        religion = animist
+        size = 65000
+    }
+}
+#Dibrugarh (194079 POPS)
+1260 = {
+    aristocrats = {
+        culture = assamese
+        religion = hindu
+        size = 1100
+    }
+
+    clergymen = {
+        culture = assamese
+        religion = hindu
+        size = 750
+    }
+
+    artisans = {
+        culture = assamese
+        religion = hindu
+        size = 4500
+    }
+
+    soldiers = {
+        culture = assamese
+        religion = hindu
+        size = 4100
+    }
+
+    farmers = {
+        culture = assamese
+        religion = hindu
+        size = 129750
+    }
+
+	aristocrats = {
+        culture = bengali
+        religion = hindu
+        size = 700
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = hindu
+        size = 450
+    }
+
+    artisans = {
+        culture = bengali
+        religion = hindu
+        size = 2500
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = animist
+        size = 1100
+    }
+
+    farmers = {
+        culture = bengali
+        religion = animist
+        size = 60425
+    }
+}
+#Agartala (608000/152000 POPS)
+2566 = {
+    aristocrats = {
+        culture = bengali
+        religion = sunni
+        size = 1100
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = animist
+        size = 875
+    }
+
+    artisans = {
+        culture = bengali
+        religion = animist
+        size = 5000
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = animist
+        size = 500
+    }
+
+    farmers = {
+        culture = bengali
+        religion = animist
+        size = 89125
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = sunni
+        size = 625
+    }
+
+    artisans = {
+        culture = bengali
+        religion = sunni
+        size = 2750
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = bengali
+        religion = sunni
+        size = 51125
+    }
+
+}
+#Shillong (185251 POPS) - formerly Dacca
+1254 = {
+    aristocrats = {
+        culture = bengali
+        religion = sunni
+        size = 530
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = sunni
+        size = 4000
+    }
+
+    artisans = {
+        culture = bengali
+        religion = sunni
+        size = 7000
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = sunni
+        size = 6000
+    }
+
+    farmers = {
+        culture = bengali
+        religion = sunni
+        size = 70000
+    }
+
+    aristocrats = {
+        culture = assamese
+        religion = hindu
+        size = 500
+    }
+
+    clergymen = {
+        culture = assamese
+        religion = hindu
+        size = 5000
+    }
+
+    artisans = {
+        culture = assamese
+        religion = hindu
+        size = 10000
+    }
+
+    soldiers = {
+        culture = assamese
+        religion = hindu
+        size = 3000
+    }
+
+    farmers = {
+        culture = assamese
+        religion = hindu
+        size = 23300
+    }
+	
+	aristocrats = {
+        culture = khasi
+        religion = protestant
+        size = 1000
+    }
+
+	clergymen = {
+        culture = khasi
+        religion = protestant
+        size = 5000
+    }
+
+    artisans = {
+        culture = khasi
+        religion = protestant
+        size = 5000
+    }
+	
+	soldiers = {
+        culture = khasi
+        religion = protestant
+        size = 4000
+    }
+
+    farmers = {
+        culture = khasi
+        religion = protestant
+        size = 44000
+    }
+
+}
+#Aizawl (804395 POPS) - formerly Chittagong
+1257 = {
+    aristocrats = {
+        culture = bengali
+        religion = sunni
+        size = 2000
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = sunni
+        size = 2500
+    }
+
+    artisans = {
+        culture = bengali
+        religion = sunni
+        size = 5100
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = bengali
+        religion = sunni
+        size = 441000
+    }
+
+    aristocrats = {
+        culture = mizoram
+        religion = protestant
+        size = 3000
+    }
+
+    clergymen = {
+        culture = mizoram
+        religion = protestant
+        size = 3000
+    }
+
+    artisans = {
+        culture = mizoram
+        religion = protestant
+        size = 12000
+    }
+
+    soldiers = {
+        culture = mizoram
+        religion = protestant
+        size = 14000
+    }
+
+    farmers = {
+        culture = mizoram
+        religion = protestant
+        size = 288000
+    }
+}
+
+#Kohima-Nagaland (495151/123788 POPS)
+3383 = {
+    aristocrats = {
+        culture = assamese
+        religion = hindu
+        size = 500
+    }
+
+    clergymen = {
+        culture = assamese
+        religion = hindu
+        size = 500
+    }
+
+    artisans = {
+        culture = assamese
+        religion = hindu
+        size = 500
+    }
+
+    soldiers = {
+        culture = assamese
+        religion = hindu
+        size = 100
+    }
+
+    farmers = {
+        culture = assamese
+        religion = hindu
+        size = 15650
+    }
+
+    aristocrats = {
+        culture = bengali #Chin
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = bengali
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = bengali
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = bengali
+        religion = sunni
+        size = 500
+    }
+
+	farmers = {
+        culture = bengali
+        religion = sunni
+        size = 16500
+    }
+
+    aristocrats = {
+        culture = naga
+        religion = protestant
+        size = 75
+    }
+
+    clergymen = {
+        culture = naga
+        religion = protestant
+        size = 350
+    }
+
+    artisans = {
+        culture = naga
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = naga
+        religion = protestant
+        size = 3200
+    }
+
+    farmers = {
+        culture = naga
+        religion = protestant
+        size = 108575
+    }
+}

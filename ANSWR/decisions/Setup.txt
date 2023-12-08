@@ -367,6 +367,24 @@ political_decisions = {
         }
     }
 
+	 literacy_TRA = {
+        potential = {
+            tag = TRA
+            always = no
+        }
+
+        allow = {
+            tag = TRA
+        }
+
+        effect = {
+			any_pop = {
+                limit = { has_pop_religion = teknic }
+                literacy = 0.30
+            }
+		}
+	}
+
     literacy_ENG = {
         potential = {
             tag = ENG
@@ -410,6 +428,11 @@ political_decisions = {
             any_pop = {
                 limit = { has_pop_religion = animist }
                 literacy = -0.09
+            }
+
+			any_pop = {
+                limit = { has_pop_religion = teknic }
+                literacy = 0.30
             }
 
             any_pop = {

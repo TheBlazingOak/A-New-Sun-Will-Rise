@@ -1,152 +1,45 @@
-#Macedonia Region (192000) #see Greece.txt and Macedonia.txt for balance of region
-#under the rule of Ottoman Empire in 1836
-#Petrich (192000/48000 POPS) #now part of Bulgaria
-808 = {
-    aristocrats = {
-        culture = iskhor
-        religion = the_broken
-        size = 1100
-    }
-
-    soldiers = {
-        culture = iskhor
-        religion = the_broken
-        size = 200
-    }
-
-    clergymen = {
-        culture = iskhor
-        religion = the_broken
-        size = 100
-    }
-
-    artisans = {
-        culture = iskhor
-        religion = the_broken
-        size = 1500
-    }
-
-    farmers = {
-        culture = iskhor
-        religion = the_broken
-        size = 10600
-    }
-
-    soldiers = {
-        culture = skrvat
-        religion = the_broken
-        size = 500
-    }
-
-    clergymen = {
-        culture = skrvat
-        religion = the_broken
-        size = 625
-    }
-
-    artisans = {
-        culture = skrvat
-        religion = the_broken
-        size = 900
-    }
-
-    farmers = {
-        culture = skrvat
-        religion = the_broken
-        size = 28075
-    }
-
-    soldiers = {
-        culture = skrvat
-        religion = the_broken
-        size = 300
-    }
-
-    clergymen = {
-        culture = skrvat
-        religion = the_broken
-        size = 300
-    }
-
-    artisans = {
-        culture = skrvat
-        religion = the_broken
-        size = 300
-    }
-
-    farmers = {
-        culture = skrvat
-        religion = the_broken
-        size = 4100
-    }
-
-    soldiers = {
-        culture = greek
-        religion = the_broken
-        size = 300
-    }
-
-    clergymen = {
-        culture = greek
-        religion = the_broken
-        size = 300
-    }
-
-    artisans = {
-        culture = greek
-        religion = the_broken
-        size = 300
-    }
-
-    farmers = {
-        culture = greek
-        religion = the_broken
-        size = 500
-    }
-
-}
 #Bulgaria Region (1132000)
 #under the rule of Ottoman Empire in 1836
 #Sofia (260000/65000 POPS)
 809 = {
     aristocrats = {
-        culture = westturkish
+        culture = iskhor
         religion = the_broken
         size = 1450
     }
 
     bureaucrats = {
-        culture = westturkish
+        culture = iskhor
         religion = the_broken
         size = 400
     }
 
     officers = {
-        culture = westturkish
+        culture = iskhor
         religion = the_broken
         size = 300
     }
 
     clergymen = {
-        culture = westturkish
+        culture = iskhor
         religion = the_broken
         size = 125
     }
 
     artisans = {
-        culture = westturkish
+        culture = iskhor
         religion = the_broken
         size = 2500
     }
 
     soldiers = {
-        culture = westturkish
+        culture = iskhor
         religion = the_broken
         size = 500
     }
 
     farmers = {
-        culture = westturkish
+        culture = iskhor
         religion = the_broken
         size = 7383
     }
@@ -471,172 +364,6 @@
 }
 #Rumelia Region (396000)
 #under the rule of Ottoman Empire in 1836
-#Plovdiv (120000/30000 POPS)
-815 = {
-    aristocrats = {
-        culture = iskhor
-        religion = the_broken
-        size = 800
-    }
-
-    bureaucrats = {
-        culture = iskhor
-        religion = the_broken
-        size = 550
-    }
-
-    officers = {
-        culture = iskhor
-        religion = the_broken
-        size = 100
-    }
-
-    clergymen = {
-        culture = iskhor
-        religion = the_broken
-        size = 100
-    }
-
-    artisans = {
-        culture = iskhor
-        religion = the_broken
-        size = 1100
-    }
-
-    soldiers = {
-        culture = iskhor
-        religion = the_broken
-        size = 275
-    }
-
-    farmers = {
-        culture = iskhor
-        religion = the_broken
-        size = 6425
-    }
-
-    aristocrats = {
-        culture = iskhor
-        religion = the_broken
-        size = 400
-    }
-
-    aristocrats = {
-        culture = iskhor
-        religion = the_broken
-        size = 200
-    }
-
-    clergymen = {
-        culture = iskhor
-        religion = the_broken
-        size = 800
-    }
-
-    artisans = {
-        culture = iskhor
-        religion = the_broken
-        size = 600
-    }
-
-    farmers = {
-        culture = skrvat
-        religion = the_broken
-        size = 33475
-    }
-
-    aristocrats = {
-        culture = iskhor
-        religion = the_broken
-        size = 300
-    }
-
-    officers = {
-        culture = iskhor
-        religion = the_broken
-        size = 100
-    }
-
-    clergymen = {
-        culture = iskhor
-        religion = the_broken
-        size = 300
-    }
-
-    artisans = {
-        culture = iskhor
-        religion = the_broken
-        size = 200
-    }
-
-    soldiers = {
-        culture = iskhor
-        religion = the_broken
-        size = 300
-    }
-
-    farmers = {
-        culture = iskhor
-        religion = the_broken
-        size = 9700
-    }
-
-    soldiers = {
-        culture = greek
-        religion = the_broken
-        size = 300
-    }
-
-    clergymen = {
-        culture = greek
-        religion = the_broken
-        size = 300
-    }
-
-    artisans = {
-        culture = greek
-        religion = the_broken
-        size = 600
-    }
-
-    farmers = {
-        culture = greek
-        religion = the_broken
-        size = 2200
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 250
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 200
-    }
-    ########
-}
 #Stara Zagora (80000/20000 POPS)
 816 = {
     aristocrats = {
@@ -726,31 +453,31 @@
 #Burgas (196000/49000 POPS)
 817 = {
     aristocrats = {
-        culture = westturkish
+        culture = iskhor
         religion = the_broken
         size = 1100
     }
 
     clergymen = {
-        culture = westturkish
+        culture = iskhor
         religion = the_broken
         size = 125
     }
 
     artisans = {
-        culture = westturkish
+        culture = iskhor
         religion = the_broken
         size = 900
     }
 
     soldiers = {
-        culture = westturkish
+        culture = iskhor
         religion = the_broken
         size = 450
     }
 
     farmers = {
-        culture = westturkish
+        culture = iskhor
         religion = the_broken
         size = 8425
     }

@@ -38,7 +38,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
+set_country_flag = ketronant_country
 
 ruling_party = HOL_conservative
 upper_house = {
@@ -83,6 +83,7 @@ stock_exchange = 1
 ad_hoc_money_bill_printing = 1
 late_classical_theory = 1
 high_pressure_steam_engine = 1
+market_structure = 1
 
 #Inventions
 precision_work = yes

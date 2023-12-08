@@ -992,26 +992,26 @@
     }
 
     clergymen = {
-        culture = north_german
-        religion = ketronant
+        culture = polish
+        religion = prosperity
         size = 100
     }
 
     soldiers = {
-        culture = north_german
-        religion = ketronant
+        culture = polish
+        religion = prosperity
         size = 100
     }
 
     artisans = {
-        culture = north_german
-        religion = ketronant
+        culture = polish
+        religion = prosperity
         size = 225
     }
 
     farmers = {
-        culture = north_german
-        religion = ketronant
+        culture = polish
+        religion = prosperity
         size = 23700
     }
 }
@@ -1054,26 +1054,26 @@
     }
 
     clergymen = {
-        culture = north_german
-        religion = ketronant
+        culture = polish
+        religion = prosperity
         size = 100
     }
 
     soldiers = {
-        culture = north_german
-        religion = ketronant
+        culture = polish
+        religion = prosperity
         size = 100
     }
 
     artisans = {
-        culture = north_german
-        religion = ketronant
+        culture = polish
+        religion = prosperity
         size = 200
     }
 
     farmers = {
-        culture = north_german
-        religion = ketronant
+        culture = polish
+        religion = prosperity
         size = 33750
     }
 }
@@ -1662,26 +1662,26 @@
     }
 
     clergymen = {
-        culture = north_german
-        religion = ketronant
+        culture = polish
+        religion = prosperity
         size = 100
     }
 
     soldiers = {
-        culture = north_german
-        religion = ketronant
+        culture = polish
+        religion = prosperity
         size = 1000
     }
 
     artisans = {
-        culture = north_german
-        religion = ketronant
+        culture = polish
+        religion = prosperity
         size = 2500
     }
 
     farmers = {
-        culture = north_german
-        religion = ketronant
+        culture = polish
+        religion = prosperity
         size = 41725
     }
 }

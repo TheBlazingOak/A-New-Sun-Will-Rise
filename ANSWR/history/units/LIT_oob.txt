@@ -1,0 +1,127 @@
+BYE = {
+    value = -200
+}
+EST = {
+    value = 150
+}
+POL = {
+    value = 75
+}
+leader = {
+    name = "Karolis Grigenas"
+    date = 2836.1.1
+    type = land
+    personality = coolminded
+    background = cavalry_school
+}
+leader = {
+    name = "Juozas Grimas"
+    date = 2836.1.1
+    type = land
+    personality = diplomatic
+    background = drillmaster
+}
+
+leader = {
+    name = "Paulius Grinevicius"
+    date = 2836.1.1
+    type = sea
+    personality = merciless
+    background = bureaucrat_speed 
+}
+
+army = {
+    name = "Paltijan Gaurd"
+    location = 354
+    regiment = {
+        name= "I. Gaurdas"
+        type = guard
+        home = 354
+    }
+    regiment = {
+        name= "II. Gaurdas"
+        type = infantry
+        home = 354
+    }
+
+    regiment = {
+        name= "III. Gaurdas"
+        type = infantry
+        home = 361
+    }
+}
+army = {
+    name = "Paltijan People's Malitia"
+    location = 360
+    regiment = {
+        name= "I. Padalinys"
+        type = infantry
+        home = 698
+    }
+    regiment = {
+        name= "II. Padalinys"
+        type = infantry
+        home = 2569
+    }
+    regiment = {
+        name= "III. Padalinys"
+        type = infantry
+        home = 355
+    }
+    regiment = {
+        name= "IV. Padalinys"
+        type = infantry
+        home = 355
+    }
+    regiment = {
+        name= "V. Padalinys"
+        type = infantry
+        home = 362
+    }
+    regiment = {
+        name= "VI. Padalinys"
+        type = infantry
+        home = 947
+    }
+    regiment = {
+        name= "I. Patranka"
+        type = artillery
+        home = 947
+    }
+    regiment = {
+        name= "II. Patranka"
+        type = artillery
+        home = 360
+    }
+    regiment = {
+        name= "I. Kalvarijos"
+        type = hussar
+        home = 360
+    }
+
+    regiment = {
+        name= "II. Kalvarijos"
+        type = hussar
+        home = 360
+    }
+
+}
+navy = {
+    name = "Juodasis Laivynas"
+    location = 354 #Riga
+    ship = {
+        name= "1 Transportas"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "2 Transportas"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "3 Transportas"
+        type = clipper_transport
+    }
+
+}

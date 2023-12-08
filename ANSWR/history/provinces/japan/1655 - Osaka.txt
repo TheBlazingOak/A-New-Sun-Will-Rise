@@ -1,5 +1,6 @@
 owner = NIH
 controller = NIH
 add_core = NIH
+terrain = ruined_city
 trade_goods = tea
 life_rating = 35

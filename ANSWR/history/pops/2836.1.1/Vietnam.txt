@@ -1170,3 +1170,60 @@
     }
 
 }
+#Huapanh (77744/19436 POPS)
+3380 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = mahayana
+        size = 300
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = mahayana
+        size = 125
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = mahayana
+        size = 700
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 900
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 12075
+    }
+
+    clergymen = {
+        culture = lao
+        religion = theravada
+        size = 150
+    }
+
+    artisans = {
+        culture = lao
+        religion = theravada
+        size = 200
+    }
+
+    soldiers = {
+        culture = lao
+        religion = theravada
+        size = 150
+    }
+
+    farmers = {
+        culture = lao
+        religion = theravada
+        size = 4100
+    }
+
+}

@@ -2,6 +2,7 @@ owner = HAE
 controller = HAE
 add_core = HAE
 trade_goods = wool
+terrain = ruined_city
 life_rating = 35
 2861.1.1 = {
     colonial = 2

@@ -1,0 +1,259 @@
+political_decisions = {
+	#Kaaper Kingdom
+	#Reopen the mines
+	reopen_kaap_mines = {
+		picture = iron_range_mountains
+		alert = yes
+			potential = {
+				TAG = SAF
+				NOT = { has_global_flag = kaap_mines_opened }
+			}
+			allow = {
+				treasury = 5000
+				hot_blast = 1
+			}
+			effect = {
+				2089 = { RGO_size = 2 trade_goods = coal }
+				2091 = { RGO_size = 2 trade_goods = sulphur }
+				2092 = { RGO_size = 2 trade_goods = iron }
+				2099 = { RGO_size = 2 trade_goods = coal }
+				2097 = { RGO_size = 2 trade_goods = iron }
+				set_global_flag = kaap_mines_opened
+				research_points = 1000
+				prestige = 5
+			}
+			ai_will_do = { factor = 1 }   
+
+	}
+	#Sell off ceylon
+	sell_off_ceylon = {
+		alert = no
+		potential = {
+			TAG = SAF
+			1323 = { owned_by = SAF}
+			year = 2840
+			NOT = {has_country_flag = selling_ceylon}
+		}
+		allow = {
+		}
+		effect = {
+			country_event = {id = 65517 days = 0}
+			set_country_flag = selling_ceylon
+		}
+		ai_will_do = { factor = 1 }  
+	}
+
+	rename_zululand = {
+		alert = yes
+		potential ={
+			TAG = SAF
+			owns = 2113
+			owns = 2100
+			owns = 2111
+			owns = 2112
+			NOT = {has_country_flag = renamed_zululand}
+		}
+		allow = {
+			prestige = 1
+		}
+		effect = {
+			prestige = 5
+			2113 = {
+			change_province_name = "Nellestad"
+			state_scope = {
+			change_region_name = "Natal-Tuine"
+				}
+			}
+			2100 = {
+			change_province_name = "Reedsdell"
+			}
+			2111 = {
+			change_province_name = "Port Natal"
+			}
+			2112 = {
+			change_province_name = "Vryheid"
+			}
+			set_country_flag = renamed_zululand
+		}
+		ai_will_do = { factor = 1 }  
+	}
+	claim_mbabane_and_basutoland = {
+	picture = map_africa
+		potential = {
+			TAG = SAF
+			prestige = 5
+			ZUL_2113 = {owned_by = SAF}
+			NOT = { 2101 = { is_core = THIS } }
+		}
+		allow = {
+			ZUL_2113 = {owned_by = SAF}
+			prestige = 15
+		}
+		effect = {
+			prestige = -5
+			2101 = { add_core = THIS }
+			2102 = { add_core = THIS }
+			2103 = { add_core = THIS }
+			2104 = { add_core = THIS }
+			2110 = { add_core = THIS }
+			2109 = { add_core = THIS }
+			2114 = { add_core = THIS }
+		}
+		ai_will_do = { factor = 1 }
+	}
+	annex_pretoria ={
+	picture = map_africa
+		potential = {
+			TAG = SAF
+			prestige = 5
+			ZUL_2113 = {owned_by = SAF}
+			NOT = {has_global_flag = saf_demand_pretoria }
+		}
+		allow = {
+			relation = {
+			who = TRN
+			value = 0
+			}
+			prestige = 25
+		}
+		effect = {
+			set_global_flag = saf_demand_pretoria
+			prestige = 5
+		}
+		ai_will_do = { factor = 1 }  
+	}
+	zulu_doesnt_exist = {
+	picture = embrace_the_boer
+		potential = {
+			TAG = SAF
+			has_country_flag = colonized_inner_kaap
+			NOT = {has_country_flag = zulu_is_dead}
+		}
+		allow = {
+			ORA_2103 = {owned_by = SAF}
+			ZUL_2110 = {owned_by = SAF}
+		}
+		effect = {
+			prestige = 10
+			ENG_2074 = { add_core = SAF }
+			set_country_flag = zulu_is_dead
+		} 
+	}
+	colonize_inner_kaap = {
+		picture = embrace_the_boer
+		potential = {
+			TAG = SAF
+			prestige = 5
+			2088 = {owned_by = SAF}
+			NOT = {  has_country_flag = colonized_inner_kaap }
+		}
+		allow = {
+			experimental_railroad = 1
+			prestige = 40
+		}
+		effect = {
+			ENG_2092 = {secede_province = SAF}
+			ENG_2083 = {secede_province = SAF}
+			set_country_flag = colonized_inner_kaap
+		}
+	}
+	tswana_conquest = {
+		picture = embrace_the_boer
+		potential = {
+			TAG = SAF
+			prestige = 25
+			NOT = {  has_country_flag = claimed_tswanaland }
+		}
+		allow = {
+			2105 = {owned_by = SAF}
+		}
+		effect = {
+			ENG_2074 = { add_core = SAF}
+			set_country_flag = claimed_tswanaland
+		}
+	}
+	#Emma van der Sandt#
+	#Rebuild Kaapstad#
+	renovate_kaapstad_sandt = {
+		potential = {
+			TAG = SAF
+			has_country_modifier = matriarch_emma_van_der_sandt
+			NOT = { has_country_flag = kaapstad_renovated }
+		}
+		allow = {
+			owns = 2087
+			treasury = 100000
+			naval_design_bureaus = 1
+		}
+		effect = {
+			any_core = {
+				limit = {
+					owned_by = THIS
+					is_capital = yes
+				}
+				add_province_modifier = { name = recently_built_city duration = 1825 }
+				add_province_modifier = { name = kaapstad_sandt duration = -1 }
+				naval_base = 2
+				railroad = 1
+				trade_goods = cotton
+			}
+			set_country_flag = kaapstad_renovated
+		}
+	}
+	#Van Rooyen#
+	renovate_kaapstad_rooyen = {
+		potential = {
+			TAG = SAF
+			has_country_modifier = matriarch_marlize_van_rooyen
+			NOT = { has_country_flag = kaapstad_renovated }
+		}
+		allow = {
+			owns = 2087
+			treasury = 100000
+			mechanized_mining = 1
+		}
+		effect = {
+			any_core = {
+				limit = {
+					owned_by = THIS
+					is_capital = yes
+				}
+				add_province_modifier = { name = recently_built_city duration = 1825 }
+				add_province_modifier = { name = kaapstad_rooyen duration = -1 }
+				naval_base = 1
+				railroad = 2
+				trade_goods = coal
+			}
+			set_country_flag = kaapstad_renovated
+		}
+	}
+	#Volk#
+	renovate_kaapstad_volk = {
+		potential = {
+			TAG = SAF
+			has_country_modifier = matriarch_zeah_de_volk
+			NOT = { has_country_flag = kaapstad_renovated }
+		}
+		allow = {
+			owns = 2087
+			treasury = 100000
+			medicine = 1
+		}
+		effect = {
+			any_core = {
+				limit = {
+					owned_by = THIS
+					is_capital = yes
+				}
+				add_province_modifier = { name = recently_built_city duration = 1825 }
+				add_province_modifier = { name = kaapstad_volk duration = -1 }
+				railroad = 1
+				trade_goods = silk
+			}
+			set_country_flag = kaapstad_renovated
+		}
+	}
+
+}
+
+

@@ -43,6 +43,50 @@
         size = 17325
     }
 }
+#idk (180000/45000 POPS)
+1183 = {
+    aristocrats = {
+        culture = setjer
+        religion = veravburyu
+        size = 1400
+    }
+
+    clergymen = {
+        culture = setjer
+        religion = veravburyu
+        size = 1225
+    }
+
+    artisans = {
+        culture = setjer
+        religion = veravburyu
+        size = 8150
+    }
+
+    soldiers = {
+        culture = setjer
+        religion = veravburyu
+        size = 3000
+    }
+
+    soldiers = {
+        culture = setjer
+        religion = veravburyu
+        size = 2000
+    }
+
+    farmers = {
+        culture = setjer
+        religion = veravburyu
+        size = 42525
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 17325
+    }
+}
 #Kizil Arvut (88000/22000 POPS)
 1205 = {
     aristocrats = {
@@ -234,7 +278,7 @@
         size = 10625
     }
     farmers = {
-        culture = ukrainian
+        culture = setjer
         religion = veravburyu
         size = 13625
     }

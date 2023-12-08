@@ -1,0 +1,62 @@
+BYE = {
+    value = -200
+}
+EST = {
+    value = 150
+}
+POL = {
+    value = 75
+}
+leader = {
+    name = "Eero Kass"
+    date = 2836.1.1
+    type = land
+    personality = chivalrous
+    background = school_of_hartskamp
+}
+
+army = {
+    name = "Osti Armee"
+    location = 349
+    regiment = {
+        name= "I. Jaotus"
+        type = guard
+        home = 349
+    }
+    regiment = {
+        name= "II. Jaotus"
+        type = infantry
+        home = 349
+    }
+
+    regiment = {
+        name= "III. Jaotus"
+        type = infantry
+        home = 349
+    }
+    regiment = {
+        name= "III. Jaotus"
+        type = infantry
+        home = 350
+    }
+    regiment = {
+        name= "IV. Jaotus"
+        type = infantry
+        home = 350
+    }
+    regiment = {
+        name= "I. Eripakkumised"
+        type = artillery
+        home = 349
+    }
+    regiment = {
+        name= "II. Eripakkumised"
+        type = infantry
+        home = 353
+    }
+    regiment = {
+        name= "III. Eripakkumised"
+        type = hussar
+        home = 349
+    }
+}

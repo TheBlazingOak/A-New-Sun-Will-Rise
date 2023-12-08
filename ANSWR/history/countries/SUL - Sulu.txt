@@ -1,12 +1,14 @@
 capital = 1464
-primary_culture = malay
-culture = filipino
+primary_culture = lanaoan
+culture = borneanmalay
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
 non_state_culture_literacy = 0.01
+civilized = no
+
 
 # Political reforms
 slavery = yes_slavery
@@ -46,10 +48,14 @@ upper_house = {
     communist = 0
 }
 
+foreign_artillery = yes_foreign_artillery
+foreign_weapons = yes_foreign_weapons
+western_shipyards = yes_western_shipyards
 
 # Technologies
-
-# Inventions
+flintlock_rifles = 1
+post_nelsonian_thought = 1
+bronze_muzzle_loaded_artillery = 1
 
 # Starting Consciousness
 consciousness = 0

@@ -4,4 +4,13 @@ add_core = BOH
 add_core = OUD
 trade_goods = iron
 life_rating = 40
-2861.1.1 = { railroad = 3 }
+state_building = {
+    level = 4
+    building = steel_factory
+    upgrade = yes
+}
+state_building = {
+    level = 4
+    building = machine_parts_factory
+    upgrade = yes
+}

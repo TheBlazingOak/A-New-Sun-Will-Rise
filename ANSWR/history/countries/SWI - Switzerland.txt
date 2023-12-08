@@ -35,7 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
+set_country_flag = vitalic_country
 
 ruling_party = SWI_conservative
 last_election = 1835.1.1
@@ -76,6 +76,7 @@ mechanical_production = 1
 hot_blast = 1
 basic_chemistry = 1
 high_pressure_steam_engine = 1
+interchangeable_parts = 1
 
 #Inventions
 authoritarianism = yes

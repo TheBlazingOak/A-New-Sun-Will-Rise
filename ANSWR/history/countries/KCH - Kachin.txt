@@ -1,7 +1,7 @@
 capital = 1314
-primary_culture = kachin
-culture = shan
-religion = animist
+primary_culture = burmese
+culture = kachin
+religion = theravada
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -34,9 +34,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = animist_country
-
-set_country_flag = lacking_writing_system
+set_country_flag = theravada_country
 
 ruling_party = SHA_conservative
 upper_house = {

@@ -374,3 +374,106 @@
     }
 
 }
+
+
+#Sekong and Attapeu (72307/18076 POPS)
+3377 = {
+	aristocrats = {
+		culture = lao
+		religion = theravada
+        size = 275
+    }
+
+    clergymen = {
+        culture = lao
+        religion = theravada
+        size = 150
+    }
+
+    artisans = {
+        culture = lao
+        religion = theravada
+        size = 750
+    }
+
+    soldiers = {
+        culture = lao
+        religion = theravada
+        size = 750
+    }
+
+    farmers = {
+        culture = lao
+        religion = theravada
+        size = 16000
+    }
+
+}
+
+#Bolihamxay (78989/19747 POPS)
+3378 = {
+	aristocrats = {
+		culture = lao
+		religion = theravada
+        size = 275
+    }
+
+    clergymen = {
+        culture = lao
+        religion = theravada
+        size = 150
+    }
+
+    artisans = {
+        culture = lao
+        religion = theravada
+        size = 750
+    }
+
+    soldiers = {
+        culture = lao
+        religion = theravada
+        size = 750
+    }
+
+    farmers = {
+        culture = lao
+        religion = theravada
+        size = 17000
+    }
+
+}
+
+#Xiengkhuang and Xaysomboon (93775/23443 POPS)
+3379 = {
+    aristocrats = {
+        culture = lao
+        religion = theravada
+        size = 275
+    }
+
+    clergymen = {
+        culture = lao
+        religion = theravada
+        size = 150
+    }
+
+    artisans = {
+        culture = lao
+        religion = theravada
+        size = 750
+    }
+
+    soldiers = {
+        culture = lao
+        religion = theravada
+        size = 1150
+    }
+
+    farmers = {
+        culture = lao
+        religion = theravada
+        size = 21700
+    }
+
+}

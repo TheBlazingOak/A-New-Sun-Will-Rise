@@ -231,7 +231,7 @@
 #Mindoro (224000/88029 POPS)
 1458 = {
     aristocrats = {
-        culture = filipino
+        culture = pacifica
         religion = catholic
         size = 400
     }
@@ -239,13 +239,13 @@
     clergymen = {
         culture = filipino
         religion = catholic
-        size = 1750
+        size = 1450
     }
 
     artisans = {
         culture = filipino
         religion = catholic
-        size = 2100
+        size = 1100
     }
 
     soldiers = {
@@ -261,15 +261,15 @@
     }
 
     clergymen = {
-        culture = pampangan
+        culture = pacifica
         religion = catholic
-        size = 125
+        size = 325
     }
 
     artisans = {
-        culture = pampangan
+        culture = pacifica
         religion = catholic
-        size = 750
+        size = 1750
     }
 
     soldiers = {
@@ -290,7 +290,7 @@
 #Palawan (58725 POPS)
 1459 = {
     aristocrats = {
-        culture = filipino
+        culture = pacifica
         religion = catholic
         size = 250
     }
@@ -316,60 +316,60 @@
     farmers = {
         culture = filipino
         religion = catholic
-        size = 37000
+        size = 27000
     }
 
     aristocrats = {
-        culture = filipino
-        religion = sunni
+        culture = aklanon
+        religion = catholic
         size = 750
     }
 
     clergymen = {
-        culture = filipino
-        religion = sunni
+        culture = aklanon
+        religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = filipino
-        religion = sunni
+        culture = aklanon
+        religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = filipino
-        religion = sunni
+        culture = aklanon
+        religion = catholic
         size = 750
     }
 
     farmers = {
-        culture = filipino
-        religion = sunni
-        size = 5500
+        culture = aklanon
+        religion = catholic
+        size = 15500
     }
 
     clergymen = {
-        culture = asian_minor
-        religion = animist
+        culture = pacifica
+        religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = asian_minor
-        religion = animist
+        culture = pacifica
+        religion = catholic
         size = 4500
     }
 
     soldiers = {
-        culture = asian_minor
-        religion = animist
+        culture = pampangan
+        religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = asian_minor
-        religion = animist
+        culture = pampangan
+        religion = catholic
         size = 9375
     }
 }
@@ -495,7 +495,7 @@
 }
 #Mindanao Region (496000)
 #Under tisoy "Rule" 1836
-#Davao (152000/38000 POPS)
+#Cagayan De Oro (152000/38000 POPS)
 1463 = {
     bureaucrats = {
         culture = tisoy
@@ -516,69 +516,63 @@
     }
 
     aristocrats = {
-        culture = filipino
+        culture = cebuan
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = filipino
+        culture = cebuan
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = filipino
+        culture = cebuan
         religion = catholic
         size = 850
     }
 
     soldiers = {
-        culture = filipino
+        culture = cebuan
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = filipino
+        culture = cebuan
         religion = catholic
         size = 14800
     }
 
     aristocrats = {
-        culture = filipino
-        religion = sunni
+        culture = cebuan
+        religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = filipino
-        religion = sunni
+        culture = cebuan
+        religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = filipino
-        religion = sunni
+        culture = cebuan
+        religion = catholic
         size = 600
     }
 
     soldiers = {
-        culture = filipino
-        religion = sunni
+        culture = cebuan
+        religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = filipino
-        religion = sunni
-        size = 11100
-    }
-
-    farmers = {
-        culture = malay
+        culture = cebuan
         religion = catholic
-        size = 1100
+        size = 12200
     }
 
     aristocrats = {

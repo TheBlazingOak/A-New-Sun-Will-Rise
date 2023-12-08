@@ -2,4 +2,5 @@ owner = MYS
 controller = MYS
 add_core = MYS
 trade_goods = fruit
+terrain = ruined_city
 life_rating = 35

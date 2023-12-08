@@ -2,6 +2,14 @@
 #######################
 #        EUROPE       #
 #######################
+#Circassian Steppe Russians-Native Circassians
+vassal = {
+    first = DON
+    second = CIR
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
 #Azerbaijan-Caucasian Imamate
 vassal = {
 	first = AZB
@@ -165,6 +173,50 @@ vassal = {
 vassal = {
     first = JIY
     second = EZO
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Dongbei/Mongolian Rump state
+vassal = {
+    first = MCK
+    second = MGL
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Dongbei/Greater Beijing Frontier Region
+vassal = {
+    first = MCK
+    second = HNN
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Xiya Red Army/Greater Xi'an Frontier Region
+vassal = {
+    first = GMJ
+    second = HUI
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+######################
+#		INDIA 		 #
+######################
+
+# Nagaland-Manipur
+vassal = {
+    first = NGL
+    second = MNP
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
+
+#Rohingyadesh-Bangladesh
+vassal = {
+    first = ROH
+    second = BNG
     start_date = 2836.1.1
     end_date = 2936.1.1
 }

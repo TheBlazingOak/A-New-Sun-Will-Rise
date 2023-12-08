@@ -3,9 +3,3 @@ controller = HAE
 add_core = HAE
 trade_goods = grain
 life_rating = 35
-2861.1.1 = {
-    owner = SWK
-    controller = SWK
-    add_core = SWK
-    remove_core = BRU
-}

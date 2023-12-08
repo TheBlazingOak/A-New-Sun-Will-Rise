@@ -22,13 +22,13 @@
     clerks = {
         culture = swiss
         religion = vitalic
-        size = 100
+        size = 3000
     }
 
     craftsmen = {
         culture = swiss
         religion = vitalic
-        size = 5200
+        size = 35200
     }
 
     artisans = {
@@ -70,7 +70,7 @@
     craftsmen = {
         culture = swiss
         religion = vitalic
-        size = 800
+        size = 8800
     }
 
     artisans = {
@@ -114,7 +114,7 @@
     craftsmen = {
         culture = swiss
         religion = vitalic
-        size = 750
+        size = 10750
     }
 
     artisans = {
@@ -156,7 +156,7 @@
     craftsmen = {
         culture = swiss
         religion = vitalic
-        size = 600
+        size = 10600
     }
 
     artisans = {
@@ -174,7 +174,7 @@
     farmers = {
         culture = swiss
         religion = vitalic
-        size = 35800
+        size = 25800
     }
 }
 #Bern (352000/88000 POPS)
@@ -212,13 +212,13 @@
     clerks = {
         culture = swiss
         religion = vitalic
-        size = 400
+        size = 3400
     }
 
     craftsmen = {
         culture = swiss
         religion = vitalic
-        size = 35500
+        size = 55500
     }
 
     artisans = {
@@ -514,7 +514,7 @@
     craftsmen = {
         culture = swiss
         religion = vitalic
-        size = 12500
+        size = 22500
     }
 }
 #Chur (80000/20000 POPS)
@@ -954,7 +954,7 @@
     craftsmen = {
         culture = north_italian
         religion = vitalic
-        size = 3000
+        size = 13000
     }
 
     artisans = {
@@ -1441,7 +1441,7 @@
     craftsmen = {
         culture = swiss
         religion = vitalic
-        size = 2100
+        size = 12100
     }
 
     clergymen = {

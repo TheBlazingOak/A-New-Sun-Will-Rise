@@ -154,35 +154,6 @@
 }
 #Pasanauri (76000/19000 POPS)
 1091 = {
-	 aristocrats = {
-        culture = ossetian
-        religion = orthodox
-        size = 25
-    }
-
-    clergymen = {
-        culture = ossetian
-        religion = orthodox
-        size = 25
-    }
-
-    artisans = {
-        culture = ossetian
-        religion = orthodox
-        size = 150
-    }
-
-    soldiers = {
-        culture = ossetian
-        religion = orthodox
-        size = 25
-    }
-
-    farmers = {
-        culture = ossetian
-        religion = orthodox
-        size = 2775
-    }
     aristocrats = {
         culture = georgian
         religion = orthodox
@@ -211,36 +182,6 @@
         culture = georgian
         religion = orthodox
         size = 9100
-    }
-
-    aristocrats = {
-        culture = ossetian
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = ossetian
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = ossetian
-        religion = orthodox
-        size = 300
-    }
-
-    soldiers = {
-        culture = ossetian
-        religion = orthodox
-        size = 50
-    }
-
-    farmers = {
-        culture = ossetian
-        religion = orthodox
-        size = 5500
     }
 
     farmers = {
@@ -549,5 +490,180 @@
         culture = abkhazian
         religion = sunni
         size = 20550
+    }
+}
+#Rise-Artvin (Lazica aka Sunni Coastal West Georgians)
+3342 = {
+    aristocrats = {
+        culture = westgeorgian
+        religion = orthodox
+        size = 500
+    }
+
+    clergymen = {
+        culture = westgeorgian
+        religion = orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = westgeorgian
+        religion = orthodox
+        size = 1300
+    }
+
+    soldiers = {
+        culture = westgeorgian
+        religion = orthodox
+        size = 275
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 3500
+    }
+
+    serfs = {
+        culture = westgeorgian
+        religion = orthodox
+        size = 20675
+    }
+
+    farmers = {
+        culture = westgeorgian
+        religion = orthodox
+        size = 3000
+    }
+}
+
+#Tskhinval
+3351 = {
+		 aristocrats = {
+        culture = ossetian
+        religion = orthodox
+        size = 25
+    }
+
+    clergymen = {
+        culture = ossetian
+        religion = orthodox
+        size = 25
+    }
+
+    artisans = {
+        culture = ossetian
+        religion = orthodox
+        size = 150
+    }
+
+    soldiers = {
+        culture = ossetian
+        religion = orthodox
+        size = 25
+    }
+
+    farmers = {
+        culture = ossetian
+        religion = orthodox
+        size = 2775
+    }
+	 aristocrats = {
+        culture = ossetian
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = ossetian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = ossetian
+        religion = orthodox
+        size = 300
+    }
+
+    soldiers = {
+        culture = ossetian
+        religion = orthodox
+        size = 50
+    }
+
+    farmers = {
+        culture = ossetian
+        religion = orthodox
+        size = 5500
+    }
+}
+
+#Gori
+3352 = {
+    aristocrats = {
+        culture = georgian
+        religion = orthodox
+        size = 200
+    }
+
+    clergymen = {
+        culture = georgian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 500
+    }
+
+    soldiers = {
+        culture = georgian
+        religion = orthodox
+        size = 100
+    }
+
+    serfs = {
+        culture = georgian
+        religion = orthodox
+        size = 9100
+    }
+
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 500
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 50
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 50
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 150
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 50
+    }
+
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 2700
     }
 }

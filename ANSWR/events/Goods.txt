@@ -95,7 +95,7 @@ province_event = {
     }
 
     mean_time_to_happen =  {
-        months = 12
+        months = 12 
         modifier = {
             factor = 1000
             OR = {
@@ -361,11 +361,11 @@ province_event = {
     trigger = {
         year = 2836
         OR = {
-            province_id = 2091            # Mossel Bay
             province_id = 1697            # Figuig
             province_id = 2108            # Mosega
             province_id = 2107            # Klerksdorp
             province_id = 2068            # Salisbury
+            province_id = 2090            # Sweetenham
         }
         NOT = {
             year = 2900
@@ -398,7 +398,7 @@ province_event = {
     trigger = {
         year = 2867
         or = {
-            province_id = 2097            # Graaf Reinet
+            province_id = 2098            # Graaf Reinet
             province_id = 1849            # Massawa
             province_id = 2084            # Luderitzbutch/Angra Pequena
             province_id = 1885            # Falaba

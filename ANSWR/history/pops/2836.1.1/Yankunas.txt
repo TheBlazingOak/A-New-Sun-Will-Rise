@@ -4,36 +4,490 @@
     aristocrats = {
         culture = yankun
         religion = kaura
-        size = 1200
+        size = 3200
     }
 
     clergymen = {
         culture = yankun
         religion = kaura
-        size = 500
+        size = 2500
     }
 
     artisans = {
         culture = yankun
         religion = kaura
-        size = 8000
+        size = 10000
     }
 
     soldiers = {
         culture = yankun
         religion = kaura
-        size = 2000
+        size = 6000
     }
 
     farmers = {
         culture = yankun
         religion = kaura
-        size = 21500
+        size = 61500
     }
 
     farmers = {
         culture = bedouin
         religion = harami
-        size = 33625
+        size = 14625
     }
+}
+#Massenya (320000/80000 POPS)
+1818 = {
+
+    aristocrats = {
+        culture = yankun
+        religion = animist
+        size = 200
+    }
+
+    clergymen = {
+        culture = yankun
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = yankun
+        religion = animist
+        size = 500
+    }
+
+    soldiers = {
+        culture = yankun
+        religion = animist
+        size = 500
+    }
+
+    farmers = {
+        culture = yankun
+        religion = animist
+        size = 19000
+    }
+
+    slaves = {
+        culture = yankun
+        religion = animist
+        size = 1700
+    }
+}
+#Bongor (36000/9000 POPS)
+1820 = {
+    aristocrats = {
+        culture = yankun
+        religion = animist
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = yankun
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = yankun
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = yankun
+        religion = animist
+        size = 1000
+    }
+
+    soldiers = {
+        culture = yankun
+        religion = animist
+        size = 2000
+    }
+
+    farmers = {
+        culture = yankun
+        religion = animist
+        size = 30000
+    }
+
+    aristocrats = {
+        culture = yankun
+        religion = animist
+        size = 125
+    }
+
+    clergymen = {
+        culture = yankun
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = yankun
+        religion = animist
+        size = 500
+    }
+}
+#Wadai Region (488000)
+#under the rule of Wadai in 1836
+#Abeche (136000/34000 POPS)
+1821 = {
+
+    aristocrats = {
+        culture = yankun
+        religion = animist
+        size = 100
+    }
+
+    officers = {
+        culture = yankun
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = yankun
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = yankun
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = yankun
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = yankun
+        religion = animist
+        size = 33550
+    }
+
+    slaves = {
+        culture = yankun
+        religion = animist
+        size = 1300
+    }
+
+}
+#Am Timan (168000/42000 POPS)
+1822 = {
+
+    aristocrats = {
+        culture = yankun
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = yankun
+        religion = animist
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = yankun
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = yankun
+        religion = animist
+        size = 350
+    }
+
+    soldiers = {
+        culture = yankun
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = yankun
+        religion = animist
+        size = 7300
+    }
+}
+#yankun (184000/46000 POPS)
+1823 = {
+
+    aristocrats = {
+        culture = yankun
+        religion = animist
+        size = 1300
+    }
+
+    clergymen = {
+        culture = yankun
+        religion = animist
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = yankun
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = yankun
+        religion = animist
+        size = 5500
+    }
+
+    soldiers = {
+        culture = yankun
+        religion = animist
+        size = 3000
+    }
+
+    farmers = {
+        culture = yankun
+        religion = animist
+        size = 17246
+    }
+}
+#Kanem Region (288000)
+#under the rule of Kanem-Bornu in 1836
+#Zouar (72000/18000 POPS)
+1825 = {
+    aristocrats = {
+        culture = yankun
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = yankun
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = yankun
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = yankun
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = yankun
+        religion = animist
+        size = 11380
+    }
+}
+#under the rule of Wadai in 1836
+#Faya (56000/14000 POPS)
+1826 = {
+    aristocrats = {
+        culture = yankun
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = yankun
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = yankun
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = yankun
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = yankun
+        religion = animist
+        size = 31080
+    }
+
+}
+#Irebu (660000/165000 POPS)
+1993 = {
+    aristocrats = {
+        culture = yankun
+        religion = animist
+        size = 500
+    }
+
+    clergymen = {
+        culture = yankun
+        religion = animist
+        size = 550
+    }
+
+    artisans = {
+        culture = yankun
+        religion = animist
+        size = 2200
+    }
+
+    soldiers = {
+        culture = yankun
+        religion = animist
+        size = 1650
+    }
+
+    farmers = {
+        culture = yankun
+        religion = animist
+        size = 15888
+    }
+}
+#Gemena (1232000/308000 POPS)
+1995 = {
+    aristocrats = {
+        culture = yankun
+        religion = animist
+        size = 2000
+    }
+
+    clergymen = {
+        culture = yankun
+        religion = animist
+        size = 1100
+    }
+
+    artisans = {
+        culture = yankun
+        religion = animist
+        size = 2125
+    }
+
+    soldiers = {
+        culture = yankun
+        religion = animist
+        size = 1100
+    }
+
+    farmers = {
+        culture = yankun
+        religion = animist
+        size = 33750
+    }
+}
+#Seychelles (5000/1250 POPS)
+2127 = {
+
+    aristocrats = {
+        culture = yankun
+        religion = animist
+        size = 300
+    }
+
+    clergymen = {
+        culture = yankun
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = yankun
+        religion = animist
+        size = 1125
+    }
+
+    soldiers = {
+        culture = yankun
+        religion = animist
+        size = 500
+    }
+
+    farmers = {
+        culture = yankun
+        religion = animist
+        size = 18750
+    }
+}
+#Bangassou (56000/14000 POPS)
+1970 = {
+
+    aristocrats = {
+        culture = yankun
+        religion = animist
+        size = 225
+    }
+
+    clergymen = {
+        culture = yankun
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = yankun
+        religion = animist
+        size = 650
+    }
+
+    soldiers = {
+        culture = yankun
+        religion = animist
+        size = 3150
+    }
+
+    farmers = {
+        culture = yankun
+        religion = animist
+        size = 29875
+    }
+}
+#uncolonized in 1836/under influence of Wadai
+#Ndele (28000/7000 POPS)
+1971 = {
+
+    aristocrats = {
+        culture = yankun
+        religion = animist
+        size = 600
+    }
+
+    clergymen = {
+        culture = yankun
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = yankun
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = yankun
+        religion = animist
+        size = 3075
+    }
+
+    farmers = {
+        culture = yankun
+        religion = animist
+        size = 25475
+    }
+
 }

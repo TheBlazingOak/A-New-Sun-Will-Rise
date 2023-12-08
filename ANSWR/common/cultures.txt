@@ -884,7 +884,7 @@ leader = russian
                           Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko }
     }
     krymskiy = {
-        color = {100 240 50}
+        color = {200 140 50}
            first_names = { Aleksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady
                          Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim
                          Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei
@@ -1114,7 +1114,7 @@ levantine = {
         radicalism = 5
     }
     abkhazian = {
-            color = {85 206 16}
+            color = {185 106 16}
             first_names = {
                 Aghwrbiy Abatiy Albech Albot "Alhx'es" "Alhx'o" Alijiqwe Bale Batirbiy Biylhosten Blaneshu Bubeird Chetsu "Ch'ischiqwe" Chawis Dariqwe Dokshiqua Dzeghaschte Dzune Foqwe Ghwaze Gushina Gushipsa Hegwtsire Hanaqua Hetsu Jirandiqwe Kwshbiy Lhostenasch Mamsriqwe Menshaq Meshiqwe Nalbiy Nartshu Nerzan Pschimaxwe Qideghaze Schebet Shumaxwe Shupashe Takwu Tsumash Tighwenbiy Tighwen Werdeschawe Wezroqwe Yedij Zhore
                 }
@@ -1606,19 +1606,11 @@ central_asian = {
     }
 }
 
+
+
 south_asian = {
     leader = indian
     unit = IndianGC
-    assamese = {
-        color = {112 134 156}
-        first_names = { Chandraka Purandar Ruchinath Kaganath Dhekial Jogeshwar Sudingphaa Kamaleswar Daman Hao Jama Patalang
-
-        }
-
-        last_names = { Singha Aideo Dogoi Bora Khan Purnananda Phukan
-        }
-    }
-
     bihari = {
         color = {180 75 130}
         first_names = { Maharshi Mahavira Ashtravakra Chanakya Ashoka Samudragupta Vachaspati Vatsyayana Asvaghosa Udayanacharaya
@@ -1626,16 +1618,6 @@ south_asian = {
         }
 
         last_names = { Singh Valmiki Janak Jarasandh Mishra
-
-        }
-    }
-    manipuri = {
-        color = {190 150 240}
-        first_names = { Churachandra Kulachanrda Surachandra Chandrakirti Devendra Nara Genavira Pitambara Marjit Moduchanrda Charajit Harshachandra Chingthang
-
-        }
-
-        last_names = { Singh Khomba Sai
 
         }
     }
@@ -1762,16 +1744,6 @@ south_asian = {
 
         }
     }
-    delhiite = {
-        color = {44 51 45}
-        first_names = { Kirtisri Vikrama Sri Vijaya Viraparakkama Vimala Rajasingha Senarat  Anagarika Wimalaratne
-
-        }
-
-        last_names = { Dharmasurya Narendrasimha Rajasimha Rajadhirajasimha Doraisami
-
-        }
-    }
     tekno = {
         color = {125 125 75}
         first_names = { Chetan Fakirbhai Jivraj Madhavsingh Khemchand Manubhai Bharatsingh Balwantry Chabildas Maniraj
@@ -1848,6 +1820,32 @@ indo_iranian = {
 
         }
 
+    }
+	 delhiite = {
+        color = {44 51 45}
+        first_names = { Kirtisri Vikrama Sri Vijaya Viraparakkama Vimala Rajasingha Senarat  Anagarika Wimalaratne
+
+        }
+
+        last_names = { Dharmasurya Narendrasimha Rajasimha Rajadhirajasimha Doraisami
+
+        }
+    }
+	rohingya = {
+		 #!religion = { sunni }
+		 #color = { 107 142 35 }
+		 color = { 136 154 152 }
+		 first_names = { Hswe Hsö Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun }
+		 last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min }
+	}
+	assamese = {
+        color = {112 134 156}
+        first_names = { Chandraka Purandar Ruchinath Kaganath Dhekial Jogeshwar Sudingphaa Kamaleswar Daman Hao Jama Patalang
+
+        }
+
+        last_names = { Singha Aideo Dogoi Bora Khan Purnananda Phukan
+        }
     }
 }
 
@@ -1944,6 +1942,16 @@ southeast_asian = {
 
         }
     }
+	manobo = {
+        color = {214 70 177}
+        first_names = { Emilio Apolinario Andrés José Hermano Jacinto Mariano Deodato Ladislao Teodoro Valentíne Antonio León Simeón Arcadio Artemio Manuel
+
+        }
+
+        last_names = { Aguainaldo Mabini Bonifacio Jacinto Rizal Díaz Plata Diwa Arellano
+
+        }
+    }
     tisoy = {
         color = {142 71 73}
         first_names = { Emilio Apolinario Andrés José Hermano Jacinto Mariano Deodato Ladislao Teodoro Valentíne Antonio León Simeón Arcadio Artemio Manuel
@@ -1987,7 +1995,7 @@ southeast_asian = {
         }
     }
     chavacan = {
-        color = {14 20 237}
+        color = {114 220 137}
         first_names = { Emilio Apolinario Andres Jose Hermano Jacinto Mariano Deodato Ladislao Teodoro Valentine Antonio Leon Simeon Arcadio Artemio Manuel
         }
 
@@ -2012,14 +2020,6 @@ southeast_asian = {
     }
     aklanon = {
         color = {44 70 237}
-        first_names = { Emilio Apolinario Andres Jose Hermano Jacinto Mariano Deodato Ladislao Teodoro Valentine Antonio Leon Simeon Arcadio Artemio Manuel
-        }
-
-        last_names = { Aguainaldo Mabini Bonifacio Jacinto Rizal Diaz Plata Diwa Arellano
-        }
-    }
-    boholan = {
-        color = {214 70 177}
         first_names = { Emilio Apolinario Andres Jose Hermano Jacinto Mariano Deodato Ladislao Teodoro Valentine Antonio Leon Simeon Arcadio Artemio Manuel
         }
 
@@ -2106,7 +2106,35 @@ southeast_asian = {
 
         }
     }
-}
+	manipuri = {
+        color = {190 150 240}
+        first_names = { Churachandra Kulachanrda Surachandra Chandrakirti Devendra Nara Genavira Pitambara Marjit Moduchanrda Charajit Harshachandra Chingthang
+
+        }
+
+        last_names = { Singh Khomba Sai
+
+        }
+    }
+	naga = {
+		 #!religion = { protestant }
+		 color = { 201 0 0 }
+		 first_names = { Hswe Hsö Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun }
+		 last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min }
+	}
+	khasi = {
+		 #!religion = { protestant }
+		 color = { 106 90 205 }
+		 first_names = { Hswe Hsö Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun }
+		 last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min }
+	}
+	mizoram = {
+		 #!religion = { protestant }
+		 color = { 153 50 204 }
+		 first_names = { Hswe Hsö Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun }
+		 last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min }
+	}
+}	
 
 east_asian = {
     leader = asian
@@ -2191,18 +2219,26 @@ east_asian = {
         last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
         }
     }
-    miao = {
-        color = {98 67 155}
-        first_names = { Pa Hang Mee Chay Kao Bang Zong Zoua Mai Blong Qin Shen Ka Dia Neng Kak
-        }
-        last_names = { Thao Sao Moua Vue Her Lyfoung Pao Yang Lo Cha Congwen Zhiming Liangyu
-        }
-    }
     min = {
         color = {76 32 200}
         first_names = { Lin Shen Chen Wong Yan Sa Hou Zheng Bing Wu Tan He Du Xue Xu Qin
         }
         last_names = { Zexu Baozhen Baochen Nai-siong Shu Fu Sen Debang Xin Nee Huiyin
+        }
+    }
+
+	hani = {
+		 #!religion = { taoism }
+		 color = { 184 134 11 }
+		 first_names = { Hoang Nong Le Be Van Quoc Quynh The Duc }
+		 last_names = { Thu Manh Trieu Khanh Phung Hau Chan Den Phach Cao }
+	}
+
+	miao = {
+        color = {98 67 155}
+        first_names = { Pa Hang Mee Chay Kao Bang Zong Zoua Mai Blong Qin Shen Ka Dia Neng Kak
+        }
+        last_names = { Thao Sao Moua Vue Her Lyfoung Pao Yang Lo Cha Congwen Zhiming Liangyu
         }
     }
 
@@ -2728,6 +2764,7 @@ neo_european_cultures = {
         last_names = { Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys
         }
     }
+    #Mixed
     nork = {
     color = { 80 72 130 }
         first_names = { Alfred Adrian Arne Bernt Bjorn Carl Caspar Christian Christopher Cort
@@ -3450,6 +3487,22 @@ central_african = {
         last_names = { Kasang Nambing Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
         }
     }
+    nbele = {
+        color = {231 144 144}
+        first_names = { Ngalifourou Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
+        }
+
+        last_names = { Bongo Ganao Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
+        }
+    }
+    kasai = {
+        color = {77 66 99}
+        first_names = { Poaty Loembe M'voudoukousala Pratt N'Gangue M'voumbe Mfutila Kivuzi Nteve Kenje
+        }
+
+        last_names = { "Ma Nombo" "Ma N'Sangou" N'Gombi Matou Mvemba Lukeni Mpanzu Nimi Nsindi
+        }
+    }
 }
 
 east_african = {
@@ -3671,20 +3724,28 @@ southern_african = {
         last_names = { Mwale Phiri Mkunkhuntha Mbewe Kalimakudzulu
         }
     }
-    herero = {
-        color = {94 180 42}
+    tswana = {
+        color = {89  141  140}
         first_names = { Samuel Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
         }
 
         last_names = { Maharero Witbooi Tjavikwa Tjimba Hakawona vaKuvale vaZemba
         }
     }
-    khoisan = {
-        color = {122 46 133}
-        first_names = { Naresib Gabeb Gorakhab Oasib Na-khom Tsawub Gaob Hanab O-Naib Khaub Khomab Hab
+    barot = {
+        color = {200 191 231}
+        first_names = { Kaumba Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
         }
 
-        last_names = { Hamab Khomaa Khaumab O-Naimab Hanamab Gamab Nakhomab Manassee Oasmab
+        last_names = { Kasang Nambing Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
+        }
+    }
+    barbaro = {
+        color = {100 100 150}
+        first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
+        }
+
+        last_names = { Bolia Bokote Bongandu Ekonda Mbole Nkutu Ntomba Sengele Songomeno Dengese Tetela-Kusu
         }
     }
     lomwe = {
@@ -3767,14 +3828,6 @@ southern_african = {
         last_names = { Nyondo Muyila Kalagho Malokotela Sibale Chizimu Kayuni Panja
         }
     }
-    tswana = {
-        color = {91 212 36}
-        first_names = { Khama Bathoen Sebele Baruti Boipelu Gaone Kabelo Kedikilwe Kefentse Thabo Tale Mothudi Mosegi Mowen Moetapele Molefi Turnelo
-        }
-
-        last_names = { Bakgatla Bakwna Balete Bamangwato Bangwaketse Barolong Batawana Batlokwa Batsapong Bakgalakgadi Bakalaka
-        }
-    }
     xhosa = {
         color = {49 58 156}
         first_names = { Mthuthuzeli Nolizwe Nonceba Paki Sipliwo Themba Uuka Thandiwe
@@ -3798,5 +3851,26 @@ southern_african = {
 
         last_names = { kaMpande kaMahole KaMdlela waMswati Buthelezei Khoza kaSihayo kaMvundlana kaZikhala kaMaphitha
         }
+    }
+    viwa = {
+        color = {191 55 36}
+        first_names = { Khama Bathoen Sebele Baruti Boipelu Gaone Kabelo Kedikilwe Kefentse Thabo Tale Mothudi Mosegi Mowen Moetapele Molefi Turnelo
+        }
+
+        last_names = { Bakgatla Bakwna Balete Bamangwato Bangwaketse Barolong Batawana Batlokwa Batsapong Bakgalakgadi Bakalaka
+        }
+    }
+    bingwa = {
+        color = {91 212 36}
+        first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
+        }
+
+        last_names = { Nyondo Muyila Kalagho Malokotela Sibale Chizimu Kayuni Panja
+        }
+    }
+    afrikaan = {
+         color = { 244 164 96 }
+         first_names = { Cetshwayo Ntshingwayo Dabulamanzi Sikukuni Sihayo Mavumengwana Mbilini Mnyamana Hamu Gawozi Mgojana Zibhebhu Hehlokazulu Manyonyoba Mahubulwana Mkhosana Dingiswayo Senzagkhona Sekhukhune Sekethwayo Somopho Naresib Gabeb Gorakhab Oasib Na-khom Tsawub Gaob Hanab O-Naib Khaub Khomab Hab Sarel Rudolf Andries Hendrik Piet Racheltjie Dirkie Siener Koos Danie Christiaan Louis Petrus Paul Eugene Joubert  }
+         last_names = { kaMpande kaMahole KaMdlela waMswati Buthelezei Khoza kaSihayo kaMvundlana kaZikhala kaMaphitha Hamab Khomaa Khaumab O-Naimab Hanamab Gamab Nakhomab Manassee Oasmab Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys }
     }
 }

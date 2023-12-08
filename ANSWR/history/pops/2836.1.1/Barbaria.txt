@@ -1,0 +1,654 @@
+#Damaraland Region (192000)
+#Windhoek (72000/18000 POPS)
+2078 = {
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 8175
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = protestant
+        size = 300
+    }
+
+    aristocrats = {
+        culture = afrikaan
+        religion = ancestor
+        size = 225
+    }
+
+    clergymen = {
+        culture = afrikaan
+        religion = ancestor
+        size = 125
+    }
+
+    artisans = {
+        culture = afrikaan
+        religion = ancestor
+        size = 600
+    }
+
+    soldiers = {
+        culture = afrikaan
+        religion = ancestor
+        size = 125
+    }
+
+    farmers = {
+        culture = afrikaan
+        religion = ancestor
+        size = 2725
+    }
+
+    farmers = {
+        culture = afrikaan
+        religion = protestant
+        size = 200
+    }
+}
+#Swakopmund (52000/13000 POPS)
+2079 = {
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 450
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 8200
+    }
+
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 13650
+    }
+}
+#Tsumeb (24000/6000 POPS)
+2080 = {
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 9475
+    }
+}
+#Congo Region (116000) #see Congo-Zaire.txt for balance of region
+###Colonized by Borgia###
+#Benguela (116000/29000 POPS)
+2003 = {
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 300
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 1500
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 20800
+    }
+
+    slaves = {
+        culture = barbaro
+        religion = animist
+        size = 5800
+    }
+}
+#Mocamedes (116000/29000 POPS)
+2004 = {
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 300
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 600
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 750
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 21250
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 5800
+    }
+}
+###Uncolonized###
+#Huambo (208000/52000 POPS)
+2005 = {
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 600
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 550
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 2600
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 600
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 36650
+    }
+
+    slaves = {
+        culture = barbaro
+        religion = animist
+        size = 10000
+    }
+
+}
+#Angola - Bihe (264000)
+#Uncolonized in 1836
+#Kuito (148000/37000 POPS)
+2006 = {
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 350
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 350
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 1800
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 400
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 26700
+    }
+
+    slaves = {
+        culture = barbaro
+        religion = animist
+        size = 7500
+    }
+}
+
+#Ondjiva (36000/9000 POPS)
+2008 = {
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 30
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 60
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 2205
+    }
+
+    slaves = {
+        culture = barbaro
+        religion = animist
+        size = 600
+    }
+
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 4275
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 1250
+    }
+
+}
+#Angola - Kwango (232000)
+#Uncolonized in 1836
+#Malanje (44000/11000 POPS)
+2009 = {
+
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 30
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 60
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 3060
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 12175
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 13600
+    }
+
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 3025
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 31400
+    }
+
+    slaves = {
+        culture = barbaro
+        religion = animist
+        size = 2400
+    }
+}
+#Saurimo (112000/28000 POPS)
+2010 = {
+    aristocrats = {
+        culture = barot
+        religion = animist
+        size = 250
+    }
+
+    clergymen = {
+        culture = barot
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = barot
+        religion = animist
+        size = 1250
+    }
+
+    soldiers = {
+        culture = barot
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = barot
+        religion = animist
+        size = 8000
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 8000
+    }
+
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 20850
+    }
+
+    slaves = {
+        culture = barot
+        religion = animist
+        size = 800
+    }
+}
+###Vinhia Controled###
+#Kinshasa (1408000/352000 POPS)
+1982 = {
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = barbaro
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 575
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 4025
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 3000
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 31950
+    }
+
+    farmers = {
+        culture = janeiran
+        religion = catholic
+        size = 4950
+    }
+
+    slaves = {
+        culture = bakongo
+        religion = animist
+        size = 22000
+    }
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 11000
+    }
+}
+#Kumbana (1364000/341000 POPS)
+1985 = {
+    aristocrats = {
+        culture = barbaro
+        religion = animist
+        size = 1100
+    }
+
+    clergymen = {
+        culture = barbaro
+        religion = animist
+        size = 550
+    }
+
+    artisans = {
+        culture = barbaro
+        religion = animist
+        size = 2380
+    }
+
+    soldiers = {
+        culture = barbaro
+        religion = animist
+        size = 1925
+    }
+
+    farmers = {
+        culture = barbaro
+        religion = animist
+        size = 29950
+    }
+
+    slaves = {
+        culture = bakongo
+        religion = animist
+        size = 4000
+    }
+
+    farmers = {
+        culture = bakongo
+        religion = animist
+        size = 8000
+    }
+}

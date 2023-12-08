@@ -1,0 +1,202 @@
+#Xinjiang Region (1356000)
+#under the "rule" of China in 1836
+#Kashgar (268000/67000 POPS)
+1594 = {
+    officers = {
+        culture = uighur
+        religion = sunni
+        size = 162
+    }
+
+    clergymen = {
+        culture = uighur
+        religion = sunni
+        size = 762
+    }
+
+    artisans = {
+        culture = uighur
+        religion = sunni
+        size = 2100
+    }
+	
+    farmers = {
+        culture = uighur
+        religion = sunni
+        size = 16587
+    }
+	aristocrats = {
+        culture = ping
+        religion = sunni
+        size = 3100
+    }
+
+    bureaucrats = {
+        culture = ping
+        religion = sunni
+        size = 1250
+    }
+
+    officers = {
+        culture = ping
+        religion = sunni
+        size = 162
+    }
+
+    clergymen = {
+        culture = ping
+        religion = sunni
+        size = 762
+    }
+
+    artisans = {
+        culture = ping
+        religion = sunni
+        size = 2100
+    }
+
+    soldiers = {
+        culture = ping
+        religion = sunni
+        size = 2424
+    }
+
+    farmers = {
+        culture = ping
+        religion = sunni
+        size = 56587
+    }
+}
+#Aksu (192000/48000 POPS)
+1597 = {
+    artisans = {
+        culture = uighur
+        religion = sunni
+        size = 1200
+    }
+
+    farmers = {
+        culture = uighur
+        religion = sunni
+        size = 5825
+    }
+	
+	aristocrats = {
+        culture = ping
+        religion = sunni
+        size = 950
+    }
+
+    clergymen = {
+        culture = ping
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = ping
+        religion = sunni
+        size = 1200
+    }
+
+    soldiers = {
+        culture = ping
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = ping
+        religion = sunni
+        size = 37825
+    }
+}
+#Khotan (88000/22000 POPS)
+1598 = {
+    artisans = {
+        culture = uighur
+        religion = sunni
+        size = 550
+    }
+
+    farmers = {
+        culture = uighur
+        religion = sunni
+        size = 3012
+    }
+	
+	aristocrats = {
+        culture = ping
+        religion = sunni
+        size = 424
+    }
+
+    clergymen = {
+        culture = ping
+        religion = sunni
+        size = 224
+    }
+
+    artisans = {
+        culture = ping
+        religion = sunni
+        size = 550
+    }
+
+    soldiers = {
+        culture = ping
+        religion = sunni
+        size = 225
+    }
+
+    farmers = {
+        culture = ping
+        religion = sunni
+        size = 17012
+    }
+}
+#Lopnur (32000/8000 POPS)
+2607 = {
+    artisans = {
+        culture = uighur
+        religion = sunni
+        size = 1250
+    }
+
+    soldiers = {
+        culture = ping
+        religion = sunni
+        size = 1500
+    }
+
+    farmers = {
+        culture = uighur
+        religion = sunni
+        size = 2288
+    }
+
+	aristocrats = {
+        culture = ping
+        religion = sunni
+        size = 170
+    }
+
+    clergymen = {
+        culture = ping
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = ping
+        religion = sunni
+        size = 1250
+    }
+
+    farmers = {
+        culture = ping
+        religion = sunni
+        size = 42288
+    }
+
+}

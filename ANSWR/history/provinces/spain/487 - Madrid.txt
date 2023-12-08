@@ -2,25 +2,9 @@ owner = LIR
 controller = LIR
 add_core = CLV
 add_core = LIR
-<<<<<<< Updated upstream
-trade_goods = cattle
-life_rating = 31
-#state_building = {
-#    level = 1
-#    building = ammunition_factory
-#    upgrade = yes
-#}
-#state_building = {
-#    level = 1
-#    building = small_arms_factory
-#    upgrade = yes
-#}
-2861.1.1 = { railroad = 2 }
-=======
 add_core = DMN
 add_core = DAL
 add_core = POR
 trade_goods = iron
 life_rating = 25
 terrain = ruined_city
->>>>>>> Stashed changes

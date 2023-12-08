@@ -141,6 +141,11 @@ europe_religions = {
         icon = 20
         color = { 0.6 0.7 0.7}
     }
+    #Jardin Brokers
+    jardinite = {
+        icon = 28
+        color = { 1.0 0.7 0.7}
+    }
 }
 
 liberty = {
@@ -163,18 +168,23 @@ liberty = {
 african_religions = {
     #Harmony
     harami = {
-        icon = 5
+        icon = 26
         color = { 0.3 0.3 0.3 }
     }
     #The King's Cult
     sarki = {
-        icon = 5
+        icon = 26
         color = { 0.6 0.35 0.4 }
     }
     #The King's Exiles
     kaura = {
-        icon = 5
+        icon = 28
         color = { 0.15 0.35 0.15 }
+    }
+    #Ancestor Worship
+    ancestor = {
+        color = { 0.55 0.4 0.95 }
+        icon = 9
     }
 }
 
@@ -186,7 +196,7 @@ asian_religions = {
     }
     
     qiyuan = {
-        icon = 1
+        icon = 4
         color = { 0.1 0.1 0.2 }
     }
 
@@ -197,7 +207,7 @@ asian_religions = {
     }
     #Technology worship
     teknic = {
-        icon = 1
+        icon = 20
         color = { 0.7 0.6 0.7 }
     }
     #Prophet of Issac

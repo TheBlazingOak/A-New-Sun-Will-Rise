@@ -495,19 +495,19 @@
 #Brunei (100687 POPS)
 1393 = {
     aristocrats = {
-        culture = borneanmalay
+        culture = pacifica
         religion = sunni
         size = 1175
     }
 
     bureaucrats = {
-        culture = borneanmalay
+        culture = pacifica
         religion = sunni
         size = 1150
     }
 
     officers = {
-        culture = borneanmalay
+        culture = pacifica
         religion = sunni
         size = 1025
     }
@@ -705,4 +705,112 @@
         size = 72750
     }
 
+}
+
+3362 = {
+    aristocrats = {
+        culture = asian_minor
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = asian_minor
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = animist
+        size = 450
+    }
+
+    soldiers = {
+        culture = asian_minor
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = animist
+        size = 6475
+    }
+}
+
+3363 = {
+   aristocrats = {
+        culture = asian_minor
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = asian_minor
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = animist
+        size = 45
+    }
+
+    soldiers = {
+        culture = asian_minor
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = animist
+        size = 2300
+    }
+}
+
+3364 = { 
+	aristocrats = {
+        culture = asian_minor
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = asian_minor
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = animist
+        size = 2500
+    }
+
+	artisans = {
+        culture = borneanmalay
+        religion = animist
+        size = 2000
+    }
+
+    soldiers = {
+        culture = asian_minor
+        religion = animist
+        size = 1000
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = animist
+        size = 32475
+    }
+	
+	farmers = {
+        culture = borneanmalay
+        religion = animist
+        size = 22475
+    }
 }

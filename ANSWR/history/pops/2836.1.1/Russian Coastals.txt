@@ -554,3 +554,41 @@
         size = 42000
     }
 }
+
+949 = {
+    aristocrats = {
+        culture = russian
+        religion = veravburyu
+        size = 1825
+    }
+
+    clergymen = {
+        culture = russian
+        religion = veravburyu
+        size = 400
+    }
+
+    artisans = {
+        culture = russian
+        religion = veravburyu
+        size = 3000
+    }
+
+    soldiers = {
+        culture = russian
+        religion = veravburyu
+        size = 1100
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 47500
+    }
+
+    farmers = {
+        culture = russian
+        religion = veravburyu
+        size = 42000
+    }
+}

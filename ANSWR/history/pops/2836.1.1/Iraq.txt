@@ -2,6 +2,41 @@
 #under the rule of Ottoman Empire in 1836
 #Mosul (228000/57000 POPS)
 923 = {
+	aristocrats = {
+        culture = assyrian
+        religion = catholic
+        size = 100
+    }
+
+    officers = {
+        culture = assyrian
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = assyrian
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = assyrian
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = assyrian
+        religion = catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = assyrian
+        religion = catholic
+        size = 3650
+    }
 	soldiers = {
         culture = assyrian
         religion = catholic
@@ -236,6 +271,54 @@
         size = 7225
     }
 
+	  soldiers = {
+        culture = assyrian
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = assyrian
+        religion = catholic
+        size = 25
+    }
+
+    artisans = {
+        culture = assyrian
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = assyrian
+        religion = catholic
+        size = 825
+    }
+
+	clergymen = {
+        culture = assyrian
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = assyrian
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = assyrian
+        religion = catholic
+        size = 550
+    }
+
+    farmers = {
+        culture = assyrian
+        religion = catholic
+        size = 1050
+    }
+
     aristocrats = {
         culture = mashriqi
         religion = sunni
@@ -391,12 +474,96 @@
         religion = catholic
         size = 17325
     }
+	clergymen = {
+        culture = assyrian
+        religion = catholic
+        size = 200
+    }
 
+    artisans = {
+        culture = assyrian
+        religion = catholic
+        size = 1600
+    }
+
+    farmers = {
+        culture = assyrian
+        religion = catholic
+        size = 15000
+    }
     slaves = {
         culture = azerbaijani
         religion = orthodox
         size = 500
     }
+}
+#Gwadar - Ziryanka (1000/250 POPS)
+2640 = {
+	clergymen = {
+        culture = mashriqi
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = catholic
+        size = 1600
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = catholic
+        size = 15000
+    }
+    aristocrats = {
+        culture = bedouin
+        religion = ibadi
+        size = 5
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = ibadi
+        size = 25
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = ibadi
+        size = 25
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = ibadi
+        size = 100
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = ibadi
+        size = 300
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 600
+    }
+
+    slaves = {
+        culture = forest_bantu
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = shiite
+        size = 450
+    }
+
 }
 #Arbil (104000/26000 POPS)
 924 = {
@@ -461,25 +628,25 @@
     }
 
     clergymen = {
-        culture = turkish
+        culture = kurdish
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = turkish
+        culture = kurdish
         religion = sunni
         size = 400
     }
 
     soldiers = {
-        culture = turkish
+        culture = kurdish
         religion = sunni
         size = 600
     }
 
     farmers = {
-        culture = turkish
+        culture = kurdish
         religion = sunni
         size = 1000
     }
@@ -553,25 +720,25 @@
     }
 
     clergymen = {
-        culture = turkish
+        culture = kurdish
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = turkish
+        culture = kurdish
         religion = sunni
         size = 1525
     }
 
     soldiers = {
-        culture = turkish
+        culture = kurdish
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = turkish
+        culture = kurdish
         religion = sunni
         size = 2000
     }
@@ -650,42 +817,6 @@
         culture = mashriqi
         religion = shiite
         size = 2750
-    }
-
-    aristocrats = {
-        culture = assyrian
-        religion = catholic
-        size = 100
-    }
-
-    officers = {
-        culture = assyrian
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = assyrian
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = assyrian
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = assyrian
-        religion = catholic
-        size = 2000
-    }
-
-    farmers = {
-        culture = assyrian
-        religion = catholic
-        size = 3650
     }
 
     clergymen = {
@@ -819,31 +950,31 @@
 #Mendeli (84000/21000 POPS)
 928 = {
     aristocrats = {
-        culture = mashriqi
+        culture = kurdish
         religion = sunni
         size = 175
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = kurdish
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = mashriqi
+        culture = kurdish
         religion = sunni
         size = 600
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = kurdish
         religion = sunni
         size = 125
     }
 
     farmers = {
-        culture = mashriqi
+        culture = kurdish
         religion = sunni
         size = 10975
     }
@@ -906,30 +1037,6 @@
         culture = bedouin
         religion = sunni
         size = 3600
-    }
-
-    soldiers = {
-        culture = assyrian
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = assyrian
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = assyrian
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = assyrian
-        religion = catholic
-        size = 825
     }
 }
 #Karbala (100000/25000 POPS)
