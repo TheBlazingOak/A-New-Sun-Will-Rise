@@ -225,23 +225,31 @@ FRA_467 = { 469 454 466 472 } #Provence
 
 SPA_474 = { 474 476 475 478 } #Nuvacolia
 
-SPA_477 = { 477 479 480 494 } #Leóna
+SPA_477 = { 477 479 480 494 } #Nueva Dalia
 
 SPA_484 = { 484 485 486 511 } #Mayor Lirlo
 
 SPA_488 = { 488 487 481 482 483 } #Flormoribuna
 
-SPA_487 = { 489 490 491 506 507 508 } #Damasco Central
+SPA_487 = { 491 489 517 2590 } #Gran Jardin
+
+DMN_508 = { 508 506 507 490 } #Damasco Central
 
 SPA_503 = { 503 504 505 497 } #Varcincia
 
 SPA_492 = { 492 493 495 496 } #Varagóna
 
+<<<<<<< Updated upstream
 SPA_498 = { 498 499 500 501 502 } #Catalonia
+=======
+SPA_498 = { 498 499 500 501 502 464 } #Catalonia
 
-SPA_512 = { 512 509 517 514 } #La Jardin
+CAT_495 = { 495 496 457 1689 } #
+>>>>>>> Stashed changes
 
-SPA_513 = { 513 515 516 510 } #Granada
+SPA_512 = { 512 509 514 } #El Clavel
+
+SPA_513 = { 513 515 516 510 } #Flor del Sur
 
 POR_518 = { 518 519 520 } #Douro
 
@@ -897,7 +905,7 @@ MOR_1693 = { 1690 1693 1691 2563 1692 } #Morocco
 
 MOR_1686 = { 1685 1681 1682 1680 } #Fez
 
-MOR_1688 = { 1686 1688 1689 1687 2590 } #al Rif
+MOR_1688 = { 1686 1688 1687 } #al Rif
 
 MOR_1683 = { 1683 1684 1697 1698 } #Taza
 

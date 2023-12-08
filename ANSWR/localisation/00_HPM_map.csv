@@ -949,8 +949,7 @@ SIC_756;Apùglia;;;;;;;;;;;;x
 CAN_65;Centre de Québec;;;;;;;;;;;;x
 CAN_58;Montréal;;;;;;;;;;;;x
 CAN_60;Centre de Québec;;;;;;;;;;;;x
-SPA_512;Jardín;;;;;;;;;;;;x
-SPA_513;Granadia;;;;;;;;;;;;x
+SPA_513;Flur del Sur;;;;;;;;;;;;x
 SPA_474;Nuvacolia;;;;;;;;;;;;x
 SPA_477;Leóna;;;;;;;;;;;;x
 SPA_474;Nuvacolia;;;;;;;;;;;;x
@@ -963,7 +962,7 @@ POR_521;Alfazema;;;;;;;;;;;;x
 SWI_603;Ostschweiz;;;;;;;;;;;;x
 SWI_605;Zentralschweiz;;;;;;;;;;;;x
 SWI_607;Westschweiz;;;;;;;;;;;;x
-SPA_487;Damasco Central;;;;;;;;;;;;x
+DMN_508;Damasco Central;;;;;;;;;;;;x
 PROV2204;Acatra;;;;;;;;;;;;x
 PROV2208;Pandotra;;;;;;;;;;;;x
 PROV2254;Lindre Pordemac;;;;;;;;;;;;x
@@ -1269,4 +1268,205 @@ FRA_1816;Mruwa;;;;;;;;;;;;x
 TOR_1784;Fleuvmar;;;;;;;;;;;;x
 WOL_1785;Marcage;;;;;;;;;;;;x
 PROV12;Babbangabas;;;;;;;;;;;;x
+<<<<<<< Updated upstream
 PROV2589;Hanyamai-Sauri;;;;;;;;;;;;x
+=======
+PROV2589;Hanyamai-Sauri;;;;;;;;;;;;x
+PROV1463;New Cagayan De Oro;;;;;;;;;;;;x
+PROV1462;Fuerte Pilaria;;;;;;;;;;;;x
+PROV1459;Port-of-Captains;;;;;;;;;;;;x
+PROV3342;Rise-Artvin;;;;;;;;;;;;x
+PROV3343;Nalchik;;;;;;;;;;;;x
+PROV3344;Armavir;;;;;;;;;;;;x
+PROV3345;Maitum;;;;;;;;;;;;x
+PROV3346;Glan;;;;;;;;;;;;x
+PROV3347;Malaybalay;;;;;;;;;;;;x
+PROV3348;Bislig;;;;;;;;;;;;x
+PROV3349;Tagum;;;;;;;;;;;;x
+PROV3350;Kalawit;;;;;;;;;;;;x
+PROV1057;Kizlyar;;;;;;;;;;;;x
+PROV3351;Tskhinvali;;;;;;;;;;;;x
+PROV3352;Gori;;;;;;;;;;;;x
+PROV3353;Telavi;;;;;;;;;;;;x
+PROV3354;Martuni;;;;;;;;;;;;x
+PROV3355;Stepanavan;;;;;;;;;;;;x
+PROV3356;Sumayquit;;;;;;;;;;;;x
+PROV3357;Azari Shirvan;;;;;;;;;;;;x
+PROV3358;Quobustan;;;;;;;;;;;;x
+PROV3359;Masalli;;;;;;;;;;;;x
+PROV1051;Cerkessk-New Maykop;;;;;;;;;;;;x
+RUS_1056;Eastern Cherkess Plains;;;;;;;;;;;;x
+TUR_788;West Istoslavia;;;;;;;;;;;;x
+SER_794;East Istoslavia;;;;;;;;;;;;x
+TUR_803;Lesser Iskhoria;;;;;;;;;;;;x
+TUR_810;Greater Iskhoria;;;;;;;;;;;;x
+MON_2582;Southwest Istoslavia;;;;;;;;;;;;x
+TUR_674;Dobruca;;;;;;;;;;;;x
+TUR_860;Trakya;;;;;;;;;;;;x
+TUR_931;Ninwe Plains;;;;;;;;;;;;x
+GEO_3353;Ganja-Agdam;;;;;;;;;;;;x
+AZB_1389;Zanzegur;;;;;;;;;;;;x
+AZB_1386;Eastern Karabakh Valley;;;;;;;;;;;;x
+DAG_1104;Dagestani Hills;;;;;;;;;;;;x
+AZB_1107;Lankaran;;;;;;;;;;;;x
+RUS_1102;Baku;;;;;;;;;;;;x
+RUS_1090;Kartvli;;;;;;;;;;;;x
+RUS_1098;Hayakstan;;;;;;;;;;;;x
+GEO_1095;Egrisi;;;;;;;;;;;;x
+RUS_1052;Northern Kavkaz Foothills;;;;;;;;;;;;x
+MOL_673;Moldova;;;;;;;;;;;;x
+WAL_665;Tara Dacianeasca;;;;;;;;;;;;x
+AUS_623;Starodamarsk;;;;;;;;;;;;x
+AUS_641;Igaz Magyarorszag;;;;;;;;;;;;x
+PROV703;Krakov;;;;;;;;;;;;x
+PROV688;Opava;;;;;;;;;;;;x
+PROV2584;Bilsko Bela;;;;;;;;;;;;x
+PROV685;Katovice;;;;;;;;;;;;x
+PROV682;Vratislav;;;;;;;;;;;;x
+PROV628;Usti Nad Labem;;;;;;;;;;;;x
+PROV627;Karlovy Vary;;;;;;;;;;;;x
+PROV684;Opoli;;;;;;;;;;;;x
+PROV826;Korfuz;;;;;;;;;;;;x
+AUS_625;West Cislavy;;;;;;;;;;;;x
+GRE_826;Peloponnesos;;;;;;;;;;;;x
+KUR_890;Wan;;;;;;;;;;;;x
+PROV890;Wan;;;;;;;;;;;;x
+KUR_925;Urmiye;;;;;;;;;;;;x
+PROV1110;Urmiye;;;;;;;;;;;;x
+KUR_928;Kirmasan;;;;;;;;;;;;x
+PROV1117;Kirmasan;;;;;;;;;;;;x
+PROV3360;Nantou;;;;;;;;;;;;x
+PROV3361;Sanya;;;;;;;;;;;;x
+PROV1393;New Brunei;;;;;;;;;;;;x
+PROV1394;New Sarawak;;;;;;;;;;;;x
+PROV3362;Kelabit;;;;;;;;;;;;x
+PROV3363;Tongod;;;;;;;;;;;;x
+PROV3364;Kapoea;;;;;;;;;;;;x
+PROV3365;Kengtung;;;;;;;;;;;;x
+PROV3366;Bokeo-Luangnamtha;;;;;;;;;;;;x
+PROV3367;Dehong;;;;;;;;;;;;x
+PROV3368;Baoshan-Lincang;;;;;;;;;;;;x
+PROV3369;Honghe-Wenshan;;;;;;;;;;;;x
+PROV3370;Oudomxay-Phongsaly;;;;;;;;;;;;x
+PROV3371;Chiang Rai;;;;;;;;;;;;x
+PROV3372;Loikaw;;;;;;;;;;;;x
+PROV1598;Yu'tien;;;;;;;;;;;;x
+PROV2607;Ruoqiang;;;;;;;;;;;;x
+PROV1594;Kashi;;;;;;;;;;;;x
+PROV1597;Akesu;;;;;;;;;;;;x
+PROV1587;Chengguan;;;;;;;;;;;;x
+PROV1588;Changdu;;;;;;;;;;;;x
+PROV1589;Rikaze;;;;;;;;;;;;x
+PROV1590;Shannan;;;;;;;;;;;;x
+PROV1592;Ali;;;;;;;;;;;;x
+PROV1599;Hami;;;;;;;;;;;;x
+PROV1600;Dihua;;;;;;;;;;;;x
+PROV1346;Nakhon-Nayok;;;;;;;;;;;;x
+PROV3373;Phetchabun and Loei;;;;;;;;;;;;x
+PROV3374;Maha Sarakham,Kohn Kaen, Roi Et and Kalasin;;;;;;;;;;;;x
+PROV3375;Phitsanulok and Phitchit;;;;;;;;;;;;x
+PROV3376;Uttaradit;;;;;;;;;;;;x
+PROV1348;Kampaeng Phet;;;;;;;;;;;;x
+PROV1347;Nakhon Sawan;;;;;;;;;;;;x
+PROV1344;Prachuap Khiri Khan;;;;;;;;;;;;x
+PROV1343;New Molamyin;;;;;;;;;;;;x
+PROV3377;Se Kong and Attapu;;;;;;;;;;;;x
+PROV3378;Dich Vu;;;;;;;;;;;;x
+PROV3379;Phonsavan;;;;;;;;;;;;x
+PROV3380;Nguoi Dung Dau Bo Toc;;;;;;;;;;;;x
+PROV3381;Sagaing;;;;;;;;;;;;x
+SIA_2572;Lan Na;;;;;;;;;;;;x
+SIA_1350;Nam Lao;;;;;;;;;;;;x
+DAI_1361;Savannakhet;;;;;;;;;;;;x
+PROV1333;New Hpa-An;;;;;;;;;;;;x
+PROV3372;New Loikaw;;;;;;;;;;;;x
+PROV1332;New Bago;;;;;;;;;;;;x
+PROV1335;Naypyidaw;;;;;;;;;;;;x
+PROV1334;Mandalay;;;;;;;;;;;;x
+PROV1337;New Pyay;;;;;;;;;;;;x
+PROV1331;Daksina Bandara;;;;;;;;;;;;x
+PROV1339;Hakha;;;;;;;;;;;;x
+PROV1345;Bijayera Sthana;;;;;;;;;;;;x
+ROH_1345;Greater Rohang;;;;;;;;;;;;x
+PROV3382;Purba Darga;;;;;;;;;;;;x
+PROV1339;Abdulera Bisrama;;;;;;;;;;;;x
+PROV3383;Kohima;;;;;;;;;;;;x
+PROV1254;Shillong;;;;;;;;;;;;x
+PROV1257;Aizawl;;;;;;;;;;;;x
+PROV2566;New Chittagong;;;;;;;;;;;;x
+PROV1366;Xiem Riep;;;;;;;;;;;;x
+PROV1362;Hang Ngay;;;;;;;;;;;;x
+PROV1361;Den Kaysone Phomsong;;;;;;;;;;;;x
+PROV1357;Vieng Chan;;;;;;;;;;;;x
+PROV1356;Luong Pha Bang;;;;;;;;;;;;x
+PROV1368;Tuong Duong;;;;;;;;;;;;x
+PROV1367;Nam Moi;;;;;;;;;;;;x
+PROV1380;Kratie;;;;;;;;;;;;x
+PROV2096;Port Anneline;;;;;;;;;;;;x
+PROV2098;Winterstrand;;;;;;;;;;;;x
+PROV2099;Keiskammahoek;;;;;;;;;;;;x
+PROV2087;Kaapstad;;;;;;;;;;;;x
+PROV2090;Suiderstrand;;;;;;;;;;;x
+PROV2091;Heidelberg;;;;;;;;;;;x
+PROV2092;Kruidfontein;;;;;;;;;;;x
+PROV2089;Aan de Doorns;;;;;;;;;;;x
+PROV2088;Lutzville;;;;;;;;;;;x
+PROV2084;Kamieskroon;;;;;;;;;;;x
+PROV2083;Port Nolloth;;;;;;;;;;;x
+ENG_2096;Oos-Kaap;;;;;;;;;;;;x
+ENG_2087;Wes-Kaap;;;;;;;;;;;;x
+ZUL_2110;Mbabane;;;;;;;;;;;;x
+TRN_2108;Pretoria;;;;;;;;;;;;x
+PROV2106;Johannesburg;;;;;;;;;;;;;;;;;;;;x;
+PROV2105;Pretoria;;;;;;;;;;;;;;;;;;;;x;
+PROV2108;Vaalwater;;;;;;;;;;;;;;;;;;;;x;
+VNZ_2239;Mahdia;;;;;;;;;;;;;;;;;;;;x;
+PROV2468;Sydnica;;;;;;;;;;;;;;;;;;;;x;
+PROV1395;Desima;;;;;;;;;;;;;;;;;;;;x;
+PROV2478;Basamer;;;;;;;;;;;;;;;;;;;;x;
+PROV2652;Nowozer;;;;;;;;;;;;;;;;;;;;x;
+PROV2653;Brazie City;;;;;;;;;;;;;;;;;;;;x;
+PROV856;Bessiva;;;;;;;;;;;;;;;;;;;;x;
+PROV2688;Pincess;;;;;;;;;;;;;;;;;;;;x;
+PROV407;White Harbour;;;;;;;;;;;;;;;;;;;;x;
+PROV471;Undflaw;;;;;;;;;;;;;;;;;;;;x;
+PROV465;Jake's Plains;;;;;;;;;;;;;;;;;;;;x;
+PROV2527;Redlunds;;;;;;;;;;;;;;;;;;;;x;
+PROV2647;Coustre;;;;;;;;;;;;;;;;;;;;x;
+PROV399;Trovenstray City;;;;;;;;;;;;;;;;;;;;x;
+PROV847;Chess;;;;;;;;;;;;;;;;;;;;x;
+PROV470;The Bin Bay;;;;;;;;;;;;;;;;;;;;x;
+PROV742;Ranseyre;;;;;;;;;;;;;;;;;;;;x;
+PROV1011;Tesse;;;;;;;;;;;;;;;;;;;;x;
+PROV2541;Ervesta;;;;;;;;;;;;;;;;;;;;x;
+PROV3246;Saint Jerms;;;;;;;;;;;;;;;;;;;;x;
+PROV210;Newport;;;;;;;;;;;;;;;;;;;;x;
+PROV846;Eldport;;;;;;;;;;;;;;;;;;;;x;
+PROV2492;Fromden;;;;;;;;;;;;;;;;;;;;x;
+ENG_2468;Newale;;;;;;;;;;;;;;;;;;;;x;
+AST_2476;Melbore;;;;;;;;;;;;;;;;;;;;x;
+PROV2476;Melbore;;;;;;;;;;;;;;;;;;;;x;
+PROV2490;Charlevia;;;;;;;;;;;;;;;;;;;;x;
+PROV1654;Bones;;;;;;;;;;;;;;;;;;;;x;
+PROV2536;Saint Charles;;;;;;;;;;;;;;;;;;;;x;
+PROV1424;Unver;;;;;;;;;;;;;;;;;;;;x;
+PROV1325;Lectaton;;;;;;;;;;;;;;;;;;;;x;
+PROV2544;Acter;;;;;;;;;;;;;;;;;;;;x;
+PROV2128;Peresha;;;;;;;;;;;;;;;;;;;;x;
+PROV2486;Forest;;;;;;;;;;;;;;;;;;;;x;
+PROV2551;Everret;;;;;;;;;;;;;;;;;;;;x;
+PROV491;Gran Floral;;;;;;;;;;;;;;;;;;;;x;
+SPA_487;Gran Jardin;;;;;;;;;;;;;;;;;;;;x;
+SPA_512;Clavel;;;;;;;;;;;;;;;;;;;;x;
+SPA_477;Nueva Dalia;;;;;;;;;;;;;;;;;;;;x;
+PROV477;Dalia;;;;;;;;;;;;;;;;;;;;x;
+POR_518;Almendra Valle;;;;;;;;;;;;;;;;;;;;x;
+POR_525;Lavanda;;;;;;;;;;;;;;;;;;;;x;
+PROV508;Damasco;;;;;;;;;;;;;;;;;;;;x;
+PROV2590;Mánada;;;;;;;;;;;;;;;;;;;;x;
+PROV517;Seiro;;;;;;;;;;;;;;;;;;;;x;
+PROV1689;Girorez;;;;;;;;;;;;;;;;;;;;x;
+PROV509;Clavel;;;;;;;;;;;;;;;;;;;;x;
+PROV486;Lirlo;;;;;;;;;;;;;;;;;;;;x;
+PROV521;Alfazema;;;;;;;;;;;;;;;;;;;;x;
+>>>>>>> Stashed changes

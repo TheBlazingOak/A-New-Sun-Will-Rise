@@ -468,6 +468,15 @@ SPA = {
     color3= { 154 69 116  }
 }
 
+<<<<<<< Updated upstream
+=======
+JAR = {
+    color1= { 25 25 25  }
+    color2= { 101 0 11  }
+    color3= { 242 242 242  }
+}
+
+>>>>>>> Stashed changes
 # Italy
 ITA = {
     color1= { 255 255 255  }

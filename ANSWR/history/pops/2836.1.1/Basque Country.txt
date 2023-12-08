@@ -1,0 +1,133 @@
+#Bilbao (308000/77000 POPS)
+492 = {
+    aristocrats = {
+        culture = basque
+        religion = jardinite
+        size = 1600
+    }
+
+    clergymen = {
+        culture = basque
+        religion = jardinite
+        size = 1550
+    }
+
+    artisans = {
+        culture = basque
+        religion = jardinite
+        size = 10000
+    }
+
+    soldiers = {
+        culture = basque
+        religion = jardinite
+        size = 3350
+    }
+
+    farmers = {
+        culture = basque
+        religion = jardinite
+        size = 71800
+    }
+
+    aristocrats = {
+        culture = jardino
+        religion = jardinite
+        size = 250
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 200
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 200
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 11850
+    }
+}
+#Pamplona (244000/61000 POPS)
+493 = {
+    aristocrats = {
+        culture = basque
+        religion = jardinite
+        size = 700
+    }
+
+    officers = {
+        culture = basque
+        religion = jardinite
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = jardinite
+        size = 150
+    }
+
+    clergymen = {
+        culture = basque
+        religion = jardinite
+        size = 375
+    }
+
+    artisans = {
+        culture = basque
+        religion = jardinite
+        size = 1750
+    }
+
+    soldiers = {
+        culture = basque
+        religion = jardinite
+        size = 3400
+    }
+
+    labourers = {
+        culture = basque
+        religion = jardinite
+        size = 55025
+    }
+}
+#Pau (676000/169000 POPS)
+460 = {
+    aristocrats = {
+        culture = basque
+        religion = the_broken
+        size = 1200
+    }
+
+    clergymen = {
+        culture = basque
+        religion = the_broken
+        size = 850
+    }
+
+    artisans = {
+        culture = basque
+        religion = the_broken
+        size = 7000
+    }
+
+    soldiers = {
+        culture = basque
+        religion = the_broken
+        size = 4250
+    }
+
+    farmers = {
+        culture = basque
+        religion = the_broken
+        size = 44700
+    }
+
+}

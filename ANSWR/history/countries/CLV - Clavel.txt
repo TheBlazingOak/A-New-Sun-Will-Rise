@@ -1,15 +1,15 @@
 capital = 509
-primary_culture = spanish
-religion = catholic
+primary_culture = jardino
+religion = jardinite
 government = absolute_monarchy
 plurality = 5.0
-nationalvalue = nv_autocracy
+nationalvalue = nv_equality
 literacy = 0.15
 civilized = yes
 
 
 #GreaterPowers = prestige
-prestige = 10
+prestige = 5
 
 # Political reforms
 slavery = no_slavery
@@ -38,10 +38,10 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = catholic_country
+set_country_flag = jardinite_country
 
 ruling_party = SPA_conservative
-last_election = 1834.1.1
+last_election = 2834.1.1
 upper_house = {
     fascist = 0
     liberal = 35

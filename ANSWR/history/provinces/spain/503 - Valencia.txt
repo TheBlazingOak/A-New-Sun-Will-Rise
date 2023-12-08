@@ -1,6 +1,10 @@
 owner = DMN
 controller = DMN
+add_core = CLV
+add_core = LIR
 add_core = DMN
+add_core = DAL
+add_core = POR
 trade_goods = silk
 life_rating = 35
 #state_building = {

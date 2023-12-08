@@ -1,6 +1,10 @@
 owner = DAL
 controller = DAL
+add_core = CLV
+add_core = LIR
+add_core = DMN
 add_core = DAL
+add_core = POR
 trade_goods = coal
 life_rating = 35
 2861.1.1 = { railroad = 3 }

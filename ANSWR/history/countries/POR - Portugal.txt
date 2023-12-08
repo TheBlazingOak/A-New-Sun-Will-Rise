@@ -1,16 +1,16 @@
 capital = 521
-primary_culture = portuguese
-religion = catholic
+primary_culture = jardino
+religion = jardinite
 government = hms_government
-plurality = 12.5
+plurality = 5
 nationalvalue = nv_productivity
 literacy = 0.2
 non_state_culture_literacy = 0.02
 civilized = yes
-prestige = 10
+prestige = 5
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = state_equal_weight
 vote_franschise = wealth_voting
 public_meetings = yes_meeting
@@ -36,10 +36,10 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = catholic_country
+set_country_flag = jardinite_country
 
 ruling_party = POR_conservative
-last_election = 1834.1.1
+last_election = 2834.1.1
 upper_house = {
     fascist = 0
     liberal = 18

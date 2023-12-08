@@ -236,7 +236,6 @@ country_event = {
     id = 52006
     title = "EVTNAME52006" #Vive La France!
     desc = "EVTDESC52006"
-    major = yes
     is_triggered_only = yes
     fire_once_only = yes
 
@@ -261,5 +260,21 @@ country_event = {
 
     option = {
         name = "EVT52007OPTA" #Horrah for Skan
+    }
+}
+country_event = {
+
+    id = 52118
+    title = "EVTNAME52118" #Prosperity for El Jardin!
+    desc = "EVTDESC52118"
+    is_triggered_only = yes
+    fire_once_only = yes
+
+    option = {
+        name = "EVT52006OPTA" #Yay!
+        FROM = {
+        inherit = THIS
+        }
+        all_core = { remove_core = FROM }
     }
 }

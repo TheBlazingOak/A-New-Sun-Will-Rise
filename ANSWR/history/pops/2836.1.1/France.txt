@@ -2771,6 +2771,7 @@
         size = 40975
     }
 }
+<<<<<<< Updated upstream
 #Pau (676000/169000 POPS)
 460 = {
     aristocrats = {
@@ -2846,6 +2847,8 @@
     }
 
 }
+=======
+>>>>>>> Stashed changes
 #Languedoc Region (1668000)
 #Montpellier (724000/181000)
 461 = {

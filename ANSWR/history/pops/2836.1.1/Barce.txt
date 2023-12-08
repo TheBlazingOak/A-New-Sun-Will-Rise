@@ -1,0 +1,565 @@
+#Aragon Region (764000)
+#Zaragosa (312000/78000 POPS)
+495 = {
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 1600
+    }
+
+    officers = {
+        culture = catalan
+        religion = vitalic
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = catalan
+        religion = vitalic
+        size = 300
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 750
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 10000
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 5000
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 1100
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 57100
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 50
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 1950
+    }
+}
+#Huesca (224000/56000 POPS)
+496 = {
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 450
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 350
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 1850
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 400
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 35450
+    }
+
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 200
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 175
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 850
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 250
+    }
+
+    labourers = {
+        culture = catalan
+        religion = vitalic
+        size = 16025
+    }
+}
+#Melilla (500 POPS)
+1689 = {
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 600
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 250
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 1850
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 250
+    }
+
+    labourers = {
+        culture = catalan
+        religion = vitalic
+        size = 26025
+    }
+}
+#Catalonia Region (1340000)
+#Barcelona (464000/116000 POPS)
+498 = {
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 3700
+    }
+
+    officers = {
+        culture = catalan
+        religion = vitalic
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = catalan
+        religion = vitalic
+        size = 1550
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 825
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 10000
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 10000
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 10000
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 10000
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 9000
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 93225
+    }
+}
+#Gerona (228000/57000 POPS)
+499 = {
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 750
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 350
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 1750
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 350
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 33300
+    }
+
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 450
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 200
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 1100
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 250
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 18600
+    }
+}
+#Lerida (164000/41000 POPS)
+500 = {
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 550
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 250
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 2750
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 275
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 24150
+    }
+
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 200
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 125
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 1250
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 150
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 11275
+    }
+}
+#Tarragona (244000/61000 POPS)
+501 = {
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 850
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 400
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 2000
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 400
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 37850
+    }
+
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 450
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 200
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 1100
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 200
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 17650
+    }
+}
+#Balearics (240000/60000 POPS)
+502 = {
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 400
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 400
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 6000
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 400
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 33300
+    }
+
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 200
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 200
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 200
+    }
+
+    labourers = {
+        culture = catalan
+        religion = vitalic
+        size = 15900
+    }
+
+}
+#Foix (348000/87000 POPS)
+457 = {
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 800
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 450
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 1000
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 80750
+    }
+
+}
+#Perpignan (164000/41000 POPS)
+464 = {
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 100
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 75
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 1250
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 150
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 11425
+    }
+
+    aristocrats = {
+        culture = catalan
+        religion = vitalic
+        size = 200
+    }
+
+    clergymen = {
+        culture = catalan
+        religion = vitalic
+        size = 175
+    }
+
+    artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 2250
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 250
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 25075
+    }
+
+}

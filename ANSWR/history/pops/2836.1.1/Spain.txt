@@ -2,6 +2,7 @@
 #La Coruna (796000/199000 POPS)
 474 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 2200
@@ -22,56 +23,119 @@
     clergymen = {
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+        size = 1200
+    }
+
+    officers = {
+        culture = jardino
+        religion = jardinite
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = jardino
+        religion = jardinite
+        size = 450
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 2000
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 6350
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 3000
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 154350
+=======
+        culture = jardino
+        religion = jardinite
+        size = 74350
+>>>>>>> Stashed changes
     }
 }
 #Oviedo (448000/112000 POPS)
 475 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1050
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 5000
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 10850
     }
 
@@ -99,32 +163,57 @@
 #Vigo (328000/82000 POPS)
 476 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 700
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 800
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 4000
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 75500
     }
 
@@ -133,6 +222,7 @@
 #Leon (280000/70000 POPS)
 477 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 800
@@ -172,37 +262,103 @@
         culture = spanish
         religion = catholic
         size = 63600
+=======
+        culture = jardino
+        religion = jardinite
+        size = 2800
+    }
+
+    officers = {
+        culture = jardino
+        religion = jardinite
+        size = 600
+    }
+
+    bureaucrats = {
+        culture = jardino
+        religion = jardinite
+        size = 1200
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 1700
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 13500
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 6000
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 163600
+>>>>>>> Stashed changes
     }
 }
 #Santander (178000/44500) POPS
 478 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 500
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 400
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 3500
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 400
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 35700
     }
 
@@ -230,32 +386,57 @@
 #Burgos (236000/59000 POPS)
 479 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 650
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 575
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 5500
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 600
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 50675
     }
 
@@ -276,32 +457,57 @@
 #Valladolid (194000/48500 POPS)
 480 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 600
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 500
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 6000
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 500
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 40900
     }
 
@@ -310,108 +516,193 @@
 #Avila (284000/71000 POPS)
 481 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1500
     }
 
     officers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 250
     }
 
     bureaucrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 350
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 700
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 3500
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 2000
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 62700
     }
 }
 #Soria (216000/54000 POPS)
 482 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 550
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 2600
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 48750
     }
 }
 #Salamanca (224000/56000 POPS)
 483 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1200
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 550
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 4000
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 49250
     }
 
@@ -420,82 +711,143 @@
 #Badajoz (216000/54000 POPS)
 484 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1250
     }
 
     officers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 200
     }
 
     bureaucrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 250
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 550
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 4500
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 600
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 46650
     }
 }
 #Almendralejo (192000/48000 POPS)
 485 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1050
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 500
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 2250
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 500
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 43700
     }
 }
 #Caceres (172000/43000 POPS)
 486 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 900
@@ -523,6 +875,47 @@
         culture = spanish
         religion = catholic
         size = 38725
+=======
+        culture = jardino
+        religion = jardinite
+        size = 1500
+    }
+
+    officers = {
+        culture = jardino
+        religion = jardinite
+        size = 600
+    }
+
+    bureaucrats = {
+        culture = jardino
+        religion = jardinite
+        size = 1200
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 2425
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 10000
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 6050
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 118725
+>>>>>>> Stashed changes
     }
 
 }
@@ -530,6 +923,7 @@
 #Madrid (364000/91000 POPS)
 487 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 2000
@@ -550,10 +944,33 @@
     clergymen = {
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+        size = 500
+    }
+
+    officers = {
+        culture = jardino
+        religion = jardinite
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = jardino
+        religion = jardinite
+        size = 100
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 900
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 10000
@@ -604,50 +1021,92 @@
     soldiers = {
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+        size = 10000
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 3000
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 20100
+=======
+        culture = jardino
+        religion = jardinite
+        size = 30100
+>>>>>>> Stashed changes
     }
 }
 #Siguenza (204000/51000 POPS)
 488 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1200
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 500
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 2500
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 2000
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 45800
     }
 }
 #Toledo (302000/75500 POPS)
 489 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 1550
@@ -656,10 +1115,21 @@
     clergymen = {
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+        size = 550
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 750
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 6000
@@ -668,56 +1138,102 @@
     soldiers = {
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 3000
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+        size = 3000
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 2000
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 62200
     }
 }
 #Cuenca (346000/86500 POPS)
 490 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1800
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 875
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 4200
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 850
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 78775
     }
 }
-#Ciudad Real (288000/74000 POPS)
+#Gran Floral (288000/74000 POPS)
 491 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 1500
@@ -853,9 +1369,54 @@
         culture = basque
         religion = catholic
         size = 35025
+=======
+        culture = jardino
+        religion = jardinite
+        size = 3500
     }
 
+    officers = {
+        culture = jardino
+        religion = jardinite
+        size = 375
+    }
+
+    bureaucrats = {
+        culture = jardino
+        religion = jardinite
+        size = 1975
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 2700
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 40000
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 9000
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 261255
+>>>>>>> Stashed changes
+    }
+
+}
+#Gibraltar (16394/4100 POPS)
+517 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 500
@@ -895,37 +1456,117 @@
         culture = spanish
         religion = catholic
         size = 19975
+=======
+        culture = jardino
+        religion = jardinite
+        size = 1100
+    }
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 3000
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 9000
+    }
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 72000
+    } 
+}
+#Ceuta (old Ugolniye - Lutlin) (1000/250 POPS)
+2590 = {
+    aristocrats = {
+        culture = jardino
+        religion = jardinite
+        size = 500
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 700
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 6000
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 3000
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 51600
+>>>>>>> Stashed changes
     }
 }
+
+#Vizcaya-Navarra Region (710000)
 #Logrono (158000/39500 POPS)
 494 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 850
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 400
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 2000
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 400
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 35850
     }
 
@@ -1443,33 +2084,92 @@
 
 }
 #Valencia Region (1016000)
-#Valencia (420000/105000 POPS)
-503 = {
+#Teruel (228000/57000 POPS)
+497 = {
     aristocrats = {
-        culture = spanish
-        religion = catholic
-        size = 1100
-    }
-
-    officers = {
-        culture = spanish
-        religion = catholic
-        size = 175
-    }
-
-    bureaucrats = {
-        culture = spanish
-        religion = catholic
-        size = 275
+        culture = catalan
+        religion = vitalic
+        size = 1200
     }
 
     clergymen = {
-        culture = spanish
-        religion = catholic
+        culture = catalan
+        religion = vitalic
         size = 550
     }
 
     artisans = {
+        culture = catalan
+        religion = vitalic
+        size = 2750
+    }
+
+    soldiers = {
+        culture = catalan
+        religion = vitalic
+        size = 1100
+    }
+
+    farmers = {
+        culture = catalan
+        religion = vitalic
+        size = 31500
+    }
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 27600
+    }
+
+}
+#Valencia (420000/105000 POPS)
+503 = {
+    aristocrats = {
+<<<<<<< Updated upstream
+        culture = spanish
+        religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
+        size = 1100
+    }
+
+    officers = {
+<<<<<<< Updated upstream
+        culture = spanish
+        religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
+        size = 175
+    }
+
+    bureaucrats = {
+<<<<<<< Updated upstream
+        culture = spanish
+        religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
+        size = 275
+    }
+
+    clergymen = {
+<<<<<<< Updated upstream
+        culture = spanish
+        religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
+        size = 550
+    }
+
+    artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 10000
@@ -1484,13 +2184,29 @@
     soldiers = {
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+        size = 10000
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 2000
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 37900
+=======
+        culture = jardino
+        religion = jardinite
+        size = 27900
+>>>>>>> Stashed changes
     }
 
     aristocrats = {
@@ -1523,12 +2239,15 @@
         size = 10000
     }
 
+<<<<<<< Updated upstream
     artisans = {
         culture = catalan
         religion = catholic
         size = 1100
     }
 
+=======
+>>>>>>> Stashed changes
     soldiers = {
         culture = catalan
         religion = catholic
@@ -1537,39 +2256,69 @@
 
     farmers = {
         culture = catalan
+<<<<<<< Updated upstream
         religion = catholic
         size = 39675
+=======
+        religion = jardinite
+        size = 29675
+>>>>>>> Stashed changes
     }
 }
 #Castellon (212000/53000 POPS)
 504 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 550
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 250
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1300
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 250
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 21650
     }
 
@@ -1606,33 +2355,59 @@
 #Alicante (384000/96000 POPS)
 505 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 525
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 2500
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 550
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 49825
+=======
+        culture = jardino
+        religion = jardinite
+        size = 27825
+>>>>>>> Stashed changes
     }
 
     aristocrats = {
@@ -1661,8 +2436,13 @@
 
     labourers = {
         culture = catalan
+<<<<<<< Updated upstream
         religion = catholic
         size = 38300
+=======
+        religion = jardinite
+        size = 24300
+>>>>>>> Stashed changes
     }
 
 }
@@ -1670,82 +2450,143 @@
 #Cartagena (212000/53000 POPS)
 506 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     officers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 150
     }
 
     bureaucrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 900
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 525
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 7000
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 550
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 42375
     }
 }
 #Murcia (92000/23000 POPS)
 507 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 500
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 225
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 250
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 21025
     }
 }
 #Albacete (20000/50000 POPS)
 508 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 1100
@@ -1773,6 +2614,35 @@
         culture = spanish
         religion = catholic
         size = 45600
+=======
+        culture = jardino
+        religion = jardinite
+        size = 2100
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 1500
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 12500
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 6500
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 145600
+>>>>>>> Stashed changes
     }
 
 }
@@ -1780,12 +2650,18 @@
 #Seville (376000/94000 POPS)
 509 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1800
     }
 
     officers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 550
@@ -1831,23 +2707,69 @@
         culture = spanish
         religion = catholic
         size = 62200
+=======
+        culture = jardino
+        religion = jardinite
+        size = 750
+    }
+
+    bureaucrats = {
+        culture = jardino
+        religion = jardinite
+        size = 1450
+    }
+
+    clergymen = {
+        culture = jardino
+        religion = jardinite
+        size = 1700
+    }
+
+    artisans = {
+        culture = jardino
+        religion = jardinite
+        size = 25000
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+        size = 6000
+    }
+
+    farmers = {
+        culture = jardino
+        religion = jardinite
+        size = 162200
+>>>>>>> Stashed changes
     }
 }
 #Cordoba (324000/81000 POPS)
 510 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1700
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 800
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 9000
@@ -1856,82 +2778,153 @@
     soldiers = {
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+        size = 5000
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 68500
+=======
+        culture = jardino
+        religion = jardinite
+        size = 48500
+>>>>>>> Stashed changes
     }
 }
 #Huelva (140000/35000 POPS)
 511 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 750
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 375
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 2000
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 500
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 31375
     }
 }
 #Cadiz (336000/84000 POPS)
 512 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 850
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 10000
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 6500
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 64650
     }
 
@@ -1940,30 +2933,51 @@
 #Granada (382000/95500 POPS)
 513 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 2750
     }
 
     officers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 450
     }
 
     bureaucrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 500
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 950
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 10000
@@ -1978,30 +2992,57 @@
     soldiers = {
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+        size = 10000
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 3000
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 72850
+=======
+        culture = jardino
+        religion = jardinite
+        size = 52850
+>>>>>>> Stashed changes
     }
 }
 #Malaga (402000/100500 POPS)
 514 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 2700
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 900
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 10000
@@ -2016,76 +3057,142 @@
     soldiers = {
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+        size = 15000
+    }
+
+    soldiers = {
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
         size = 78400
+=======
+        culture = jardino
+        religion = jardinite
+        size = 68400
+>>>>>>> Stashed changes
     }
 }
 #Almeria (242000/60500 POPS)
 515 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1650
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 550
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 5000
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 52600
     }
 }
 #Jaen (270000/67500 POPS)
 516 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1700
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 600
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 6000
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 1100
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 58200
     }
 
@@ -2095,44 +3202,79 @@
 #Canary Islands (208000/52000 POPS)
 2136 = {
     aristocrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 825
     }
 
     officers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 50
     }
 
     bureaucrats = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 75
     }
 
     clergymen = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 525
     }
 
     artisans = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 3000
     }
 
     soldiers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 500
     }
 
     farmers = {
+<<<<<<< Updated upstream
         culture = spanish
         religion = catholic
+=======
+        culture = jardino
+        religion = jardinite
+>>>>>>> Stashed changes
         size = 47025
     }
 

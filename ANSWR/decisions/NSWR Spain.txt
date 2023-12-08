@@ -1,0 +1,62 @@
+political_decisions = {
+###Jadrin Empire###
+	#Throne of Flowers
+	jardin_formation = {
+	picture = jardin_flag
+		potential = {
+				primary_culture = jardino
+				NOT = { exists = JAR }
+			}
+		allow = {
+			all_core = {
+                OR = {
+                    owned_by = THIS
+                    owner = {
+                        in_sphere = THIS
+                        OR = {
+                            is_vassal = no
+                            vassal_of = THIS
+                        }
+                        war = no
+                        is_mobilised = no
+                	}
+                }
+            }
+		}
+		effect = {
+			all_core = { remove_core = DMN remove_core = POR remove_core = LIR remove_core = CLV remove_core = DAL add_core = JAR }
+			change_tag = JAR
+			any_country = {
+                limit = {
+                    NOT = { is_greater_power = yes }
+                    NOT = { has_country_flag = post_colonial_country }
+                    NOT = { TAG = JAR}
+                    primary_culture = jardino
+                }
+                country_event = 52118
+			}
+		}
+	}
+	#Move Capital to Gran Floral
+	gran_floral_capital = {
+    picture = parii_map
+        potential = {
+                primary_culture = jardino
+                owns = 491
+            NOT = {
+                491 = { is_capital = yes }
+                }
+            }
+
+            allow = {
+                owns = 491
+            }
+
+            effect = {
+                capital = 491
+                prestige = 10
+            }
+
+        ai_will_do = { factor = 1 }
+    }
+}

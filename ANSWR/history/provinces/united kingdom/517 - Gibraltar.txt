@@ -1,9 +1,10 @@
-owner = CLV
-controller = CLV
+owner = DMN
+controller = DMN
 add_core = CLV
-terrain = urban
-trade_goods = fish
+add_core = LIR
+add_core = DMN
+add_core = DAL
+add_core = POR
+trade_goods = coal
 life_rating = 35
-colonial = 2
-naval_base = 2
 fort = 1

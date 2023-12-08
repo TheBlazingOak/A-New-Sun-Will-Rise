@@ -2920,10 +2920,10 @@ TIG_fascist;Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;
 UTI_ADJ;Territories Exchange;;;;;;;;;;;;;,,
 NET;Kouderhagen;;;;;;;;;;;;;,,
 NET_ADJ;Koudrel;;;;;;;;;;;;;,,
-NET_presidential_dictatorship;Beneluxia;;;;;;;;;;;;;,,
-NET_bourgeois_dictatorship;Beneluxia;;;;;;;;;;;;;,,
-NET_fascist_dictatorship;Netherlands;;;;;;;;;;;;;,,
-NET_conservative;Anti-Revolutionaire Partij;;;;;;;;;;;;;,,
+NET_presidential_dictatorship;Koudrel Republic;;;;;;;;;;;;;,,
+NET_bourgeois_dictatorship;Koudrel State;;;;;;;;;;;;;,,
+NET_fascist_dictatorship;Kouderlund;;;;;;;;;;;;;,,
+NET_conservative;Kampioenencoalitie;;;;;;;;;;;;;,,
 SWH_presidential_dictatorship;Flansia;;;;;;;;;;;;;,,
 SWH_bourgeois_dictatorship;Flansia;;;;;;;;;;;;;,,
 SWH_fascist_dictatorship;Flansia;;;;;;;;;;;;;,,
@@ -3061,16 +3061,16 @@ QKD_absolute_monarchy;Quycan Kingdom;;;;;;;;;;;;;,,
 NYO;New York;;;;;;;;;;;;;,,
 NYO_ADJ;New Yorker;;;;;;;;;;;;;,,
 CSK;Cusco;;;;;;;;;;;;;,,
-CSK_ADJ;Cuscan;;;;;;;;;;;;;,,
-CSK_hms_government;Cusco Kingdom;;;;;;;;;;;;;,,
-CSK_absolute_monarchy;Cusco Kingdom;;;;;;;;;;;;;,,
+CSK_ADJ;Cusco;;;;;;;;;;;;;,,
+CSK_hms_government;Kingdom of Cusco;;;;;;;;;;;;;,,
+CSK_absolute_monarchy;Kingdom of Cusco;;;;;;;;;;;;;,,
 RLP;Plistia;;;;;;;;;;;;;,,
 RLP_ADJ;Plistian;;;;;;;;;;;;;,, 
-BWK;Buliwya;;;;;;;;;;;;;,,
-BWK_ADJ;Buliwyan;;;;;;;;;;;;;,,
-BWK_hms_government;Buliwya Kingdom;;;;;;;;;;;;;,,
-BWK_absolute_monarchy;Buliwya Kingdom;;;;;;;;;;;;;,,
-SJR;Borgia;;;;;;;;;;;;;,,
+BWK;Qullasuyu-Buliwya;;;;;;;;;;;;;,,
+BWK_ADJ;Hurin-Suyukuna;;;;;;;;;;;;;,,
+BWK_hms_government;Qullasuyu Kingdom;;;;;;;;;;;;;,,
+BWK_absolute_monarchy;Choquehuanca Dynasty;;;;;;;;;;;;;,,
+BWK_proletarian_dictatorship;Mariateguist Qullasuyu;;;;;;;;;;;;;SJR;Borgia;;;;;;;;;;;;;,,
 SJR_ADJ;Pacaembun;;;;;;;;;;;;;,,
 SJR_democracy;Borgia;;;;;;;;;;;;;,,
 SJR_hms_government;Kingdom of Pacaembu;;;;;;;;;;;;;,,
@@ -3221,6 +3221,7 @@ KWT;Al Anbar;;;;;;;;;;;;;,,
 KWT_ADJ;Anbarra;;;;;;;;;;;;;,,
 SYR;Fadl;;;;;;;;;;;;;,,
 SYR_ADJ;Fadl;;;;;;;;;;;;;,,
+ISR_absolute_monarchy;Judea Kingdom;;;;;;;;;;;;;
 ISR;Judea;;;;;;;;;;;;;,,
 ISR_ADJ;Judea;;;;;;;;;;;;;,,
 HDJ;Makkah;;;;;;;;;;;;;,,
@@ -3686,4 +3687,46 @@ AZB;Benzinli Torpaq;;;;;;;;;;;;;
 AZB_ADJ;Benzin Qoxusu;;;;;;;;;;;;;
 ARM;Sacred Ararat;;;;;;;;;;;;;
 OSE;Alania;;;;;;;;;;;;;
+<<<<<<< Updated upstream
 WGO;New Colchis;;;;;;;;;;;;;
+=======
+WGO;New Colchis;;;;;;;;;;;;;
+HND;Uyar Tolilnutpam;;;;;;;;;;;;;
+TIB;South Tibet;;;;;;;;;;;;;
+ROH;Rohingyadesh;;;;;;;;;;;;;
+ROH_ADJ;Bemce Thakan;;;;;;;;;;;;;
+ROH_absolute_monarchy;Jununi Dynasty;;;;;;;;;;;;;,,
+ROH_prussian_constitutionalism;Rohingya Kingdom;;;;;;;;;;;;;,,
+ROH_hms_government;Rohingya Kingdom;;;;;;;;;;;;;,,
+ROH_proletarian_dictatorship;Rohingya People's Republic;;;;;;;;;;;;;,,
+ROH_fascist_dictatorship;Sain'Yadala;;;;;;;;;;;;;,,
+NGL;North East Christian Council;;;;;;;;;;;;;,,
+NGL_ADJ;NEFA Council Member;;;;;;;;;;;;;,,
+ECU;Fujimori Zaibatsu;;;;;;;;;;;;;,,
+ECU_ADJ;Corporativo;;;;;;;;;;;;;,,
+PEU;Peru;;;;;;;;;;;;;,,
+PEU_ADJ;Peru;;;;;;;;;;;;;,,
+PEU;Arequipa;;;;;;;;;;;;;,,
+PEU_ADJ;Arequipa;;;;;;;;;;;;;,,
+WNN;Winnipeg;;;;;;;;;;;;;,,
+WNN_ADJ;Winnipegan;;;;;;;;;;;;;,,
+CRU;Circassian Union;x;;;;
+CRU_ADJ;Circassian;x;;;;
+CRU_reactionary;Circassia First;x;;;;
+CRU_liberal;Free Circassia;x;;;;
+CRU_conservative;Circassia Forever;x;;;;
+CRU_anarcho_liberal:Anarcho Circassians;x;;;;
+NGE;New Gupta Empire;x;;;;
+NGE_ADJ;Guptan;x;;;;
+NGE_reactionary;Gupta First;x;;;;
+NGE_liberal;Free Gupta;x;;;;
+NGE_conservative;Gupta Forever;x;;;;
+NGE_anarcho_liberal:Anarcho Guptans;x;;;;,,
+JAR;El Jardin;;;;;;;;;;;;;,,
+JAR_ADJ;Jardino;;;;;;;;;;;;;,,
+JAR_absolute_monarchy;Jardin Empire;;;;;;;;;;;;;,,
+JAR_prussian_constitutionalism;Jardin Empire;;;;;;;;;;;;;,,
+JAR_hms_government;Jardin Empire;;;;;;;;;;;;;,,
+JAR_proletarian_dictatorship;JPR;;;;;;;;;;;;;,,
+JAR_fascist_dictatorship;Jardin Empire;;;;;;;;;;;;;,,
+>>>>>>> Stashed changes

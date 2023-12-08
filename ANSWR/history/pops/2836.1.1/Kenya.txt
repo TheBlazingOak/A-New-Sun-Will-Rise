@@ -92,6 +92,7 @@
         size = 3650
     }
 }
+<<<<<<< Updated upstream
 #Lodwar (36000/9000 POPS)
 2026 = {
     aristocrats = {
@@ -160,6 +161,8 @@
         size = 1100
     }
 }
+=======
+>>>>>>> Stashed changes
 #Nakuru (128000/32000 POPS)
 2027 = {
     aristocrats = {
@@ -327,6 +330,7 @@
         size = 7000
     }
 }
+<<<<<<< Updated upstream
 #Tana Region (324000)
 #uncolonized in 1836
 #Wajir (100000/25000 POPS)
@@ -397,6 +401,8 @@
         size = 1100
     }
 }
+=======
+>>>>>>> Stashed changes
 #Garissa (172000/43000 POPS)
 2032 = {
     aristocrats = {

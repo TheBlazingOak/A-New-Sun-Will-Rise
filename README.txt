@@ -24,6 +24,7 @@ Certain flags were taken from the internet, and we'd like to thank the creators 
 
 Lead Developer:
 Oak
+Maxioten
 Assistant Developers:
 GLitchesHaxBadAudio
 Connor Gorski
