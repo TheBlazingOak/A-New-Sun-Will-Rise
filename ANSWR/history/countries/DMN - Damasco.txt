@@ -40,6 +40,8 @@ border_policy = closed_borders
 
 set_country_flag = jardinite_country
 
+set_country_flag = damasco_family
+
 ruling_party = SPA_conservative
 last_election = 2836.1.1
 upper_house = {
@@ -89,4 +91,4 @@ basic_chemistry = 1
 consciousness = 2
 nonstate_consciousness = 1
 
-oob = "SPA_oob.txt"
+oob = "DMN_oob.txt"

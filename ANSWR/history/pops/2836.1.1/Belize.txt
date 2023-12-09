@@ -15,46 +15,22 @@
         size = 2
     }
 
-    artisans = {
-        culture = english
-        religion = protestant
-        size = 25
-    }
-
     clergymen = {
         culture = central_american
         religion = catholic
         size = 15
     }
 
-    artisans = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = central_american
-        religion = catholic
-        size = 10
-    }
-
-    farmers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 400
-    }
-
     farmers = {
         culture = central_american
         religion = catholic
-        size = 1058
+        size = 6058
     }
 
     farmers = {
         culture = mayan
-        religion = catholic
-        size = 250
+        religion = animist
+        size = 29250
     }
 
 }

@@ -5,6 +5,7 @@ add_core = LIR
 add_core = DMN
 add_core = DAL
 add_core = POR
+add_core = CAT
 trade_goods = fruit
 life_rating = 35
 2861.1.1 = { railroad = 3 }

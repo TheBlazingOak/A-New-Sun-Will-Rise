@@ -1,0 +1,25 @@
+name = "Mexica Civil War"
+
+2835.10.2 = {
+
+	add_attacker = MEX
+	add_defender = ELO
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = conquest
+		actor = MEX
+		receiver = ELO
+	}
+        war_goal = {
+		casus_belli = conquest
+		actor = ELO
+		receiver = MEX
+	}
+
+}
+

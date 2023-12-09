@@ -136,9 +136,11 @@ personality = {
     }
     careful = {
         speed = -0.05
+        reliability = 0.05
     }
     meticulous = {
         speed = -0.10
+        reliability = 0.10
     }
     openminded = {
         organisation = 0.10

@@ -262,6 +262,7 @@ country_event = {
         name = "EVT52007OPTA" #Horrah for Skan
     }
 }
+###El Jardin Unification
 country_event = {
 
     id = 52118
@@ -275,6 +276,21 @@ country_event = {
         FROM = {
         inherit = THIS
         }
-        all_core = { remove_core = FROM }
+        all_core = { remove_core = THIS add_core = JAR }
+    }
+}
+country_event = {
+
+    id = 52119
+    title = "EVTNAME52119" #Prosperity for El Jardin!
+    desc = "EVTDESC52119"
+    major = yes
+    is_triggered_only = yes
+    fire_once_only = yes
+
+    option = {
+        name = "EVT52119OPTA" #To a new era
+        change_tag = JAR
+        prestige = 10
     }
 }

@@ -1,0 +1,32 @@
+###Jardin Flavor
+##Coronation of the new emperor (Different variation for each country that forms the Jardin)##
+#Damasco Coronation
+country_event = {
+    id = 55420
+    title = "EVTNAME55420"
+    desc = "EVTDESC55420"
+    fire_once_only = yes
+    picture = BRZ_pedro_coronation
+    trigger = {
+        has_country_flag = damasco_family
+        TAG = JAR
+        NOT = { has_global_flag = jardin_emperor_crowned }
+    }
+
+    mean_time_to_happen = { months = 1 }
+
+    option = {
+        name = "EVT55420OPTA"
+        prestige = 10
+    }
+}
+#Clavel Coronation
+#Alfazema Coronation
+#Dalia Coronation
+#Lirlo Coronation
+##################
+###Event Chains###
+##################
+
+##Flavor##
+#Castle spotted in Zaragoza Lago

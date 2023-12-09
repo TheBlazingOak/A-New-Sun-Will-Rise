@@ -31,36 +31,6 @@
         religion = catholic
         size = 40895
     }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 25
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 1325
-    }
-
-    slaves = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 500
-    }
 }
 
 #Panama City (52000/13000 POPS)
@@ -106,36 +76,6 @@
         religion = catholic
         size = 18050
     }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 200
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 2675
-    }
-
-    slaves = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 1100
-    }
 }
 #David (28000/7000 POPS)
 2205 = {
@@ -168,36 +108,6 @@
         religion = catholic
         size = 15375
     }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 20
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 50
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 10
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 670
-    }
-
-    slaves = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 250
-    }
 }
 #Penonome (24000/6000 POPS)
 2206 = {
@@ -229,36 +139,6 @@
         culture = central_american
         religion = catholic
         size = 14500
-    }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 20
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 50
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 10
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 670
-    }
-
-    slaves = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 250
     }
 }
 #Yaviza (12000/3000 POPS)
@@ -322,35 +202,4 @@
         religion = catholic
         size = 895
     }
-
-    aristocrats = {
-        culture = nahua #native_american_minor
-        religion = animist
-        size = 15
-    }
-
-    clergymen = {
-        culture = nahua #native_american_minor
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = nahua #native_american_minor
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = nahua #native_american_minor
-        religion = animist
-        size = 10
-    }
-
-    farmers = {
-        culture = nahua #native_american_minor
-        religion = animist
-        size = 900
-    }
-
 }

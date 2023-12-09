@@ -1,0 +1,58 @@
+DMN = {
+    value = -200
+}
+LIR = {
+    value = -200
+}
+POR = {
+    value = -200
+}
+CLV = {
+    value = -200
+}
+BSQ = {
+    value = -200
+}
+CAT = {
+    value = -200
+}
+leader = {
+    name = "Prince Daniel VI Dalia the Bloody"
+    picture = southamerican_general_8
+    date = 2836.1.1
+    type = land
+    personality = merciless
+    background = eccentric_genius
+    prestige = 0.05
+}
+army = {
+    name = "Ejercito Real de Lirlo"
+    location = 477
+
+    regiment = {
+        name= "I. División"
+        type = infantry
+        home = 477
+    }
+    regiment = {
+        name= "II. División"
+        type = infantry
+        home = 477
+    }
+    regiment = {
+        name= "III. División"
+        type = infantry
+        home = 477
+    }
+    regiment = {
+        name= "I. Especial División"
+        type = artillery
+        home = 475
+    }
+    regiment = {
+        name= "II. Especial División"
+        type = artillery
+        home = 476
+    }
+
+}

@@ -40,6 +40,8 @@ border_policy = open_borders
 
 set_country_flag = jardinite_country
 
+set_country_flag = lirlo_family
+
 ruling_party = SPA_reactionary
 last_election = 2834.1.1
 upper_house = {
@@ -89,4 +91,4 @@ basic_chemistry = 1
 consciousness = 1
 nonstate_consciousness = 1
 
-oob = "SPA_oob.txt"
+oob = "LIR_oob.txt"

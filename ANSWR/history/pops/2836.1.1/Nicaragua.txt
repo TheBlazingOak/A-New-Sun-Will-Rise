@@ -173,28 +173,4 @@
         size = 120
     }
 
-    soldiers = {
-        culture = afro_caribbean
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = afro_caribbean
-        religion = catholic
-        size = 270
-    }
-
-    farmers = {
-        culture = afro_caribbean
-        religion = animist
-        size = 190
-    }
-
-    farmers = {
-        culture = native_american_minor #native_american_minor
-        religion = animist
-        size = 2200
-    }
-
 }

@@ -1708,37 +1708,7 @@
     serfs = {
         culture = boer
         religion = ancestor
-        size = 200
-    }
-
-    aristocrats = {
-        culture = shona
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = shona
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = shona
-        religion = animist
-        size = 150
-    }
-
-    soldiers = {
-        culture = shona
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = shona
-        religion = animist
-        size = 4700
+        size = 4200
     }
 
     aristocrats = {
@@ -1774,7 +1744,7 @@
     farmers = {
         culture = zulu
         religion = animist
-        size = 1750
+        size = 8750
     }
 }
 #Natal Region (682000)

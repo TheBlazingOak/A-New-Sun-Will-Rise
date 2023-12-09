@@ -38,6 +38,8 @@ border_policy = open_borders
 
 set_country_flag = jardinite_country
 
+set_country_flag = alfazema_family
+
 ruling_party = POR_conservative
 last_election = 2834.1.1
 upper_house = {
@@ -89,9 +91,6 @@ consciousness = 3
 nonstate_consciousness = 1
 
 oob = "POR_oob.txt"
-2861.1.1 = {
-    oob = "/1861/POR_oob.txt"
-    set_country_flag = flores_sale
 
 # Political reforms
 slavery = yes_slavery

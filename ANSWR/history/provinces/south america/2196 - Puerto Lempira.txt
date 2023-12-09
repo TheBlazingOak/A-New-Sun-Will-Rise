@@ -1,5 +1,5 @@
 owner = GUA
 controller = GUA
-add_core = HON
+add_core = GUA
 trade_goods = timber
-life_rating = 33
+life_rating = 35

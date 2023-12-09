@@ -157,31 +157,31 @@
 #Bihac (100000/25000 POPS)
 784 = {
     aristocrats = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 400
     }
 
     soldiers = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 750
     }
 
     farmers = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 16675
     }
@@ -237,31 +237,31 @@
 #Banja Luka (116000/29000 POPS)
 785 = {
     aristocrats = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 800
     }
 
     farmers = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 4500
     }
@@ -533,31 +533,31 @@
 #Livno (136000/34000 POPS)
 789 = {
     aristocrats = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 350
     }
 
     soldiers = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 250
     }
 
     farmers = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 1200
     }

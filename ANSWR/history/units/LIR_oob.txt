@@ -1,0 +1,72 @@
+DMN = {
+    value = -200
+}
+DAL = {
+    value = -200
+}
+POR = {
+    value = -200
+}
+CLV = {
+    value = -200
+}
+BSQ = {
+    value = -200
+}
+CAT = {
+    value = -200
+}
+leader = {
+    name = "Prince Emilo III Lirlo"
+    picture = european_general_12
+    date = 2836.1.1
+    type = land
+    personality = audacious
+    background = cartographer
+    prestige = 0.3
+}
+army = {
+    name = "Ejercito Real de Lirlo"
+    location = 486
+
+    regiment = {
+        name= "I. División"
+        type = infantry
+        home = 486
+    }
+    regiment = {
+        name= "II. División"
+        type = infantry
+        home = 486
+    }
+    regiment = {
+        name= "III. División"
+        type = infantry
+        home = 486
+    }
+    regiment = {
+        name= "IV. División"
+        type = infantry
+        home = 482
+    }
+    regiment = {
+        name= "V. División"
+        type = infantry
+        home = 483
+    }
+    regiment = {
+        name= "VI. División"
+        type = infantry
+        home = 487
+    }
+    regiment = {
+        name= "VII. División"
+        type = infantry
+        home = 487
+    }
+    regiment = {
+        name= "I. Especial División"
+        type = artillery
+        home = 488
+    }
+}

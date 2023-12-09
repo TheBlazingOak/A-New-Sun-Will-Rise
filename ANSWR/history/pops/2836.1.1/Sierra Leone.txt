@@ -4,42 +4,6 @@
 1884 = {
 
     aristocrats = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 300
-    }
-
-    officers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 250
-    }
-
-    soldiers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = afro_caribbean
-        religion = protestant
-        size = 4700
-    }
-
-    aristocrats = {
         culture = mande
         religion = sunni
         size = 675

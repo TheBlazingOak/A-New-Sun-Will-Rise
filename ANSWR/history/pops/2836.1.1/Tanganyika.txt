@@ -1,0 +1,225 @@
+###Tanganyika Penisula
+#Iringa (300000/75000 POPS)
+2042 = {
+    aristocrats = {
+        culture = tanganyikan
+        religion = animist
+        size = 375
+    }
+
+    clergymen = {
+        culture = tanganyikan
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = tanganyikan
+        religion = animist
+        size = 800
+    }
+
+    soldiers = {
+        culture = tanganyikan
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = tanganyikan
+        religion = animist
+        size = 13225
+    }
+
+    slaves = {
+        culture = tanganyikan
+        religion = animist
+        size = 13000
+    }
+}
+#Ujiji (336000/84000 POPS)
+2046 = {
+    aristocrats = {
+        culture = tanganyikan
+        religion = animist
+        size = 1075
+    }
+
+    clergymen = {
+        culture = tanganyikan
+        religion = animist
+        size = 550
+    }
+
+    artisans = {
+        culture = tanganyikan
+        religion = animist
+        size = 2200
+    }
+
+    soldiers = {
+        culture = tanganyikan
+        religion = animist
+        size = 550
+    }
+
+    farmers = {
+        culture = tanganyikan
+        religion = animist
+        size = 21425
+    }
+}
+#Tabora (260000/65000 POPS)
+2043 = {
+    aristocrats = {
+        culture = tanganyikan
+        religion = animist
+        size = 1075
+    }
+
+    clergymen = {
+        culture = tanganyikan
+        religion = animist
+        size = 550
+    }
+
+    artisans = {
+        culture = tanganyikan
+        religion = animist
+        size = 2200
+    }
+
+    soldiers = {
+        culture = tanganyikan
+        religion = animist
+        size = 550
+    }
+
+    farmers = {
+        culture = tanganyikan
+        religion = animist
+        size = 15625
+    }
+}
+#Mwanza (368000/92000 POPS)
+2044 = {
+    aristocrats = {
+        culture = tanganyikan
+        religion = animist
+        size = 475
+    }
+
+    clergymen = {
+        culture = tanganyikan
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = tanganyikan
+        religion = animist
+        size = 1100
+    }
+
+    soldiers = {
+        culture = tanganyikan
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = tanganyikan
+        religion = animist
+        size = 49025
+    }
+}
+#Kigali (496000/124000 POPS)
+2034 = {
+    aristocrats = {
+        culture = tanganyikan
+        religion = animist
+        size = 2450
+    }
+
+    bureaucrats = {
+        culture = tanganyikan
+        religion = animist
+        size = 225
+    }
+
+    officers = {
+        culture = tanganyikan
+        religion = animist
+        size = 125
+    }
+
+    clergymen = {
+        culture = tanganyikan
+        religion = animist
+        size = 1750
+    }
+
+    artisans = {
+        culture = tanganyikan
+        religion = animist
+        size = 6200
+    }
+
+    soldiers = {
+        culture = tanganyikan
+        religion = animist
+        size = 6250
+    }
+
+    farmers = {
+        culture = tanganyikan
+        religion = animist
+        size = 153200
+    }
+}
+#uncolonized in 1836/ruled by kingdom of Burundi
+#Usumbura (448000/112000 POPS)
+2035 = {
+    aristocrats = {
+        culture = tanganyikan
+        religion = animist
+        size = 2175
+    }
+
+    bureaucrats = {
+        culture = tanganyikan
+        religion = animist
+        size = 15
+    }
+
+    officers = {
+        culture = tanganyikan
+        religion = animist
+        size = 110
+    }
+
+    clergymen = {
+        culture = tanganyikan
+        religion = animist
+        size = 1125
+    }
+
+    artisans = {
+        culture = tanganyikan
+        religion = animist
+        size = 5600
+    }
+
+    soldiers = {
+        culture = tanganyikan
+        religion = animist
+        size = 6125
+    }
+
+    farmers = {
+        culture = tanganyikan
+        religion = animist
+        size = 141850
+    }
+
+}

@@ -1,11 +1,9 @@
 capital = 2058
-primary_culture = nguni
-culture = tonga
-culture = sena
-culture = southern_bantu
+primary_culture = shona
+culture = longwe
 religion = animist
 government = absolute_monarchy
-plurality = 0.0
+plurality = 1.0
 nationalvalue = nv_tradition
 literacy = 0.01
 non_state_culture_literacy = 0.01

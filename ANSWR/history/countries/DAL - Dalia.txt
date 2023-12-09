@@ -40,6 +40,8 @@ border_policy = open_borders
 
 set_country_flag = jardinite_country
 
+set_country_flag = dalia_family
+
 ruling_party = SPA_liberal
 last_election = 2834.1.1
 upper_house = {
@@ -89,4 +91,4 @@ basic_chemistry = 1
 consciousness = 3
 nonstate_consciousness = 1
 
-oob = "SPA_oob.txt"
+oob = "DAL_oob.txt"

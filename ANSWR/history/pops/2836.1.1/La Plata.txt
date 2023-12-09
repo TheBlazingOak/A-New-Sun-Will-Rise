@@ -836,31 +836,31 @@
 #Porlamar (16000/4000 POPS)
 2357 = {
     aristocrats = {
-        culture = antillean
+        culture = platinean
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = antillean
+        culture = platinean
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = antillean
+        culture = platinean
         religion = catholic
         size = 2500
     }
 
     clergymen = {
-        culture = afro_antillean
+        culture = platinean
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = afro_antillean
+        culture = platinean
         religion = catholic
         size = 1825
     }
@@ -955,13 +955,13 @@
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = platinean
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = platinean
         religion = catholic
         size = 500
     }
@@ -995,7 +995,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = catholic
         size = 500
     }
@@ -1039,7 +1039,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = catholic
         size = 1000
     }
@@ -1163,7 +1163,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = catholic
         size = 800
     }
@@ -1292,7 +1292,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = catholic
         size = 500
     }
@@ -1430,7 +1430,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = catholic
         size = 200
     }
@@ -1462,7 +1462,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = catholic
         size = 250
     }
@@ -1534,7 +1534,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = catholic
         size = 200
     }
@@ -1643,7 +1643,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = catholic
         size = 3000
     }
@@ -1806,7 +1806,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = catholic
         size = 200
     }
@@ -1864,7 +1864,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = catholic
         size = 100
     }
@@ -1932,7 +1932,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = platinean
         religion = catholic
         size = 250
     }

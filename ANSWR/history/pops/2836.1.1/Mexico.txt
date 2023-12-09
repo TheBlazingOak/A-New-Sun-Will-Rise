@@ -412,31 +412,31 @@
     }
 
     aristocrats = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 2700
         militancy = 9
@@ -893,31 +893,31 @@
     }
 
     aristocrats = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 1800
     }
@@ -955,31 +955,31 @@
     }
 
     aristocrats = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 1800
     }
@@ -1061,25 +1061,25 @@
     }
 
     clergymen = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 3000
     }
@@ -1139,21 +1139,21 @@
     }
 
     clergymen = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 200
         militancy = 9
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 2150
         militancy = 9
     }
 
     soldiers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 450
 
@@ -1161,7 +1161,7 @@
     }
 
     farmers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 40200
         militancy = 9
@@ -1200,25 +1200,25 @@
     }
 
     clergymen = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 19000
     }
@@ -1256,25 +1256,25 @@
     }
 
     clergymen = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = protestant
         size = 3700
     }
@@ -1316,25 +1316,25 @@
     }
 
     clergymen = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 1650
     }
 
     soldiers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 30525
         militancy = 9
@@ -1388,20 +1388,20 @@
     }
 
     clergymen = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 5250
         militancy = 9
     }
 
     soldiers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 1050
 
@@ -1409,7 +1409,7 @@
     }
 
     farmers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 98300
     }
@@ -1450,20 +1450,20 @@
     }
 
     clergymen = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 250
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 2800
         militancy = 9
     }
 
     soldiers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 575
 
@@ -1471,7 +1471,7 @@
     }
 
     farmers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 58275
         militancy = 9
@@ -1532,21 +1532,21 @@
     }
 
     clergymen = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 100
         militancy = 5
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 1050
         militancy = 5
     }
 
     soldiers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 225
 
@@ -1554,7 +1554,7 @@
     }
 
     farmers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 20025
         militancy = 5
@@ -1622,25 +1622,25 @@
     }
 
     clergymen = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = catholic
         size = 900
     }
 
     soldiers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = catholic
         size = 16850
     }
@@ -1678,25 +1678,25 @@
     }
 
     clergymen = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 10275
     }
@@ -1819,19 +1819,19 @@
     }
 
     clergymen = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = catholic
         size = 125
 
@@ -1839,7 +1839,7 @@
     }
 
     farmers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = catholic
         size = 10275
     }
@@ -1877,25 +1877,25 @@
     }
 
     clergymen = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = catholic
         size = 650
     }
 
     soldiers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = nahua #deisui
+        culture = mexican #deisui
         religion = catholic
         size = 12125
     }
@@ -1935,25 +1935,25 @@
     }
 
     clergymen = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 12000
     }
@@ -2003,25 +2003,25 @@
     }
 
     clergymen = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 1800
     }
 
     soldiers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 375
     }
 
     farmers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 33650
     }
@@ -2059,25 +2059,25 @@
     }
 
     clergymen = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 17425
     }
@@ -2141,31 +2141,31 @@
     }
 
     clergymen = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 250
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 9250
     }
 
     soldiers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 29000
     }
@@ -2203,25 +2203,25 @@
     }
 
     clergymen = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 1700
     }
 
     soldiers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 31800
     }
@@ -2261,25 +2261,25 @@
     }
 
     clergymen = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 1400
     }
 
     soldiers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 26175
     }
@@ -2329,25 +2329,25 @@
     }
 
     clergymen = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 375
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 6500
     }
 
     soldiers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 750
     }
 
     farmers = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 65375
     }
@@ -2399,25 +2399,25 @@
     }
 
     clergymen = {
-        culture = nahua #zapotec
+        culture = mexican #zapotec
         religion = catholic
         size = 350
     }
 
     artisans = {
-        culture = nahua #zapotec
+        culture = mexican #zapotec
         religion = catholic
         size = 4500
     }
 
     soldiers = {
-        culture = nahua #zapotec
+        culture = mexican #zapotec
         religion = catholic
         size = 700
     }
 
     farmers = {
-        culture = nahua #zapotec
+        culture = mexican #zapotec
         religion = catholic
         size = 65450
     }
@@ -2455,25 +2455,25 @@
     }
 
     clergymen = {
-        culture = nahua #zapotec
+        culture = mexican #zapotec
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = nahua #zapotec
+        culture = mexican #zapotec
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = nahua #zapotec
+        culture = mexican #zapotec
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = nahua #zapotec
+        culture = mexican #zapotec
         religion = catholic
         size = 18700
     }
@@ -2525,25 +2525,25 @@
     }
 
     clergymen = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 1050
     }
 
     soldiers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 225
     }
 
     farmers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 19625
     }
@@ -2581,25 +2581,25 @@
     }
 
     clergymen = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = nahua #tarascan
+        culture = mexican #tarascan
         religion = catholic
         size = 10275
     }

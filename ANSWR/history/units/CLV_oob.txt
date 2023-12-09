@@ -1,0 +1,72 @@
+DMN = {
+    value = -200
+}
+DAL = {
+    value = -200
+}
+POR = {
+    value = -200
+}
+LIR = {
+    value = -200
+}
+BSQ = {
+    value = -200
+}
+CAT = {
+    value = -200
+}
+leader = {
+    name = "Prince Guillermo Clavel"
+    picture = european_general_26
+    date = 2836.1.1
+    type = land
+    personality = romantic
+    background = womanizer
+    prestige = 0.45
+}
+army = {
+    name = "Ejercito Real de Clavel"
+    location = 509
+
+    regiment = {
+        name= "I. División"
+        type = infantry
+        home = 509
+    }
+    regiment = {
+        name= "II. División"
+        type = infantry
+        home = 509
+    }
+    regiment = {
+        name= "III. División"
+        type = infantry
+        home = 509
+    }
+    regiment = {
+        name= "IV. División"
+        type = infantry
+        home = 512
+    }
+    regiment = {
+        name= "I. Especial División"
+        type = artillery
+        home = 1687
+    }
+    regiment = {
+        name= "II. Especial División"
+        type = artillery
+        home = 514
+    }
+    regiment = {
+        name= "III. Especial División"
+        type = artillery
+        home = 513
+    }
+    regiment = {
+        name= "IV. Especial División"
+        type = artillery
+        home = 513
+    }
+}

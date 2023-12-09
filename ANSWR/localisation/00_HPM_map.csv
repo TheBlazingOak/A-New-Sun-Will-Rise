@@ -76,8 +76,8 @@ PROV3299;Chott Chergui;;;;;;;;;;;;x
 PROV3298;Chott el Hodna;;;;;;;;;;;;x
 PROV3297;Chott Melghir;;;;;;;;;;;;x
 PROV3296;Chott el Djerid;;;;;;;;;;;;x
-PROV3294;Lake Mweru;;;;;;;;;;;;x
-PROV3293;Lake Rukwa;;;;;;;;;;;;x
+PROV3294;Mweru Bay;;;;;;;;;;;;x
+PROV3293;Rukwa Coast;;;;;;;;;;;;x
 PROV3292;Lake Argyle;;;;;;;;;;;;x
 PROV3291;Lake Mackay;;;;;;;;;;;;x
 PROV3289;Scottish Channel;;;;;;;;;;;;x
@@ -249,8 +249,8 @@ PROV2632;Kwangchowan;;;;;;;;;;;;x
 PROV1495;Maoming;;;;;;;;;;;;x
 PROV1644;Meakan;;;;;;;;;;;;x
 PROV1443;Rote;;;;;;;;;;;;x
-PROV2224;Antigua & Barbuda;;;;;;;;;;;;x
-PROV2220;Turks & Caicos;;;;;;;;;;;;x
+PROV2224;Freire;;;;;;;;;;;;x
+PROV2220;Caetano;;;;;;;;;;;;x
 CHI_1082;Guanwai;;;;;;;;;;;;x
 PROV2591;Tranquebar;;;;;;;;;;;;x
 PROV2625;North West River;;;;;;;;;;;;x
@@ -353,7 +353,10 @@ PROV396;Svoboda;;;;;;;;;;;;;;;;;x;;;;;;
 PROV1445;Koepang;;;;;;;;;;;;;;;;;x;;;;;;
 PROV1448;Ternate;;;;;;;;;;;;;;;;;x;;;;;;
 KOR_1624;Hanseong;;;;;;;;;;;;;;;;;x;;;;;;
-PROV3101;Lake Chad;;;;;;;;;;;;;;;;;x;;;;;;
+PROV3101;The Chad Sea;;;;;;;;;;;;;;;;;x;;;;;;
+PROV2966;Kasashe Bay;;;;;;;;;;;;;;;;;;;;x;
+PROV2974;Yankun Coast;;;;;;;;;;;;;;;;;;;;x;
+PROV2917;The Nork Coast;;;;;;;;;;;;;;;;;;;;x;
 PROV3102;Ukerewe;;;;;;;;;;;;;x;;;;;;
 PROV1845;Bahr el Ghazal;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV2070;Umtali;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -1459,3 +1462,12 @@ PROV1689;Girorez;;;;;;;;;;;;;;;;;;;;x;
 PROV509;Clavel;;;;;;;;;;;;;;;;;;;;x;
 PROV486;Lirlo;;;;;;;;;;;;;;;;;;;;x;
 PROV521;Alfazema;;;;;;;;;;;;;;;;;;;;x;
+PROV3110;Nicaragua Bay;;;;;;;;;;;;;;;;;;;;x;
+PROV3238;Dixie Bay;;;;;;;;;;;;;;;;;;;;x;
+PROV2232;Port Moniz;;;;;;;;;;;;;;;;;;;;x;
+PROV2234;Port Sequeira;;;;;;;;;;;;;;;;;;;;x;
+PROV376;Álvares;;;;;;;;;;;;;;;;;;;;x;
+PROV385;Botelho's Town;;;;;;;;;;;;;;;;;;;;x;
+PROV2410;Matos;;;;;;;;;;;;;;;;;;;;x;
+PROV2235;Neves;;;;;;;;;;;;;;;;;;;;x;
+PROV3311;Zaragoza Lago;;;;;;;;;;;;;;;;;;;;x;

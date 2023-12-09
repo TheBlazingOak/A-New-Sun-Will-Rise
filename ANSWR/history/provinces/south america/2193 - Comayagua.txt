@@ -1,6 +1,5 @@
 owner = GUA
 controller = GUA
-add_core = ELS
-add_core = HON
+add_core = GUA
 trade_goods = fruit
 life_rating = 35

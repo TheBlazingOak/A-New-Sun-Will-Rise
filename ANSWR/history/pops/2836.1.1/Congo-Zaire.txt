@@ -612,45 +612,10 @@
         religion = animist
         size = 132120
     }
-
-    slaves = {
-        culture = kasai
-        religion = animist
-        size = 49330
-    }
 }
 #uncolonized in 1836/under the domination of the Azande
 #Mungbane (836000/209000 POPS)
 1997 = {
-    aristocrats = {
-        culture = azande
-        religion = animist
-        size = 640
-    }
-
-    clergymen = {
-        culture = azande
-        religion = animist
-        size = 370
-    }
-
-    artisans = {
-        culture = azande
-        religion = animist
-        size = 1375
-    }
-
-    soldiers = {
-        culture = azande
-        religion = animist
-        size = 1100
-    }
-
-    farmers = {
-        culture = azande
-        religion = animist
-        size = 32920
-    }
 
     aristocrats = {
         culture = lendu
@@ -679,69 +644,39 @@
     farmers = {
         culture = lendu
         religion = animist
-        size = 193460
-    }
-
-    farmers = {
-        culture = luo
-        religion = animist
-        size = 35345
-    }
-
-    farmers = {
-        culture = ruanda
-        religion = animist
-        size = 27435
-    }
-
-    slaves = {
-        culture = forest_bantu
-        religion = animist
-        size = 7330
+        size = 43460
     }
 }
 #Baramo (1188000/297000 POPS)
 1998 = {
     aristocrats = {
-        culture = azande
+        culture = lendu
         religion = animist
-        size = 1925
+        size = 925
     }
 
     clergymen = {
-        culture = azande
+        culture = lendu
         religion = animist
         size = 1100
     }
 
     artisans = {
-        culture = azande
+        culture = lendu
         religion = animist
         size = 4950
     }
 
     soldiers = {
-        culture = azande
+        culture = lendu
         religion = animist
         size = 3000
     }
 
-    soldiers = {
-        culture = azande
-        religion = animist
-        size = 100
-    }
-
     farmers = {
-        culture = azande
+        culture = lendu
         religion = animist
-        size = 180110
-    }
-
-    farmers = {
-        culture = luo
-        religion = animist
-        size = 10000
+        size = 60110
     }
 
 }

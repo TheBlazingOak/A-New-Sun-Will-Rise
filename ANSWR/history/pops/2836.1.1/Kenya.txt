@@ -121,37 +121,7 @@
     farmers = {
         culture = viwa
         religion = harami
-        size = 7350
-    }
-
-    aristocrats = {
-        culture = maasai
-        religion = harami
-        size = 300
-    }
-
-    clergymen = {
-        culture = maasai
-        religion = harami
-        size = 150
-    }
-
-    artisans = {
-        culture = maasai
-        religion = harami
-        size = 650
-    }
-
-    soldiers = {
-        culture = maasai
-        religion = harami
-        size = 175
-    }
-
-    farmers = {
-        culture = maasai
-        religion = harami
-        size = 11725
+        size = 17350
     }
 
     aristocrats = {
@@ -187,76 +157,7 @@
     slaves = {
         culture = bingwa
         religion = harami
-        size = 3000
-    }
-}
-#uncolonized in 1836/under influence of Buganda
-#Kisumu (196000/49000POPS)
-2028 = {
-    aristocrats = {
-        culture = viwa
-        religion = harami
-        size = 375
-    }
-
-    clergymen = {
-        culture = viwa
-        religion = harami
-        size = 200
-    }
-
-    artisans = {
-        culture = viwa
-        religion = harami
-        size = 775
-    }
-
-    soldiers = {
-        culture = viwa
-        religion = harami
-        size = 300
-    }
-
-    farmers = {
-        culture = viwa
-        religion = harami
-        size = 20350
-    }
-
-    aristocrats = {
-        culture = bingwa
-        religion = harami
-        size = 375
-    }
-
-    clergymen = {
-        culture = bingwa
-        religion = harami
-        size = 200
-    }
-
-    artisans = {
-        culture = bingwa
-        religion = harami
-        size = 1100
-    }
-
-    soldiers = {
-        culture = bingwa
-        religion = harami
-        size = 200
-    }
-
-    farmers = {
-        culture = bingwa
-        religion = harami
-        size = 18225
-    }
-
-    slaves = {
-        culture = bingwa
-        religion = harami
-        size = 7000
+        size = 13000
     }
 }
 #Garissa (172000/43000 POPS)
@@ -529,4 +430,213 @@
         religion = harami
         size = 7000
     }
+}
+#Dar es Salaam (220000/55000 POPS)
+2036 = {
+    aristocrats = {
+        culture = bingwa
+        religion = harami
+        size = 950
+    }
+
+    bureaucrats = {
+        culture = bingwa
+        religion = harami
+        size = 75
+    }
+
+    officers = {
+        culture = bingwa
+        religion = harami
+        size = 125
+    }
+
+    clergymen = {
+        culture = bingwa
+        religion = harami
+        size = 525
+    }
+
+    artisans = {
+        culture = bingwa
+        religion = harami
+        size = 2000
+    }
+
+    soldiers = {
+        culture = bingwa
+        religion = harami
+        size = 500
+    }
+
+    farmers = {
+        culture = bingwa
+        religion = harami
+        size = 36825
+    }
+
+    slaves = {
+        culture = bingwa
+        religion = harami
+        size = 14000
+    }
+}
+#Tanga (88000/22000 POPS)
+2037 = {
+    aristocrats = {
+        culture = bingwa
+        religion = harami
+        size = 325
+    }
+
+    clergymen = {
+        culture = bingwa
+        religion = harami
+        size = 175
+    }
+
+    artisans = {
+        culture = bingwa
+        religion = harami
+        size = 725
+    }
+
+    soldiers = {
+        culture = bingwa
+        religion = harami
+        size = 175
+    }
+
+    farmers = {
+        culture = bingwa
+        religion = harami
+        size = 31600
+    }
+
+    slaves = {
+        culture = bingwa
+        religion = harami
+        size = 16000
+    }
+}
+#Morogoro (232000/58000 POPS)
+2045 = {
+    aristocrats = {
+        culture = bingwa
+        religion = harami
+        size = 225
+    }
+
+    clergymen = {
+        culture = bingwa
+        religion = harami
+        size = 475
+    }
+
+    artisans = {
+        culture = bingwa
+        religion = harami
+        size = 1225
+    }
+
+    soldiers = {
+        culture = bingwa
+        religion = harami
+        size = 375
+    }
+
+    farmers = {
+        culture = bingwa
+        religion = harami
+        size = 15600
+    }
+
+    slaves = {
+        culture = bingwa
+        religion = harami
+        size = 4000
+    }
+}
+#Arusha (80000/20000 POPS)
+2047 = {
+    aristocrats = {
+        culture = bingwa
+        religion = harami
+        size = 250
+    }
+
+    clergymen = {
+        culture = bingwa
+        religion = harami
+        size = 125
+    }
+
+    artisans = {
+        culture = bingwa
+        religion = harami
+        size = 1525
+    }
+
+    soldiers = {
+        culture = bingwa
+        religion = harami
+        size = 500
+    }
+
+    farmers = {
+        culture = bingwa
+        religion = harami
+        size = 27100
+    }
+    slaves = {
+        culture = bingwa
+        religion = harami
+        size = 14000
+    }
+}
+#Zanzibar Region (156000)
+#ruled by Oman in 1836
+#Zanzibar (156000/39000 POPS)
+2048 = {
+    aristocrats = {
+        culture = bingwa
+        religion = harami
+        size = 3250
+    }
+
+    bureaucrats = {
+        culture = bingwa
+        religion = harami
+        size = 475
+    }
+
+    clergymen = {
+        culture = bingwa
+        religion = harami
+        size = 425
+    }
+
+    artisans = {
+        culture = bingwa
+        religion = harami
+        size = 10525
+    }
+
+    soldiers = {
+        culture = bingwa
+        religion = harami
+        size = 9100
+    }
+
+    farmers = {
+        culture = bingwa
+        religion = harami
+        size = 17100
+    }
+    slaves = {
+        culture = bingwa
+        religion = harami
+        size = 24000
+    }
+
 }

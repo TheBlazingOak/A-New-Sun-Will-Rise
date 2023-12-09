@@ -306,91 +306,43 @@
     aristocrats = {
         culture = antillean
         religion = catholic
-        size = 250
+        size = 2250
     }
 
     bureaucrats = {
         culture = antillean
         religion = catholic
-        size = 75
+        size = 575
     }
 
     clergymen = {
         culture = antillean
         religion = catholic
-        size = 300
+        size = 1300
     }
 
     artisans = {
         culture = antillean
         religion = catholic
-        size = 800
+        size = 15800
     }
 
     soldiers = {
         culture = antillean
         religion = catholic
-        size = 50
-    }
-
-    aristocrats = {
-        culture = antillean
-        religion = catholic
-        size = 1535
-    }
-
-    bureaucrats = {
-        culture = antillean
-        religion = catholic
-        size = 25
-    }
-
-    clergymen = {
-        culture = antillean
-        religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = antillean
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = antillean
-        religion = catholic
-        size = 450
+        size = 12050
     }
 
     farmers = {
         culture = antillean
         religion = catholic
-        size = 40850
-    }
-
-    artisans = {
-        culture = antillean
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = antillean
-        religion = catholic
-        size = 400
-    }
-
-    farmers = {
-        culture = antillean
-        religion = catholic
-        size = 30600
+        size = 80000
     }
 
     slaves = {
         culture = antillean
         religion = catholic
-        size = 10000
+        size = 70000
     }
 
 }

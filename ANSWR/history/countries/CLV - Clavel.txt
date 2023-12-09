@@ -4,7 +4,7 @@ religion = jardinite
 government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_equality
-literacy = 0.15
+literacy = 0.22
 civilized = yes
 
 
@@ -39,6 +39,8 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = jardinite_country
+
+set_country_flag = clavel_family
 
 ruling_party = SPA_conservative
 last_election = 2834.1.1
@@ -92,4 +94,4 @@ basic_chemistry = 1
 consciousness = 3
 nonstate_consciousness = 1
 
-oob = "SPA_oob.txt"
+oob = "CLV_oob.txt"

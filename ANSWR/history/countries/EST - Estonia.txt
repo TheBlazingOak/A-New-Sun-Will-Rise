@@ -47,7 +47,7 @@ upper_house = {
     communist = 0
 }
 
-oob = "LIT_oob.txt"
+oob = "EST_oob.txt"
 
 # Technologies
 post_napoleonic_thought = 1

@@ -25,7 +25,6 @@ political_decisions = {
 		}
 		effect = {
 			all_core = { remove_core = DMN remove_core = POR remove_core = LIR remove_core = CLV remove_core = DAL add_core = JAR }
-			change_tag = JAR
 			any_country = {
                 limit = {
                     NOT = { is_greater_power = yes }
@@ -35,6 +34,7 @@ political_decisions = {
                 }
                 country_event = 52118
 			}
+            country_event = 52119
 		}
 	}
 	#Move Capital to Gran Floral
@@ -54,7 +54,7 @@ political_decisions = {
 
             effect = {
                 capital = 491
-                prestige = 10
+                prestige = 5
             }
 
         ai_will_do = { factor = 1 }

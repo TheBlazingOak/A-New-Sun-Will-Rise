@@ -1411,3 +1411,129 @@
     }
 
 }
+#see Morocco.txt for Ceuta-Melilla
+#Canary Islands Region (208000)
+#Azores & Madeira Region (308000)
+#Azores (204000/51000 POPS)
+2134 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 500
+    }
+
+    officers = {
+        culture = maghrebi
+        religion = sunni
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 375
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 11975
+    }
+}
+#Madeira (104000/26000 POPS)
+2135 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 13825
+    }
+
+}
+
+#Canary Islands (208000/52000 POPS)
+2136 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 825
+    }
+
+    officers = {
+        culture = maghrebi
+        religion = sunni
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 75
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 525
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 17025
+    }
+
+}

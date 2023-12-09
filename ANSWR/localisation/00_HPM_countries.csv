@@ -2491,6 +2491,8 @@ BSH_communist;Communist Faction;Faction communiste;Die kommunistische Fraktion;;
 BSH_fascist;Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;,,
 BUG;Ugandla;;;;;;;;;;;;;,,
 BUG_absolute_monarchy;The Ugandla Fiefs;;;;;;;;;;;;;,,
+BUG_hms_government;The Ugandla Fiefs;;;;;;;;;;;;;,,
+BUG_prussian_constitutionalism;The Ugandla Fiefs;;;;;;;;;;;;;,,
 BUG_ADJ;Ugandan;;;;;;;;;;;;;,,
 BUG_conservative;Uganda Patriotic Movement;;;;;;;;;;;;;,,
 BUG_liberal;Democratic Party;;;;;;;;;;;;;,,

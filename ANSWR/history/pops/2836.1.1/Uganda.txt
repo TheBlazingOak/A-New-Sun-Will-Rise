@@ -3,339 +3,307 @@
 #Entebbe (400000/100000 POPS)
 2019 = {
     aristocrats = {
-        culture = baganda
-        religion = animist
-        size = 1000
-    }
-
-    aristocrats = {
-        culture = baganda
-        religion = sunni
-        size = 350
+        culture = ugandalan
+        religion = harami
+        size = 2000
     }
 
     bureaucrats = {
-        culture = baganda
-        religion = sunni
-        size = 50
+        culture = ugandalan
+        religion = harami
+        size = 450
     }
 
     officers = {
-        culture = baganda
-        religion = animist
-        size = 50
-    }
-
-    officers = {
-        culture = baganda
-        religion = sunni
-        size = 50
+        culture = ugandalan
+        religion = harami
+        size = 150
     }
 
     clergymen = {
-        culture = baganda
-        religion = sunni
-        size = 725
+        culture = ugandalan
+        religion = harami
+        size = 1325
     }
 
     artisans = {
-        culture = baganda
-        religion = animist
-        size = 1800
+        culture = ugandalan
+        religion = harami
+        size = 14000
     }
 
-    artisans = {
-        culture = baganda
-        religion = sunni
+    soldiers = {
+        culture = ugandalan
+        religion = harami
         size = 1000
     }
 
     soldiers = {
-        culture = baganda
-        religion = animist
-        size = 1000
-    }
-
-    soldiers = {
-        culture = baganda
-        religion = sunni
-        size = 1000
+        culture = ugandalan
+        religion = harami
+        size = 12000
     }
 
     farmers = {
-        culture = baganda
-        religion = animist
-        size = 48025
-    }
-
-    farmers = {
-        culture = baganda
-        religion = sunni
-        size = 15000
-    }
-
-    aristocrats = {
-        culture = lacustrine_bantu
-        religion = animist
-        size = 575
-    }
-
-    clergymen = {
-        culture = lacustrine_bantu
-        religion = animist
-        size = 300
-    }
-
-    artisans = {
-        culture = lacustrine_bantu
-        religion = animist
-        size = 1500
-    }
-
-    soldiers = {
-        culture = lacustrine_bantu
-        religion = animist
-        size = 300
-    }
-
-    farmers = {
-        culture = lacustrine_bantu
-        religion = animist
-        size = 10325
-    }
-
-    slaves = {
-        culture = lacustrine_bantu
-        religion = animist
-        size = 7000
+        culture = ugandalan
+        religion = harami
+        size = 68025
     }
 }
 #Masindi (192000/48000 POPS)
 2021 = {
-    aristocrats = {
-        culture = luo
-        religion = sunni
-        size = 550
-    }
-
-    clergymen = {
-        culture = luo
-        religion = sunni
-        size = 300
-    }
-
-    soldiers = {
-        culture = luo
-        religion = sunni
-        size = 300
-    }
-
-    farmers = {
-        culture = luo
-        religion = sunni
-        size = 700
-    }
-
-    artisans = {
-        culture = nilotic
-        religion = animist
-        size = 1450
-    }
-
-    farmers = {
-        culture = nilotic
-        religion = animist
-        size = 3700
-    }
-
-    slaves = {
-        culture = nilotic
-        religion = animist
-        size = 4000
-    }
 
     aristocrats = {
-        culture = luo
-        religion = animist
+        culture = ugandalan
+        religion = harami
         size = 375
     }
 
     clergymen = {
-        culture = luo
-        religion = animist
+        culture = ugandalan
+        religion = harami
         size = 200
     }
 
     artisans = {
-        culture = luo
-        religion = animist
+        culture = ugandalan
+        religion = harami
         size = 775
     }
 
     soldiers = {
-        culture = luo
-        religion = animist
+        culture = ugandalan
+        religion = harami
         size = 200
     }
 
     farmers = {
-        culture = luo
-        religion = animist
+        culture = ugandalan
+        religion = harami
         size = 20450
     }
 }
 #Kitgum (104000/26000 POPS)
 2022 = {
     aristocrats = {
-        culture = luo
-        religion = animist
+        culture = ugandalan
+        religion = harami
         size = 375
     }
 
     clergymen = {
-        culture = luo
-        religion = animist
+        culture = ugandalan
+        religion = harami
         size = 200
     }
 
     artisans = {
-        culture = luo
-        religion = animist
+        culture = ugandalan
+        religion = harami
         size = 775
     }
 
     soldiers = {
-        culture = luo
-        religion = animist
+        culture = ugandalan
+        religion = harami
         size = 200
     }
 
     farmers = {
-        culture = luo
-        religion = animist
+        culture = ugandalan
+        religion = harami
         size = 24450
     }
 
     aristocrats = {
-        culture = luo
-        religion = sunni
+        culture = ugandalan
+        religion = harami
         size = 125
     }
 
     clergymen = {
-        culture = luo
-        religion = sunni
+        culture = ugandalan
+        religion = harami
         size = 75
     }
 
     artisans = {
-        culture = luo
-        religion = sunni
+        culture = ugandalan
+        religion = harami
         size = 350
     }
 
     soldiers = {
-        culture = luo
-        religion = sunni
+        culture = ugandalan
+        religion = harami
         size = 75
-    }
-
-    farmers = {
-        culture = nilotic
-        religion = animist
-        size = 5075
-    }
-
-    farmers = {
-        culture = nilotic
-        religion = sunni
-        size = 2700
-    }
-
-    slaves = {
-        culture = nilotic
-        religion = animist
-        size = 3300
     }
 }
 #Jinja (208000/52000 POPS)
 2023 = {
-    aristocrats = {
-        culture = baganda
-        religion = animist
-        size = 275
-    }
-
-    clergymen = {
-        culture = baganda
-        religion = animist
-        size = 150
-    }
-
-    aristocrats = {
-        culture = baganda
-        religion = sunni
-        size = 750
-    }
-
-    clergymen = {
-        culture = baganda
-        religion = sunni
-        size = 375
-    }
 
     artisans = {
-        culture = baganda
-        religion = animist
-        size = 575
+        culture = ugandalan
+        religion = harami
+        size = 2575
     }
 
     soldiers = {
-        culture = baganda
-        religion = animist
-        size = 150
-    }
-
-    soldiers = {
-        culture = baganda
-        religion = sunni
-        size = 375
+        culture = ugandalan
+        religion = harami
+        size = 3750
     }
 
     farmers = {
-        culture = baganda
-        religion = animist
+        culture = ugandalan
+        religion = harami
         size = 52850
     }
 
-    farmers = {
-        culture = baganda
-        religion = sunni
-        size = 9000
-    }
-
+}
+2026 = {
     artisans = {
-        culture = luo
-        religion = animist
-        size = 1900
+        culture = ugandalan
+        religion = harami
+        size = 1575
+    }
+
+    soldiers = {
+        culture = ugandalan
+        religion = harami
+        size = 1375
     }
 
     farmers = {
-        culture = luo
-        religion = animist
-        size = 4400
+        culture = ugandalan
+        religion = harami
+        size = 32850
+    }
+}
+#Lado (244000/61000 POPS)
+1846 = {
+    aristocrats = {
+        culture = ugandalan
+        religion = harami
+        size = 625
     }
 
-    artisans = {
-        culture = lacustrine_bantu
-        religion = animist
+    soldiers = {
+        culture = ugandalan
+        religion = harami
+        size = 2200
+    }
+
+    farmers = {
+        culture = ugandalan
+        religion = harami
+        size = 36550
+    }
+}
+#uncolonized in 1836/under influence of Buganda
+#Kisumu (196000/49000POPS)
+2028 = {
+    aristocrats = {
+        culture = viwa
+        religion = harami
+        size = 675
+    }
+
+    clergymen = {
+        culture = viwa
+        religion = harami
         size = 200
     }
 
-    slaves = {
-        culture = lacustrine_bantu
+    artisans = {
+        culture = viwa
+        religion = harami
+        size = 1775
+    }
+
+    soldiers = {
+        culture = viwa
+        religion = harami
+        size = 2300
+    }
+
+    farmers = {
+        culture = viwa
+        religion = harami
+        size = 40350
+    }
+     aristocrats = {
+        culture = ugandalan
+        religion = harami
+        size = 825
+    }
+
+    farmers = {
+        culture = nilotic
+        religion = harami
+        size = 950
+    }
+
+    soldiers = {
+        culture = ugandalan
+        religion = harami
+        size = 3200
+    }
+
+    farmers = {
+        culture = ugandalan
+        religion = harami
+        size = 46550
+    }
+}
+#Kapoeta (140000/35000 POPS)
+1847 = {
+    aristocrats = {
+        culture = ugandalan
         religion = animist
-        size = 6000
+        size = 525
+    }
+
+    artisans = {
+        culture = ugandalan
+        religion = animist
+        size = 1400
+    }
+
+    soldiers = {
+        culture = ugandalan
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = ugandalan
+        religion = animist
+        size = 25800
+    }
+
+    aristocrats = {
+        culture = nilotic
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = ugandalan
+        religion = animist
+        size = 350
+    }
+
+    soldiers = {
+        culture = ugandalan
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = ugandalan
+        religion = animist
+        size = 6475
     }
 
 }

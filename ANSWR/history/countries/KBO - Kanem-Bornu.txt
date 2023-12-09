@@ -1,13 +1,10 @@
 capital = 1951
-primary_culture = kanuri
-culture = tsakiya
-culture = bedouin
-culture = fulbe
+primary_culture = yankun
 religion = sunni
 government = absolute_monarchy
-plurality = 0.0
-nationalvalue = nv_tradition
-literacy = 0.01
+plurality = 5.0
+nationalvalue = nv_liberty
+literacy = 0.18
 non_state_culture_literacy = 0.01
 
 # Political reforms

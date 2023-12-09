@@ -2,41 +2,6 @@
 #under the rule of Liberia in 1836
 #Monrovia (252000/63000 POPS)
 1887 = {
-    aristocrats = {
-        culture = afro_american
-        religion = protestant
-        size = 500
-    }
-
-    officers = {
-        culture = afro_american
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = protestant
-        size = 1010
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = protestant
-        size = 300
-    }
-
-    soldiers = {
-        culture = afro_american
-        religion = protestant
-        size = 1100
-    }
 
     farmers = {
         culture = kru
@@ -136,17 +101,6 @@
 }
 #Harper (204000/51000 POPS)
 1888 = {
-    aristocrats = {
-        culture = afro_american
-        religion = protestant
-        size = 750
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = protestant
-        size = 375
-    }
 
     artisans = {
         culture = kru
@@ -329,18 +283,6 @@
         size = 425
     }
 
-    clergymen = {
-        culture = afro_american
-        religion = animist
-        size = 250
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = animist
-        size = 1150
-    }
-
     soldiers = {
         culture = kru
         religion = animist
@@ -351,30 +293,6 @@
         culture = kru
         religion = animist
         size = 5975
-    }
-
-    aristocrats = {
-        culture = afro_american
-        religion = animist
-        size = 350
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = animist
-        size = 200
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = animist
-        size = 950
-    }
-
-    soldiers = {
-        culture = afro_american
-        religion = animist
-        size = 200
     }
 
     farmers = {

@@ -481,7 +481,7 @@ iberian = {
     }
     jardino = {
         color = { 107 17 0 }
-        first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
+        first_names = { Agustin Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
         Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
         Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
         "Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
@@ -489,13 +489,13 @@ iberian = {
         Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
         Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente }
 
-    last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
-        Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
-        "de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco
-        García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López
-        Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz
-        Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz
-        Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
+    last_names = { Acuna Aguirre Alcala-Zamora Allendesalazar Alonso Alvarez "Alvarez de Toledo" Aranda Arguelles-Meres Asensio
+        Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbon"
+        "de Carvajal" "de la Fuente" "de Orleans" Diaz Espartero Fernandez "Fernandez de Cordoba" "Fitz-James Stuart" Franco
+        García "Garcia de la Noceda" Gonzalez Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares Lopez
+        Maroto Marquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Munoz
+        Narváez O'Donnell Ortega Pavia Perez "Primo de Rivera" "Queipo de Llano" Rodriguez Rojo Ruiz
+        Sanjurjo Serrano Silvestre Topete Valdes Varela Villapol Villar Weyler Yagüe }
     }
     spanish = {
         color = {220 220 30}
@@ -3509,6 +3509,28 @@ east_african = {
     leader = african
     is_overseas = no
     unit = AfricanGC
+    mabeli = {
+        color = {0 115 230}
+        first_names = { Ras Debela Alemayehu Dirribi Heile Gobana Tsegaye Tilahun Waqo Ahmad Galasa Hailu Yilma Abadula Abdus
+        }
+
+        last_names = { Makonnen Dacche Mideksa Dinsa Turnsaa Gemeda Eabisa Demissie Gessesse
+        }
+    }
+    ugandalan = {
+        color = {146 152 173}
+        first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
+
+        last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
+    }
+    tanganyikan = {
+        color = {90 90 190}
+        first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
+        }
+
+        last_names = { Mnywasele Mkasiwa Mirambo Msemwa Bulungute Mudimbe
+        }
+    }
     amhara = {
         color = {88 142 37}
         first_names = { Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi Abebe Fakirta Adis Kassa Menelik }
@@ -3708,6 +3730,14 @@ southern_african = {
     leader = african
     is_overseas = no
     unit = ZuluGC
+    longwe = {
+        color = {125 125 170}
+        first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
+        }
+
+        last_names = { "Muhammad Raja" Muhammad Raja Uthman Usufu Mukusedi Molidi "Umkubu Muntu" Marave "Ali Ibrahimu"
+        }
+    }
     chewa = {
         color = {88 88 88}
         first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth

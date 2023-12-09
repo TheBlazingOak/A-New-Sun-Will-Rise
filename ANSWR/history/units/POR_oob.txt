@@ -1,77 +1,24 @@
-PER = { value = 200 }
-GAZ = {
-    truce_until = 1841.1.1
-    value = 125
+DMN = {
+    value = -200
 }
-AGC = {
-    value = -400
+LIR = {
+    value = -200
 }
-OMA = {
-    value = 400
+DAL = {
+    value = -200
 }
-ENG = {
-    value = 200
+CLV = {
+    value = -200
 }
-QNG = {
-    value = 125
+BSQ = {
+    value = -200
 }
-BRZ = {
-    value = 100
-}
-SPA = {
-    value = -50
-}
-ASH = {
-    value = 50
-}
-BEN = {
-    value = 50
-}
-ZUL = {
-    value = 50
-}
-SUA = {
-    value = 100
-}
-DAH = {
-    value = 40
-}
-OYO = {
-    value = 35
-}
-ARO = {
-    value = 50
-}
-CLA = {
-    value = 50
-}
-WRI = {
-    value = 40
-}
-KON = {
-    value = 25
-}
-LOA = {
-    value = 75
-}
-GBU = {
-    value = 100
-}
-TOO = {
-    value = 35
-}
-WOL = {
-    value = 35
-}
-MOR = {
-    value = 75
-}
-NET = {
-    value = 120
+CAT = {
+    value = -200
 }
 
 army = {
-    name = "Exército Português"
+    name = "Exército Alfazema"
     location = 521
     regiment = {
         name= "1. Brigada de Infantaria"
@@ -82,121 +29,46 @@ army = {
     regiment = {
         name= "2. Brigada de Infantaria"
         type = infantry
-        home = 524
+        home = 521
     }
-
     regiment = {
         name= "3. Brigada de Infantaria"
         type = infantry
-        home = 518
-    }
-
-    regiment = {
-        name= "4. Brigada de Infantaria"
-        type = infantry
-        home = 520
+        home = 524
     }
 
     regiment = {
         name= "1. Brigada de Artilharia"
         type = artillery
+        home = 521
+    }
+
+    regiment = {
+        name= "2. Brigada de Artilharia"
+        type = artillery
         home = 522
+    }
+    regiment = {
+        name= "3. Brigada de Artilharia"
+        type = artillery
+        home = 2134
     }
 
     regiment = {
         name= "1. Brigada de Cavalaria"
         type = cuirassier
-        home = 519
-    }
-
-}
-
-army = {
-    name = "Exército de Africa Ocidental"
-    location = 1999
-
-    regiment = {
-        name = "1. Divisão Colonial"
-        type = infantry
         home = 525
     }
-}
 
-army = {
-    name = "Exército de Africa Oriental"
-    location = 2059
-
-    regiment = {
-        name = "2. Divisão Colonial"
-        type = infantry
-        home = 2134
-    }
-}
-
-army = {
-    name = "Exército da Índia"
-    location = 1303
-
-    regiment = {
-        name = "3. Divisão Colonial"
-        type = infantry
-        home = 1303
-    }
 }
 
 navy = {
-    name = "Portuguese Royal Navy"
+    name = "Marinha Pessoal Alfazema"
     location = 521
     ship = {
-        name= "Rainha de Portugal"
+        name= "Alfazema"
         type = manowar
     }
-
-    ship = {
-        name= "Dom João VI"
-        type = manowar
-    }
-
-    ship = {
-        name= "Nossa Senhora da Conceição"
-        type = manowar
-    }
-
-    ship = {
-        name= "São Sebastião"
-        type = manowar
-    }
-
-    ship = {
-        name= "Amazônia"
-        type = manowar
-    }
-
-    ship = {
-        name= "Princesa Carlota"
-        type = manowar
-    }
-
-    ship = {
-        name= "Teresa"
-        type = manowar
-    }
-
-    ship = {
-        name= "Príncipe do Brasil"
-        type = manowar
-    }
-
-    ship = {
-        name= "Algarves"
-        type = manowar
-    }
-
-    ship = {
-        name= "Maria II"
-        type = manowar
-    }
-
     ship = {
         name= "1o Navios de Transporte"
         type = clipper_transport
@@ -215,72 +87,25 @@ navy = {
         name= "4o Navios de Transporte"
         type = clipper_transport
     }
-    ship = {
-        name= "5o Navios de Transporte"
-        type = clipper_transport
-    }
-    ship = {
-        name= "6o Navios de Transporte"
-        type = clipper_transport
-    }
-    ship = {
-        name= "7o Navios de Transporte"
-        type = clipper_transport
-    }
-    ship = {
-        name= "8o Navios de Transporte"
-        type = clipper_transport
-    }
-    ship = {
-        name= "9o Navios de Transporte"
-        type = clipper_transport
-    }
 
 }
 
 leader = {
-    name = "Duke of Saldanha"
-    picture = european_general_55
+    name = "Duke Óscar III of Alfazema"
+    picture = rus_gen_bebutov
     type = land
-    date = 1825.8.20
-    background = aristocrat
-    personality = soldierly
+    date = 2811.8.20
+    background = coolminded
+    personality = elderly
+    prestige = 0.5
+    }
+
+leader = {
+    name = "Prince Óscar IV Alfazema"
+    picture = southamerican_admiral_2
+    type = sea
+    date = 2836.1.1
+    background = imperious
+    personality = uncommonly_young
     prestige = 0.1
     }
-
-leader = {
-    name = "José Joaquim da Rosa Coelho"
-    picture = european_admiral_5
-    type = sea
-    date = 1820.12.14
-    background = generals_aide
-    personality = stout
-    prestige = 0.05
-    }
-
-leader = {
-    name = "Nunes Vidigal"
-    date = 1808.1.1
-    type = land
-    personality = aggressive
-    background = hated
-    prestige = 0.2
-}
-
-leader = {
-    name = "Luís Barreto"
-    date = 1824.1.1
-    type = land
-    personality = resolute
-    background = gifted_administrator
-    prestige = 0.2
-}
-
-leader = {
-    name = "Vicente de Mesquita"
-    date = 1808.1.1
-    type = land
-    personality = dauntless
-    background = madman
-    prestige = 0.0
-}
