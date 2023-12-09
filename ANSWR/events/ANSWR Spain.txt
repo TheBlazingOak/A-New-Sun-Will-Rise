@@ -18,6 +18,7 @@ country_event = {
     option = {
         name = "EVT55420OPTA"
         prestige = 10
+        set_global_flag = jardin_emperor_crowned
     }
 }
 #Clavel Coronation
