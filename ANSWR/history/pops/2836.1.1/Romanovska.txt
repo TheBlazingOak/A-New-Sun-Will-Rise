@@ -33,12 +33,12 @@
     farmers = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 122550
+        size = 182550
     }
     serfs = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 65245
+        size = 95245
     }
     craftsmen = {
         culture = novosibiryaki
@@ -48,7 +48,7 @@
     clerks = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 200
+        size = 1200
     }
 
 }
@@ -87,12 +87,12 @@
     farmers = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 42550
+        size = 92550
     }
     serfs = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 25245
+        size = 55245
     }
     craftsmen = {
         culture = novosibiryaki
@@ -237,31 +237,31 @@
 993 = {
     aristocrats = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = veravburyu
         size = 425
     }
 
     clergymen = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = veravburyu
         size = 250
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = veravburyu
         size = 2950
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = veravburyu
         size = 750
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = veravburyu
         size = 42350
     }
 }
@@ -269,31 +269,31 @@
 2611 = {
     aristocrats = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = veravburyu
         size = 1425
     }
 
     clergymen = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = veravburyu
         size = 650
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = veravburyu
         size = 3950
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = veravburyu
         size = 1250
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = veravburyu
         size = 51660
     }
 }
@@ -303,19 +303,19 @@
 2682 = {
     clergymen = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = veravburyu
         size = 175
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = veravburyu
         size = 250
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = orthodox
+        religion = veravburyu
         size = 31825
     }
 }
@@ -349,5 +349,130 @@
         culture = novosibiryaki
         religion = veravburyu
         size = 15250
+    }
+}
+#Yamalia Region (10400)
+#under the rule of Russia in 1836
+#Mordiyakha (1000/250 POPS) => Shadrinsk
+2614 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1800
+    }
+
+    bureaucrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1275
+    }
+
+    officers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 1225
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 500
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 12000
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 9950
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 3000
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 116000
+    }
+
+    serfs = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 88000
+    }
+}
+#Yakutsk Region (117000)
+#under the rule of Russia in 1836
+#Krasnoyarsk Region (232000)
+#under the rule of Russia in 1836
+#Krasnoyarsk (226000/56500 POPS)
+1077 = {
+    aristocrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 900
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 650
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 5200
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 6400
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 73450
+    }
+}
+#Berezov (60000/15000 POPS)
+1062 = {
+    bureaucrats = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 100
+    }
+
+    clergymen = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 175
+    }
+
+    soldiers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 250
+    }
+
+    farmers = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 32750
+    }
+    serfs = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 62750
     }
 }

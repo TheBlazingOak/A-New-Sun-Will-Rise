@@ -156,6 +156,7 @@ YNN        ="countries/Yunnan.txt"
 NIH        ="countries/Remnants of Nihon.txt"
 JIY        ="countries/Jiyu Noji.txt"
 EZO        ="countries/EzoRep.txt"
+VLD        ="countries/Vladivostok.txt"
 
 ##Africa ANSWR
 AQS        = "countries/Alqarasina.txt"
@@ -171,11 +172,17 @@ NGL		   = "countries/Nagaland.txt"
 
 ##Formables
 OUD        ="countries/Oudrijk.txt"
+NUR 	   ="countries/Nieuwrijk.txt"
+PRF 	   ="countries/Praha Federation.txt"
 RUS        = "countries/Russia.txt"
 FRA        = "countries/France.txt"
 USA        = "countries/USA.txt"
 TRP        = "countries/Trans-Pacifica.txt"
 JAR        = "countries/Jardin.txt" 
+ISV		   = "countries/Istoslavia.txt"
+WAR        = "countries/Warsaw Pact.txt"
+GCL        = "countries/Greater California.txt"
+ESS        = "countries/Eastern Seaboard.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"

@@ -1,6 +1,8 @@
 owner = OMS
 controller = OMS
 add_core = OMS
+add_core = SIB
+add_core = URA
 trade_goods = coal
-life_rating = 35
+life_rating = 40
 terrain = mining_district

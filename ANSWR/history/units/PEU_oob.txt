@@ -1,9 +1,5 @@
-ECU = {
-    value = -100
-}
-
 leader = {
-    name = "Andres de Santa Cruz"
+    name = "Miguel de la Cruz"
     type = land
     date = 2836.1.1
     personality = arrogant
@@ -11,8 +7,8 @@ leader = {
 }
 
 navy = {
-    name = "Marina de Guerra del Peru"
-    location = 2295
+    name = "Marina de Guerra del Arequipa"
+    location = 2304
     ship = {
         name= "Monteagudo"
         type = frigate
@@ -26,8 +22,8 @@ navy = {
 }
 
 army = {
-    name = "Ejército del Perú"
-    location = 2295
+    name = "Ejército del Arequipa"
+    location = 2304
     regiment = {
         name= "1. Brigada de Infantería"
         type = infantry

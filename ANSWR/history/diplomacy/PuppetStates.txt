@@ -169,12 +169,12 @@ vassal = {
     end_date = 2936.1.1
 }
 
-#Jiyunoji/Hokkaido
+#Japan/Hokkaido
 vassal = {
-    first = JIY
+    first = JAP
     second = EZO
     start_date = 2836.1.1
-    end_date = 2936.1.1
+    end_date = 2863.1.1
 }
 
 #Dongbei/Mongolian Rump state

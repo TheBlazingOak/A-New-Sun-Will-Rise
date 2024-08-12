@@ -952,67 +952,97 @@
     aristocrats = {
         culture = polish
         religion = prosperity
-        size = 1500
+        size = 5500
     }
 
     bureaucrats = {
         culture = polish
         religion = prosperity
-        size = 225
+        size = 1225
     }
 
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 100
+        size = 6000
+    }
+
+    officers = {
+        culture = polish
+        religion = prosperity
+        size = 800
     }
 
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 425
+        size = 2425
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 2000
+        size = 11000
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 11000
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 27850
+        size = 377850
     }
 
-    serfs = {
+    craftsmen = {
+        culture = polish
+        religion = prosperity
+        size = 35000
+    }
+
+    clerks = {
+        culture = polish
+        religion = prosperity
+        size = 5000
+    }
+
+    farmers = {
         culture = polish
         religion = prosperity
         size = 5000
     }
 
     clergymen = {
-        culture = polish
-        religion = prosperity
+        culture = north_german
+        religion = ketronant
         size = 100
     }
 
     soldiers = {
-        culture = polish
-        religion = prosperity
+        culture = north_german
+        religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = polish
-        religion = prosperity
+        culture = north_german
+        religion = ketronant
         size = 225
     }
 
     farmers = {
-        culture = polish
-        religion = prosperity
-        size = 23700
+        culture = north_german
+        religion = ketronant
+        size = 20000
+    }
+
+    farmers = {
+        culture = czech
+        religion = ketronant
+        size = 5200
     }
 }
 #Kalicz (252000/63000 POPS)
@@ -1047,7 +1077,7 @@
         size = 40000
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = prosperity
         size = 5000
@@ -1086,43 +1116,49 @@
     aristocrats = {
         culture = polish
         religion = prosperity
-        size = 2525
+        size = 3525
     }
 
     bureaucrats = {
         culture = polish
         religion = prosperity
-        size = 825
+        size = 1825
     }
 
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 100
+        size = 3100
     }
 
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 950
+        size = 1350
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 4900
+        size = 11900
+    }
+
+    artisans = {
+        culture = polish
+        religion = prosperity
+        size = 11900
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 68600
+        size = 198600
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = prosperity
-        size = 20000
+        size = 30000
     }
 }
 #Lublin (476000/119000 POPS)
@@ -1163,7 +1199,7 @@
         size = 56275
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = prosperity
         size = 20000
@@ -1237,7 +1273,7 @@
         size = 49600
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = prosperity
         size = 40000
@@ -1289,7 +1325,7 @@
         size = 7500
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = orthodox
         size = 17700
@@ -1325,7 +1361,7 @@
         size = 45000
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = prosperity
         size = 50000
@@ -1338,7 +1374,7 @@
     aristocrats = {
         culture = polish
         religion = prosperity
-        size = 4250
+        size = 1250
     }
 
     bureaucrats = {
@@ -1362,25 +1398,19 @@
     artisans = {
         culture = polish
         religion = prosperity
-        size = 10000
-    }
-
-    artisans = {
-        culture = polish
-        religion = prosperity
         size = 11100
     }
 
     craftsmen = {
         culture = polish
         religion = prosperity
-        size = 5000
+        size = 2000
     }
 
     clerks = {
         culture = polish
         religion = prosperity
-        size = 1000
+        size = 500
     }
 
     farmers = {
@@ -1392,37 +1422,19 @@
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 6500
-    }
-
-    serfs = {
-        culture = polish
-        religion = prosperity
-        size = 80000
-    }
-
-    officers = {
-        culture = polish
-        religion = prosperity
-        size = 100
-    }
-
-    clergymen = {
-        culture = polish
-        religion = prosperity
-        size = 100
-    }
-
-    artisans = {
-        culture = polish
-        religion = prosperity
         size = 1500
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 2400
+        size = 20000
+    }
+
+    officers = {
+        culture = polish
+        religion = prosperity
+        size = 100
     }
 
     aristocrats = {
@@ -1452,13 +1464,13 @@
     soldiers = {
         culture = north_german
         religion = ketronant
-        size = 3000
+        size = 500
     }
 
     farmers = {
         culture = north_german
         religion = ketronant
-        size = 23400
+        size = 13400
     }
 }
 #Suwalki (196000/49000 POPS)
@@ -1493,7 +1505,7 @@
         size = 40625
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = prosperity
         size = 5000
@@ -1555,7 +1567,7 @@
         size = 40675
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = prosperity
         size = 40000
@@ -1617,7 +1629,7 @@
         size = 50275
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = prosperity
         size = 5000
@@ -1640,49 +1652,49 @@
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 925
+        size = 1325
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 4750
+        size = 11750
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 36825
+        size = 96825
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = prosperity
         size = 20000
     }
 
     clergymen = {
-        culture = polish
-        religion = prosperity
+        culture = north_german
+        religion = ketronant
         size = 100
     }
 
     soldiers = {
-        culture = polish
-        religion = prosperity
+        culture = north_german
+        religion = ketronant
         size = 1000
     }
 
     artisans = {
-        culture = polish
-        religion = prosperity
+        culture = north_german
+        religion = ketronant
         size = 2500
     }
 
     farmers = {
-        culture = polish
-        religion = prosperity
-        size = 41725
+        culture = north_german
+        religion = ketronant
+        size = 11725
     }
 }
 #Siedlice (472000/118000 POPS)
@@ -1717,7 +1729,7 @@
         size = 46050
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = prosperity
         size = 50000
@@ -1775,7 +1787,7 @@
         size = 1500
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = prosperity
         size = 25500

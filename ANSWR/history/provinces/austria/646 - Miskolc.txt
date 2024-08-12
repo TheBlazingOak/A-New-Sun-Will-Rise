@@ -1,5 +1,6 @@
 owner = HUN
 controller = HUN
 add_core = HUN
+add_core = GLC
 trade_goods = fruit
 life_rating = 35

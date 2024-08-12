@@ -1,6 +1,7 @@
 owner = SIB
 controller = SIB
+add_core = OMS
 add_core = SIB
-trade_goods = grain
-terrain = boreal
+add_core = URA
+trade_goods = coal
 life_rating = 35

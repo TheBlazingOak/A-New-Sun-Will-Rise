@@ -1,6 +1,8 @@
 capital = 119
 primary_culture = serb
-religion = protestant
+culture = staromadar
+culture = hungarian
+religion = the_broken
 government = democracy
 plurality = 3.0
 nationalvalue = nv_autocracy
@@ -34,6 +36,7 @@ penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
+
 # Technologies
 post_napoleonic_thought = 1
 flintlock_rifles = 1
@@ -56,6 +59,8 @@ mechanical_production = 1
 consciousness = 3
 nonstate_consciousness = 0
 
+set_country_flag = the_broken_country
+
 ruling_party = DAK_conservative
 upper_house = {
     fascist = 0
@@ -66,3 +71,4 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+oob = "DAK_oob.txt"

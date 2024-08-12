@@ -1675,7 +1675,7 @@
         size = 4000
     }
     farmers = {
-        culture = tatar
+        culture = setjer
         religion = veravburyu
         size = 5250
     }
@@ -1716,7 +1716,7 @@
         size = 13100
     }
     farmers = {
-        culture = tatar
+        culture = setjer
         religion = veravburyu
         size = 4250
     }
@@ -2187,127 +2187,6 @@
         culture = cherkesskiy
         religion = veravburyu
         size = 9375
-    }
-}
-#Yamalia Region (10400)
-#under the rule of Russia in 1836
-#Mordiyakha (1000/250 POPS) => Shadrinsk
-2614 = {
-    aristocrats = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 1800
-    }
-
-    bureaucrats = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 275
-    }
-
-    officers = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 225
-    }
-
-    clergymen = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 500
-    }
-
-    artisans = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 12000
-    }
-
-    artisans = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 4950
-    }
-
-    soldiers = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 1000
-    }
-
-    farmers = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 66000
-    }
-
-    serfs = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 18000
-    }
-}
-#Yakutsk Region (117000)
-#under the rule of Russia in 1836
-#Krasnoyarsk Region (232000)
-#under the rule of Russia in 1836
-#Krasnoyarsk (226000/56500 POPS)
-1077 = {
-    aristocrats = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 900
-    }
-
-    clergymen = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 650
-    }
-
-    artisans = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 5200
-    }
-
-    soldiers = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 6400
-    }
-
-    farmers = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 73450
-    }
-}
-#Surinda (1000/250 POPS) => Kansk
-2701 = {
-
-    clergymen = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 150
-    }
-
-    artisans = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 1000
-    }
-
-    soldiers = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 500
-    }
-
-    farmers = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 23450
     }
 }
 #Irkutsk Region (292000)

@@ -1,6 +1,9 @@
 owner = SIC
 controller = SIC
+add_core = PAR
 add_core = SIC
+add_core = TUS
+add_core = APU
 trade_goods = grain
 life_rating = 39
 naval_base = 1

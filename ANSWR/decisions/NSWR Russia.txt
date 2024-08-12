@@ -1,0 +1,102 @@
+political_decisions = {
+	go_west_young_man = {
+		alert = yes
+		potential = {
+			has_country_modifier = siberian_unifier
+			NOT = { has_country_flag = west_of_the_urals }
+		}
+		allow = {
+			prestige = 30
+			}
+		effect = {
+			set_country_flag = west_of_the_urals
+			RUS_1026 = { secede_province = THIS }
+			RUS_1026 = { add_core = THIS }
+			RUS_1060 = { secede_province = THIS }
+			RUS_1060 = { add_core = THIS }
+			RUS_1026 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+			RUS_1060 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+		}
+	}
+	outer_moskva = {
+		alert = yes
+		potential = {
+			has_country_modifier = siberian_unifier
+			has_country_flag = west_of_the_urals
+			NOT = { has_country_flag = outer_moskva}
+		}
+		allow = {
+			experimental_railroad = 1
+			prestige = 40
+			}
+		effect = {
+			set_country_flag = outer_moskva
+			RUS_1037 = { secede_province = THIS }
+			RUS_1037 = { add_core = THIS }
+			RUS_1037 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+			RUS_1020 = { secede_province = THIS }
+			RUS_1020 = { add_core = THIS }
+			RUS_1020 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+			RUS_990 = { secede_province = THIS }
+			RUS_990 = { add_core = THIS }
+			RUS_990 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+			RUS_1008 = { add_core = THIS }
+		}
+	}
+	inner_setjer = {
+		alert = yes
+		potential = {
+			has_country_modifier = siberian_unifier
+			has_country_flag = setjer_incident
+			NOT = { has_country_flag = setjer_colonization}
+		}
+		allow = {
+			prestige = 30
+			1041 = { owned_by = THIS }
+			2702 = { owned_by = THIS }
+			}
+		effect = {
+			set_country_flag = setjer_colonization
+			1183 = { secede_province = THIS }
+			2610 = { secede_province = THIS }
+			1040 = { secede_province = THIS }
+			1039 = { secede_province = THIS }
+		}
+	}
+	accept_old_russia ={
+		alert = yes
+		potential = {
+			has_country_modifier = siberian_unifier
+			1008 = { owned_by = THIS }
+			NOT = { has_country_flag = setjer_colonization}
+		}
+		allow = {
+			prestige = 30
+			nationalism_n_imperialism = 1
+			}
+		effect ={
+			prestige = 5
+			add_accepted_culture = russian
+		}
+	}
+	eastern_ukraine_expansion ={
+		alert = yes
+		potential = {
+			has_country_modifier = siberian_unifier
+			1008 = { owned_by = THIS }
+			NOT = { has_country_flag = ukraine_expansion}
+		}
+		allow = {
+			prestige = 50
+			963 = {owned_by = THIS}
+			944 = {owned_by = THIS}
+			995 = {owned_by = THIS}
+			}
+		effect ={
+			RUS_978 = { add_core = THIS }
+			RUS_973 = { add_core = THIS }
+			set_country_flag = ukraine_expansion
+		}
+	}
+
+}

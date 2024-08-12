@@ -1,7 +1,8 @@
 owner = DPA
 controller = DPA
 add_core = DPA
+add_core = PRP
 add_core = FRE
-trade_goods = grain
-life_rating = 31
+trade_goods = dye
+life_rating = 35
 2861.1.1 = { railroad = 3 }

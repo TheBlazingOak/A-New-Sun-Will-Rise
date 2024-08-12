@@ -1,14 +1,38 @@
 leader = {
-    name = "Carlo Filangieri"
-    date = 1831.1.1
+    name = "Onofrio Guardia"
+    date = 2831.1.1
     type = land
     personality = harsh
     background = generals_aide
     prestige = 0.2
 }
 
+TUS = {
+    value = 50        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+PAR = {
+    value = 50        #relation
+    level = 4        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+APU = {
+    value = 200  
+    level = 4       
+    influence_value = 200
+}
+
+ALB = {
+    value = 50        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
 leader = {
-    name = "Rafaella de Cosa"
+    name = "Rufo Pisano"
     date = 2836.1.1
     type = sea
     personality = gallant
@@ -16,26 +40,17 @@ leader = {
 }
 
 leader = {
-    name = "Francesco Mendoza"
+    name = "Emmerico Crupi"
     date = 2830.1.1
-    type = land
+    type = sea
     personality = arrogant
     background = aristocrat
     prestige = 0.2
 }
 
-leader = {
-    name = "Ferdinando II"
-    date = 2820.1.1
-    type = land
-    personality = bigoted
-    background = gifted_administrator
-    prestige = 0.5
-}
-
 army = {
     name = "Esercito delle Due Sicilia"
-    location = 762
+    location = 749
     regiment = {
         name= "1. Fanteria - Re e Regina"
         type = infantry

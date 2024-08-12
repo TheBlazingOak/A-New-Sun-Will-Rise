@@ -3860,15 +3860,6 @@ demand_concession_casus_belli = {
         OR = {
             THIS = { ai = no }
             THIS = { war_policy = jingoism NOT = { government = democracy } }
-            NOT = {
-                THIS = {
-                    OR = {
-                        capital_scope = { continent = south_america }
-                        capital_scope = { continent = north_america }
-                        capital_scope = { continent = australia_new_zealand }
-                    }
-                }
-            }
         }
 
         OR = {
@@ -3909,14 +3900,22 @@ demand_concession_casus_belli = {
 
         #Restrictions to non-African State conquering
         OR = {
-            continent = africa
+            capital_scope = { continent = africa }
 
-            NOT = { total_pops = 500000 }
+            capital_scope = { continent = asia }
+
+            NOT = { tag = JAP }
+
+            NOT = { tag = EQG }
+
+            NOT = { tag = RNA }
+
+            NOT = { total_pops = 1500000 }
 
             AND = {
-                NOT = { total_pops = 1000000 }
+                NOT = { total_pops = 2000000 }
                 OR = {
-                    any_owned_province = { is_overseas = no }
+                    capital_scope = { is_overseas = no }
                     THIS = {
                         ai = no
                         naval_logistics = 1
@@ -3930,10 +3929,10 @@ demand_concession_casus_belli = {
             }
 
             AND = {
-                NOT = { total_pops = 2000000 }
+                NOT = { total_pops = 3000000 }
                 THIS = { machine_guns = 1 }
                 OR = {
-                    any_owned_province = { is_overseas = no }
+                    capital_scope = { is_overseas = no }
                     THIS = {
                         ai = no
                         naval_directionism = 1
@@ -3945,13 +3944,13 @@ demand_concession_casus_belli = {
                 }
             }
             AND = {
-                NOT = { total_pops = 3000000 }
+                NOT = { total_pops = 4000000 }
                 THIS = {
                     bolt_action_rifles = 1
                     army_risk_management = 1
                 }
                 OR = {
-                    any_owned_province = { is_overseas = no }
+                    capital_scope = { is_overseas = no }
                     THIS = {
                         ai = no
                         naval_integration = 1
@@ -3963,7 +3962,7 @@ demand_concession_casus_belli = {
                 }
             }
             AND = {
-                total_pops = 3000000
+                total_pops = 4000000
                 THIS = {
                     modern_divisional_structure = 1
                     army_nco_training = 1
@@ -6292,15 +6291,6 @@ establish_protectorate_casus_belli = {
         OR = {
             THIS = { ai = no }
             THIS = { war_policy = jingoism NOT = { government = democracy } }
-            NOT = {
-                THIS = {
-                    OR = {
-                        capital_scope = { continent = south_america }
-                        capital_scope = { continent = north_america }
-                        capital_scope = { continent = australia_new_zealand }
-                    }
-                }
-            }
         }
         OR = {
             war_with = THIS
@@ -6330,10 +6320,18 @@ establish_protectorate_casus_belli = {
         OR = {
             capital_scope = { continent = africa }
 
-            NOT = { total_pops = 500000 }
+            capital_scope = { continent = asia }
+
+            NOT = { tag = JAP }
+
+            NOT = { tag = EQG }
+
+            NOT = { tag = RNA }
+
+            NOT = { total_pops = 1500000 }
 
             AND = {
-                NOT = { total_pops = 1000000 }
+                NOT = { total_pops = 2000000 }
                 OR = {
                     capital_scope = { is_overseas = no }
                     THIS = {
@@ -6349,7 +6347,7 @@ establish_protectorate_casus_belli = {
             }
 
             AND = {
-                NOT = { total_pops = 2000000 }
+                NOT = { total_pops = 3000000 }
                 THIS = { machine_guns = 1 }
                 OR = {
                     capital_scope = { is_overseas = no }
@@ -6364,7 +6362,7 @@ establish_protectorate_casus_belli = {
                 }
             }
             AND = {
-                NOT = { total_pops = 3000000 }
+                NOT = { total_pops = 4000000 }
                 THIS = {
                     bolt_action_rifles = 1
                     army_risk_management = 1
@@ -6382,7 +6380,7 @@ establish_protectorate_casus_belli = {
                 }
             }
             AND = {
-                total_pops = 3000000
+                total_pops = 4000000
                 THIS = {
                     modern_divisional_structure = 1
                     army_nco_training = 1
@@ -6488,25 +6486,24 @@ establish_protectorate_NI_casus_belli = {
         OR = {
             THIS = { ai = no }
             THIS = { war_policy = jingoism NOT = { government = democracy } }
-            NOT = {
-                THIS = {
-                    OR = {
-                        capital_scope = { continent = south_america }
-                        capital_scope = { continent = north_america }
-                        capital_scope = { continent = australia_new_zealand }
-                    }
-                }
-            }
         }
 
         #Restrictions to non-African State conquering
         OR = {
             capital_scope = { continent = africa }
 
-            NOT = { total_pops = 500000 }
+            capital_scope = { continent = asia }
+
+            NOT = { tag = JAP }
+
+            NOT = { tag = EQG }
+
+            NOT = { tag = RNA }
+
+            NOT = { total_pops = 1500000 }
 
             AND = {
-                NOT = { total_pops = 1000000 }
+                NOT = { total_pops = 2000000 }
                 OR = {
                     capital_scope = { is_overseas = no }
                     THIS = {
@@ -6522,7 +6519,7 @@ establish_protectorate_NI_casus_belli = {
             }
 
             AND = {
-                NOT = { total_pops = 2000000 }
+                NOT = { total_pops = 3000000 }
                 THIS = { machine_guns = 1 }
                 OR = {
                     capital_scope = { is_overseas = no }
@@ -6537,7 +6534,7 @@ establish_protectorate_NI_casus_belli = {
                 }
             }
             AND = {
-                NOT = { total_pops = 3000000 }
+                NOT = { total_pops = 4000000 }
                 THIS = {
                     bolt_action_rifles = 1
                     army_risk_management = 1
@@ -6555,7 +6552,7 @@ establish_protectorate_NI_casus_belli = {
                 }
             }
             AND = {
-                total_pops = 3000000
+                total_pops = 4000000
                 THIS = {
                     modern_divisional_structure = 1
                     army_nco_training = 1
@@ -6662,25 +6659,24 @@ establish_protectorate_BC_casus_belli = {
         OR = {
             THIS = { ai = no }
             THIS = { war_policy = jingoism NOT = { government = democracy } }
-            NOT = {
-                THIS = {
-                    OR = {
-                        capital_scope = { continent = south_america }
-                        capital_scope = { continent = north_america }
-                        capital_scope = { continent = australia_new_zealand }
-                    }
-                }
-            }
         }
 
         #Restrictions to non-African State conquering
         OR = {
             capital_scope = { continent = africa }
 
-            NOT = { total_pops = 500000 }
+            capital_scope = { continent = asia }
+
+            NOT = { tag = JAP }
+
+            NOT = { tag = EQG }
+
+            NOT = { tag = RNA }
+
+            NOT = { total_pops = 1500000 }
 
             AND = {
-                NOT = { total_pops = 1000000 }
+                NOT = { total_pops = 2000000 }
                 OR = {
                     capital_scope = { is_overseas = no }
                     THIS = {
@@ -6696,7 +6692,7 @@ establish_protectorate_BC_casus_belli = {
             }
 
             AND = {
-                NOT = { total_pops = 2000000 }
+                NOT = { total_pops = 3000000 }
                 THIS = { machine_guns = 1 }
                 OR = {
                     capital_scope = { is_overseas = no }
@@ -6711,7 +6707,7 @@ establish_protectorate_BC_casus_belli = {
                 }
             }
             AND = {
-                NOT = { total_pops = 3000000 }
+                NOT = { total_pops = 4000000 }
                 THIS = {
                     bolt_action_rifles = 1
                     army_risk_management = 1
@@ -6729,7 +6725,7 @@ establish_protectorate_BC_casus_belli = {
                 }
             }
             AND = {
-                total_pops = 3000000
+                total_pops = 4000000
                 THIS = {
                     modern_divisional_structure = 1
                     army_nco_training = 1

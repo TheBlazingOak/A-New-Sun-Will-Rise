@@ -292,6 +292,49 @@
         size = 94250
     }
 }
+3361 = {
+    aristocrats = {
+        culture = cantan
+        religion = xifang
+        size = 1850
+    }
+
+    bureaucrats = {
+        culture = cantan
+        religion = xifang
+        size = 545
+    }
+
+    officers = {
+        culture = cantan
+        religion = xifang
+        size = 175
+    }
+
+    clergymen = {
+        culture = cantan
+        religion = xifang
+        size = 1750
+    }
+
+    artisans = {
+        culture = cantan
+        religion = xifang
+        size = 8200
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = xifang
+        size = 150
+    }
+
+    farmers = {
+        culture = cantan
+        religion = xifang
+        size = 129930
+    }
+}
 #Hainan (3424000/856000 POPS) #asian_minor = li
 1499 = {
     aristocrats = {

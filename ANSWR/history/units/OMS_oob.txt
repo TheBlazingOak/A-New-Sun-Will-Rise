@@ -1,0 +1,81 @@
+NET = { value = 0 }
+SWI = { value = 0 }
+UNS = { value = 0 }
+AUS = { value = 0 }
+BOH = { value = 0 }
+AST = { value = 0 }
+NEN = { value = 0 }
+
+army = {
+    name = "Omsk Home Gaurd"
+    location = 1064
+    regiment = {
+        name= "1.1 Infantry Brigade"
+        type = infantry
+        home = 1064
+    }
+
+    regiment = {
+        name= "1.2 Infantry Brigade"
+        type = infantry
+        home = 1064
+    }
+
+    regiment = {
+        name= "1.3 Infantry Brigade"
+        type = infantry
+        home = 1064
+    }
+
+    regiment = {
+        name= "1.4 Infantry Brigade"
+        type = infantry
+        home = 1064
+    }
+
+    regiment = {
+        name= "1.5 Infantry Brigade"
+        type = infantry
+        home = 1202
+    }
+
+    regiment = {
+        name= "1.6 Infantry Brigade"
+        type = infantry
+        home = 379
+    }
+
+    regiment = {
+        name= "1.1 Artillery Brigade"
+        type = artillery
+        home = 1066
+    }
+
+    regiment = {
+        name= "1.2 Artillery Brigade"
+        type = artillery
+        home = 396
+    }
+
+    regiment = {
+        name= "1.3 Artillery Brigade"
+        type = artillery
+        home = 2658
+    }
+
+    regiment = {
+        name= "1.4 Artillery Brigade"
+        type = artillery
+        home = 1181
+    }
+
+}
+
+leader = {
+    name = "Elaine IsCool"
+    type = land
+    date = 2820.1.1
+    background = rising_star
+    personality = skilled
+    prestige = 0.1
+    }

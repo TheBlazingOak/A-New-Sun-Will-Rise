@@ -17,13 +17,19 @@
     officers = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 250
+        size = 1250
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 600
+        size = 1600
+    }
+
+    artisans = {
+        culture = novosibiryaki
+        religion = veravburyu
+        size = 9250
     }
 
     artisans = {
@@ -35,13 +41,13 @@
     soldiers = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 3000
+        size = 6000
     }
 
     farmers = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 180325
+        size = 260325
     }
 
     craftsmen = {
@@ -74,7 +80,7 @@
     farmers = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 22700
+        size = 122700
     }
 }
 #Novo Usensk (340000/85000 POPS)
@@ -114,7 +120,7 @@
     aristocrats = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 1050
+        size = 2050
     }
 
     clergymen = {
@@ -126,7 +132,7 @@
     artisans = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 4650
+        size = 8650
     }
 
     soldiers = {
@@ -138,7 +144,7 @@
     farmers = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 54000
+        size = 124000
     }
 
 }
@@ -157,12 +163,12 @@
     artisans = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 4500
+        size = 8500
     }
     soldiers = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 5000
+        size = 6000
     }
     soldiers = {
         culture = novosibiryaki
@@ -172,7 +178,7 @@
     farmers = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 79000
+        size = 129000
     }
 }
 #Galich (304000/76000 POPS)
@@ -213,19 +219,19 @@
     aristocrats = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 650
+        size = 1650
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 200
+        size = 1200
     }
 
     artisans = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 750
+        size = 4750
     }
 
     soldiers = {
@@ -237,7 +243,7 @@
     farmers = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 32000
+        size = 92000
     }
 
 }
@@ -247,7 +253,7 @@
     aristocrats = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 50
+        size = 2050
     }
 
     clergymen = {
@@ -259,7 +265,7 @@
     artisans = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 4200
+        size = 5200
     }
 
     soldiers = {
@@ -271,7 +277,7 @@
     farmers = {
         culture = novosibiryaki
         religion = veravburyu
-        size = 76050
+        size = 176050
     }
 
 }
@@ -374,75 +380,6 @@
 }
 #Tomsk Region (1346700)
 #under the rule of Russia in 1836
-#Tomsk (814000/203500 POPS)
-1063 = {
-
-    aristocrats = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 700
-    }
-
-    officers = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 250
-    }
-
-    clergymen = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 2000
-    }
-
-    artisans = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 5000
-    }
-
-    soldiers = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 1000
-    }
-
-    farmers = {
-        culture = novosibiryaki
-        religion = veravburyu
-        size = 20000
-    }
-
-    clergymen = {
-        culture = tatar
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = tatar
-        religion = sunni
-        size = 150
-    }
-
-    soldiers = {
-        culture = tatar
-        religion = sunni
-        size = 25
-    }
-
-    farmers = {
-        culture = tatar
-        religion = sunni
-        size = 2775
-    }
-
-    farmers = {
-        culture = siberian
-        religion = animist
-        size = 700
-    }
-}
 #Slavgorod (60000/15000 POPS) => Kuznetsk
 2698 = {
     aristocrats = {

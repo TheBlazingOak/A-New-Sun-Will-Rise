@@ -1,7 +1,27 @@
+army = {
+    name = "New Pacifica Marines"
+    location = 1393
+    regiment = {
+        name= "I. Cavalry"
+        type = cavalry
+        home = 1393
+    }
 
+    regiment = {
+        name= "I. Infantry"
+        type = infantry
+        home = 1393
+    }
+
+    regiment = {
+        name = "II. Infantry"
+        type = infantry
+        home = 1393
+    }
+}
 navy = {
     name = "77th Fleet Patrol"
-    location = 3334
+    location = 1393
     ship = {
         name= "Arleigh Burke 12"
         type = frigate
@@ -31,4 +51,12 @@ leader = {
     date="2830.1.1"
     personality = clever
     background = nationalist
+}
+
+leader = {
+    name = "Alberto Dominguez"
+    type = land
+    date="2836.1.1"
+    personality = resolute
+    background = adventurer
 }

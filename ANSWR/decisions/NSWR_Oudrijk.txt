@@ -43,6 +43,78 @@ political_decisions = {
         }
     }
 
+    #Nieuwrijk Declaration
+    declare_the_nieuwrijk = {
+        picture = central_oudrijk
+
+        potential = {
+            tag = AUS
+            has_global_flag = redrawing_of_oudrijk
+            NOT = { exists = OUD }
+            NOT = { exists = NUR }
+        }
+
+        allow = {
+            has_global_flag = redrawing_of_oudrijk
+            war = no
+        }
+
+        effect = {
+            prestige = 20
+            change_tag = NUR
+            remove_country_modifier = oudrijk_prince
+            remove_country_modifier = oudrijk_kaizer 
+            add_country_modifier = {
+                        name = nieuwrijk_kaizer
+                        duration = -1
+                }
+            set_primary_culture = austro_german
+            add_accepted_culture = rhine_german
+            add_accepted_culture = south_german
+            inherit = WES
+            inherit = RHI
+            inherit = BAV
+            inherit = ULM
+            inherit = BAD
+            any_owned = { limit = { is_core = OUD} remove_core = OUD add_core = NUR}
+            FRA_412 = { remove_core = OUD add_core = NUR}
+        }
+    }
+
+    form_praha_federation = {
+        picture = form_czechoslovakia
+
+        potential = {
+            tag = BOH
+            has_global_flag = redrawing_of_oudrijk
+            NOT = { exists = OUD }
+            NOT = { exists = PRF }
+            NOT = { has_country_flag = praha_fed }
+        }
+
+        allow = {
+            prestige = 60
+            has_global_flag = redrawing_of_oudrijk
+            war = no
+        }
+
+        effect = {
+            prestige = 20
+            change_tag = PRF
+            remove_country_modifier = oudrijk_prince
+            remove_country_modifier = oudrijk_oppostion 
+            set_primary_culture = czech
+            add_accepted_culture = north_german
+            inherit = SAX
+            inherit = WEI
+            inherit = BRI
+            inherit = MEC
+            inherit = PZN
+            any_owned = { limit = { is_core = OUD} remove_core = OUD add_core = PRF}
+            set_country_flag = praha_fed
+        }
+    }
+
     alignment_in_the_oudrijk = {
         potential = {
         has_country_modifier = oudrijk_prince
@@ -137,13 +209,13 @@ political_decisions = {
         potential = {
             year = 2848
             tag = AUS
-            NOT = { set_global_flag = called_council_wien }
+            NOT = { has_global_flag = called_council_wien }
         }
         allow = {
-            prestige = 100
+            prestige = 80
         }
         effect = {
-            country_event = 222050
+            country_event = 222015
             set_global_flag = called_council_wien
         }
         ai_will_do = {
@@ -217,9 +289,11 @@ political_decisions = {
         factor = 1
         }
     }
+
     ### BOH Decisions ###
     renovate_the_black_palace = {
         potential = {
+            tag = BOH
             prestige = 75
             year = 2845
             NOT = { has_country_flag = black_palace }

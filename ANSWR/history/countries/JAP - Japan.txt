@@ -1,11 +1,11 @@
-capital = 1657
+capital = 1649
 primary_culture = japanese
 religion = mahayana
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.40
-prestige = 3
+prestige = 10
 
 # Political reforms
 slavery = no_slavery
@@ -41,8 +41,8 @@ ruling_party = JAP_reactionary
 upper_house = {
     fascist = 0
     liberal = 17
-    conservative = 35
-    reactionary = 48
+    conservative = 45
+    reactionary = 38
     anarcho_liberal = 0
     socialist = 0
     communist = 0
@@ -63,21 +63,11 @@ small_arms_production = yes
 ammunition_production = yes
 
 # Inventions
-#bottling_process = yes
 modern_winemaking = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
 
 # Starting Consciousness
-consciousness = 0
-nonstate_consciousness = 0
-
-oob = "JAP_oob.txt"
-2861.1.1 = {
-    oob = "/1861/JAP_oob.txt"
-}
-2861.1.1 = {
+consciousness = 3
+nonstate_consciousness = 1
 
 foreign_weapons = yes_foreign_weapons
 army_schools = yes_army_schools
@@ -93,5 +83,3 @@ post_nelsonian_thought = 1
 
 # Inventions
 #bottling_process = yes
-
-}

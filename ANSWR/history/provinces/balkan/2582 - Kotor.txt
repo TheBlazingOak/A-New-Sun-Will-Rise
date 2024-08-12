@@ -1,5 +1,6 @@
 owner = SER
-controller = SER
+add_core = DAK
 add_core = SER
+add_core = BAN
 trade_goods = fish
 life_rating = 35

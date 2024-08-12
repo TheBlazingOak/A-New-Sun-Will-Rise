@@ -1,7 +1,9 @@
-owner = TUS
-controller = TUS
+owner = APU
+controller = APU
+add_core = APU
+add_core = PRV
+add_core = SIC
 add_core = TUS
-add_core = CRS
+add_core = PAR
 trade_goods = fish
-life_rating = 34
-naval_base = 1
+life_rating = 35

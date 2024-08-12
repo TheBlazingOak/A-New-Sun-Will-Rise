@@ -1233,13 +1233,13 @@
     aristocrats = {
         culture = japanese
         religion = shinto
-        size = 8200
+        size = 4200
     }
 
     bureaucrats = {
         culture = japanese
         religion = shinto
-        size = 2550
+        size = 1550
     }
 
     officers = {
@@ -1269,12 +1269,6 @@
     artisans = {
         culture = japanese
         religion = shinto
-        size = 10000
-    }
-
-    artisans = {
-        culture = japanese
-        religion = shinto
         size = 7000
     }
 
@@ -1287,7 +1281,7 @@
     farmers = {
         culture = japanese
         religion = shinto
-        size = 310600
+        size = 210600
     }
 
     aristocrats = {
@@ -1311,7 +1305,7 @@
     farmers = {
         culture = japanese
         religion = shinto
-        size = 62000
+        size = 22000
     }
 }
 #Nara (1192000/298000 POPS)

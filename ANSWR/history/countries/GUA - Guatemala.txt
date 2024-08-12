@@ -49,5 +49,9 @@ upper_house = {
 
 land_reform = yes_land_reform
 admin_reform = yes_admin_reform
-foreign_naval_officers = yes_foreign_naval_officers
 naval_schools = yes_naval_schools
+foreign_weapons = yes_foreign_weapons
+military_constructions = yes_military_constructions
+education_reform = yes_education_reform
+land_reform = yes_land_reform
+admin_reform = yes_admin_reform

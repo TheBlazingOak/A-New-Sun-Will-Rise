@@ -1,6 +1,7 @@
 owner = HUN
 controller = HUN
 add_core = HUN
-trade_goods = grain
+add_core = GLC
+trade_goods = coal
 life_rating = 35
 2861.1.1 = { railroad = 3 }

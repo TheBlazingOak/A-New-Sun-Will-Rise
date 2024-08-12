@@ -357,6 +357,44 @@
 		size = 7966
 	 } 
 }
+#West Agusan
+3349 = {
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana 
+		size = 215405
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = xifang
+		size = 29757
+	 } 
+	farmers = {
+		culture = zhuang
+		religion =  mahayana 
+		size = 51500
+	 } 
+	farmers = {
+		culture = zhuang
+		religion = xifang
+		size = 38714
+	 } 
+	farmers = {
+		culture = miao
+		religion =  mahayana 
+		size = 25741
+	 } 
+	farmers = {
+		culture = miao
+		religion = xifang
+		size = 16638
+	 } 
+	farmers = {
+		culture = cantan
+		religion =  mahayana 
+		size = 55741
+	 } 
+}
 #Baoshan-Lincang (1233999/308500 POPS)
 3368 = {
 	officers = {

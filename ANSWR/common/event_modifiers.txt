@@ -519,6 +519,13 @@ population_resettlement = {
     icon = 19
 }
 
+russian_resettlement = {
+    immigrant_attract = 5
+    life_rating = 0.1
+    population_growth = 0.001
+    icon = 19
+}
+
 pearl_season = {
     local_RGO_output = -0.1
     icon = 11
@@ -1111,6 +1118,11 @@ small_baby_boom = {
 baby_boom = {
     population_growth = 0.005
     icon = 19
+}
+
+small_global_baby_boom = {
+    global_population_growth = 0.004
+    icon = 17
 }
 
 global_baby_boom = {
@@ -2583,13 +2595,13 @@ the_night_of_the_seventh_boh = {
 }
 
 quest_for_washington = {
-    prestige = .02
-    icon = 19
+    icon = 15
+    prestige = 0.02
 }
 
 dutch_dijkes = {
-    population_growth = 0.0001
     icon = 19
+    population_growth = 0.0004 
 }
 
 adzinoki_propaganda = {
@@ -2601,9 +2613,9 @@ adzinoki_propaganda = {
 }
 
 groot_kouderstad_harbour = {
-    local_ship_build = -0.25
-    local_repair = 0.25
-    immigrant_attract = 0.25
+    local_ship_build = -0.5
+    local_repair = 0.5
+    global_immigrant_attract = 0.35
     rich_income_modifier = 0.10
     middle_income_modifier = 0.05
     poor_income_modifier = 0.05
@@ -2629,12 +2641,85 @@ oudrijk_kaizer = {
     icon = 7
     prestige = 0.05
     ruling_party_support = 0.20
-    immigrant_attract = 0.25
 }
+
+oudrijk_kaizer_victory = {
+    icon = 7
+    prestige = 0.10
+    ruling_party_support = 0.25
+}
+
 oudrijk_oppostion = {
     icon = 7
     prestige = 0.02
     ruling_party_support = 0.10
+}
+#OUDRIJK CHAIN END MODIFIERS#
+
+nieuwrijk_kaizer = {
+    icon = 7
+    prestige = 0.10
+    ruling_party_support = 0.25
+}
+
+cislav_pacifism = {
+    icon = 7
+    
+    army_tech_research_bonus = -0.2
+    culture_tech_research_bonus = 0.10
+    industry_tech_research_bonus = 0.10
+    factory_input = -0.15
+}
+
+cislav_nationalism = {
+    icon = 7
+    prestige = 0.05
+    ruling_party_support = 0.25
+    research_points_modifier = 0.05
+    global_assimilation_rate = 0.05
+    global_population_growth = 0.002
+}
+
+cislav_jingoism = {
+    prestige = -0.05
+    org_regain = 0.1
+    land_organisation = 0.05
+    mobilisation_economy_impact = -0.12
+    land_unit_start_experience = 2.5
+    supply_consumption = -0.05
+    mobilisation_size = 0.02
+    leadership_modifier = 0.25
+    icon = 15
+}
+fernost_pacifism = {
+    icon = 7
+    army_tech_research_bonus = -0.15
+    culture_tech_research_bonus = 0.05
+    industry_tech_research_bonus = 0.05
+    navy_tech_research_bonus = 0.15
+    factory_input = -0.10
+}
+
+fernost_expansionism = {
+    icon = 7
+    prestige = 0.05
+    ruling_party_support = 0.25
+    research_points_modifier = 0.05
+    global_assimilation_rate = 0.05
+    global_population_growth = 0.002
+    navy_tech_research_bonus = 0.15
+}
+
+fernost_jingoism = {
+    prestige = -0.05
+    org_regain = 0.1
+    land_organisation = 0.05
+    mobilisation_economy_impact = -0.12
+    land_unit_start_experience = 2.5
+    supply_consumption = -0.05
+    mobilisation_size = 0.02
+    leadership_modifier = 0.25
+    icon = 15
 }
 
 #KAAP#
@@ -2689,4 +2774,58 @@ kaapstad_volk = {
     local_factory_output = 0.25
     population_growth = 0.001
     immigrant_attract = 1.0
+}
+kaaper_education_reform = {
+    icon = 7
+    education_efficiency_modifier = 0.75
+    literacy_con_impact = 0.1
+    research_points_modifier = 0.02
+}
+###Underground Cities###
+#Complex
+underground_complex = {
+    icon = 20
+    local_rgo_output = 0.12
+    local_RGO_throughput = 0.12
+    mine_rgo_size = 0.1
+    assimilation_rate = -.1
+    poor_life_needs = 0.02
+}
+#Towns
+underground_settlement = {
+    icon = 20
+    local_rgo_output = 0.25
+    local_RGO_throughput = 0.25
+    mine_rgo_size = 0.5
+    assimilation_rate = -.2
+    poor_life_needs = 0.05
+}
+#City
+underground_city = {
+    icon = 20
+    local_rgo_output = 0.5
+    local_RGO_throughput = 0.5
+    mine_rgo_size = 1
+    assimilation_rate = -0.35
+    administrative_efficiency_modifier = -.2
+    poor_life_needs = 0.1
+}
+#Metro
+underground_metro = {
+    icon = 20
+    local_rgo_output = 1.0
+    local_RGO_throughput = 1.0
+    mine_rgo_size = 2
+    assimilation_rate = -0.5
+    poor_life_needs = 0.25
+}
+##Siberia##
+siberian_unifier = {
+    icon = 15
+    prestige = 0.10
+    global_immigrant_attract = 0.75
+    assimilation_rate = 0.5
+    farm_rgo_size = 1
+    mine_rgo_size = 1
+    leadership_modifier = 0.05
 }

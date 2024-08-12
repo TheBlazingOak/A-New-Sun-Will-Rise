@@ -1,6 +1,6 @@
 owner = MCK
 controller = MCK
-
+add_core = VLD
 add_core = MCK
 trade_goods = timber
 life_rating = 32

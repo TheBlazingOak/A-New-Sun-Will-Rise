@@ -1,5 +1,8 @@
 owner = APU
 controller = APU
+add_core = PAR
+add_core = SIC
+add_core = TUS
 add_core = APU
 trade_goods = cotton
 life_rating = 37

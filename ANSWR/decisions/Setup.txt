@@ -26,14 +26,14 @@ political_decisions = {
             ai = no
             has_country_flag = country_looking_through_options
             NOT = { year = 2837 }
-            NOT = { has_global_flag = unlock_crisis_in_1870 }
+            NOT = { has_global_flag = unlock_crisis_in_2870 }
         }
 
         allow = {
         }
 
         effect = {
-            set_global_flag = unlock_crisis_in_1870
+            set_global_flag = unlock_crisis_in_2870
         }
         ai_will_do = { factor = 0 }
     }
@@ -62,7 +62,7 @@ political_decisions = {
                 AND = {
                     ai = yes
                     year = 2870
-                    has_global_flag = unlock_crisis_in_1870
+                    has_global_flag = unlock_crisis_in_2870
                     OR = {
                         revolution_n_counterrevolution = 1
                         any_neighbor_country = { revolution_n_counterrevolution = 1 }
@@ -2730,5 +2730,28 @@ NET_setup_1836 = {
             any_country = { limit = { exists = yes } set_country_flag = existing_country }
         }
         ai_will_do = { factor = 1 }
-}
+    }
+    #ANSWR Metro Community Setup
+    MOW_2836_setup = {
+        picture = constantinople
+        potential = {
+            tag = MOW
+            NOT = { has_country_flag = { metro_systems } }
+        }
+
+        allow = {
+            tag = MOW
+        }
+
+        effect = {
+        1008 = { add_province_modifier = { name = underground_metro duration = -1 } }
+        706 = { add_province_modifier = { name = underground_city duration = -1 } }
+        487 = { add_province_modifier = { name = underground_metro duration = -1 } }
+        300 = { add_province_modifier = { name = underground_metro duration = -1 } }
+        232 = { add_province_modifier = { name = underground_metro duration = -1 } }
+        1650 = { add_province_modifier = { name = underground_metro duration = -1 } }
+        set_country_flag = { metro_systems }
+    }
+    ai_will_do = { factor = 1 }
+    }
 }

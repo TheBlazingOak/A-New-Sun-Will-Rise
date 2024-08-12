@@ -1,0 +1,25 @@
+leader = {
+    name = "Ranko Pavlovic"
+    type = land
+    date="2836.1.1"
+    personality = deeply_religious
+    background = bootlicker
+}
+
+army = {
+    name = "1st Banat Army"
+    location = 652
+    regiment = {
+        name= "1st Banat Infantry"
+        type = infantry
+        home = 652
+    }
+
+    regiment = {
+        name= "2nd Banat Infantry"
+        type = infantry
+        home = 794
+    }
+
+
+}

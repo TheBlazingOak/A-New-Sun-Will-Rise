@@ -1,6 +1,6 @@
 owner = NET
 controller = NET
 add_core = NET
-trade_goods = cattle
+trade_goods = timber
 life_rating = 35
-2861.1.1 = { railroad = 1 }
+railroad = 1

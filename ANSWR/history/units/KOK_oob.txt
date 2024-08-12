@@ -4,7 +4,7 @@ KAZ = {
 
 army = {
     name = "Kokand Army"
-    location = 1202
+    location = 1189
     regiment = {
         name= "1st Brigade"
         type = irregular
@@ -38,7 +38,7 @@ army = {
 
 army = {
     name = "2nd Army of The Khanate of Kokand"
-    location = 1202
+    location = 1203
     regiment = {
         name= "5th Brigade"
         type = irregular

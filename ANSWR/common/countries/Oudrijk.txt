@@ -1,7 +1,7 @@
-color = { 77 76 99 }
-hms_government = { 15 15 87 }
-absolute_monarchy = { 15 15 87 }
-prussian_constitutionalism = { 15 15 87 }
+color = { 77 76 127 }
+hms_government = { 77 76 99 }
+absolute_monarchy = { 77 76 99 }
+prussian_constitutionalism = { 77 76 99 }
 graphical_culture = PrussianGC
 
 

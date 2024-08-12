@@ -1,13 +1,10 @@
 capital = 1808
-primary_culture = songhai
-culture = tuareg
-culture = gur
-culture = dyula
-religion = sunni
+primary_culture = senufo
+religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.07
 non_state_culture_literacy = 0.01
 
 # Political reforms

@@ -24,6 +24,98 @@ political_decisions = {
             }
         }
     }
+    form_romania ={
+        potential = {
+            is_culture_group = pan_romanian
+            ROM = { exists = no }
+        }
+        allow = {
+            war = no
+            nationalism_n_imperialism = 1
+            ROM = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                            OR = {
+                            in_sphere = THIS
+                            is_vassal = YES
+                            }
+                        }
+                    }
+                }
+            }
+        }
 
+        effect = {
+            prestige = 10
+            change_tag = ROM
+            all_core = {
+            remove_core = CRV
+            remove_core = WAL
+            remove_core = MDV
+            remove_core = MOL
+            remove_core = BKV
+            remove_core = SIE
+            remove_core = DEV
+            }
+            random_country = {
+                limit = {
+                    tag = WAL
+                    exists = yes
+                    ai = yes
+                }
+                THIS = { inherit = WAL }
+            }
+            random_country = {
+                limit = {
+                    tag = CRV
+                    exists = yes
+                    ai = yes
+                }
+                THIS = { inherit = CRV }
+            }
+            random_country = {
+                limit = {
+                    tag = MDV
+                    exists = yes
+                    ai = yes
+                }
+                THIS = { inherit = MDV }
+            }
+            random_country = {
+                limit = {
+                    tag = MOL
+                    exists = yes
+                    ai = yes
+                }
+                THIS = { inherit = MOL }
+            }
+            random_country = {
+                limit = {
+                    tag = DEV
+                    exists = yes
+                    ai = yes
+                }
+                THIS = { inherit = DEV }
+            }
+            random_country = {
+                limit = {
+                    tag = SIE
+                    exists = yes
+                    ai = yes
+                }
+                THIS = { inherit = SIE }
+            }
+            random_country = {
+                limit = {
+                    tag = BKV
+                    exists = yes
+                    ai = yes
+                }
+                THIS = { inherit = BKV }
+            }
+        }
+    }
 #Political Decisons Bracket
 }

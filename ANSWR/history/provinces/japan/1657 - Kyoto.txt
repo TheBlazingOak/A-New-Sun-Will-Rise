@@ -1,7 +1,7 @@
-owner = NIH
-controller = NIH
-add_core = NIH
+owner = JAP
+controller = JAP
+add_core = JAP
 terrain = ruined_city
-trade_goods = fruit
-life_rating = 35
+trade_goods = iron
+life_rating = 31
 fort = 1

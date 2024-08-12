@@ -1,6 +1,9 @@
 owner = TUS
 controller = TUS
+add_core = PAR
+add_core = SIC
 add_core = TUS
+add_core = APU
 trade_goods = fruit
 life_rating = 39
 state_building = {

@@ -61,25 +61,51 @@
     artisans = {
         culture = akan
         religion = animist
-        size = 600
+        size = 5600
     }
 
     soldiers = {
         culture = akan
         religion = animist
-        size = 125
+        size = 3125
     }
 
     farmers = {
         culture = akan
         religion = animist
-        size = 8925
+        size = 118925
     }
-
-    slaves = {
+}
+#Grand Bassam (88000/22000 POPS)
+1894 = {
+    aristocrats = {
         culture = akan
         religion = animist
-        size = 2000
+        size = 1425
+    }
+
+    clergymen = {
+        culture = akan
+        religion = animist
+        size = 225
+    }
+
+    artisans = {
+        culture = akan
+        religion = animist
+        size = 9100
+    }
+
+    soldiers = {
+        culture = akan
+        religion = animist
+        size = 3225
+    }
+
+    farmers = {
+        culture = akan
+        religion = animist
+        size = 216025
     }
 }
 #Sekondi (88000/22000 POPS) #Dutch Tradepost in 1836
@@ -129,13 +155,7 @@
     farmers = {
         culture = akan
         religion = animist
-        size = 16025
-    }
-
-    slaves = {
-        culture = akan
-        religion = animist
-        size = 4000
+        size = 86025
     }
 }
 #Asante Region (2404000)
@@ -184,22 +204,10 @@
         size = 3000
     }
 
-    soldiers = {
-        culture = akan
-        religion = animist
-        size = 1000
-    }
-
     farmers = {
         culture = akan
         religion = animist
-        size = 214775
-    }
-
-    slaves = {
-        culture = akan
-        religion = animist
-        size = 38500
+        size = 254775
     }
 }
 #Kintampo (520000/130000 POPS)

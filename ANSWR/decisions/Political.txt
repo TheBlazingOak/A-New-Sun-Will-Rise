@@ -1111,11 +1111,6 @@ political_decisions = {
         picture = budapest_city
         potential = {
             OR = {
-                794 = { #Belgrade
-                    owned_by = THIS
-                    is_capital = yes
-                    NOT = { life_rating = 38 }
-                }
                 664 = { #Bucharest
                     owned_by = THIS
                     is_capital = yes
@@ -1222,7 +1217,6 @@ political_decisions = {
                     NOT = { life_rating = 38 }
                     owned_by = THIS
                     OR = {
-                        province_id = 794
                         province_id = 664
                         province_id = 2583
                         province_id = 834

@@ -1,6 +1,6 @@
-owner = NIN
-controller = NIN
-add_core = NIN
-add_core = PHL
-trade_goods = fish
+owner = VLD
+controller = VLD
+add_core = MCK
+add_core = VLD
+trade_goods = coal
 life_rating = 35

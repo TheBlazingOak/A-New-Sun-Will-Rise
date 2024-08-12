@@ -1,5 +1,6 @@
 owner = DIX
 controller = DIX
+add_core = CRA
 add_core = DIX
 add_core = TAM
 add_core = CSA

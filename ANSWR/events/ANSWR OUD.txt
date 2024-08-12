@@ -14,14 +14,7 @@ country_event = {
                     has_country_modifier = oudrijk_prince
                     in_sphere = THIS
                     }
-                set_country_flag = oudrijk_centralization
-                }
-        any_country = {
-                limit = {
-                    NOT = { is_culture_group = germanic }
-                    has_country_modifier = oudrijk_prince
-                    }
-                country_event = { id = 222003 days = 1 }
+                country_event = 222001
                 }
     }
 }
@@ -33,72 +26,13 @@ country_event = {
     picture = "Celebration"
     is_triggered_only = yes
 
-    mean_time_to_happen = {
-		days = 14
-		}
-
     option = {
     	name = "EVTOPTA222001"
     	THIS = { all_core = { add_core = OUD } }
     	all_core = { remove_core = THIS }
     	OUD = { inherit = THIS }
-    	clr_country_flag = oudrijk_centralization
     	}
-        option = {
-    	name = "EVTOPTB222001" #Refusal
-    	prestige = 25
-    	any_pop = { 
-    	limit = {
-    	is_primary_culture = yes
-    	is_accepted_culture = yes
-    	}
-    	militancy = 1
-    	}
-    	clr_country_flag = oudrijk_centralization
-    	FROM = { country_event = { id = 222002 days = 0 } }
-    	ai_chance = {
-            factor = 5
-            modifier = {
-                factor = 5
-                relation = { who = FROM value = -200 }
-            }
-            modifier = {
-                factor = 3
-                relation = { who = FROM value = -150 }
-            }
-            modifier = {
-                factor = 2
-                relation = { who = FROM value = -100 }
-            }
-        }
-    }
 }
-country_event = {
-	id = 222002
-	title = "EVTNAME222002"
-    desc = "EVTDESC222002"
-    picture = "Celebration"
-    is_triggered_only = yes
-
-    option = {
-    	name = "EVTOPTA222002" #The $COUNTRY_ADJ$ refused!
-    	remove_country_modifier = oudrijk_prince
-    	}
-    }
-
-#Non-Germanic Oudrijk members
-country_event = {
-    id = 222003
-    title = "EVTNAME222003"
-    desc = "EVTDESC222003"
-    picture = "Celebration"
-    is_triggered_only = yes
-
-    option = {
-        name = "EVTOPTA222003" #Time to look to other pastures
-        remove_country_modifier = oudrijk_prince
-        }
-    }
 
 ######################
 ### OUDRIJK EVENTS ###
@@ -285,6 +219,7 @@ country_event = {
         has_country_modifier = oudrijk_prince
         year = 2840
         TAG = BOH
+        NOT = { has_country_flag = boh_rijkskomst_of_2840 }
     }
 
     option = {
@@ -325,7 +260,7 @@ country_event = {
     picture = bad_badboy
     is_triggered_only = yes
 
-    #Walk out on the Rijkskomst
+    #Request Council
     option = {
     name = "EVTOPTA222011"
         prestige = 5
@@ -335,30 +270,30 @@ country_event = {
             has_country_modifier = oudrijk_prince
             has_country_flag = rijkskomst_of_2840
             }
-            country_event = 222012
+            country_event = 222013
         }
         relation = {
         who = AUS
         value = -100
         }
-        consciousness = 1
-        AUS = { militancy = 1 }
+        consciousness = 2
+        AUS = { militancy = 2 }
         set_global_flag = walked_out_on_rijkskomst
         ai_chance = {
-            factor = 75
+            factor = 70
         }
     }
     #Denounce Fernost proposal
     option = {
     name = "EVTOPTB222011"
-        prestige = 10
+        prestige = 1
         any_country ={
             limit = { 
             exists = yes
             has_country_modifier = oudrijk_prince
             has_country_flag = rijkskomst_of_2840
             }
-            country_event = 222012
+            country_event = 222014
         }
         relation = {
         who = AUS
@@ -371,19 +306,105 @@ country_event = {
             factor = 25
         }
     }
+    option = {
+    name = "EVTOPTC222011"
+        prestige = -10
+        relation = {
+        who = AUS
+        value = 150
+        }
+        any_country = {
+            limit = {
+            in_sphere = BOH
+            AND = { OR = {primary_culture = austro_german primary_culture = rhine_german primary_culture = north_german primary_culture = south_german} }
+            }
+            country_event = 52120
+        }
+        OUD = {
+            any_core = {
+                limit = { owned_by = BOH}
+                remove_core = OUD
+            }
+        }
+        remove_country_flag = oudrijk_prince
+
+        militancy = -5
+        AUS = { consciousness = -5 
+            country_event = 222012
+            }
+        set_global_flag = accepted_van_gesegnet_proposal
+        ai_chance = {
+            factor = 5
+        }
+    }
+}
+#Cislavet Accepts
+country_event = {
+    id = 222012
+    title = "EVTNAME222012"
+    desc = "EVTDESC222012"
+    picture = bad_badboy
+    is_triggered_only = yes
+    option = {
+        name = "EVTOPTA222012"
+        prestige = 10
+        create_alliance = BOH
+    }
+}
+#Fernost reacts to council request
+country_event = {
+    id = 222013
+    title = "EVTNAME222013"
+    desc = "EVTDESC222013"
+    is_triggered_only = yes
+    option = {
+        name = "EVTOPTA222013"
+        set_country_flag = council_wein_request
+    }
+}
+#Fernost reacts to denouncing of proposal
+country_event = {
+    id = 222014
+    title = "EVTNAME222014"
+    desc = "EVTDESC222014"
+    is_triggered_only = yes
+    #War is the only option
+    option = {
+    name = "EVTOPTA222014"
+        
+    }
+}
+#Oudrijk Accept
+country_event = {
+
+    id = 52120
+    title = "EVTNAME52120" #Bohemia signs away the opposition pact
+    desc = "EVTDESC52120"
+    is_triggered_only = yes
+    fire_once_only = yes
+
+    option = {
+        name = "EVT52020OPTA" #We have no choice
+        AUS = {
+        create_vassal = THIS
+        }
+    }
 }
 
 #Calling the Council of Wien - AUS
 country_event = {
-    id = 222050
-    title = "EVTNAME222050"
-    desc = "EVTDESC222050"
+    id = 222015
+    title = "EVTNAME222015"
+    desc = "EVTDESC222015"
     picture = autocracy
-    is_triggered_only = yes
-
+    trigger = {
+        tag= AUS
+        AND = {OR = { has_country_flag = council_wein_request} }
+    }
+    mean_time_to_happen = { months = 48 }
     option = {
-    name = "EVTOPTA222050"
-        BOH = { country_event = 222051 }
+    name = "EVTOPTA222015"
+        BOH = { country_event = 222016 }
         any_country = {
             has_country_modifier = oudrijk_prince
         }
@@ -392,30 +413,411 @@ country_event = {
 
 #Reaction to the Council of Wien - BOH
 country_event = {
-    id = 222051
-    title = "EVTNAME222051"
-    desc = "EVTDESC222051"
+    id = 222016
+    title = "EVTNAME222016"
+    desc = "EVTDESC222016"
     picture = autocracy
     is_triggered_only = yes
 
     #Ask for the redrawing of the Oudrijk
     option = {
-    name = "EVTOPTA222051"
-        
-    }
-
-    #Propose the union of the van Kampioens, and van Gesegnets
-    option = {
-    name = "EVTOPTB222051"
-        
+    name = "EVTOPTA222016"
+        prestige = 5
+        set_global_flag = redrawing_of_oudrijk
+        relation = {
+            who = AUS
+            value = 200
+        }
+        ai_chance = { chance = 25 modifier = { factor = 4 relation = { who = AUS value = 25 } } }
     }
 
     #Refuse to appear at the Council of Wien
+    option = {
+    name = "EVTOPTC222016"
+        prestige = 10
+        relation = {
+            who = AUS
+            value = -200
+        }
+        set_global_flag = refused_council_of_wien
+        ai_chance = { chance = 75 modifier = { factor = 0.25 relation = { who = AUS value = 25 } } }
+    }
     
 }
-##Not Finished Repurcussions and War of the Seventh
+#Redrawing of the Oudrijk - Fernost
+country_event = {
+    id = 222017
+    title = "EVTNAME222017"
+    desc = "EVTDESC222017"
+    picture = autocracy
+    meantime_to_happen = { days = 14 }
+    trigger = {
+        has_global_flag = redrawing_of_borders_council_of_wien
+        tag = AUS
+        NOT = { has_global_flag = redrawing_of_oudrijk }
+    }
+    #Fernost Accepts, ending conflict
+    option = {
+    name = "EVTOPTA222017"
+        set_global_flag = redrawing_of_oudrijk
+        any_country = {
+            limit = { 
+            OR = { primary_culture = rhine_german primary_culture = south_german}
+            }
+            country_event = 222018
+        }
+    }
 
+    #Fernost Refuses starting war of seventh
+    option = {
+    name = "EVTOPTB222017"
+        set_global_flag = austria_refused_redrawing
+    }
+}
+#German Minors join Nieuwrijk
+country_event = {
+    id = 222018
+    title = "EVTNAME222018"
+    desc = "EVTDESC222018"
+    picture = night_of_seventh
+    is_triggered_only = yes
+    #Annexation
+    option = {
+        name = "EVTOPTA222052"
+        AUS = {
+            inherit = THIS
+        }
+    }
+}
+#Proposal union - Fernost
 
+###War of the Seventh###
+country_event = {
+    id = 222052
+    title = "EVTNAME222052"
+    desc = "EVTDESC222052"
+    picture = night_of_seventh
+    trigger = {
+        OR = { has_global_flag = refused_council_of_wien has_global_flag = austria_refused_redrawing }
+        tag = AUS
+        NOT = {has_global_flag = night_of_the_seventh}
+    }
+    mean_time_to_happen = { months = 6 }
+    #It's too late to back down
+    option = {
+        name = "EVTOPTA222052"
+        badboy = 5
+        war = {
+            target = BOH
+            attacker_goal = { casus_belli = unification_GP_humiliate }
+            defender_goal = { casus_belli = unification_GP_humiliate }
+            call_ally = yes
+        }
+        add_country_modifier = {
+            name = the_night_of_the_seventh_aus
+            duration = 730
+        }
+        set_global_flag = night_of_the_seventh
+    }
+}
+#Bohemia Response to Night of Seventh
+country_event = {
+    id = 222053
+    title = "EVTNAME222053"
+    desc = "EVTDESC222053"
+    major = yes
+    trigger = {
+        has_global_flag = night_of_the_seventh
+        tag = BOH
+        NOT = {has_country_flag = night_of_the_seventh}
+    }
+
+    mean_time_to_happen = {
+        days = 7
+        }
+    #Never forget! To Arms!
+    option = {
+        name = "EVTOPTA222053"
+        prestige = -25
+        badboy = -5
+        plurality = 10
+        consciousness = 2
+        militancy = -3
+        625 = { reduce_pop = .95 }
+        add_country_modifier = {
+            name = the_night_of_the_seventh_boh
+            duration = 1825
+        }
+        set_country_flag = night_of_the_seventh
+    }
+}
+#War of the Seventh Repurcussions
+#Fernost Victory
+country_event ={
+    id = 222054
+    title = "EVTNAME222054"
+    desc = "EVTDESC222054"
+    major = yes
+    trigger = {
+        has_global_flag = night_of_the_seventh
+        tag = AUS
+        625 = { NOT = { controlled_by = BOH } }
+        NOT = { has_global_flag = aus_won_war_of_the_seventh }
+        NOT = { OUD = { exists = yes } }
+    }
+    option = {
+        name = "EVTOPTA222054"
+        change_tag = OUD
+        end_war = AUS
+        prestige = 25
+        BOH = { all_core = { remove_core = OUD } }
+        BOH = { set_country_flag = lost_war_of_the_seventh }
+        inherit = WES
+        inherit = RHI
+        inherit = BAV
+        inherit = ULM
+        inherit = BAD
+        inherit = SAX
+        inherit = WEI
+        inherit = BRI
+        inherit = MEC
+        inherit = PZN
+        all_core = {
+        remove_core = WES
+        remove_core = RHI
+        remove_core = BAV
+        remove_core = ULM
+        remove_core = BAD
+        remove_core = SAX
+        remove_core = WEI
+        remove_core = BRI
+        remove_core = MEC
+        remove_core = PZN
+        remove_core = AUS
+        }
+        HAN_534 = { add_core = OUD }
+        HAN_528 = { add_core = OUD }
+        remove_country_modifier = oudrijk_prince
+        remove_country_modifier = oudrijk_kaizer
+        add_country_modifier = {
+                name = oudrijk_kaizer_victory
+                duration = -1
+            }
+        set_global_flag = aus_won_war_of_the_seventh
+    }
+}
+#Cislav Vengance
+country_event ={
+    id = 222055
+    title = "EVTNAME222055"
+    desc = "EVTDESC222055"
+    trigger = {
+        tag = BOH
+        has_global_flag = aus_won_war_of_the_seventh
+        NOT = { OR ={ has_country_flag = elb_revenge has_country_flag = looking_east has_country_flag = looking_inward } }
+    }
+    mean_time_to_happen = { months = 12 }
+    #Elb Revenge
+    option = {
+        name = "EVTOPTA222055"
+            prestige = -30
+            set_country_flag = elb_revenge
+            SAX_558 = { add_core = BOH }
+            PRU_554 = { add_core = BOH }
+            PRU_553 = { add_core = BOH }
+            PRU_549 = { add_core = BOH }
+            PRU_701 = { add_core = BOH }
+            PRU_546 = { add_core = BOH }
+            HAN_530 = { add_core = BOH }
+            PRU_682 = { add_core = OUD }
+            PRU_682 = { add_core = POL }
+            militancy = 3
+            add_accepted_culture = north_german
+            remove_country_modifier = oudrijk_opposition
+            remove_country_modifier = oudrijk_prince
+            add_country_modifier = {
+                name = cislav_jingoism
+                duration = -1
+            }
+            ai_chance = { chance = 5 }
+        }
+    #Looking East (Trihoribratia path)
+    option = {
+        name = "EVTOPTB222055"
+            prestige = -20
+            set_country_flag = looking_east
+            AUS_633 = { add_core = BOH }
+            NIT_637 = { add_core = BOH }
+            NIT_714 = { add_core = BOH }
+            PRU_682 = { add_core = OUD }
+            PRU_682 = { add_core = POL }
+            add_accepted_culture = slovak
+            remove_country_modifier = oudrijk_opposition
+            remove_country_modifier = oudrijk_prince
+            add_country_modifier = {
+                name = cislav_slavism
+                duration = -1
+            }
+            ai_chance = { chance = 75 }
+        }
+    #Look Inwards
+    option = {
+        name = "EVTOPTC222055"
+            prestige = -20
+            set_country_flag = looking_inward
+            add_country_modifier = {name = global_baby_boom duration = 1825}
+            626 = { trade_goods = sulphur }
+            632 = { trade_goods = sulphur }
+            2584 = { trade_goods = iron }
+            703 = { trade_goods = iron }
+            PRU_682 = { add_core = OUD }
+            PRU_682 = { add_core = POL }
+            add_country_modifier = {
+                name = cislav_pacifism
+                duration = -1
+            }
+            dominant_issue = {
+                value = pacifism
+                factor = 0.25
+                }
+            nationalvalue = productivity
+            remove_country_modifier = oudrijk_opposition
+            remove_country_modifier = oudrijk_prince
+            ai_chance = { chance = 20 }
+        }
+}
+#Cislav Victory
+country_event ={
+    id = 222057
+    title = "EVTNAME222057"
+    desc = "EVTDESC222057"
+    major = yes
+    trigger = {
+        has_global_flag = night_of_the_seventh
+        622 = { NOT = { controlled_by = AUS } }
+        tag = BOH
+        AUS = { has_recently_lost_war = yes}
+        NOT = { has_global_flag = boh_won_war_of_the_seventh }
+        NOT = { OUD = {exists = yes} }
+    }
+    option = {
+        name = "EVTOPTA222057"
+        change_tag = OUD
+        end_war = AUS
+        prestige = 25
+        AUS = { all_core = { remove_core = OUD } }
+        AUS = { set_country_flag = lost_war_of_the_seventh }
+        inherit = WES
+        inherit = RHI
+        inherit = BAV
+        inherit = ULM
+        inherit = BAD
+        inherit = SAX
+        inherit = WEI
+        inherit = BRI
+        inherit = MEC
+        inherit = PZN
+        all_core = {
+        remove_core = WES
+        remove_core = RHI
+        remove_core = BAV
+        remove_core = ULM
+        remove_core = BAD
+        remove_core = SAX
+        remove_core = WEI
+        remove_core = BRI
+        remove_core = MEC
+        remove_core = PZN
+        remove_core = AUS
+        }
+        HAN_534 = { add_core = OUD }
+        HAN_528 = { add_core = OUD }
+        remove_country_modifier = oudrijk_prince
+        remove_country_modifier = oudrijk_oppostion
+        add_country_modifier = {
+                name = oudrijk_kaizer_victory
+                duration = -1
+            }
+        set_global_flag = boh_won_war_of_the_seventh
+    }
+}
+#Fernost Vengance
+country_event ={
+    id = 222058
+    title = "EVTNAME222058"
+    desc = "EVTDESC222058"
+    trigger = {
+        tag = AUS
+        has_global_flag = boh_won_war_of_the_seventh
+        NOT = { OR ={ has_country_flag = southern_revenge has_country_flag = looking_east has_country_flag = looking_inward } }
+    }
+    mean_time_to_happen = { months = 12 }
+    #Southern Revenge
+    option = {
+        name = "EVTOPTA222058"
+            prestige = -30
+            set_country_flag = southern_revenge
+            BAV_599 = { add_core = AUS }
+            BAV_595 = { add_core = AUS }
+            WUR_589 = { add_core = AUS }
+            BAD_586 = { add_core = AUS }
+            militancy = 3
+            add_accepted_culture = south_german
+            remove_country_modifier = oudrijk_kaizer
+            remove_country_modifier = oudrijk_prince
+            add_country_modifier = {
+                name = fernost_jingoism
+                duration = -1
+            }
+            ai_chance = { chance = 10 }
+        }
+    #Looking East (Eastern Expansionism)
+    option = {
+        name = "EVTOPTB222058"
+            prestige = -20
+            set_country_flag = looking_east
+            AUS_633 = { add_core = AUS }
+            NIT_637 = { add_core = AUS }
+            NIT_714 = { add_core = AUS }
+            AUS_623 = { add_core = AUS }
+            AUS_641 = { add_core = AUS }
+            add_accepted_culture = staromadar
+            remove_country_modifier = oudrijk_kaizer
+            remove_country_modifier = oudrijk_prince
+            add_country_modifier = {
+                name = fernost_expansionism
+                duration = -1
+            }
+            ai_chance = { chance = 75 }
+        }
+    #Look Inwards
+    option = {
+        name = "EVTOPTC222055"
+            prestige = -20
+            set_country_flag = looking_inward
+            add_country_modifier = {name = global_baby_boom duration = 1825}
+            613 = { trade_goods = sulphur }
+            632 = { trade_goods = sulphur }
+            735 = { trade_goods = iron }
+            734 = { trade_goods = coal }
+            AUS_736 = { add_core = AUS }
+            AUS_771 = { add_core = AUS }
+            AUS_780 = { add_core = AUS }
+            add_accepted_culture = slovene
+            add_country_modifier = {
+                name = fernost_pacifism
+                duration = -1
+            }
+            dominant_issue = {
+                value = pacifism
+                factor = 0.25
+                }
+            nationalvalue = productivity
+            remove_country_modifier = oudrijk_kaizer
+            remove_country_modifier = oudrijk_prince
+            ai_chance = { chance = 15 }
+        }
+}
 ## OUDRIJK FLAVOR EVENTS ##
 ### Province Events ###
 #Protests for Kaizer

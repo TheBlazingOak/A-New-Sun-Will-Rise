@@ -5,6 +5,12 @@ ASH = {
     influence_value = 25
 }
 
+PAR = {
+    value = 25        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
 army = {
     name = "Landwehr I"
     location = 603
@@ -252,6 +258,26 @@ navy = {
 
     ship = {
         name= "Zurich"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Chur"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Bregenz"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Lugano"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Lucerne"
         type = clipper_transport
     }
 }

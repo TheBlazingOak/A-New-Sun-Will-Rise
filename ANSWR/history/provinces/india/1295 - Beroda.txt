@@ -2,5 +2,5 @@ owner = SHI
 controller = SHI
 add_core = SHI
 add_core = HND
-trade_goods = fish
+trade_goods = wool
 life_rating = 32

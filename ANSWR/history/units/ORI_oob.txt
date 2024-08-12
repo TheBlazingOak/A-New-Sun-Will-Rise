@@ -1,22 +1,60 @@
 army = {
-    name = "Army of Orissa "
-    location = 1262
+    name = "Army of Bombay"
+    location = 1297
     regiment = {
-        name= "1.Balangir Contingent"
+        name= "1. Irregular Contingent"
         type = irregular
-        home = 1262
+        home = 1297
     }
 
     regiment = {
-        name= "2.Balangir Contingent"
+        name= "2. Irregular Contingent"
         type = irregular
-        home = 1262
+        home = 1297
     }
 
     regiment = {
-        name= "3.Balangir Contingent"
+        name= "3. Irregular Contingent"
         type = irregular
-        home = 1263
+        home = 1299
     }
 
+    regiment = {
+        name= "4. Irregular Contingent"
+        type = irregular
+        home = 1300
+    }
+
+    regiment = {
+        name= "5. Irregular Contingent"
+        type = irregular
+        home = 1301
+    }
+
+    regiment = {
+        name= "6. Irregular Contingent"
+        type = irregular
+        home = 1297
+    }
+
+    regiment = {
+        name= "7. Irregular Contingent"
+        type = irregular
+        home = 1297
+    }
+
+    regiment = {
+        name= "8. Irregular Contingent"
+        type = irregular
+        home = 1297
+    }
+
+}
+leader = {
+    name = "Ayush Kayal"
+    date = 2836.1.1
+    type = land
+    personality = resolute
+    background = school_of_the_bayonet
+    prestige = 0.2
 }

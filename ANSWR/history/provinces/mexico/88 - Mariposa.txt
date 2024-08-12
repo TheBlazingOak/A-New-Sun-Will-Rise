@@ -1,6 +1,7 @@
 owner = LOS
 controller = LOS
 add_core = LOS
+add_core = CAL
 trade_goods = fruit
 terrain = new_world_semidesert
 life_rating = 31

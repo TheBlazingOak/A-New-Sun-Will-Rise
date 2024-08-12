@@ -40,3 +40,9 @@ alliance = {
     start_date = 2836.1.1 #1386.9.5
     end_date = 2845.1.1
 }
+alliance = {
+    first = SHI
+    second = ORI
+    start_date = 2830.1.1
+    end_date = 2845.5.1
+}

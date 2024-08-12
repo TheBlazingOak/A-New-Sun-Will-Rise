@@ -704,7 +704,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 82500
+        size = 20500
     }
 
     artisans = {
@@ -1579,7 +1579,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 12000
+        size = 4000
     }
 
     artisans = {
@@ -1629,7 +1629,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 12000
+        size = 4000
     }
 
     soldiers = {
@@ -1756,19 +1756,19 @@
     capitalists = {
         culture = english
         religion = protestant
-        size = 2500
+        size = 1500
     }
 
     clerks = {
         culture = english
         religion = protestant
-        size = 12000
+        size = 4000
     }
 
     craftsmen = {
         culture = english
         religion = protestant
-        size = 116000
+        size = 25000
     }
 
     artisans = {

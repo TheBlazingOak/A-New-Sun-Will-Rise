@@ -1,0 +1,103 @@
+NEN = { value = -200 }
+DIX = { value = -75 }
+PAW = { value = -150 }
+CRA = { value = -75 }
+TEX = { value = -50 }
+ANM = { value = -200 }
+army = {
+    name = "The Army of Rust"
+    location = 159
+    regiment = {
+        name= "I. Cavalry"
+        type = cavalry
+        home = 163
+    }
+
+    regiment = {
+        name= "I. Infantry"
+        type = infantry
+        home = 163
+    }
+
+    regiment = {
+        name = "II. Infantry"
+        type = infantry
+        home = 163
+    }
+
+    regiment = {
+        name = "III. Infantry"
+        type = infantry
+        home = 169
+    }
+
+    regiment = {
+        name = "I. Artillery"
+        type = artillery
+        home = 169
+    }
+
+    regiment = {
+        name = "II. Artillery"
+        type = artillery
+        home = 163
+    }
+}
+army = {
+    name = "Louisville Garrison"
+    location = 184
+    regiment = {
+        name= "I. Infantry"
+        type = infantry
+        home = 182
+    }
+
+    regiment = {
+        name = "II. Infantry"
+        type = infantry
+        home = 184
+    }
+}
+navy = {
+    name = "Fleet of Rust"
+    location = 159
+    ship = {
+        name= "The Milwaukee"
+        type = manowar
+    }
+    ship = {
+        name= "1. Clipper Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name= "2. Clipper Transport"
+        type = clipper_transport
+    }
+}
+
+leader = {
+    name = "Ottis Mertle"
+    date = 2836.1.1
+    type = land
+    personality = spirited
+    background = disgraced
+    prestige = 0.10
+}
+
+leader = {
+    name = "Jessie Hoyt"
+    date = 2836.1.1
+    type = land
+    personality = confident
+    background = amateur
+    prestige = 0.05
+}
+
+leader = {
+    name = "Spencer James"
+    date = 2836.1.1
+    type = sea
+    personality = strange
+    background = aristocrat
+    prestige = 0.05
+}

@@ -1,9 +1,11 @@
 owner = CRA
 controller = CRA
 add_core = CRA
+add_core = DIX
 add_core = CSA
-trade_goods = cotton
-life_rating = 35
+trade_goods = iron
+life_rating = 31
+terrain = ruined_city
 
 party_loyalty = {
     ideology = conservative

@@ -8,7 +8,7 @@ literacy = 0.54
 civilized = yes
 is_releasable_vassal = no
 
-prestige = 30
+prestige = 50
 
 # Political reforms
 slavery = no_slavery
@@ -37,7 +37,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
+set_country_flag = syndic_country
 
 ruling_party = HAE_conservative
 upper_house = {
@@ -52,6 +52,7 @@ upper_house = {
 
 set_country_flag = new_world_nation
 
+oob = "HAE_oob.txt"
 
 # Technologies
 post_napoleonic_thought = 1

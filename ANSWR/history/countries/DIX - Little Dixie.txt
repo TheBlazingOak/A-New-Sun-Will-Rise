@@ -8,6 +8,8 @@ nationalvalue = nv_liberty
 literacy = 0.25
 civilized = yes
 
+prestige = 4
+
 set_country_flag = new_world_nation
 
 # Technologies
@@ -78,3 +80,5 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+oob = "DIX_oob.txt"

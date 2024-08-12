@@ -75,6 +75,13 @@ mechanical_production = 1
 hot_blast = 1
 basic_chemistry = 1
 
+oob = "EQG_oob.txt"
+foreign_naval_officers = yes_foreign_naval_officers
+naval_schools = yes_naval_schools
+foreign_navies = yes_foreign_navies
+western_shipyards = yes_western_shipyards
+foreign_weapons = yes_foreign_weapons
+
 #Inventions
 
 # Starting Consciousness

@@ -1,6 +1,7 @@
 owner = BAN
 controller = BAN
-add_core = BAN
+add_core = DAK
 add_core = SER
-trade_goods = grain
+add_core = BAN
+trade_goods = fruit
 life_rating = 35

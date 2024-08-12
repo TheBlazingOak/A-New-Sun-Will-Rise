@@ -1,9 +1,10 @@
 owner = DPA
 controller = DPA
 add_core = DPA
+add_core = PRP
 add_core = FRE
 trade_goods = cotton
-life_rating = 31
+life_rating = 35
 state_building = {
     level = 1
     building = fabric_factory

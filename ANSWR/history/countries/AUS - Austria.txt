@@ -1,6 +1,6 @@
-capital = 619
+capital = 622
 primary_culture = austro_german
-religion = catholic
+religion = ketronant
 government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_autocracy
@@ -8,7 +8,7 @@ literacy = 0.5
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 40
+prestige = 120
 
 # Political reforms
 slavery = no_slavery

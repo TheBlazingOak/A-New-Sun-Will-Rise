@@ -1,0 +1,167 @@
+#Siberian Events
+#Siberian Dominance
+country_event = {
+    id = 52399
+    title = "EVTNAME52401"
+    desc = "EVTDESC52401"
+    major = yes
+    trigger = {
+    	RUS_1064 = { owned_by = THIS}
+    	RUS_389 = { owned_by = THIS}
+    	SIB_394 = { owned_by = THIS}
+    	tag = URA
+    	NOT = { has_country_modifier = siberian_unifier }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { months = 6 }
+
+    option = {
+        name = "EVT52401OPTA" #Yes
+        prestige = 10
+        all_core = { remove_core = SIB }
+        all_core = { remove_core = OMS }
+        URA = { add_country_modifier = { name = siberian_unifier duration = -1} }
+        URA = { add_country_modifier = { name = small_global_baby_boom duration = 1825 } }
+        }
+}
+country_event = {
+    id = 52400
+    title = "EVTNAME52401"
+    desc = "EVTDESC52401"
+    major = yes
+    trigger = {
+    	RUS_1064 = { owned_by = THIS}
+    	RUS_389 = { owned_by = THIS}
+    	SIB_394 = { owned_by = THIS}
+    	tag = SIB
+    	NOT = { has_country_modifier = siberian_unifier }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { months = 6 }
+
+    option = {
+        name = "EVT52401OPTA" #Yes
+        prestige = 10
+        all_core = { remove_core = URA }
+        all_core = { remove_core = OMS }
+        SIB = { add_country_modifier = { name = siberian_unifier duration = -1} }
+        SIB = { add_country_modifier = { name = small_global_baby_boom duration = 1825 } }
+        }
+}
+country_event = {
+    id = 52401
+    title = "EVTNAME52401"
+    desc = "EVTDESC52401"
+    major = yes
+    trigger = {
+    	RUS_1064 = { owned_by = THIS}
+    	RUS_389 = { owned_by = THIS}
+    	SIB_394 = { owned_by = THIS}
+    	tag = OMS
+    	NOT = { has_country_modifier = siberian_unifier }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { months = 6 }
+
+    option = {
+        name = "EVT52401OPTA" #Yes
+        prestige = 10
+        all_core = { remove_core = URA }
+        all_core = { remove_core = SIB }
+        OMS = { add_country_modifier = { name = siberian_unifier duration = -1 } }
+        OMS = { add_country_modifier = { name = small_global_baby_boom duration = 1825 } }
+        }
+}
+#Setjer Incident
+country_event = {
+    id = 52402
+    title = "EVTNAME52402"
+    desc = "EVTDESC52402"
+    trigger = {
+    	has_country_modifier = siberian_unifier
+    	exists = yes
+    	NOT = { has_country_flag = setjer_incident }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { months = 12 }
+
+    option = {
+        name = "EVT52402OPTA"
+        war = {
+			target = STR
+			attacker_goal = { casus_belli = conquest }
+			defender_goal = { casus_belli = status_quo }
+			call_ally = no
+		}
+		RUS_1041 = { add_core = THIS }
+        RUS_1194 = { add_core = THIS }
+        RUS_1182 = { add_core = THIS }
+        set_country_flag = setjer_incident
+		ai_chance = {
+        chance = 100
+        }
+    }
+    option = {
+        name = "EVT52402OPTB"
+        prestige = -10
+        RUS_1041 = { add_core = THIS}
+        RUS_1194 = { add_core = THIS}
+        RUS_1182 = { add_core = THIS}
+        set_country_flag = setjer_incident
+        ai_chance = {
+        chance = 0
+        }
+    }
+}
+#Moscow Conquered
+country_event = {
+    id = 52403
+    title = "EVTNAME52403"
+    desc = "EVTDESC52403"
+    trigger = {
+    	has_country_modifier = siberian_unifier
+    	exists = yes
+    	1008 = { owned_by = THIS }
+    	NOT = { has_country_flag = moscow_conquered }
+    }
+
+    fire_only_once = yes
+    mean_time_to_happen = { days = 30 }
+
+    #Civilization has been brought back to Moscow
+    option = {
+        name = "EVT52403OPTA"
+        1008 = { add_province_modifier = { name = underground_metro duration = -1 } }
+        RUS_981 = { add_core = THIS }
+        RUS_1003 = { add_core = THIS } 
+        RUS_977 = { add_core = THIS }
+        RUS_981 = { add_core = THIS }
+        RUS_943 = { add_core = THIS }
+        992 = { secede_province = THIS }
+        998 = { secede_province = THIS }
+        1000 = { secede_province = THIS }
+        1014 = { secede_province = THIS }
+        1015 = { secede_province = THIS }
+        943 = { secede_province = THIS }
+        1016 = { secede_province = THIS }
+        1017 = { secede_province = THIS }
+        1019 = { secede_province = THIS }
+        992 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+        998 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+        1000 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+        1014 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+        1015 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+        943 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+        1016 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+        1017 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+        1019 = { add_province_modifier = { name = russian_resettlement duration = 7300 } }
+    }
+}

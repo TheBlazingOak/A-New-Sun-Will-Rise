@@ -1,0 +1,91 @@
+NEN = { value = -200 }
+DIX = { value = -175 }
+PAW = { value = -150 }
+RSB = { value = -25 }
+TEX = { value = -50 }
+
+army = {
+    name = "Asheville Garrison"
+    location = 2556
+    regiment = {
+        name= "I. Cavalry"
+        type = cavalry
+        home = 2556
+    }
+
+    regiment = {
+        name= "I. Infantry"
+        type = infantry
+        home = 2566
+    }
+
+    regiment = {
+        name = "II. Infantry"
+        type = infantry
+        home = 2566
+    }
+
+    regiment = {
+        name = "III. Infantry"
+        type = infantry
+        home = 206
+    }
+}
+army = {
+    name = "Norfolk Garrison"
+    location = 214
+    regiment = {
+        name= "I. Infantry"
+        type = infantry
+        home = 206
+    }
+
+    regiment = {
+        name = "II. Infantry"
+        type = infantry
+        home = 214
+    }
+}
+navy = {
+    name = "Norfolk Fleet"
+    location = 214
+    ship = {
+        name= "The Asheville"
+        type = manowar
+    }
+    ship = {
+        name= "1. Clipper Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name= "2. Clipper Transport"
+        type = clipper_transport
+    }
+}
+
+leader = {
+    name = "Ottis Mertle"
+    date = 2836.1.1
+    type = land
+    personality = spirited
+    background = disgraced
+    prestige = 0.10
+}
+
+leader = {
+    name = "Jessie Hoyt"
+    date = 2836.1.1
+    type = land
+    personality = confident
+    background = amateur
+    prestige = 0.05
+}
+
+leader = {
+    name = "Spencer James"
+    date = 2836.1.1
+    type = sea
+    personality = strange
+    background = aristocrat
+    prestige = 0.05
+}

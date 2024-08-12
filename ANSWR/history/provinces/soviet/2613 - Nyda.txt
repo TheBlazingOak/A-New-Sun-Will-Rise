@@ -1,6 +1,7 @@
 owner = SIB
 controller = SIB
+add_core = OMS
 add_core = SIB
-trade_goods = timber
-terrain = boreal
-life_rating = 20
+add_core = URA
+trade_goods = fish
+life_rating = 32

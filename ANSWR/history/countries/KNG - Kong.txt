@@ -1,13 +1,10 @@
 capital = 1898
-primary_culture = dyula
-culture = senufo
-culture = mande
-culture = western_nigritic
-religion = sunni
+primary_culture = mande
+religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.04
 non_state_culture_literacy = 0.01
 
 # Political reforms
@@ -49,7 +46,7 @@ upper_house = {
 }
 
 set_country_flag = lacking_writing_system
-set_country_flag = sunni_country
+set_country_flag = animist_country
 
 # Technologies
 

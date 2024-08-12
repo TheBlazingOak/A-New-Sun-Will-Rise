@@ -1,9 +1,9 @@
-owner = MCK
-controller = MCK
-
+owner = VLD
+controller = VLD
 add_core = MCK
+add_core = VLD
 trade_goods = coal
-life_rating = 32
+life_rating = 40
 2861.1.1 = {
     owner = RUS
     controller = RUS

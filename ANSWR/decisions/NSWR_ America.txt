@@ -5,13 +5,11 @@ political_decisions = {
 	picture = map_new_brunswick
 		potential = {
 			exists = MRU
-			primary_culture = yankee
-			OR = { primary_culture = french_canadian }
-			OR = { primary_culture = anglo_canadian }
+			OR = { primary_culture = yankee primary_culture = french_canadian primary_culture = anglo_canadian }
 			}
 
 		allow = {
-			relation = { who = MRU value = 200 }
+			relation = { who = MRU value = 150 }
 			prestige = 25
 			}
 
@@ -25,16 +23,16 @@ political_decisions = {
 	dc_excavation = {
 		potential = {
 		is_culture_group = american_cultures
-		NOT = { has_country_modifier = quest_for_washington 
-			OR = { has_global_flag = quest_for_washington }
+		NOT = {  
+			has_global_flag = quest_for_washington
 			}
 		}
 
 		allow = {
+				prestige = 35
+			OR = {
 				prestige = 50
 				2146 = { owned_by = THIS }
-			OR = {
-				prestige = 65
 				2146 ={
 					owner = { in_sphere = THIS }
 					}
@@ -45,9 +43,70 @@ political_decisions = {
 			prestige = 10
 			add_country_modifier = {
 			name = quest_for_washington
-			duration = 3650
+			duration = 730
 			}
 			set_global_flag = quest_for_washington
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	#The Eastern Seaboard Formable
+	the_eastern_seaboard = {
+	picture = manifest_destiny
+		potential = {
+		is_culture_group = american_cultures
+		has_global_flag = quest_for_washington
+		prestige = 20
+		NOT = { exists = ESS }
+		}
+
+		allow = {
+			prestige = 75
+			nationalism_n_imperialism = 1
+			OR = { is_greater_power = yes
+			year = 2870
+			}
+			}
+
+		effect = {
+			prestige = 10
+			change_tag = ESS
+			add_accepted_culture = yankee
+			add_accepted_culture = dixie
+        	USA_219 = { add_core = ESS }
+        	USA_231 = { add_core = ESS }
+        	USA_2556 = { add_core = ESS }
+        	USA_201 = { add_core = ESS }
+        	USA_196 = { add_core = ESS }
+        	USA_139 = { add_core = ESS }
+        	USA_144 = { add_core = ESS }
+        	USA_188 = { add_core = ESS }
+        	USA_185 = { add_core = ESS }
+        	USA_178 = { add_core = ESS }
+        	USA_232 = { add_core = ESS }
+        	USA_243 = { add_core = ESS }
+        	USA_247 = { add_core = ESS }
+        	USA_211 = { add_core = ESS }
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	#CSA Formable
+	a_bigger_dixie = {
+	picture = manifest_destiny
+		potential = {
+		primary_culture = dixie
+		NOT = { exists = CSA }
+		}
+
+		allow = {
+			202 = {owned_by = THIS}
+			201 = {owned_by = THIS}
+			}
+
+		effect = {
+			prestige = 10
+			change_tag = CSA
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -76,14 +135,13 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 
-	#Build Statue of Liberity
+	#Build Statue of Liberty
 	construction_on_the_lady = {
 		potential = {
 		   	is_culture_group = american_cultures
 			owns = 232 #New York
 			has_country_flag = statue_plans_discovered
 				NOT = { has_global_flag = statue_of_liberty_has_been_built 
-				OR = { has_country_flag = statue_liberty_fail }
 				}
 			}
 
@@ -96,16 +154,46 @@ political_decisions = {
 
 		effect = {
 			treasury = -500000
-			set_country_flag = statue_final_step 
+			232 = { add_province_modifier = { name = the_statue_of_liberty duration = -1} }
+			set_global_flag = statue_of_liberty_has_been_built 
 			}
 		ai_will_do = { factor = 1 }
 	}
+california_formable = {
+    	picture = USA_annex_california
+		potential = {
+			OR = {
+				tag = LOS
+				tag = CAL
+			}
+			NOT = {
+				GCL = { exists = yes }
+				}
+			}
 
+		allow = {
+			prestige = 5
+			war = no
+			LOS_89 = { owned_by = THIS }
+			MEX_85 = { owned_by = THIS }
+        }
+
+		effect = {
+            prestige = 5
+            change_tag = GCL
+            LOS_89 = { remove_core = LOS remove_core = CAL }
+			MEX_85 = { remove_core = LOS remove_core = CAL }
+            USA_78 = {add_core = GCL}
+            CAN_13 = {add_core = GCL}
+            USA_1 = {add_core = GCL}
+            MEX_100 = {add_core = GCL}
+        }
+        ai_will_do = { factor = 1 }    
+    }
 cascadia_amazona_core = {
     	picture = USA_annex_california
 		potential = {
 			tag = COL
-			exists = AMA
 			NOT = {
 			has_country_flag = amazona_conquest
 				}
@@ -124,7 +212,31 @@ cascadia_amazona_core = {
         }
         ai_will_do = { factor = 1 }    
     }
+cascadia_california_core = {
+    	picture = USA_annex_california
+		potential = {
+			tag = COL
+			has_country_flag = amazona_conquest
+			NOT = {
+				has_country_flag = pacifica_conquest
+				}
+			}
 
+		allow = {
+			prestige = 10
+			war = no
+        }
+
+		effect = {
+            prestige = 5
+            LOS_89 = { add_core = COL }
+			MEX_85 = { add_core = COL }
+			USA_1 = { add_core = COL }
+			MEX_100 = {add_core = COL }
+			set_country_flag = pacifica_conquest
+        }
+        ai_will_do = { factor = 1 }    
+    }
 transpacifica_unification = {
 		potential = {
 			is_culture_group = pacific_cultures
@@ -146,7 +258,8 @@ transpacifica_unification = {
 				AND = { AMA = { vassal_of = THIS } 104 = { owned_by = AMA } }
 				AND = { COL = { vassal_of = THIS } 104 = { owned_by = COL } }
 				AND = { LSK = { vassal_of = THIS } 104 = { owned_by = LSK } }
-				AND = { ARI = { vassal_of = THIS } 104 = { owned_by = ARI } } 
+				AND = { ARI = { vassal_of = THIS } 104 = { owned_by = ARI } }
+				AND = { GCL = { vassal_of = THIS } 104 = { owned_by = GCL } } 
 			}
 			OR = { 
 				84 =  { owned_by = THIS }
@@ -157,6 +270,7 @@ transpacifica_unification = {
 				AND = { COL = { vassal_of = THIS } 84 = { owned_by = COL } }
 				AND = { LSK = { vassal_of = THIS } 84 = { owned_by = LSK } }
 				AND = { ARI = { vassal_of = THIS } 84 = { owned_by = ARI } }
+				AND = { GCL = { vassal_of = THIS } 84 = { owned_by = GCL } }
 			}
 			OR = { 
 				89 = { owned_by = THIS }
@@ -167,16 +281,18 @@ transpacifica_unification = {
 				AND = { COL = { vassal_of = THIS } 89 = { owned_by = COL } }
 				AND = { LSK = { vassal_of = THIS } 89 = { owned_by = LSK } }
 				AND = { ARI = { vassal_of = THIS } 89 = { owned_by = ARI } }
+				AND = { GCL = { vassal_of = THIS } 89 = { owned_by = GCL } }
 			}
 			OR = { 
 				1 = { owned_by = THIS }
-				AND = { SFA = { vassal_of = THIS } 89 = { owned_by = SFA } }
-				AND = { CAL = { vassal_of = THIS } 89 = { owned_by = CAL } }
-				AND = { LOS = { vassal_of = THIS } 89 = { owned_by = LOS } } 
-				AND = { AMA = { vassal_of = THIS } 89 = { owned_by = AMA } }
-				AND = { COL = { vassal_of = THIS } 89 = { owned_by = COL } }
-				AND = { LSK = { vassal_of = THIS } 89 = { owned_by = LSK } }
-				AND = { ARI = { vassal_of = THIS } 89 = { owned_by = ARI } }
+				AND = { SFA = { vassal_of = THIS } 1 = { owned_by = SFA } }
+				AND = { CAL = { vassal_of = THIS } 1 = { owned_by = CAL } }
+				AND = { LOS = { vassal_of = THIS } 1 = { owned_by = LOS } } 
+				AND = { AMA = { vassal_of = THIS } 1 = { owned_by = AMA } }
+				AND = { COL = { vassal_of = THIS } 1 = { owned_by = COL } }
+				AND = { LSK = { vassal_of = THIS } 1 = { owned_by = LSK } }
+				AND = { ARI = { vassal_of = THIS } 1 = { owned_by = ARI } }
+				AND = { GCL = { vassal_of = THIS } 1 = { owned_by = GCL } }
 			}
 			OR = { 
 				78 = { owned_by = THIS }
@@ -187,6 +303,7 @@ transpacifica_unification = {
 				AND = { COL = { vassal_of = THIS } 78 = { owned_by = COL } }
 				AND = { LSK = { vassal_of = THIS } 78 = { owned_by = LSK } }
 				AND = { ARI = { vassal_of = THIS } 78 = { owned_by = ARI } }
+				AND = { GCL = { vassal_of = THIS } 78 = { owned_by = GCL } }
 			}
 			OR = { 
 				13 = { owned_by = THIS }
@@ -197,6 +314,7 @@ transpacifica_unification = {
 				AND = { COL = { vassal_of = THIS } 13 = { owned_by = COL } }
 				AND = { LSK = { vassal_of = THIS } 13 = { owned_by = LSK } }
 				AND = { ARI = { vassal_of = THIS } 13 = { owned_by = ARI } }
+				AND = { GCL = { vassal_of = THIS } 13 = { owned_by = GCL } }
 			}
 			}
 			NOT = {
@@ -207,17 +325,14 @@ transpacifica_unification = {
 		effect = {
             prestige = 15
             all_core = { add_core = TRP }
-            all_core = { remove_core = COL }
-            all_core = { remove_core = LOS }
-            all_core = { remove_core = SFA }
-            all_core = { remove_core = CAL }
-            all_core = { remove_core = LSK }
+            all_core = { remove_core = THIS }
             all_core = { remove_core = AMA }
             change_tag = TRP
             any_country = {
             	limit = {
 	            	is_culture_group = pacific_cultures
 	            	NOT = { tag = THIS}
+	            	NOT = { tag = SBI}
             	}
             	country_event = 52104
             }
@@ -475,6 +590,45 @@ transpacifica_unification = {
 			MEX_97 = { add_core = THIS }
 			add_accepted_culture = mormon
 			set_country_flag = peacefully_annexed_the_mormons
+		}
+    }
+    #Death to the St. Lawerance New England
+    death_to_st_lawerance_bos = {
+    	picture = guantanamo_bay
+    	potential = {
+	    	year = 2840
+	    	tag = NEN
+	    	NOT = {has_country_flag = death_to_st_lawerance}
+    	}
+
+    	allow = {
+    		prestige = 25
+    	}
+    	effect ={
+    		239 = {add_core = NEN}
+    		66 = {add_core = NEN}
+    		236 = {add_core = NEN}
+    		set_country_flag = death_to_st_lawerance
+		}
+    }
+    #Death to the St. Lawerance Ontario
+    death_to_st_lawerance_ont = {
+    	picture = guantanamo_bay
+    	potential = {
+	    	year = 2840
+	    	tag = ONT
+	    	NOT = {has_country_flag = death_to_st_lawerance}
+    	}
+
+    	allow = {
+    		prestige = 10
+    	}
+    	effect ={
+    		46 = {add_core = ONT}
+    		55 = {add_core = ONT}
+    		54 = {add_core = ONT}
+    		53 = {add_core = ONT}
+    		set_country_flag = death_to_st_lawerance
 		}
     }
 #End of political_decisions brackets	

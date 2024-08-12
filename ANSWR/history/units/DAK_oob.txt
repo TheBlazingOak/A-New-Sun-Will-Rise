@@ -1,0 +1,25 @@
+leader = {
+    name = "Stanoje Pajic"
+    type = land
+    date="2836.1.1"
+    personality = skilled
+    background = cartographer
+}
+
+army = {
+    name = "Army of the Count of Srednji"
+    location = 777
+    regiment = {
+        name= "1st Srednji Infantry"
+        type = infantry
+        home = 777
+    }
+
+    regiment = {
+        name= "2nd Srednji Infantry"
+        type = infantry
+        home = 2538
+    }
+
+
+}

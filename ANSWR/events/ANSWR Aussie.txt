@@ -1,0 +1,115 @@
+#Death of Emperor Albert in Australia
+country_event = {
+
+    id = 52300
+    title = "EVTNAME52300" #Istoslavia wants us to join them
+    desc = "EVTDESC52300"
+    picture = "big_parade"
+    trigger = {
+        tag = HAE
+        year = 2837
+        NOT = { has_global_flag = death_of_king_albert }
+    }
+
+    mean_time_to_happen = { months = 12 }
+
+    option = {
+        name = "EVT52300OPTA" #Plan the funeral
+        prestige = -5
+        set_global_flag = death_of_king_albert
+    }
+}
+#Emperor Issac the I
+country_event = {
+    id = 52301
+    title = "EVTNAME52301" #Annexation of the Australian lords
+    desc = "EVTDESC52301"
+    major = yes
+    trigger = {
+        tag = HAE
+        has_global_flag = death_of_king_albert
+        NOT = { has_country_flag = the_new_hae }
+    }
+
+    mean_time_to_happen = { months = 12 }
+
+    option = {
+        name = "EVT52301OPTA" #Yes
+        prestige = 10
+        inherit = BLZ
+        inherit = WAG
+        inherit = TRE
+        inherit = VEN
+        inherit = ION
+        inherit = TTB
+        inherit = UNB
+        inherit = UIL
+        inherit = UNM
+        inherit = AUG
+        inherit = PRI
+        inherit = RPL
+        inherit = FRM
+        inherit = UOR
+        inherit = FSA
+        set_country_flag = the_new_hae
+        any_owned = {
+            limit = {
+                OR = {
+                    is_core = BLZ
+                    is_core = WAG
+                    is_core = TRE
+                    is_core = VEN
+                    is_core = ION
+                    is_core = TTB
+                    is_core = UNB
+                    is_core = UIL
+                    is_core = UNM
+                    is_core = AUG
+                    is_core = PRI
+                    is_core = RPL
+                    is_core = FRM
+                    is_core = UOR
+                    is_core = FSA
+                }
+            }
+            add_core = HAE
+        }
+        any_pop = {
+            limit = {
+                is_primary_culture = no
+            }
+            consciousness = 8.0
+            militancy = 10.0
+        }
+        any_pop = {
+            limit = {
+                is_primary_culture = yes
+            }
+            consciousness = 3.0
+            militancy = 4.0
+        }
+    }
+}
+
+#Eastern Australia Claim
+country_event = {
+    id = 52302
+    title = "EVTNAME52302" #Annexation of the Australian lords
+    desc = "EVTDESC52302"
+    picture = conquest_of_the_desert
+    trigger = {
+        has_country_flag = the_new_hae
+        NOT = { has_country_flag = the_eastern_conquest }
+    }
+
+    mean_time_to_happen = { months = 24 }
+
+    option = {
+        name = "EVT52302OPTA"
+        set_country_flag = the_eastern_conquest
+        AST_2500 = { add_core = HAE }
+        ENG_2497 = { add_core = HAE }
+        AST_2501 = { add_core = HAE }
+        ENG_2505 = { add_core = HAE }
+    }
+}

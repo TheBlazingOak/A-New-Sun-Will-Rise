@@ -431,7 +431,7 @@ categories =  {
         color = { 120 120 25 }
         defence = 2
 
-        mine_rgo_size = 1.0
+        mine_rgo_size = 3.0
         mine_rgo_eff = 0.50
         supply_limit = 6
         attrition = 2

@@ -1,6 +1,7 @@
 owner = EZO
 controller = EZO
 add_core = EZO
+add_core = VLD
 trade_goods = coal
 life_rating = 35
 2861.1.1 = {

@@ -1,10 +1,9 @@
 #Sphere of Influence
 #GPs
-SWI = { value = -125 }
-UNS = { value = -75 }
-AUS = { value = -150 }
-BOH = { value = 200 }
-AST = { value = 0 }
+NEN = { value = -200 }
+CRA = { value = -175 }
+PAW = { value = 50 }
+RSB = { value = -125 }
 #Minors Europe
 SCO = { value = 25 }
 WES = {
@@ -42,7 +41,7 @@ army = {
     regiment = {
         name= "I. Cavalerie Brigade"
         type = hussar
-        home = 375
+        home = 400
     }
 
     regiment = {
@@ -78,7 +77,7 @@ army = {
     regiment = {
         name = "III. Infanterie Brigade"
         type = infantry
-        home = 377
+        home = 382
     }
 
     regiment = {
@@ -228,8 +227,42 @@ army = {
     }
 }
 
+army = {
+    name = "Indiase Leger"
+    location = 1303
+    regiment = {
+        name= "I. Cavalerie Brigade"
+        type = hussar
+        home = 3350
+    }
+
+    regiment = {
+        name= "I. Artillerie Brigade"
+        type = artillery
+        home = 1897
+    }
+
+    regiment = {
+        name = "I. Infanterie Brigade"
+        type = infantry
+        home = 1893
+    }
+
+    regiment = {
+        name = "II. Infanterie Brigade"
+        type = infantry
+        home = 1743
+    }
+
+    regiment = {
+        name = "III. Infanterie Brigade"
+        type = infantry
+        home = 384
+    }
+}
+
 navy = {
-    name = "Nationale Marine "
+    name = "Nationale Marine"
     location = 387 #Brussels
     ship = {
         name= "Doggersbank"
@@ -273,33 +306,57 @@ navy = {
 
     ship = {
         name= "1 Transport Eskader"
-        type = clipper_transport
+        type = steam_transport
     }
 
     ship = {
         name= "2 Transport Eskader"
-        type = clipper_transport
+        type = steam_transport
     }
 
     ship = {
         name= "3 Transport Eskader"
-        type = clipper_transport
+        type = steam_transport
     }
 
     ship = {
         name= "4 Transport Eskader"
-        type = clipper_transport
+        type = steam_transport
     }
 
     ship = {
         name= "5 Transport Eskader"
-        type = clipper_transport
+        type = steam_transport
+    }
+    ship = {
+        name= "6 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "7 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "8 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "9 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "10 Transport Eskader"
+        type = steam_transport
     }
 }
 
 navy = {
-    name = "Koninklijke Marine"
-    location = 400 #Amsterdam
+    name = "Koudrel Marine"
+    location = 400 #Kouderstad
     ship = {
         name= "Kouderstad"
         type = manowar
@@ -349,8 +406,107 @@ navy = {
         name= "Irene"
         type = frigate
     }
-}
+    ship = {
+        name= "1 Transport Eskader"
+        type = steam_transport
+    }
 
+    ship = {
+        name= "2 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "3 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "4 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "5 Transport Eskader"
+        type = steam_transport
+    }
+}
+navy = {
+    name = "Indian Transport Fleet"
+    location = 1303 #Goa
+    ship = {
+        name= "Amster"
+        type = manowar
+    }
+
+    ship = {
+        name= "Bloemstad"
+        type = manowar
+    }
+
+    ship = {
+        name= "Arnhem"
+        type = commerce_raider
+    }
+
+    ship = {
+        name= "Middelburg"
+        type = commerce_raider
+    }
+
+    ship = {
+        name= "Antwerpen"
+        type = commerce_raider
+    }
+    ship = {
+        name= "1 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "2 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "3 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "4 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "5 Transport Eskader"
+        type = steam_transport
+    }
+    ship = {
+        name= "6 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "7 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "8 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "9 Transport Eskader"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "10 Transport Eskader"
+        type = steam_transport
+    }
+}
 leader = {
     name = "Aidann Smook"
     picture = rus_gen_khrapovitsky
@@ -381,6 +537,15 @@ leader = {
 }
 
 leader = {
+    name = "Ard Hofman"
+    date = 2836.1.1
+    type = land
+    personality = fanatic
+    background = hated
+    prestige = 0.05
+}
+
+leader = {
     name = "Hein van der Roest"
     date = 2836.1.1
     type = sea
@@ -396,4 +561,13 @@ leader = {
     personality = timid
     background = gifted_administrator 
     prestige = 0.1
+}
+
+leader = {
+    name = "Luuk van Triller"
+    date = 2836.1.1
+    type = sea
+    personality = brilliant
+    background = bureaucrat_speed
+    prestige = 0.05
 }

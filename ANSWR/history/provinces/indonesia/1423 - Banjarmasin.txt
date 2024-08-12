@@ -1,5 +1,6 @@
-owner = SLW
-controller = SLW
-add_core = SLW
+owner = SBI
+controller = SBI
+add_core = SBI
+add_core = SWK
 trade_goods = sulphur
 life_rating = 35

@@ -1772,6 +1772,38 @@
         size = 1098175
     }
 }
+#Baguio
+3340 = {
+    aristocrats = {
+        culture = lanzu
+        religion = xifang
+        size = 3200
+    }
+
+    clergymen = {
+        culture = lanzu
+        religion = xifang
+        size = 1075
+    }
+
+    artisans = {
+        culture = lanzu
+        religion = xifang
+        size = 7000
+    }
+
+    soldiers = {
+        culture = lanzu
+        religion = xifang
+        size = 6000
+    }
+
+    farmers = {
+        culture = lanzu
+        religion = xifang
+        size = 588175
+    }
+}
 #Jianning (2520000/630000POPS)
 1483 = {
     aristocrats = {
@@ -2794,46 +2826,4 @@
     }
 }
 
-3361 = {
-    aristocrats = {
-        culture = lanzu
-        religion = xifang
-        size = 1850
-    }
 
-    bureaucrats = {
-        culture = lanzu
-        religion = xifang
-        size = 145
-    }
-
-    officers = {
-        culture = lanzu
-        religion = xifang
-        size = 175
-    }
-
-    clergymen = {
-        culture = lanzu
-        religion = xifang
-        size = 750
-    }
-
-    artisans = {
-        culture = lanzu
-        religion = xifang
-        size = 4200
-    }
-
-    soldiers = {
-        culture = lanzu
-        religion = xifang
-        size = 150
-    }
-
-    farmers = {
-        culture = lanzu
-        religion = xifang
-        size = 29930
-    }
-}

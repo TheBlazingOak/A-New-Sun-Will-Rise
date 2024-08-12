@@ -10,11 +10,12 @@ political_decisions = {
 		}
 
 		allow = {
-			is_greater_power = yes
 			prestige = 45
 			nationalism_n_imperialism = 1
 			war = no
-			cultural_union = {
+			OR = {
+            FRA_425 = { owned_by = THIS}
+            cultural_union = {
                 all_core = {
                     OR = {
                         owned_by = THIS
@@ -30,6 +31,7 @@ political_decisions = {
                         }
                     }
                 }
+            }
             }
         }
 
@@ -101,9 +103,11 @@ political_decisions = {
         effect = {
             prestige = 20
             405 = { add_core = PRP }
-            FRA_418 = { add_core = PRP remove_core = DPA }
-            FRA_435 = { add_core = PRP remove_core = DPA }
-            FRA_399 = { add_core = PRP remove_core = DPA }
+            FRA_418 = { remove_core = DPA }
+            FRA_435 = { remove_core = DPA }
+            FRA_399 = { remove_core = DPA }
+            FRA_400 = { remove_core = DPA }
+            FRA_425 = { remove_core = DPA }
             set_country_flag = pars_republic_victory
         }
         ai_will_do = { factor = 1 }
@@ -127,8 +131,11 @@ political_decisions = {
         effect = {
             prestige = 10
             capital = 425
-            FRA_400 = { add_core = DPA remove_core = PRP }
-            FRA_425 = { add_core = DPA remove_core = PRP }
+            FRA_400 = { remove_core = PRP }
+            FRA_425 = { remove_core = PRP }
+            FRA_418 = { remove_core = PRP }
+            FRA_435 = { remove_core = PRP }
+            FRA_399 = { remove_core = PRP }
             set_country_flag = pars_duchy_victory
         }
         ai_will_do = { factor = 1 }

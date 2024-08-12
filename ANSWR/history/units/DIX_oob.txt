@@ -1,0 +1,63 @@
+NEN = { value = -200 }
+CRA = { value = -175 }
+PAW = { value = 50 }
+RSB = { value = -125 }
+TEX = { value = 50 }
+
+army = {
+    name = "Army of Dixie"
+    location = 195
+    regiment = {
+        name= "I. Cavalry"
+        type = hussar
+        home = 195
+    }
+
+    regiment = {
+        name= "I. Infantry"
+        type = infantry
+        home = 195
+    }
+
+    regiment = {
+        name = "II. Infantry"
+        type = infantry
+        home = 188
+    }
+
+    regiment = {
+        name = "III. Infantry"
+        type = infantry
+        home = 188
+    }
+}
+navy = {
+    name = "The Dixie Navy"
+    location = 139
+    ship = {
+        name= "The Little Dixie"
+        type = manowar
+    }
+    ship = {
+        name= "1. Clipper Transport"
+        type = clipper_transport
+    }
+}
+
+leader = {
+    name = "George S. Smith"
+    date = 2836.1.1
+    type = land
+    personality = sycophant
+    background = aristocrat
+    prestige = 0.05
+}
+
+leader = {
+    name = "Henry Summers"
+    date = 2836.1.1
+    type = sea
+    personality = toady
+    background = aristocrat
+    prestige = 0.05
+}

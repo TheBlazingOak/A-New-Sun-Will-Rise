@@ -1,5 +1,6 @@
 owner = HDR
 controller = HDR
 add_core = HDR
+add_core = MEX
 trade_goods = fish
 life_rating = 37

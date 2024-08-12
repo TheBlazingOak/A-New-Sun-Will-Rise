@@ -235,127 +235,6 @@ army = {
     }
 
 }
-
-army = {
-    name = "II. Korps"
-    location = 682
-
-    regiment = {
-        name= "I. Kavalleriebrigade"
-        type = cuirassier
-        home = 687
-    }
-
-    regiment = {
-        name= "VII. Linieninfanteriebrigade"
-        type = infantry
-        home = 682
-    }
-
-    regiment = {
-        name= "VIII. Linieninfanteriebrigade"
-        type = infantry
-        home = 682
-    }
-
-    regiment = {
-        name= "IX. Linieninfanteriebrigade"
-        type = infantry
-        home = 682
-    }
-
-    regiment = {
-        name= "II. Pionierbrigade"
-        type = engineer
-        home = 684
-    }
-
-    regiment = {
-        name= "X. Linieninfanteriebrigade"
-        type = infantry
-        home = 684
-    }
-
-    regiment = {
-        name= "XI. Linieninfanteriebrigade"
-        type = infantry
-        home = 684
-    }
-
-    regiment = {
-        name= "XII. Linieninfanteriebrigade"
-        type = infantry
-        home = 685
-    }
-
-    regiment = {
-        name= "II. Artilleriebrigade"
-        type = artillery
-        home = 685
-    }
-
-}
-
-army = {
-    name = "III. Korps"
-    location = 695
-
-    regiment = {
-        name= "I. Kavalleriebrigade"
-        type = cuirassier
-        home = 681
-    }
-
-    regiment = {
-        name= "XIII. Linieninfanteriebrigade"
-        type = infantry
-        home = 696
-    }
-
-    regiment = {
-        name= "XIV. Linieninfanteriebrigade"
-        type = infantry
-        home = 696
-    }
-
-    regiment = {
-        name= "XV. Linieninfanteriebrigade"
-        type = infantry
-        home = 693
-    }
-
-    regiment = {
-        name= "III. Pionierbrigade"
-        type = engineer
-        home = 693
-    }
-
-    regiment = {
-        name= "XVI. Linieninfanteriebrigade"
-        type = infantry
-        home = 695
-    }
-
-    regiment = {
-        name= "XVII. Linieninfanteriebrigade"
-        type = infantry
-        home = 695
-    }
-
-    regiment = {
-        name= "XVIII. Linieninfanteriebrigade"
-        type = infantry
-        home = 698
-    }
-
-    regiment = {
-        name= "III. Artilleriebrigade"
-        type = artillery
-        home = 698
-    }
-
-}
-
 army = {
     name = "IV. Korps"
     location = 548
@@ -416,92 +295,9 @@ army = {
 
 }
 
-army = {
-    name = "V. Korps"
-    location = 575
-
-    regiment = {
-        name= "I. Kavalleriebrigade"
-        type = dragoon
-        home = 699
-    }
-
-    regiment = {
-        name= "II. Kavalleriebrigade"
-        type = dragoon
-        home = 699
-    }
-
-    regiment = {
-        name= "III. Kavalleriebrigade"
-        type = dragoon
-        home = 700
-    }
-
-    regiment = {
-        name= "IV. Kavalleriebrigade"
-        type = cuirassier
-        home = 550
-    }
-
-    regiment = {
-        name= "XXVII. Linieninfanteriebrigade"
-        type = infantry
-        home = 575
-    }
-
-    regiment = {
-        name= "XXVIII. Linieninfanteriebrigade"
-        type = infantry
-        home = 576
-    }
-
-    regiment = {
-        name= "XXIX. Linieninfanteriebrigade"
-        type = infantry
-        home = 578
-    }
-
-    regiment = {
-        name= "XXIV. Linieninfanteriebrigade"
-        type = infantry
-        home = 580
-    }
-
-    regiment = {
-        name= "XXV. Linieninfanteriebrigade"
-        type = infantry
-        home = 580
-    }
-
-    regiment = {
-        name= "XXVI. Linieninfanteriebrigade"
-        type = infantry
-        home = 581
-    }
-
-}
-
-army = {
-    name = "VI. Korps"
-    location = 574
-
-    regiment = {
-        name= "XI. Kavalleriebrigade"
-        type = dragoon
-        home = 701
-    }
-
-    regiment = {
-        name = "V. Artilleriebrigade"
-        type = artillery
-        home = 701
-    }
-}
-
 navy = {
     name = "Königlich Preußische Marine"
-    location = 690
+    location = 552
     ship = {
         name= "1. Klipperflottille"
         type = clipper_transport
@@ -520,7 +316,7 @@ navy = {
 }
 
 leader = {
-    name = "Prince H. Wilhelm Adalbert"
+    name = "Arthur Wepper"
     picture = european_admiral_2
     type = sea
     date = 2836.1.1
@@ -530,81 +326,11 @@ leader = {
 }
 
 leader = {
-    name = "Helmuth von Moltke"
+    name = "Johannes Haber"
     picture = european_general_36
     type = land
     date = 2836.1.1
     background = school_of_firepower
     personality = implacable
     prestige = 0.75
-}
-
-leader = {
-    name = "Albrecht von Roon"
-    picture = european_general_41
-    type = land
-    date = 2836.1.1
-    background = school_of_the_bayonet
-    personality = au_fait
-    prestige = 0.75
-}
-
-leader = {
-    name = "Friedrich Graf von Wrangel"
-    picture = pru_gen_wrangel
-    type = land
-    date = 1810.1.1
-    background = school_of_the_bayonet
-    personality = unflinching
-    prestige = 0.5
-}
-
-leader = {
-    name = "Eduard Vogel von Falckenstein"
-    picture = european_general_27
-    type = land
-    date = 1826.1.1
-    background = cartographer
-    personality = audacious
-    prestige = 0.3
-}
-
-leader = {
-    name = "Leopold Hermann von Boyen"
-    picture = pru_gen_boyen
-    date = 1813.1.1
-    type = land
-    personality = openminded
-    background = gifted_administrator
-    prestige = 0.5
-}
-
-leader = {
-    name = "Prince Friedrich Wilhelm August"
-    picture = pru_gen_prinzaugust
-    date = 1814.1.1
-    type = land
-    personality = resourceful
-    background = womanizer
-    prestige = 0.8
-}
-
-leader = {
-    name = "Prince Friedrich Karl"
-    picture = pru_gen_prinzkarl
-    date = 1824.1.1
-    type = land
-    personality = indifferent
-    background = armchair_general
-    prestige = 0.8
-}
-
-leader = {
-    name = "Friedrich Wilhelm IV"
-    picture = pru_gen_prinzwilhelm
-    date = 2836.1.1
-    type = land
-    personality = soldierly
-    background = aristocrat
-    prestige = 0.9
 }

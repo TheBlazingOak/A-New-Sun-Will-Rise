@@ -1,6 +1,7 @@
 owner = NGR
 controller = NGR
 add_core = NGR
+add_core = KBO
 trade_goods = cattle
 terrain = plains
 life_rating = 39

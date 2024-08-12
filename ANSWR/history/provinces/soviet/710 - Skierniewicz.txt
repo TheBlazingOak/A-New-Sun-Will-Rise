@@ -1,6 +1,7 @@
 owner = POL
 controller = POL
 add_core = POL
-trade_goods = fruit
-life_rating = 35
-2861.1.1 = { railroad = 3 }
+trade_goods = fish
+life_rating = 40
+terrain = farmlands
+naval_base = 1

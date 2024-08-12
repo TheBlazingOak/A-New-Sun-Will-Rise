@@ -1,0 +1,84 @@
+political_decisions = {
+	#Poula decisions
+	the_eastern_protector = {
+		picture = attack_the_laagers
+		potential = {
+            tag = POL
+            prestige = 10
+            NOT = { has_country_flag = the_eastern_protector }
+        }
+
+        allow = {
+            is_greater_power = yes
+            prestige = 50
+            war = no
+            state_n_government = 1
+        }
+
+        effect = {
+            prestige = 10
+            infamy = 1
+            casus_belli = {
+				target = BYE
+				type = make_puppet
+				months = 60
+			}
+            set_country_flag = the_eastern_protector
+        }
+        ai_will_do = {
+        factor = 1
+        }
+	}
+	the_polish_boom = {
+		potential = {
+            tag = POL
+            NOT = { has_country_flag = the_polish_boom }
+        }
+        allow = {
+        interchangeable_parts = 1
+        }
+        effect = {
+			set_country_flag = the_polish_boom
+        }
+	}
+	declare_the_warsaw_pact = {
+		picture = attack_the_laagers
+		potential = {
+            tag = POL
+            has_country_flag = the_eastern_protector
+            OR = { OUD = { exists = yes } PRF = { exists = yes } } 
+        }
+
+        allow = {
+            is_greater_power = yes
+            prestige = 75
+            war = no
+            nationalism_n_imperialism = 1
+            BYE = { in_sphere = POL }
+            LIT = { in_sphere = POL }
+            EST = { in_sphere = POL }
+            UKR = { in_sphere = POL }
+        }
+
+        effect = {
+        	prestige = 15
+            change_tag = WAR
+            set_global_flag = warsaw_pact
+            add_accepted_culture = byelorussian
+            add_accepted_culture = paltijan
+            add_accepted_culture = osti
+            add_accepted_culture = ukrainian
+            all_core = {
+        		remove_core = POL
+        		add_core = WAR
+        		}
+            UKR = { country_event = { id = 52501 days = 0 } }
+            EST = { country_event = { id = 52501 days = 0 } }
+            BYE = { country_event = { id = 52501 days = 0 } }
+            LIT = { country_event = { id = 52501 days = 0 } }
+        }
+        ai_will_do = {
+        factor = 1
+        }
+	}
+}

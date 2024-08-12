@@ -1,0 +1,20 @@
+country_event = {
+    id = 52501
+    title = "EVTNAME52501"
+    desc = "EVTDESC52501"
+    is_triggered_only = yes
+    option = {
+        name = "EVT52501OPTA" #Yes
+            FROM = { inherit = THIS }
+            all_core = {
+            add_core = WAR
+            }
+        }
+    option = {
+        name = "EVT52501OPTB" #Refuse
+            all_core = {
+            add_core = WAR
+            }
+            relation = { tag = POL value = -150}
+        }
+}

@@ -1,7 +1,9 @@
 owner = TUS
 controller = TUS
+add_core = PAR
+add_core = SIC
 add_core = TUS
-add_core = ITA
+add_core = APU
 trade_goods = grain
 life_rating = 35
 2861.1.1 = {

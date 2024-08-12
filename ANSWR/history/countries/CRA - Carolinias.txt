@@ -7,6 +7,8 @@ nationalvalue = nv_order
 literacy = 0.40
 civilized = yes
 
+prestige = 5
+
 set_country_flag = new_world_nation
 
 # Technologies
@@ -77,3 +79,5 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+oob = "CRA_oob.txt"

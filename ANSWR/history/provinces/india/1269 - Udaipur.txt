@@ -2,5 +2,5 @@ owner = SHI
 controller = SHI
 add_core = SHI
 add_core = HND
-trade_goods = precious_metal
+trade_goods = tobacco
 life_rating = 32

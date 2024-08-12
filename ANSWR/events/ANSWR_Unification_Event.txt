@@ -294,3 +294,67 @@ country_event = {
         prestige = 10
     }
 }
+###Istoslavia
+country_event = {
+
+    id = 52150
+    title = "EVTNAME52150" #Istoslavia wants us to join them
+    desc = "EVTDESC52150"
+    is_triggered_only = yes
+    fire_once_only = yes
+
+    option = {
+        name = "EVT52150OPTA" #Yes
+        ISV = { set_country_flag = nadastise_accepts }
+        prestige = -2
+    }
+    option = {
+        name = "EVT52150OPTB" #Refuse
+        ISV = { set_country_flag = nadastise_refuses }
+        prestige = 2
+    }
+}
+country_event = {
+
+    id = 52151
+    title = "EVTNAME52151" #Istoslavia wants us to join them
+    desc = "EVTDESC52151"
+    is_triggered_only = yes
+
+    option = {
+        name = "EVT52151OPTA" #Yes
+        ISV = { set_country_flag = skrvat_accepts }
+        prestige = -2
+    }
+    option = {
+        name = "EVT52151OPTB" #Refuse
+        ISV = { set_country_flag = skrvat_refuses }
+        prestige = 2
+    }
+}
+country_event = {
+
+    id = 52152
+    title = "EVTNAME52152" #Istoslavia wants us to join them
+    desc = "EVTDESC52152"
+    trigger = {
+        has_country_flag = skrvat_accepts
+        has_country_flag = nadastise_accepts
+        NOT = { has_country_flag = annexation_demands_met }
+    }
+
+    mean_time_to_happen = { days = 14 }
+
+    option = {
+        name = "EVT52152OPTA" #Yes
+        prestige = 5
+        inherit = MON
+        inherit = NSR
+        TUR_806 = { add_core = ISV }
+        TUR_823 = { add_core = ISV }
+        release = MCD
+        set_country_flag = annexation_demands_met
+    }
+}
+
+

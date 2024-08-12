@@ -1,14 +1,14 @@
-capital = 706
+capital = 712
 primary_culture = polish
-religion = catholic
+religion = prosperity
 government = hms_government
 plurality = 5
-nationalvalue = nv_equality
+nationalvalue = nv_order
 literacy = 0.44
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 50
+prestige = 35
 
 # Political reforms
 slavery = no_slavery
@@ -37,7 +37,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = catholic_country
+set_country_flag = prosperity_country
 
 ruling_party = POL_conservative
 upper_house = {

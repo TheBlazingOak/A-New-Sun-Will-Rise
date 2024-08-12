@@ -1,5 +1,8 @@
 owner = URA
 controller = URA
+add_core = OMS
+add_core = SIB
 add_core = URA
-trade_goods = timber
-life_rating = 35
+trade_goods = coal
+life_rating = 40
+terrain = mining_district

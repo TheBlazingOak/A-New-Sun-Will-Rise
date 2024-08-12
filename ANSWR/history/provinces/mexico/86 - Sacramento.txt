@@ -1,5 +1,6 @@
 owner = CAL
 controller = CAL
+add_core = LOS
 add_core = CAL
-trade_goods = fruit
+trade_goods = coal
 life_rating = 35

@@ -3897,62 +3897,6 @@
         size = 3700
     }
 }
-#Konstanz (164000/41000 POPS)
-588 = {
-    aristocrats = {
-        culture = south_german
-        religion = ketronant
-        size = 350
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 375
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 1850
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 400
-    }
-
-    farmers = {
-        culture = south_german
-        religion = ketronant
-        size = 34025
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 75
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 200
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 25
-    }
-
-    farmers = {
-        culture = south_german
-        religion = ketronant
-        size = 3700
-    }
-}
 #Wurttemburg Region (1308000)
 #under the rule of Wurttemburg in 1836
 #Stuttgart (676000/169000 POPS)

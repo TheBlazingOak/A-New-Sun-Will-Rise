@@ -2,5 +2,6 @@ owner = SWI
 controller = SWI
 add_core = SWI
 add_core = PRV
+add_core = SVY
 trade_goods = grain
 life_rating = 33

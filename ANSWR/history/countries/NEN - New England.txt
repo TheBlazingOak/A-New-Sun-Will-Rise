@@ -9,6 +9,8 @@ civilized = yes
 
 prestige = 20
 
+oob = "NEN_oob.txt"
+
 # Political reforms
 slavery = no_slavery
 upper_house_composition = state_equal_weight

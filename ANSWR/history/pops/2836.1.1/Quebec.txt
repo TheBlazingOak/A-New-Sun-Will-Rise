@@ -226,13 +226,13 @@
     aristocrats = {
         culture = french_canadian
         religion = catholic
-        size = 1000
+        size = 2000
     }
 
     bureaucrats = {
         culture = french_canadian
         religion = catholic
-        size = 400
+        size = 900
     }
 
     clergymen = {
@@ -250,13 +250,13 @@
     soldiers = {
         culture = french_canadian
         religion = catholic
-        size = 2000
+        size = 9000
     }
 
     farmers = {
         culture = french_canadian
         religion = catholic
-        size = 95500
+        size = 125500
     }
 
     farmers = {
@@ -268,7 +268,13 @@
     craftsmen = {
         culture = french_canadian
         religion = catholic
-        size = 1000
+        size = 45000
+    }
+
+    clerks = {
+        culture = french_canadian
+        religion = catholic
+        size = 7000
     }
 
 }
@@ -460,6 +466,50 @@
         culture = anglo_canadian
         religion = protestant
         size = 12500
+    }
+}
+#Saguenay
+45 = {
+    clergymen = {
+        culture = french_canadian
+        religion = catholic
+        size = 450
+    }
+
+    aristocrats = {
+        culture = french_canadian
+        religion = catholic
+        size = 600
+    }
+
+    bureaucrats = {
+        culture = french_canadian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = french_canadian
+        religion = catholic
+        size = 5000
+    }
+
+    soldiers = {
+        culture = french_canadian
+        religion = catholic
+        size = 2500
+    }
+
+    farmers = {
+        culture = french_canadian
+        religion = catholic
+        size = 51000
+    }
+
+    farmers = {
+        culture = anglo_canadian
+        religion = protestant
+        size = 4500
     }
 }
 #Sherbrooke (68000/17000 POPS)

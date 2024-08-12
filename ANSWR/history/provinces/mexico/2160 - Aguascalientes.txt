@@ -1,5 +1,6 @@
 owner = DAU
 controller = DAU
 add_core = DAU
+add_core = MEX
 trade_goods = iron
 life_rating = 35

@@ -2,5 +2,6 @@ owner = NSR
 controller = NSR
 add_core = NSR
 add_core = MCD
+add_core = JAM
 trade_goods = cotton
 life_rating = 35

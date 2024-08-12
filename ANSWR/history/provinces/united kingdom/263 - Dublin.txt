@@ -1,12 +1,15 @@
 owner = LEC
 controller = LEC
 add_core = LEC
+add_core = COC
+add_core = ULS
 add_core = IRE
-trade_goods = grain
+trade_goods = iron
 naval_base = 1
-life_rating = 35
+life_rating = 31
 state_building = {
-        level = 2
+        level = 1
         building = cement_factory
         upgrade = yes
 }
+terrain = ruined_city

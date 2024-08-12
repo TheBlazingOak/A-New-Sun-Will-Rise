@@ -1,0 +1,53 @@
+army = {
+    name = "Phillipines Guard"
+    location = 1462
+    regiment = {
+        name= "I. Hussar"
+        type = hussar
+        home = 1462
+    }
+
+    regiment = {
+        name = "I. Division"
+        type = irregular
+        home = 1462
+    }
+}
+
+navy = {
+    name = "Fillipino Navy"
+    location = 1462 #Krainakrólów
+
+    ship = {
+        name= "I. Transport Ships"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "II. Transport Ships"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "III. Transport Ships"
+        type = clipper_transport
+    }
+}
+
+leader = {
+    name = "Basilio Guy Maruhombsar Bulan"
+    date = 2836.1.1
+    type = land
+    personality = cautious
+    background = drillmaster
+    prestige = 0.15
+}
+
+leader = {
+    name = "Devan Primeiro Abdulrahman Córdoba"
+    date = 2836.1.1
+    type = sea
+    personality = brutish
+    background = natural_born_leader 
+    prestige = 0.05
+}

@@ -1,9 +1,9 @@
 owner = LOS
 controller = LOS
 add_core = LOS
+add_core = CAL
 trade_goods = fish
 life_rating = 35
-naval_base = 1
 state_building = {
     level = 1
     building = glass_factory

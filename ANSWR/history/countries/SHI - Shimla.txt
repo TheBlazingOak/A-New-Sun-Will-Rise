@@ -50,3 +50,5 @@ modern_winemaking = yes
 #big_sail_ships = yes
 #sail_ships_transport = yes
 #big_sail_support = yes
+
+oob = "SHI_oob.txt"

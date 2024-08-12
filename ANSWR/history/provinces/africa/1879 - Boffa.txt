@@ -1,6 +1,7 @@
 owner = NET
 controller = NET
 add_core = JAL
-trade_goods = fish
+trade_goods = grain
 life_rating = 35
 colonial = 2
+naval_base = 1

@@ -1,0 +1,166 @@
+CRA = { value = -200 }
+DIX = { value = -200 }
+PAW = { value = -150 }
+RSB = { value = -75 }
+TEX = { value = -75 }
+MRU = { value = 25 }
+
+army = {
+    name = "New English Patriots"
+    location = 241
+    regiment = {
+        name= "I. Cavalry"
+        type = hussars
+        home = 234
+    }
+
+    regiment = {
+        name= "I. Infantry"
+        type = infantry
+        home = 234
+    }
+
+    regiment = {
+        name = "II. Infantry"
+        type = infantry
+        home = 238
+    }
+
+    regiment = {
+        name = "III. Infantry"
+        type = infantry
+        home = 238
+    }
+    regiment = {
+        name = "IV. Infantry"
+        type = infantry
+        home = 235
+    }
+    regiment = {
+        name = "V. Infantry"
+        type = infantry
+        home = 241
+    }
+    regiment = {
+        name = "VI. Infantry"
+        type = infantry
+        home = 242
+    }
+}
+army = {
+    name = "Harrisburg Garrison"
+    location = 226
+    regiment = {
+        name= "I. Infantry"
+        type = infantry
+        home = 226
+    }
+
+    regiment = {
+        name = "II. Infantry"
+        type = infantry
+        home = 226
+    }
+    regiment = {
+        name = "I. Artillery"
+        type = artillery
+        home = 247
+    }
+}
+army = {
+    name = "Syracuse Garrison"
+    location = 238
+    regiment = {
+        name= "I. Infantry"
+        type = infantry
+        home = 241
+    }
+    regiment = {
+        name = "I. Artillery"
+        type = artillery
+        home = 248
+    }
+}
+navy = {
+    name = "Great New English Fleet"
+    location = 232
+    ship = {
+        name= "Lady Liberty"
+        type = manowar
+    }
+    ship = {
+        name= "The Hartford"
+        type = manowar
+    }
+    ship = {
+        name= "New English Pride"
+        type = manowar
+    }
+    ship = {
+        name= "Lewiston"
+        type = commerce_raider
+    }
+    ship = {
+        name= "Westchester"
+        type = commerce_raider
+    }
+    ship = {
+        name= "New Bedford"
+        type = commerce_raider
+    }
+    ship = {
+        name= "1. Steam Transport"
+        type = steam_transport
+    }
+    ship = {
+        name= "2. Steam Transport"
+        type = steam_transport
+    }
+    ship = {
+        name= "3. Steam Transport"
+        type = steam_transport
+    }
+    ship = {
+        name= "4. Steam Transport"
+        type = steam_transport
+    }
+    ship = {
+        name= "5. Steam Transport"
+        type = steam_transport
+    }
+}
+
+leader = {
+    name = "John Weiss"
+    date = 2836.1.1
+    type = land
+    personality = aggressive
+    background = elderly
+    prestige = 0.3
+}
+
+leader = {
+    name = "Evan Foster"
+    date = 2836.1.1
+    type = land
+    personality = megalomaniac
+    background = amateur
+    prestige = 0.15
+}
+
+leader = {
+    name = "Ryan Armstrong"
+    date = 2836.1.1
+    type = land
+    personality = harsh
+    background = school_of_hartskamp
+    prestige = 0.05
+}
+leader = {
+    name = "Happy Anderson"
+    date = 2836.1.1
+    type = sea
+    personality = strange
+    background = uncommonly_young
+    prestige = 0.05
+}

@@ -1,11 +1,10 @@
 capital = 1384
-primary_culture = malay
-culture = yue
-religion = sunni
+primary_culture = yue
+religion = mahayana
 government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_tradition
-literacy = 0.03
+literacy = 0.09
 non_state_culture_literacy = 0.01
 
 # Political reforms

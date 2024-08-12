@@ -1,0 +1,1151 @@
+#Koudrel Zilverkust
+#Boffa (192000/48000 POPS) #now part of Guinea
+1879 = {
+    aristocrats = {
+        culture = fulbe
+        religion = animist
+        size = 900
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = animist
+        size = 500
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = animist
+        size = 1900
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = animist
+        size = 700
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = animist
+        size = 60000
+    }
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 10000
+    }
+
+    farmers = {
+        culture = mande
+        religion = ketronant
+        size = 5000
+    }
+}
+#Timbo (540000/135000 POPS)
+1880 = {
+    aristocrats = {
+        culture = fulbe
+        religion = animist
+        size = 1750
+    }
+
+    bureaucrats = {
+        culture = mande
+        religion = animist
+        size = 375
+    }
+
+    officers = {
+        culture = fulbe
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = animist
+        size = 375
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = animist
+        size = 6575
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = animist
+        size = 3150
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = animist
+        size = 126400
+    }
+
+    farmers = {
+        culture = mande
+        religion = ketronant
+        size = 5000
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 20000
+    }
+}
+#Falaba (384000/96000 POPS) #now part of Sierra Leone
+1885 = {
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 925
+    }
+
+    clergymen = {
+        culture = mande
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = mande
+        religion = animist
+        size = 1900
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 475
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 36600
+    }
+
+    aristocrats = {
+        culture = fulbe
+        religion = animist
+        size = 800
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = animist
+        size = 1650
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = animist
+        size = 425
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = animist
+        size = 67025
+    }
+    farmers = {
+        culture = mande
+        religion = ketronant
+        size = 5000
+    }
+
+}
+
+#Koudrel Zilverland
+#Bamako (296000/74000 POPS)
+1794 = {
+
+    bureaucrats = {
+        culture = fulbe
+        religion = animist
+        size = 900
+    }
+
+    aristocrats = {
+        culture = fulbe
+        religion = animist
+        size = 3250
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = animist
+        size = 1150
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = animist
+        size = 7700
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = animist
+        size = 6000
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = animist
+        size = 162750
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 32750
+    }
+
+    slaves = {
+        culture = mande
+        religion = animist
+        size = 12000
+    }
+}
+#Bourgouni (272000/68000 POPS)
+1798 = {
+
+    aristocrats = {
+        culture = fulbe
+        religion = animist
+        size = 3100
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = animist
+        size = 1150
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = animist
+        size = 6300
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = animist
+        size = 3100
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = animist
+        size = 165400
+    }
+
+    slaves = {
+        culture = mande
+        religion = animist
+        size = 6000
+    }
+}
+#Dinguiraye (272000/68000 POPS)
+1881 = {
+    aristocrats = {
+        culture = fulbe
+        religion = animist
+        size = 1565
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = animist
+        size = 1165
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = animist
+        size = 6015
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = animist
+        size = 88900
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 565
+    }
+
+    officers = {
+        culture = mande
+        religion = animist
+        size = 115
+    }
+
+    clergymen = {
+        culture = mande
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = mande
+        religion = animist
+        size = 1500
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 10225
+    }
+}
+#Kankan (236000/59000 POPS)
+1882 = {
+    aristocrats = {
+        culture = fulbe
+        religion = animist
+        size = 1390
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = animist
+        size = 600
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = animist
+        size = 119450
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 715
+    }
+
+    clergymen = {
+        culture = mande
+        religion = animist
+        size = 375
+    }
+
+    artisans = {
+        culture = mande
+        religion = animist
+        size = 1875
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 1025
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 16090
+    }
+
+    slaves = {
+        culture = mande
+        religion = animist
+        size = 4500
+    }
+}
+#Koudrel Grandeote
+#Beyla (184000/46000 POPS)
+1883 = {
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 3800
+    }
+
+    clergymen = {
+        culture = mande
+        religion = animist
+        size = 1400
+    }
+
+    artisans = {
+        culture = mande
+        religion = animist
+        size = 9650
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 6425
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 242725
+    }
+    farmers = {
+        culture = fulbe
+        religion = animist
+        size = 50000
+    }
+}
+#Zwedru (168000/42000 POPS)
+1891 = {
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 425
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 55975
+    }
+
+}
+
+#Bopulu (124000/31000 POPS)
+1889 = {
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 475
+    }
+
+    clergymen = {
+        culture = mande
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = mande
+        religion = animist
+        size = 1250
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 62775
+    }
+}
+#Gbarnga (132000/33000 POPS)
+1890 = {
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 200
+    }
+
+    clergymen = {
+        culture = mande
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = mande
+        religion = animist
+        size = 550
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 125
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 85025
+    }
+}
+#Bo (352000/88000 POPS)
+1886 = {
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 900
+    }
+
+    clergymen = {
+        culture = mande
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = mande
+        religion = animist
+        size = 1875
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 475
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 76650
+    }
+
+    aristocrats = {
+        culture = fulbe
+        religion = animist
+        size = 800
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = animist
+        size = 2000
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = animist
+        size = 425
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = animist
+        size = 17675
+    }
+    farmers = {
+        culture = mande
+        religion = ketronant
+        size = 5000
+    }
+}
+
+#Koudrel Vrijheida
+
+#Koudrel Versvlak
+#Bobo Dioulasso (140000/35000 POPS)
+1905 = {
+    aristocrats = {
+        culture = senufo
+        religion = animist
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = senufo
+        religion = animist
+        size = 25
+    }
+
+    officers = {
+        culture = senufo
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = senufo
+        religion = animist
+        size = 125
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = animist
+        size = 3425
+    }
+
+    farmers = {
+        culture = senufo
+        religion = animist
+        size = 111650
+    }
+
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = mande
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = mande
+        religion = animist
+        size = 1100
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 19550
+    }
+}
+#Orodaro (360000/90000 POPS)
+1906 = {
+    aristocrats = {
+        culture = mande
+        religion = animist
+        size = 550
+    }
+
+    clergymen = {
+        culture = mande
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = mande
+        religion = animist
+        size = 1100
+    }
+
+    soldiers = {
+        culture = mande
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 15750
+    }
+
+    aristocrats = {
+        culture = senufo
+        religion = animist
+        size = 250
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = senufo
+        religion = animist
+        size = 700
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = senufo
+        religion = animist
+        size = 92750
+    }
+
+    slaves = {
+        culture = senufo
+        religion = animist
+        size = 32000
+    }
+
+}
+
+#Sikasso (344000/86000 POPS)
+1799 = {
+
+    farmers = {
+        culture = fulbe
+        religion = animist
+        size = 24600
+    }
+
+    aristocrats = {
+        culture = senufo
+        religion = animist
+        size = 2850
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = animist
+        size = 1450
+    }
+
+    artisans = {
+        culture = senufo
+        religion = animist
+        size = 4850
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = animist
+        size = 6050
+    }
+
+    farmers = {
+        culture = senufo
+        religion = animist
+        size = 180400
+    }
+}
+#Bohol Island (93608 POP)
+3337 = {
+    farmers = {
+        culture = fulbe
+        religion = animist
+        size = 24600
+    }
+
+    aristocrats = {
+        culture = senufo
+        religion = animist
+        size = 850
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = animist
+        size = 450
+    }
+
+    artisans = {
+        culture = senufo
+        religion = animist
+        size = 2850
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = animist
+        size = 3050
+    }
+
+    farmers = {
+        culture = senufo
+        religion = animist
+        size = 88400
+    }
+}
+
+# Koudrel Windward Coast
+#Man (80000/20000 POPS)
+1896 = {
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 7300
+    }
+
+    aristocrats = {
+        culture = senufo
+        religion = animist
+        size = 425
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = animist
+        size = 225
+    }
+
+    artisans = {
+        culture = senufo
+        religion = animist
+        size = 1100
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = animist
+        size = 225
+    }
+
+    farmers = {
+        culture = senufo
+        religion = animist
+        size = 45025
+    }
+}
+#Odienne (288000/72000 POPS) #now part of Ivory Coast
+1900 = {
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 24500
+    }
+
+    aristocrats = {
+        culture = senufo
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = animist
+        size = 225
+    }
+
+    artisans = {
+        culture = senufo
+        religion = animist
+        size = 450
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = senufo
+        religion = animist
+        size = 78100
+    }
+
+}
+#Bouake (60000/15000 POPS)
+1895 = {
+    aristocrats = {
+        culture = senufo
+        religion = animist
+        size = 225
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = senufo
+        religion = animist
+        size = 600
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = animist
+        size = 125
+    }
+
+    farmers = {
+        culture = senufo
+        religion = animist
+        size = 51925
+    }
+
+    slaves = {
+        culture = senufo
+        religion = animist
+        size = 2000
+    }
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 12700
+    }
+}
+#Sassandra (282000/47000 POPS)
+1893 = {
+
+    farmers = {
+        culture = mande
+        religion = animist
+        size = 18025
+    }
+
+    aristocrats = {
+        culture = senufo
+        religion = animist
+        size = 3725
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = animist
+        size = 1375
+    }
+
+    artisans = {
+        culture = senufo
+        religion = animist
+        size = 9500
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = animist
+        size = 3375
+    }
+
+    farmers = {
+        culture = senufo
+        religion = animist
+        size = 122025
+    }
+}
+#Koudrel Ivory Coast
+#Akoupe (92000/23000 POPS)
+1897 = {
+    aristocrats = {
+        culture = senufo
+        religion = animist
+        size = 425
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = animist
+        size = 225
+    }
+
+    artisans = {
+        culture = senufo
+        religion = animist
+        size = 3950
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = animist
+        size = 1250
+    }
+
+    farmers = {
+        culture = senufo
+        religion = animist
+        size = 98150
+    }
+}
+#Kong (264000/66000 POPS)
+1898 = {
+
+    aristocrats = {
+        culture = senufo
+        religion = animist
+        size = 525
+    }
+
+    bureaucrats = {
+        culture = senufo
+        religion = animist
+        size = 125
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = senufo
+        religion = animist
+        size = 1500
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = senufo
+        religion = animist
+        size = 145375
+    }
+}
+#Highland Zamboanga
+3350 = {
+    aristocrats = {
+        culture = senufo
+        religion = animist
+        size = 525
+    }
+
+    bureaucrats = {
+        culture = senufo
+        religion = animist
+        size = 125
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = senufo
+        religion = animist
+        size = 500
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = animist
+        size = 3300
+    }
+
+    farmers = {
+        culture = senufo
+        religion = animist
+        size = 95375
+    }
+}
+#Bundoukou (216000/54000 POPS)
+1899 = {
+
+    aristocrats = {
+        culture = senufo
+        religion = animist
+        size = 375
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = animist
+        size = 225
+    }
+
+    artisans = {
+        culture = senufo
+        religion = animist
+        size = 1050
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = animist
+        size = 225
+    }
+
+    farmers = {
+        culture = senufo
+        religion = animist
+        size = 35125
+    }
+}
+#Grand Lahou (108000/27000 POPS)
+1892 = {
+    aristocrats = {
+        culture = senufo
+        religion = animist
+        size = 500
+    }
+
+    clergymen = {
+        culture = senufo
+        religion = animist
+        size = 275
+    }
+
+    artisans = {
+        culture = senufo
+        religion = animist
+        size = 1075
+    }
+
+    soldiers = {
+        culture = senufo
+        religion = animist
+        size = 275
+    }
+
+    farmers = {
+        culture = senufo
+        religion = animist
+        size = 49875
+    }
+}

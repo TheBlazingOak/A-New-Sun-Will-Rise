@@ -5,8 +5,8 @@ UNS = { value = 0 }
 PRP = { value = -200 }
 
 army = {
-    name = "I. Armée du Duc"
-    location = 416
+    name = "I. Armee du Duc"
+    location = 417
     regiment = {
         name= "I. Bataillon populaire"
         type = infantry
@@ -42,9 +42,14 @@ army = {
         type = artillery
         home = 435
     }
-    regiment = {
-        name= "I. Divisions De Chevaux"
-        type = hussar
+        regiment = {
+        name= "IV. Lignes D'Artillerie"
+        type = artillery
+        home = 435
+    }
+        regiment = {
+        name= "V. Lignes D'Artillerie"
+        type = artillery
         home = 436
     }
     regiment = {
@@ -55,7 +60,7 @@ army = {
 }
 
 army = {
-    name = "II. Armée du Duc"
+    name = "II. Armee du Duc"
     location = 418
     regiment = {
         name= "I. Bataillon populaire"
@@ -63,44 +68,29 @@ army = {
         home = 418
     }
     regiment = {
-        name= "I. Bataillon populaire"
+        name= "II. Bataillon populaire"
         type = infantry
         home = 418
     }
     regiment = {
-        name= "I. Bataillon populaire"
+        name= "III. Bataillon populaire"
         type = infantry
         home = 435
     }
     regiment = {
-        name= "II. Bataillon populaire"
+        name= "IV. Bataillon populaire"
         type = infantry
         home = 415
     }
     regiment = {
-        name= "III. Bataillon populaire"
+        name= "V. Bataillon populaire"
         type = infantry
         home = 403
     }
     regiment = {
-        name= "I. Lignes D'Artillerie"
-        type = artillery
-        home = 405
-    }
-    regiment = {
-        name= "I. Divisions De Chevaux"
+        name= "VI. Bataillon populaire"
         type = hussar
-        home = 405
-    }
-    regiment = {
-        name= "II. Lignes D'Artillerie"
-        type = artillery
         home = 417
-    }
-    regiment = {
-        name= "III. Lignes D'Artillerie"
-        type = artillery
-        home = 440
     }
 }
 
@@ -133,46 +123,51 @@ navy = {
     }
 
     ship = {
-        name= "Trocadero "
+        name= "Trocaderoe"
         type = manowar
     }
 
     ship = {
-        name= "Zélandais"
+        name= "Zelandais"
         type = manowar
     }
 
     ship = {
         name= "Superbe"
-        type = manowar
+        type = frigate
     }
 
     ship = {
         name= "Austerlitz"
-        type = manowar
+        type = frigate
     }
 
     ship = {
         name= "Magnifique"
-        type = manowar
+        type = frigate
     }
 
     ship = {
-        name= "République Française"
-        type = manowar
+        name= "Republique Francaise"
+        type = frigate
     }
 
     ship = {
         name= "Duchesse de Berry"
         type = frigate
     }
+    ship = {
+        name= "Duchesse de Berry"
+        type = frigate
+    }
+    
 }
 
 leader = {
-    name = "Timothée Laflèche"
+    name = "Timothee Lafleche"
     date = 2835.12.1
     type = land
-    personality = skilled
+    personality = au_fait
     background = nationalist
     prestige = 0.3
 }
@@ -187,7 +182,7 @@ leader = {
 }
 
 leader = {
-    name = "Cédric Brousseau"
+    name = "Cedric Brousseau"
     date = 2835.12.1
     type = sea
     personality = coward

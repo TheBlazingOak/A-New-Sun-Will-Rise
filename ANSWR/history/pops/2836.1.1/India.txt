@@ -1888,11 +1888,30 @@
         religion = sunni
         size = 25950
     }
+}
+#Gensan-Davao Del Sur (74719 POPS)
+3346 = {
+    aristocrats = {
+        culture = kanauji
+        religion = hindu
+        size = 10500
+    }
+    
+    soldiers = {
+        culture = kanauji
+        religion = hindu
+        size = 3000
+    }
 
-    bureaucrats = {
-        culture = australian
-        religion = sydnic
-        size = 25
+    farmers = {
+        culture = kanauji
+        religion = hindu
+        size = 408650
+    }
+    farmers = {
+        culture = avadhi
+        religion = sunni
+        size = 35950
     }
 }
 #Hoshangabad (596000/149000 POPS)
@@ -3440,7 +3459,7 @@
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 2000
+        size = 9000
     }
 
     farmers = {
@@ -3524,7 +3543,7 @@
     soldiers = {
         culture = sindi
         religion = sunni
-        size = 1500
+        size = 3500
     }
 
     farmers = {
@@ -3549,36 +3568,6 @@
         culture = sindi
         religion = shiite
         size = 2075
-    }
-
-    aristocrats = {
-        culture = australian
-        religion = sydnic
-        size = 1125
-    }
-
-    bureaucrats = {
-        culture = australian
-        religion = sydnic
-        size = 250
-    }
-
-    officers = {
-        culture = australian
-        religion = sydnic
-        size = 500
-    }
-
-    clergymen = {
-        culture = australian
-        religion = sydnic
-        size = 125
-    }
-
-    soldiers = {
-        culture = australian
-        religion = sydnic
-        size = 3000
     }
 }
 #Nasik (796000/199000 POPS)

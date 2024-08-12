@@ -629,7 +629,7 @@
     soldiers = {
         culture = chavacan
         religion = catholic
-        size = 6000
+        size = 12000
     }
 
     farmers = {

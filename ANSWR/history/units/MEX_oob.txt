@@ -9,7 +9,7 @@ RDM = {
 }
 
 leader = {
-    name = "D. Francisco López "
+    name = "D. Francisco López"
     type = sea
     date="2820.1.1"
     personality = bastard
@@ -47,48 +47,29 @@ leader = {
     personality = soldierly
     background = exranker
 }
-
-army = {
-    name = "Activo Oajaca"
-    location = 2177
-
-    regiment = {
-        name= "1.Oajaca y Tlaxcala"
-        type = irregular
-        home = 2177
-    }
-
-    regiment = {
-        name= "2.Oajaca y Tlaxcala"
-        type = irregular
-        home = 2173
-    }
-
-    regiment = {
-        name= "3.Oajaca y Tlaxcala"
-        type = irregular
-        home = 2167
-    }
-
-}
-
 army = {
     name = "Ejército del Ciudad Mejico"
     location = 2172
     regiment = {
         name= "1.Division Comonfort"
         type = infantry
-        home = 2176
+        home = 2172
     }
 
     regiment = {
         name= "2.Division Comonfort"
         type = irregular
-        home = 2159
+        home = 2174
     }
 
     regiment = {
         name= "3.Division Comonfort"
+        type = irregular
+        home = 2176
+    }
+
+    regiment = {
+        name= "4.Division Comonfort"
         type = irregular
         home = 2174
     }
@@ -97,7 +78,7 @@ army = {
 
 navy = {
     name = "Armada de Mexico"
-    location = 2184
+    location = 2162
     ship = {
         name= "Vencedor del Alamo"
         type = frigate

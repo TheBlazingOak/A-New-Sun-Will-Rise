@@ -1,0 +1,30 @@
+name = "Koudrel Conquest of Roshane and Sammaan"
+
+2835.11.9 = {
+
+        add_attacker = NET
+        add_defender = SHI
+        add_defender = ORI
+        
+        # actor
+        # receiver
+        # casus_belli - cb type
+        # country - 3rd party
+        # state_province_id - target state capital
+        war_goal = {
+                casus_belli = establish_protectorate_casus_belli 
+                actor = NET
+                receiver = SHI
+        }
+        war_goal = {
+                casus_belli = establish_protectorate_casus_belli 
+                actor = NET
+                receiver = ORI
+        }
+        war_goal = {
+                casus_belli = status_quo
+                actor = SHI
+                receiver = NET
+        }
+
+}

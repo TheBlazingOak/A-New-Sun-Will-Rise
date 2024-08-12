@@ -22,9 +22,89 @@ country_event = {
     }
 }
 #Clavel Coronation
+country_event = {
+    id = 55421
+    title = "EVTNAME55421"
+    desc = "EVTDESC55421"
+    fire_once_only = yes
+    picture = BRZ_pedro_coronation
+    trigger = {
+        has_country_flag = clavel_family
+        TAG = JAR
+        NOT = { has_global_flag = jardin_emperor_crowned }
+    }
+
+    mean_time_to_happen = { months = 1 }
+
+    option = {
+        name = "EVT55420OPTA"
+        prestige = 10
+        set_global_flag = jardin_emperor_crowned
+    }
+}
 #Alfazema Coronation
+country_event = {
+    id = 55422
+    title = "EVTNAME55422"
+    desc = "EVTDESC55422"
+    fire_once_only = yes
+    picture = BRZ_pedro_coronation
+    trigger = {
+        has_country_flag = alfazema_family
+        TAG = JAR
+        NOT = { has_global_flag = jardin_emperor_crowned }
+    }
+
+    mean_time_to_happen = { months = 1 }
+
+    option = {
+        name = "EVT55420OPTA"
+        prestige = 10
+        set_global_flag = jardin_emperor_crowned
+    }
+}
 #Dalia Coronation
+country_event = {
+    id = 55423
+    title = "EVTNAME55423"
+    desc = "EVTDESC55423"
+    fire_once_only = yes
+    picture = BRZ_pedro_coronation
+    trigger = {
+        has_country_flag = dalia_family
+        TAG = JAR
+        NOT = { has_global_flag = jardin_emperor_crowned }
+    }
+
+    mean_time_to_happen = { months = 1 }
+
+    option = {
+        name = "EVT55420OPTA"
+        prestige = 10
+        set_global_flag = jardin_emperor_crowned
+    }
+}
 #Lirlo Coronation
+country_event = {
+    id = 55424
+    title = "EVTNAME55424"
+    desc = "EVTDESC55424"
+    fire_once_only = yes
+    picture = BRZ_pedro_coronation
+    trigger = {
+        has_country_flag = lirlo_family
+        TAG = JAR
+        NOT = { has_global_flag = jardin_emperor_crowned }
+    }
+
+    mean_time_to_happen = { months = 1 }
+
+    option = {
+        name = "EVT55420OPTA"
+        prestige = 10
+        set_global_flag = jardin_emperor_crowned
+    }
+}
 ##################
 ###Event Chains###
 ##################

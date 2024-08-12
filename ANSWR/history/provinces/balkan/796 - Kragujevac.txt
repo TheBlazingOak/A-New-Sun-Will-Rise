@@ -1,6 +1,8 @@
 owner = BAN
 controller = BAN
-add_core = BAN
+add_core = DAK
 add_core = SER
+add_core = BAN
 trade_goods = coal
 life_rating = 35
+terrain = mining_district

@@ -1,0 +1,39 @@
+
+leader = {
+    name = "Dominic Fauteux"
+    date = 2836.1.1
+    type = land
+    personality = chivalrous
+    background = school_of_the_bayonet
+    prestige = 0.15
+}
+
+army = {
+    name = "Garde de Montreal"
+    location = 58
+    regiment = {
+        name= "I. Garde"
+        type = infantry
+        home = 58
+    }
+    regiment = {
+        name= "II. Garde"
+        type = infantry
+        home = 58
+    }
+    regiment = {
+        name= "III. Garde"
+        type = infantry
+        home = 58
+    }
+    regiment = {
+        name= "IV. Garde"
+        type = infantry
+        home = 65
+    }
+    regiment = {
+        name= "I. Artillerie"
+        type = artillery
+        home = 45
+    }
+}

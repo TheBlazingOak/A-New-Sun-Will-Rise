@@ -1,6 +1,7 @@
-owner = RIZ
-controller = RIZ
+owner = ILC
+controller = ILC
 add_core = RIZ
+add_core = ILC
 add_core = PHL
 trade_goods = coffee
 life_rating = 40

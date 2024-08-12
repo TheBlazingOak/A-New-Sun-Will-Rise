@@ -263,25 +263,63 @@
 #under the rule of Austria in 1836
 #Vienna (1084000/271000 POPS)
 619 = {
+   aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 2300
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 3200
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 7650
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 1550
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 3000
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 105900
+    }
+}
+#Sankt Polten (88000/22000 POPS)
+620 = {
     aristocrats = {
         culture = austro_german
         religion = ketronant
-        size = 4250
-    }
-
-    capitalists = {
-        culture = austro_german
-        religion = ketronant
-        size = 100
+        size = 375
     }
 
     bureaucrats = {
-        culture = austro_german
-        religion = ketronant
-        size = 3100
-    }
-
-    officers = {
         culture = austro_german
         religion = ketronant
         size = 600
@@ -290,7 +328,95 @@
     clergymen = {
         culture = austro_german
         religion = ketronant
-        size = 2750
+        size = 250
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 1200
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 250
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 19925
+    }
+}
+#Krems (240000/60000 POPS)
+621 = {
+    aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 925
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 625
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 3100
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = ketronant
+        size = 2650
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = ketronant
+        size = 50700
+    }
+}
+#Linz (588000/147000 POPS)
+622 = {
+     aristocrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 7250
+    }
+
+    capitalists = {
+        culture = austro_german
+        religion = ketronant
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = ketronant
+        size = 4100
+    }
+
+    officers = {
+        culture = austro_german
+        religion = ketronant
+        size = 3600
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = ketronant
+        size = 4750
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = ketronant
+        size = 10000
     }
 
     artisans = {
@@ -362,7 +488,7 @@
     farmers = {
         culture = austro_german
         religion = ketronant
-        size = 186250
+        size = 246250
     }
 
     ####Czechs
@@ -491,126 +617,6 @@
     }
     ########
 }
-#Sankt Polten (88000/22000 POPS)
-620 = {
-    aristocrats = {
-        culture = austro_german
-        religion = ketronant
-        size = 375
-    }
-
-    bureaucrats = {
-        culture = austro_german
-        religion = ketronant
-        size = 600
-    }
-
-    clergymen = {
-        culture = austro_german
-        religion = ketronant
-        size = 250
-    }
-
-    artisans = {
-        culture = austro_german
-        religion = ketronant
-        size = 1200
-    }
-
-    soldiers = {
-        culture = austro_german
-        religion = ketronant
-        size = 250
-    }
-
-    farmers = {
-        culture = austro_german
-        religion = ketronant
-        size = 19925
-    }
-}
-#Krems (240000/60000 POPS)
-621 = {
-    aristocrats = {
-        culture = austro_german
-        religion = ketronant
-        size = 925
-    }
-
-    clergymen = {
-        culture = austro_german
-        religion = ketronant
-        size = 625
-    }
-
-    artisans = {
-        culture = austro_german
-        religion = ketronant
-        size = 3100
-    }
-
-    soldiers = {
-        culture = austro_german
-        religion = ketronant
-        size = 2650
-    }
-
-    farmers = {
-        culture = austro_german
-        religion = ketronant
-        size = 50700
-    }
-}
-#Linz (588000/147000 POPS)
-622 = {
-    aristocrats = {
-        culture = austro_german
-        religion = ketronant
-        size = 2300
-    }
-
-    clergymen = {
-        culture = austro_german
-        religion = ketronant
-        size = 3200
-    }
-
-    artisans = {
-        culture = austro_german
-        religion = ketronant
-        size = 7650
-    }
-
-    soldiers = {
-        culture = austro_german
-        religion = ketronant
-        size = 1550
-    }
-
-    soldiers = {
-        culture = austro_german
-        religion = ketronant
-        size = 3000
-    }
-
-    soldiers = {
-        culture = austro_german
-        religion = ketronant
-        size = 3000
-    }
-
-    soldiers = {
-        culture = austro_german
-        religion = ketronant
-        size = 3000
-    }
-
-    farmers = {
-        culture = austro_german
-        religion = ketronant
-        size = 105900
-    }
-}
 #Odenburg Region (196000) #see Hungary.txt for balance of region
 #under the rule of Austria in 1836
 #Eisenstadt (196000/49000 POPS)
@@ -630,7 +636,7 @@
     artisans = {
         culture = austro_german
         religion = ketronant
-        size = 2350
+        size = 8350
     }
 
     craftsmen = {
@@ -648,7 +654,7 @@
     farmers = {
         culture = austro_german
         religion = ketronant
-        size = 40075
+        size = 90075
     }
 
     clergymen = {
@@ -686,7 +692,7 @@
     aristocrats = {
         culture = austro_german
         religion = ketronant
-        size = 125
+        size = 1125
     }
 
     bureaucrats = {
@@ -698,13 +704,13 @@
     officers = {
         culture = austro_german
         religion = ketronant
-        size = 200
+        size = 600
     }
 
     clergymen = {
         culture = austro_german
         religion = ketronant
-        size = 100
+        size = 500
     }
 
     craftsmen = {
@@ -728,7 +734,7 @@
     farmers = {
         culture = austro_german
         religion = ketronant
-        size = 18600
+        size = 48600
     }
 
     aristocrats = {
@@ -1086,7 +1092,7 @@
     farmers = {
         culture = austro_german
         religion = ketronant
-        size = 9875
+        size = 19875
     }
 
     clergymen = {
@@ -1110,7 +1116,7 @@
     farmers = {
         culture = slovene
         religion = ketronant
-        size = 6300
+        size = 4300
     }
 }
 #Gorizia (180000/45000 POPS)
@@ -1142,7 +1148,7 @@
     farmers = {
         culture = austro_german
         religion = ketronant
-        size = 7800
+        size = 17800
     }
 
     clergymen = {
@@ -1166,7 +1172,7 @@
     farmers = {
         culture = slovene
         religion = ketronant
-        size = 20000
+        size = 10000
     }
 
     farmers = {

@@ -1,9 +1,10 @@
 owner = DPA
 controller = DPA
 add_core = DPA
+add_core = PRP
 add_core = FRE
 trade_goods = timber
-life_rating = 31
+life_rating = 35
 2861.1.1 = {
     state_building = {
         level = 1

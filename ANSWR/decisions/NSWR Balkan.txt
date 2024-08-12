@@ -1,0 +1,140 @@
+political_decisions = {
+
+    #Form Istoslav
+    form_istoslavia = {
+        picture = form_yugoslavia
+        potential = {
+            NOT = { exists = ISV }
+            primary_culture = serb
+        }
+        allow = {
+            prestige = 10
+            war = no
+            THIS = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            in_sphere = THIS
+                            OR = {
+                                is_vassal = no
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+                    }
+                }
+            }
+        }
+        effect = {
+            prestige = 10
+            change_tag = ISV
+            any_owned = { limit = { is_core = BAN } remove_core = BAN add_core = ISV }
+            any_owned = { limit = { is_core = SER } remove_core = SER add_core = ISV }
+            any_owned = { limit = { is_core = SER } remove_core = SER add_core = ISV }
+            798 = { add_core = ISV }
+            799 = { add_core = ISV }
+            802 = { add_core = ISV }
+            803 = { add_core = ISV }
+        }
+        ai_will_do = { factor = 1 }
+    }
+    move_to_belgrade = {
+        picture = belgrade_view
+        potential = {
+            794 = { owned_by = THIS }
+            tag = ISV
+            NOT = {has_country_flag = renovated_capital}
+        }
+        allow = {
+            war = no
+            money = 10000
+            ideological_thought = 1
+            ad_hoc_money_bill_printing = 1
+        }
+        effect = {
+            treasury = -10000
+            capital = 794
+            random_owned = {
+                limit = {
+                    province_id = 794
+                }
+                life_rating = 5
+                add_province_modifier = { name = recently_built_city duration = 1825 }
+            }
+            set_country_flag = renovated_capital
+        }
+        ai_will_do = { factor = 1 }
+    }
+    croatian_claims = {
+        potential = {
+            tag = ISV
+            NOT = {has_country_flag = claimed_croatia}
+        }
+        allow = {
+            state_n_government = 1
+            prestige = 25
+        }
+        effect = {
+            AUS_771 = { add_core = ISV }
+            AUS_780 = { add_core = ISV }
+            set_country_flag = claimed_croatia
+        }
+        ai_will_do = { factor = 1 }
+    }
+    oudrijk_refugees ={
+        potential = {
+            prestige = 20
+            tag = ISV
+            803 = { owned_by = ISV }
+            NOT = {has_country_flag = the_refugees}
+        }
+        allow = {
+            prestige = 30
+        }
+        effect = {
+            set_country_flag = the_refugees
+            MON = { country_event = 52150 }
+            NSR = { country_event = 52151 }
+        }
+    }
+    refusal_by_refugees = {
+    picture = map_balkans
+        potential = {
+            tag = ISV
+            has_country_flag = oudrijk_refugees
+            OR = { has_country_flag = nadastise_refuses has_country_flag = skrvat_refuses }
+            NOT = {has_country_flag = refugees_cores}
+        }
+        allow = {
+            OR = { has_country_flag = nadastise_refuses has_country_flag = skrvat_refuses }
+        }
+        effect = {
+            set_country_flag = refugees_cores
+            TUR_806 = { add_core = ISV }
+            TUR_823 = { add_core = ISV }
+            TUR_806 = { add_province_modifier = { name = emigration_boom duration = 3650 } }
+            TUR_823 = { add_province_modifier = { name = emigration_boom duration = 3650 } }
+        }
+    }
+    accept_oudrijk_refugees = {
+    picture = map_balkans
+        potential = {
+            tag = ISV
+            has_country_flag = oudrijk_refugees
+            806 = { owned_by = ISV }
+            823 = { owned_by = ISV }
+            NOT = { has_country_flag = accepted_refugees}
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            set_country_flag = accepted_refugees
+            add_accepted_culture = nadati
+            add_accepted_culture = skrvat
+        }
+    }
+}

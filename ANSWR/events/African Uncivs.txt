@@ -32,9 +32,9 @@ country_event = {
             value = -200
         }
         set_country_flag = refused_saf
-        2105 = {fort = 2 sub_unit = { type = infantry value = 3 } }
-        2106 = {fort = 2 sub_unit = { type = infantry value = 3 } }
-        2108 = {fort = 2 sub_unit = { type = infantry value = 3 } }
+        2105 = {fort = 2 }
+        2106 = {fort = 2 }
+        2108 = {fort = 2 }
         ai_chance = {
         chance = 50
         }
@@ -227,7 +227,14 @@ country_event = {
     #Stay as a Monarchy (Vote for a new Matriarch path)
     option = {
         name = "EVTOPTA65522"
-        militancy = 3
+        any_pop ={
+            limit = {is_primary_culture = yes}
+            militancy = 2
+        }
+        any_pop ={
+            limit = {is_primary_culture = no}
+            militancy = 6
+        }
         set_country_flag = kaap_matriarchy
     }
     #Republic (Kaap Repbulic, and early reform path)
@@ -235,12 +242,15 @@ country_event = {
         name = "EVTOPTB65522"
         consciousness = 3
         government = democracy
-        political_reform = wealth_voting
+        political_reform = universal_voting
         political_reform = secret_ballots
+        political_reform = open_borders
+        political_reform = censored_press
+        political_reform = meetings_allowed
         set_country_flag = kaap_republic
     }
 }
-#Matriarchy
+#Matriarchy Candidates
 country_event = {
     id = 65523
     title = "EVTNAME65523"
@@ -255,7 +265,7 @@ country_event = {
 
     fire_only_once = yes
 
-    mean_time_to_happen = { months = 12 }
+    mean_time_to_happen = { months = 6 }
 
     option = {
         name = "EVTOPTA65523"
@@ -279,5 +289,99 @@ country_event = {
             name = matriarch_zeah_de_volk
             duration = -1
         }
+    }
+}
+#Modernizing the Matriarchy
+country_event = {
+    id = 65524
+    title = "EVTNAME65524"
+    desc = "EVTDESC65524"
+    picture = "census"
+    trigger = {
+        tag = SAF
+        year = 2838
+        has_country_flag = kaap_matriarchy
+        average_consciousness = 2
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = { months = 12 }
+    option = {
+        name = "EVTOPTA65524"
+        political_reform = wealth_voting
+        political_reform = secret_ballots
+        political_reform = open_borders
+    }
+    option = {
+        name = "EVTOPTA65524"
+        any_pop ={
+            limit = {is_primary_culture = yes}
+            militancy = 4
+        }
+        any_pop ={
+            limit = {is_primary_culture = no}
+            militancy = 8
+        }
+    }
+}
+#Madagaskar Incident
+country_event = {
+    id = 65525
+    title = "EVTNAME65525"
+    desc = "EVTDESC65525"
+    picture = ""
+    trigger = {
+        tag = MAD
+        year = 2845
+        NOT = { has_global_flag = madagaskar_incident 
+        2081 = { owned_by = THIS } }
+    }
+
+    mean_time_to_happen = { months = 60 }
+    #Annex Ports
+    option = {
+        name = "EVTOPTA65525"
+        prestige = 10
+        2081 = { secede_province = THIS }
+        2124 = { secede_province = THIS }
+        2126 = { secede_province = THIS }
+        set_global_flag = madagaskar_incident
+    }
+}
+#SAF reaction
+country_event = {
+    id = 65526
+    title = "EVTNAME65526"
+    desc = "EVTDESC65526"
+    picture = "census"
+    trigger = {
+        tag = SAF
+        has_global_flag = madagaskar_incident
+        NOT = { has_country_flag = war_madagaskar has_country_flag = gave_up_madagaskar }
+    }
+    mean_time_to_happen = { days = 7 }
+    #So it is war
+    option = {
+        name = "EVTOPTA65526"
+            war = {
+            target = MAD
+            attacker_goal = { casus_belli = conquest }
+            defender_goal = { casus_belli = status_quo  }
+            call_ally = yes
+        }
+        set_country_flag = war_madagaskar
+        ai_chance = {
+                chance = 90
+            }
+    }
+    #Let them go
+    option = {
+        name = "EVTOPTB65526"
+            prestige = -5
+            set_country_flag = gave_up_madagaskar
+            ai_chance = {
+                chance = 10
+            }
     }
 }

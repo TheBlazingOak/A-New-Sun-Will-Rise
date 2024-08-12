@@ -1,6 +1,6 @@
 owner = SWI
 controller = SWI
 add_core =SWI
-add_core = PAR
+add_core = SVY
 trade_goods = cotton
 life_rating = 35

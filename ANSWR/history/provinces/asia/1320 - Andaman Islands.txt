@@ -1,7 +1,6 @@
-owner = BNG
-controller = BNG
-add_core = HND
-add_core = BNG
+owner = ROH
+controller = ROH
+add_core = ROH
+add_core = BUR
 trade_goods = grain
 life_rating = 30
-colonial = 2

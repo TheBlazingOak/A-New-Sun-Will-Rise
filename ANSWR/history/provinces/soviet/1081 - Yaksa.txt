@@ -1,5 +1,6 @@
 owner = YAK
 controller = YAK
 add_core = YAK
+add_core = VLD
 trade_goods = grain
 life_rating = 35

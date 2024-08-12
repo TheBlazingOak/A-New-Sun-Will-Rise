@@ -1,5 +1,7 @@
 owner = SIB
 controller = SIB
+add_core = OMS
 add_core = SIB
-trade_goods = timber
+add_core = URA
+trade_goods = silk
 life_rating = 35

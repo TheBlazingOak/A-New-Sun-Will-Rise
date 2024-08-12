@@ -41,10 +41,16 @@
     farmers = {
         culture = australian
         religion = sydnic
-        size = 235350
+        size = 215350
     }
 
     craftsmen = {
+        culture = australian
+        religion = sydnic
+        size = 15260
+    }
+
+    clerks = {
         culture = australian
         religion = sydnic
         size = 1526
@@ -945,6 +951,17 @@
         culture = australian
         religion = sydnic
         size = 111913
+    }
+    craftsmen = {
+        culture = australian
+        religion = sydnic
+        size = 7000
+    }
+
+    clerks = {
+        culture = australian
+        religion = sydnic
+        size = 2000
     }
 
     aristocrats = {

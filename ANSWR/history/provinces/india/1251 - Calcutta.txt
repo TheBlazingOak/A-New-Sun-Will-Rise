@@ -2,6 +2,6 @@ owner = SIN
 controller = SIN
 add_core = SIN
 add_core = HND
-trade_goods = dye
+trade_goods = wool
 life_rating = 32
 fort = 1

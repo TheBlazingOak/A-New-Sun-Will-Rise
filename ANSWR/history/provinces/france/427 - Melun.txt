@@ -1,7 +1,8 @@
 owner = PRP
 controller = PRP
+add_core = DPA
 add_core = PRP
 add_core = FRE
 trade_goods = grain
-life_rating = 31
+life_rating = 35
 2861.1.1 = { railroad = 3 }

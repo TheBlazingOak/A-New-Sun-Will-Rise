@@ -1,3 +1,24 @@
+UKR = {
+    value = 25        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+EST = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+LIT = {
+    value = 200        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+BYE = {
+    value = -200        #relation
+    level = 1        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
 army = {
     name = "Wojsko of Warsaw"
     location = 706
@@ -119,7 +140,7 @@ army = {
 }
 
 army = {
-    name = "Krainakrólów Armia"
+    name = "Krainakrolow Armia"
     location = 695 #Krainakrólów
     regiment = {
         name= "I. Brygada Krainakrólów"
@@ -152,12 +173,57 @@ navy = {
     }
 
     ship = {
+        name= "Snarski"
+        type = frigate
+    }
+
+    ship = {
+        name= "Drach"
+        type = frigate
+    }
+
+    ship = {
+        name= "Bubel"
+        type = frigate
+    }
+
+    ship = {
+        name= "Pozniak"
+        type = frigate
+    }
+
+    ship = {
         name= "I. Transport Eskader"
         type = clipper_transport
     }
 
     ship = {
         name= "II. Transport Eskader"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "III. Transport Eskader"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "IV. Transport Eskader"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "V. Transport Eskader"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "VI. Transport Eskader"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "VII. Transport Eskader"
         type = clipper_transport
     }
 }

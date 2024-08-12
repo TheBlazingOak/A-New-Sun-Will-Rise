@@ -13,11 +13,11 @@ political_decisions = {
 				hot_blast = 1
 			}
 			effect = {
-				2089 = { RGO_size = 2 trade_goods = coal }
-				2091 = { RGO_size = 2 trade_goods = sulphur }
-				2092 = { RGO_size = 2 trade_goods = iron }
-				2099 = { RGO_size = 2 trade_goods = coal }
-				2097 = { RGO_size = 2 trade_goods = iron }
+				2089 = { trade_goods = coal }
+				2091 = { trade_goods = sulphur }
+				2092 = { trade_goods = iron }
+				2099 = { trade_goods = coal }
+				2097 = { trade_goods = iron }
 				set_global_flag = kaap_mines_opened
 				research_points = 1000
 				prestige = 5
@@ -149,7 +149,7 @@ political_decisions = {
 		}
 		allow = {
 			experimental_railroad = 1
-			prestige = 40
+			prestige = 15
 		}
 		effect = {
 			ENG_2092 = {secede_province = SAF}
@@ -186,17 +186,12 @@ political_decisions = {
 			naval_design_bureaus = 1
 		}
 		effect = {
-			any_core = {
-				limit = {
-					owned_by = THIS
-					is_capital = yes
-				}
-				add_province_modifier = { name = recently_built_city duration = 1825 }
-				add_province_modifier = { name = kaapstad_sandt duration = -1 }
-				naval_base = 2
-				railroad = 1
-				trade_goods = cotton
-			}
+			
+			2087 = { add_province_modifier = { name = recently_built_city duration = 1825 } }
+			2087 = { add_province_modifier = { name = kaapstad_sandt duration = -1 } }
+			2087 = { naval_base = 2 }
+			2087 = { railroad = 1 }
+			2087 = { trade_goods = cotton }
 			set_country_flag = kaapstad_renovated
 		}
 	}
@@ -213,17 +208,11 @@ political_decisions = {
 			mechanized_mining = 1
 		}
 		effect = {
-			any_core = {
-				limit = {
-					owned_by = THIS
-					is_capital = yes
-				}
-				add_province_modifier = { name = recently_built_city duration = 1825 }
-				add_province_modifier = { name = kaapstad_rooyen duration = -1 }
-				naval_base = 1
-				railroad = 2
-				trade_goods = coal
-			}
+			2087 = { add_province_modifier = { name = recently_built_city duration = 1825 } }
+			2087 = { add_province_modifier = { name = kaapstad_rooyen duration = -1 } }
+			2087 = { naval_base = 1 }
+			2087 = { railroad = 2 }
+			2087 = { trade_goods = coal }
 			set_country_flag = kaapstad_renovated
 		}
 	}
@@ -240,20 +229,36 @@ political_decisions = {
 			medicine = 1
 		}
 		effect = {
-			any_core = {
-				limit = {
-					owned_by = THIS
-					is_capital = yes
-				}
-				add_province_modifier = { name = recently_built_city duration = 1825 }
-				add_province_modifier = { name = kaapstad_volk duration = -1 }
-				railroad = 1
-				trade_goods = silk
-			}
+			2087 = {add_province_modifier = { name = recently_built_city duration = 1825 } }
+			2087 = { add_province_modifier = { name = kaapstad_volk duration = -1 } }
+			2087 = { railroad = 1 }
+			2087 = { trade_goods = silk }
 			set_country_flag = kaapstad_renovated
 		}
 	}
-
+	#The Kaap Education System
+	kaaper_education = {
+		alert = yes
+		potential = {
+			TAG = SAF
+			NOT = { has_country_flag = kaaper_education }
+		}
+		allow = {
+				positivism = 1
+				average_consciousness = 3
+				OR = {
+					AND = {
+					year = 2850
+					malthusian_thought = 1
+					average_consciousness = 4
+					}
+				}
+			}
+		effect = {
+			THIS = { add_country_modifier = { name = kaaper_education_reform duration = -1 } }
+			set_country_flag = kaaper_education
+		}
+	}
 }
 
 

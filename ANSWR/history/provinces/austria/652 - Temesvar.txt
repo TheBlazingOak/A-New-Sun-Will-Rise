@@ -1,7 +1,8 @@
 owner = BAN
 controller = BAN
+add_core = DAK
+add_core = SER
 add_core = BAN
-trade_goods = grain
+trade_goods = fruit
 life_rating = 35
-terrain = plains
-railroad = 1
+terrain = farmlands

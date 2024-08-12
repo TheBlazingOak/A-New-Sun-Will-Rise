@@ -1,0 +1,129 @@
+MCK = {
+    value = -200        #relation
+
+}
+army = {
+    name = "The White Army"
+    location = 1082
+
+    regiment = {
+        name= "1. Vladivostok White Army"
+        type = infantry
+        home = 1554
+    }
+
+    regiment = {
+        name= "2. Vladivostok White Army"
+        type = infantry
+        home = 3335
+    }
+
+    regiment = {
+        name= "3. Vladivostok White Army"
+        type = infantry
+        home = 3335
+    }
+
+    regiment = {
+        name= "4. Vladivostok White Army"
+        type = infantry
+        home = 3335
+    }
+
+    regiment = {
+        name= "1. Vladivostok White Army"
+        type = artillery
+        home = 3332
+    }
+    regiment = {
+        name= "2. Vladivostok White Army"
+        type = artillery
+        home = 3332
+    }
+    regiment = {
+        name= "3. Vladivostok White Army"
+        type = artillery
+        home = 1082
+    }
+    regiment = {
+        name= "Vladivostok Cavalry"
+        type = cavalry
+        home = 1083
+    }
+}
+
+army = {
+    name = "Jewish Oblast Garrison"
+    location = 2617
+
+    regiment = {
+        name= "1. Birobidzhan Garrison"
+        type = infantry
+        home = 1082
+    }
+
+    regiment = {
+        name= "2. Birobidzhan Garrison"
+        type = infantry
+        home = 1083
+    }
+
+    regiment = {
+        name= "1. Birobidzhan Garrison"
+        type = artillery
+        home = 1083
+    }
+    regiment = {
+        name= "2. Birobidzhan Garrison"
+        type = artillery
+        home = 3332
+    }
+    regiment = {
+        name= "1. Birobidzhan Cavalry"
+        type = hussar
+        home = 3335
+    }
+}
+navy = {
+    name = "Vladivostok Naval Transport"
+    location = 1082 #Krainakrólów
+    ship = {
+        name= "I. Transport Ships"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "II. Transport Ships"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "III. Transport Ships"
+        type = clipper_transport
+    }
+}
+leader = {
+    name = "Ivan Svetchnikov"
+    date = 2836.1.1
+    type = land
+    personality = adaptive
+    background = innovative_tactician
+    prestige = 0.25
+}
+leader = {
+    name = "Boris Maxovich"
+    date = 2836.1.1
+    type = land
+    personality = defiant
+    background = school_of_defense
+    prestige = 0.15
+}
+
+leader = {
+    name = "Surkov Shakovich"
+    date = 2836.1.1
+    type = sea
+    personality = mediocre
+    background = armchair_general
+    prestige = 0.1
+}

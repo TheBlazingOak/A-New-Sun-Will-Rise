@@ -280,19 +280,19 @@
     artisans = {
         culture = swiss
         religion = vitalic
-        size = 5500
+        size = 10500
     }
 
     soldiers = {
         culture = swiss
         religion = vitalic
-        size = 5100
+        size = 6100
     }
 
     farmers = {
         culture = swiss
         religion = vitalic
-        size = 80975
+        size = 130975
     }
 
 }
@@ -392,7 +392,12 @@
     craftsmen = {
         culture = swiss
         religion = vitalic
-        size = 25200
+        size = 30200
+    }
+    clerks = {
+        culture = swiss
+        religion = vitalic
+        size = 6000
     }
 }
 #Neuchatel (56000/14000 POPS)
@@ -400,7 +405,7 @@
     aristocrats = {
         culture = swiss
         religion = vitalic
-        size = 650
+        size = 1650
     }
 
     clergymen = {
@@ -424,7 +429,63 @@
     farmers = {
         culture = swiss
         religion = vitalic
-        size = 75625
+        size = 115625
+    }
+}
+#Konstanz (164000/41000 POPS)
+588 = {
+    aristocrats = {
+        culture = south_german
+        religion = ketronant
+        size = 350
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = ketronant
+        size = 375
+    }
+
+    artisans = {
+        culture = south_german
+        religion = ketronant
+        size = 1850
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = ketronant
+        size = 400
+    }
+
+    farmers = {
+        culture = south_german
+        religion = ketronant
+        size = 34025
+    }
+
+    clergymen = {
+        culture = swiss
+        religion = vitalic
+        size = 1375
+    }
+
+    artisans = {
+        culture = swiss
+        religion = vitalic
+        size = 8200
+    }
+
+    soldiers = {
+        culture = swiss
+        religion = vitalic
+        size = 3025
+    }
+
+    farmers = {
+        culture = swiss
+        religion = vitalic
+        size = 41700
     }
 }
 #Sitten (72000/18000) POPS
@@ -432,31 +493,31 @@
     aristocrats = {
         culture = swiss
         religion = vitalic
-        size = 650
+        size = 1650
     }
 
     clergymen = {
         culture = swiss
         religion = vitalic
-        size = 375
+        size = 1375
     }
 
     artisans = {
         culture = swiss
         religion = vitalic
-        size = 2100
+        size = 6100
     }
 
     soldiers = {
         culture = swiss
         religion = vitalic
-        size = 1500
+        size = 3500
     }
 
     farmers = {
         culture = swiss
         religion = vitalic
-        size = 28675
+        size = 128675
     }
 
 }
@@ -540,13 +601,13 @@
     soldiers = {
         culture = swiss
         religion = vitalic
-        size = 1100
+        size = 3100
     }
 
     farmers = {
         culture = swiss
         religion = vitalic
-        size = 15275
+        size = 35275
     }
 
     aristocrats = {
@@ -585,7 +646,7 @@
     aristocrats = {
         culture = swiss
         religion = vitalic
-        size = 400
+        size = 1400
     }
 
     clergymen = {
@@ -594,22 +655,28 @@
         size = 200
     }
 
+    bureaucrats = {
+        culture = swiss
+        religion = vitalic
+        size = 1200
+    }
+
     artisans = {
         culture = swiss
         religion = vitalic
-        size = 1350
+        size = 9350
     }
 
     soldiers = {
         culture = swiss
         religion = vitalic
-        size = 1000
+        size = 3000
     }
 
     farmers = {
         culture = swiss
         religion = vitalic
-        size = 26475
+        size = 66475
     }
     farmers = {
         culture = austro_german
@@ -653,13 +720,18 @@
     soldiers = {
         culture = swiss
         religion = vitalic
-        size = 2100
+        size = 3100
     }
 
     farmers = {
         culture = swiss
         religion = vitalic
         size = 64050
+    }
+    craftsmen = {
+        culture = swiss
+        religion = vitalic
+        size = 10500
     }
 }
 #Lons (314000/78500 POPS)
@@ -685,13 +757,18 @@
     soldiers = {
         culture = swiss
         religion = vitalic
-        size = 2000
+        size = 3000
     }
 
     farmers = {
         culture = swiss
         religion = vitalic
         size = 42400
+    }
+    craftsmen = {
+        culture = swiss
+        religion = vitalic
+        size = 25500
     }
 
 }
@@ -903,12 +980,12 @@
     farmers = {
         culture = swiss
         religion = vitalic
-        size = 42475
+        size = 82475
     }
     farmers = {
         culture = north_italian
         religion = vitalic
-        size = 12250
+        size = 52250
     }
 }
 #Piemonte Region (1610000)
@@ -1548,13 +1625,13 @@
     soldiers = {
         culture = swiss
         religion = vitalic
-        size = 500
+        size = 3500
     }
 
     farmers = {
         culture = swiss
         religion = vitalic
-        size = 23325
+        size = 73325
     }
 
     farmers = {
@@ -1571,7 +1648,7 @@
     clergymen = {
         culture = north_italian
         religion = vitalic
-        size = 35
+        size = 1135
     }
 
     artisans = {
@@ -1589,7 +1666,7 @@
     farmers = {
         culture = north_italian
         religion = vitalic
-        size = 9065
+        size = 49065
     }
 
     clergymen = {
@@ -1601,18 +1678,18 @@
     artisans = {
         culture = swiss
         religion = vitalic
-        size = 1000
+        size = 7000
     }
 
     soldiers = {
         culture = swiss
         religion = vitalic
-        size = 500
+        size = 3500
     }
 
     farmers = {
         culture = swiss
         religion = vitalic
-        size = 21325
+        size = 91325
     }
 }

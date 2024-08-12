@@ -1,6 +1,7 @@
 capital = 586
-primary_culture = south_german
-religion = catholic
+primary_culture = rhine_german
+culture = south_german
+religion = ketronant
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order

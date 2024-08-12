@@ -1,6 +1,7 @@
-owner = SWK
-controller = SWK
+owner = SBI
+controller = SBI
+add_core = SBI
 add_core = SWK
-trade_goods = fish
-life_rating = 31
+trade_goods = grain
+life_rating = 35
 naval_base = 1

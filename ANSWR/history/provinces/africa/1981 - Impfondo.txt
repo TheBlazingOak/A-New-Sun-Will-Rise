@@ -3,4 +3,5 @@ controller = SWI
 add_core = SWI
 add_core = SVY
 trade_goods = iron
-life_rating = 33
+life_rating = 35
+terrain = mining_district

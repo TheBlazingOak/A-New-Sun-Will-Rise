@@ -185,4 +185,22 @@ political_decisions = {
 		}
 		ai_will_do = { factor = 1 }  
 	}
+	form_ireland = {
+	picture = ireland
+		potential = {
+		primary_culture = irish
+		NOT = { tag = IRE }
+		}
+		allow = {
+			ENG_254 = { owned_by = THIS }
+			ENG_258 = { owned_by = THIS }
+			ENG_263 = { owned_by = THIS }
+		}
+		effect = {
+		prestige = 10
+		change_tag = IRE
+		any_owned = { limit = { is_core = IRE} remove_core = LEC remove_core = ULS remove_core = COC }
+		}
+		ai_will_do = { factor = 1 } 
+	}
 }

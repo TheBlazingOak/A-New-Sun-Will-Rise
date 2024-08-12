@@ -1,7 +1,8 @@
-owner = SWK
-controller = SWK
+owner = SBI
+controller = SBI
+add_core = SBI
 add_core = SWK
-trade_goods = fruit
+trade_goods = tropical_wood
 life_rating = 35
 2861.1.1 = {
     owner = SWK

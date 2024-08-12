@@ -2,10 +2,20 @@ owner = QUE
 controller = QUE
 add_core = QUE
 trade_goods = cattle
-life_rating = 39
+life_rating = 40
 railroad = 1
 state_building = {
-        level = 1
+        level = 3
         building = lumber_mill
+        upgrade = yes
+    }
+state_building = {
+        level = 3
+        building = clipper_shipyard
+        upgrade = yes
+    }
+state_building = {
+        level = 1
+        building = steel_factory
         upgrade = yes
     }

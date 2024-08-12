@@ -1,6 +1,9 @@
 owner = PAR
 controller = PAR
 add_core = PAR
+add_core = SIC
+add_core = TUS
+add_core = APU
 trade_goods = timber
 life_rating = 35
 naval_base = 1

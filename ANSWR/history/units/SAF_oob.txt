@@ -73,28 +73,28 @@ army = {
     }
 
     regiment = {
-        name= "IV. Afdeling"
-        type = infantry
+        name= "I. Cavalry"
+        type = hussar
         home = 2096
     }
 }
 army = {
-    name = "Madakagaskar Afdeling"
-    location = 2081
+    name = "Oos-Kaap Company"
+    location = 2098
     regiment = {
-        name= "I. Madakagaskar"
+        name= "I. Afdeling"
         type = guard
         home = 2087
     }
     regiment = {
-        name= "II. Madakagaskar"
+        name= "II. Afdeling"
         type = infantry
         home = 2090
     }
 
     regiment = {
-        name= "III. Madakagaskar"
-        type = infantry
+        name= "I. Cavalry"
+        type = hussar
         home = 2092
     }
 

@@ -8,7 +8,7 @@ ALS = { value = -75 }
 DPA = { value = -200 }
 
 army = {
-    name = "I. Armée Populaire"
+    name = "I. Armï¿½e Populaire"
     location = 427
     regiment = {
         name= "I. Bataillon populaire"
@@ -46,20 +46,25 @@ army = {
         home = 438
     }
     regiment = {
-        name= "I. Divisions De Chevaux"
-        type = cuirassier
-        home = 439
+        name= "IV. Lignes D'Artillerie"
+        type = artillery
+        home = 438
     }
     regiment = {
-        name= "II. Divisions De Chevaux"
-        type = cuirassier
-        home = 428
+        name= "V. Lignes D'Artillerie"
+        type = artillery
+        home = 429
+    }
+    regiment = {
+        name= "I. Divisions De Chevaux"
+        type = hussar
+        home = 439
     }
 }
 
 army = {
-    name = "II. Armée Populaire"
-    location = 406
+    name = "II. Armï¿½e Populaire"
+    location = 425
     regiment = {
         name= "I. Bataillon populaire"
         type = infantry
@@ -76,13 +81,18 @@ army = {
         home = 406
     }
     regiment = {
-        name= "I. Lignes D'Artillerie"
-        type = artillery
+        name= "IV. Bataillon populaire"
+        type = infantry
+        home = 428
+    }
+    regiment = {
+        name= "IV. Bataillon populaire"
+        type = infantry
         home = 428
     }
     regiment = {
         name= "I. Divisions De Chevaux"
-        type = cuirassier
+        type = hussar
         home = 439
     }
 }
@@ -116,12 +126,12 @@ navy = {
     }
 
     ship = {
-        name= "Trocadero "
+        name= "Trocaderoï¿½"
         type = manowar
     }
 
     ship = {
-        name= "Zélandais"
+        name= "Zï¿½landais"
         type = manowar
     }
 
@@ -141,7 +151,7 @@ navy = {
     }
 
     ship = {
-        name= "République Française"
+        name= "Rï¿½publique Franï¿½aise"
         type = manowar
     }
 
@@ -151,12 +161,12 @@ navy = {
     }
 
     ship = {
-        name= "Thétis"
+        name= "Thï¿½tis"
         type = frigate
     }
 
     ship = {
-        name= "Astrée"
+        name= "Astrï¿½e"
         type = frigate
     }
 
@@ -191,7 +201,7 @@ leader = {
 }
 
 leader = {
-    name = "Cédric Brousseau"
+    name = "Cï¿½dric Brousseau"
     date = 2835.12.1
     type = sea
     personality = cautious

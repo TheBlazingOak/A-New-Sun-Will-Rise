@@ -1,5 +1,6 @@
-owner = NIN
-controller = NIN
+owner = BIC
+controller = BIC
+add_core = BIC
 add_core = NIN
 add_core = PHL
 trade_goods = iron

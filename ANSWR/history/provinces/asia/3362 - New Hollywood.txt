@@ -1,6 +1,7 @@
-owner = SWK
-controller = SWK
+owner = SBI
+controller = SBI
+add_core = SBI
 add_core = SWK
 trade_goods = timber
 terrain = montane_forest
-life_rating = 31
+life_rating = 35

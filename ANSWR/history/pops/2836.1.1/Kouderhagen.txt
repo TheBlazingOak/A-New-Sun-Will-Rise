@@ -460,6 +460,13 @@
         religion = ketronant
         size = 97323
     }
+
+    craftsmen = {
+        culture = dutch
+        religion = ketronant
+        size = 30323
+    }
+
     farmers = {
         culture = rhine_german
         religion = ketronant
@@ -515,7 +522,7 @@
     aristocrats = {
         culture = dutch
         religion = ketronant
-        size = 2260
+        size = 3260
     }
     clergymen = {
         culture = dutch
@@ -545,7 +552,7 @@
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 136745
+        size = 186745
     }
     farmers = {
         culture = rhine_german
@@ -556,6 +563,16 @@
         culture = flanish
         religion = ketronant
         size = 12150
+    }
+    craftsmen = {
+        culture = dutch
+        religion = ketronant
+        size = 17150
+    }
+    clerks = {
+        culture = dutch
+        religion = ketronant
+        size = 3650
     }
 }
 #Former Ghat - Now Nordhorn(16000/4000 POPS)
@@ -587,7 +604,7 @@
     soldiers = {
         culture = dutch
         religion = ketronant
-        size = 1500
+        size = 3500
     }
 
     farmers = {
@@ -605,7 +622,7 @@
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 47255
+        size = 87255
     }
 
     farmers = {
@@ -911,31 +928,31 @@
     aristocrats = {
         culture = dutch
         religion = ketronant
-        size = 1500
+        size = 2500
     }
 
     officers = {
         culture = dutch
         religion = ketronant
-        size = 200
+        size = 1200
     }
 
     bureaucrats = {
         culture = dutch
         religion = ketronant
-        size = 400
+        size = 1400
     }
 
     clergymen = {
         culture = dutch
         religion = ketronant
-        size = 625
+        size = 1625
     }
 
     capitalists = {
         culture = dutch
         religion = ketronant
-        size = 100
+        size = 400
     }
 
     clerks = {
@@ -971,13 +988,7 @@
     labourers = {
         culture = dutch
         religion = ketronant
-        size = 93725
-    }
-
-    labourers = {
-        culture = dutch
-        religion = ketronant
-        size = 66725
+        size = 203725
     }
 
 }
@@ -1114,36 +1125,31 @@
     aristocrats = {
         culture = dutch
         religion = ketronant
-        size = 650
+        size = 1650
     }
 
     clergymen = {
         culture = dutch
         religion = ketronant
-        size = 475
+        size = 1575
     }
 
     artisans = {
         culture = dutch
         religion = ketronant
-        size = 3700
+        size = 9700
     }
 
     soldiers = {
         culture = dutch
         religion = ketronant
-        size = 1100
+        size = 3100
     }
 
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 35175
-    }
-    farmers = {
-        culture = dutch
-        religion = ketronant
-        size = 24175
+        size = 105175
     }
 
 }
@@ -1160,13 +1166,13 @@
     bureaucrats = {
         culture = dutch
         religion = ketronant
-        size = 25
+        size = 1225
     }
 
     officers = {
         culture = dutch
         religion = ketronant
-        size = 50
+        size = 250
     }
 
     clergymen = {
@@ -1184,25 +1190,19 @@
     soldiers = {
         culture = dutch
         religion = ketronant
-        size = 2000
+        size = 3000
     }
 
     farmers = {
         culture = rhine_german
         religion = ketronant
-        size = 43500
+        size = 83500
     }
 
     farmers = {
         culture = dutch
         religion = ketronant
-        size = 3580
-    }
-
-    farmers = {
-        culture = dutch
-        religion = ketronant
-        size = 26320
+        size = 46320
     }
 }
 

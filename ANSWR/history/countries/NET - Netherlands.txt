@@ -5,11 +5,11 @@ religion = ketronant
 government = prussian_constitutionalism
 plurality = 30.0
 nationalvalue = nv_productivity
-literacy = 0.70
+literacy = 0.83
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 125
+prestige = 250
 
 # Political reforms
 slavery = no_slavery
@@ -84,11 +84,15 @@ ad_hoc_money_bill_printing = 1
 late_classical_theory = 1
 high_pressure_steam_engine = 1
 market_structure = 1
+battleship_column_doctrine = 1
+steamers = 1
+medicine = 1
 
 #Inventions
 precision_work = yes
 commerce_raiders = yes
 steamer_transports = yes
+steamer_shipyards = yes
 
 # Starting Consciousness
 consciousness = 3

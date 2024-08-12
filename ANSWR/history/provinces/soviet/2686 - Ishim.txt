@@ -1,5 +1,7 @@
 owner = OMS
 controller = OMS
 add_core = OMS
+add_core = SIB
+add_core = URA
 trade_goods = sulphur
 life_rating = 35
