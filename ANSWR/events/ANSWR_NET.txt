@@ -254,8 +254,8 @@ country_event = {
 		has_global_flag = hostile_kerajaan
 		exists = NET
 		exists = JAV
-		tag = JAV
-		NOT = { has_country_flag = }
+		tag = NET
+		NOT = { has_country_flag = kerajaan_war_avoided has_country_flag = kerajaan_war }
 	}
 	mean_time_to_happen = {
 		months = 1
@@ -270,6 +270,7 @@ country_event = {
 			defender_goal = { casus_belli =  status_quo }
 			call_ally = yes
 		}
+		set_country_flag = kerajaan_war
 		ai_chance = { factor = 90 }
 	}
 	#Back off
@@ -278,6 +279,7 @@ country_event = {
 		prestige = -15
 		JAV = { country_event = { id = 52045 days = 0}}
 		ai_chance = { factor = 10 }
+		set_country_flag = kerajaan_war_avoided
 	}
 }
 #Kerajaan notified that it avoided war
