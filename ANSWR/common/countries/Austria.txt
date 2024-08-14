@@ -1,4 +1,5 @@
 color = { 236  236  236 }
+graphical_culture = AustriaHungaryGC
 
 party = {
     name = "AUS_conservative"

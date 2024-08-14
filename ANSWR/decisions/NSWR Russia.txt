@@ -99,4 +99,21 @@ political_decisions = {
 		}
 	}
 
+	vladivostok_asia ={
+		alert = yes
+		potential = {
+			tag = VLD
+			prestige = 1
+			NOT = { has_country_flag = asia_expansion }
+		}
+		allow = {
+			1080 = { owned_by = THIS }
+			}
+		effect ={
+			RUS_1071 = { add_core = THIS }
+			RUS_1072 = { add_core = THIS }
+			set_country_flag = asia_expansion
+		}
+	}
+
 }

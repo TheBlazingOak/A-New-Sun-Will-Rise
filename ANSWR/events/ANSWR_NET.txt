@@ -210,3 +210,98 @@ country_event = {
 		}
 	}
 }
+# Kerajaan Expedition Chain
+country_event = {
+	id = 52043
+	title = "EVTNAME52043"
+	desc = "EVTDESC52043"
+	trigger = {
+		has_global_flag = kerajaan_expeditions
+		exists = NET
+		exists = JAV
+		tag = JAV
+		NOT = { has_global_flag = hostile_kerajaan has_global_flag =  welcoming_kerajaan }
+	}
+	mean_time_to_happen = {
+		months = 6
+	}
+	#Kill these trespassers
+	option = {
+		name = "EVTOPTA52043"
+		set_global_flag = hostile_kerajaan
+		ai_chance = { factor = 65 }
+	}
+	#Appease the foreigners with Aceh
+	option = {
+		name = "EVTOPTB52043"
+		set_global_flag = welcoming_kerajaan
+		diplomatic_influence = { who = NET value = 100 }
+		relation = {
+			who = NET
+			value = 150
+		}
+		NET = { country_event = { id = 52046 days = 0}}
+		ai_chance = { factor = 35 }
+	}
+}
+# Hostile Kerajaan Expedition
+country_event = {
+	id = 52044
+	title = "EVTNAME52044"
+	desc = "EVTDESC52044"
+	trigger = {
+		has_global_flag = kerajaan_expeditions
+		has_global_flag = hostile_kerajaan
+		exists = NET
+		exists = JAV
+		tag = JAV
+		NOT = { has_country_flag = }
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+	#Our ambitions in the indies must be realized
+	option = {
+		name = "EVTOPTA52044"
+		war = {
+			target = JAV
+			attacker_goal = { casus_belli =  demand_concession_casus_belli state_province_id = 1413 }
+			attacker_goal = { casus_belli =  demand_concession_casus_belli state_province_id = 1421 }
+			defender_goal = { casus_belli =  status_quo }
+			call_ally = yes
+		}
+		ai_chance = { factor = 90 }
+	}
+	#Back off
+	option = {
+		name = "EVTOPTB52043"
+		prestige = -15
+		JAV = { country_event = { id = 52045 days = 0}}
+		ai_chance = { factor = 10 }
+	}
+}
+#Kerajaan notified that it avoided war
+country_event = {
+	id = 52045
+	title = "EVTNAME52045"
+	desc = "EVTDESC52045"
+	is_triggered_only = yes
+	#That was close
+	option = {
+		name = "EVTOPTA52045"
+		prestige = 5
+	}
+}
+#Peaceful transfer of Aceh
+country_event = {
+	id = 52046
+	title = "EVTNAME52046"
+	desc = "EVTDESC52046"
+	is_triggered_only = yes
+	#Thank them, and occupy Aceh
+	option = {
+		name = "EVTOPTA52045"
+		prestige = 5
+		ATJ_1405 = { secede_province = THIS }
+	}
+}

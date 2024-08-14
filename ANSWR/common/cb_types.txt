@@ -4813,7 +4813,6 @@ annex_africa = {
                         region = FRA_1927
                         region = FRA_1930
                         region = SOK_1934
-                        region = SOK_1945
                         region = SOK_1937
                     }
                 }
@@ -4826,7 +4825,7 @@ annex_africa = {
                                 region = FRA_1927
                                 region = FRA_1930
                                 region = SOK_1934
-                                region = SOK_1945
+    
                                 region = SOK_1937
                             }
                         }
@@ -4838,7 +4837,7 @@ annex_africa = {
                                 region = FRA_1927
                                 region = FRA_1930
                                 region = SOK_1934
-                                region = SOK_1945
+    
                                 region = SOK_1937
                             }
                         }
@@ -4888,7 +4887,7 @@ annex_africa = {
             AND = {
                 any_owned_province = {
                     OR = {
-                        region = FRA_1783
+                        
                         region = FRA_1788
                         region = FRA_1775
                     }
@@ -4898,7 +4897,7 @@ annex_africa = {
                         civilized = yes
                         any_owned_province = {
                             OR = {
-                                region = FRA_1783
+                                
                                 region = FRA_1788
                                 region = FRA_1775
                             }
@@ -4907,7 +4906,7 @@ annex_africa = {
                     any_greater_power = {
                         any_owned_province = {
                             OR = {
-                                region = FRA_1783
+                                
                                 region = FRA_1788
                                 region = FRA_1775
                             }
@@ -5268,7 +5267,6 @@ annex_africa = {
                         region = FRA_1927
                         region = FRA_1930
                         region = SOK_1934
-                        region = SOK_1945
                         region = SOK_1937
                     }
                 }
@@ -5282,7 +5280,7 @@ annex_africa = {
                                     region = FRA_1927
                                     region = FRA_1930
                                     region = SOK_1934
-                                    region = SOK_1945
+        
                                     region = SOK_1937
                                 }
                             }
@@ -5294,7 +5292,7 @@ annex_africa = {
                                     region = FRA_1927
                                     region = FRA_1930
                                     region = SOK_1934
-                                    region = SOK_1945
+        
                                     region = SOK_1937
                                 }
                             }
@@ -5351,7 +5349,7 @@ annex_africa = {
             AND = {
                 any_owned_province = {
                     OR = {
-                        region = FRA_1783
+                        
                         region = FRA_1788
                         region = FRA_1775
                     }
@@ -5362,7 +5360,7 @@ annex_africa = {
                             civilized = yes
                             any_owned_province = {
                                 OR = {
-                                    region = FRA_1783
+                                    
                                     region = FRA_1788
                                     region = FRA_1775
                                 }
@@ -5371,7 +5369,7 @@ annex_africa = {
                         any_greater_power = {
                             any_owned_province = {
                                 OR = {
-                                    region = FRA_1783
+                                    
                                     region = FRA_1788
                                     region = FRA_1775
                                 }
@@ -5833,7 +5831,6 @@ annex_africa_full = {
                         region = FRA_1927
                         region = FRA_1930
                         region = SOK_1934
-                        region = SOK_1945
                         region = SOK_1937
                     }
                 }
@@ -5846,7 +5843,7 @@ annex_africa_full = {
                                 region = FRA_1927
                                 region = FRA_1930
                                 region = SOK_1934
-                                region = SOK_1945
+    
                                 region = SOK_1937
                             }
                         }
@@ -5858,7 +5855,7 @@ annex_africa_full = {
                                 region = FRA_1927
                                 region = FRA_1930
                                 region = SOK_1934
-                                region = SOK_1945
+    
                                 region = SOK_1937
                             }
                         }
@@ -5908,7 +5905,7 @@ annex_africa_full = {
             AND = {
                 any_owned_province = {
                     OR = {
-                        region = FRA_1783
+                        
                         region = FRA_1788
                         region = FRA_1775
                     }
@@ -5918,7 +5915,7 @@ annex_africa_full = {
                         civilized = yes
                         any_owned_province = {
                             OR = {
-                                region = FRA_1783
+                                
                                 region = FRA_1788
                                 region = FRA_1775
                             }
@@ -5927,7 +5924,7 @@ annex_africa_full = {
                     any_greater_power = {
                         any_owned_province = {
                             OR = {
-                                region = FRA_1783
+                                
                                 region = FRA_1788
                                 region = FRA_1775
                             }
@@ -9033,7 +9030,7 @@ claim_colonial_region = {
                             region = FRA_1927
                             region = FRA_1930
                             region = SOK_1934
-                            region = SOK_1945
+
                             region = SOK_1937
                         }
                     }
@@ -9044,7 +9041,6 @@ claim_colonial_region = {
                         region = FRA_1927
                         region = FRA_1930
                         region = SOK_1934
-                        region = SOK_1945
                         region = SOK_1937
                     }
                 }
@@ -9064,14 +9060,14 @@ claim_colonial_region = {
                 THIS = {
                     any_owned_province = {
                         OR = {
-                            region = FRA_1783
+                            
                             region = FRA_1775
                         }
                     }
                 }
                 any_owned_province = {
                     OR = {
-                        region = FRA_1783
+                        
                         region = FRA_1788
                         region = FRA_1775
                     }
@@ -9357,7 +9353,7 @@ claim_colonial_region = {
                             region = FRA_1927
                             region = FRA_1930
                             region = SOK_1934
-                            region = SOK_1945
+
                             region = SOK_1937
                         }
                     }
@@ -9368,7 +9364,6 @@ claim_colonial_region = {
                         region = FRA_1927
                         region = FRA_1930
                         region = SOK_1934
-                        region = SOK_1945
                         region = SOK_1937
                     }
                 }
@@ -9388,14 +9383,14 @@ claim_colonial_region = {
                 THIS = {
                     any_owned_province = {
                         OR = {
-                            region = FRA_1783
+                            
                             region = FRA_1775
                         }
                     }
                 }
                 any_owned_province = {
                     OR = {
-                        region = FRA_1783
+                        
                         region = FRA_1788
                         region = FRA_1775
                     }
@@ -9709,7 +9704,7 @@ claim_colonial_region_full = {
                             region = FRA_1927
                             region = FRA_1930
                             region = SOK_1934
-                            region = SOK_1945
+
                             region = SOK_1937
                         }
                     }
@@ -9720,7 +9715,6 @@ claim_colonial_region_full = {
                         region = FRA_1927
                         region = FRA_1930
                         region = SOK_1934
-                        region = SOK_1945
                         region = SOK_1937
                     }
                 }
@@ -9741,15 +9735,12 @@ claim_colonial_region_full = {
                     NOT = { tag = TUR }
                     any_owned_province = {
                         OR = {
-                            region = FRA_1783
                             region = FRA_1775
                         }
                     }
                 }
                 any_owned_province = {
                     OR = {
-                        region = FRA_1783
-                        region = FRA_1788
                         region = FRA_1775
                     }
                 }

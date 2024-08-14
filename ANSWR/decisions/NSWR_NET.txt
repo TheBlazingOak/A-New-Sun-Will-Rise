@@ -44,7 +44,6 @@ political_decisions = {
 
 			war = no
 			QUE = { 
-				is_greater_power = no
 				OR = {
 					owns = 75
 					owns = 74
@@ -93,6 +92,54 @@ political_decisions = {
 			1882 = { trade_goods = iron }
 			1886 = { trade_goods = grain }
 			3337 = { trade_goods = iron }
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expeditions_to_kerajaan = {
+	picture = the_aceh
+		potential = {
+			tag = NET
+			exists = JAV
+			NOT = {
+				1413 = { owned_by = THIS }
+				1418 = { owned_by = THIS }
+				has_global_flag = kerajaan_expeditions
+			}
+			year = 2840
+		}
+		
+		allow = {
+			war = no
+			exists = JAV
+		}
+		
+		effect = {
+			set_global_flag = kerajaan_expeditions
+			prestige = 5
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	stanz_water_werkts = {
+	picture = city_plans
+		potential = {
+			tag = NET
+			year = 2840
+			has_country_flag = royal_harbour
+		}
+		
+		allow = {
+			mechanized_mining
+		}
+		
+		effect = {
+			set_country_flag = stanz_water_werkts
+			
 		}
 		
 		ai_will_do = {

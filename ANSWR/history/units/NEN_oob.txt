@@ -10,7 +10,7 @@ army = {
     location = 241
     regiment = {
         name= "I. Cavalry"
-        type = hussars
+        type = hussar
         home = 234
     }
 
@@ -143,8 +143,8 @@ leader = {
     name = "Evan Foster"
     date = 2836.1.1
     type = land
-    personality = megalomaniac
-    background = amateur
+    personality = stalwart
+    background = megalomaniac
     prestige = 0.15
 }
 

@@ -2608,7 +2608,7 @@
         size = 170125
     }
     farmers = {
-        culture = great_plainer
+        culture = plainer
         religion = protestant
         size = 3000
     }

@@ -117,7 +117,7 @@ country_event = {
     	tag = THIS
     	}
     	}
-    	countryevent = { id=52012 days=0}
+    	country_event = { id=52012 days=0}
     	add_country_modifier = {
 		name = new_american_national_identity
 		duration = -1
@@ -281,174 +281,6 @@ country_event = {
 	}
 }
 
-#Quest for Washington
-country_event = {
-	id = 52017
-	title = "EVTNAME52017" 
-	desc = "EVTDESC52017"
-	picture = yankee
-	fire_only_once = yes
-
-	mean_time_to_happen = {
-        days = 200
-        modifier = {
-            factor = 0.2
-            nationalism_n_imperialism = 1
-        }
-		modifier = {
-            factor = 0.9
-            year = 2850
-        }
-		modifier = {
-            factor = 2.0
-            war = yes
-        }            
-    }
-
-	trigger = {
-		exists = NEN
-		tag = NEN
-		year = 2840
-		220 = { owned_by = { is_culture_group = american_cultures } }
-		has_country_modifier = quest_for_washington
-			NOT = {
-				owns = 220
-			}
-		}
-
-	option = {
-	name = "EVT52017OPTA" #Washington is ours!
-	prestige = 5
-	add_core = 2146
-	any_country = {
-	limit = {
-	owns = 2146
-		}
-	relation = {
-		who = NEN
-		value = -50
-				}
-			}
-	ai_chance = {
-            factor = 60
-            modifier = {
-            factor = 75
-            stronger_army_than = { any_country = { owns = 2146 } }
-        		}
-            }
-		}
-	option = {
-	name = "EVT52017OPTB" #Attempt to buy it off of them
-	effect = {
-	money = -100000
-	set_global_flag = buy_washington
-	}
-	ai_chance = {
-	factor = 30
-	modifier = {
-            factor = 20
-            stronger_army_than = { any_country = { owns = 2146 } }
-        	}
-   	modifier = {
-   			factor = 50
-   			NOT = { money = 125000 }
-   			}
-		}
-	}
-	option = {
-	name = "EVT52017OPTC" #It's not worth it...
-	prestige = -2.5
-	badboy = -1.0
-	ai_chance = {
-	factor = 10
-	modifier = {
-            factor = 5
-            stronger_army_than = { any_country = { owns = 2146 } }
-        		}
-		}
-	}
-}
-#Quest for Washington Owner Response Event
-country_event = {
-	id = 52018
-	title = "EVTNAME52018" #Proposal for Washington
-	desc = "EVTDESC52018"
-	picture = treaty_of_tientsin
-
-	mean_time_to_happen = {
-        days = 200 }
-
-	trigger = {
-	has_global_flag = quest_for_washington
-	AND = { has_global_flag = buy_washington }
-	}
-
-	option = {
-	name = "EVT52018OPTA" #Agree to $100000
-	220 = { change_owner = FROM add_core = FROM }
-	money = 100000
-	any_country = {
-		limit = {
-		tag = FROM
-			}
-	country_event = { id = 52019 days = 0 }
-			}
-		ai_chance = {
-		factor = 75
-		}
-	}
-	option = {
-	name = "EVT52018OPTB" #Don't sell
-		limit = {
-		tag = FROM
-		}
-	country_event = { id = 52020 days = 0 }
-			}
-		ai_chance = {
-		factor = 25
-		modifier = { 
-		factor = 95
-		stronger_army_than = FROM 
-				}
-			}
-		}
-#Washington Sold!
-country_event = {
-	id = 52019
-	title = "EVTNAME52019" #Gain Washington
-	desc = "EVTDESC52019"
-	picture = big_parade
-	is_triggered_only = yes
-
-	option = {
-	name = "EVT52019OPTA" #Great
-	prestige = 5
-	}
-}
-#They said no!
-country_event = {
-	id = 52020
-	title = "EVTNAME52020" #Money back
-	desc = "EVTDESC52020"
-	picture = yankee
-	is_triggered_only = yes
-
-	option = {
-	name = "EVT52020OPTA" #It's our rightful clay!
-	money = 100000
-	220 = { add_core = THIS }
-	ai_chance = {
-	factor = 25
-	modifier = { stronger_army_than = FROM }
-		}
-	}
-	option = {
-	name = "EVT52020OPTB" #I suppose that we could back down
-	money = 100000
-	prestige = -5
-	}
-}
-
 ###Transpacifica###
 ##Unification Events##
 #Alaska Core
@@ -563,7 +395,7 @@ country_event = {
 	option = {
 	name = "EVTOPTA52103"
 		LOS_89 = { add_core = THIS }
-		LOS_90 = { add_core = THIS }
+		MEX_85 = { add_core = THIS }
 		MEX_100 = { add_core = THIS }
 		set_country_flag = los_angeles_core
 		badboy = -20

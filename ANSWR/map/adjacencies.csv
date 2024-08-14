@@ -60,8 +60,9 @@ From;To;Type;Through;Data;Comment
 2036;2048;sea;2901;0;Zanzibar Strait
 2123;2124;sea;2902;0;Comoros-Mayotte
 1755;1756;sea;2942;0;Suez strait
-
-
+2019;2034;sea;3102;0;Ukerewe Strait
+1991;1997;sea;3103;0;Tanganyika Strait
+2000;2001;sea;2917;0;Nork Strait
 #
 # European Straits
 #
@@ -76,7 +77,15 @@ From;To;Type;Through;Data;Comment
 372;533;sea;2711;0;Copenhagen-Guldborg
 367;348;sea;2712;0;Aalsburg-Hjorring
 533;373;sea;2711;0;Guldborg-Odense
-375;385;sea;2722;0;Bay of Holland
+375;378;sea;2722;0;Bay of Holland
+377;378;sea;2723;0;Dogger Bank
+467;431;sea;3326;0;Straits of Parii
+467;429;sea;3326;0;Straits of Parii
+424;418;sea;3325;0;Straits of Britanny
+441;440;sea;3326;0;Straits of Tours
+460;459;sea;3323;0;Cruce del Rio #Mont de Marsan to Pau
+463;457;sea;3323;0;Cruce del Rio #Foix to Carcassonne
+405;397;sea;3328;0;Sea of Picardy strait
 473;766;sea;2751;0;Sassari Strait
 826;824;sea;2764;0;Corfu Strait
 826;853;sea;2764;0;Corfu Strait
@@ -142,7 +151,6 @@ From;To;Type;Through;Data;Comment
 2565;1460;land;2850;0;Cebu Strait
 1461;1463;land;2850;0;Davao Strait
 1462;1460;land;2850;0;Iloilo Strait
-1462;1464;sea;2851;0;Sulu Strait
 1440;1439;sea;2810;0;Sumbawa-Flores Strait
 1440;1441;sea;2808;0;Sumbawa-Sumba Strait
 1441;1443;sea;2809;0;Sumba-Roti Strait
@@ -164,7 +172,9 @@ From;To;Type;Through;Data;Comment
 1088;1074;sea;2838;0;Shumshu-Petropavlovsk Strait
 1637;1635;sea;2829;0;Cheju-Kwangju Strait
 12;1645;land;2841;0;Sado-Niigata Strait
-
+1249;1282;sea;3307;0;Kharswari Strait
+1249;1262;sea;3307;0;Kharswari Strait
+1248;1270;sea;3303;0;Gaya Strait
 #
 # Asian Straits
 #
@@ -192,13 +202,19 @@ From;To;Type;Through;Data;Comment
 #1643;1087;sea;2831;0;Sakhalin Strait #removed
 1664;1666;sea;2843;0;Matsuyama Strait
 1667;1659;sea;2843;0;Setto Strait
+2465;1462;sea;2850;0;Fuerte Pilaria Strait
+3348;3341;sea;2850;0;Palo Strait
+2465;3341;sea;2850;0;Palo-Cebu Strait
+1461;3348;sea;2850;0;Bislig-Tacloban Strait
+1455;3334;sea;2849;0;Lipa Subic Strait
+1455;1457;sea;2849;0;Naga-Tacloban Strait
+1458;1460;sea;2850;0;Mindoro-Iloilo Strait
 #Philippines
 1455;1458;sea;2848;0;Isla Verde passages #Manila to Mindoro
 1458;1459;sea;2848;0;Mindoro Bay #Mindoro to Palawan
 1461;2565;sea;2850;0;Cebu Strait #Tacloban to Cebu
 1461;1463;sea;2850;0;Surigao Strait #Tacloban to Davao
 2565;1460;sea;2850;0;Tanon Strait #Cebu to Iloilo
-1462;1464;sea;2851;0;Sulu Sea #Zamboanga to Sulu
 
 #
 # Oceanian Straits

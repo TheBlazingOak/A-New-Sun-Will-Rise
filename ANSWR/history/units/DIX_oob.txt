@@ -48,7 +48,7 @@ leader = {
     name = "George S. Smith"
     date = 2836.1.1
     type = land
-    personality = sycophant
+    personality = efficient
     background = aristocrat
     prestige = 0.05
 }
@@ -57,7 +57,7 @@ leader = {
     name = "Henry Summers"
     date = 2836.1.1
     type = sea
-    personality = toady
+    personality = ballsy
     background = aristocrat
     prestige = 0.05
 }

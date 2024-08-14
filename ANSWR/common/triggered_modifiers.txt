@@ -138,6 +138,14 @@ education_fully_funded = {
     icon = 19
 }
 
+lack_of_code = {
+    trigger = {
+        NOT = { has_global_flag = international_code }
+    }
+    badboy = -0.25
+    icon = 1
+}
+
 neglected_education = {
     trigger = {
         exists = yes

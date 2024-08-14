@@ -2,7 +2,7 @@ political_decisions = {
 	organize_swiss_africa = {
 	picture = map_ghana
 		potential = {
-			tag = NET
+			tag = SWI
 			NOT = {
 				has_country_flag = swiss_africa
 			}
@@ -22,7 +22,7 @@ political_decisions = {
 			1917 = { trade_goods = coffee }
 			1911 = { trade_goods = tea }
 			1916 = { trade_goods = coffee }
-			1913 = { trade_goods = tabacco }
+			1913 = { trade_goods = tobacco }
 		}
 		
 		ai_will_do = {

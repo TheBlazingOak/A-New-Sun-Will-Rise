@@ -259,7 +259,6 @@ PROV1644;Meakan;;;;;;;;;;;;x
 PROV1443;Rote;;;;;;;;;;;;x
 PROV2224;Freire;;;;;;;;;;;;x
 PROV2220;Caetano;;;;;;;;;;;;x
-CHI_1082;Guanwai;;;;;;;;;;;;x
 PROV2591;Tranquebar;;;;;;;;;;;;x
 PROV2625;North West River;;;;;;;;;;;;x
 PROV2580;Novaya Ladoga;;;;;;;;;;;;x
@@ -527,8 +526,7 @@ SIA_1392;Ayutthaya;;;;;;;;;;;;x
 BRU_1396;Sabah;;;;;;;;;;;;x
 NET_1401;Siak;;;;;;;;;;;;x
 YEM_1412;Aden;;;;;;;;;;;;x
-NET_1413;West Java;;;;;;;;;;;;x
-NET_1418;East Java;;;;;;;;;;;;x
+NET_1418;East Kerajaan;;;;;;;;;;;;x
 NET_1446;Timor;;;;;;;;;;;;x
 NET_1447;Moluccas;;;;;;;;;;;;x
 NET_1449;Celebes;;;;;;;;;;;;x
@@ -702,8 +700,6 @@ SIA_1392;Ayutthaya;;;;;;;;;;;;x
 BRU_1396;Sabah;;;;;;;;;;;;x
 NET_1401;Siak;;;;;;;;;;;;x
 YEM_1412;Aden;;;;;;;;;;;;x
-NET_1413;West Java;;;;;;;;;;;;x
-NET_1418;East Java;;;;;;;;;;;;x
 NET_1446;Timor;;;;;;;;;;;;x
 NET_1449;Celebes;;;;;;;;;;;;x
 PROV1469;Uriankhai;;;;;;;;;;;;x
@@ -888,7 +884,8 @@ PROV3324;The Metz Gulf;;;;;;;;;;;x
 PROV3325;Strait of Britanny;;;;;;;;;;;x
 PROV3326;Straits of Parii;;;;;;;;;;;x
 PROV3327;Straits of Savoie;;;;;;;;;;;x
-NET_1413;West Java;;;;;;;;;;;;x
+NET_1413;West Kerajaan;;;;;;;;;;;;x
+PROV1413;Jakarta;;;;;;;;;;;;x
 NET_375;Kwijtplaats;;;;;;;;;;;;x
 NET_385;Hartlands;;;;;;;;;;;;x
 PROV425;Parii;;;;;;;;;;;;x
@@ -1279,7 +1276,7 @@ PROV1457;Naga;;;;;;;;;;;;x
 PROV3333;Bolshegrad;;;;;;;;;;;;x
 PROV3336;Cabanatuan;;;;;;;;;;;;x
 PROV3340;Tangchun;;;;;;;;;;;;x
-PROV3334;Upper Subic;;;;;;;;;;;;x
+PROV3334;Subic;;;;;;;;;;;;x
 PROV1455;Lipa;;;;;;;;;;;;x
 PROV3337;Brodoro;;;;;;;;;;;;x
 PROV1649;New Tokyo;;;;;;;;;;;;x
