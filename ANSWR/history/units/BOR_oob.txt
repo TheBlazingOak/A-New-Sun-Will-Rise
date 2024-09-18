@@ -1,0 +1,181 @@
+TUR = {
+    value = -200        #relation
+
+}
+IST = {
+    value = -200        #relation
+
+}
+KDS = {
+    value = -200        #relation
+
+}
+DON = {
+    value = -200        #relation
+
+}
+SYR = {
+    value = -200        #relation
+
+}
+TCA = {
+    value = -200        #relation
+
+}
+CRI = {
+    value = -200        #relation
+
+}
+TCA = {
+    value = -200        #relation
+
+}
+LBN = {
+    value = -200        #relation
+
+}
+ASY = {
+    value = -200        #relation
+
+}
+AZB = {
+    value = -200        #relation
+
+}
+army = {
+    name = "The Emperor's Retinue"
+    location = 877
+
+    regiment = {
+        name= "1. Blekgard"
+        type = guard
+        home = 879
+    }
+
+    regiment = {
+        name= "2. Blekgard"
+        type = guard
+        home = 879
+    }
+
+    regiment = {
+        name= "3. Blekgard"
+        type = guard
+        home = 888
+    }
+
+    regiment = {
+        name= "4. Blekgard"
+        type = guard
+        home = 884
+    }
+
+    regiment = {
+        name= "1. Topoven Polk"
+        type = artillery
+        home = 879
+    }
+    regiment = {
+        name= "2. Topoven Polk"
+        type = artillery
+        home = 882
+    }
+    regiment = {
+        name= "3. Topoven Polk"
+        type = artillery
+        home = 887
+    }
+    regiment = {
+        name= "4. Topoven Polk"
+        type = artillery
+        home = 888
+    }
+    regiment = {
+        name= "5. Topoven Polk"
+        type = artillery
+        home = 887
+    }
+    regiment = {
+        name= "Borgar Cavalry"
+        type = hussar
+        home = 888
+    }
+}
+army = {
+    name = "Mladi Avantyuristi"
+    location = 878
+
+    regiment = {
+        name= "1. Diviziya"
+        type = infantry
+        home = 884
+    }
+
+    regiment = {
+        name= "2. Diviziya"
+        type = infantry
+        home = 887
+    }
+
+    regiment = {
+        name= "3. Diviziya"
+        type = infantry
+        home = 888
+    }
+    regiment = {
+        name= "4. Diviziya"
+        type = infantry
+        home = 884
+    }
+    regiment = {
+        name= "5. Diviziya"
+        type = infantry
+        home = 888
+    }
+
+    regiment = {
+        name= "6. Diviziya"
+        type = infantry
+        home = 882
+    }
+
+    regiment = {
+        name= "7. Diviziya"
+        type = infantry
+        home = 884
+    }
+
+    regiment = {
+        name= "1. Topoven Polk"
+        type = artillery
+        home = 887
+    }
+    regiment = {
+        name= "2. Topoven Polk"
+        type = artillery
+        home = 882
+    }
+    regiment = {
+        name= "1. Borgar Cavalry"
+        type = hussar
+        home = 888
+    }
+}
+leader = {
+    name = "Zakov the Black"
+    date = 2836.1.1
+    type = land
+    picture = rus_gen_read
+    personality = chivalrous
+    background = uncommonly_young
+    prestige = 0.25
+}
+leader = {
+    name = "Boris Sirakov"
+    date = 2836.1.1
+    type = land
+    picture = russian_general_0
+    personality = ballsy
+    background = hated
+    prestige = 0.15
+}

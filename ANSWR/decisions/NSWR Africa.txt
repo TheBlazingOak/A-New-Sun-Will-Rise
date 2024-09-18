@@ -1,0 +1,75 @@
+political_decisions = {
+	#North Africa Flavor
+	integrate_the_banu = {
+		alert = yes
+		potential = {
+			tag = ALD
+        	exists = yes
+        	NOT = { has_country_flag = banu_integrated }
+		}
+		allow = {
+			prestige = 1
+			}
+		effect = {
+			set_country_flag = banu_integrated
+        	prestige = 3
+        	FRA_1700 = { assimilate = yes }
+		}
+	}
+	the_tuareg_menace = {
+		alert = yes
+		picture = map_algeria
+		potential = {
+			tag = ALD
+			has_country_flag = banu_integrated
+			NOT = {has_country_flag = southern_expansion}
+		}
+		allow = {
+			prestige = 1
+			}
+		effect = {
+			ALD_1713 = { add_core = THIS }
+			set_country_flag = southern_expansion
+		}
+	}
+	restore_the_dey_of_constantine = {
+		alert = yes
+		picture = moroccan_partition
+		potential = {
+			tag = ALD
+			has_country_flag = southern_expansion
+			NOT = {has_country_flag = dey_of_constantine}
+		}
+		allow = {
+			prestige = 1
+			}
+		effect = {
+			prestige = 3
+			1708 = { add_core = THIS } 
+			1709 = { add_core = THIS }
+			relation = { who = APU value = -200}
+			set_country_flag = dey_of_constantine
+		}
+	}
+	restore_the_dey_of_tunis = {
+		alert = yes
+		picture = moroccan_partition
+		potential = {
+			tag = ALD
+			has_country_flag = southern_expansion
+			NOT = {has_country_flag = dey_of_tunis}
+		}
+		allow = {
+			prestige = 1
+			1708 = {owned_by = THIS}
+			1709 = {owned_by = THIS}
+			}
+		effect = {
+			prestige = 3
+			TUN_1726 = { add_core = THIS } 
+			relation = { who = APU value = -200}
+			set_country_flag = dey_of_tunis
+		}
+	}
+#END OF POLITICAL BRACKETS
+}

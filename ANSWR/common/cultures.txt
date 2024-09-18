@@ -667,6 +667,21 @@ south_slavic = {
         Tsaklev Valkov Valnarov Vasilev Vazov Velchev Zafirov Zhekov Zlatarev Zlatev
         }
     }
+    borgar = {
+        color = {5 26 78}
+        first_names = { Aleksandar Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar
+        Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Kardam Kimon Kiril
+        Kliment Konstantin Krastyu Leonid Mihail Nikifor Niloa Pencho Petar Petko
+        Petur Pravoslav Racho Radko Radoy Sava Simeon Sotir Stanislav Stanko
+        Stefan Stiliyan Stoyu Teodosi Todor Trifon Valko Vasil Velizar Vulko
+        }
+        last_names = { Agura Balabanov Balkanski Battemberg Blaskov Boyadzhiev Bradistilov Charakchiev Daskalov Dikov
+        Dimitriev Draganov Fichev Georgiev Hesapchiev Ilyev Ivanov Kirkov Kovachev Krayonski
+        Kutinchev Lazarov Lukov Marinkov Marinov Mutkorov Naydenov Nazlamov Nikiforov Nikolaev
+        Pakov Petrov Radev Saksokoburggotski Savov Sirakov Solarov Stoyanov Tenev Todorov
+        Tsaklev Valkov Valnarov Vasilev Vazov Velchev Zafirov Zhekov Zlatarev Zlatev
+        }
+    }
     slovene = {
         color = {0 90 128}
         first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
@@ -1371,6 +1386,17 @@ arab = {
             }
         radicalism = 10
     }
+    banu = {
+        color = {151 75 70}
+        first_names = {
+            Ahmed "Abd al-Karim" Khalid Muhammad Mustafa
+            }
+
+        last_names = {
+            "al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
+            }
+        radicalism = 25
+    }
     maures = {
         color = {252 125 78}
         first_names = { Abbas Malamah Abu "Ibn Muhammad" Tariq Farraj Galib Hajib Amira Asim Hasan Hayyan Jalaf Mansur Maymun Mujahid Mutarrif Nasr Tabit Tamim Ubada Ufayr Umar Wasil Yazid Yunus Zuhayr
@@ -1769,6 +1795,16 @@ south_asian = {
     }
     utara = {
         color = {190 190 140}
+        first_names = { Chetan Fakirbhai Jivraj Madhavsingh Khemchand Manubhai Bharatsingh Balwantry Chabildas Maniraj
+
+        }
+
+        last_names = { Pansara Vaghela Solanki Modhvadia Mehta Baro Parmar
+
+        }
+    }
+    swathanthrar = {
+        color = {153 0 0}
         first_names = { Chetan Fakirbhai Jivraj Madhavsingh Khemchand Manubhai Bharatsingh Balwantry Chabildas Maniraj
 
         }

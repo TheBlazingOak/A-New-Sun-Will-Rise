@@ -1,0 +1,458 @@
+#Sivas (224000/56000 POPS)
+879 = {
+
+    bureaucrats = {
+        culture = borgar
+        religion = the_broken
+        size = 1250
+    }
+
+    officers = {
+        culture = borgar
+        religion = the_broken
+        size = 1000
+    }
+
+    aristocrats = {
+        culture = borgar
+        religion = the_broken
+        size = 2100
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 450
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 1250
+    }
+
+    serfs = {
+        culture = turkish
+        religion = sunni
+        size = 10700
+    }
+
+    soldiers = {
+        culture = borgar
+        religion = the_broken
+        size = 17000
+    }
+
+    clergymen = {
+        culture = borgar
+        religion = the_broken
+        size = 2110
+    }
+
+    artisans = {
+        culture = borgar
+        religion = the_broken
+        size = 6100
+    }
+
+    farmers = {
+        culture = borgar
+        religion = the_broken
+        size = 91875
+    }
+}
+#Erzurum (168000/42000 POPS)
+887 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 125
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 650
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 1100
+    }
+
+    serfs = {
+        culture = turkish
+        religion = sunni
+        size = 10875
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 300
+    }
+
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 1100
+    }
+
+    serfs = {
+        culture = kurdish
+        religion = sunni
+        size = 4350
+    }
+
+    soldiers = {
+        culture = borgar
+        religion = the_broken
+        size = 9000
+    }
+
+    clergymen = {
+        culture = borgar
+        religion = the_broken
+        size = 510
+    }
+
+    artisans = {
+        culture = borgar
+        religion = the_broken
+        size = 2100
+    }
+
+    farmers = {
+        culture = borgar
+        religion = the_broken
+        size = 21875
+    }
+}
+#Erzincan (312000/78000 POPS)
+888 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 600
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 2500
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 700
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 45350
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 225
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 1150
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 100
+    }
+
+    serfs = {
+        culture = turkish
+        religion = sunni
+        size = 21175
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 950
+    }
+
+    serfs = {
+        culture = kurdish
+        religion = sunni
+        size = 16450
+    }
+
+
+    soldiers = {
+        culture = borgar
+        religion = the_broken
+        size = 12000
+    }
+
+    clergymen = {
+        culture = borgar
+        religion = the_broken
+        size = 1110
+    }
+
+    artisans = {
+        culture = borgar
+        religion = the_broken
+        size = 6100
+    }
+
+    farmers = {
+        culture = borgar
+        religion = the_broken
+        size = 33340
+    }
+
+}
+#Trabzon (208000/52000 POPS)
+882 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 550
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 1100
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 175
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 1750
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 21025
+    }
+
+    farmers = {
+        culture = circassian
+        religion = sunni
+        size = 150
+    }
+
+    aristocrats = {
+        culture = borgar
+        religion = the_broken
+        size = 2110
+    }
+
+    officers = {
+        culture = borgar
+        religion = the_broken
+        size = 110
+    }
+
+    soldiers = {
+        culture = borgar
+        religion = the_broken
+        size = 9200
+    }
+
+    clergymen = {
+        culture = borgar
+        religion = the_broken
+        size = 125
+    }
+
+    artisans = {
+        culture = borgar
+        religion = the_broken
+        size = 1650
+    }
+
+    farmers = {
+        culture = borgar
+        religion = the_broken
+        size = 22225
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 110
+    }
+
+    officers = {
+        culture = armenian
+        religion = coptic
+        size = 110
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 200
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 110
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 250
+    }
+
+    serfs = {
+        culture = armenian
+        religion = coptic
+        size = 4700
+    }
+}
+#Giresun (140000/35000 POPS)
+884 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 1250
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 16000
+    }
+
+    soldiers = {
+        culture = borgar
+        religion = the_broken
+        size = 11110
+    }
+
+    clergymen = {
+        culture = borgar
+        religion = the_broken
+        size = 110
+    }
+
+    artisans = {
+        culture = borgar
+        religion = the_broken
+        size = 400
+    }
+
+    farmers = {
+        culture = borgar
+        religion = the_broken
+        size = 27525
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 110
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 110
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 100
+    }
+
+    serfs = {
+        culture = armenian
+        religion = coptic
+        size = 1875
+    }
+}

@@ -1,15 +1,14 @@
 capital = 1707
 primary_culture = maghrebi
 culture = berber
-culture = tuareg
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.22
 non_state_culture_literacy = 0.01
 
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = no_meeting
@@ -66,20 +65,14 @@ nonstate_consciousness = 0
 
 oob = "ALD_oob.txt"
 
-2861.1.1 = {
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+foreign_officers = yes_foreign_officers
+army_schools = yes_army_schools
+military_constructions = yes_military_constructions
+foreign_artillery = yes_foreign_artillery
+education_reform = yes_education_reform
 
-    # Political reforms
-    slavery = no_slavery
-
-    foreign_training = yes_foreign_training
-    foreign_weapons = yes_foreign_weapons
-    foreign_officers = yes_foreign_officers
-    army_schools = yes_army_schools
-
-    # Technologies
-    military_staff_system = 1
-    flintlock_rifles = 1
-
-    # Inventions
-
-}
+# Technologies
+military_staff_system = 1
+flintlock_rifles = 1

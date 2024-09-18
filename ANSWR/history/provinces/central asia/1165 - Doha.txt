@@ -1,6 +1,8 @@
-owner = NEJ
-controller = NEJ
+owner = FSD
+controller = FSD
 add_core = NEJ
+add_core = FSD
+add_core = OMA
 trade_goods = fish
 terrain = semidesert
-life_rating = 34
+life_rating = 35

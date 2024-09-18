@@ -79,7 +79,7 @@
     }
 
     soldiers = {
-        culture = bedouin
+        culture = swathanthrar
         religion = sunni
         size = 1050
     }
@@ -87,13 +87,13 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 1525
+        size = 9525
     }
 
-    slaves = {
-        culture = forest_bantu
-        religion = animist
-        size = 200
+    farmers = {
+        culture = swathanthrar
+        religion = sunni
+        size = 7525
     }
 }
 #Uman Region (36000) #see Oman.txt for balance of region
@@ -107,45 +107,45 @@
     }
 
     bureaucrats = {
-        culture = bedouin
+        culture = swathanthrar
         religion = sunni
-        size = 15
+        size = 1000
     }
 
     officers = {
-        culture = bedouin
+        culture = swathanthrar
         religion = sunni
         size = 10
     }
 
     clergymen = {
-        culture = bedouin
+        culture = swathanthrar
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = bedouin
+        culture = swathanthrar
         religion = sunni
         size = 250
     }
 
     soldiers = {
-        culture = bedouin
+        culture = swathanthrar
         religion = sunni
-        size = 1000
+        size = 6000
+    }
+
+    farmers = {
+        culture = swathanthrar
+        religion = sunni
+        size = 23650
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 3650
-    }
-
-    slaves = {
-        culture = forest_bantu
-        religion = animist
-        size = 800
+        size = 13650
     }
 }
 #Dubai (16000/4000 POPS)   #now part of UAE
@@ -156,20 +156,71 @@
         size = 50
     }
 
+    officers = {
+        culture = swathanthrar
+        religion = sunni
+        size = 10
+    }
+
+    clergymen = {
+        culture = swathanthrar
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = swathanthrar
+        religion = sunni
+        size = 250
+    }
+
+    soldiers = {
+        culture = swathanthrar
+        religion = sunni
+        size = 6000
+    }
+
+    farmers = {
+        culture = swathanthrar
+        religion = sunni
+        size = 63650
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 52625
+    }
+
+}
+#Khasab - Former Oyotuni/Chokurdakh
+2664 = {
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = bedouin
+        religion = sunni
+        size = 50
+    }
+
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 75
+        size = 50
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 200
+        size = 1000
     }
 
     soldiers = {
-        culture = bedouin
+        culture = swathanthrar
         religion = sunni
         size = 1000
     }
@@ -177,13 +228,12 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 2625
+        size = 8300
     }
 
     farmers = {
-        culture = persian
-        religion = shiite
-        size = 300
+        culture = swathanthrar
+        religion = sunni
+        size = 6000
     }
-
 }

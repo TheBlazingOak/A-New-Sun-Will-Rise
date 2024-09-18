@@ -10,7 +10,7 @@ political_decisions = {
 		}
 
 		allow = {
-			prestige = 45
+			prestige = 25
 			nationalism_n_imperialism = 1
 			war = no
 			OR = {

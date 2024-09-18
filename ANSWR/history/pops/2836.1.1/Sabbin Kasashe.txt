@@ -78,31 +78,31 @@
 
     aristocrats = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 150
     }
 
     clergymen = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 100
     }
 
     artisans = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 500
     }
 
     soldiers = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 100
     }
 
     farmers = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 12150
     }
 }
@@ -206,31 +206,31 @@
 
     aristocrats = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 350
     }
 
     clergymen = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 100
     }
 
     artisans = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 450
     }
 
     soldiers = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 100
     }
 
     farmers = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 7000
     }
 }
@@ -334,31 +334,31 @@
 
     aristocrats = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 20
     }
 
     clergymen = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 50
     }
 
     artisans = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 100
     }
 
     soldiers = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 30
     }
 
     farmers = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 7800
     }
 }
@@ -396,31 +396,31 @@
 
     aristocrats = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 575
     }
 
     clergymen = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 150
     }
 
     artisans = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 1500
     }
 
     soldiers = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 1150
     }
 
     farmers = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 33625
     }
 
@@ -465,7 +465,7 @@
 
     farmers = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 15225
     }
 }
@@ -503,7 +503,7 @@
 
     farmers = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 12725
     }
 }
@@ -547,7 +547,7 @@
 
     farmers = {
         culture = tuareg
-        religion = harami
+        religion = sunni
         size = 13725
     }
 }

@@ -1550,6 +1550,13 @@ the_statue_of_liberty = {
     icon = 15
 }
 
+bottom_of_the_earth = {
+    prestige = 0.02
+    global_immigrant_attract = 0.5
+    global_assimilation_rate = 0.5
+    icon = 15
+}
+
 ### Congo ###
 
 congo_company = {
@@ -1586,13 +1593,6 @@ germania_werft = {
     local_repair = 0.5
     local_ship_build = -0.05
     icon = 15
-}
-
-ruhr_boom = {
-    factory_owner_cost = -0.5
-    global_population_growth = 0.001
-    factory_throughput = 0.05
-    icon = 11
 }
 
 prussian_general_staff = {
@@ -2601,7 +2601,21 @@ quest_for_washington = {
 
 dutch_dijkes = {
     icon = 19
-    population_growth = 0.0004 
+    population_growth = 0.0001 
+}
+
+improved_dutch_dijkes = {
+    icon = 19
+    farm_rgo_size = 0.5
+    farm_rgo_eff = 0.5
+    population_growth = 0.001
+}
+
+stanz_boom = {
+    factory_owner_cost = -0.5
+    global_population_growth = 0.01
+    factory_throughput = 0.05
+    icon = 11
 }
 
 adzinoki_propaganda = {
@@ -2615,11 +2629,18 @@ adzinoki_propaganda = {
 groot_kouderstad_harbour = {
     local_ship_build = -0.5
     local_repair = 0.5
-    global_immigrant_attract = 0.35
+    immigrant_attract = 0.5
     rich_income_modifier = 0.10
     middle_income_modifier = 0.05
     poor_income_modifier = 0.05
     icon = 3
+}
+
+stanz_boom = {
+    factory_owner_cost = -0.5
+    global_population_growth = 0.001
+    factory_throughput = 0.05
+    icon = 11
 }
 
 oudrijk_prince = {

@@ -1,0 +1,343 @@
+#Walata (28000/7000 POPS)
+1781 = {
+    aristocrats = {
+        culture = tuareg
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 5400
+    }
+
+    aristocrats = {
+        culture = tuareg
+        religion = sunni
+        size = 75
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 14675
+    }
+}
+#Rio de Oro Region (16000) #see West Sahara.txt for balance of region
+#uncolonized in 1836
+#Bir Maghrein (16000/4000 POPS) #now part of Mauritania
+1782 = {
+
+    aristocrats = {
+        culture = tuareg
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 25
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 12700
+    }
+
+}
+#Shingit (12000/3000 POPS)
+1779 = {
+    aristocrats = {
+        culture = tuareg
+        religion = sunni
+        size = 40
+    }
+
+    bureaucrats = {
+        culture = tuareg
+        religion = sunni
+        size = 3
+    }
+
+    officers = {
+        culture = tuareg
+        religion = sunni
+        size = 7
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 25
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 12700
+    }
+}
+#Dahkla (8000/2000 POPS)
+1774 = {
+
+    aristocrats = {
+        culture = tuareg
+        religion = sunni
+        size = 10
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = sunni
+        size = 15
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = sunni
+        size = 50
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 1225
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 3300
+    }
+
+}
+#Nouakchott (92000/23000 POPS)
+1775 = {
+    aristocrats = {
+        culture = tuareg
+        religion = sunni
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = tuareg
+        religion = sunni
+        size = 20
+    }
+
+    officers = {
+        culture = tuareg
+        religion = sunni
+        size = 5
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = sunni
+        size = 225
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = sunni
+        size = 925
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 13125
+    }
+}
+
+#In Guezzam (8000/2000 POPS)
+1721 = {
+    aristocrats = {
+        culture = tuareg
+        religion = sunni
+        size = 2450
+    }
+
+    bureaucrats = {
+        culture = tuareg
+        religion = sunni
+        size = 1200
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = sunni
+        size = 1000
+    }
+
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 9265
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 85900
+    }
+}
+#Bissau (32000/8000 POPS)
+1877 = {
+
+        aristocrats = {
+        culture = tuareg
+        religion = sunni
+        size = 300
+    }
+
+    officers = {
+        culture = tuareg
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 3000
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 21048
+    }
+}
+#Port Albert
+2573 = {
+    aristocrats = {
+        culture = tuareg
+        religion = sunni
+        size = 650
+    }
+
+    bureaucrats = {
+        culture = tuareg
+        religion = sunni
+        size = 50
+    }
+
+    officers = {
+        culture = tuareg
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = sunni
+        size = 350
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 1400
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 21300
+    }
+
+    farmers = {
+        culture = yankee
+        religion = protestant
+        size = 2000
+    }
+}

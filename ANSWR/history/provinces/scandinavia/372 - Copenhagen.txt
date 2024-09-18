@@ -2,7 +2,7 @@ owner = SAP
 controller = SAP
 add_core = SAP
 trade_goods = precious_goods
-life_rating = 39
+life_rating = 40
 naval_base = 1
 fort = 1
 

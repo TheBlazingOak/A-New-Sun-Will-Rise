@@ -1,5 +1,5 @@
-owner = OTA
-controller = OTA
+owner = TCA
+controller = TCA
 add_core = WGO
 add_core = TCA
 add_core = GEO

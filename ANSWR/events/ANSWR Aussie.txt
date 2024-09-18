@@ -2,7 +2,7 @@
 country_event = {
 
     id = 52300
-    title = "EVTNAME52300" #Istoslavia wants us to join them
+    title = "EVTNAME52300"
     desc = "EVTDESC52300"
     picture = "big_parade"
     trigger = {
@@ -113,3 +113,24 @@ country_event = {
         ENG_2505 = { add_core = HAE }
     }
 }
+#Failures of the Erera Company
+country_event = {
+    id = 52303
+    title = "EVTNAME52303" #Failures of the Erera Company
+    desc = "EVTDESC52303"
+    picture = "colonial_east_asia"
+    trigger = {
+        has_country_flag = the_new_hae
+        has_country_flag = the_eastern_conquest
+        NOT = {has_country_flag = end_of_erera}
+    }
+
+    mean_time_to_happen = { months = 120 }
+
+    option = {
+        name = "EVT52303OPTA"
+        set_country_flag = end_of_erera
+        inherit = EQG
+    }
+}
+

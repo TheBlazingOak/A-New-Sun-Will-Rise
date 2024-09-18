@@ -3,33 +3,39 @@
 #Port Moresby (212000/53000 POPS)
 2528 = {
     aristocrats = {
-        culture = melanesian
-        religion = animist
-        size = 1025
+        culture = new_australian
+        religion = syndic
+        size = 2025
     }
 
     clergymen = {
-        culture = melanesian
-        religion = animist
-        size = 525
+        culture = new_australian
+        religion = syndic
+        size = 1525
     }
 
     artisans = {
-        culture = melanesian
-        religion = animist
-        size = 2650
+        culture = new_australian
+        religion = syndic
+        size = 8650
     }
 
     soldiers = {
-        culture = melanesian
-        religion = animist
-        size = 550
+        culture = new_australian
+        religion = syndic
+        size = 6550
     }
 
     farmers = {
         culture = melanesian
         religion = animist
-        size = 48350
+        size = 18350
+    }
+
+    farmers = {
+        culture = new_australian
+        religion = syndic
+        size = 75000
     }
 }
 #Kerema (116000/29000 POPS)
@@ -63,6 +69,11 @@
         religion = animist
         size = 26400
     }
+    farmers = {
+        culture = new_australian
+        religion = syndic
+        size = 10000
+    }
 }
 #Lae (264000/66000 POPS)
 2530 = {
@@ -93,7 +104,12 @@
     farmers = {
         culture = melanesian
         religion = animist
-        size = 60075
+        size = 40075
+    }
+    farmers = {
+        culture = new_australian
+        religion = syndic
+        size = 30000
     }
 }
 #Madang (300000/75000 POPS)
@@ -125,7 +141,12 @@
     farmers = {
         culture = melanesian
         religion = animist
-        size = 68375
+        size = 48375
+    }
+    farmers = {
+        culture = new_australian
+        religion = syndic
+        size = 30000
     }
 }
 #Northern Melanesia (226000)
@@ -151,9 +172,15 @@
     }
 
     soldiers = {
-        culture = melanesian
-        religion = animist
+        culture = new_australian
+        religion = syndic
         size = 275
+    }
+
+    farmers = {
+        culture = new_australian
+        religion = syndic
+        size = 19275
     }
 
     farmers = {
@@ -161,38 +188,47 @@
         religion = animist
         size = 23675
     }
+
+
 }
 #New Britain (144000/POPS)
 2537 = {
     aristocrats = {
-        culture = melanesian
-        religion = animist
-        size = 700
+        culture = new_australian
+        religion = syndic
+        size = 1700
     }
 
     clergymen = {
-        culture = melanesian
-        religion = animist
+        culture = new_australian
+        religion = syndic
         size = 350
     }
 
     artisans = {
-        culture = melanesian
-        religion = animist
+        culture = new_australian
+        religion = syndic
         size = 1800
     }
 
     soldiers = {
-        culture = melanesian
-        religion = animist
-        size = 375
+        culture = new_australian
+        religion = syndic
+        size = 3075
     }
 
     farmers = {
         culture = melanesian
         religion = animist
-        size = 32775
+        size = 12775
     }
+
+    farmers = {
+        culture = new_australian
+        religion = syndic
+        size = 60000
+    }
+
 }
 #Bougainville (56000/POPS)
 2539 = {
@@ -224,5 +260,10 @@
         culture = melanesian
         religion = animist
         size = 12750
+    }
+    farmers = {
+        culture = new_australian
+        religion = syndic
+        size = 10000
     }
 }

@@ -1,6 +1,8 @@
-owner = OMA
-controller = OMA
+owner = FSD
+controller = FSD
+add_core = NEJ
+add_core = FSD
 add_core = OMA
 trade_goods = fruit
-life_rating = 31
+life_rating = 40
 terrain = semidesert

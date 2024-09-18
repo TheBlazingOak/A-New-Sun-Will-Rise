@@ -131,15 +131,41 @@ political_decisions = {
 			tag = NET
 			year = 2840
 			has_country_flag = royal_harbour
+			owns = 375
+			owns = 400
+			owns = 387
+			NOT = { has_country_flag = stanz_water_werkts }
 		}
 		
 		allow = {
-			mechanized_mining
+			mechanized_mining = 1
+			compound_steam_engines = 1
+			business_regulations = 1
+			industrial_score = 150
 		}
 		
 		effect = {
 			set_country_flag = stanz_water_werkts
-			
+			add_country_modifier = {
+                name = stanz_boom
+                duration = 3650
+            }
+            NET_385 = { remove_province_modifier = dutch_dijkes
+            	add_province_modifier = { name = improved_dutch_dijkes duration = -1 } }
+            HAN_540 = { remove_province_modifier = dutch_dijkes
+            	add_province_modifier = { name = improved_dutch_dijkes duration = -1 } }
+            NET_375 = { remove_province_modifier = dutch_dijkes
+            	add_province_modifier = { name = improved_dutch_dijkes duration = -1 } }
+            BEL_387 = { remove_province_modifier = dutch_dijkes
+            	add_province_modifier = { name = improved_dutch_dijkes duration = -1 } } 
+            any_province = {
+            	limit = {
+            		owned_by = NET
+            		has_province_modifier = dutch_dijkes
+            	}
+            	remove_province_modifier = dutch_dijkes
+            	add_province_modifier = { name = improved_dutch_dijkes duration = -1 }
+            }
 		}
 		
 		ai_will_do = {

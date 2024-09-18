@@ -29,13 +29,9 @@ political_decisions = {
 		}
 
 		allow = {
-				prestige = 35
 			OR = {
-				prestige = 50
-				2146 = { owned_by = THIS }
-				2146 ={
-					owner = { in_sphere = THIS }
-					}
+				AND = { prestige = 25 ai = no }
+				AND = { ai = yes prestige = 35 year = 2850}
 				}
 			}
 
@@ -46,6 +42,7 @@ political_decisions = {
 			duration = 730
 			}
 			set_global_flag = quest_for_washington
+			USA_219 = { add_core = THIS }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -63,7 +60,9 @@ political_decisions = {
 		allow = {
 			prestige = 75
 			nationalism_n_imperialism = 1
-			OR = { is_greater_power = yes
+			OR = { 
+			ai = yes
+			is_greater_power = yes
 			year = 2870
 			}
 			}

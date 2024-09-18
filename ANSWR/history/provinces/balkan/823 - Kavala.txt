@@ -1,5 +1,8 @@
 owner = NSR
 controller = NSR
 add_core = NSR
+add_core = BUL
+add_core = IST
+add_core = JAM
 trade_goods = tobacco
 life_rating = 35

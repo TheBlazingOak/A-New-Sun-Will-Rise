@@ -1,6 +1,7 @@
-owner = OTA
-controller = OTA
-add_core = OTA
+owner = BOR
+controller = BOR
+add_core = BOR
 add_core = ARM
-trade_goods = cattle
+add_core = TUR
+trade_goods = coal
 life_rating = 35

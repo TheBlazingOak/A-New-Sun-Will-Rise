@@ -1,103 +1,79 @@
-FRA = {
+APU = {
     value = -150
 }
 
 leader = {
-    name = "Emir Abdelkader"
+    name = "Regent Osman Timsit"
     type = land
     date = 2836.1.1
     personality = stalwart
     background = school_of_offense
-    prestige = 0.1
+    prestige = 0.15
 }
 
 leader = {
-    name = "Ahmed Bey"
+    name = "Kaseeb Zakaria"
     type = land
-    date = 1780.1.1
+    date = 2800.1.1
     personality = stalwart
     background = elderly
     prestige = 0.1
 }
 
 army = {
-    name = "Army of Emir Abdelkader"
+    name = "Army of the Regent"
     location = 1707
     regiment = {
-        name= "1.Askäris"
+        name= "1.Division"
         type = infantry
         home = 1707
     }
 
     regiment = {
-        name= "2.Askäris"
+        name= "2.Division"
         type = irregular
         home = 1702
     }
 
     regiment = {
-        name= "3.Askäris"
+        name= "3.Division"
         type = irregular
         home = 1705
     }
 
     regiment = {
-        name= "1.Spahis"
+        name= "1.Cavalry"
         type = cavalry
         home = 1705
     }
 
     regiment = {
-        name= "2.Spahis"
+        name= "2.Cavalry"
         type = cavalry
         home = 1715
     }
 
     regiment = {
-        name= "3.Spahis"
+        name= "3.Cavalry"
         type = cavalry
         home = 1713
     }
 
-}
-
-army = {
-    name = "Army of the Bey of Constantine"
-    location = 1713
     regiment = {
-        name= "4.Askäris"
-        type = irregular
-        home = 1708
+        name= "1.Artillery"
+        type = artillery
+        home = 1707
     }
 
     regiment = {
-        name= "5.Askäris"
-        type = irregular
-        home = 1703
+        name= "2.Artillery"
+        type = artillery
+        home = 1705
     }
 
     regiment = {
-        name= "6.Askäris"
-        type = irregular
-        home = 1702
+        name= "3.Artillery"
+        type = artillery
+        home = 1707
     }
-
-    regiment = {
-        name= "7.Askäris"
-        type = irregular
-        home = 1703
-    }
-
-    regiment = {
-        name= "3.Spahis"
-        type = irregular
-        home = 1708
-    }
-
-    regiment = {
-        name= "4.Spahis"
-        type = irregular
-        home = 1710
-    }
-
 }

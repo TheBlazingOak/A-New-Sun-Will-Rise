@@ -1,6 +1,6 @@
 capital = 823
-primary_culture = croat
-religion = orthodox
+primary_culture = skrvat
+religion = the_broken
 government = absolute_monarchy
 plurality = 10.0
 nationalvalue = nv_liberty
@@ -71,8 +71,6 @@ mechanical_production = 1
 #Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 0
-
-oob = "SER_oob.txt"
 2861.1.1 = {
     oob = "/1861/SER_oob.txt"
 }

@@ -1,5 +1,7 @@
-owner = SYC
-controller = SYC
-add_core = SYC
+owner = IST
+controller = IST
+add_core = BUL
+add_core = ROM
+add_core = IST
 trade_goods = grain
 life_rating = 35

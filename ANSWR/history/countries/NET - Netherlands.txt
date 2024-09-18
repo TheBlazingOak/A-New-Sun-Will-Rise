@@ -9,7 +9,7 @@ literacy = 0.83
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 200
+prestige = 130
 
 # Political reforms
 slavery = no_slavery
@@ -28,7 +28,7 @@ safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
-school_reforms = no_schools
+school_reforms = acceptable_schools
 
 # New Reforms
 conscription = one_year_draft

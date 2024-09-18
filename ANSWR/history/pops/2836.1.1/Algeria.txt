@@ -2,41 +2,6 @@
 #Ruled by France 1836
 #Algiers (280000/70000 POPS)
 1700 = {
-    aristocrats = {
-        culture = parish
-        religion = catholic
-        size = 100
-    }
-
-    bureaucrats = {
-        culture = parish
-        religion = catholic
-        size = 150
-    }
-
-    clergymen = {
-        culture = parish
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = parish
-        religion = catholic
-        size = 1500
-    }
-
-    soldiers = {
-        culture = parish
-        religion = catholic
-        size = 2000
-    }
-
-    farmers = {
-        culture = parish
-        religion = catholic
-        size = 225
-    }
 
     clergymen = {
         culture = maghrebi
@@ -47,7 +12,7 @@
     artisans = {
         culture = maghrebi
         religion = sunni
-        size = 4500
+        size = 1500
     }
 
     soldiers = {
@@ -59,63 +24,26 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 54200
+        size = 24200
     }
 
     clergymen = {
-        culture = berber
+        culture = banu
         religion = sunni
         size = 25
     }
 
 
     soldiers = {
-        culture = berber
+        culture = banu
         religion = sunni
         size = 200
     }
 
     farmers = {
-        culture = berber
+        culture = banu
         religion = sunni
-        size = 4675
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 500
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 600
+        size = 64675
     }
     ########
 }
@@ -161,48 +89,48 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 77375
+        size = 23375
     }
 
     aristocrats = {
-        culture = berber
+        culture = banu
         religion = sunni
         size = 300
     }
 
     officers = {
-        culture = berber
+        culture = banu
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = berber
+        culture = banu
         religion = sunni
         size = 250
     }
 
     artisans = {
-        culture = berber
+        culture = banu
         religion = sunni
         size = 1350
     }
 
     soldiers = {
-        culture = berber
+        culture = banu
         religion = sunni
-        size = 350
+        size = 3350
     }
 
     farmers = {
-        culture = berber
+        culture = banu
         religion = sunni
-        size = 20675
+        size = 85675
     }
 
     slaves = {
-        culture = forest_bantu
-        religion = animist
+        culture = tuareg
+        religion = sunni
         size = 5000
     }
 }
@@ -275,8 +203,8 @@
     }
 
     slaves = {
-        culture = forest_bantu
-        religion = animist
+        culture = tuareg
+        religion = sunni
         size = 6000
     }
 }
@@ -573,8 +501,8 @@
     ########
 
     slaves = {
-        culture = forest_bantu
-        religion = animist
+        culture = tuareg
+        religion = sunni
         size = 8000
     }
 }
@@ -641,8 +569,8 @@
     }
 
     slaves = {
-        culture = forest_bantu
-        religion = animist
+        culture = tuareg
+        religion = sunni
         size = 2000
     }
 }
@@ -1182,8 +1110,8 @@
     }
 
     slaves = {
-        culture = forest_bantu
-        religion = animist
+        culture = tuareg
+        religion = sunni
         size = 2500
     }
 }
@@ -1466,33 +1394,7 @@
 }
 #Hoggar Region (40000)
 #uncolonized in 1836
-#In Guezzam (8000/2000 POPS)
-1721 = {
-    aristocrats = {
-        culture = tuareg
-        religion = sunni
-        size = 25
-    }
 
-    clergymen = {
-        culture = tuareg
-        religion = sunni
-        size = 15
-    }
-
-
-    soldiers = {
-        culture = tuareg
-        religion = sunni
-        size = 65
-    }
-
-    farmers = {
-        culture = tuareg
-        religion = sunni
-        size = 1900
-    }
-}
 #Tin Zawatene (16000/4000 POPS)
 1722 = {
     aristocrats = {

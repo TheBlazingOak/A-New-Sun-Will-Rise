@@ -1,10 +1,7 @@
 capital = 1880
 primary_culture = fulbe
-culture = mande
-culture = dyula
-culture = western_nigritic
 religion = sunni
-government = theocracy
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

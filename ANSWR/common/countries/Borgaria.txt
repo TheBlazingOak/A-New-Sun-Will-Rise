@@ -1,8 +1,8 @@
-color = { 128  170  63 }
+color = { 5 26 78 }
 graphical_culture = EuropeanGC
 
 party = {
-    name = "BUL_liberal"
+    name = "BOR_liberal"
     start_date = 2830.1.1
     end_date = 3000.1.1
 
@@ -17,14 +17,14 @@ party = {
 }
 
 party = {
-    name = "BUL_conservative"
+    name = "BOR_conservative"
     start_date = 2830.1.1
     end_date = 3000.1.1
 
     ideology = conservative
 
     social_policy = no_position_set
-    economic_policy = interventionism
+    economic_policy = state_capitalism
     trade_policy = protectionism
     religious_policy = pluralism
     citizenship_policy = residency
@@ -32,7 +32,7 @@ party = {
 }
 
 party = {
-    name = "BUL_socialist"
+    name = "BOR_socialist"
     start_date = 2848.1.1
     end_date = 3000.1.1
 
@@ -47,7 +47,7 @@ party = {
 }
 
 party = {
-    name = "BUL_reactionary"
+    name = "BOR_reactionary"
     start_date = 2820.1.1
     end_date = 3000.1.1
 
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-    name = "BUL_anarcho_liberal"
+    name = "BOR_anarcho_liberal"
     start_date = 2830.1.1
     end_date = 3000.1.1
 
@@ -73,11 +73,11 @@ party = {
     trade_policy = free_trade
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship
-    war_policy = pro_military
+    war_policy = jingoism
 }
 
 party = {
-    name = "BUL_communist"
+    name = "BOR_communist"
     start_date = 2848.1.1
     end_date = 3000.1.1
 
@@ -88,11 +88,11 @@ party = {
     trade_policy = protectionism
     religious_policy = pro_atheism
     citizenship_policy = full_citizenship
-    war_policy = pro_military
+    war_policy = jingoism
 }
 
 party = {
-    name = "BUL_fascist"
+    name = "BOR_fascist"
     start_date = 2900.1.1
     end_date = 3000.1.1
 

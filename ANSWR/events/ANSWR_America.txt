@@ -15,10 +15,10 @@ country_event = {
 
     option = {
     	name = "EVT52008OPTA" #Option for step two
-    	money = 100000
+    	money = -100000
  		set_country_flag = liberty_part_two
     	ai_chance = {
-            factor = 99
+            factor = 100
         }
     }
     option = {
@@ -26,7 +26,7 @@ country_event = {
     	clear_country_flag = statue_of_liberty_start
     	set_country_flag = statue_liberty_fail
     	ai_chance = {
-            factor = 1
+            factor = 0
         }
     }
 }
@@ -52,7 +52,7 @@ country_event = {
     	set_country_flag = statue_plans_discovered
     	}
 		ai_chance = {
-            factor = 85
+            factor = 99
         	}
     }
     option = {
@@ -61,7 +61,7 @@ country_event = {
     	   clear_country_flag = statue_of_liberty_start
     	set_country_flag = statue_liberty_fail
     	ai_chance = {
-            factor = 15
+            factor = 1
         	}    
     	}
     }
@@ -522,5 +522,46 @@ country_event = {
 		value = 50
 		}
 	set_global_flag = contacted_the_mormons
+	}
+}
+
+###Canada###
+#Union of the Moose
+country_event = {
+	id = 52200
+	title = "EVTNAME52200"
+	desc = "EVTDESC52200"
+	picture = wasteland_evt
+	trigger = {
+		OR = { tag = ONT tag = WIN }
+		AND = { ONT = { ai = yes } WIN = { ai = yes } }
+		year = 2840
+	}
+	mean_time_to_happen = { months = 12 }
+	option = {
+	name = "EVTOPTA52101" #We look forward to the start great relationship
+	}
+}
+country_event = {
+	id = 52201
+	title = "EVTNAME52201"
+	desc = "EVTDESC52201"
+	picture = wasteland_evt
+	trigger = {
+		any_country = {
+			limit = {
+				ai = no
+				OR = { tag = ONT tag = WIN }
+			}
+		}
+		NOT = { AND = { ONT = { ai = yes } WIN = { ai = yes } } }
+		year = 2840
+	}
+	
+	mean_time_to_happen = { months = 12 }
+
+	option = {
+	name = "EVTOPTA52101" #We look forward to the start great relationship
+	
 	}
 }

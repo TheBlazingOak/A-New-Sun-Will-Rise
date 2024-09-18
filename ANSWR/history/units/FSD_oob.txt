@@ -1,0 +1,36 @@
+NEJ = { value = -200 }
+
+army = {
+    name = "The Liberation Army"
+    location = 1168
+    regiment = {
+        name= "1.Vifajanam"
+        type = infantry
+        home = 1168
+    }
+    regiment = {
+        name= "1.Peerangikal"
+        type = artillery
+        home = 1168
+    }
+    regiment = {
+        name= "1.Levi"
+        type = irregular
+        home = 1167
+    }
+    regiment = {
+        name= "2.Levi"
+        type = irregular
+        home = 1167
+    }
+}
+
+leader = {
+    name = "Maha Vimochakan"
+    picture = indian_general_2
+    date = 2836.1.1
+    type = land
+    personality = resolute
+    background = natural_born_leader
+    prestige = 0.1
+}

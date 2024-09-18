@@ -3,11 +3,12 @@ primary_culture = persian
 culture = azerbaijani
 religion = shiite
 government = absolute_monarchy
-plurality = 0.0
-nationalvalue = nv_tradition
-literacy = 0.03
-non_state_culture_literacy = 0.01
+plurality = 10.0
+nationalvalue = nv_order
+literacy = 0.55
+non_state_culture_literacy = 0.22
 civilized = yes
+prestige = 15
 
 # Political reforms
 slavery = yes_slavery
@@ -50,8 +51,20 @@ upper_house = {
 decision = persia_1836_setup
 set_country_flag = shiite_country
 
-foreign_artillery = yes_foreign_artillery
-foreign_weapons = yes_foreign_weapons
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+army_command_principle = 1
+post_nelsonian_thought = 1
+the_command_principle = 1
+private_banks = 1
+no_standard = 1
+guild_based_production = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+piston_steam_engine = 1
+mechanical_production = 1
 
 # Technologies
 flintlock_rifles = 1
@@ -60,30 +73,9 @@ bronze_muzzle_loaded_artillery = 1
 # Inventions
 small_arms_production = yes
 ammunition_production = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
 
 # Starting Consciousness
-consciousness = 0
-nonstate_consciousness = 0
+consciousness = 2
+nonstate_consciousness = 2
 
 oob = "PER_oob.txt"
-2861.1.1 = {
-    oob = "/1861/PER_oob.txt"
-    literacy = 0.12
-    non_state_culture_literacy = 0.06
-
-    foreign_training = yes_foreign_training
-    foreign_weapons = yes_foreign_weapons
-    foreign_officers = yes_foreign_officers
-    finance_reform = yes_finance_reform
-    education_reform = yes_education_reform
-
-    # Technologies
-    military_staff_system = 1
-    flintlock_rifles = 1
-
-    # Inventions
-
-}

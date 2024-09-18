@@ -110,11 +110,7 @@ political_decisions = {
 			NOT = {has_global_flag = saf_demand_pretoria }
 		}
 		allow = {
-			relation = {
-			who = TRN
-			value = 0
-			}
-			prestige = 25
+			OR = { prestige = 20 ai = yes}
 		}
 		effect = {
 			set_global_flag = saf_demand_pretoria
@@ -148,12 +144,23 @@ political_decisions = {
 			NOT = {  has_country_flag = colonized_inner_kaap }
 		}
 		allow = {
+			OR = {
+			AND = {
 			experimental_railroad = 1
-			prestige = 15
+			prestige = 10
+				}
+			AND = {
+			ai = yes
+			year = 2840
+				}
+			}
 		}
 		effect = {
+			prestige = 5
 			ENG_2092 = {secede_province = SAF}
 			ENG_2083 = {secede_province = SAF}
+			ENG_2092 = {add_core = SAF}
+			ENG_2083 = {add_core = SAF}
 			set_country_flag = colonized_inner_kaap
 		}
 	}
@@ -244,17 +251,25 @@ political_decisions = {
 			NOT = { has_country_flag = kaaper_education }
 		}
 		allow = {
-				positivism = 1
-				average_consciousness = 3
+				
 				OR = {
+					AND = {
+						positivism = 1
+						average_consciousness = 3
+					}
 					AND = {
 					year = 2850
 					malthusian_thought = 1
 					average_consciousness = 4
 					}
+					AND = {
+						ai =yes
+						year = 2855
+					}
 				}
 			}
 		effect = {
+			tech_school = industrial_tech_school
 			THIS = { add_country_modifier = { name = kaaper_education_reform duration = -1 } }
 			set_country_flag = kaaper_education
 		}

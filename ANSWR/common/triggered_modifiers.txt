@@ -460,3 +460,12 @@ ryotwari = {
     administrative_efficiency_modifier = 0.25
     icon = 16
 }
+
+disable_crisis = {
+    trigger = {
+        exists = yes
+        NOT = { year = 2886 }
+    }
+    tension_decay = -1.0
+    icon = 16
+}

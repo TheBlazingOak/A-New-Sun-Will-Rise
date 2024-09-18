@@ -389,31 +389,31 @@
     aristocrats = {
         culture = danish
         religion = protestant
-        size = 500
+        size = 2500
     }
 
     clergymen = {
         culture = danish
         religion = protestant
-        size = 150
+        size = 1150
     }
 
     artisans = {
         culture = danish
         religion = protestant
-        size = 2000
+        size = 8000
     }
 
     soldiers = {
         culture = danish
         religion = protestant
-        size = 2000
+        size = 6000
     }
 
     farmers = {
         culture = danish
         religion = protestant
-        size = 26250
+        size = 96250
     }
 }
 #Bornholm (16000/4000 POPS)
@@ -421,25 +421,25 @@
     clergymen = {
         culture = danish
         religion = protestant
-        size = 150
+        size = 1150
     }
 
     artisans = {
         culture = danish
         religion = protestant
-        size = 800
+        size = 2800
     }
 
     soldiers = {
         culture = danish
         religion = protestant
-        size = 150
+        size = 3150
     }
 
     farmers = {
         culture = danish
         religion = protestant
-        size = 14500
+        size = 54500
     }
 
 }
@@ -493,25 +493,25 @@
     clergymen = {
         culture = danish
         religion = protestant
-        size = 550
+        size = 1550
     }
 
     artisans = {
         culture = danish
         religion = protestant
-        size = 800
+        size = 3800
     }
 
     soldiers = {
         culture = danish
         religion = protestant
-        size = 250
+        size = 6250
     }
 
     farmers = {
         culture = danish
         religion = protestant
-        size = 34500
+        size = 84500
     }
 
 }

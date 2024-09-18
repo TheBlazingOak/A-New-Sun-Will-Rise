@@ -1537,3 +1537,87 @@
     }
 
 }
+#Rosso (72000/18000 POPS)
+1776 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 900
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 175
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 11400
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = sunni
+        size = 5000
+    }
+}
+#Al Aiyun (12000/3000 POPS)  aguia el-Hamra
+1773 = {
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 3100
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 3100
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 2500
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 15800
+    }
+}
+

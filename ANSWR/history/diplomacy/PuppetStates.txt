@@ -200,6 +200,12 @@ vassal = {
     start_date = 2836.1.1
     end_date = 2936.1.1
 }
+vassal = {
+    first = HAE
+    second = EQG
+    start_date = 2836.1.1
+    end_date = 2936.1.1
+}
 
 ######################
 #		INDIA 		 #

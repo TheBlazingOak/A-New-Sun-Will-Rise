@@ -1,0 +1,18 @@
+#SWISS EVENTS#
+#A tale to boot
+country_event = {
+    id = 224101
+    title = "EVTNAME224101"
+    desc = "EVTDESC224101"
+    picture = autocracy
+    mean_time_to_happen = { months = 12 }
+    trigger = {
+        tag = SWI
+        NOT = { exists = ITA }
+    }
+    option = {
+    name = "EVTOPTA224101"
+        
+    }
+
+}

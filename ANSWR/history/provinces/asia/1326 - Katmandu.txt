@@ -1,5 +1,5 @@
 owner = NEP
 controller = NEP
 add_core = NEP
-trade_goods = grain
-life_rating = 40
+trade_goods = wool
+life_rating = 35

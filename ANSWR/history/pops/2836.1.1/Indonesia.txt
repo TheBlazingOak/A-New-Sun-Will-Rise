@@ -2504,25 +2504,25 @@
 #Alor (18000 POPS)
 1444 = {
     aristocrats = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 95
     }
 
     clergymen = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 125
     }
 
     artisans = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 400
     }
 
     farmers = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 2000
     }
@@ -2542,31 +2542,31 @@
 #Kaupeng (24400/6100 POPS)
 1445 = {
     aristocrats = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 500
     }
 
     bureaucrats = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 2010
     }
 
     artisans = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 1500
     }
 
     clergymen = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 2500
     }
 
     soldiers = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 5000
     }
@@ -2636,36 +2636,36 @@
     }
 	
 	aristocrats = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 200
     }
 
 	bureaucrats = {
-		culture = australian
+		culture = new_australian
 		religion = sydnic
 		size = 800
 	}
 	
     artisans = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 3000
     }
 
     clergymen = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 1300
     }
 
     soldiers = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 6000
     }
 	 farmers = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 24000
     }
@@ -3036,25 +3036,25 @@
 #Sorong (70000 POPS)
 1453 = {
     aristocrats = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 250
     }
 
     clergymen = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 400
     }
 
     artisans = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 1150
     }
 
     farmers = {
-        culture = australian
+        culture = new_australian
         religion = sydnic
         size = 7200
     }
@@ -3071,36 +3071,54 @@
         size = 56250
     }
 }
-#Biak (32000/8000 POPS)
+#New Melbore (32000/8000 POPS)
 1452 = {
     aristocrats = {
-        culture = moluccan
-        religion = sunni
-        size = 100
+        culture = new_australian
+        religion = syndic
+        size = 6100
     }
 
     bureaucrats = {
-        culture = moluccan
-        religion = sunni
-        size = 100
+        culture = new_australian
+        religion = syndic
+        size = 2100
     }
 
     clergymen = {
-        culture = melanesian
-        religion = animist
-        size = 50
+        culture = new_australian
+        religion = syndic
+        size = 4050
     }
 
     artisans = {
-        culture = melanesian
-        religion = animist
-        size = 250
+        culture = new_australian
+        religion = syndic
+        size = 9250
+    }
+
+    artisans = {
+        culture = new_australian
+        religion = syndic
+        size = 9250
+    }
+
+    artisans = {
+        culture = new_australian
+        religion = syndic
+        size = 9250
     }
 
     soldiers = {
-        culture = melanesian
-        religion = animist
-        size = 75
+        culture = new_australian
+        religion = syndic
+        size = 6975
+    }
+
+    farmers = {
+        culture = new_australian
+        religion = syndic
+        size = 167525
     }
 
     farmers = {
@@ -3112,26 +3130,26 @@
 #Merah (172000/43000 POPS)
 1454 = {
     aristocrats = {
-        culture = melanesian
-        religion = animist
+        culture = new_australian
+        religion = syndic
         size = 450
     }
 
     clergymen = {
-        culture = melanesian
-        religion = animist
+        culture = new_australian
+        religion = syndic
         size = 425
     }
 
     artisans = {
-        culture = melanesian
-        religion = animist
+        culture = new_australian
+        religion = syndic
         size = 2000
     }
 
     soldiers = {
-        culture = melanesian
-        religion = animist
+        culture = new_australian
+        religion = syndic
         size = 400
     }
 
@@ -3141,35 +3159,35 @@
         size = 35725
     }
 
-    slaves = {
-        culture = melanesian
-        religion = animist
-        size = 4000
+    farmers = {
+        culture = new_australian
+        religion = syndic
+        size = 14000
     }
 }
 #Merauke (140000/35000 POPS)
 1560 = {
     aristocrats = {
-        culture = melanesian
-        religion = animist
+        culture = new_australian
+        religion = syndic
         size = 400
     }
 
     clergymen = {
-        culture = melanesian
-        religion = animist
+        culture = new_australian
+        religion = syndic
         size = 350
     }
 
     artisans = {
-        culture = melanesian
-        religion = animist
+        culture = new_australian
+        religion = syndic
         size = 1500
     }
 
     soldiers = {
-        culture = melanesian
-        religion = animist
+        culture = new_australian
+        religion = syndic
         size = 300
     }
 
@@ -3177,6 +3195,12 @@
         culture = melanesian
         religion = animist
         size = 32450
+    }
+
+    farmers = {
+        culture = new_australian
+        religion = syndic
+        size = 22000
     }
 
 }

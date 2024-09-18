@@ -385,3 +385,26 @@ country_event = {
             }
     }
 }
+#Tip of the Earth (SAF)
+country_event = {
+    id = 65527
+    title = "EVTNAME65527"
+    desc = "EVTDESC65527"
+    picture = "titanic_arrives"
+    trigger = {
+        tag = SAF
+        has_country_flag = kaaper_education
+        NOT = { has_country_flag = tip_of_the_world }
+    }
+    mean_time_to_happen = { months = 60 }
+    option = {
+        name = "EVTOPTA65527"
+        prestige = 5
+        SAF = { add_country_modifier = { name = bottom_of_the_earth duration = -1 } }
+        any_pop = {
+            limit = { is_primary_culture = yes }
+            consciousness = 2
+        }
+        set_country_flag = tip_of_the_world
+    }
+}

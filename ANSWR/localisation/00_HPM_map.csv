@@ -8,7 +8,6 @@ PROV3322;Panaki;;;;;;;;;;;;;x
 FRA_411;Louréne;;;;;;;;;;;;x
 PROV934;Samawah;;;;;;;;;;;;x
 AUS_627;East Cislavy;;;;;;;;;;;;x
-ABU_1162;Arabian Gulf;;;;;;;;;;;;x
 EGY_897;Western Syria;;;;;;;;;;;;x
 EGY_903;Eastern Syria;;;;;;;;;;;;x
 PROV928;Baqubah;;;;;;;;;;;;x
@@ -104,8 +103,10 @@ PROV43;Clarksville;;;;;;;;;;;x
 PROV134;Fort Parker;;;;;;;;;;;x
 PROV135;Llano Estacado;;;;;;;;;;;x
 PROV85;Sonoma;;;;;;;;;;;x
+PROV2573;Port Albert;;;;;;;;;;;x
 urban;Urban;;;;;;;;;;;x
-FRA_1901;Houet;;;;;;;;;;;x
+TUR_882;Vazov Desant;;;;;;;;;;;x
+FRA_1901;Versvlak;;;;;;;;;;;x
 ASH_1910;Volta;;;;;;;;;;;;x
 PROV155;Fort Snelling;;;;;;;;;;;;x
 PROV156;Fort Renville;;;;;;;;;;;;x
@@ -138,6 +139,11 @@ USA_151;The Thirty Five;;;;;;;;;;;;x
 USA_118;The Twenty Nine;;;;;;;;;;;;x
 USA_106;The Seventy;;;;;;;;;;;;x
 USA_148;Pawneeland;;;;;;;;;;;;x
+USA_168;Rustland;;;;;;;;;;;;x
+PAW_166;Outer Rustica;;;;;;;;;;;;x
+USA_176;Muskegeon;;;;;;;;;;;;x
+USA_178;Steelia;;;;;;;;;;;;x
+USA_185;Louis Country;;;;;;;;;;;;x
 PROV146;St Pawnee;;;;;;;;;;;;x
 PROV150;Kirkland;;;;;;;;;;;;x
 PROV149;Kansas;;;;;;;;;;;;x
@@ -170,7 +176,7 @@ PROV1990;Kindu;;;;;;;;;;;;;x
 PROV1991;Rusozi;;;;;;;;;;;;;x
 PROV2471;Bathurst;;;;;;;;;;;;;x
 PROV2496;Nullarbor;;;;;;;;;;;;;x
-PROV2505;Port Essington;;;;;;;;;;;;;x
+PROV2505;Brome;;;;;;;;;;;;;x
 RUS_973;Kherson-Zaporizhia;;;;;;;;;;;;;x
 RUS_955;Yekaterinoslav;;;;;;;;;;;;x
 PROV3107;Lake Baikal;;;;;;;;;;;;;;;;;;;;;x;;;;;;
@@ -455,7 +461,7 @@ PRU_695;Warminsko;;;;;;;;;;;;x
 AUS_736;Slowenia;;;;;;;;;;;;x
 BAV_595;Lower Bayerberg;;;;;;;;;;;;x
 PROV1024;Novomoskva;;;;;;;;;;;;x
-NET_1793;Zilverland;;;;;;;;;;;;x
+NET_1794;Zilverland;;;;;;;;;;;;x
 BAV_599;Upper Bayerberg;;;;;;;;;;;;x
 SPA_610;Caroline Islands;;;;;;;;;;;;x
 AUS_652;Banovinhaben;;;;;;;;;;;;x
@@ -533,8 +539,16 @@ NET_1449;Celebes;;;;;;;;;;;;x
 PROV1542;Xuzhou;;;;;;;;;;;;x
 PROV1559;Xian;;;;;;;;;;;;x
 PROV1612;Baoding;;;;;;;;;;;;x
+PROV1297;Mumbai;;;;;;;;;;;;x
 CHI_1612;Hebei;;;;;;;;;;;;x
-PROV1616;Peking;;;;;;;;;;;;x
+PROV879;Atanagrad;;;;;;;;;;;;x
+PROV884;Port Dzhordzh;;;;;;;;;;;;x
+PROV888;Starmoya;;;;;;;;;;;;x
+PROV882;Halpresichane;;;;;;;;;;;;x
+PROV887;Planinia;;;;;;;;;;;;x
+PROV1616;Beijing;;;;;;;;;;;;x
+PRU_549;Adlerlund;;;;;;;;;;;;x
+PRU_553;Feldertote;;;;;;;;;;;;x
 CHI_1616;Shuntian;;;;;;;;;;;;x
 PROV1643;Ishikari;;;;;;;;;;;;x
 JAP_1649;Kanto;;;;;;;;;;;;x
@@ -549,6 +563,9 @@ PROV1679;Amami;;;;;;;;;;;;x
 MOR_1693;Marrakesh;;;;;;;;;;;;x
 MOR_1694;Agadir;;;;;;;;;;;;x
 ALD_1704;Oran;;;;;;;;;;;;x
+PROV1701;Banu;;;;;;;;;;;;x
+PROV1983;Doli;;;;;;;;;;;;x
+PROV1788;Six Forages;;;;;;;;;;;;x
 ALD_1708;Constantine;;;;;;;;;;;;x
 PROV1709;Bône;;;;;;;;;;;;x
 ALD_1713;North Central Sahara;;;;;;;;;;;;x
@@ -632,7 +649,11 @@ AUS_2538;Vojvodina;;;;;;;;;;;;x
 TON_2540;Tonga;;;;;;;;;;;;x
 USA_2543;Samoa;;;;;;;;;;;;x
 PROV2554;Misiones;;;;;;;;;;;;x
-HES_2560;Hessen;;;;;;;;;;;;x
+HES_2560;Jungfeld;;;;;;;;;;;;x
+BAD_586;Karlzplatz;;;;;;;;;;;;x
+WUR_589;Ulmen;;;;;;;;;;;;x
+PRU_581;Vrojlikbuit;;;;;;;;;;;;x
+AUS_619;Rovenster;;;;;;;;;;;;x
 RUS_2587;Kola;;;;;;;;;;;;x
 CHI_2678;Outer Mongolia;;;;;;;;;;;;x
 PROV2834;Bay of Ayan;;;;;;;;;;;;x
@@ -700,7 +721,7 @@ SIA_1392;Ayutthaya;;;;;;;;;;;;x
 BRU_1396;Sabah;;;;;;;;;;;;x
 NET_1401;Siak;;;;;;;;;;;;x
 YEM_1412;Aden;;;;;;;;;;;;x
-NET_1446;Timor;;;;;;;;;;;;x
+NET_1446;Erera;;;;;;;;;;;;x
 NET_1449;Celebes;;;;;;;;;;;;x
 PROV1469;Uriankhai;;;;;;;;;;;;x
 PROV1542;Xuzhou;;;;;;;;;;;;x
@@ -1134,7 +1155,8 @@ PROV2504;Esperia City;;;;;;;;;;;;;;;;;;;;;;;x
 ENG_210;Fromden;;;;;;;;;;;;;;;;;;;;;;;x
 ENG_2497;Perth;;;;;;;;;;;;;;;;;;;;;;;x
 AST_2500;Esperia;;;;;;;;;;;;;;;;;;;;;;;x
-AST_2501;Broome;;;;;;;;;;;;;;;;;;;;;;;x
+AST_2501;Eldtrad;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2501;Port Essington;;;;;;;;;;;;;;;;;;;;;;;x
 AST_210;Esperia;;;;;;;;;;;;;;;;;;;;;;;x
 AST_399;Trovenstray;;;;;;;;;;;;;;;;;;;;;;;x
 AST_407;Saplaid;;;;;;;;;;;;;;;;;;;;;;;x
@@ -1165,6 +1187,8 @@ CAN_49;Northern Crossing;;;;;;;;;;;;;;;;;;;;;;;x
 CAN_57;Toronto Area;;;;;;;;;;;;;;;;;;;;;;;x
 WIN_2596;The Rest Points;;;;;;;;;;;;;;;;;;;;;;;x
 RUS_1071;Xia;;;;;;;;;;;;;;;;;;;;;;;x
+FRA_1700;Banu;;;;;;;;;;;;;;;;;;;;;;;x
+RUS_994;Ingrian Isles;;;;;;;;;;;;;;;;;;;;;;;x
 RUS_1072;Dishan;;;;;;;;;;;;;;;;;;;;;;;x
 NTC_1992;Innlandskysten;;;;;;;;;;;;;;;;;;;;;;;x
 NTC_1973;Zaire;;;;;;;;;;;;;;;;;;;;;;;x
@@ -1517,3 +1541,5 @@ NET_1883;Grandeote;;;;;;;;;;;;;;;;;;;;x;
 TUS_744;Firenzeni;;;;;;;;;;;;;;;;;;;;x;
 PAP_752;Roma;;;;;;;;;;;;;;;;;;;;x;
 SIC_753;Foggia;;;;;;;;;;;;;;;;;;;;x;
+ABU_1162;Dubaay;;;;;;;;;;;;;;;;;;;;x;
+PROV1168;Dubaay;;;;;;;;;;;;;;;;;;;;x;

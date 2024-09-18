@@ -1,9 +1,10 @@
 capital = 860
 primary_culture = westturkish
+culture = turkish
 religion = sunni
 government = trading_republic
 plurality = 10
-nationalvalue = nv_equality
+nationalvalue = nv_liberty
 literacy = 0.34
 non_state_culture_literacy = 0.01
 civilized = yes

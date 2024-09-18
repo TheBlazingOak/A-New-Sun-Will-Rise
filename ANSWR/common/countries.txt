@@ -163,8 +163,9 @@ AQS        = "countries/Alqarasina.txt"
 NTC        = "countries/Norkselskap.txt"
 TRG        = "countries/Taureg.txt"
 
-##Middle East East
-OTA        = "countries/Ostanatonlien.txt"
+##Middle East ANSWR
+BOR        = "countries/Borgaria.txt"
+FSD        = "countries/Free State of Dubai.txt"
 
 ##India ANSWR
 ROH		   = "countries/Rohingya.txt"

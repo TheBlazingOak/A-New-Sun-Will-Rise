@@ -1,9 +1,8 @@
 owner = IST
 controller = IST
 add_core = IST
-trade_goods = fruit
-life_rating = 39
-naval_base = 1
+trade_goods = iron
+life_rating = 31
 fort = 1
 terrain = ruined_city
 #state_building = {

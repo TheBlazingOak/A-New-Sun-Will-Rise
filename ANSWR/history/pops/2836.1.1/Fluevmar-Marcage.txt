@@ -1,0 +1,531 @@
+#Fluevmar
+#Saint-Louis (24000/6000 POPS)
+1784 = {
+    aristocrats = {
+        culture = wolof
+        religion = the_broken
+        size = 500
+    }
+
+    artisans = {
+        culture = wolof
+        religion = the_broken
+        size = 1500
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = the_broken
+        size = 6000
+    }
+
+    farmers = {
+        culture = wolof
+        religion = the_broken
+        size = 103700
+    }
+
+    slaves = {
+        culture = wolof
+        religion = the_broken
+        size = 8100
+    }
+
+    artisans = {
+        culture = parish
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = parish
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = parish
+        religion = catholic
+        size = 100
+    }
+}
+#Podor (348000/87000 POPS)
+1789 = {
+    aristocrats = {
+        culture = wolof
+        religion = the_broken
+        size = 1650
+    }
+
+    bureaucrats = {
+        culture = wolof
+        religion = the_broken
+        size = 75
+    }
+
+    officers = {
+        culture = wolof
+        religion = the_broken
+        size = 150
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = the_broken
+        size = 900
+    }
+
+    artisans = {
+        culture = wolof
+        religion = the_broken
+        size = 3525
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = the_broken
+        size = 1700
+    }
+
+    farmers = {
+        culture = wolof
+        religion = the_broken
+        size = 64000
+    }
+
+    slaves = {
+        culture = wolof
+        religion = the_broken
+        size = 12000
+    }
+}
+#Aleg (84000/21000 POPS)
+1777 = {
+    aristocrats = {
+        culture = wolof
+        religion = the_broken
+        size = 390
+    }
+
+    bureaucrats = {
+        culture = wolof
+        religion = the_broken
+        size = 10
+    }
+
+    officers = {
+        culture = wolof
+        religion = the_broken
+        size = 5
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = the_broken
+        size = 200
+    }
+
+    artisans = {
+        culture = wolof
+        religion = the_broken
+        size = 850
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = the_broken
+        size = 220
+    }
+
+    farmers = {
+        culture = wolof
+        religion = the_broken
+        size = 33325
+    }
+}
+#Maghama (28000/7000 POPS)
+1778 = {
+    aristocrats = {
+        culture = wolof
+        religion = the_broken
+        size = 100
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = the_broken
+        size = 75
+    }
+
+    artisans = {
+        culture = wolof
+        religion = the_broken
+        size = 275
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = the_broken
+        size = 75
+    }
+
+    farmers = {
+        culture = wolof
+        religion = the_broken
+        size = 53475
+    }
+}
+#Ziguinchour (240000/60000 POPS)
+1792 = {
+    aristocrats = {
+        culture = wolof
+        religion = the_broken
+        size = 1150
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = the_broken
+        size = 100
+    }
+
+    artisans = {
+        culture = wolof
+        religion = the_broken
+        size = 500
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = the_broken
+        size = 1100
+    }
+
+    farmers = {
+        culture = wolof
+        religion = the_broken
+        size = 41625
+    }
+}
+#Marcage
+#Matam (216000/54000 POPS)
+1790 = {
+    aristocrats = {
+        culture = wolof
+        religion = the_broken
+        size = 975
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = the_broken
+        size = 525
+    }
+
+    artisans = {
+        culture = wolof
+        religion = the_broken
+        size = 2175
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = the_broken
+        size = 1325
+    }
+
+    farmers = {
+        culture = wolof
+        religion = the_broken
+        size = 40000
+    }
+
+    slaves = {
+        culture = wolof
+        religion = the_broken
+        size = 15000
+    }
+}
+#Dakar (8000/2000 POPS)
+1783 = {
+    aristocrats = {
+        culture = wolof
+        religion = the_broken
+        size = 100
+    }
+
+    officers = {
+        culture = wolof
+        religion = the_broken
+        size = 100
+    }
+
+    artisans = {
+        culture = wolof
+        religion = the_broken
+        size = 100
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = the_broken
+        size = 100
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = the_broken
+        size = 100
+    }
+
+    farmers = {
+        culture = wolof
+        religion = the_broken
+        size = 17800
+    }
+
+    artisans = {
+        culture = parish
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = parish
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = parish
+        religion = catholic
+        size = 100
+    }
+
+}
+#Linguere (216000/54000 POPS)
+1786 = {
+    aristocrats = {
+        culture = wolof
+        religion = the_broken
+        size = 550
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = the_broken
+        size = 225
+    }
+
+    artisans = {
+        culture = wolof
+        religion = the_broken
+        size = 1075
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = the_broken
+        size = 750
+    }
+
+    farmers = {
+        culture = wolof
+        religion = the_broken
+        size = 38500
+    }
+
+    slaves = {
+        culture = wolof
+        religion = the_broken
+        size = 8000
+    }
+}
+#Diourbel (88000/22000 POPS)
+1787 = {
+    aristocrats = {
+        culture = wolof
+        religion = the_broken
+        size = 400
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = the_broken
+        size = 200
+    }
+
+    artisans = {
+        culture = wolof
+        religion = the_broken
+        size = 900
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = the_broken
+        size = 3250
+    }
+
+    farmers = {
+        culture = wolof
+        religion = the_broken
+        size = 16250
+    }
+
+    slaves = {
+        culture = wolof
+        religion = the_broken
+        size = 4000
+    }
+}
+#Banjul (108000/27000 POPS) #now part of Gambia
+1785 = {
+
+    aristocrats = {
+        culture = wolof
+        religion = the_broken
+        size = 1000
+    }
+
+    officers = {
+        culture = wolof
+        religion = the_broken
+        size = 1000
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = the_broken
+        size = 1000
+    }
+
+    artisans = {
+        culture = wolof
+        religion = the_broken
+        size = 1500
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = the_broken
+        size = 6200
+    }
+
+    farmers = {
+        culture = wolof
+        religion = the_broken
+        size = 102834
+    }
+}
+#Southern Borgia Region
+#Bakel (140000/35000 POPS)
+1791 = {
+    aristocrats = {
+        culture = wolof
+        religion = the_broken
+        size = 575
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = the_broken
+        size = 300
+    }
+
+    artisans = {
+        culture = wolof
+        religion = the_broken
+        size = 1175
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = the_broken
+        size = 300
+    }
+
+    farmers = {
+        culture = wolof
+        religion = the_broken
+        size = 28650
+    }
+}
+#Velingara (104000/26000 POPS
+1793 = {
+    aristocrats = {
+        culture = wolof
+        religion = the_broken
+        size = 500
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = the_broken
+        size = 250
+    }
+
+    artisans = {
+        culture = wolof
+        religion = the_broken
+        size = 1050
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = the_broken
+        size = 275
+    }
+
+    farmers = {
+        culture = wolof
+        religion = the_broken
+        size = 29925
+    }
+
+    slaves = {
+        culture = wolof
+        religion = the_broken
+        size = 4000
+    }
+
+}
+#Kaolack (160000/40000 POPS) #kingdom of the Sereer
+1788 = {
+
+    slaves = {
+        culture = wolof
+        religion = the_broken
+        size = 8000
+    }
+
+    aristocrats = {
+        culture = wolof
+        religion = the_broken
+        size = 250
+    }
+
+    clergymen = {
+        culture = wolof
+        religion = the_broken
+        size = 100
+    }
+
+    artisans = {
+        culture = wolof
+        religion = the_broken
+        size = 650
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = the_broken
+        size = 100
+    }
+
+    farmers = {
+        culture = wolof
+        religion = the_broken
+        size = 65400
+    }
+}
