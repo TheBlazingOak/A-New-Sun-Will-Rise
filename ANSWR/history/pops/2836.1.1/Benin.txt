@@ -4,109 +4,73 @@
 1919 = {
     aristocrats = {
         culture = fon
-        religion = animist
+        religion = catholic
         size = 1950
     }
 
     clergymen = {
         culture = fon
-        religion = animist
+        religion = catholic
         size = 1100
     }
 
     artisans = {
         culture = fon
-        religion = animist
+        religion = catholic
         size = 4100
     }
 
     soldiers = {
         culture = fon
-        religion = animist
+        religion = catholic
         size = 1000
     }
 
     farmers = {
         culture = fon
-        religion = animist
+        religion = catholic
         size = 59950
     }
 
     slaves = {
         culture = fon
-        religion = animist
+        religion = catholic
         size = 4000
     }
 
     aristocrats = {
-        culture = east_kwa
-        religion = animist
-        size = 550
-    }
-
-    clergymen = {
-        culture = east_kwa
-        religion = animist
-        size = 300
-    }
-
-    artisans = {
-        culture = east_kwa
-        religion = animist
-        size = 1500
-    }
-
-    soldiers = {
-        culture = east_kwa
-        religion = animist
-        size = 300
-    }
-
-    farmers = {
-        culture = east_kwa
-        religion = animist
-        size = 27350
-    }
-
-    slaves = {
-        culture = east_kwa
-        religion = animist
-        size = 26000
-    }
-
-    aristocrats = {
         culture = shenkuda
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     clergymen = {
         culture = shenkuda
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = shenkuda
-        religion = animist
+        religion = catholic
         size = 200
     }
 
     soldiers = {
         culture = shenkuda
-        religion = animist
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = shenkuda
-        religion = animist
+        religion = catholic
         size = 3600
     }
 
     slaves = {
         culture = shenkuda
-        religion = animist
+        religion = catholic
         size = 4000
     }
 }
@@ -114,127 +78,85 @@
 1920 = {
     aristocrats = {
         culture = fon
-        religion = animist
+        religion = catholic
         size = 2100
     }
 
     bureaucrats = {
         culture = fon
-        religion = animist
-        size = 100
+        religion = catholic
+        size = 1000
     }
 
     officers = {
         culture = fon
-        religion = animist
+        religion = catholic
         size = 200
     }
 
     clergymen = {
         culture = fon
-        religion = animist
+        religion = catholic
         size = 1100
     }
 
     artisans = {
         culture = fon
-        religion = animist
+        religion = catholic
         size = 4250
     }
 
     soldiers = {
         culture = fon
-        religion = animist
-        size = 3000
-    }
-
-    soldiers = {
-        culture = fon
-        religion = animist
-        size = 100
+        religion = catholic
+        size = 6000
     }
 
     farmers = {
         culture = fon
-        religion = animist
-        size = 83250
+        religion = catholic
+        size = 93250
     }
 
     slaves = {
         culture = fon
-        religion = animist
+        religion = catholic
         size = 8000
     }
 
     aristocrats = {
         culture = shenkuda
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = shenkuda
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = shenkuda
-        religion = animist
+        religion = catholic
         size = 400
     }
 
     soldiers = {
         culture = shenkuda
-        religion = animist
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = shenkuda
-        religion = animist
+        religion = catholic
         size = 7300
     }
 
     slaves = {
         culture = shenkuda
-        religion = animist
-        size = 2000
-    }
-
-    aristocrats = {
-        culture = east_kwa
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = east_kwa
-        religion = animist
-        size = 150
-    }
-
-    artisans = {
-        culture = east_kwa
-        religion = animist
-        size = 300
-    }
-
-    soldiers = {
-        culture = east_kwa
-        religion = animist
-        size = 50
-    }
-
-    farmers = {
-        culture = east_kwa
-        religion = animist
-        size = 5400
-    }
-
-    slaves = {
-        culture = east_kwa
-        religion = animist
+        religion = catholic
         size = 2000
     }
 }
@@ -243,131 +165,139 @@
 #Nikki (48000/12000 POPS)
 1921 = {
     aristocrats = {
-        culture = gur
-        religion = animist
+        culture = fon
+        religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = gur
-        religion = animist
+        culture = fon
+        religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = gur
-        religion = animist
+        culture = fon
+        religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = gur
-        religion = animist
+        culture = fon
+        religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = gur
-        religion = animist
-        size = 2700
+        culture = fon
+        religion = catholic
+        size = 32700
     }
 
     slaves = {
         culture = shenkuda
-        religion = animist
+        religion = catholic
         size = 1100
-    }
-
-    aristocrats = {
-        culture = east_kwa
-        religion = sunni
-        size = 175
-    }
-
-    clergymen = {
-        culture = east_kwa
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = east_kwa
-        religion = sunni
-        size = 375
-    }
-
-    soldiers = {
-        culture = east_kwa
-        religion = sunni
-        size = 100
-    }
-
-    farmers = {
-        culture = east_kwa
-        religion = sunni
-        size = 7250
     }
 }
 #Jugu (28000/7000 POPS)
 1922 = {
     aristocrats = {
-        culture = gur
-        religion = animist
+        culture = fon
+        religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = gur
-        religion = animist
+        culture = fon
+        religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = gur
-        religion = animist
+        culture = fon
+        religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = gur
-        religion = animist
+        culture = fon
+        religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = gur
-        religion = animist
-        size = 4575
+        culture = fon
+        religion = catholic
+        size = 44575
     }
 
+}
+#Fada Ngoura (172000/43000 POPS)
+1904 = {
     aristocrats = {
-        culture = fulbe
+        culture = mandingo
         religion = sunni
-        size = 100
+        size = 250
     }
 
     clergymen = {
-        culture = fulbe
+        culture = mandingo
         religion = sunni
-        size = 100
+        size = 150
     }
 
     artisans = {
-        culture = fulbe
+        culture = mandingo
         religion = sunni
-        size = 100
+        size = 700
     }
 
     soldiers = {
-        culture = fulbe
+        culture = mandingo
         religion = sunni
-        size = 100
+        size = 150
     }
 
     farmers = {
-        culture = fulbe
+        culture = mandingo
         religion = sunni
-        size = 1800
+        size = 3750
     }
 
+    slaves = {
+        culture = mandingo
+        religion = sunni
+        size = 17000
+    }
+
+    aristocrats = {
+        culture = fon
+        religion = catholic
+        size = 550
+    }
+
+    clergymen = {
+        culture = fon
+        religion = catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = fon
+        religion = catholic
+        size = 1150
+    }
+
+    soldiers = {
+        culture = fon
+        religion = catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = fon
+        religion = catholic
+        size = 19700
+    }
 }

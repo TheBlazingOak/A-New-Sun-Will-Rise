@@ -31,18 +31,11 @@ political_decisions = {
         }
         allow = {
             war = no
+            OR = {
             nationalism_n_imperialism = 1
-            ROM = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                            owner = {
-                            OR = {
-                            in_sphere = THIS
-                            is_vassal = YES
-                            }
-                        }
-                    }
+            AND = {
+                ai = yes
+                year = 2855
                 }
             }
         }

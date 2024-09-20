@@ -66,10 +66,6 @@ enlightenment_thought = 1
 piston_steam_engine = 1
 mechanical_production = 1
 
-# Technologies
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-
 # Inventions
 small_arms_production = yes
 ammunition_production = yes

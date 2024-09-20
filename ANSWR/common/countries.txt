@@ -181,9 +181,10 @@ USA        = "countries/USA.txt"
 TRP        = "countries/Trans-Pacifica.txt"
 JAR        = "countries/Jardin.txt" 
 ISV		   = "countries/Istoslavia.txt"
-WAR        = "countries/Warsaw Pact.txt"
+WRP        = "countries/Warsaw Pact.txt"
 GCL        = "countries/Greater California.txt"
 ESS        = "countries/Eastern Seaboard.txt"
+WNT        = "countries/Winnipeg-Ontario.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"

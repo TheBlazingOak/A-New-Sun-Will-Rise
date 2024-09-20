@@ -1,6 +1,7 @@
 owner = NEJ
 controller = NEJ
 add_core = NEJ
+add_core = HDJ
 trade_goods = coffee
 terrain = steppe
 life_rating = 35

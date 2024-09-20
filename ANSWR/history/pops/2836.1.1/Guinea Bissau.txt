@@ -5,37 +5,37 @@
 #Gabu (152000/38000 POPS)
 1878 = {
     aristocrats = {
-        culture = mande
+        culture = grandeoter
         religion = sunni
         size = 500
     }
 
     bureaucrats = {
-        culture = mande
+        culture = grandeoter
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = mande
+        culture = grandeoter
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = mande
+        culture = grandeoter
         religion = sunni
         size = 1000
     }
 
     soldiers = {
-        culture = mande
+        culture = grandeoter
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = sunni
         size = 3768
     }

@@ -1,27 +1,27 @@
 army = {
     name = "New Pacifica Marines"
-    location = 1393
+    location = 1459
     regiment = {
         name= "I. Cavalry"
         type = cavalry
-        home = 1393
+        home = 1459
     }
 
     regiment = {
         name= "I. Infantry"
         type = infantry
-        home = 1393
+        home = 1459
     }
 
     regiment = {
         name = "II. Infantry"
         type = infantry
-        home = 1393
+        home = 1458
     }
 }
 navy = {
     name = "77th Fleet Patrol"
-    location = 1393
+    location = 1459
     ship = {
         name= "Arleigh Burke 12"
         type = frigate

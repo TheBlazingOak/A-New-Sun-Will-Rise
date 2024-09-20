@@ -200,23 +200,4 @@ political_decisions = {
             BOR = { country_event = { id = 52154 } }
         }
     }
-    the_romanian_unification = {
-        potential = {
-            primary_culture = romanian
-            NOT = { ROM = {exists = yes}}
-        }
-        allow = {
-            OR = {
-            nationalism_n_imperialism = 1
-            AND = {
-                ai = yes
-                YEAR = 2855
-                }
-            }
-        }
-        effect = {
-            prestige = 5
-            THIS = { country_event = { id = 223010 } }
-        }
-    }
 }

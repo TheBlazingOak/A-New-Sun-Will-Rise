@@ -18281,12 +18281,12 @@
 
 399 = {
     text_position = {
-        x = 4984.823333
-        y = 364.533333
+        x = 4987.975000
+        y = 361.280000
     }
 
-    text_rotation = 6.192979
-    text_scale = 5
+    text_rotation = 5.853233
+    text_scale = 4
     unit = {
         x = 4987.975000
         y = 363.821667
@@ -18324,14 +18324,14 @@
         }
 
         naval_base = {
-            x = 5002.411667
-            y = 348.876667
+            x = 4986.856667
+            y = 338.506667
         }
 
     }
 
     building_rotation = {
-        naval_base = 4.022782
+        naval_base = 4.732487
     }
 
 } # Dunkirk
@@ -18688,14 +18688,14 @@
         }
 
         naval_base = {
-            x = 5030.116667
-            y = 290.666667
+            x = 5013.200000
+            y = 282.033333
         }
 
     }
 
     building_rotation = {
-        naval_base = 5.558212
+        naval_base = 0.005025
     }
 
 } # Chalons
@@ -21420,7 +21420,7 @@
     }
 
     building_rotation = {
-        naval_base = 5.797070
+        naval_base = 3.455469
     }
 
 } # Frejus
@@ -21472,7 +21472,7 @@
     }
 
     building_rotation = {
-        naval_base = 2.602029
+        naval_base = 0.781865
     }
 
 } # Nice
@@ -60361,8 +60361,8 @@
     }
 
     city = {
-        x = 4586.808333
-        y = 805.748333
+        x = 4601.558333
+        y = 827.381667
     }
 
     factory = {
@@ -60387,14 +60387,14 @@
         }
 
         naval_base = {
-            x = 4573.733333
-            y = 807.850000
+            x = 4599.591667
+            y = 829.053333
         }
 
     }
 
     building_rotation = {
-        naval_base = 1.134464
+        naval_base = 0.941266
     }
 
 } # Kuching
@@ -61889,7 +61889,7 @@
     }
 
     building_rotation = {
-        naval_base = 2.863977
+        naval_base = 3.742077
     }
 
 } # Pasir
@@ -112062,7 +112062,7 @@
     }
 
     building_rotation = {
-        naval_base = 3.607472
+        naval_base = 3.141593
     }
 
 } # Wallis and Futuna
@@ -117057,7 +117057,7 @@
     }
 
     building_rotation = {
-        naval_base = 5.913852
+        naval_base = 0.742871
     }
 
 } # Khatanga
@@ -125893,7 +125893,7 @@
     }
 
     building_rotation = {
-        naval_base = 3.196537
+        naval_base = 2.946150
     }
 
 } # West Hawaii

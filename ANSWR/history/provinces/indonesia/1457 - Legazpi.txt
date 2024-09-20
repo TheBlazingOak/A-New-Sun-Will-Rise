@@ -1,6 +1,6 @@
-owner = BIC
-controller = BIC
-add_core = BIC
+owner = NIN
+controller = NIN
+add_core = NIN
 add_core = PHL
 trade_goods = grain
 life_rating = 35

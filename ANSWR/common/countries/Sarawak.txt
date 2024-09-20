@@ -1,4 +1,7 @@
 color = { 219  182  182 }
+absolute_monarchy = { 20 20 20 }
+hms_government = { 20 20 20 }
+prussian_constitutionalism = { 20 20 20 }
 graphical_culture = AsianGC
 
 party = {

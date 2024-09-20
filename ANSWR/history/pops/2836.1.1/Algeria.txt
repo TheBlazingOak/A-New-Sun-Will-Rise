@@ -579,13 +579,19 @@
     aristocrats = {
         culture = maghrebi
         religion = sunni
-        size = 100
+        size = 3000
     }
 
     clergymen = {
         culture = maghrebi
         religion = sunni
-        size = 75
+        size = 2475
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 6000
     }
 
     soldiers = {
@@ -594,16 +600,10 @@
         size = 3000
     }
 
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 800
-    }
-
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 6425
+        size = 96425
     }
 
     aristocrats = {

@@ -4,31 +4,31 @@
 1887 = {
 
     aristocrats = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 875
     }
 
     clergymen = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 450
     }
 
     artisans = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 7350
     }
 
     soldiers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 6450
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 95875
     }
@@ -37,25 +37,25 @@
 1888 = {
 
     aristocrats = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 875
     }
 
     artisans = {
-        culture = mande
+        culture = grandeoter
         religion = protestant
         size = 1900
     }
 
     soldiers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 6375
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 94600
     }

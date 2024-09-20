@@ -1,0 +1,31 @@
+UNS = { value = -200 }
+SCO = { value = -200 }
+CHS = { value = -200 }
+TYN = { value = -200 }
+ANI = { value = -200 }
+ULS = { value = -200 }
+COC = { value = -200 }
+army = {
+    name = "Dublin Garrison"
+    location = 263
+    regiment = {
+        name= "1. Division"
+        type = infantry
+        home = 263
+    }
+    regiment = {
+        name= "2. Division"
+        type = infantry
+        home = 263
+    }
+    regiment = {
+        name= "3. Division"
+        type = infantry
+        home = 265
+    }
+    regiment = {
+        name= "4. Division"
+        type = infantry
+        home = 263
+    }
+}

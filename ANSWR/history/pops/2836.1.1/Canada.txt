@@ -1319,13 +1319,13 @@
     soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 200
+        size = 6200
     }
 
     farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 8050
+        size = 38050
     }
 
 }
@@ -1560,7 +1560,7 @@
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = french_canadian
         religion = protestant
         size = 3000
     }
@@ -1568,13 +1568,13 @@
     soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 3000
+        size = 6000
     }
 
     farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 120550
+        size = 140550
     }
 
     craftsmen = {
@@ -1586,7 +1586,7 @@
     farmers = {
         culture = french_canadian
         religion = catholic
-        size = 6000
+        size = 16000
     }
 
 }

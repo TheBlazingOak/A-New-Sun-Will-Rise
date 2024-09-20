@@ -31,13 +31,13 @@
         size = 60000
     }
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 10000
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = ketronant
         size = 5000
     }
@@ -51,7 +51,7 @@
     }
 
     bureaucrats = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 375
     }
@@ -87,13 +87,13 @@
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = ketronant
         size = 5000
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 20000
     }
@@ -101,31 +101,31 @@
 #Falaba (384000/96000 POPS) #now part of Sierra Leone
 1885 = {
     aristocrats = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 925
     }
 
     clergymen = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 1900
     }
 
     soldiers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 475
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 36600
     }
@@ -160,7 +160,7 @@
         size = 67025
     }
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = ketronant
         size = 5000
     }
@@ -208,13 +208,13 @@
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 32750
     }
 
     slaves = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 12000
     }
@@ -253,7 +253,7 @@
     }
 
     slaves = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 6000
     }
@@ -291,37 +291,37 @@
     }
 
     aristocrats = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 565
     }
 
     officers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 115
     }
 
     clergymen = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 1500
     }
 
     soldiers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 300
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 10225
     }
@@ -359,37 +359,37 @@
     }
 
     aristocrats = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 715
     }
 
     clergymen = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 375
     }
 
     artisans = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 1875
     }
 
     soldiers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 1025
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 16090
     }
 
     slaves = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 4500
     }
@@ -398,31 +398,31 @@
 #Beyla (184000/46000 POPS)
 1883 = {
     aristocrats = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 3800
     }
 
     clergymen = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 1400
     }
 
     artisans = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 9650
     }
 
     soldiers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 6425
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 242725
     }
@@ -435,19 +435,19 @@
 #Zwedru (168000/42000 POPS)
 1891 = {
     aristocrats = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 425
     }
 
     soldiers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 55975
     }
@@ -457,31 +457,31 @@
 #Bopulu (124000/31000 POPS)
 1889 = {
     aristocrats = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 475
     }
 
     clergymen = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 1250
     }
 
     soldiers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 62775
     }
@@ -489,31 +489,31 @@
 #Gbarnga (132000/33000 POPS)
 1890 = {
     aristocrats = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 550
     }
 
     soldiers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 125
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 85025
     }
@@ -521,31 +521,31 @@
 #Bo (352000/88000 POPS)
 1886 = {
     aristocrats = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 900
     }
 
     clergymen = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 1875
     }
 
     soldiers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 475
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 76650
     }
@@ -580,7 +580,7 @@
         size = 17675
     }
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = ketronant
         size = 5000
     }
@@ -634,31 +634,31 @@
     }
 
     aristocrats = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 450
     }
 
     clergymen = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 19550
     }
@@ -666,31 +666,31 @@
 #Orodaro (360000/90000 POPS)
 1906 = {
     aristocrats = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 550
     }
 
     clergymen = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 300
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 15750
     }
@@ -816,7 +816,7 @@
 1896 = {
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 7300
     }
@@ -855,7 +855,7 @@
 1900 = {
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 24500
     }
@@ -930,7 +930,7 @@
     }
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 12700
     }
@@ -939,7 +939,7 @@
 1893 = {
 
     farmers = {
-        culture = mande
+        culture = grandeoter
         religion = animist
         size = 18025
     }

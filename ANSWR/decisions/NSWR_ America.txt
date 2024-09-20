@@ -508,7 +508,6 @@ transpacifica_unification = {
     		}
     	}
     	allow = {
-    		prestige = 40
     		ideological_thought = 1
     	}
     	effect = {
@@ -530,7 +529,7 @@ transpacifica_unification = {
     		ideological_thought = 1
     	}
     	allow = {
-    		relation = { who = DES value = 100 }
+    		prestige = 15
     	}
 
     	effect ={
@@ -539,8 +538,8 @@ transpacifica_unification = {
 		}
 		ai_will_do = { factor = 1 } 
     }
-    #Failed contact but won war
-    won_againist_the_mormons = {
+    #Failed contact but WIN war
+    WIN_againist_the_mormons = {
     	potential = {
     		tag = TRP
     		year = 2850
@@ -549,18 +548,18 @@ transpacifica_unification = {
     		MEX_94 = { owned_by = THIS }
     		war = no
     		has_global_flag = mormon_talks_failed
-    		NOT = { has_country_flag = won_againist_the_mormons 
+    		NOT = { has_country_flag = WIN_againist_the_mormons 
     		has_global_flag = contacted_the_mormons }
     		ideological_thought = 1
     	}
     	allow = {
-    		relation = { who = DES value = 100 }
+    		prestige = 15
     	}
 
     	effect ={
 			MEX_94 = { add_core = THIS }
 			MEX_97 = { add_core = THIS }
-			set_country_flag = won_againist_the_mormons
+			set_country_flag = WIN_againist_the_mormons
 		}
 		ai_will_do = { factor = 1 } 
     }
@@ -615,12 +614,12 @@ transpacifica_unification = {
     	picture = guantanamo_bay
     	potential = {
 	    	year = 2840
-	    	tag = ONT
+	    	OR = { tag = ONT tag = WNT tag = CAN }
 	    	NOT = {has_country_flag = death_to_st_lawerance}
     	}
 
     	allow = {
-    		prestige = 10
+    		prestige = 5
     	}
     	effect ={
     		46 = {add_core = ONT}
@@ -630,5 +629,34 @@ transpacifica_unification = {
     		set_country_flag = death_to_st_lawerance
 		}
     }
-#End of political_decisions brackets	
+    #New Pacifica Renaming
+    renaming_of_new_pacfica = {
+    	picture = guantanamo_bay
+    	potential = {
+	    	is_culture_group = pacific_cultures
+	    	NOT = {has_country_flag = renamed_new_pacifica}
+	    	BRU_1394 = { owned_by = THIS }
+    	}
+
+    	allow = {
+    		prestige = 10
+    		BRU_1394 = { owned_by = THIS }
+    		NET_1426 = { owned_by = THIS }
+    		NET_1423 = { owned_by = THIS }
+    	}
+    	effect ={
+    		prestige = 5
+    		BRU_1394 = {change_region_name = "New California" }
+    		NET_1426 = {change_region_name = "New Arizona" }
+    		NET_1423 = {change_region_name = "New Washington" }
+    		1393 = { change_province_name = "New Anaheim" }
+    		1426 = { change_province_name = "New Catalina" }
+    		1423 = { change_province_name = "New Sacramento" }
+    		3362 = { change_province_name = "New Hollywood" }
+    		1427 = { change_province_name = "New Phoenix" }
+    		set_country_flag = renamed_new_pacifica
+		}
+    }
+#End of political_decisions brackets
+
 }

@@ -1,0 +1,34 @@
+WIN = { value = 200 }
+army = {
+    name = "The King's Guard"
+    location = 57
+    regiment = {
+        name= "King's Guard"
+        type = guard
+        home = 57
+    }
+    regiment = {
+        name= "1. Garrison"
+        type = infantry
+        home = 57
+    }
+    regiment = {
+        name= "2. Garrison"
+        type = infantry
+        home = 57
+    }
+    regiment = {
+        name= "1. Artillery"
+        type = artillery
+        home = 57
+    }
+}
+
+leader = {
+    name = "Doug McKenzie"
+    date = 2836.1.1
+    type = land
+    personality = strange
+    background = nationalist
+    prestige = 0.15
+}

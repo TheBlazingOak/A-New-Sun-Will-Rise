@@ -17,7 +17,7 @@ upper_house_composition = appointed
 vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = free_press
-trade_unions = state_controlled_unions
+trade_unions = state_controlled
 voting_system = first_past_the_post
 political_parties = non_secret_ballots
 

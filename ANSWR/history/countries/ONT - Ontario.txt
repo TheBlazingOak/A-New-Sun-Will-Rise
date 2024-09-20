@@ -77,3 +77,5 @@ hot_blast = 1
 basic_chemistry = 1
 fire_control_systems = 1
 naval_professionalism = 1
+
+oob = "ONT_oob.txt"

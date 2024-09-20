@@ -1,4 +1,5 @@
-
+ONT = { value = -200 }
+WIN = { value = -200 }
 leader = {
     name = "Dominic Fauteux"
     date = 2836.1.1

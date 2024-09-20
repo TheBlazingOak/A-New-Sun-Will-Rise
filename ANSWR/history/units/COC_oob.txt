@@ -1,0 +1,31 @@
+LEC = { value = -200 }
+UNS = { value = -200 }
+SCO = { value = -200 }
+CHS = { value = -200 }
+TYN = { value = -200 }
+ANI = { value = -200 }
+ULS = { value = -200 }
+army = {
+    name = "Galway Garrison"
+    location = 258
+    regiment = {
+        name= "1. Division"
+        type = infantry
+        home = 259
+    }
+    regiment = {
+        name= "2. Division"
+        type = infantry
+        home = 258
+    }
+    regiment = {
+        name= "3. Division"
+        type = infantry
+        home = 261
+    }
+    regiment = {
+        name= "4. Division"
+        type = infantry
+        home = 260
+    }
+}

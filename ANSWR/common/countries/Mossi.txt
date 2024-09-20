@@ -3,7 +3,7 @@ graphical_culture = AfricanGC
 
 party = {
     name = "MOS_conservative"
-    start_date = 1800.1.1
+    start_date = 2800.1.1
     end_date = 3000.1.1
 
     ideology = conservative

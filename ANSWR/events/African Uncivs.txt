@@ -408,3 +408,43 @@ country_event = {
         set_country_flag = tip_of_the_world
     }
 }
+## Dyazer Events ##
+## Integrate the Banu Jugurtha
+country_event = {
+    id = 65600
+    title = "EVTNAME65600"
+    desc = "EVTDESC65600"
+    trigger = {
+        tag = ALD
+        exists = yes
+        NOT = { has_country_flag = banu_integrated }
+    }
+    mean_time_to_happen = { months = 6 }
+    option = {
+        name = "EVTOPTA65600"
+        prestige = 5
+        1700 = { assimilate = yes }
+        1701 = { assimilate = yes }
+        set_country_flag = banu_integrated
+    }
+}
+
+## Tuareg Chiefdoms ##
+country_event = {
+    id = 65700
+    title = "EVTNAME65700"
+    desc = "EVTDESC65700"
+    picture = "titanic_arrives"
+    trigger = {
+        tag = TRG
+        exists = yes
+        year = 2850
+        NOT = {has_country_flag = tuareg_droughts}
+    }
+    mean_time_to_happen = { months = 60 }
+    option = {
+        name = "EVTOPTA65700"
+        ALD_1718 = {add_province_modifier = {name = severe_homeland_drought duration = 365 } }
+        set_country_flag = tuareg_droughts
+    }
+}

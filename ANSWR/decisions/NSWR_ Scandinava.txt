@@ -184,7 +184,7 @@ political_decisions = {
 			war = no
 		}
 		effect = {
-			set_global_flag = jylland_claims
+			set_country_flag = jylland_claims
 			prestige = 5
 			DEN_367 = { add_core = THIS }
 			HOL_369 = { add_core = THIS }

@@ -1,6 +1,7 @@
-owner = MOR
-controller = MOR
+owner = UNS
+controller = UNS
 add_core = MOR
 trade_goods = fruit
 life_rating = 35
 naval_base = 1
+colonial = 2

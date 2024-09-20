@@ -1,4 +1,6 @@
 owner = KWT
 controller = KWT
-trade_goods = grain
-life_rating = 35
+add_core = KWT
+trade_goods = iron
+life_rating = 31
+terrain = ruined_city

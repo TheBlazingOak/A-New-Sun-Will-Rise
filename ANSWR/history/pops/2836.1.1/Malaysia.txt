@@ -31,78 +31,72 @@
     artisans = {
         culture = malay
         religion = sunni
-        size = 6300
+        size = 9300
     }
 
     soldiers = {
-        culture = pacifica
-        religion = protestant
-        size = 9075
+        culture = vietnamese
+        religion = mahayana
+        size = 6000
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 15000
     }
 
     farmers = {
         culture = malay
         religion = sunni
-        size = 105000
+        size = 175000
     }
     farmers = {
         culture = pacifica
         religion = protestant
-        size = 145000
+        size = 15000
     }
 }
 #Kuching (88000/22000 POPS)
 1394 = {
     aristocrats = {
-        culture = pacifica
-        religion = protestant
+        culture = malay
+        religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = pacifica
-        religion = protestant
+        culture = malay
+        religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = pacifica
-        religion = protestant
+        culture = malay
+        religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = pacifica
-        religion = protestant
+        culture = malay
+        religion = sunni
         size = 6100
     }
 
     farmers = {
         culture = malay
         religion = sunni
-        size = 83125
+        size = 93125
     }
 
     farmers = {
         culture = pacifica
         religion = protestant
-        size = 100475
+        size = 5000
     }
 }
-#Pontianak (148000/37000 POPS)
+#Fort Viet
 1426 = {
-
-    artisans = {
-        culture = malay
-        religion = sunni
-        size = 100
-    }
-
-    farmers = {
-        culture = malay
-        religion = sunni
-        size = 4850
-    }
 
     aristocrats = {
         culture = malay
@@ -134,16 +128,27 @@
         size = 300
     }
 
-    farmers = {
-        culture = malay
-        religion = sunni
-        size = 34600
+    soldiers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 12000
     }
 
     farmers = {
+        culture = malay
+        religion = sunni
+        size = 20600
+    }
+    
+    farmers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 51525
+    }
+    farmers = {
         culture = pacifica
         religion = protestant
-        size = 43000
+        size = 5000
     }
 }
 #Api (160000 POPS)
@@ -233,38 +238,38 @@
 #New Hollywood
 3362 = {
     aristocrats = {
-        culture = pacifica
-        religion = protestant
+        culture = malay
+        religion = sunni
         size = 3000
     }
 
     clergymen = {
-        culture = pacifica
-        religion = protestant
+        culture = malay
+        religion = sunni
         size = 2250
     }
 
     artisans = {
-        culture = pacifica
-        religion = protestant
+        culture = malay
+        religion = sunni
         size = 7450
     }
 
     soldiers = {
-        culture = pacifica
-        religion = protestant
+        culture = malay
+        religion = sunni
         size = 6200
     }
 
     farmers = {
         culture = malay
         religion = sunni
-        size = 36475
+        size = 56475
     }
     farmers = {
         culture = pacifica
         religion = protestant
-        size = 66475
+        size = 12000
     }
 }
 
@@ -326,21 +331,21 @@
     }
 
     soldiers = {
-        culture = pacifica
-        religion = protestant
+        culture = malay
+        religion = sunni
         size = 1000
     }
 
     farmers = {
         culture = malay
         religion = sunni
-        size = 32475
+        size = 52475
     }
 	
 	farmers = {
         culture = pacifica
         religion = protestant
-        size = 22475
+        size = 3000
     }
 }
 #Samarinda (289976 POPS)
@@ -379,12 +384,12 @@
     farmers = {
         culture = malay
         religion = sunni
-        size = 20050
+        size = 40050
     }
     farmers = {
         culture = pacifica
         religion = protestant
-        size = 15000
+        size = 5000
     }
 }
 #Western Borneo Region (368000)
@@ -410,21 +415,21 @@
     }
 
     soldiers = {
-        culture = pacifica
-        religion = protestant
+        culture = malay
+        religion = sunni
         size = 5000
     }
 
-    slaves = {
+    farmers = {
         culture = malay
         religion = sunni
-        size = 88639
+        size = 100639
     }
 
     farmers = {
         culture = pacifica
         religion = protestant
-        size = 58639
+        size = 15650
     }
 }
 #Sintang (138000 POPS)
@@ -456,13 +461,13 @@
     farmers = {
         culture = pacifica
         religion = protestant
-        size = 33750
+        size = 13750
     }
 
-    slaves = {
+    farmers = {
         culture = malay
         religion = sunni
-        size = 50000
+        size = 60000
     }
 }
 #New Mesa
@@ -563,12 +568,12 @@
     labourers = {
         culture = malay
         religion = sunni
-        size = 12650
+        size = 16650
     }
     farmers = {
         culture = pacifica
         religion = protestant
-        size = 15000
+        size = 5000
     }
 }
 #New Stockton
@@ -600,12 +605,12 @@
     labourers = {
         culture = malay
         religion = sunni
-        size = 22650
+        size = 52650
     }
     farmers = {
         culture = pacifica
         religion = protestant
-        size = 35000
+        size = 2000
     }
 }
 #New Fresno
@@ -637,39 +642,39 @@
     labourers = {
         culture = malay
         religion = sunni
-        size = 72650
+        size = 92650
     }
-    farmers = {
+    labourers = {
         culture = pacifica
         religion = protestant
-        size = 55000
+        size = 1000
     }
 }
 
-#Banjarmasin (200000 POPS)
+#New Sacramento
 1423 = {
     clergymen = {
         culture = pacifica
         religion = protestant
-        size = 50
+        size = 500
     }
 
     artisans = {
         culture = pacifica
         religion = protestant
-        size = 13450
+        size = 9450
     }
 
     soldiers = {
         culture = pacifica
         religion = protestant
-        size = 6050
+        size = 3050
     }
 
     farmers = {
         culture = pacifica
         religion = protestant
-        size = 147400
+        size = 50400
     }
 
     aristocrats = {
@@ -705,6 +710,6 @@
     farmers = {
         culture = malay
         religion = sunni
-        size = 85675
+        size = 130675
     }
 }

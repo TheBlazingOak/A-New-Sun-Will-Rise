@@ -3245,8 +3245,8 @@ west_african = {
         last_names = { Prempeh Bonsu Dua Karikari Dwomo Panyin Sekyere Fofie Asiba
         }
     }
-    bambara = {
-        color = {45 88 164}
+    mandingo = {
+        color = {255 255 0}
         first_names = { Kaladian Mamari Biton Do Tyefolo Nyenemba Ben Kuma Masala Turukoro Bina Kege Mamuru Masaloma Karamoko Mari Bodyan
         }
 
@@ -3317,7 +3317,7 @@ west_african = {
         last_names = { Banguro Banna Kama Kindo Kanta Bombali Gbanka
         }
     }
-    mande = {
+    grandeoter = {
         color = {44 188 87}
         first_names = { Neneh Tejan Sheka Kanji Lansana Brima Foda Sekouba Alhassani Sekou Amara Losene Fodey Kaleefa Hatab Daba Massa Aoua Soumaila
         }

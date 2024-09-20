@@ -1,6 +1,5 @@
-owner = SBI
-controller = SBI
-add_core = SBI
+owner = SWK
+controller = SWK
 add_core = SWK
 trade_goods = wool
 life_rating = 35

@@ -3075,49 +3075,49 @@
 1452 = {
     aristocrats = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 6100
     }
 
     bureaucrats = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 2100
     }
 
     clergymen = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 4050
     }
 
     artisans = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 9250
     }
 
     artisans = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 9250
     }
 
     artisans = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 9250
     }
 
     soldiers = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 6975
     }
 
     farmers = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 167525
     }
 
@@ -3131,25 +3131,25 @@
 1454 = {
     aristocrats = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 450
     }
 
     clergymen = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 425
     }
 
     artisans = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 2000
     }
 
     soldiers = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 400
     }
 
@@ -3161,7 +3161,7 @@
 
     farmers = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 14000
     }
 }
@@ -3169,25 +3169,25 @@
 1560 = {
     aristocrats = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 400
     }
 
     clergymen = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 350
     }
 
     artisans = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 1500
     }
 
     soldiers = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 300
     }
 
@@ -3199,7 +3199,7 @@
 
     farmers = {
         culture = new_australian
-        religion = syndic
+        religion = sydnic
         size = 22000
     }
 

@@ -63,10 +63,10 @@ country_event = {
             modifier = {
                 factor = 0.5
                 war_policy = anti_military
+                    }
+                }
             }
         }
-    }
-}
     option = {
         name = "EVT52000OPTC" #We have no need to unite that petty, rouge state, to our north.
         badboy = -2
@@ -483,10 +483,10 @@ country_event = {
     option = {
         name = "EVT52154OPTA" #Yes
         TUR_863 = { add_core = BOR remove_core = TUR }
-        TUR_863 = { any_pop = { limit = { culture = borgar } reduce_pop = 1.5 }
+        TUR_863 = { any_pop = { limit = { culture = borgar } reduce_pop = 1.5 } }
         TUR_863 = { add_province_modifier = { name = colonial_recruitment duration = 1825 } }
         TUR_869 = { add_core = BOR remove_core = TUR }
-        TUR_880 = { any_pop = { limit = { culture = borgar } reduce_pop = 1.5 }
+        TUR_880 = { any_pop = { limit = { culture = borgar } reduce_pop = 1.5 } }
         TUR_880 = {  add_province_modifier = { name = colonial_recruitment duration = 1825 } }
         TUR_873 = { add_core = BOR remove_core = TUR }
         TUR_880 = { add_core = BOR remove_core = TUR }

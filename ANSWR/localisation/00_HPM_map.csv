@@ -404,7 +404,7 @@ PROV1019;Voronezh;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV3246;Saint Barths;;;;;;;;;;;;;;;;;;;;x;
 PROV82;Grande Ronde;;;;;;;;;;;;;;;;;;;;x;
 PROV81;Pertend;;;;;;;;;;;;;;;;;;;;x;
-PROV83;Fort Umpqua;;;;;;;;;;;;;;;;;;;;x;
+PROV83;Eugene;;;;;;;;;;;;;;;;;;;;x;
 PROV78;Seattle;;;;;;;;;;;;;;;;;;;;x;
 PROV2101;Thaba Nchu;;;;;;;;;;;;;;;;;;;;x;
 PROV2102;Qwa-Qwa;;;;;;;;;;;;;;;;;;;;x;
@@ -1305,8 +1305,6 @@ PROV1455;Lipa;;;;;;;;;;;;x
 PROV3337;Brodoro;;;;;;;;;;;;x
 PROV1649;New Tokyo;;;;;;;;;;;;x
 PROV1650;Atorantisu;;;;;;;;;;;;x
-NET_1423;New Washington;;;;;;;;;;;;x
-PROV3338;New Seattle;;;;;;;;;;;;x
 PROV3339;New Aparri;;;;;;;;;;;;x
 PROV3341;New Palo;;;;;;;;;;;;x
 ETH_1859;Onneelafa;;;;;;;;;;;;x
@@ -1329,7 +1327,6 @@ PROV3343;Nalchik;;;;;;;;;;;;x
 PROV3344;Armavir;;;;;;;;;;;;x
 PROV3345;Maitum;;;;;;;;;;;;x
 PROV3346;Vabopore;;;;;;;;;;;;x
-PROV3347;New Portland;;;;;;;;;;;;x
 PROV3348;Bislig;;;;;;;;;;;;x
 PROV3349;Tagum;;;;;;;;;;;;x
 PROV3350;Vruchtbaarland;;;;;;;;;;;;x
@@ -1386,19 +1383,22 @@ KUR_928;Kirmasan;;;;;;;;;;;;x
 PROV1117;Kirmasan;;;;;;;;;;;;x
 PROV3360;Nantou;;;;;;;;;;;;x
 PROV3361;Sanya;;;;;;;;;;;;x
-BRU_1394;New California;;;;;;;;;;;;x
-NET_1426;New Arizona;;;;;;;;;;;;x
-PROV1393;New Anaheim;;;;;;;;;;;;x
-PROV1394;New Diego;;;;;;;;;;;;x
-PROV1428;New Jose;;;;;;;;;;;;x
-PROV1429;New Orange;;;;;;;;;;;;x
-PROV1425;New Oakland;;;;;;;;;;;;x
-PROV3364;New Flagstaff;;;;;;;;;;;;x
-PROV1422;New Tucson;;;;;;;;;;;;x
-PROV1423;New Sacramento;;;;;;;;;;;;x
-PROV1426;New Catalina;;;;;;;;;;;;x
-PROV1427;New Phoenix;;;;;;;;;;;;x
-PROV3362;New Hollywood;;;;;;;;;;;;x
+BRU_1394;New Brunei;;;;;;;;;;;;x
+NET_1426;West Kalimantan;;;;;;;;;;;;x
+NET_1423;East Kalimantan;;;;;;;;;;;;x
+PROV3338;Kayan Mentarang;;;;;;;;;;;;x
+PROV1393;Port Brunei;;;;;;;;;;;;x
+PROV1394;Sibu;;;;;;;;;;;;x
+PROV1428;Sintang;;;;;;;;;;;;x
+PROV1429;Samarinda;;;;;;;;;;;;x
+PROV1425;Merasak;;;;;;;;;;;;x
+PROV3364;Pangke;;;;;;;;;;;;x
+PROV1422;Lahang;;;;;;;;;;;;x
+PROV1423;Amuntai;;;;;;;;;;;;x
+PROV3347;Timpa;;;;;;;;;;;;x
+PROV1426;Fort Viet;;;;;;;;;;;;x
+PROV1427;Pangkalan Bun;;;;;;;;;;;;x
+PROV3362;Belaga;;;;;;;;;;;;x
 PROV3363;Tongod;;;;;;;;;;;;x
 PROV3364;Kapoea;;;;;;;;;;;;x
 PROV3365;Kengtung;;;;;;;;;;;;x
@@ -1543,3 +1543,4 @@ PAP_752;Roma;;;;;;;;;;;;;;;;;;;;x;
 SIC_753;Foggia;;;;;;;;;;;;;;;;;;;;x;
 ABU_1162;Dubaay;;;;;;;;;;;;;;;;;;;;x;
 PROV1168;Dubaay;;;;;;;;;;;;;;;;;;;;x;
+ALD_1718;Tuareg Homelands;;;;;;;;;;;;;;;;;;;;x;

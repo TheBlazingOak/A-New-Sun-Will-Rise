@@ -1,21 +1,5 @@
 political_decisions = {
 	#North Africa Flavor
-	integrate_the_banu = {
-		alert = yes
-		potential = {
-			tag = ALD
-        	exists = yes
-        	NOT = { has_country_flag = banu_integrated }
-		}
-		allow = {
-			prestige = 1
-			}
-		effect = {
-			set_country_flag = banu_integrated
-        	prestige = 3
-        	FRA_1700 = { assimilate = yes }
-		}
-	}
 	the_tuareg_menace = {
 		alert = yes
 		picture = map_algeria
@@ -28,7 +12,13 @@ political_decisions = {
 			prestige = 1
 			}
 		effect = {
-			ALD_1713 = { add_core = THIS }
+			1713 = { add_core = THIS }
+			1715 = { add_core = THIS }
+			1711 = { add_core = THIS }
+			1712 = { add_core = THIS }
+			1710 = { add_core = THIS }
+			1702 = { add_core = THIS }
+			ALD_1718 = {remove_core = THIS}
 			set_country_flag = southern_expansion
 		}
 	}
