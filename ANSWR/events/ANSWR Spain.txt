@@ -108,6 +108,235 @@ country_event = {
 ##################
 ###Event Chains###
 ##################
+##Valencia Crisis##
+#Protests erupt in Valencia
+country_event = {
+    id = 55425
+    title = "EVTNAME55425"
+    desc = "EVTDESC55425"
+    fire_once_only = yes
+    trigger = {
+        TAG = JAR
+        SPA_503 = {owned_by = THIS }
+        OR = { JAR = { nationalism_n_imperialism = 1 } CAT = {nationalism_n_imperialism = 1} year = 2855 }
+        NOT = {has_global_flag = valencia_massacre has_country_flag = appeased_valencia_protesters}
+    }
 
+    mean_time_to_happen = { months = 24 }
+
+    #Appease the protesters and allow the petition
+    option = {
+        name = "EVT55425OPTA"
+        prestige = -1
+        set_global_flag = appeased_valencia_protesters
+    }
+    #We cannot allow the petition to go through
+    option = {
+        name = "EVT55425OPTB"
+        set_global_flag = valencia_massacre
+        SPA_503 = {
+            any_pop = {
+                limit = {
+                    is_primary_culture = no
+                    is_accepted_culture = no
+                }
+                consciousness = 5
+                reduce_pop = 0.95
+            }
+        }
+
+    }
+}
+#Valencia Petitions for Barce Annexation (Peaceful)
+country_event = {
+    id = 55426
+    title = "EVTNAME55426"
+    desc = "EVTDESC55426"
+    fire_once_only = yes
+    trigger = {
+        TAG = CAT
+        has_global_flag = appeased_valencia_protesters
+        NOT = { has_global_flag = valencia_petition_accepted }
+    }
+
+    mean_time_to_happen = { days = 14 }
+
+    #Accept the Petition
+    option = {
+        name = "EVT55426OPTA"
+        prestige = 2
+        set_global_flag = valencia_petition_accepted
+    }
+    #Decline to intervene
+    option = {
+        name = "EVT55426OPTB"
+        prestige = -1
+        set_global_flag = valencia_petition_ignored
+    }
+}
+#Handing over of Valencia
+country_event = {
+    id = 55427
+    title = "EVTNAME55427"
+    desc = "EVTDESC55427"
+    fire_once_only = yes
+    trigger = {
+        TAG = JAR
+        has_global_flag = valencia_petition_accepted
+        NOT = { has_global_flag = valencia_massacre }
+    }
+
+    mean_time_to_happen = { days = 14 }
+
+    #Hand over Valencia
+    option = {
+        name = "EVT55427OPTA"
+        prestige = 5
+        SPA_503 = { secede_province = CAT remove_core = JAR }
+        set_global_flag = valencia_transfered
+        CAT = {country_event = {id = 55428 days = 0}}
+    }
+    #Refuse the petition
+    option = {
+        name = "EVT55427OPTB"
+        prestige = -10
+        infamy = 5.0
+        set_global_flag = valencia_petition_refused
+    }
+}
+#Acceptance of Valencia
+country_event = {
+    id = 55428
+    title = "EVTNAME55428"
+    desc = "EVTDESC55428"
+    fire_once_only = yes
+    is_triggered_only = yes
+    #Hand over Valencia
+    option = {
+        name = "EVT55428OPTA"
+        prestige = 5
+        set_country_flag = sympathy_for_jardin
+    }
+}
+#Jardin refused to transfer Valencia
+country_event = {
+    id = 55429
+    title = "EVTNAME55429"
+    desc = "EVTDESC55429"
+    fire_once_only = yes
+    trigger = {
+        TAG = JAR
+        has_global_flag = valencia_petition_refused
+        NOT = { has_global_flag = valencia_massacre }
+    }
+
+    mean_time_to_happen = { days = 14 }
+
+    #Hand over Valencia
+    option = {
+        name = "EVT55429OPTA"
+        prestige = 5
+        infamy = -5.0
+        set_country_flag = preparing_for_valencia_war
+        add_country_modifier = {
+            name = military_reform
+            duration = 1825
+        }
+    }
+}
+#Barce calls for unification
+country_event = {
+    id = 55430
+    title = "EVTNAME55430"
+    desc = "EVTDESC55430"
+    fire_once_only = yes
+    trigger = {
+        exists = yes
+        tag = CAT
+        has_country_flag = sympathy_for_jardin
+    }
+    mean_time_to_happen = { months = 60 }
+    #Unfication with Jardin
+    option = {
+        name = "EVT55430OPTA"
+        prestige = 1
+        JAR = {country_event = {id = 55431 days = 0} }
+
+    }
+    option = {
+        name = "EVT55430OPTA"
+        prestige = -1
+        set_global_flag = barce_sympathies
+    }
+}
+#Barce calls for unification (Jardin)
+country_event = {
+    id = 55431
+    title = "EVTNAME55431"
+    desc = "EVTDESC55431"
+    fire_once_only = yes
+    is_triggered_only = yes
+    #Hand over Valencia
+    option = {
+        name = "EVT55431OPTA"
+        THIS = { inherit = CAT }
+        add_accepted_culture = catalan
+        SPA_503 = { add_core = THIS }
+        SPA_498 = { add_core = THIS }
+        CAT_495 = { add_core = THIS }
+    }
+}
+#The Valencia Massacre
+country_event = {
+    id = 55432
+    title = "EVTNAME55432"
+    desc = "EVTDESC55432"
+    fire_once_only = yes
+    trigger = {
+        exists = yes
+        tag = CAT
+        has_global_flag = valencia_massacre
+        NOT = {has_global_flag = barce_attack has_global_flag = barce_complacent }
+    }
+    mean_time_to_happen = { days = 14 }
+    #We must react now
+    option = {
+        name = "EVT55432OPTA"
+        prestige = 5
+        war = {
+            target = JAR
+            attacker_goal = {casus_belli = acquire_all_cores }
+            defender_goal = {casus_belli = status_quo }
+            call_ally = yes
+        }
+        set_global_flag = barce_attack
+
+    }
+    #Our brother's must suffer more
+    option = {
+        name = "EVT55432OPTA"
+        prestige = -5
+        set_global_flag = barce_complacent
+    }
+}
 ##Flavor##
 #Castle spotted in Zaragoza Lago
+country_event = {
+    id = 55433
+    title = "EVTNAME55433"
+    desc = "EVTDESC55433"
+    fire_once_only = yes
+    trigger = {
+        exists = yes
+        tag = JAR
+        year = 2850
+        488 = { owned_by = THIS }
+    }
+    mean_time_to_happen = { months = 60 }
+    #Just Amazing
+    option = {
+        name = "EVT55433OPTA"
+        prestige = 5
+        years_of_research = 0.25
+    }
+}

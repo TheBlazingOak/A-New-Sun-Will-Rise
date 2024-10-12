@@ -63,6 +63,7 @@ From;To;Type;Through;Data;Comment
 2019;2034;sea;3102;0;Ukerewe Strait
 1991;1997;sea;3103;0;Tanganyika Strait
 2000;2001;sea;2917;0;Nork Strait
+1968;1820;sea;3101;0;Bassangoa Strait
 #
 # European Straits
 #
@@ -175,6 +176,15 @@ From;To;Type;Through;Data;Comment
 1249;1282;sea;3307;0;Kharswari Strait
 1249;1262;sea;3307;0;Kharswari Strait
 1248;1270;sea;3303;0;Gaya Strait
+#Lebannon
+896;900;sea;2770;0;Antakya Strait 
+900;898;sea;2770;0;Antep Strait
+900;905;sea;2770;0;Latakia Strait 
+914;905;sea;2770;0;Trablos Strait
+855;905;sea;2770;0;Cyprus Crossing
+915;902;sea;2769;0;Sidon Crossing
+915;916;sea;2769;0;Akko Strait
+914;913;sea;2770;0;Beirut Strait
 #
 # Asian Straits
 #

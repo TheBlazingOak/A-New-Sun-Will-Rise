@@ -799,7 +799,7 @@
     }
 
     slaves = {
-        culture = berber
+        culture = tuareg
         religion = sunni
         size = 1100
     }
@@ -936,7 +936,7 @@
     }
 
     slaves = {
-        culture = berber
+        culture = tuareg
         religion = sunni
         size = 3100
     }

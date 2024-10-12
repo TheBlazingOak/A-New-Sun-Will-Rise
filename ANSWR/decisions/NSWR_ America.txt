@@ -657,6 +657,93 @@ transpacifica_unification = {
     		set_country_flag = renamed_new_pacifica
 		}
     }
+    ##Pawnee##
+    #Conquering the Great Roads
+    conquering_the_great_roads = {
+    	picture = kansas_nebraska_act
+    	potential = {
+	    	tag = PAW
+	    	126 = { owned_by = THIS }
+	    	120 = { owned_by = THIS }
+	    	NOT = { 127 = { owned_by = THIS } 125 = { owned_by = THIS } }
+	    	NOT = { has_country_flag = great_roads_conquered }
+    	}
+
+    	allow = {
+    		prestige = 10
+    		OR = {
+    		prestige = 15
+    		130 = { owned_by = THIS }
+    		}
+    	}
+    	effect ={
+    		prestige = 5
+    		USA_106 = { secede_province = THIS add_core = THIS }
+    		USA_118 = { secede_province = THIS add_core = THIS }
+    		set_country_flag = great_roads_conquered
+		}
+    }
+    #The Kentucky Boundary
+    kentucky_boundary = {
+    	potential = {
+	    	tag = PAW
+	    	130 = { owned_by = THIS }
+	    	NOT = { has_country_flag = kentucky_boundary }
+    	}
+
+    	allow = {
+    		prestige = 10
+    		130 = { owned_by = THIS }
+    		167 = { owned_by = THIS } 
+    	}
+    	effect ={
+    		prestige = 3
+    		USA_185 = { add_core = THIS }
+    		set_country_flag = kentucky_boundary
+		}
+    }
+    #Inner Rustica
+    inner_rustica = {
+    	potential = {
+	    	tag = PAW
+	    	130 = { owned_by = THIS }
+	    	167 = { owned_by = THIS }
+	    	NOT = { has_country_flag = inner_rustica }
+    	}
+
+    	allow = {
+    		prestige = 15
+    		130 = { owned_by = THIS }
+    		167 = { owned_by = THIS }
+    		184 = { owned_by = THIS }
+    	}
+    	effect ={
+    		prestige = 3
+    		USA_168 = { add_core = THIS }
+    		USA_170 = { add_core = THIS } 
+    		set_country_flag = inner_rustica
+		}
+    }
+    #Texas Underbelly
+    texan_underbelly = {
+    	potential = {
+	    	tag = PAW
+	    	130 = { owned_by = THIS }
+	    	has_country_flag = kentucky_boundary
+	    	NOT = { has_country_flag = texas_claimed }
+    	}
+
+    	allow = {
+    		prestige = 15
+    		130 = { owned_by = THIS }
+    	}
+    	effect ={
+    		prestige = 3
+    		TEX_132 = { add_core = THIS }
+    		MEX_103 = { add_core = THIS }
+    		set_country_flag = texas_claimed
+		}
+    }
 #End of political_decisions brackets
 
 }

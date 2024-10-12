@@ -84,13 +84,14 @@ PROV2537;Birara;;;;;;;;;;;x
 PROV158;Grand Portage;;;;;;;;;;;x
 PROV29;Kyzylkum;;;;;;;;;;;x
 PROV2595;Nunavut;;;;;;;;;;;x
-PROV25;Old Bow Fort;;;;;;;;;;;x
+PROV25;Calgary;;;;;;;;;;;x
+PROV2597;Prairie;;;;;;;;;;;x
 PROV6;Selkirk;;;;;;;;;;;x
 PROV35;Fort Pitt;;;;;;;;;;;x
 PROV28;Jasper;;;;;;;;;;;x
-PROV26;Rocky Mountain House;;;;;;;;;;;x
-PROV22;Buckingham House;;;;;;;;;;;x
-PROV24;Fort Chesterfield;;;;;;;;;;;x
+PROV26;Red Deer;;;;;;;;;;;x
+PROV22;Denwood;;;;;;;;;;;x
+PROV24;Medicine Hat;;;;;;;;;;;x
 PROV34;Fort Carlton;;;;;;;;;;;x
 PROV33;Battleford;;;;;;;;;;;x
 PROV41;Fort Ellice;;;;;;;;;;;x
@@ -108,36 +109,36 @@ urban;Urban;;;;;;;;;;;x
 TUR_882;Vazov Desant;;;;;;;;;;;x
 FRA_1901;Versvlak;;;;;;;;;;;x
 ASH_1910;Volta;;;;;;;;;;;;x
-PROV155;Fort Snelling;;;;;;;;;;;;x
-PROV156;Fort Renville;;;;;;;;;;;;x
+PROV155;Young Sun;;;;;;;;;;;;x
+PROV156;Big Sun;;;;;;;;;;;;x
 PROV157;Fort Ripley;;;;;;;;;;;;x
 PROV92;Kullyspell;;;;;;;;;;;;x
 PROV93;Fort Hall;;;;;;;;;;;;x
-PROV123;Fort Robidoux;;;;;;;;;;;;x
-PROV124;Bordeaux's Post;;;;;;;;;;;;x
-PROV125;Fontenelle's Post;;;;;;;;;;;;x
-PROV126;Fort Leavenworth;;;;;;;;;;;;x
-PROV127;Fort Mann;;;;;;;;;;;;x
+PROV123;Great Connection;;;;;;;;;;;;x
+PROV124;No Man's Land;;;;;;;;;;;;x
+PROV125;The Seventy Six;;;;;;;;;;;;x
+PROV126;Road-to-Hills;;;;;;;;;;;;x
+PROV127;The Seventy;;;;;;;;;;;;x
 PROV113;Gallatin Valley;;;;;;;;;;;;x
-PROV117;Fort Clark;;;;;;;;;;;;x
+PROV117;Brothers' Town;;;;;;;;;;;;x
 PROV118;Fort James;;;;;;;;;;;;x
-PROV119;Fort Union;;;;;;;;;;;;x
-PROV122;Fort Pierre;;;;;;;;;;;;x
-PROV121;Fort Cedar;;;;;;;;;;;;x
-PROV120;Fort Kiowa;;;;;;;;;;;;x
-PROV114;Fort Owen;;;;;;;;;;;;x
-PROV115;Fort Benton;;;;;;;;;;;;x
-PROV116;Fort Van Buren;;;;;;;;;;;;x
-PROV111;Fort Bonneville;;;;;;;;;;;;x
-PROV112;Fort Laramie;;;;;;;;;;;;x
+PROV119;Minot;;;;;;;;;;;;x
+PROV122;Free Plains;;;;;;;;;;;;x
+PROV121;Broken Roads;;;;;;;;;;;;x
+PROV120;Road-to-Nowhere;;;;;;;;;;;;x
+PROV114;Missoula;;;;;;;;;;;;x
+PROV115;Blackfeet;;;;;;;;;;;;x
+PROV116;Rapids;;;;;;;;;;;;x
+PROV111;Cheyenne;;;;;;;;;;;;x
+PROV112;The Eighty;;;;;;;;;;;;x
 PROV126;Overland;;;;;;;;;;;;x
-USA_91;The Ninety;;;;;;;;;;;;x
-MEX_103;The Forty;;;;;;;;;;;;x
+USA_91;Ninety;;;;;;;;;;;;x
+MEX_103;Forty;;;;;;;;;;;;x
 PROV402;Bendigo;;;;;;;;;;;;x
-PROV106;Bent's Fort;;;;;;;;;;;;x
-USA_151;The Thirty Five;;;;;;;;;;;;x
-USA_118;The Twenty Nine;;;;;;;;;;;;x
-USA_106;The Seventy;;;;;;;;;;;;x
+PROV106;Big Bend;;;;;;;;;;;;x
+USA_151;Thirty Five;;;;;;;;;;;;x
+USA_118;Twenty Nine;;;;;;;;;;;;x
+USA_106;Great Roads;;;;;;;;;;;;x
 USA_148;Pawneeland;;;;;;;;;;;;x
 USA_168;Rustland;;;;;;;;;;;;x
 PAW_166;Outer Rustica;;;;;;;;;;;;x
@@ -354,12 +355,14 @@ PROV177;New Yooper;;;;;;;;;;;;;;;;;;;;;;;x
 PROV172;Wayne;;;;;;;;;;;;;;;;;;;;;;;x
 PROV141;Beaumont;;;;;;;;;;;;;;;;;;;;;;;x
 PROV134;Dallas;;;;;;;;;;;;;;;;;;;;;;;x
-PROV131;Elk City;;;;;;;;;;;;;;;;;;;;;;;x
+PROV131;OKC;;;;;;;;;;;;;;;;;;;;;;;x
 PROV135;Amarillo;;;;;;;;;;;;;;;;;;;;;;;x
 PROV132;New Houston;;;;;;;;;;;;;;;;;;;;;;;x
-PROV130;Tulsa;;;;;;;;;;;;;;;;;;;;;;;x
+PROV130;New Tulsa;;;;;;;;;;;;;;;;;;;;;;;x
 USA_223;Deitschland;;;;;;;;;;;;;;;;;;;;;;;x
 USA_231;Philly;;;;;;;;;;;;;;;;;;;;;;;x
+USA_188;Raleigh;;;;;;;;;;;;;;;;;;;;;;;x
+EGY_915;Phoenicia;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1452;New Melbore;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1446;New Tasmania;;;;;;;;;;;;;;;;;;;;;;;x
 PROV223;Philly;;;;;;;;;;;;;;;;;;;;;;;x
@@ -625,7 +628,7 @@ PROV3;Kasilof;;;;;;;;;;;;x
 PROV4;Paul's Harbor;;;;;;;;;;;;x
 PROV5;Unalaska;;;;;;;;;;;;x
 PROV107;San Jose;;;;;;;;;;;;x
-PROV108;Grand Junction;;;;;;;;;;;;x
+PROV108;Great Rockies;;;;;;;;;;;;x
 PROV104;San Francisco;;;;;;;;;;;;x
 PROV2146;Washington;;;;;;;;;;;;x
 PROV2148;Albuquerque;;;;;;;;;;;;x
@@ -822,7 +825,7 @@ PROV3126;Coast of Minami;;;;;;;;;;;;x
 PROV79;Calispia;;;;;;;;;;;;x
 PROV19;Fort St. James;;;;;;;;;;;;x
 PROV18;New Caledonia;;;;;;;;;;;;x
-PROV129;Guymon;;;;;;;;;;;;x
+PROV129;Pan Handle;;;;;;;;;;;;x
 PROV128;Hugoton;;;;;;;;;;;;x
 PROV158;Duluth;;;;;;;;;;;;x
 PROV638;Prešov;;;;;;;;;;;;x
@@ -845,8 +848,8 @@ PROV2137;Nogales;;;;;;;;;;;;x
 PROV2143;Ciudad Juarez;;;;;;;;;;;;x
 PROV2147;Ciudad Acuña;;;;;;;;;;;;x
 PROV2171;Cololo;;;;;;;;;;;;x
-PROV103;Pueblo;;;;;;;;;;;;x
-PROV109;Aspen;;;;;;;;;;;;x
+PROV103;Rocky Border;;;;;;;;;;;;x
+PROV109;Micheal's Land;;;;;;;;;;;;x
 PROV105;Santa Fe;;;;;;;;;;;;x
 PROV218;Wheeling;;;;;;;;;;;;x
 PROV217;Green Bank;;;;;;;;;;;;x
@@ -936,8 +939,8 @@ PROV2247;Bacatá;;;;;;;;;;;;x
 USA_2556;Carolingia Proper;;;;;;;;;;;;x
 PAW_166;Outer Illinois;;;;;;;;;;;;x
 LOS_89;Greater Los Angeles Area;;;;;;;;;;;;x
-TEX_134;East Texas;;;;;;;;;;;;x
-CLM_2004;Old Taislas;;;;;;;;;;;;x
+TEX_134;Old Pawnee;;;;;;;;;;;;x
+CLM_2004;Taislas;;;;;;;;;;;;x
 MEX_2165;Chiapas;;;;;;;;;;;;x
 ARG_2355;La Isla de La Plata;;;;;;;;;;;;x
 BOL_2321;Tierra Interior;;;;;;;;;;;;x
@@ -1543,4 +1546,4 @@ PAP_752;Roma;;;;;;;;;;;;;;;;;;;;x;
 SIC_753;Foggia;;;;;;;;;;;;;;;;;;;;x;
 ABU_1162;Dubaay;;;;;;;;;;;;;;;;;;;;x;
 PROV1168;Dubaay;;;;;;;;;;;;;;;;;;;;x;
-ALD_1718;Tuareg Homelands;;;;;;;;;;;;;;;;;;;;x;
+ALD_1718;Tuareg Homelands;;;;;;;;;;;;;;;;;;;;x

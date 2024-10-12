@@ -489,9 +489,32 @@ country_event = {
         TUR_880 = { any_pop = { limit = { culture = borgar } reduce_pop = 1.5 } }
         TUR_880 = {  add_province_modifier = { name = colonial_recruitment duration = 1825 } }
         TUR_873 = { add_core = BOR remove_core = TUR }
-        TUR_880 = { add_core = BOR remove_core = TUR }
         TUR_876 = { add_core = BOR remove_core = TUR }
-        TUR_894 = { add_core = BOR remove_core = TUR }
         set_country_flag = borgar_conquest
+    }
+}
+#Borgar Balkans
+country_event = {
+
+    id = 52155
+    title = "EVTNAME52155" #Borgar Migrations
+    desc = "EVTDESC52155"
+    trigger = {
+        tag = BOR
+        has_country_flag = BOR_zakovograd
+        NOT = {has_country_flag = borgar_balkans}
+    }
+
+    mean_time_to_happen = { months = 24 }
+
+    option = {
+        name = "EVT52155OPTA" #Yes
+        prestige = 3
+        TUR_823 = { add_core = THIS }
+        TUR_810 = { add_core = THIS }
+        TUR_806 = { add_core = THIS }
+        TUR_803 = { add_core = THIS }
+        TUR_674 = { add_core = THIS }
+        set_country_flag = borgar_balkans
     }
 }

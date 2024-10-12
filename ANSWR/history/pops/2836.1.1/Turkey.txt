@@ -2227,6 +2227,11 @@
         religion = orthodox
         size = 925
     }
+    farmers = {
+        culture = borgar
+        religion = the_broken
+        size = 3500
+    }
 }
 #Trebizonde Region (540000)
 #under the rule of Ottoman Empire in 1836

@@ -1,10 +1,16 @@
-LSK = { value = -150 }
-AMA = { value = -150 }
-ARI = { value = -200 }
-COL = { value = -150 }
-LOS = { value = -150 }
+LOS = {
+    value = -200
+}
+AMA = {
+    value = -200
+}
+COL = {
+    value = -200
+}
+LSK = {
+    value = -200
+}
 DES = { value = -200 }
-
 army = {
     name = "The Sactown Militiamen"
     location = 84

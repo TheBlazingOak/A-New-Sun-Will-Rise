@@ -4,8 +4,10 @@ religion = sunni
 government = absolute_monarchy
 plurality = 0.5
 nationalvalue = nv_tradition
-literacy = 0.02
+literacy = 0.19
 non_state_culture_literacy = 0.01
+prestige = 1
+
 
 # Political reforms
 slavery = yes_slavery
@@ -56,3 +58,5 @@ set_country_flag = lacking_writing_system
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+
+oob = "TRG_oob.txt"

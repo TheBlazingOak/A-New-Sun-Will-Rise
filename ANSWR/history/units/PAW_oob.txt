@@ -1,0 +1,181 @@
+TEX = {value = -200}
+RUS = {value = -200}
+DIX = {value = -200}
+WIN = {value = -200}
+ANM = {value = -100}
+NEN = {value = -200}
+SLC = {value = -200}
+ONT = {value = -200}
+CRA = {value = -200}
+COW = {value = -100}
+WKK = {value = -100}
+TAM = {value = 25}
+army = {
+    name = "Pawnees of the Road"
+    location = 146
+    regiment = {
+        name= "1.Nomad"
+        type = irregular
+        home = 146
+    }
+    regiment = {
+        name= "2.Nomad"
+        type = irregular
+        home = 146
+    }
+    regiment = {
+        name= "3.Nomad"
+        type = irregular
+        home = 146
+    }
+    regiment = {
+        name= "4.Nomad"
+        type = irregular
+        home = 126
+    }
+    regiment = {
+        name= "5.Nomad"
+        type = irregular
+        home = 147
+    }
+    regiment = {
+        name= "6.Nomad"
+        type = irregular
+        home = 148
+    }
+    regiment = {
+        name= "7.Nomad"
+        type = irregular
+        home = 166
+    }
+    regiment = {
+        name= "8.Nomad"
+        type = irregular
+        home = 151
+    }
+    regiment = {
+        name= "9.Nomad"
+        type = irregular
+        home = 189
+    }
+    regiment = {
+        name= "10.Nomad"
+        type = irregular
+        home = 189
+    }
+    regiment = {
+        name= "11.Nomad"
+        type = irregular
+        home = 143
+    }
+
+    regiment = {
+        name= "1.Plainer Veteran"
+        type = cavalry
+        home = 150
+    }
+    regiment = {
+        name= "2.Plainer Veteran"
+        type = cavalry
+        home = 149
+    }
+}
+army = {
+    name = "Great Roads Veterans"
+    location = 126
+    regiment = {
+        name= "1.Nomad"
+        type = irregular
+        home = 149
+    }
+    regiment = {
+        name= "2.Nomad"
+        type = irregular
+        home = 150
+    }
+    regiment = {
+        name= "3.Nomad"
+        type = irregular
+        home = 150
+    }
+    regiment = {
+        name= "1.Plainer Veteran"
+        type = cavalry
+        home = 150
+    }
+    regiment = {
+        name= "2.Plainer Veteran"
+        type = cavalry
+        home = 123
+    }
+    regiment = {
+        name= "3.Plainer Veteran"
+        type = cavalry
+        home = 156
+    }
+    regiment = {
+        name= "4.Plainer Veteran"
+        type = cavalry
+        home = 156
+    }
+    regiment = {
+        name= "5.Plainer Veteran"
+        type = cavalry
+        home = 189
+    }
+    regiment = {
+        name= "6.Plainer Veteran"
+        type = cavalry
+        home = 189
+    }
+    regiment = {
+        name= "7.Plainer Veteran"
+        type = cavalry
+        home = 189
+    }
+}
+army = {
+    name = "Pawnee Nomads"
+    location = 120
+    regiment = {
+        name= "1.Nomad"
+        type = irregular
+        home = 193
+    }
+    regiment = {
+        name= "2.Nomad"
+        type = irregular
+        home = 143
+    }
+    regiment = {
+        name= "3.Nomad"
+        type = irregular
+        home = 189
+    }
+}
+leader = {
+    name = "Lester Young Sun"
+    picture = nativeamerican_general_0
+    type = land
+    date = 2836.1.1
+    personality = brutish
+    background = expert_raider
+    prestige = 0.10
+}
+leader = {
+    name = "Micheal of Seventy"
+    picture = nativeamerican_general_0
+    type = land
+    date = 2836.1.1
+    personality = merciless
+    background = school_of_firepower
+    prestige = 0.25
+}
+leader = {
+    name = "John Blackfeet"
+    type = land
+    date = 2836.1.1
+    personality = competent
+    background = poet
+    prestige = 0.03
+}

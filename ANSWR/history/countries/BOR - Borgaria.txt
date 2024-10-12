@@ -1,12 +1,12 @@
 capital = 879
 primary_culture = borgar
-religion = orthodox
+religion = the_broken
 government = absolute_monarchy
 plurality = 0.08
 nationalvalue = nv_order
-literacy = 0.09
+literacy = 0.33
 civilized = yes
-prestige = 1
+prestige = 3
 
 # Political reforms
 slavery = no_slavery

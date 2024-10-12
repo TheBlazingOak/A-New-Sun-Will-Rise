@@ -69,8 +69,8 @@ army = {
     }
 
     regiment = {
-        name= "4.Division Comonfort"
-        type = irregular
+        name= "1. Cavalry"
+        type = cavalry
         home = 2174
     }
 

@@ -38,7 +38,7 @@ border_policy = open_borders
 set_country_flag = vitalic_country
 
 ruling_party = SWI_conservative
-last_election = 1835.1.1
+last_election = 2835.1.1
 upper_house = {
     fascist = 0
     liberal = 25
@@ -87,7 +87,7 @@ traditionalism = yes
 political_religion = yes
 paternalism = yes
 
-schools = industrial_tech_school
+schools = army_tech_school
 
 # Starting Consciousness
 consciousness = 3

@@ -6,6 +6,8 @@ political_decisions = {
 		potential = {
 			tag = ALD
 			has_country_flag = banu_integrated
+			has_country_flag = dey_of_tunis
+			year = 2838
 			NOT = {has_country_flag = southern_expansion}
 		}
 		allow = {
@@ -46,19 +48,35 @@ political_decisions = {
 		picture = moroccan_partition
 		potential = {
 			tag = ALD
-			has_country_flag = southern_expansion
+			has_country_flag = banu_integrated
 			NOT = {has_country_flag = dey_of_tunis}
 		}
 		allow = {
 			prestige = 1
-			1708 = {owned_by = THIS}
-			1709 = {owned_by = THIS}
 			}
 		effect = {
 			prestige = 3
 			TUN_1726 = { add_core = THIS } 
 			relation = { who = APU value = -200}
 			set_country_flag = dey_of_tunis
+		}
+	}
+	migration_into_sabbin_kasashe = {
+		alert = yes
+		picture = moroccan_partition
+		potential = {
+			tag = TRG
+			has_country_flag = tuareg_masakekaso
+			NOT = {has_country_flag = migration_into_sabbin_kasashe}
+		}
+		allow = {
+			prestige = 1
+			1805 = {owned_by = THIS}
+			}
+		effect = {
+			prestige = 3
+			FRA_1815 = { add_core = THIS } 
+			set_country_flag = migration_into_sabbin_kasashe
 		}
 	}
 #END OF POLITICAL BRACKETS

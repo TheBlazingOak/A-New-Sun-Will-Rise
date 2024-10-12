@@ -1,7 +1,7 @@
 #Sphere of Influence
 #Other GP/Nations
 NET = { value = 125 }
-SWI = { value = -15 }
+SWI = { value = -200 }
 UNS = { value = -25 }
 AUS = { value = -75 }
 AST = { value = 0 }

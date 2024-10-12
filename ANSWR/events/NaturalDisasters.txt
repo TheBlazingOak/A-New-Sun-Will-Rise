@@ -100,7 +100,7 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        year = 2862
+        year = 2962
         owns = 2307
     }
 
@@ -116,7 +116,7 @@ country_event = {
     }
 }
 
-# 1868 Ayachucho Earthquake
+# Tokyo Earthquake
 country_event = {
     id = 21522
     title = "EVTNAME21522"
@@ -127,7 +127,7 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        year = 2851
+        year = 2951
         owns = 2299
     }
 

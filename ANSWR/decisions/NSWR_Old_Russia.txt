@@ -61,7 +61,7 @@ political_decisions = {
 		}
 	}
 	#Siberian Colonization
-	colonize_old_ukraine = {
+	colonize_east = {
 		potential = {
 			exists = yes
 			OR = { 1032 = {owned_by = THIS } 2645 = {owned_by = THIS } }

@@ -2,7 +2,7 @@ owner = PAW
 controller = PAW
 add_core = PAW
 add_core = RSB
-trade_goods = cattle
+trade_goods = grain
 life_rating = 35
 
 party_loyalty = {

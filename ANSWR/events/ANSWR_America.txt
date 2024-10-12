@@ -1,4 +1,154 @@
+##Pawnee##
+#Pawnee History/Context
+country_event = {
+	id = 52117
+	title = "EVTNAME52117"
+	desc = "EVTDESC52117"
+	picture = wasteland_evt
 
+	trigger = {
+	tag = PAW
+	NOT = { has_country_flag = lester_big_sun_dedication }
+	}
+
+	mean_time_to_happen = { days = 3 }
+
+	option = {
+	name = "EVTOPTA52117"
+	prestige = 5
+	set_country_flag = lester_big_sun_dedication
+	}
+}
+#Pawnee Homeland Invasion
+country_event = {
+	id = 52179
+	title = "EVTNAME52179"
+	desc = "EVTDESC52179"
+	picture = wasteland_evt
+
+	trigger = {
+	exists = yes
+	tag = PAW
+	has_country_flag = lester_big_sun_dedication
+	NOT = { has_country_flag = our_homeland }
+	NOT = {TEX_134 = {owned_by = THIS } }
+	}
+
+	mean_time_to_happen = { months = 3 }
+
+	option = {
+	name = "EVTOPTA52179"
+	prestige = 1
+	set_country_flag = our_homeland
+	}
+}
+#Return to the Pawnee Homelands
+country_event = {
+	id = 52180
+	title = "EVTNAME52180"
+	desc = "EVTDESC52180"
+	picture = wasteland_evt
+
+	trigger = {
+	exists = yes
+	tag = PAW
+	TEX_134 = { owned_by = THIS }
+	NOT = { has_country_flag = our_old_homeland }
+	}
+
+	mean_time_to_happen = { days = 14 }
+
+	option = {
+	name = "EVTOPTA52180"
+	prestige = 3
+	research_points = 1000
+	130 = { change_province_name = "New Pawnee City" }
+	130 = {  add_province_modifier = { name = reclaimed_homeland duration = 3650 } life_rating = 5}
+	129 = {  add_province_modifier = { name = reclaimed_homeland duration = 3650 } }
+	131 = {  add_province_modifier = { name = reclaimed_homeland duration = 3650 } }
+	set_country_flag = our_old_homeland
+	}
+}
+#Bunker found by Great Roads explorer in Province
+province_event = {
+    id = 52181
+    title = "EVTNAME52181"
+    desc = "EVTDESC52181"
+
+    trigger = {
+        is_core = PAW
+        controlled_by = THIS
+        NOT = {
+        	OR = {
+        	THIS = { civilized = yes }
+        	THIS = { has_country_modifier = raided_bunker }
+        	}
+            
+        }
+    }
+
+    mean_time_to_happen = {
+        months = 120
+    }
+    #Study 
+    option = {
+        name = "EVT52181OPTA"
+        PAW = { add_country_modifier = { name = raided_bunker duration = 365 } }
+        any_pop = { militancy = 1 }
+    }
+    #Destroy these unholy relics
+    option = {
+        name = "EVT52181OPTB"
+        prestige = 3
+        any_pop = { militancy = -2 }
+    }
+}
+#Yooper
+country_event = {
+    id = 52182
+    title = "EVTNAME52182"
+    desc = "EVTDESC52182"
+
+    trigger = {
+        tag = PAW
+        year = 2844
+        NOT = { ANM = { exists = yes } }
+        has_country_flag = inner_rustica
+        NOT = { has_country_flag = yooper_core }
+    }
+
+    mean_time_to_happen = {
+        months = 12
+    }
+
+    option = {
+        name = "EVT52182OPTA"
+        USA_162 = { add_core = THIS }
+        set_country_flag = yooper_core
+    }
+}
+#The New Mexican Colonization
+country_event = {
+    id = 52183
+    title = "EVTNAME52183"
+    desc = "EVTDESC52183"
+
+    trigger = { 
+    	NOT = { OR = { has_country_flag = colonized_new_mexico 105 = {owned_by = THIS } } }
+        OR = { tag = TEX 133 = {owned_by = THIS } }
+        OR = { year = 2838 NOT = { 130 = {owned_by = THIS } }}
+    }
+
+    mean_time_to_happen = {
+        months = 12
+    }
+    #Colonize
+    option = {
+        name = "EVT52183OPTA"
+        USA_162 = { secede_province = THIS add_core = THIS }
+        set_country_flag = colonized_new_mexico
+    }
+}
 #Canada
 country_event = {
 	id = 52260

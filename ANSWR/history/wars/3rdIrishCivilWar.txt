@@ -1,0 +1,18 @@
+name = "Ulster-Galway Unification War"
+
+2835.11.3 = {
+    add_attacker = ULS
+    add_defender = COC
+
+    war_goal = {
+        casus_belli = civil_war
+        actor = ULS
+        receiver = COC
+    }
+    war_goal = {
+        casus_belli = civil_war
+        actor = COC
+        receiver = ULS
+    }
+
+}

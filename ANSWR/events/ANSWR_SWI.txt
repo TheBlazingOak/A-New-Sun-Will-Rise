@@ -5,7 +5,7 @@ country_event = {
     title = "EVTNAME224101"
     desc = "EVTDESC224101"
     picture = autocracy
-    mean_time_to_happen = { months = 12 }
+    mean_time_to_happen = { days = 14 }
     trigger = {
         tag = SWI
         NOT = { exists = ITA }

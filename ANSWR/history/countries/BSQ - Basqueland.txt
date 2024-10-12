@@ -2,9 +2,9 @@ capital = 492
 primary_culture = basque
 religion = catholic
 government = democracy
-plurality = 0.1
-nationalvalue = nv_order
-literacy = 0.48
+plurality = 0.15
+nationalvalue = nv_liberty
+literacy = 0.61
 civilized = yes
 
 

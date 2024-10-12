@@ -1346,13 +1346,13 @@
     soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 750
+        size = 6750
     }
 
     farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 23250
+        size = 93250
     }
 
 }
@@ -1433,13 +1433,13 @@
     soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 3000
+        size = 17000
     }
 
     farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 130250
+        size = 160250
     }
     craftsmen = {
         culture = anglo_canadian
@@ -1471,13 +1471,13 @@
     soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 1500
+        size = 5500
     }
 
     labourers = {
         culture = anglo_canadian
         religion = protestant
-        size = 38350
+        size = 58350
     }
 }
 #Hamilton (68000/17000 POPS)
@@ -1504,13 +1504,13 @@
     soldiers = {
         culture = anglo_canadian
         religion = protestant
-        size = 1000
+        size = 6000
     }
 
     farmers = {
         culture = anglo_canadian
         religion = protestant
-        size = 25700
+        size = 75700
     }
 }
 #Kingston (72000/18000 POPS)

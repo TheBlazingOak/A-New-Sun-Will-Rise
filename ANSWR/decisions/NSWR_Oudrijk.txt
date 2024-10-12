@@ -1,4 +1,115 @@
 political_decisions = {
+    #Oudrijk Destruction
+    oudrijk_destruction = {
+        picture = central_oudrijk
+
+        potential = {
+            OR = {tag = BOH tag = AUS}
+            NOT = { has_global_flag = called_council_wien }
+            OR = { BOH = {is_greater_power = no} AUS = { is_greater_power = no } }
+            NOT = {has_global_flag = oudrijk_destroyed}
+        }
+
+        allow = {
+            prestige = 5
+            OR = { AND = { is_greater_power = yes OR = { BOH = {is_greater_power = no} AUS = {is_greater_power = no} } } AND = { BOH = {is_greater_power = no} AUS = {is_greater_power = no} } }
+            NOT = { prestige = 80 }
+        }
+
+        effect = {
+            prestige = -5
+            THIS = { country_event = { id = 222059 days = 0 } }
+            remove_country_modifier = oudrijk_kaizer
+            remove_country_modifier = oudrijk_opposition
+            remove_country_modifier = oudrijk_prince
+            set_global_flag = oudrijk_destroyed
+        }
+        ai_will_do = {
+        factor = 1
+        }
+    }
+    #The van Gesegnet Wedding
+    van_gesegnet_wedding = {
+        picture = royal_marriage
+
+        potential = {
+            OR = {tag = BOH tag = AUS}
+            has_global_flag = oudrijk_destroyed
+            NOT = { has_country_flag = van_gesegnet_wedding }
+            OR = { AND = { BOH = { ai = yes } AUS = { ai = no } THIS = {ai = no } } AND = { BOH = { ai = no } AUS = { ai = yes } THIS = {ai = no } } AND = { BOH = { ai = yes } AUS = { ai = yes } THIS = {ai = yes } } }
+        }
+
+        allow = {
+            prestige = 5
+            has_global_flag = oudrijk_destroyed
+        }
+
+        effect = {
+            prestige = 10
+            change_tag = FRB
+            add_accepted_culture = czech
+            add_accepted_culture = austro_german
+            inherit = BOH
+            inherit = AUS
+            AUS_619 = { add_core = FRB remove = AUS }
+            AUS_613 = { add_core = FRB remove = AUS }
+            AUS_612 = { add_core = FRB remove = AUS }
+            AUS_734 = { add_core = FRB remove = AUS }
+            AUS_736 = { add_core = FRB remove = AUS }
+            AUS_625 = { add_core = FRB remove = BOH }
+            AUS_627 = { add_core = FRB remove = BOH }
+            PRU_682 = { add_core = FRB remove = BOH }
+            set_country_flag = van_gesegnet_wedding
+        }
+        ai_will_do = {
+        factor = 1
+        }
+    }
+    #Take up the Mantle
+    nieuwrijk_formation = {
+        picture = national_value
+
+        potential = {
+            is_culture_group = germanic
+            has_global_flag = oudrijk_destroyed
+            NOT = { exists = OUD }
+            NOT = { exists = NUR }
+        }
+
+        allow = {
+            prestige = 20
+            war = no
+            has_global_flag = oudrijk_destroyed
+            is_secondary_power = yes
+            nationalism_n_imperialism = 1
+        }
+
+        effect = {
+            prestige = 20
+            change_tag = NUR 
+            add_country_modifier = {
+                        name = nieuwrijk_kaizer
+                        duration = -1
+                }
+            add_accepted_culture = rhine_german
+            add_accepted_culture = south_german
+            add_accepted_culture = north_german
+            all_core = { remove_core = THIS add_core = NUR}
+            WES = { all_core = { add_core = NUR } }
+            RHI = { all_core = { add_core = NUR } }
+            BAV = { all_core = { add_core = NUR } }
+            ULM = { all_core = { add_core = NUR } }
+            BAD = { all_core = { add_core = NUR } }
+            SAX = { all_core = { add_core = NUR } }
+            WEI = { all_core = { add_core = NUR } }
+            BRI = { all_core = { add_core = NUR } }
+            MEC = { all_core = { add_core = NUR } }
+            PZN = { all_core = { add_core = NUR } }
+            HAN_534 = { add_core = NUR }
+            HAN_528 = { add_core = NUR }
+            FRA_412 = { remove_core = OUD add_core = NUR}
+        }
+    }
 
     centralize_the_oudrijk = {
         picture = central_oudrijk
@@ -215,7 +326,7 @@ political_decisions = {
             prestige = 80
         }
         effect = {
-            country_event = 222015
+            THIS = {country_event = 222015}
             set_global_flag = called_council_wien
         }
         ai_will_do = {
@@ -225,7 +336,7 @@ political_decisions = {
     hire_dvrenerusskiy_mercs = {
         potential = {
             prestige = 75
-            year = 2945
+            year = 2845
             war = yes
             tag = AUS
             NOT = { set_country_flag = hired_mercenaries }
@@ -250,45 +361,8 @@ political_decisions = {
         }
     }
     #Not Finished
-    aus_adlerlund_incident = {
-        potential = {
-            prestige = 75
-            year = 2945
-            tag = BOH
-            NOT = { has_country_flag = adlerlund_intrest }
-        }
-        allow = {
-            money = 25000
-            prestige = 100
-        }
-        effect = {
-            treasury = -25000
-            set_country_flag = adlerlund_intrest
-        }
-        ai_will_do = {
-        factor = 1
-        }
-    }
-    bribe_halbinsel = { 
-        potential = {
-            prestige = 75
-            year = 2945
-            tag = BOH
-            NOT = { has_country_flag = black_palace }
-        }
-        allow = {
-            semi_automatization = 1
-            treasury = 50000
-            prestige = 100
-        }
-        effect = {
-            prestige = 20
-            treasury = -50000
-        }
-        ai_will_do = {
-        factor = 1
-        }
-    }
+    #aus_adlerlund_incident
+    #bribe_halbinsel
 
     ### BOH Decisions ###
     renovate_the_black_palace = {
@@ -312,66 +386,6 @@ political_decisions = {
         factor = 1
         }
     }
-    #Not Finished below
-    boh_pressure_aus = {
-        potential = {
-            prestige = 75
-            year = 2945
-        }
-        allow = {
-            semi_automatization = 1
-            treasury = 50000
-            prestige = 100
-        }
-        effect = {
-            prestige = 20
-            treasury = -50000
-        }
-        ai_will_do = {
-        factor = 1
-        }
-    }
-    assassinate_the_kaizer = {
-        potential = {
-            has_global_flag = walked_out_on_rijkskomst
-            relation = {
-                who = AUS
-                value = -200
-            }
-            tag = BOH
-            NOT = { has_global_flag = charles_xi_provoked has_global_flag = charles_xi_assassinated}
-            year = 2945
-        }
-        allow = {
-            prestige = 200
-        }
-        effect = {
-            prestige = -100
-            set_global_flag = charles_xi_assassinated
-        }
-        ai_will_do = {
-        factor = 1
-        }
-    }
-    provoke_the_kaizer = {
-        potential = {
-            has_global_flag = walked_out_on_rijkskomst
-            relation = {
-                who = AUS
-                value = -200
-            }
-            tag = BOH
-            NOT = { has_global_flag = charles_xi_provoked has_global_flag = charles_xi_assassinated}
-        }
-        allow = {
-            prestige = 150
-        }
-        effect = {
-            prestige = -50
-            set_global_flag = charles_xi_provoked
-        }
-        ai_will_do = {
-        factor = 1
-        }
-    }
+    
+#End of Brackets
 }

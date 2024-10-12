@@ -434,17 +434,67 @@ country_event = {
     id = 65700
     title = "EVTNAME65700"
     desc = "EVTDESC65700"
-    picture = "titanic_arrives"
+    picture = "famine"
     trigger = {
         tag = TRG
         exists = yes
-        year = 2850
+        year = 2837
         NOT = {has_country_flag = tuareg_droughts}
     }
-    mean_time_to_happen = { months = 60 }
+    mean_time_to_happen = { days = 30 }
     option = {
         name = "EVTOPTA65700"
-        ALD_1718 = {add_province_modifier = {name = severe_homeland_drought duration = 365 } }
+        MOR_1683 = { add_province_modifier = { name = dust_bowl duration = 1825 } }
+        ALD_1713 = { add_province_modifier = { name = dust_bowl duration = 1825 } }
+        ALD_1718 = { add_province_modifier = { name = dust_bowl duration = 1825 } }
+        FRA_1775 = { add_province_modifier = { name = dust_bowl duration = 1825 } }
         set_country_flag = tuareg_droughts
+    }
+}
+#Tuareg South Immigration
+country_event = {
+    id = 65701
+    title = "EVTNAME65701"
+    desc = "EVTDESC65701"
+    picture = "arab_revolt"
+    trigger = {
+        tag = TRG
+        exists = yes
+        has_country_flag = tuareg_droughts
+        NOT = { has_country_flag =  tuareg_immigration }
+    }
+    mean_time_to_happen = { months = 2 }
+    option = {
+        name = "EVTOPTA65701"
+        war = {
+            target = MAS
+            attacker_goal = { casus_belli = conquest }
+            defender_goal = { casus_belli = status_quo }
+            call_ally = no
+        }
+        set_country_flag = tuareg_immigration
+    }
+}
+#Tuareg South Immigration - Success
+country_event = {
+    id = 65702
+    title = "EVTNAME65702"
+    desc = "EVTDESC65702"
+    picture = "arab_revolt"
+    trigger = {
+        tag = TRG
+        exists = yes
+        has_country_flag = tuareg_immigration
+        NOT = {has_country_flag = tuareg_masakekaso}
+        1804 = { owned_by = THIS }
+    }
+    mean_time_to_happen = { days = 7 }
+    option = {
+        name = "EVTOPTA65702"
+        prestige = 3
+        FRA_1798 = {add_core = TRG}
+        FRA_1808 = {add_core = TRG}
+        FRA_1775 = {add_core = TRG}
+        set_country_flag = tuareg_masakekaso
     }
 }

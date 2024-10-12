@@ -1,12 +1,12 @@
 capital = 146
 primary_culture = plainer
-religion = protestant
+religion = free_spirit
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_autocracy
-literacy = 0.05
+nationalvalue = nv_liberty
+literacy = 0.36
 civilized = no
-prestige = 1
+prestige = 5
 
 # Political reforms
 slavery = yes_slavery
@@ -35,14 +35,14 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = closed_borders
 
-set_country_flag = protestant_country
+set_country_flag = free_spirit_country
 
-ruling_party = TEX_reactionary
+ruling_party = PAW_reactionary
 upper_house = {
     fascist = 0
-    liberal = 5
-    conservative = 26
-    reactionary = 69
+    liberal = 19
+    conservative = 36
+    reactionary = 45
     anarcho_liberal = 0
     socialist = 0
     communist = 0
@@ -51,3 +51,10 @@ upper_house = {
 set_country_flag = new_world_nation
 
 foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+foreign_officers = yes_foreign_officers
+army_schools = yes_army_schools
+military_constructions = yes_military_constructions
+foreign_artillery = yes_foreign_artillery
+
+oob = "PAW_oob.txt"

@@ -1,0 +1,18 @@
+name = "Dublin-Ulster Unification War"
+
+2835.11.3 = {
+    add_attacker = LEC
+    add_defender = ULS
+
+    war_goal = {
+        casus_belli = civil_war
+        actor = LEC
+        receiver = ULS
+    }
+    war_goal = {
+        casus_belli = civil_war
+        actor = ULS
+        receiver = LEC
+    }
+
+}

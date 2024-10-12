@@ -1,6 +1,5 @@
 owner = NET
 controller = NET
-add_core = BEL
 add_core = NET
 trade_goods = coal
 life_rating = 35

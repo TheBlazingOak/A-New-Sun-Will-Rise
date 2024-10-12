@@ -69,6 +69,7 @@ LIR        = "countries/Lirlo.txt"
 NOU        = "countries/Nouverts.txt"
 NSO        = "countries/New Scotland.txt"
 ASL        = "countries/Anti-Stales League.txt"
+BRQ		   = "countries/Barce-Euskarra.txt"
 
 ## Central Europe ANSWR 
 APU        = "countries/Apulia.txt"
@@ -185,6 +186,7 @@ WRP        = "countries/Warsaw Pact.txt"
 GCL        = "countries/Greater California.txt"
 ESS        = "countries/Eastern Seaboard.txt"
 WNT        = "countries/Winnipeg-Ontario.txt"
+FRB        = "countries/Fernost-Cislavia.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"

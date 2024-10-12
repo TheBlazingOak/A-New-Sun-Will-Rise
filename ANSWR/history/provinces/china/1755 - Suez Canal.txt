@@ -1,7 +1,7 @@
 owner = HDJ
 controller = HDJ
 add_core = HDJ
-trade_goods = cotton
+trade_goods = precious_goods
 life_rating = 32
 terrain = semidesert
 2861.1.1 = { railroad = 2 }

@@ -29,3 +29,11 @@ army = {
         home = 260
     }
 }
+leader = {
+    name = "Morgan O'Mulrian"
+    date = 2836.1.1
+    type = land
+    personality = gallant
+    background = adventurer
+    prestige = 0.05
+}

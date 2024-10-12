@@ -1,15 +1,16 @@
 CAL = {
-	value = -50
-}
-SFA = {
-	value = 100
+	value = -200
 }
 AMA = {
-	value = -150
+	value = -200
 }
 COL = {
-	value = 50
+	value = -200
 }
+LSK = {
+    value = -200
+}
+DES = { value = -200 }
 leader = {
 	name = "John López"
     type = sea

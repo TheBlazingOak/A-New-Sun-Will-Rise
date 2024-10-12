@@ -1,4 +1,4 @@
-#Sivas (224000/56000 POPS)
+#Atanagrad (224000/56000 POPS)
 879 = {
 
     bureaucrats = {
@@ -40,7 +40,7 @@
     soldiers = {
         culture = borgar
         religion = the_broken
-        size = 17000
+        size = 18000
     }
 
     clergymen = {
@@ -58,7 +58,12 @@
     farmers = {
         culture = borgar
         religion = the_broken
-        size = 91875
+        size = 141875
+    }
+    farmers = {
+        culture =  armenian
+        religion = coptic
+        size = 16900
     }
 }
 #Erzurum (168000/42000 POPS)
@@ -139,8 +144,14 @@
     farmers = {
         culture = borgar
         religion = the_broken
-        size = 21875
+        size = 61875
     }
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 19000
+    }
+    
 }
 #Erzincan (312000/78000 POPS)
 888 = {
@@ -171,7 +182,7 @@
     farmers = {
         culture = turkish
         religion = sunni
-        size = 45350
+        size = 35350
     }
 
     aristocrats = {
@@ -201,7 +212,7 @@
     serfs = {
         culture = turkish
         religion = sunni
-        size = 21175
+        size = 11175
     }
 
     aristocrats = {
@@ -250,8 +261,14 @@
     farmers = {
         culture = borgar
         religion = the_broken
-        size = 33340
+        size = 83340
     }
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 16000
+    }
+    
 
 }
 #Trabzon (208000/52000 POPS)
@@ -373,7 +390,7 @@
     serfs = {
         culture = armenian
         religion = coptic
-        size = 4700
+        size = 9700
     }
 }
 #Giresun (140000/35000 POPS)

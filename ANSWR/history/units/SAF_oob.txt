@@ -103,6 +103,15 @@ navy = {
     name = "Vervoer Vloot"
     location = 2087 #Kaapstad
     ship = {
+        name= "Kaapstad"
+        type = manowar
+    }
+
+    ship = {
+        name= "Suiders"
+        type = manowar
+    }
+    ship = {
         name= "1 Vervoer"
         type = clipper_transport
     }

@@ -6,6 +6,7 @@ plurality = 0.5
 nationalvalue = nv_liberty
 literacy = 0.50
 civilized = yes
+prestige = 3
 
 # Political reforms
 slavery = no_slavery
@@ -48,3 +49,5 @@ upper_house = {
 }
 
 set_country_flag = new_world_nation
+
+oob = "CAL_oob.txt"

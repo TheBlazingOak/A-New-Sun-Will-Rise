@@ -1,7 +1,6 @@
-owner = PNM
-controller = PNM
+owner = GAR
+controller = GAR
 add_core = PNM
-add_core = NIC
-add_core = GUA
+add_core = GAR
 trade_goods = fruit
 life_rating = 35

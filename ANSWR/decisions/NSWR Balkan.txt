@@ -164,6 +164,7 @@ political_decisions = {
         }
     }
     borgar_zakovograd = {
+        picture = istanbul_palace
         potential = {
             tag = BOR
             NOT = { has_country_flag = BOR_zakovograd }
@@ -175,7 +176,10 @@ political_decisions = {
             set_country_flag = BOR_zakovograd
             prestige = 5
             860 = {change_province_name = "Zakovograd"}
-            860 = { any_pop = { limit = { culture = borgar } reduce_pop = 3.0 }
+            860 = { state_scope = { change_region_name = "Zakovazemya"} }
+            860 = { any_pop = { limit = { culture = borgar } reduce_pop = 5.0 } }
+            860 = { any_pop = { limit = { culture = westturkish } reduce_pop = 0.25 }
+            TUR_860 = {  add_province_modifier = { name = colonial_recruitment duration = 1825 } }
             }
         }
     }
@@ -197,7 +201,29 @@ political_decisions = {
             869 = { state_scope = { change_region_name = "Sirakov"} }
             894 = { state_scope = {  change_region_name = "Noviyat Sofia"} }
             TUR_860 = { add_core = BOR }
+            TUR_882 = { remove_core = TUR }
             BOR = { country_event = { id = 52154 } }
+        }
+    }
+    atanagrad_project = {
+        picture = building_project
+        potential = {
+            tag = BOR
+            has_country_flag = BOR_victory
+            879 = {owned_by = THIS}
+            NOT = { has_country_flag = atanagrad_rebuilt }
+        }
+        allow = {
+            war = no
+            money = 10000
+            ideological_thought = 1
+            ad_hoc_money_bill_printing = 1
+        }
+        effect = {
+            set_country_flag = atanagrad_rebuilt
+            prestige = 5
+            treasury = -10000
+            879 = { life_rating = 5 add_province_modifier = { name = recently_built_city duration = 1825 } }
         }
     }
 }

@@ -29,3 +29,11 @@ army = {
         home = 257
     }
 }
+leader = {
+    name = "Louie O'Flynn"
+    date = 2836.1.1
+    type = land
+    personality = persistant
+    background = bureaucrat_speed
+    prestige = 0.05
+}
