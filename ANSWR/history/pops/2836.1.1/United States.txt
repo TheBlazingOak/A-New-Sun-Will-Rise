@@ -77,6 +77,33 @@
         size = 13900
     }
 }
+#Martini (68000/17000 POPS)
+3354 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 10
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = pacifica
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = pacifica
+        religion = protestant
+        size = 9900
+    }
+
+}
 #Utah Region (16000)
 #"ruled" by Mexico 1836/de facto under Native Control
 #Salt Lake City (8000/2000 POPS)
@@ -90,25 +117,25 @@
     clergymen = {
         culture = mormon
         religion = mormon
-        size = 50
+        size = 350
     }
 
     artisans = {
         culture = mormon
         religion = mormon
-        size = 1000
+        size = 10000
     }
 
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 1250
+        size = 6250
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 33820
+        size = 83820
     }
 }
 #Loa (4000/1000 POPS)
@@ -128,13 +155,13 @@
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 150
+        size = 1500
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 8000
+        size = 18000
     }
 }
 #Moab (4000/1000 POPS)
@@ -154,14 +181,67 @@
     soldiers = {
         culture = mormon
         religion = mormon
-        size = 150
+        size = 1500
     }
 
     farmers = {
         culture = mormon
         religion = mormon
-        size = 12500
+        size = 32500
     }
+}
+#Baku (76000/19000 POPS)
+1102 = {
+    aristocrats = {
+        culture = mormon
+        religion = mormon
+        size = 1200
+    }
+
+    clergymen = {
+        culture = mormon
+        religion = mormon
+        size = 1000
+    }
+
+    soldiers = {
+        culture = mormon
+        religion = mormon
+        size = 3500
+    }
+
+    farmers = {
+        culture = mormon
+        religion = mormon
+        size = 52500
+    }
+}
+#Azeri Shirvan (56000/14000 POPS)
+3357 = {
+    aristocrats = {
+        culture = mormon
+        religion = mormon
+        size = 1500
+    }
+
+    clergymen = {
+        culture = mormon
+        religion = mormon
+        size = 1000
+    }
+
+    soldiers = {
+        culture = mormon
+        religion = mormon
+        size = 6500
+    }
+
+    farmers = {
+        culture = mormon
+        religion = mormon
+        size = 44500
+    }
+
 }
 #New Mexico Region (56000)
 #ruled by Mexico 1836
@@ -1557,6 +1637,74 @@
         size = 9875
     }
 }
+#Sumayquit (56000/14000 POPS)
+3356 = {
+    aristocrats = {
+        culture = dixie_cajun
+        religion = protestant
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = dixie_cajun
+        religion = protestant
+        size = 50
+    }
+
+    officers = {
+        culture = dixie_cajun
+        religion = protestant
+        size = 45
+    }
+
+    aristocrats = {
+        culture = dixie_cajun
+        religion = catholic
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = dixie_cajun
+        religion = catholic
+        size = 150
+    }
+
+    officers = {
+        culture = dixie_cajun
+        religion = catholic
+        size = 30
+    }
+
+    clergymen = {
+        culture = dixie_cajun
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = dixie_cajun
+        religion = catholic
+        size = 1150
+    }
+
+    soldiers = {
+        culture = dixie_cajun
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = dixie_cajun
+        religion = catholic
+        size = 33470
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 17100
+    }
+}
 #Lake Charles (36000/9000 POPS)
 141 = {
     aristocrats = {
@@ -1599,6 +1747,50 @@
         culture = dixie
         religion = protestant
         size = 4900
+    }
+}
+#Texarkana (444000/111000 POPS)
+243 = {
+    aristocrats = {
+        culture = dixie_cajun
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = dixie_cajun
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = dixie_cajun
+        religion = protestant
+        size = 175
+    }
+
+    soldiers = {
+        culture = texan
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = texan
+        religion = protestant
+        size = 70950
+    }
+
+    farmers = {
+        culture = dixie_cajun
+        religion = protestant
+        size = 11225
+    }
+
+    slaves = {
+        culture = dixie
+        religion = protestant
+        size = 16900
     }
 }
 #Shreveport (44000/11000 POPS)
@@ -3258,6 +3450,32 @@
         culture = rustic
         religion = protestant
         size = 25550
+    }
+}
+#Jibuti (28000/7000 POPS) #now part of Djibouti
+1875 = {
+    clergymen = {
+        culture = rustic
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = rustic
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = rustic
+        religion = protestant
+        size = 3125
+    }
+
+    farmers = {
+        culture = rustic
+        religion = protestant
+        size = 12550
     }
 }
 #Saginaw (POPS)
@@ -6760,6 +6978,32 @@
         size = 63975
     }
 }
+#Cornell (68000/17000 POPS)
+3355 = {
+    clergymen = {
+        culture = yankee
+        religion = protestant
+        size = 4625
+    }
+
+    artisans = {
+        culture = yankee
+        religion = protestant
+        size = 1400
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = yankee
+        religion = protestant
+        size = 35275
+    }
+}
 #Buffalo (244000/61000 POPS)
 236 = {
     
@@ -7038,64 +7282,7 @@
 }
 #Massachusetts Region (660000)
 #ruled by the USA
-#Boston (444000/111000 POPS)
-243 = {
 
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 675
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 10000
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 10000
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 250
-    }
-
-    farmers = {
-        culture = yankee
-        religion = protestant
-        size = 12145
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = yankee
-        religion = catholic
-        size = 2950
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = catholic
-        size = 75
-    }
-
-    farmers = {
-        culture = yankee
-        religion = catholic
-        size = 2875
-    }
-
-}
 #New Bedford (132000/33000 POPS)
 244 = {
     clergymen = {

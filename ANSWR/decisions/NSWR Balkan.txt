@@ -226,4 +226,18 @@ political_decisions = {
             879 = { life_rating = 5 add_province_modifier = { name = recently_built_city duration = 1825 } }
         }
     }
+    union_at_sofia = {
+        potential = {
+            tag = BOR
+            NOT = { has_country_flag = BOR_ishkor }
+        }
+        allow = {
+            809 = { owned_by = THIS }
+            809 = { is_core = yes }
+        }
+        effect = {
+            set_country_flag = BOR_ishkor
+            add_accepted_culture = ishkor
+        }
+    }
 }

@@ -1,5 +1,5 @@
-owner = AZB
-controller = AZB
-add_core = AZB
-trade_goods = grain
+owner = DES
+controller = DES
+add_core = DES
+trade_goods = iron
 life_rating = 35

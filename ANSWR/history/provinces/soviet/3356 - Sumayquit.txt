@@ -1,5 +1,6 @@
-owner = AZB
-controller = AZB
-add_core = AZB
+owner = DIX
+controller = DIX
+add_core = DIX
+add_core = CSA
 trade_goods = iron
 life_rating = 35

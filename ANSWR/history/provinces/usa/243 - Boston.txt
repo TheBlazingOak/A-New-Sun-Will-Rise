@@ -1,10 +1,9 @@
-owner = NEN
-controller = NEN
-add_core = NEN
-trade_goods = iron
-life_rating = 31
-railroad = 1
-terrain = ruined_city
+owner = TEX
+controller = TEX
+add_core = TEX
+trade_goods = sulphur
+life_rating = 35
+terrain = plains
 
 party_loyalty = {
     ideology = conservative

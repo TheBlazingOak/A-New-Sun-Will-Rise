@@ -44,7 +44,7 @@ From;To;Type;Through;Data;Comment
 2344;2351;sea;2989;0;Montevideo to Magadalena
 2355;2393;sea;3255;0;Carmen to Telen
 141;142;land;3238;0;Shreveport to Lake Charles
-233;232;land;2953;0;New York to Long Island
+233;241;land;2953;0;Hartsford to Long Island
 3322;104;sea;3009;0;Sonoma to San Fransico
 2185;2183;sea;2966;0;Yucatan Strait
 173;54;land;3113;0;Detroit-Windsor
@@ -52,6 +52,7 @@ From;To;Type;Through;Data;Comment
 56;239;sea;3112;0;Watertown to Kingston
 177;176;sea;3115;0;Marquette-Transverse City
 173;54;sea;3113;0;Detroit-Windsor
+220;222;land;2954;0;Old Philly Strait
 
 
 #

@@ -2,4 +2,5 @@ owner = DES
 controller = DES
 add_core = DES
 trade_goods = coal
-life_rating = 39
+life_rating = 40
+terrain = mining_district

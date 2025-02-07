@@ -5,7 +5,7 @@ government = democracy
 plurality = 0.2
 nationalvalue = nv_liberty
 literacy = 0.50
-civilized = no
+civilized = yes
 
 # Political reforms
 slavery = no_slavery
@@ -42,9 +42,9 @@ set_country_flag = mormon_country
 ruling_party = DES_reactionary
 upper_house = {
     fascist = 0
-    liberal = 15
-    conservative = 20
-    reactionary = 63
+    liberal = 18
+    conservative = 60
+    reactionary = 22
     anarcho_liberal = 0
     socialist = 0
     communist = 0

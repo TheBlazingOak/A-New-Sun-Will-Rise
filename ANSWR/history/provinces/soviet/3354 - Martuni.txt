@@ -1,6 +1,2 @@
-owner = TCA
-controller = TCA
-add_core = TCA
-add_core = ARM
-trade_goods = wool
-life_rating = 35
+trade_goods = iron
+life_rating = 25

@@ -1,10 +1,10 @@
-capital = 2254
+capital = 2264
 primary_culture = muisca
 religion = catholic
 government = absolute_monarchy
-plurality = 0.0
+plurality = 4.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.41
 non_state_culture_literacy = 0.01
 civilized = no
 prestige = 10

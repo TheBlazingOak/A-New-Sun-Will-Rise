@@ -821,3 +821,29 @@
     }
 
 }
+#Lankaran (56000/14000 POPS)
+1107 = {
+    clergymen = {
+        culture = french_canadian
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = french_canadian
+        religion = catholic
+        size = 50
+    }
+
+    soldiers = {
+        culture = french_canadian
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = french_canadian
+        religion = catholic
+        size = 2500
+    }
+}

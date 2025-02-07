@@ -1,5 +1,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV2477;Warrnambool;;;;;;;;;;;;;x
+PROV140;New Baton;;;;;;;;;;;;;x
+PROV1107;Gagnon;;;;;;;;;;;;;x
 PROV1795;Bambuhu;;;;;;;;;;;;;x
 PROV1905;Sia;;;;;;;;;;;;;x
 PROV1981;Varese;;;;;;;;;;;;;x
@@ -11,6 +13,9 @@ AUS_627;East Cislavy;;;;;;;;;;;;x
 EGY_897;Western Syria;;;;;;;;;;;;x
 EGY_903;Eastern Syria;;;;;;;;;;;;x
 PROV928;Baqubah;;;;;;;;;;;;x
+PROV241;New Haven;;;;;;;;;;;;x
+USA_219;Washland;;;;;;;;;;;;x
+USA_243;Hartsford;;;;;;;;;;;;x
 PROV1813;Hasakeh-Magarisu;;;;;;;;;;;;x
 PROV907;Deir ez-Zor;;;;;;;;;;;;x
 PROV901;Raqqah;;;;;;;;;;;;x
@@ -360,12 +365,14 @@ PROV135;Amarillo;;;;;;;;;;;;;;;;;;;;;;;x
 PROV132;New Houston;;;;;;;;;;;;;;;;;;;;;;;x
 PROV130;New Tulsa;;;;;;;;;;;;;;;;;;;;;;;x
 USA_223;Deitschland;;;;;;;;;;;;;;;;;;;;;;;x
-USA_231;Philly;;;;;;;;;;;;;;;;;;;;;;;x
+USA_231;New Athens;;;;;;;;;;;;;;;;;;;;;;;x
 USA_188;Raleigh;;;;;;;;;;;;;;;;;;;;;;;x
 EGY_915;Phoenicia;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1452;New Melbore;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1446;New Tasmania;;;;;;;;;;;;;;;;;;;;;;;x
-PROV223;Philly;;;;;;;;;;;;;;;;;;;;;;;x
+PROV223;New Athens;;;;;;;;;;;;;;;;;;;;;;;x
+PROV233;Long Islands;;;;;;;;;;;;;;;;;;;;;;;x
+PROV201;The Belle;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1178;Sana'a;;;;;;;;;;;;;x
 PROV969;Olviopol;;;;;;;;;;;;;x
 PROV972;Yekaterinoslav;;;;;;;;;;;;;x
@@ -516,9 +523,10 @@ PER_1132;Khuzestan;;;;;;;;;;;;x
 PER_1136;Fars;;;;;;;;;;;;x
 PER_1140;Kerman;;;;;;;;;;;;x
 YEM_1178;Sana'a;;;;;;;;;;;;x
-AFG_1209;North Afghanistan;;;;;;;;;;;;x
+AFG_1209;North Pashtistan;;;;;;;;;;;;x
 KOK_1210;Bandakshan;;;;;;;;;;;;x
-AFG_1214;South Afghanistan;;;;;;;;;;;;x
+AFG_1214;South Pashtistan;;;;;;;;;;;;x
+KAL_1218;East Pashtistan;;;;;;;;;;;;x
 PAN_1233;Amritsar;;;;;;;;;;;;x
 ENG_1243;Bundelkhand;;;;;;;;;;;;x
 ENG_1244;Awadh;;;;;;;;;;;;x
@@ -528,6 +536,7 @@ LUA_1356;Laos;;;;;;;;;;;;x
 SIA_1358;Isan;;;;;;;;;;;;x
 DAI_1369;Tonkin;;;;;;;;;;;;x
 DAI_1375;Annam;;;;;;;;;;;;x
+DAI_1378;Mekong;;;;;;;;;;;;x
 DAI_1380;Cochinchina;;;;;;;;;;;;x
 ENG_1384;Southern Malaya;;;;;;;;;;;;x
 ENG_1391;Northern Malaya;;;;;;;;;;;;x
@@ -630,7 +639,7 @@ PROV5;Unalaska;;;;;;;;;;;;x
 PROV107;San Jose;;;;;;;;;;;;x
 PROV108;Great Rockies;;;;;;;;;;;;x
 PROV104;San Francisco;;;;;;;;;;;;x
-PROV2146;Washington;;;;;;;;;;;;x
+PROV2146;Wash City;;;;;;;;;;;;x
 PROV2148;Albuquerque;;;;;;;;;;;;x
 PROV231;Camden;;;;;;;;;;;;x
 UCA_2191;El Salvador;;;;;;;;;;;;x
@@ -866,7 +875,7 @@ PROV33;Prince Albert;;;;;;;;;;;;x
 PROV42;Winnipeg;;;;;;;;;;;;x
 PROV36;Pinawa;;;;;;;;;;;;x
 PROV60;Saplaid;;;;;;;;;;;;x
-PROV211;Lynchburg;;;;;;;;;;;;x
+PROV211;Lechtburg;;;;;;;;;;;;x
 PROV2186;Guatemala City;;;;;;;;;;;;x
 PROV14;Victoria;;;;;;;;;;;;x
 PROV3249;Kiritimati;;;;;;;;;;;x
@@ -1334,13 +1343,15 @@ PROV3348;Bislig;;;;;;;;;;;;x
 PROV3349;Tagum;;;;;;;;;;;;x
 PROV3350;Vruchtbaarland;;;;;;;;;;;;x
 PROV1057;Kizlyar;;;;;;;;;;;;x
-PROV3351;Tskhinvali;;;;;;;;;;;;x
+PROV3351;Lake Atlantis;;;;;;;;;;;;x
 PROV3352;Gori;;;;;;;;;;;;x
 PROV3353;Telavi;;;;;;;;;;;;x
-PROV3354;Martuni;;;;;;;;;;;;x
-PROV3355;Stepanavan;;;;;;;;;;;;x
-PROV3356;Sumayquit;;;;;;;;;;;;x
-PROV3357;Azari Shirvan;;;;;;;;;;;;x
+PROV3354;Martini;;;;;;;;;;;;x
+PROV3355;Cornell;;;;;;;;;;;;x
+PROV1875;Toledo;;;;;;;;;;;;x
+PROV243;Texarkana;;;;;;;;;;;;x
+PROV3356;New Lafayette;;;;;;;;;;;;x
+PROV3357;Suburbia;;;;;;;;;;;;x
 PROV3358;Quobustan;;;;;;;;;;;;x
 PROV3359;Masalli;;;;;;;;;;;;x
 PROV1051;Cerkessk-New Maykop;;;;;;;;;;;;x
@@ -1359,6 +1370,7 @@ AZB_1386;Eastern Karabakh Valley;;;;;;;;;;;;x
 DAG_1104;Dagestani Hills;;;;;;;;;;;;x
 AZB_1107;Lankaran;;;;;;;;;;;;x
 RUS_1102;Baku;;;;;;;;;;;;x
+PROV1102;Red Rocks;;;;;;;;;;;;;x
 RUS_1090;Kartvli;;;;;;;;;;;;x
 RUS_1098;Hayakstan;;;;;;;;;;;;x
 GEO_1095;Egrisi;;;;;;;;;;;;x
@@ -1424,18 +1436,18 @@ PROV1592;Ali;;;;;;;;;;;;x
 PROV1599;Hami;;;;;;;;;;;;x
 PROV1600;Dihua;;;;;;;;;;;;x
 PROV1346;Nakhon-Nayok;;;;;;;;;;;;x
-PROV3373;Phetchabun and Loei;;;;;;;;;;;;x
-PROV3374;Maha Sarakham,Kohn Kaen, Roi Et and Kalasin;;;;;;;;;;;;x
-PROV3375;Phitsanulok and Phitchit;;;;;;;;;;;;x
+PROV3373;Phetchabun;;;;;;;;;;;;x
+PROV3374;Maha Sarakham;;;;;;;;;;;;x
+PROV3375;Phitsanulok;;;;;;;;;;;;x
 PROV3376;Uttaradit;;;;;;;;;;;;x
 PROV1348;Kampaeng Phet;;;;;;;;;;;;x
 PROV1347;Nakhon Sawan;;;;;;;;;;;;x
 PROV1344;Prachuap Khiri Khan;;;;;;;;;;;;x
 PROV1343;New Molamyin;;;;;;;;;;;;x
-PROV3377;Se Kong and Attapu;;;;;;;;;;;;x
+PROV3377;Se Kong;;;;;;;;;;;;x
 PROV3378;Dich Vu;;;;;;;;;;;;x
 PROV3379;Phonsavan;;;;;;;;;;;;x
-PROV3380;Nguoi Dung Dau Bo Toc;;;;;;;;;;;;x
+PROV3380;Nguoi;;;;;;;;;;;;x
 PROV3381;Sagaing;;;;;;;;;;;;x
 SIA_2572;Lan Na;;;;;;;;;;;;x
 SIA_1350;Nam Lao;;;;;;;;;;;;x

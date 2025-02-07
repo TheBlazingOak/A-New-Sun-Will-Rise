@@ -1,0 +1,58 @@
+political_decisions = {
+#Muisca Formation
+muisca_form = {
+		potential = {
+				OR = { tag = CRR tag = GAR }
+				NOT = { has_global_flag = muiscan_formed }
+			}
+		allow = {
+			CLM_2251 = { owned_by = THIS }
+			CLM_2247 = { owned_by = THIS }
+			CLM_2259 = { owned_by = THIS }
+			VNZ_2234 = { owned_by = THIS }
+			VNZ_2265 = { owned_by = THIS }
+			VNZ_2278 = { owned_by = THIS }
+		}
+		effect = {
+			all_core = { remove_core = GAR remove_core = CRR add_core = QKD }
+			change_tag = QKD
+			set_global_flag = muiscan_formed
+		}
+	}
+	casanare_colonialization = {
+		potential = {
+				tag = QKD
+				year = 2840
+				NOT = {has_country_flag = casanar_qkd }
+			}
+		allow = {
+			NOT = { CLM_2262 = { owned_by = THIS } }
+		}
+		effect = {
+			CLM_2262 = { add_core = THIS }
+			CLM_2262 = {secede_province = THIS }
+			set_country_flag = casanar_qkd
+		}
+	}
+	eastward_expansion = {
+		potential = {
+				tag = QKD
+				year = 2843
+				has_country_flag = casanar_qkd
+				NOT = {has_country_flag = casanar_qkd }
+			}
+		allow = {
+			has_country_flag = casanar_qkd
+			CLM_2262 = { owned_by = THIS }
+			civilized = yes
+		}
+		effect = {
+			VNZ_2239 = { secede_province = THIS }
+			VNZ_2239 = { add_core = THIS }
+			BRZ_1954 = { add_core = THIS }
+			BRZ_2452 = { add_core = THIS }
+			BRZ_2408 = { add_core = THIS }
+			set_country_flag = casanar_qkd
+		}
+	}
+}

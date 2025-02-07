@@ -1,9 +1,5 @@
-ECU = {
-    truce_until = 1837.1.1
-    value = -50
-}
-PBC = {
-    value = -25
+GAR = {
+    value = -200
 }
 
 leader = {
@@ -24,37 +20,31 @@ leader = {
 }
 
 army = {
-    name = "Ejército de Colombia"
-    location = 2253
+    name = "Ejército de Carcitra"
+    location = 2264
     regiment = {
         name= "1. Brigada de Infantería"
         type = infantry
-        home = 2247
+        home = 2264
     }
 
     regiment = {
         name= "2. Brigada de Infantería"
         type = infantry
-        home = 2252
+        home = 2272
     }
 
     regiment = {
         name= "3. Brigada de Infantería"
         type = infantry
-        home = 2254
-    }
-
-    regiment = {
-        name= "1. Brigada de Caballería"
-        type = cuirassier
-        home = 2250
+        home = 2271
     }
 
 }
 
 navy = {
-    name = "Armada de Colombia"
-    location = 2254
+    name = "Armada de Carcitra"
+    location = 2264
     ship = {
         name= "Bolivar"
         type = manowar
@@ -82,25 +72,3 @@ navy = {
 
 }
 
-navy = {
-    name = "Armada del Pacífico"
-    location = 2253
-
-    ship = {
-        name= "Pichincha"
-        type = frigate
-    }
-    ship = {
-        name= "Chimborazo"
-        type = frigate
-    }
-    ship = {
-        name= "Independiente"
-        type = frigate
-    }
-    ship = {
-        name= "Libertador"
-        type = frigate
-    }
-
-}

@@ -1,5 +1,7 @@
-owner = AZB
-controller = AZB
-add_core = AZB
-trade_goods = grain
-life_rating = 35
+owner = QUE
+controller = QUE
+add_core = QUE
+trade_goods = timber
+life_rating = 31
+
+terrain = new_world_boreal

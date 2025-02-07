@@ -1,0 +1,74 @@
+CRR = {
+    value = -200
+}
+
+leader = {
+    name = "Ramon Soto"
+    picture = european_general_24
+    type = land
+    date="2830.1.1"
+    personality = diplomatic
+    background = cavalry_school
+}
+
+leader = {
+    name = "Albert Arias"
+    type = sea
+    date="2820.1.1"
+    personality = earnest
+    background = nationalist
+}
+
+army = {
+    name = "Ejército de Gartra"
+    location = 2252
+    regiment = {
+        name= "1. Brigada de Infantería"
+        type = infantry
+        home = 2247
+    }
+
+    regiment = {
+        name= "2. Brigada de Infantería"
+        type = infantry
+        home = 2250
+    }
+
+    regiment = {
+        name= "3. Brigada de Infantería"
+        type = infantry
+        home = 2247
+    }
+
+}
+
+navy = {
+    name = "Armada de Gartra"
+    location = 2204
+    ship = {
+        name= "Bolivar"
+        type = manowar
+    }
+    ship = {
+        name= "Venezuela"
+        type = frigate
+    }
+    ship = {
+        name= "Boyacu"
+        type = frigate
+    }
+    ship = {
+        name= "Urica"
+        type = frigate
+    }
+    ship = {
+        name= "Ceres"
+        type = frigate
+    }
+    ship = {
+        name= "Constitucion"
+        type = frigate
+    }
+
+}
+

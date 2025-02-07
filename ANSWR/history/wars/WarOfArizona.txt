@@ -16,8 +16,8 @@ name = "War of Arizonan Subjugation"
 	}
 	war_goal = {
 		casus_belli = status_quo
-		actor = LOS
-		receiver = ARI
+		actor = ARI
+		receiver = LOS
 	}
 
 }

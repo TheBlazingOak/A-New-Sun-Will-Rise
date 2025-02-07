@@ -2,9 +2,9 @@ capital = 2252
 primary_culture = muisca
 religion = catholic
 government = absolute_monarchy
-plurality = 0.0
+plurality = 4.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.45
 non_state_culture_literacy = 0.01
 civilized = no
 prestige = 10
@@ -39,7 +39,7 @@ border_policy = closed_borders
 set_country_flag = catholic_country
 
 ruling_party = GAR_reactionary
-last_election = 1832.3.10
+last_election = 2832.3.10
 upper_house = {
     fascist = 0
     liberal = 12
@@ -57,3 +57,5 @@ set_country_flag = new_world_nation
 consciousness = 1
 
 land_reform = yes_land_reform
+
+oob = "GAR_oob.txt"

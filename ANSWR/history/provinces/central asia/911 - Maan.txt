@@ -1,6 +1,7 @@
 owner = NEJ
 controller = NEJ
 add_core = NEJ
+add_core = KWT
 trade_goods = cattle
 life_rating = 10
 2861.1.1 = {

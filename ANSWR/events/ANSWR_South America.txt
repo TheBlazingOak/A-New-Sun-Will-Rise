@@ -1,0 +1,55 @@
+#Gartra and Carcitra Starting events
+country_event = {
+	id = 53200
+	title = "EVTNAME53200"
+	desc = "EVTDESC53200"
+	
+	trigger = {
+		tag = GAR
+		year = 2836
+		NOT = { has_country_flag = gartra_start }
+	}
+
+	mean_time_to_happen = {
+        days = 7
+        }
+
+	fire_only_once = yes
+	option = {
+		name = "EVTOPTA53200"
+		CLM_2251 = { add_province_modifier = { name = baby_boom duration = 3650 } }
+		CLM_2247 = { add_province_modifier = { name = baby_boom duration = 3650 } }
+		CLM_2259 = { add_province_modifier = { name = baby_boom duration = 3650 } }
+		VNZ_2234 = { add_core = THIS }
+		VNZ_2265 = { add_core = THIS }
+		VNZ_2278 = { add_core = THIS }
+		set_country_flag = gartra_start
+	}
+
+}
+country_event = {
+	id = 53201
+	title = "EVTNAME53201"
+	desc = "EVTDESC53201"
+	
+	trigger = {
+		tag = CRR
+		year = 2836
+		NOT = { has_country_flag = carcitra_start }
+	}
+	mean_time_to_happen = {
+        days = 7
+        }
+	fire_only_once = yes
+	option = {
+		name = "EVTOPTA53201"
+		VNZ_2234 = { add_province_modifier = { name = baby_boom duration = 3650 } }
+		VNZ_2265 = { add_province_modifier = { name = baby_boom duration = 3650 } }
+		VNZ_2278 = { add_province_modifier = { name = baby_boom duration = 3650 } }
+		CLM_2251 = { add_core = THIS }
+		CLM_2247 = { add_core = THIS }
+		CLM_2259 = { add_core = THIS }
+		set_country_flag = carcitra_start
+	}
+
+}
