@@ -49,32 +49,32 @@
 #Igautemi (20000/5000 POPS) #now part of Brazil
 2420 = {
     clergymen = {
-        culture = janeiran
+        culture = platinean
         religion = catholic
-        size = 50
+        size = 500
     }
 
     artisans = {
-        culture = janeiran
+        culture = platinean
         religion = catholic
-        size = 100
+        size = 5100
     }
 
     soldiers = {
-        culture = janeiran
+        culture = platinean
         religion = catholic
-        size = 25
+        size = 6225
     }
 
     farmers = {
         culture = janeiran
         religion = catholic
-        size = 3825
+        size = 13825
     }
     farmers = {
         culture = platinean
         religion = catholic
-        size = 700
+        size = 40700
     }
 }
 #Goias Region (64000)

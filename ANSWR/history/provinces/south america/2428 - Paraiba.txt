@@ -1,6 +1,7 @@
 owner = AMZ
 controller = AMZ
 add_core = AMZ
+add_core = NUH
 trade_goods = cotton
 terrain = farmlands
-life_rating = 33
+life_rating = 35

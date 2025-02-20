@@ -11,25 +11,25 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 125
+        size = 3000
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 25
+        size = 125
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 1250
+        size = 6250
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 22925
+        size = 72925
     }
 }
 #Vologda (776000/194000 POPS)
@@ -121,13 +121,13 @@
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 250
+        size = 2500
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 500
+        size = 5000
     }
 
     clergymen = {
@@ -139,13 +139,13 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 2550
+        size = 12550
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 17925
+        size = 57925
     }
 }
 #Jaffa (48000/12000 POPS)
@@ -153,43 +153,43 @@
     aristocrats = {
         culture = ashkenazi
         religion = jewish
-        size = 2200
+        size = 3200
     }
 
     bureaucrats = {
         culture = ashkenazi
         religion = jewish
-        size = 50
+        size = 500
     }
 
     officers = {
         culture = ashkenazi
         religion = jewish
-        size = 125
+        size = 1250
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 750
+        size = 7500
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 350
+        size = 3500
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 2500
+        size = 12500
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 43750
+        size = 93750
     }
 
     farmers = {

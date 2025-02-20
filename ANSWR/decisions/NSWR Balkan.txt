@@ -233,11 +233,11 @@ political_decisions = {
         }
         allow = {
             809 = { owned_by = THIS }
-            809 = { is_core = yes }
+            809 = { is_core = THIS }
         }
         effect = {
             set_country_flag = BOR_ishkor
-            add_accepted_culture = ishkor
+            add_accepted_culture = iskhor
         }
     }
 }

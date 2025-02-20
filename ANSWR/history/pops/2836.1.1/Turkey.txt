@@ -2619,6 +2619,23 @@
         religion = sunni
         size = 20875
     }
+    clergymen = {
+        culture = assyrian
+        religion = catholic
+        size = 1200
+    }
+
+    artisans = {
+        culture = assyrian
+        religion = catholic
+        size = 8600
+    }
+
+    farmers = {
+        culture = assyrian
+        religion = catholic
+        size = 70000
+    }
 }
 #Kurdistan Region (720000)
 #under the rule of Ottoman Empire in 1836
@@ -2627,85 +2644,55 @@
     aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 175
+        size = 1750
     }
 
     bureaucrats = {
         culture = kurdish
         religion = sunni
-        size = 125
+        size = 1250
     }
 
     officers = {
         culture = kurdish
         religion = sunni
-        size = 105
+        size = 1050
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 100
+        size = 3000
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 550
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 175
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 12750
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 550
-    }
-
-    bureaucrats = {
-        culture = kurdish
-        religion = sunni
-        size = 75
-    }
-
-    officers = {
-        culture = kurdish
-        religion = sunni
-        size = 75
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 100
+        size = 15500
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 1500
+        size = 10500
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 10500
     }
 
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 2850
+        size = 12500
     }
 
     farmers = {
         culture = kurdish
         religion = sunni
-        size = 30600
+        size = 227500
     }
 
     slaves = {
@@ -2719,31 +2706,31 @@
 	aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 650
+        size = 1650
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 425
+        size = 1425
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 2150
+        size = 7150
     }
 
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 575
+        size = 6575
     }
 
     farmers = {
         culture = kurdish
         religion = sunni
-        size = 39200
+        size = 89200
     }
 
     aristocrats = {
@@ -2811,31 +2798,31 @@
     aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 50
+        size = 2500
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 100
+        size = 1100
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 150
+        size = 9150
     }
 
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 675
+        size = 6675
     }
 
     farmers = {
         culture = kurdish
         religion = sunni
-        size = 2050
+        size = 72050
     }
  
     aristocrats = {

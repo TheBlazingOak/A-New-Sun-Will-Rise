@@ -3563,6 +3563,79 @@ acquire_state = {
         }
     }
 }
+# Neo-Persia Reunification
+persia_acquire_state = {
+    sprite_index = 22
+    is_triggered_only = yes
+    months = 12
+    crisis = no
+
+    badboy_factor = 0
+    prestige_factor = 0
+    peace_cost_factor = 1
+    penalty_factor = 1
+
+    break_truce_prestige_factor = 1
+    break_truce_infamy_factor = 0
+    break_truce_militancy_factor = 0
+    truce_months = 84
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    always = yes
+
+    can_use = {
+        has_global_flag = persian_crisis
+        NOT = { is_our_vassal = THIS }
+        neighbour = THIS
+        OR = {
+            any_owned_province = {
+                NOT = { is_core = THIS }
+                is_core = NPE
+            }
+            is_culture_group = iranian_turanian
+        }
+        THIS = {
+            is_culture_group = iranian_turanian
+            NOT = {
+                has_country_modifier = neutrality_modifier
+                war_policy = pacifism
+            }
+        }
+        is_vassal = no
+        OR = {
+            war_with = THIS
+            THIS = { NOT = { has_country_modifier = no_more_war } }
+        }
+    }
+
+    allowed_states = {
+        OR = {
+            any_owned_province = {
+                NOT = {    is_core = THIS }
+                is_core = NPE
+            }
+            any_owned_province = {
+                owner = { is_culture_group = iranian_turanian }
+                NOT = { is_core = NPE }
+            }
+        }
+    }
+
+    po_demand_state = yes
+
+    war_name = WAR_PERSIA_UNIFICATION
+
+    on_add = {
+        move_issue_percentage = {
+            from = jingoism
+            to = pro_military
+            value = 0.10
+        }
+    }
+}
 
 # Chinese Reunification
 china_acquire_state = {

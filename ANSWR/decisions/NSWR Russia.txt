@@ -107,11 +107,15 @@ political_decisions = {
 			NOT = { has_country_flag = asia_expansion }
 		}
 		allow = {
+			prestige = 5
 			1080 = { owned_by = THIS }
 			}
 		effect ={
 			RUS_1071 = { add_core = THIS }
-			RUS_1072 = { add_core = THIS }
+			RUS_2618 = { add_core = THIS }
+			RUS_2668 = { add_core = THIS }
+			RUS_1074 = { add_core = THIS }
+			RUS_2590 = { add_core = THIS }
 			set_country_flag = asia_expansion
 		}
 	}

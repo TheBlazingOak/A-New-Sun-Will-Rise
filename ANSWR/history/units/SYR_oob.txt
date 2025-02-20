@@ -1,0 +1,28 @@
+LBN = { value = -200 }
+leader = {
+    name = "Abd al-Karim al-Basri"
+    type = land
+    date = 2836.1.1
+    personality = smart_p
+    background = engineer
+}
+
+army = {
+    name = "Army of Fadl"
+    location = 902
+    regiment = {
+        name= "1.al Nahyah"
+        type = irregular
+        home = 904
+    }
+    regiment = {
+        name= "2.al Nahyah"
+        type = irregular
+        home = 904
+    }
+    regiment = {
+        name= "1. Artillery"
+        type = artillery
+        home = 902
+    }
+}

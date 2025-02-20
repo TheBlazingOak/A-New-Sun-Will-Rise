@@ -24,15 +24,15 @@ leader = {
 
 leader = {
     name = "Hajj Mirza Aqasi"
-    date = 1835.6.1
+    date = 2835.6.1
     type = land
     personality = deeply_religious
     background = politician
 }
 
 army = {
-    name = "The Shah's Army"
-    location = 1121 #Tehran
+    name = "Markaz Garrison"
+    location = 1137 #Markaz
     regiment = {
         name= "Royal Guard"
         type = guard
@@ -53,8 +53,8 @@ army = {
 }
 
 army = {
-    location = 1136 #Bushire
-    name = "Southern Army"
+    location = 1147 #Mashhad
+    name = "Border Army"
     regiment = {
         name= "2. Nezam-Atlin"
         type = cavalry
@@ -72,35 +72,5 @@ army = {
         type = irregular
         home = 1122
     }
-
-}
-
-army = {
-    name = "Nezam-e Jadid"
-    location = 1108 #Tabriz
-    regiment = {
-        name= "1. Nezam"
-        type = infantry
-        home = 1113
-    }
-
-    regiment = {
-        name= "2. Nezam"
-        type = infantry
-        home = 1116
-    }
-
-    regiment = {
-        name= "3. Nezam"
-        type = infantry
-        home = 1142
-    }
-
-    regiment = {
-        name= "4. Nezam"
-        type = infantry
-        home = 1141
-    }
-
 
 }

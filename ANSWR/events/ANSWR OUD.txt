@@ -743,7 +743,7 @@ country_event ={
     id = 222060
     title = "EVTNAME222060"
     desc = "EVTDESC222060"
-    is_triggered_only
+    is_triggered_only = yes
     option = {
         name = "EVTOPTA222060"
             prestige = 15

@@ -1,5 +1,6 @@
 owner = GAR
 controller = GAR
 add_core = GAR
+add_core = CSK
 trade_goods = fish
-life_rating = 34
+life_rating = 35

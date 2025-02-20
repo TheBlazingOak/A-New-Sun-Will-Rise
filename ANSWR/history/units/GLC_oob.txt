@@ -1,0 +1,34 @@
+HUN = { value = -150 }
+
+army = {
+    name = "New Magyar Army"
+    location = 647
+
+    regiment = {
+        name= "Oradea Reserve"
+        type = infantry
+        home = 647
+    }
+
+    regiment = {
+        name= "Szeged Reserve"
+        type = infantry
+        home = 649
+    }
+
+    regiment = {
+        name= "Artillery Reserve"
+        type = artillery
+        home = 648
+    }
+
+}
+
+leader = {
+    name = "Papp Martin"
+    type = land
+    date = 2836.1.1
+    personality = cautious
+    background = drillmaster
+    prestige = 0.25
+}

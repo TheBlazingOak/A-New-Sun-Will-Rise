@@ -289,63 +289,63 @@
 1642 = {
 
     bureaucrats = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 1750
     }
 
     clergymen = {
-        culture = ainu
+        culture = japanese
         religion = shinto
-        size = 1800
+        size = 2800
     }
 
     aristocrats = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 7500
     }
 
     artisans = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 16250
     }
 
     soldiers = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 6000
     }
 
     farmers = {
-        culture = ainu
+        culture = japanese
         religion = shinto
-        size = 132780
+        size = 162780
     }
 }
 #Ishikara (15000/5000 POPS)
 1643 = {
     aristocrats = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 2500
     }
 
     artisans = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 11250
     }
 
     soldiers = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 3500
     }
 
     farmers = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 101250
     }
@@ -353,25 +353,25 @@
 #Nemuru - Meakan (15000/4000 POPS)
 1644 = {
     aristocrats = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 2000
     }
 
     artisans = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 9250
     }
 
     soldiers = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 3000
     }
 
     farmers = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 83780
     }
@@ -379,31 +379,31 @@
 #Pogobi (4100/1025 POPS)
 1086 = {
     aristocrats = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 1200
     }
 
     clergymen = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 900
     }
 
     artisans = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 5000
     }
 
     soldiers = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 500
     }
 
     farmers = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 32150
     }
@@ -411,31 +411,31 @@
 #Shumshu (4000/1000 POPS)
 1088 = {
     aristocrats = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 200
     }
 
     clergymen = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 300
     }
 
     artisans = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 1500
     }
 
     soldiers = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 50
     }
 
     farmers = {
-        culture = ainu
+        culture = japanese
         religion = shinto
         size = 15940
     }
@@ -704,185 +704,185 @@
 }
 #Kanto Region (4604000)
 #under the rule of Japan in 1836
-#Edo (1504000/376000 POPS)
+#New Tokyo (1504000/376000 POPS)
 1649 = {
     aristocrats = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 8500
     }
 
     bureaucrats = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 2200
     }
 
     officers = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 1275
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 3175
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 10000
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 10000
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 10000
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 10000
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 10000
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 10000
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 10000
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 10000
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 10000
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 10000
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 3000
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 3000
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 3000
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 3000
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 3000
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 3000
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 3000
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 2075
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 167575
     }
 
     aristocrats = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 1450
     }
 
     clergymen = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 550
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 10000
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 10000
     }
 
     artisans = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 7000
     }
 
     soldiers = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 700
     }
 
     farmers = {
         culture = japanese
-        religion = shinto
+        religion = koshitsu
         size = 39100
     }
 }

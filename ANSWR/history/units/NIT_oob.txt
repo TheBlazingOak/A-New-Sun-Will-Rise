@@ -1,0 +1,59 @@
+HUN = { value = -150 }
+GLC = { value = -150 }
+BOH = { value = -150 }
+AUS = { value = -200 }
+POL = { value = 50 }
+UKR = { value = 25 }
+army = {
+    name = "Brother's Army"
+    location = 635
+
+    regiment = {
+        name= "1. Brother's Division"
+        type = infantry
+        home = 635
+    }
+
+    regiment = {
+        name= "2. Brother's Division"
+        type = infantry
+        home = 704
+    }
+    regiment = {
+        name= "3. Brother's Division"
+        type = infantry
+        home = 637
+    }
+    regiment = {
+        name= "4. Brother's Division"
+        type = infantry
+        home = 635
+    }
+
+    regiment = {
+        name= "1. Artillery Reserve"
+        type = artillery
+        home = 633
+    }
+
+    regiment = {
+        name= "2. Artillery Reserve"
+        type = artillery
+        home = 636
+    }
+    regiment = {
+        name= "Cavalry Reserve"
+        type = cavalry
+        home = 714
+    }
+
+}
+
+leader = {
+    name = "Pavol Jahoda"
+    type = land
+    date = 2836.1.1
+    personality = vicious
+    background = warmonger
+    prestige = 0.25
+}

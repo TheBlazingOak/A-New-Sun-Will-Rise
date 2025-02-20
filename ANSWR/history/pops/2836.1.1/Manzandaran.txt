@@ -1,0 +1,221 @@
+#Rasht (168000/42000 POPS)
+1113 = {
+    aristocrats = {
+        culture = mazandarani
+        religion = shiite
+        size = 800
+    }
+
+    bureaucrats = {
+        culture = mazandarani
+        religion = shiite
+        size = 100
+    }
+
+    officers = {
+        culture = mazandarani
+        religion = shiite
+        size = 125
+    }
+
+    clergymen = {
+        culture = mazandarani
+        religion = shiite
+        size = 425
+    }
+
+    artisans = {
+        culture = mazandarani
+        religion = shiite
+        size = 1100
+    }
+
+    soldiers = {
+        culture = mazandarani
+        religion = shiite
+        size = 1100
+    }
+
+    farmers = {
+        culture = mazandarani
+        religion = shiite
+        size = 70500
+    }
+
+    slaves = {
+        culture = armenian
+        religion = coptic
+        size = 2000
+    }
+}
+#Noshehr (88000/22000 POPS)
+1114 = {
+    aristocrats = {
+        culture = mazandarani
+        religion = shiite
+        size = 4000
+    }
+
+    clergymen = {
+        culture = mazandarani
+        religion = shiite
+        size = 2250
+    }
+
+    artisans = {
+        culture = mazandarani
+        religion = shiite
+        size = 11100
+    }
+
+    soldiers = {
+        culture = mazandarani
+        religion = shiite
+        size = 12000
+    }
+
+    farmers = {
+        culture = mazandarani
+        religion = shiite
+        size = 171050
+    }
+}
+#Sari (52000/13000 POPS)
+1115 = {
+    aristocrats = {
+        culture = mazandarani
+        religion = shiite
+        size = 2500
+    }
+
+    clergymen = {
+        culture = mazandarani
+        religion = shiite
+        size = 1250
+    }
+
+    artisans = {
+        culture = mazandarani
+        religion = shiite
+        size = 6500
+    }
+
+    soldiers = {
+        culture = mazandarani
+        religion = shiite
+        size = 6125
+    }
+
+    farmers = {
+        culture = mazandarani
+        religion = shiite
+        size = 80850
+    }
+}
+#Gorgan (140000/35000 POPS)
+1116 = {
+    aristocrats = {
+        culture = mazandarani
+        religion = shiite
+        size = 500
+    }
+
+    clergymen = {
+        culture = mazandarani
+        religion = shiite
+        size = 250
+    }
+
+    artisans = {
+        culture = mazandarani
+        religion = shiite
+        size = 1300
+    }
+
+    soldiers = {
+        culture = mazandarani
+        religion = shiite
+        size = 1100
+    }
+
+    farmers = {
+        culture = mazandarani
+        religion = shiite
+        size = 72950
+    }
+}
+#Qazvin (140000/35000 POPS)
+1124 = {
+      aristocrats = {
+        culture = mazandarani
+        religion = shiite
+        size = 700
+    }
+
+    clergymen = {
+        culture = mazandarani
+        religion = shiite
+        size = 375
+    }
+
+    artisans = {
+        culture = mazandarani
+        religion = shiite
+        size = 5000
+    }
+
+    soldiers = {
+        culture = mazandarani
+        religion = shiite
+        size = 3100
+    }
+
+    farmers = {
+        culture = mazandarani
+        religion = shiite
+        size = 57925
+    }
+
+    farmers = {
+        culture = persian
+        religion = shiite
+        size = 27925
+    }
+}
+#Qom (200000/50000 POPS)
+1125 = {
+    aristocrats = {
+        culture = mazandarani
+        religion = shiite
+        size = 1100
+    }
+
+    clergymen = {
+        culture = mazandarani
+        religion = shiite
+        size = 625
+    }
+
+    artisans = {
+        culture = mazandarani
+        religion = shiite
+        size = 4000
+    }
+
+    soldiers = {
+        culture = mazandarani
+        religion = shiite
+        size = 6100
+    }
+
+    farmers = {
+        culture = mazandarani
+        religion = shiite
+        size = 43275
+    }
+    farmers = {
+        culture = persian
+        religion = shiite
+        size = 21000
+    }
+}

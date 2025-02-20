@@ -1051,30 +1051,61 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 100
+        size = 4000
     }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 1000
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 500
+    }
+
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 225
+        size = 2250
     }
 
     artisans = {
         culture = platinean
         religion = catholic
-        size = 50
+        size = 11500
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 11500
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 11500
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 11500
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size = 50
+        size = 9000
     }
 
     farmers = {
         culture = platinean
         religion = catholic
-        size = 1015
+        size = 101015
     }
 }
 #Resistencia (16000/4000 POPS)
@@ -1082,13 +1113,7 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 150
-    }
-
-    bureaucrats = {
-        culture = platinean
-        religion = catholic
-        size = 12
+        size = 1500
     }
 
     clergymen = {
@@ -1114,25 +1139,25 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 50
+        size = 500
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 75
+        size = 750
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size = 125
+        size = 3000
     }
 
     farmers = {
         culture = platinean
         religion = catholic
-        size = 3900
+        size = 33900
     }
 }
 #Under loose authority of Paraguay 1836
@@ -1173,31 +1198,31 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 275
+        size = 1000
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 175
+        size = 750
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size = 550
+        size = 3550
     }
 
     labourers = {
         culture = janeiran
         religion = catholic
-        size = 1075
+        size = 15075
     }
 
     labourers = {
         culture = platinean
         religion = catholic
-        size = 4075
+        size = 24075
     }
 }
 #Salta Region (36000)
@@ -1386,25 +1411,25 @@
     aristocrats = {
         culture = platinean
         religion = catholic
-        size = 15
+        size = 1500
     }
 
     clergymen = {
         culture = platinean
         religion = catholic
-        size = 25
+        size = 250
     }
 
     soldiers = {
         culture = platinean
         religion = catholic
-        size = 10
+        size = 3000
     }
 
     farmers = {
         culture = platinean
         religion = catholic
-        size = 900
+        size = 30000
     }
 }
 #Tucuman Region (36000)

@@ -1,5 +1,6 @@
 owner = RLP
 controller = RLP
 add_core = RLP
+add_core = SJR
 trade_goods = grain
-life_rating = 39
+life_rating = 31

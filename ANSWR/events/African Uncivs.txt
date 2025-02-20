@@ -20,7 +20,7 @@ country_event = {
         SAF = { country_event = { id = 65511 days = 0 } }
         set_country_flag = accepted_saf
         ai_chance = {
-        chance = 50
+        factor = 50
         }
     }
     #Refuse (Go to war with SAF)
@@ -36,7 +36,7 @@ country_event = {
         2106 = {fort = 2 }
         2108 = {fort = 2 }
         ai_chance = {
-        chance = 50
+        factor = 50
         }
     }
 }
@@ -86,22 +86,22 @@ country_event = {
     option = {
         name = "EVTOPTA65517"
         NET = { set_country_flag = ceylon_offered }
-        ai_chance = { chance = 25 }
+        ai_chance = { factor = 25 }
     }
     option = {
         name = "EVTOPTB65517"
         UNS = { set_country_flag = ceylon_offered }
-        ai_chance = { chance = 25 }
+        ai_chance = { factor = 25 }
     }
     option = {
         name = "EVTOPTC65517"
         SCO = { set_country_flag = ceylon_offered }
-        ai_chance = { chance = 25 }
+        ai_chance = { factor = 25 }
     }
     option = {
         name = "EVTOPTD65517"
         HAE = { set_country_flag = ceylon_offered }
-        ai_chance = { chance = 25 }
+        ai_chance = { factor = 25 }
     }
     #Rather Not Sell Ceylon
     option = {
@@ -133,7 +133,7 @@ country_event = {
         1323 = { secede_province = THIS }
         1324 = { secede_province = THIS }
         ai_chance = {
-        chance = 50
+        factor = 50
         modifier = {
             factor = 10
             treasury = 50000
@@ -147,7 +147,7 @@ country_event = {
         SAF = { country_event = { id = 65520 days = 0}}
         clr_country_flag = ceylon_offered
         ai_chance = {
-        chance = 50
+        factor = 50
         modifier = {
             factor = 2
             treasury = 20000
@@ -372,7 +372,7 @@ country_event = {
         }
         set_country_flag = war_madagaskar
         ai_chance = {
-                chance = 90
+                factor = 90
             }
     }
     #Let them go
@@ -381,7 +381,7 @@ country_event = {
             prestige = -5
             set_country_flag = gave_up_madagaskar
             ai_chance = {
-                chance = 10
+                factor = 10
             }
     }
 }

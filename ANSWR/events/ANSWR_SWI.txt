@@ -9,10 +9,11 @@ country_event = {
     trigger = {
         tag = SWI
         NOT = { exists = ITA }
+        NOT = {has_country_flag = tale_to_boot}
     }
     option = {
     name = "EVTOPTA224101"
-        
+        set_country_flag = tale_to_boot
     }
 
 }

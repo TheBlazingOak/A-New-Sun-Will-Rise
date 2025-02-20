@@ -29,7 +29,7 @@ political_decisions = {
                 limit = {
                     NOT = { is_greater_power = yes }
                     NOT = { has_country_flag = post_colonial_country }
-                    NOT = { TAG = JAR}
+                    NOT = { tag = JAR}
                     primary_culture = jardino
                 }
                 country_event = 52118
@@ -133,7 +133,7 @@ political_decisions = {
                 SPA_498 = { add_core = THIS }
             }
     }
-    barce_sympathies_one = {
+    barce_sympathies_two = {
         potential = {
             tag = JAR
             has_global_flag = barce_sympathies
@@ -153,7 +153,7 @@ political_decisions = {
                 SPA_498 = { add_core = THIS }
             }
     }
-    barce_sympathies_two = {
+    barce_sympathies_three = {
         potential = {
             tag = JAR
             has_global_flag = barce_sympathies

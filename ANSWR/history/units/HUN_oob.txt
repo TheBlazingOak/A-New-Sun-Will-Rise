@@ -1,0 +1,34 @@
+GLC = { value = -200 }
+
+army = {
+    name = "Budapest Army"
+    location = 641
+
+    regiment = {
+        name= "Budapest Reserve"
+        type = infantry
+        home = 641
+    }
+
+    regiment = {
+        name= "Pecs Reserve"
+        type = infantry
+        home = 640
+    }
+
+    regiment = {
+        name= "Artillery Reserve"
+        type = artillery
+        home = 642
+    }
+
+}
+
+leader = {
+    name = "Dragan Antic"
+    type = land
+    date = 2836.1.1
+    personality = persistant
+    background = rising_star
+    prestige = 0.25
+}

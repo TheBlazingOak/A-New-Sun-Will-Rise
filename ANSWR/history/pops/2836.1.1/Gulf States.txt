@@ -5,43 +5,55 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 200
+        size = 13000
     }
 
     bureaucrats = {
         culture = bedouin
         religion = sunni
-        size = 10
+        size = 1000
     }
 
     officers = {
         culture = bedouin
         religion = sunni
-        size = 10
+        size = 1000
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 50
+        size = 3000
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 150
+        size = 11000
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 11000
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 11000
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 100
+        size = 12000
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 2725
+        size = 287250
     }
 }
 #Bahrain Region (28000) #see Saudi Arabia.txt for balance of region
@@ -51,49 +63,49 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 70
+        size = 700
     }
 
     bureaucrats = {
         culture = bedouin
         religion = sunni
-        size = 10
+        size = 100
     }
 
     officers = {
         culture = bedouin
         religion = sunni
-        size = 10
+        size = 100
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 25
+        size = 250
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 100
+        size = 1000
     }
 
     soldiers = {
         culture = swathanthrar
         religion = sunni
-        size = 1050
+        size = 3050
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 9525
+        size = 19525
     }
 
     farmers = {
         culture = swathanthrar
         religion = sunni
-        size = 7525
+        size = 27525
     }
 }
 #Uman Region (36000) #see Oman.txt for balance of region
@@ -103,31 +115,26 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 225
+        size = 2250
     }
 
-    bureaucrats = {
-        culture = swathanthrar
-        religion = sunni
-        size = 1000
-    }
 
     officers = {
         culture = swathanthrar
         religion = sunni
-        size = 10
+        size = 100
     }
 
     clergymen = {
         culture = swathanthrar
         religion = sunni
-        size = 50
+        size = 3500
     }
 
     artisans = {
         culture = swathanthrar
         religion = sunni
-        size = 250
+        size = 12250
     }
 
     soldiers = {
@@ -139,13 +146,13 @@
     farmers = {
         culture = swathanthrar
         religion = sunni
-        size = 23650
+        size = 73650
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 13650
+        size = 63650
     }
 }
 #Dubai (16000/4000 POPS)   #now part of UAE
@@ -153,43 +160,79 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 50
+        size = 18500
+    }
+
+    bureaucrats = {
+        culture = swathanthrar
+        religion = sunni
+        size = 5000
     }
 
     officers = {
         culture = swathanthrar
         religion = sunni
-        size = 10
+        size = 1000
     }
 
     clergymen = {
         culture = swathanthrar
         religion = sunni
-        size = 50
+        size = 5000
     }
 
     artisans = {
         culture = swathanthrar
         religion = sunni
-        size = 250
+        size = 10250
+    }
+
+    artisans = {
+        culture = swathanthrar
+        religion = sunni
+        size = 10250
+    }
+
+    artisans = {
+        culture = swathanthrar
+        religion = sunni
+        size = 10250
+    }
+
+    artisans = {
+        culture = swathanthrar
+        religion = sunni
+        size = 10250
+    }
+
+    artisans = {
+        culture = swathanthrar
+        religion = sunni
+        size = 10250
+    }
+
+    artisans = {
+        culture = swathanthrar
+        religion = sunni
+        size = 10250
     }
 
     soldiers = {
         culture = swathanthrar
         religion = sunni
-        size = 6000
+        size = 15000
     }
 
     farmers = {
         culture = swathanthrar
         religion = sunni
-        size = 63650
+        size = 300125
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 52625
+        size = 125625
     }
 
 }
@@ -198,7 +241,7 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 300
+        size = 3000
     }
 
     bureaucrats = {
@@ -216,24 +259,24 @@
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 1000
+        size = 10000
     }
 
     soldiers = {
         culture = swathanthrar
         religion = sunni
-        size = 1000
+        size = 3000
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 8300
+        size = 38300
     }
 
     farmers = {
         culture = swathanthrar
         religion = sunni
-        size = 6000
+        size = 38000
     }
 }

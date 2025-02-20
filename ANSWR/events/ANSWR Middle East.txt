@@ -1,0 +1,83 @@
+##Al-Sham Events##
+#Al-Sham Fascist Take Over
+country_event = {
+	id = 211300
+	title = "EVTNAME211300"
+	desc = "EVTDESC211300"
+	
+	trigger = {
+		OR = { tag = LBN tag = SYR}
+		NOT = { has_country_flag = al_sham_takeover }
+		NOT = { has_global_flag = al_sham_fallen }
+	}
+	mean_time_to_happen = {
+        months = 60
+        }
+	option = {
+		name = "EVTOPTA211300"
+		set_country_flag = al_sham_takeover
+		set_global_flag = al_sham_fallen
+		militancy = 2
+	}
+}
+#Al-Sham
+country_event = {
+	id = 211301
+	title = "EVTNAME211301"
+	desc = "EVTDESC211301"
+	
+	trigger = {
+		OR = { tag = LBN tag = SYR}
+		has_country_flag = al_sham_takeover
+		NOT = { has_global_flag = al_sham_fascist }
+	}
+	mean_time_to_happen = {
+        months = 1
+        }
+	option = {
+		name = "EVTOPTA211301"
+		change_tag = ASM
+		set_global_flag = al_sham_fascist
+		government = fascist_dictatorship
+		EGY_915 = { add_core = ASM }
+		EGY_897 = { add_core = ASM }
+		EGY_903 = { add_core = ASM }
+		militancy = 1
+	}
+}
+##Neo-Persia Events##
+#The Persian Crisis
+country_event = {
+	id = 211310
+	title = "EVTNAME211310"
+	desc = "EVTDESC211310"
+	major = yes
+	trigger = {
+		year = 2850
+		OR = { tag = PER tag = BDK tag = JOR tag = AFG tag = MYS }
+		NOT = { has_global_flag = persian_crisis }
+	}
+	mean_time_to_happen = {
+        months = 60
+        }
+	option = {
+		name = "EVTOPTA211310"
+		set_global_flag = persian_crisis
+		prestige = 5
+		PER_1116 = { add_core = NPE }
+		PER_1121 = { add_core = NPE }
+		PER_1122 = { add_core = NPE }
+		PER_1136 = { add_core = NPE }
+		PER_1127 = { add_core = NPE }
+		PER_1148 = { add_core = NPE }
+		PER_1140 = { add_core = NPE }
+		PAK_1142 = { add_core = NPE }
+		KAL_1221 = { add_core = NPE }
+		AFG_1214 = { add_core = NPE }
+		KAL_1218 = { add_core = NPE }
+		AFG_1209 = { add_core = NPE }
+		PAN_1224 = { add_core = NPE }
+		BDK_1210 = { add_core = NPE }
+		PNJ_1288 = { add_core = NPE }
+	}
+}

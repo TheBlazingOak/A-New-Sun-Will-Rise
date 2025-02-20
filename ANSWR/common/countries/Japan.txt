@@ -1,19 +1,13 @@
 #color = { 194  53  60 }
-color = { 232  26  63 }
-absolute_monarchy = { 194  123  47 }
-prussian_constitutionalism = { 232  26  63 }
-hms_government = { 232  26  63 }
-proletarian_dictatorship = { 199  67  44 }
-democracy = { 244  121  158 }
-fascist_dictatorship = { 248 51 22 }
+color = { 122  26  63 }
 
 
 graphical_culture = JapaneseGC
 
 party = {
-    name = "JAP_reactionary"
-    start_date = 1800.1.1
-    end_date = 1868.1.1
+    name = "JPN_reactionary"
+    start_date = 2800.1.1
+    end_date = 2868.1.1
 
     ideology = reactionary
 
@@ -26,9 +20,9 @@ party = {
 }
 
 party = {
-    name = "JAP_conservative"
-    start_date = 1800.1.1
-    end_date = 1868.1.1
+    name = "JPN_conservative"
+    start_date = 2800.1.1
+    end_date = 2868.1.1
 
     ideology = conservative
 
@@ -41,8 +35,8 @@ party = {
 }
 
 party = {
-    name = "JAP_conservative_2"
-    start_date = 1868.1.1
+    name = "JPN_conservative_2"
+    start_date = 2868.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -56,8 +50,8 @@ party = {
 }
 
 party = {
-    name = "JAP_reactionary_2"
-    start_date = 1868.1.1
+    name = "JPN_reactionary_2"
+    start_date = 2868.1.1
     end_date = 3000.1.1
 
     ideology = reactionary
@@ -71,22 +65,7 @@ party = {
 }
 
 party = {
-    name = "JAP_conservative_3"
-    start_date = 1868.1.1
-    end_date = 3000.1.1
-
-    ideology = conservative
-
-    social_policy = no_position_set
-    economic_policy = interventionism
-    trade_policy = protectionism
-    religious_policy = pluralism
-    citizenship_policy = residency
-    war_policy = pro_military
-}
-
-party = {
-    name = "JAP_liberal"
+    name = "JPN_liberal"
     start_date = 2830.1.1
     end_date = 3000.1.1
 
@@ -101,7 +80,7 @@ party = {
 }
 
 party = {
-    name = "JAP_socialist"
+    name = "JPN_socialist"
     start_date = 2848.1.1
     end_date = 3000.1.1
 
@@ -116,7 +95,7 @@ party = {
 }
 
 party = {
-    name = "JAP_anarcho_liberal"
+    name = "JPN_anarcho_liberal"
     start_date = 2830.1.1
     end_date = 3000.1.1
 
@@ -131,7 +110,7 @@ party = {
 }
 
 party = {
-    name = "JAP_communist"
+    name = "JPN_communist"
     start_date = 2848.1.1
     end_date = 3000.1.1
 
@@ -146,7 +125,7 @@ party = {
 }
 
 party = {
-    name = "JAP_fascist"
+    name = "JPN_fascist"
     start_date = 2900.1.1
     end_date = 3000.1.1
 

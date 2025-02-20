@@ -1,0 +1,81 @@
+political_decisions = {
+##AL-SHAM CLAIMS##
+	al_sham_claims = {
+		alert = yes
+		potential = {
+			tag = ASM
+			NOT = { has_country_flag = al_sham_claims }
+		}
+		allow = {
+			EGY_915 = { owned_by = THIS }
+			EGY_897 = { owned_by = THIS }
+			EGY_903 = { owned_by = THIS }
+			}
+		effect = {
+			set_country_flag = al_sham_claims
+			EGY_921 = { add_core = ASM }
+			TUR_893 = { add_core = ASM }
+			TUR_931 = { add_core = ASM }
+		}
+	}
+	great_sham_claims = {
+		alert = yes
+		potential = {
+			tag = ASM
+			has_country_flag = al_sham_claims
+			NOT = { has_country_flag = great_sham_claims }
+		}
+		allow = {
+			EGY_921 = { owned_by = THIS }
+			TUR_893 = { owned_by = THIS }
+			TUR_931 = { owned_by = THIS }
+			}
+		effect = {
+			set_country_flag = great_sham_claims
+			EGY_1755 = { add_core = ASM }
+			TUR_926 = { add_core = ASM }
+			TUR_932 = { add_core = ASM }
+			TUR_935 = { add_core = ASM }
+		}
+	}
+	al_sham_welfare_programs = {
+		alert = yes
+		potential = {
+			tag = ASM
+			has_country_flag = al_sham_claims
+			NOT = { has_country_flag = al_sham_welfare_programs }
+		}
+		allow = {
+			EGY_921 = { owned_by = THIS }
+			TUR_893 = { owned_by = THIS }
+			TUR_931 = { owned_by = THIS }
+			money = 30000
+			}
+		effect = {
+			set_country_flag = al_sham_welfare_programs
+			EGY_921 = { add_province_modifier = { name = baby_boom duration = 1825 } }
+			TUR_893 = { add_province_modifier = { name = baby_boom duration = 1825 } }
+			TUR_931 = { add_province_modifier = { name = baby_boom duration = 1825 } }
+			treasury = -20000
+		}
+	}
+	##Neo-Persia##
+	proclaim_neo_persia = {
+		alert = yes
+		picture = neo_persia
+		potential = {
+			OR = { tag = PER tag = BDK tag = JOR tag = AFG tag = MYS }
+			has_global_flag = persian_crisis
+			NPE = { exists = no }
+			NOT = { has_country_flag = neo_persia_created }
+		}
+		allow = {
+			NPE = { all_core = { owned_by = THIS } }
+			}
+		effect = {
+			prestige = 10
+			change_tag = NPE
+			set_country_flag = neo_persia_created
+		}
+	}
+}

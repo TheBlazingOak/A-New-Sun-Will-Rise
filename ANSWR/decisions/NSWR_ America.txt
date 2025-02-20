@@ -415,7 +415,6 @@ transpacifica_unification = {
 			hot_blast = 1
 			romanticism = 1
 			is_culture_group = pacific_cultures
-			OR = { government = { absolute_monarchy } government = { prussian_constitutionalism } government = { hms_government } }
 			NOT = { has_global_flag = the_grand_vancouver_palace }
 			}
 		allow = {

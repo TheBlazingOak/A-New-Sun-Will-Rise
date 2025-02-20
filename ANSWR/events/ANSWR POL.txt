@@ -7,14 +7,14 @@ country_event = {
         name = "EVT52501OPTA" #Yes
             FROM = { inherit = THIS }
             all_core = {
-            add_core = WAR
+            add_core = WRP
             }
         }
     option = {
         name = "EVT52501OPTB" #Refuse
             all_core = {
-            add_core = WAR
+            add_core = WRP
             }
-            relation = { tag = POL value = -150}
+            relation = { who = WRP value = -150}
         }
 }

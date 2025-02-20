@@ -1,11 +1,10 @@
-capital = 1121
+capital = 1137
 primary_culture = persian
-culture = azerbaijani
 religion = shiite
 government = absolute_monarchy
 plurality = 10.0
 nationalvalue = nv_order
-literacy = 0.55
+literacy = 0.31
 non_state_culture_literacy = 0.22
 civilized = yes
 prestige = 15

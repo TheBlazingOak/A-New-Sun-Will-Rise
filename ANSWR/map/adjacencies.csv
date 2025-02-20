@@ -120,7 +120,6 @@ From;To;Type;Through;Data;Comment
 1540;1539;sea;2826;0;Nantong - Suzhou through the Yantze River
 1541;1539;sea;2826;0;Tongzhou - Suzhou through the Yantze River
 1452;1454;sea;2856;0;Biak - Merah Strait
-2406;1485;sea;2825;0;Penghu - Taiwan Strait
 1071;1142;sea;2787;0;Bandar abbhas - Homuz Strait
 1071;1141;sea;2787;0;Lengeh - Homuz Strait
 1083;1086;sea;2832;0;Tatar Straits
@@ -169,14 +168,13 @@ From;To;Type;Through;Data;Comment
 1447;1434;sea;2852;0;Ternate Strait
 1437;1436;sea;2810;0;Bulon-Kendari Strait
 1435;1425;sea;2812;0;Palu-Tarakan Strait
-1644;1089;sea;2839;0;Nemuru-Etorofu Strait
-1089;1088;sea;2839;0;Etorofu-Shumshu Strait
 1088;1074;sea;2838;0;Shumshu-Petropavlovsk Strait
 1637;1635;sea;2829;0;Cheju-Kwangju Strait
 12;1645;land;2841;0;Sado-Niigata Strait
 1249;1282;sea;3307;0;Kharswari Strait
 1249;1262;sea;3307;0;Kharswari Strait
 1248;1270;sea;3303;0;Gaya Strait
+1646;1648;sea;1841;0;Kanazawa Strait
 #Lebannon
 896;900;sea;2770;0;Antakya Strait 
 900;898;sea;2770;0;Antep Strait
@@ -186,6 +184,7 @@ From;To;Type;Through;Data;Comment
 915;902;sea;2769;0;Sidon Crossing
 915;916;sea;2769;0;Akko Strait
 914;913;sea;2770;0;Beirut Strait
+912;913;sea;2770;0;Beirut Strait
 #
 # Asian Straits
 #
@@ -209,7 +208,9 @@ From;To;Type;Through;Data;Comment
 1495;1499;sea;2823;0;Hainan Strait
 1457;1461;sea;2849;0;Tacloban Strait
 1640;1660;sea;2843;0;Fukuoka Strait
-1642;1672;sea;2841;0;Hakodate Strait
+1642;1643;sea;2841;0;Hakodate Strait
+1661;1660;sea;2841;0;Nagasaki Strait
+1661;1664;sea;2841;0;Nagasaki Strait
 #1643;1087;sea;2831;0;Sakhalin Strait #removed
 1664;1666;sea;2843;0;Matsuyama Strait
 1667;1659;sea;2843;0;Setto Strait

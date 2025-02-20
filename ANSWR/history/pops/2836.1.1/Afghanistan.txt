@@ -791,13 +791,13 @@
     soldiers = {
         culture = tajik
         religion = sunni
-        size = 4000
+        size = 12000
     }
 
     farmers = {
         culture = tajik
         religion = sunni
-        size = 62825
+        size = 162825
     }
 
     slaves = {
@@ -807,7 +807,235 @@
     }
 
 }
+#Srinagar (748000/187000 POPS)
+1224 = {
+    bureaucrats = {
+        culture = panjabi
+        religion = sikh
+        size = 100
+    }
 
+    clergymen = {
+        culture = panjabi
+        religion = sikh
+        size = 50
+    }
+
+    artisans = {
+        culture = panjabi
+        religion = sikh
+        size = 1500
+    }
+
+    soldiers = {
+        culture = panjabi
+        religion = sikh
+        size = 100
+    }
+
+    farmers = {
+        culture = panjabi
+        religion = sikh
+        size = 3250
+    }
+
+    aristocrats = {
+        culture = tajik
+        religion = hindu
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = tajik
+        religion = hindu
+        size = 75
+    }
+
+    clergymen = {
+        culture = tajik
+        religion = hindu
+        size = 325
+    }
+
+    artisans = {
+        culture = tajik
+        religion = hindu
+        size = 2000
+    }
+
+    soldiers = {
+        culture = tajik
+        religion = hindu
+        size = 325
+    }
+
+    farmers = {
+        culture = tajik
+        religion = hindu
+        size = 29975
+    }
+
+    aristocrats = {
+        culture = tajik
+        religion = sunni
+        size = 1600
+    }
+
+    bureaucrats = {
+        culture = tajik
+        religion = sunni
+        size = 75
+    }
+
+    clergymen = {
+        culture = tajik
+        religion = sunni
+        size = 1500
+    }
+
+    artisans = {
+        culture = tajik
+        religion = sunni
+        size = 10000
+    }
+
+    artisans = {
+        culture = tajik
+        religion = sunni
+        size = 10000
+    }
+
+    soldiers = {
+        culture = tajik
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = tajik
+        religion = sunni
+        size = 114825
+    }
+}
+#Gilgit (264000/66000 POPS)
+1225 = {
+    aristocrats = {
+        culture = pashtun
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = sunni
+        size = 50
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = pashtun
+        religion = sunni
+        size = 4600
+    }
+
+    aristocrats = {
+        culture = tajik
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = tajik
+        religion = sunni
+        size = 425
+    }
+
+    artisans = {
+        culture = tajik
+        religion = sunni
+        size = 2000
+    }
+
+    soldiers = {
+        culture = tajik
+        religion = sunni
+        size = 400
+    }
+
+    farmers = {
+        culture = tajik
+        religion = sunni
+        size = 76725
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = mahayana
+        size = 11575
+    }
+}
+#Leh (196000/49000 POPS)
+1226 = {
+    aristocrats = {
+        culture = tajik
+        religion = sunni
+        size = 75
+    }
+
+    clergymen = {
+        culture = tajik
+        religion = sunni
+        size = 75
+    }
+
+    soldiers = {
+        culture = tajik
+        religion = sunni
+        size = 75
+    }
+
+    farmers = {
+        culture = tajik
+        religion = sunni
+        size = 26425
+    }
+
+    aristocrats = {
+        culture = tibetan
+        religion = mahayana
+        size = 400
+    }
+
+    clergymen = {
+        culture = tibetan
+        religion = mahayana
+        size = 425
+    }
+
+    artisans = {
+        culture = tibetan
+        religion = mahayana
+        size = 2100
+    }
+
+    soldiers = {
+        culture = tibetan
+        religion = mahayana
+        size = 400
+    }
+
+    farmers = {
+        culture = tibetan
+        religion = mahayana
+        size = 18675
+    }
+
+}
 #Former South Gerorgia
 2133 = {
     aristocrats = {

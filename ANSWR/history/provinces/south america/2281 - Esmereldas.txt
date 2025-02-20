@@ -1,5 +1,6 @@
 owner = CSK
 controller = CSK
 add_core = CSK
+add_core = GAR
 trade_goods = grain
 life_rating = 31

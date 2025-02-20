@@ -62,7 +62,7 @@ political_decisions = {
 
         effect = {
         	prestige = 15
-            change_tag = WAR
+            change_tag = WRP
             set_global_flag = warsaw_pact
             add_accepted_culture = byelorussian
             add_accepted_culture = paltijan
@@ -70,7 +70,7 @@ political_decisions = {
             add_accepted_culture = ukrainian
             all_core = {
         		remove_core = POL
-        		add_core = WAR
+        		add_core = WRP
         		}
             UKR = { country_event = { id = 52501 days = 0 } }
             EST = { country_event = { id = 52501 days = 0 } }

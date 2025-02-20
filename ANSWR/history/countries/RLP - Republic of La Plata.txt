@@ -1,10 +1,10 @@
-capital = 2379
+capital = 2356
 primary_culture = platinean
 religion = catholic
 government = democracy
 plurality = 5
 nationalvalue = nv_liberty
-literacy = 0.20
+literacy = 0.59
 civilized = yes
 prestige = 5
 
@@ -49,3 +49,4 @@ upper_house = {
 }
 
 set_country_flag = new_world_nation
+oob = "RLP_oob.txt"

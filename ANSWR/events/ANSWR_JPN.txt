@@ -1,0 +1,453 @@
+##The Remnants of Japan##
+country_event = {
+	id = 211199
+	title = "EVTNAME211199"
+	desc = "EVTDESC211199"
+	
+	trigger = {
+		tag = JPN
+		year = 2836
+		NOT = { has_country_flag = history_of_japan }
+	}
+	mean_time_to_happen = {
+        days = 7
+        }
+	fire_only_once = yes
+	option = {
+		name = "EVTOPTA211199"
+		set_country_flag = history_of_japan
+	}
+}
+##Awaken Japan##
+##The Girl from Atorantisu
+country_event = {
+	id = 211200
+	title = "EVTNAME211200"
+	desc = "EVTDESC211200"
+	picture = namazu
+	trigger = {
+		tag = JPN
+		year = 2836
+		NOT = { has_country_flag = last_empress }
+	}
+	mean_time_to_happen = {
+        months = 6
+        }
+	fire_only_once = yes
+	option = {
+		name = "EVTOPTA211200"
+		prestige = 5
+    	add_country_modifier = { name = the_last_empress duration = -1 }
+		set_country_flag = last_empress
+	}
+}
+##The Crown Princess
+country_event = {
+	id = 211201
+	title = "EVTNAME211201"
+	desc = "EVTDESC211201"
+	picture = namazu
+	trigger = {
+		tag = JPN
+		has_country_flag = last_empress
+		NOT = { has_country_flag = crown_princess}
+		NOT = { has_country_flag = no_koshitsu}
+	}
+	mean_time_to_happen = {
+        months = 6
+        }
+	fire_only_once = yes
+	#Crown Princess Aiko Path
+	option = {
+		name = "EVTOPTA211201"
+		set_country_flag = crown_princess
+		prestige = 5
+		upper_house = {
+			ideology = conservative
+			value = 0.1
+		}
+		ai_chance = { factor = 90 }
+	}
+	#Republican
+	option = {
+		name = "EVTOPTB211201"
+		set_country_flag = no_koshitsu
+		set_country_flag = crown_princess
+		prestige = -5
+		upper_house = {
+			ideology = liberal
+			value = 0.25
+		}
+		ai_chance = { factor = 10 }
+	}
+}
+##Kyowato's Republic
+#The Kyowato Coup
+country_event = {
+	id = 211202
+	title = "EVTNAME211202"
+	desc = "EVTDESC211202"
+	major = yes
+	is_triggered_only = yes
+	fire_only_once = yes
+	#Kyowato Coup
+	option = {
+		name = "EVTOPTA211202"
+		set_country_flag = kyowato_coup
+		prestige = -5
+		upper_house = {
+			ideology = liberal
+			value = 0.25
+		}
+		government = bourgeois_dictatorship
+		remove_country_modifier = the_last_empress
+		remove_country_modifier = isolationism
+	}
+}
+##Crown Princess Aiko Path
+#Cold and Calculating
+country_event = {
+	id = 211203
+	title = "EVTNAME211203"
+	desc = "EVTDESC211203"
+	picture = namazu
+	trigger = {
+		tag = JPN
+		OR = 
+		{ 
+		has_country_flag = strong_ideals
+		has_country_flag = weak_ideals
+		has_country_flag = crown_legitimized
+		}
+		NOT = { has_country_flag = the_genius }
+		NOT = { has_country_flag = princess_abdicates }
+		NOT = { has_country_flag = kyowato_coup }
+	}
+	mean_time_to_happen = {
+        months = 24
+        }
+	#Those calculating eyes
+	option = {
+		name = "EVTOPTA211203"
+		set_country_flag = the_genius
+		remove_country_modifier = the_last_empress
+		add_country_modifier = { name = aiko_the_prodigy duration = -1 }
+	}
+}
+#Crown Princess Aiko of Age
+country_event = {
+	id = 211204
+	title = "EVTNAME211204"
+	desc = "EVTDESC211204"
+	major = yes
+	is_triggered_only = yes
+	fire_only_once = yes
+
+	#Aiko's Empire
+	option = {
+		name = "EVTOPTA211204"
+		set_country_flag = crowning_of_aiko
+		prestige = 10
+		remove_country_modifier = isolationism
+		remove_country_modifier = aiko_the_prodigy
+		add_country_modifier = { name = empress_aiko duration = -1 }
+	}
+}
+#Protests in Kyoto
+country_event = {
+	id = 211205
+	title = "EVTNAME211205"
+	desc = "EVTDESC211205"
+	picture = failed_revolution
+	trigger = {
+		tag = JPN
+		OR = { has_country_flag = no_koshitsu has_country_flag = crown_princess }
+		NOT = { has_country_flag = peaceful_protest }
+		NOT = { has_country_flag = bloody_protest }
+		NOT = { has_country_flag = institutional_protest }
+	}
+	mean_time_to_happen = {
+        months = 6
+        }
+
+	
+	#Let them protest
+	option = {
+		name = "EVTOPTA211205"
+		set_country_flag = peaceful_protest
+		consciousness = 1
+	}
+	#Shoot them
+	option = {
+		name = "EVTOPTB211205"
+		set_country_flag = bloody_protest
+		consciousness = 1
+		militancy = 3
+	}
+	#Government officials join them
+	option = {
+		name = "EVTOPTC211205"
+		set_country_flag = institutional_protest
+		consciousness = 3
+		
+	}
+}
+##Kyoto Protest Aftermath##
+#Bloody Protest 
+country_event = {
+	id = 211206
+	title = "EVTNAME211206"
+	desc = "EVTDESC211206"
+	picture = failed_revolution
+	trigger = {
+		tag = JPN
+		has_country_flag = bloody_protest
+		NOT = { has_country_flag = radicals_hunted }
+		NOT = { has_country_flag = radicals_sympathy }
+	}
+	mean_time_to_happen = {
+        months = 1
+        }
+
+	
+	#Imprison them (Iron Princess/Expansionist)
+	option = {
+		name = "EVTOPTA211206"
+		set_country_flag = radicals_hunted
+		upper_house = {
+			ideology = conservative
+			value = 0.25
+		}
+		militancy = 1
+	}
+	#Let them go (Bloody Friday 211202)
+	option = {
+		name = "EVTOPTB211206"
+		set_country_flag = radicals_sympathy
+		prestige = -5
+		upper_house = {
+			ideology = liberal
+			value = 0.25
+		}
+		militancy = 1
+	}
+}
+#Attack on the Palace
+country_event = {
+	id = 211207
+	title = "EVTNAME211207"
+	desc = "EVTDESC211207"
+	picture = ezo_request
+	trigger = {
+		tag = JPN
+		OR = { has_country_flag = radicals_hunted has_country_flag = radicals_sympathy }
+		NOT = { has_country_flag = kyowato_wins }
+		NOT = { has_country_flag = princess_wins }
+	}
+	mean_time_to_happen = {
+        months = 1
+        }
+
+	
+	#Bloody Friday
+	option = {
+		name = "EVTOPTA211207"
+		set_country_flag = kyowato_wins
+		country_event = { id = 211202 }
+		ai_chance = { chance = 25 modifier = { factor = 4 has_country_flag = radicals_sympathy } }
+		militancy = 1
+	}
+	#Iron Princess
+	option = {
+		name = "EVTOPTB211207"
+		set_country_flag = princess_wins
+		country_event = { id = 211208 }
+		ai_chance = { chance = 25 modifier = { factor = 4 has_country_flag = radicals_hunted } }
+		militancy = 1
+	}
+}
+#The Iron Princess
+country_event = {
+	id = 211208
+	title = "EVTNAME211208"
+	desc = "EVTDESC211208"
+	major = yes
+	is_triggered_only = yes
+	
+	#Dreams of Domination
+	option = {
+		name = "EVTOPTA211208"
+		set_country_flag = dreams_of_domination
+		set_country_flag = crowning_of_aiko
+		prestige = 10
+		remove_country_modifier = isolationism
+		remove_country_modifier = aiko_the_prodigy
+		remove_country_modifier = the_last_empress
+		add_country_modifier = { name = iron_princess duration = -1 }
+		change_tag = KOS
+		nationalvalue = nv_order
+		all_core = {
+        	remove_core = JPN
+        	add_core = KOS
+        }
+        militancy = -2
+	}
+}
+#Peaceful Protest
+country_event = {
+	id = 211209
+	title = "EVTNAME211209"
+	desc = "EVTDESC211209"
+
+	trigger = {
+		tag = JPN
+		has_country_flag = peaceful_protest
+		NOT = { has_country_flag = weak_ideals }
+		NOT = { has_country_flag = crown_legitimized }
+	}
+	mean_time_to_happen = {
+        months = 1
+        }
+
+	#Maybe Freedom of Speech isn't such a novel idea
+	option = {
+		name = "EVTOPTA211209"
+		prestige = -2
+		set_country_flag = weak_ideals
+		upper_house = {
+			ideology = liberal
+			value = 0.25
+		}
+	}
+	#That's nice, but the Crown knows best.
+	option = {
+		name = "EVTOPTB211209"
+		prestige = 2
+		set_country_flag = crown_legitimized
+		upper_house = {
+			ideology = conservative
+			value = 0.25
+		}
+	}
+}
+#Institutional Protest
+country_event = {
+	id = 211210
+	title = "EVTNAME211210"
+	desc = "EVTDESC211210"
+	picture = ezo_republic
+	trigger = {
+		tag = JPN
+		has_country_flag = institutional_protest
+		NOT = { has_country_flag = strong_ideals }
+		NOT = { has_country_flag = kyowatoism }
+	}
+	mean_time_to_happen = {
+        months = 1
+        }
+
+	
+	#The people deserve a voice
+	option = {
+		name = "EVTOPTA211210"
+		prestige = 2
+		set_country_flag = strong_ideals
+		upper_house = {
+			ideology = liberal
+			value = 0.25
+		}
+	}
+	#Maybe we don't need a crown
+	option = {
+		name = "EVTOPTB211210"
+		set_country_flag = kyowatoism
+		upper_house = {
+			ideology = liberal
+			value = 0.25
+		}
+	}
+}
+#Princess Steps Down
+country_event = {
+	id = 211211
+	title = "EVTNAME211211"
+	desc = "EVTDESC211211"
+	major = yes
+	trigger = {
+		tag = JPN
+		has_country_flag = kyowatoism
+		NOT = { has_country_flag = ideas_of_freedom }
+		NOT = { has_country_flag = princess_abdicates }
+	}
+	mean_time_to_happen = {
+        months = 1
+        }
+
+	
+	#Goodbye Aiko
+	option = {
+		name = "EVTOPTA21111"
+		set_country_flag = princess_abdicates
+		upper_house = {
+			ideology = liberal
+			value = 0.25
+		}
+		government = bourgeois_dictatorship
+		remove_country_modifier = the_last_empress
+		remove_country_modifier = aiko_the_prodigy
+		remove_country_modifier = isolationism
+	}
+}
+#The Aiko Constitution
+country_event = {
+	id = 211212
+	title = "EVTNAME211212"
+	desc = "EVTDESC211212"
+	picture = asian_administration
+	trigger = {
+		tag = JPN
+		civilized = yes
+		OR = {has_country_flag = strong_ideals has_country_flag = weak_ideals }
+		NOT = { has_country_flag = constitutional_monarchy }
+	}
+	mean_time_to_happen = {
+        days = 7
+        }
+	#Constituion
+	option = {
+		name = "EVTOPTA21112"
+		prestige = 5
+		set_country_flag = constitutional_monarchy
+		political_reform = wealth_voting
+        political_reform = secret_ballots
+        political_reform = open_borders
+        political_reform = meetings_allowed
+	}
+}
+#The Kyowakoku Constitution
+country_event = {
+	id = 211213
+	title = "EVTNAME211213"
+	desc = "EVTDESC211213"
+	picture = asian_administration
+
+	trigger = {
+		tag = JPN
+		civilized = yes
+		OR = {has_country_flag = princess_abdicates has_country_flag = kyowato_coup }
+		NOT = { has_country_flag = constitutional_monarchy }
+	}
+	mean_time_to_happen = {
+        days = 7
+        }
+	#Kyowato Constituion
+	option = {
+		name = "EVTOPTA21113"
+		prestige = 5
+		set_country_flag = constitutional_monarchy
+		political_reform = universal_voting
+        political_reform = secret_ballots
+        political_reform = open_borders
+        political_reform = meetings_allowed
+	}
+}

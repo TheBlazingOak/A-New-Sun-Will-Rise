@@ -340,3 +340,8 @@ AGRESSION_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$British-American War;;;;;;;;;;;;;
 NORMAL_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$British-American War;;;;;;;;;;;;;
 AGRESSION_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$British-American War;;;;;;;;;;;;;
 NORMAL_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$British-American War;;;;;;;;;;;;;
+NORMAL_WAR_PERSIA_UNIFICATION;$ORDER$War of Persian Unification;;;;;;;;;;;;;
+persia_acquire_state_short;$STATE$ Neo-Persian Scramble;;;;;;;;;;;;;
+persia_acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;;
+persia_acquire_state;Neo-Persian Scramble;;;;;;;;;;;;;
+persia_acquire_state_desc;Recent discoveries have given legitimacy to the idea of a unified Neo-Persia, creating a crisis in the region.;;;;;;;;;;;;;

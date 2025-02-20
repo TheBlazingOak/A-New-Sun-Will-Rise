@@ -153,28 +153,12 @@ vassal = {
 #        ASIA         #
 #######################
 
-# Afghan/Kunduz
-vassal = {
-    first = AFG
-    second = BDK
-    start_date = 2836.1.1
-    end_date = 2936.1.1
-}
-
 # Yangi/Kokand
 vassal = {
     first = KHI
     second = KOK
     start_date = 2836.1.1
     end_date = 2936.1.1
-}
-
-#Japan/Hokkaido
-vassal = {
-    first = JAP
-    second = EZO
-    start_date = 2836.1.1
-    end_date = 2863.1.1
 }
 
 #Dongbei/Mongolian Rump state

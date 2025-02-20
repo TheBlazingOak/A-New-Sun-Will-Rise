@@ -1,12 +1,11 @@
 capital = 1264
 primary_culture = baluchi
-culture = sindi
 religion = sunni
 government = absolute_monarchy
 plurality = 1.0
 nationalvalue = nv_tradition
-literacy = 0.04
-non_state_culture_literacy = 0.02
+literacy = 0.22
+non_state_culture_literacy = 0.23
 
 # Political reforms
 slavery = no_slavery

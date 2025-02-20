@@ -9,7 +9,7 @@ country_event = {
     picture = BRZ_pedro_coronation
     trigger = {
         has_country_flag = damasco_family
-        TAG = JAR
+        tag = JAR
         NOT = { has_global_flag = jardin_emperor_crowned }
     }
 
@@ -30,7 +30,7 @@ country_event = {
     picture = BRZ_pedro_coronation
     trigger = {
         has_country_flag = clavel_family
-        TAG = JAR
+        tag = JAR
         NOT = { has_global_flag = jardin_emperor_crowned }
     }
 
@@ -51,7 +51,7 @@ country_event = {
     picture = BRZ_pedro_coronation
     trigger = {
         has_country_flag = alfazema_family
-        TAG = JAR
+        tag = JAR
         NOT = { has_global_flag = jardin_emperor_crowned }
     }
 
@@ -72,7 +72,7 @@ country_event = {
     picture = BRZ_pedro_coronation
     trigger = {
         has_country_flag = dalia_family
-        TAG = JAR
+        tag = JAR
         NOT = { has_global_flag = jardin_emperor_crowned }
     }
 
@@ -93,7 +93,7 @@ country_event = {
     picture = BRZ_pedro_coronation
     trigger = {
         has_country_flag = lirlo_family
-        TAG = JAR
+        tag = JAR
         NOT = { has_global_flag = jardin_emperor_crowned }
     }
 
@@ -116,7 +116,7 @@ country_event = {
     desc = "EVTDESC55425"
     fire_once_only = yes
     trigger = {
-        TAG = JAR
+        tag = JAR
         SPA_503 = {owned_by = THIS }
         OR = { JAR = { nationalism_n_imperialism = 1 } CAT = {nationalism_n_imperialism = 1} year = 2855 }
         NOT = {has_global_flag = valencia_massacre has_country_flag = appeased_valencia_protesters}
@@ -154,7 +154,7 @@ country_event = {
     desc = "EVTDESC55426"
     fire_once_only = yes
     trigger = {
-        TAG = CAT
+        tag = CAT
         has_global_flag = appeased_valencia_protesters
         NOT = { has_global_flag = valencia_petition_accepted }
     }
@@ -181,7 +181,7 @@ country_event = {
     desc = "EVTDESC55427"
     fire_once_only = yes
     trigger = {
-        TAG = JAR
+        tag = JAR
         has_global_flag = valencia_petition_accepted
         NOT = { has_global_flag = valencia_massacre }
     }
@@ -225,7 +225,7 @@ country_event = {
     desc = "EVTDESC55429"
     fire_once_only = yes
     trigger = {
-        TAG = JAR
+        tag = JAR
         has_global_flag = valencia_petition_refused
         NOT = { has_global_flag = valencia_massacre }
     }

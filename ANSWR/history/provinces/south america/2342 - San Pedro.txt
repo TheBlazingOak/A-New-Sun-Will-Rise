@@ -1,5 +1,6 @@
 owner = RLP
 controller = RLP
 add_core = RLP
+add_core = SJR
 trade_goods = wool
 life_rating = 31

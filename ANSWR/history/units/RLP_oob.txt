@@ -1,0 +1,45 @@
+SJR = { value = -200 }
+BWK = { value = -100 }
+NUH = { value = -150 }
+
+leader = {
+    name = "Gabriel Juarez"
+    date = 2836.1.1
+    type = land
+    personality = charismatic
+    background = war_college
+}
+
+army = {
+    name = "Fliujido Garrison"
+    location = 2356 #Markaz
+    regiment = {
+        name= "The Republic's Guard"
+        type = guard
+        home = 2356
+    }
+
+    regiment = {
+        name= "1. Division"
+        type = infantry
+        home = 2372
+    }
+
+    regiment = {
+        name= "2. Division"
+        type = infantry
+        home = 2420
+    }
+
+    regiment = {
+        name= "1. Artillery"
+        type = artillery
+        home = 2367
+    }
+
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 2365
+    }
+}

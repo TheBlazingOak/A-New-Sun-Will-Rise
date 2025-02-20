@@ -1,5 +1,6 @@
 owner = SJR
 controller = SJR
 add_core = SJR
-trade_goods = wool
-life_rating = 32
+add_core = RLP
+trade_goods = grain
+life_rating = 35

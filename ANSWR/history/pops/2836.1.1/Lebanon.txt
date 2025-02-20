@@ -117,145 +117,37 @@
     aristocrats = {
         culture = neopunic
         religion = shiite
-        size = 50
+        size = 3000
     }
 
     clergymen = {
         culture = neopunic
         religion = shiite
-        size = 100
+        size = 2000
     }
 
     artisans = {
         culture = neopunic
         religion = shiite
-        size = 125
+        size = 10000
+    }
+
+    artisans = {
+        culture = neopunic
+        religion = shiite
+        size = 10000
+    }
+
+    artisans = {
+        culture = neopunic
+        religion = shiite
+        size = 10000
     }
 
     farmers = {
         culture = neopunic
         religion = shiite
-        size = 1075
-    }
-
-    clergymen = {
-        culture = neopunic
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = neopunic
-        religion = orthodox
-        size = 125
-    }
-
-    farmers = {
-        culture = neopunic
-        religion = orthodox
-        size = 2625
-    }
-
-    aristocrats = {
-        culture = neopunic
-        religion = catholic
-        size = 150
-    }
-
-    bureaucrats = {
-        culture = neopunic
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = neopunic
-        religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = neopunic
-        religion = catholic
-        size = 950
-    }
-
-    farmers = {
-        culture = neopunic
-        religion = catholic
-        size = 19100
-    }
-
-    soldiers = {
-        culture = neopunic
-        religion = catholic
-        size = 325
-    }
-
-    officers = {
-        culture = neopunic
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = neopunic
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = neopunic
-        religion = sunni
-        size = 125
-    }
-
-    farmers = {
-        culture = neopunic
-        religion = sunni
-        size = 1075
-    }
-
-    aristocrats = {
-        culture = neopunic
-        religion = druze
-        size = 50
-    }
-
-    clergymen = {
-        culture = neopunic
-        religion = druze
-        size = 100
-    }
-
-    artisans = {
-        culture = neopunic
-        religion = druze
-        size = 200
-    }
-
-    farmers = {
-        culture = neopunic
-        religion = druze
-        size = 3625
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 25
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 100
-    }
-
-    farmers = {
-        culture = armenian
-        religion = coptic
-        size = 1325
+        size = 170750
     }
 
     clergymen = {
@@ -268,6 +160,11 @@
         culture = sephardic
         religion = jewish
         size = 490
+    }
+    soldiers = {
+        culture = neopunic
+        religion = sunni
+        size = 6000
     }
 }
 #Askaleh (48000/12000 POPS)
@@ -293,7 +190,7 @@
     soldiers = {
         culture = neopunic
         religion = sunni
-        size = 100
+        size = 3000
     }
 
     farmers = {
@@ -455,7 +352,7 @@
     bureaucrats = {
         culture = neopunic
         religion = shiite
-        size = 50
+        size = 500
     }
 
     officers = {
@@ -467,25 +364,25 @@
     clergymen = {
         culture = neopunic
         religion = shiite
-        size = 110
+        size = 1100
     }
 
     artisans = {
         culture = neopunic
         religion = shiite
-        size = 5000
+        size = 11000
     }
 
     soldiers = {
         culture = neopunic
         religion = shiite
-        size = 1750
+        size = 6750
     }
 
     farmers = {
         culture = neopunic
         religion = shiite
-        size = 32875
+        size = 132875
     }
 
     aristocrats = {

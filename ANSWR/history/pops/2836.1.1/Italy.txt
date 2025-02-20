@@ -1581,10 +1581,4 @@
         religion = catholic
         size = 64850
     }
-
-    farmers = {
-        culture = croat
-        religion = catholic
-        size = 3000
-    }
 }

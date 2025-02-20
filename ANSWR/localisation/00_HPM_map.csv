@@ -1,4 +1,5 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ARG_2377;Plistia Centro;;;;;;;;;;;;;x
 PROV2477;Warrnambool;;;;;;;;;;;;;x
 PROV140;New Baton;;;;;;;;;;;;;x
 PROV1107;Gagnon;;;;;;;;;;;;;x
@@ -15,7 +16,14 @@ EGY_903;Eastern Syria;;;;;;;;;;;;x
 PROV928;Baqubah;;;;;;;;;;;;x
 PROV241;New Haven;;;;;;;;;;;;x
 USA_219;Washland;;;;;;;;;;;;x
-USA_243;Hartsford;;;;;;;;;;;;x
+PROV1264;Benazir;;;;;;;;;;;;x
+PNJ_1288;Benazir;;;;;;;;;;;;x
+PROV1142;Jinnah;;;;;;;;;;;;x
+PROV1146;Imran;;;;;;;;;;;;x
+PAK_1142;Imran;;;;;;;;;;;;x
+PROV1137;Markaz;;;;;;;;;;;;x
+USA_243;New Haven;;;;;;;;;;;;x
+RYU_1514;Runing;;;;;;;;;;;;x
 PROV1813;Hasakeh-Magarisu;;;;;;;;;;;;x
 PROV907;Deir ez-Zor;;;;;;;;;;;;x
 PROV901;Raqqah;;;;;;;;;;;;x
@@ -260,7 +268,8 @@ CAN_18;New Caledonia;;;;;;;;;;;;x
 ALD_1714;Saoura;;;;;;;;;;;;x
 PROV2590;Ceuta;;;;;;;;;;;;x
 PROV3236;Anam a Cheper;;;;;;;;;;;;x
-PROV641;Pest;;;;;;;;;;;;x
+PROV641;Budapest;;;;;;;;;;;;x
+PROV2218;Selvaprof;;;;;;;;;;;;x
 PROV2637;Vyon;;;;;;;;;;;;x
 PROV2632;Kwangchowan;;;;;;;;;;;;x
 PROV1495;Maoming;;;;;;;;;;;;x

@@ -1,5 +1,6 @@
 owner = SJR
 controller = SJR
 add_core = SJR
+add_core = RLP
 trade_goods = cattle
-life_rating = 34
+life_rating = 35

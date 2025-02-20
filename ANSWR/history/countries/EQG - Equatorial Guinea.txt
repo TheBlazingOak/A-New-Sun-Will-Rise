@@ -5,6 +5,7 @@ government = trading_republic
 plurality = 3.0
 nationalvalue = nv_productivity
 literacy = 0.08
+civilized = yes
 
 # Political reforms
 slavery = yes_slavery

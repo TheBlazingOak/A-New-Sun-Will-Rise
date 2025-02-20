@@ -1,6 +1,7 @@
 owner = GAR
 controller = GAR
 add_core = GAR
+add_core = CSK
 trade_goods = cattle
 terrain = montane_forest
 life_rating = 35

@@ -1,17 +1,18 @@
 capital = 1642
 primary_culture = japanese
-religion = mahayana
+religion = shinto
 government = democracy
 plurality = 5.0
-nationalvalue = nv_tradition
+nationalvalue = nv_liberty
 literacy = 0.48
 non_state_culture_literacy = 0.04
 prestige = 5
+civilized = yes
 
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = wealth_voting
 public_meetings = no_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
@@ -35,14 +36,14 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = closed_borders
 
-set_country_flag = mahayana_country
+set_country_flag = shinto_country
 
 ruling_party = NIP_conservative
 upper_house = {
     fascist = 0
-    liberal = 29
+    liberal = 39
     conservative = 50
-    reactionary = 21
+    reactionary = 11
     anarcho_liberal = 0
     socialist = 0
     communist = 0
@@ -67,7 +68,7 @@ modern_winemaking = yes
 #big_sail_support = yes
 
 # Starting Consciousness
-consciousness = 0
+consciousness = 2
 nonstate_consciousness = 0
 
 oob = "TKG_oob.txt"

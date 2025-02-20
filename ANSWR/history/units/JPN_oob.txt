@@ -1,0 +1,55 @@
+JIY = { value = -200 }
+KOR = { value = -200 }
+leader = {
+    name = "Juro Mariko"
+    date = 2836.1.1
+    type = land
+    personality = glory_hound
+    background = natural_born_leader
+    prestige = 0.15
+ }
+
+army = {
+    name = "Army of the Koshitsu"
+    location = 1649
+    regiment = {
+        name= "1. Samurai"
+        type = cavalry
+        home = 1649
+    }
+    regiment = {
+        name= "1. Heishi"
+        type = irregular
+        home = 1649
+    }
+    regiment = {
+        name= "2. Samurai"
+        type = cavalry
+        home = 1645
+    }
+    regiment = {
+        name= "2. Heishi"
+        type = irregular
+        home = 1674
+    }
+    regiment = {
+        name= "3. Heishi"
+        type = irregular
+        home = 1650
+    }
+    regiment = {
+        name= "4. Heishi"
+        type = irregular
+        home = 1657
+    }
+    regiment = {
+        name= "5. Heishi"
+        type = irregular
+        home = 1676
+    }
+    regiment = {
+        name= "6. Heishi"
+        type = irregular
+        home = 1677
+    }
+}

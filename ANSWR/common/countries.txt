@@ -187,6 +187,10 @@ GCL        = "countries/Greater California.txt"
 ESS        = "countries/Eastern Seaboard.txt"
 WNT        = "countries/Winnipeg-Ontario.txt"
 FRB        = "countries/Fernost-Cislavia.txt"
+KYO        ="countries/Kyowato.txt"
+KOS        ="countries/Koshitisu.txt"
+NPE        ="countries/Neo-Persia.txt"
+ASM        ="countries/Al-Sham.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"
@@ -317,7 +321,6 @@ UYG        = "countries/Uyghurstan.txt"
 UZB        = "countries/Uzbekistan.txt"
 
 #India
-ASM        = "countries/Assam.txt"
 BIH        = "countries/Bihar.txt"
 BLC        = "countries/Baluchistan.txt"
 BNG        = "countries/Bengal.txt"
@@ -671,7 +674,7 @@ ENG        = "countries/United Kingdom.txt"
 PRU        = "countries/Prussia.txt"
 GER        = "countries/Germany.txt"
 AUS        = "countries/Austria.txt"
-JAP        = "countries/Japan.txt"
+JPN        = "countries/Japan.txt"
 ITA        = "countries/Italy.txt"
 KUK        = "countries/Austria-Hungary.txt"
 

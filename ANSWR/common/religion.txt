@@ -231,6 +231,10 @@ asian_religions = {
         color = { 0.25 0.1 0.25 }
         icon = 11
     }
+    koshitsu = {
+        color = { 1 1 1 }
+        icon = 30
+    }
 }
 russia_and_siberia = {
     #Faith in the storm

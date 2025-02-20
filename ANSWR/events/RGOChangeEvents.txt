@@ -6335,8 +6335,6 @@ province_event = {
 
         OR = {
             province_id = 1648 #Toyama, Japan
-            province_id = 1657 #Kyoto, Japan
-            province_id = 1655 #Osaka, Japan
             province_id = 1667 #Tokushima, Japan
             AND = {
                 year = 2855

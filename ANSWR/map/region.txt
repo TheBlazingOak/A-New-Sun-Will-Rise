@@ -228,7 +228,7 @@ DMN_508 = { 508 506 507 490 } #Damasco Central
 
 SPA_503 = { 503 504 505 497 } #Varcincia
 
-SPA_492 = { 492 493 460 } #VaragÛna
+SPA_492 = { 492 493 460 } #Varag√≥na
 
 SPA_498 = { 498 499 500 501 502 464 495 496 457 1689 } #Catalonia
 
@@ -285,7 +285,7 @@ SWI_607 = { 607 608 609 432 433 } #West-Switzerland
 
 PRU_682 = { 682 683 684 685 703 } #Silesia
 
-PRU_695 = { 695 696 697 694 693 } #Preuﬂen
+PRU_695 = { 695 696 697 694 693 } #Preu√üen
 
 PRU_701 = { 701 699 700 } #Posen
 
@@ -294,9 +294,9 @@ PRU_701 = { 701 699 700 } #Posen
 
 AUS_612 = { 612 613 615 735 } #Tirol
 
-AUS_613 = { 616 617 618 } #K‰rnten-Steiermark
+AUS_613 = { 616 617 618 } #K√§rnten-Steiermark
 
-AUS_619 = { 619 620 621 622 624 623 } #÷sterreich
+AUS_619 = { 619 620 621 622 624 623 } #√ñsterreich
 
 AUS_623 = { 640 642 643 644 641 645 646  } #Transdanubia
 
@@ -306,9 +306,9 @@ AUS_627 = { 688 632 689 2584 631 } #Lower Silesia
 
 AUS_633 = { 633 634 635 636 } #Slovakia
 
-NIT_637 = { 637 638 950 704 } #BohatÈhory
+NIT_637 = { 637 638 950 704 } #Bohat√©hory
 
-NIT_714 = { 714 953 951 } #BohatÈhory
+NIT_714 = { 714 953 951 } #Bohat√©hory
 
 AUS_641 = { 648 649 650 651 647 } #Central Hungary
 
@@ -427,7 +427,7 @@ EGY_921 = { 917 920 919 918 916 989 909 908 } #Palestine
 
 TUR_931 = { 927 923 1132 2640 901 1813 } #Tayipa
 
-KUR_928 = { 928 1111 1117 1118 } #
+KUR_928 = { 928 1111 1117 1118 1119 } #Kirmasan
 
 KUR_925 = { 925 924 892 1110 } #
 
@@ -451,15 +451,15 @@ DAG_1104 = { 1052 1053 1103 3358 } #Dagestan
 
 AZB_1389 = { 1389 1100 1101 1387 1402 1386  } #Central Azerbaijan
 
-PER_1112 = { 1108 2025 1112 3359 } #Tabriz
+PER_1112 = { 1108 2025 1112 3359 1123 } #Tabriz
 
 PER_1116 = { 1113 1114 1115 1116 } #Mazandaran
 
-PER_1121 = { 1121 1124 1123 } #Irakajemi
+PER_1121 = { 1121 1124 } #Irakajemi
 
 PER_1127 = { 1127 1129 1130 1126 } #Isfahan
 
-PER_1122 = { 1119 1128 1122 1120 1125 } #Luristan
+PER_1122 = { 1128 1122 1120 1125 } #Luristan
 
 #PER_1128 = { 1128 1122 1120 } #Lorestan
 
@@ -469,7 +469,7 @@ PER_1136 = { 1135 1137 1138 1136 1134 } #Fars
 
 PER_1140 = { 1139 1145 1143 1140 1141 1142 } #Kerman
 
-PAK_1142 = { 1146 1144 } #
+PAK_1142 = { 1146 1144 } #Imran
 
 PER_1148 = { 1148 1147 1150 1149 } #Khorasan
 
@@ -516,7 +516,7 @@ LIT_2569 = { 2569 365 698 354 358 359 } #Penisula
 
 RUS_706 = { 706 708 709 710 717 712 } #Masovia
 
-RUS_707 = { 936 707 719 937 } #BrÍst
+RUS_707 = { 936 707 719 937 } #Br√™st
 
 RUS_718 = { 718 941 942 948 } #Minsk
 
@@ -759,7 +759,7 @@ NET_1449 = { 1430 1431 1432 1435 1434 1433 1436 1437 } #Celebes
 
 NET_1451 = { 1452 1453 1454 1560 } #Western New Guinea
 
-SPA_1455 = { 1457 1458 1459 1460 } #LuzÛn
+SPA_1455 = { 1457 1458 1459 1460 } #Luz√≥n
 
 PHL_1456 = { 1456 3339 1455 3334 3336 } #North Luzon
 
@@ -776,11 +776,7 @@ SPA_1463 = { 1463 1462 3345 3348 3341 1461 2565 } #Mindanao
 
 ### China
 
-CHI_1465 = { 1466 1467 2207 } #Urga
-
-CHI_1468 = { 1468 2679 1599 } #Uliastai
-
-CHI_1470 = { } #South Anhui
+CHI_1465 = { 1466 1467 2207 1468 2679 1534 } #Urga
 
 CHI_1082 = { 1082 1083 3335 3332 } #Vladivostok
 
@@ -806,17 +802,17 @@ CHI_1504 = { 1502 1503 1504 3349 } #Guangxi
 
 CHI_1505 = { 1505 1506 1507 } #Guizhou
 
-CHI_1508 = { 1508 1509 1512 1478 } #East Henan
+CHI_1508 = { 1508 1509 1512 1478 1515 } #East Henan
 
 CHI_1510 = { 1510 1511 1513 } #West Henan
 
-CHI_1519 = { 1519 1520 1521 1523 1517 } #West Hubei
+CHI_1519 = { 1520 1521 1523 } #West Hubei
 
 CHI_1524 = { 1540 1525 1529 } #West Hunan
 
 CHI_1526 = { 1527 1530 } #East Hunan
 
-CHI_1532 = { 1532 1534 1535 1488 } #Inner Mongolia
+CHI_1532 = { 1535 1488 1599 } #Inner Mongolia
 
 CHI_2221 = { } #South Jiangsu
 
@@ -826,7 +822,7 @@ CHI_1547 = { 1547 1545 1464 } #South Jiangxi
 
 CHI_1557 = { 1557 1558 1556 } #Kokonor/Qinghai
 
-CHI_1559 = { 1559 1561 1562 2062 } #Shaanxi
+CHI_1559 = { 1559 1561 2062 1532 } #Shaanxi
 
 CHI_1563 = { 1563 1564 1568 1571 1566 1567 } #West Shandong
 
@@ -836,7 +832,7 @@ CHI_1572 = { 1572 1573 1574 1575 1576 } #Shanxi
 
 CHI_1578 = { 1578 1580 1582 1584 1585 1586 } #West Sichuan
 
-CHI_1579 = { 1579 1577 1581 1583 } #East Sichuan
+CHI_1579 = { 1579 1577 1581 1583 1562 } #East Sichuan
 
 CHI_1594 = { 1594 1597 1598 2607 } #Kashgar
 
@@ -848,7 +844,7 @@ CHI_1604 = { 1604 1608 1609 1610 1607 } #North Zhejiang
 
 CHI_1610 = { 1611 1482 1483 3340 } #South Zhejiang
 
-CHI_1612 = { 1612 1614 1615 1618 1542 1515 } #Baoding
+CHI_1612 = { 1612 1614 1615 1618 1542 } #Baoding
 
 CHI_1616 = { 1616 1613 1617 } #Peking
 
@@ -858,10 +854,11 @@ CHI_1477 = { 1477 1474 1476 1544 1470 1471 } #North Anhui
 
 JUC_1536 = { 1536 1526 1528 1524 } #Ju
 
-RYU_1679 = { 1679 1516 1522 1472 1549 1514 1538 } #Bandao
+RYU_1679 = { 1679 1516 1522 1472 1549 } #Bandao
 
 RYU_1537 = { 1537 1518 } #Didi
 
+RYU_1514 = { 1514 1538 1517 1519 } #Runing
 
 ### Japan & Korea
 
@@ -1044,7 +1041,7 @@ WOL_1785 = { 1785 1783 1786 1787 1790 } #Marcage
 
 TOR_1784 = { 1784 1789 1777 1778 1792 } #Fleuvmar
 
-BOR_1793 = { 1793 1788 1791 } #SalÈbleu
+BOR_1793 = { 1793 1788 1791 } #Sal√©bleu
 ### Central Africa
 
 #SPA_1955 = { } #Equatorial Guinea
@@ -1096,13 +1093,13 @@ POR_2003 = { 2003 2004 2005 2008 2006 } #South Angola
 
 POR_2006 = { 2007 2011 } #East Angola
 
-POR_2049 = { 2050 2051 2073 } #LourenÁo Marques - Gaza - South Mozambique
+POR_2049 = { 2050 2051 2073 } #Louren√ßo Marques - Gaza - South Mozambique
 
 POR_2053 = { 2059 2066 2065 } #Zambezia - Noth Central Mozambique
 
 POR_2054 = { 2057 2052 2058 2053 2070 } #Tete - Now Sofala - South Central Mozambique
 
-POR_2060 = { 2060 2061 2063 2064 2581 2123 } #MoÁambique
+POR_2060 = { 2060 2061 2063 2064 2581 2123 } #Mo√ßambique
 
 #ENG_2067 = { } #Nyasaland
 
@@ -1238,16 +1235,16 @@ URU_2344 = { 2344 2345 2346 2347 2348} #Nuevantrada
 
 ### Brazil
 
-BRZ_2306 = { 2450  2455 2451 } #S„o Paulo
+BRZ_2306 = { 2450  2455 2451 } #S√£o Paulo
 
 BRZ_2452 = { 2452 2306 2456 2453 2446 } #Campinas
 
 BRZ_2401 = { 2404 2405 2407 2235} #Amazonas
 
-BRZ_2408 = { 2408 2412 2402 2234 2232 2224 2220 2231 } #ParÅE
+BRZ_2408 = { 2408 2412 2402 2234 2232 2224 2220 2231 } #Par¬ÅE
 BRZ_1954 = { 1954 2403 2238 } #Rallego
 
-BRZ_2410 = { 2429 2424 2426 368 } #Maranh„o
+BRZ_2410 = { 2429 2424 2426 368 } #Maranh√£o
 
 BRZ_1367 = { 2410 2229 2357 2411 2600 376 385 } #Callifal
 
@@ -1255,7 +1252,7 @@ BRZ_2416 = { 2417 2550 2413 2423 } #Mato Grosso
 
 BRZ_2425 = { 2425 2427 2437 2438 2440 } #Chapada
 
-BRZ_2421 = { 2421 2422 2418 2218 2339 } #Goi·s
+BRZ_2421 = { 2421 2422 2418 2218 2339 } #Goi√°s
 
 BRZ_2428 = { 2428 2431 2433 2430 } #Nordeste
 
@@ -1267,7 +1264,7 @@ BRZ_2447 = { 2447 2448 2449 } #Rio de Janeiro
 
 BRZ_2461 = { 2461 2459 2457 } #Santa Catarina
 
-BRZ_2462 = { 2458 2460 2462 } #ParanÅE
+BRZ_2462 = { 2458 2460 2462 } #Paran¬ÅE
 BRZ_2467 = { 2463 2467 2464 2466 2465 } #Rio Grande do Sul
 
 
@@ -1287,11 +1284,11 @@ ARG_2368 = { 2368 2371 2369 2370 2315 1714 } #Jujuy
 
 ARG_2374 = { 2374 2375 2385 2387 2388 2389  2373 } #Catamarca
 
-ARG_2377 = { 2364 2365 2366 2367 2372 2356 } #Chaco
+ARG_2377 = { 2364 2365 2366 2367 2372 2356 } #Plistia Centro
 
-ARG_2384 = { 2383 2379 2386 } #CÛrdoba de Argentina
+ARG_2384 = { 2383 2379 2386 } #C√≥rdoba de Argentina
 
-ARG_2387 = { 2376 2377 2378 2362 } #Tucum·n
+ARG_2387 = { 2376 2377 2378 2362 } #Tucum√°n
 
 ARG_2391 = { 2392 2394 2396 2397 2391 2395 2390  } #Patagonia Septentrional
 

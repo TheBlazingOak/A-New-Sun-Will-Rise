@@ -1,0 +1,33 @@
+SYR = { value = -200 }
+leader = {
+    name = "Mustafa ibn Fuad"
+    type = land
+    date = 2836.1.1
+    personality = sharp
+    background = nationalist
+}
+
+army = {
+    name = "Army of the Punics"
+    location = 913
+    regiment = {
+        name= "1.al Nahyah"
+        type = irregular
+        home = 913
+    }
+    regiment = {
+        name= "2.al Nahyah"
+        type = irregular
+        home = 913
+    }
+    regiment = {
+        name= "3.al Nahyah"
+        type = irregular
+        home = 914
+    }
+    regiment = {
+        name= "1. Artillery"
+        type = artillery
+        home = 855
+    }
+}

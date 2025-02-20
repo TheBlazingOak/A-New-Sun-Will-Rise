@@ -2075,47 +2075,21 @@ political_decisions = {
             }
 
             #################Japan Setup######################
-            #Shogun Faction
-            any_country = {
-                limit = {
-                    exists = yes
-                    OR = {
-                        tag = KAG
-                        tag = SEN
-                        tag = YZW
-                        tag = TKG
-                    }
-                }
-                set_country_flag = sakoku_applied
-                any_pop = {
-                    ideology = { value = conservative factor = 0.6 }
-                    ideology = { value = reactionary factor = 0.4 }
-                }
-                aristocrats = { ideology = { value = reactionary factor = 0.4 } }
-                add_country_modifier = { name = uncivilized_isolationism duration = -1 }
-                add_country_modifier = { name = sakoku duration = -1 }
-
-            }
             #Emperor Faction
             any_country = {
                 limit = {
                     exists = yes
                     OR = {
-                        tag = CHO
-                        tag = SAT
-                        tag = TOS
-                        tag = JAP
+                        tag = JPN
                     }
                 }
-                set_country_flag = rangaku_applied
                 any_pop = {
                     ideology = { value = conservative factor = 0.5 }
                     ideology = { value = reactionary factor = 0.1 }
                 }
                 add_country_modifier = { name = uncivilized_isolationism duration = -1 }
-                add_country_modifier = { name = rangaku duration = -1 }
                 random_owned = {
-                    limit = { province_id = 1661 }
+                    limit = { province_id = 1656 }
                     any_pop = { ideology = { value = liberal factor = 0.2 } }
                     add_province_modifier = { name = foreign_trading_post duration = -1 }
                 }

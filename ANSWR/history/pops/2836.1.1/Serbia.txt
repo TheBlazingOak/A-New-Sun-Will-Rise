@@ -32,30 +32,6 @@
         size = 500
     }
 
-    clergymen = {
-        culture = croat
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = croat
-        religion = catholic
-        size = 200
-    }
-
-    soldiers = {
-        culture = croat
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = croat
-        religion = catholic
-        size = 3675
-    }
-
     aristocrats = {
         culture = austro_german
         religion = catholic
@@ -274,30 +250,6 @@
         culture = gypsy
         religion = catholic
         size = 1500
-    }
-
-    clergymen = {
-        culture = croat
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = croat
-        religion = catholic
-        size = 250
-    }
-
-    soldiers = {
-        culture = croat
-        religion = catholic
-        size = 100
-    }
-
-    serfs = {
-        culture = croat
-        religion = catholic
-        size = 4625
     }
 
     clergymen = {

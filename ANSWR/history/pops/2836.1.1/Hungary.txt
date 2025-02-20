@@ -87,36 +87,6 @@
         religion = catholic
         size = 38545
     }
-
-    officers = {
-        culture = croat
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = croat
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = croat
-        religion = catholic
-        size = 400
-    }
-
-    soldiers = {
-        culture = croat
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = croat
-        religion = catholic
-        size = 7435
-    }
 }
 #Dunautul Region (1892000)
 #under the rule of Austria in 1836

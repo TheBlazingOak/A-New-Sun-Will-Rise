@@ -1,0 +1,128 @@
+#Aiko's Empire
+political_decisions = {
+	the_land_of_the_fallen_sun = {
+	picture = become_japan
+		potential = {
+			tag = JPN
+			owns = 1649
+			NOT = { has_country_flag = land_of_the_fallen_sun }
+			NOT = { has_country_flag = kyowatos_republic }
+			NOT = {has_country_flag = dreams_of_domination}
+		}
+		allow = {
+			prestige = 20
+			has_country_flag = crown_princess
+			has_country_flag = the_genius
+			year = 2840
+		}
+		effect = {
+			set_country_flag = land_of_the_fallen_sun
+			change_tag = KOS
+			nationalvalue = nv_productivity
+			all_core = {
+        		remove_core = JPN
+        		add_core = KOS
+        	}
+        	THIS = {country_event = { id = 211204 } }
+		}	
+	}
+	kyowatos_republic = {
+		potential = {
+			tag = JPN
+			owns = 1649
+			NOT = { has_country_flag = land_of_the_fallen_sun }
+			NOT = { has_country_flag = kyowatos_republic }
+			has_country_flag = no_koshitsu
+		}
+		allow = {
+			has_country_flag = no_koshitsu
+			civilized = yes
+			OR = { government = bourgeois_dictatorship government = democracy }
+		}
+		effect = {
+			prestige = 5
+			set_country_flag = kyowatos_republic
+			political_reform = wealth_voting
+			government = democracy
+			change_tag = KYO
+			nationalvalue = nv_liberty
+			all_core = {
+        		remove_core = JPN
+        		add_core = KYO
+        	}
+		}	
+	}
+	the_national_assembly = {
+	picture = japan_land_tax_reform
+		potential ={
+			OR = { tag = JPN tag = KYO }
+			owns = 1649
+			NOT = { has_country_flag = the_national_assembly }
+			NOT = { has_country_flag = dreams_of_domination }
+			OR = { government = bourgeois_dictatorship government = democracy }
+		}
+		allow = {
+			has_country_flag = no_koshitsu
+			government = bourgeois_dictatorship
+		}
+		effect = {
+			prestige = 5
+			set_country_flag = the_national_assembly
+			upper_house = {
+			ideology = liberal
+			value = 0.25
+			}
+			add_country_modifier = { name = national_assembly duration = -1 }
+			
+		}	
+	}
+	atorantisu_conservatory = {
+	picture = ancient_city
+		potential = {
+			OR = { tag = JPN tag = KYO tag = KOS }
+			owns = 1649
+			NOT = { has_country_flag = atorantisu_conservatory }
+		}
+		allow = {
+			OR = { has_country_flag = no_koshitsu has_country_flag = crown_princess }
+			money = 20000
+		}
+		effect = {
+			prestige = 5
+			set_country_flag = atorantisu_conservatory
+			treasury = -20000
+			1650 = { add_province_modifier = { name = atorantisu_conservatory duration = -1 } }
+		}	
+	}
+	northern_shima = {
+	picture = japan_map
+		potential = {
+			OR = { tag = JPN tag = KYO tag = KOS }
+			NOT = { has_country_flag = northern_shima }
+		}
+		allow = {
+		JAP_1672 = { owned_by = THIS }
+		JAP_1088 = { owned_by = THIS }
+		}
+		effect = {
+			prestige = 10
+			set_country_flag = northern_shima
+		}
+	}
+	southern_shima = {
+	picture = japan_map
+		potential = {
+			OR = { tag = JPN tag = KYO tag = KOS }
+			NOT = { has_country_flag = southern_shima }
+		}
+		allow = {
+		JAP_1665 = { owned_by = THIS }
+		JAP_1640 = { owned_by = THIS }
+		JAP_1660 = { owned_by = THIS }
+		}
+		effect = {
+			prestige = 10
+			set_country_flag = southern_shima
+		}
+	}
+}

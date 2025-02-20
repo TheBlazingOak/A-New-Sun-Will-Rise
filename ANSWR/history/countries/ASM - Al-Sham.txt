@@ -1,11 +1,11 @@
-capital = 1649
-primary_culture = japanese
-religion = mahayana
+capital = 902
+primary_culture = mashriqi
+culture = neopunic
+religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.40
-prestige = 10
+literacy = 0.50
 
 # Political reforms
 slavery = no_slavery
@@ -27,38 +27,31 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # New Reforms
-conscription = four_year_draft
+conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
-border_policy = closed_borders
+border_policy = open_borders
 
-set_country_flag = mahayana_country
-set_country_flag = exempt_from_vassal_contribution
-
-ruling_party = JAP_reactionary
+ruling_party = SYR_fascist
+last_election = 2836.1.1
 upper_house = {
     fascist = 0
-    liberal = 17
-    conservative = 45
-    reactionary = 38
+    liberal = 35
+    conservative = 55
+    reactionary = 10
     anarcho_liberal = 0
     socialist = 0
     communist = 0
 }
-# Starting Consciousness
-consciousness = 3
-nonstate_consciousness = 1
 
+set_country_flag = sunni_country
+schools = developing_tech_school
+
+foreign_artillery = yes_foreign_artillery
 foreign_weapons = yes_foreign_weapons
-army_schools = yes_army_schools
-land_reform = yes_land_reform
-education_reform = yes_education_reform
 
 # Technologies
 flintlock_rifles = 1
-post_nelsonian_thought = 1
-
-# Inventions
-#bottling_process = yes
+bronze_muzzle_loaded_artillery = 1

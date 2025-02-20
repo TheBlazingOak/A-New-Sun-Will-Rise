@@ -1,6 +1,7 @@
 owner = SJR
 controller = SJR
 add_core = SJR
+add_core = RLP
 trade_goods = fruit
 terrain = steppe
 life_rating = 35
