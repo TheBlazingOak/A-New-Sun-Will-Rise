@@ -4,18 +4,18 @@ religion = protestant
 government = hms_government
 plurality = 0.1
 nationalvalue = nv_autocracy
-literacy = 0.45
+literacy = 0.67
 civilized = yes
 
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = free_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = underground_parties
+political_parties = gerrymandering
 
 # Social Reforms
 wage_reform = no_minimum_wage

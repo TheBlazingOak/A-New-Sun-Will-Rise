@@ -63,3 +63,5 @@ hot_blast = 1
 basic_chemistry = 1
 piston_steam_engine = 1
 late_enlightenment_philosophy = 1
+
+set_country_flag = new_world_nation

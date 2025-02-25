@@ -1,0 +1,250 @@
+NEN = { value = -200 }
+CRA = { value = -200 }
+PAW = { value = -200 }
+RSB = { value = -200 }
+GMJ = { value = -200 }
+leader = {
+    name = "Zi Tai"
+    date = 2836.1.1
+    type = land
+    personality = skilled
+    background = powerful_friends
+    prestige = 0.25
+}
+
+leader = {
+    name = "Jiang Lan"
+    date = 2836.1.1
+    type = land
+    personality = timid
+    background = gifted_administrator
+    prestige = 0.15
+}
+
+leader = {
+    name = "Cheng Mu"
+    date = 2836.1.1
+    type = land
+    personality = scared
+    background = professor
+    prestige = 0.05
+}
+
+leader = {
+    name = "Xie Yang"
+    date = 2836.1.1
+    type = sea
+    personality = soft
+    background = cartographer
+    prestige = 0.15
+}
+
+leader = {
+    name = "Cui Xun"
+    date = 2836.1.1
+    type = sea
+    personality = careless
+    background = immoral
+    prestige = 0.05
+}
+
+army = {
+    name = "The Madimosi"
+    location = 1543
+    regiment = {
+        name= "1. Madimosi"
+        type = infantry
+        home = 1543
+    }
+
+    regiment = {
+        name = "2. Madimosi"
+        type = infantry
+        home = 1543
+    }
+
+    regiment = {
+        name = "3. Madimosi"
+        type = infantry
+        home = 1543
+    }
+    regiment = {
+        name = "4. Madimosi"
+        type = infantry
+        home = 1543
+    }
+    regiment = {
+        name = "5. Madimosi"
+        type = infantry
+        home = 2221
+    }
+
+    regiment = {
+        name= "I. Cavalry"
+        type = cavalry
+        home = 1605
+    }
+
+    regiment = {
+        name= "I. Artillery"
+        type = artillery
+        home = 1477
+    }
+
+}
+army = {
+    name = "Xiaofang Garrison"
+    location = 1569
+    regiment = {
+        name= "1. Madimosi"
+        type = infantry
+        home = 1565
+    }
+    
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1565
+    }
+
+}
+army = {
+    name = "Shangdao Garrison"
+    location = 1571
+    regiment = {
+        name= "1. Madimosi"
+        type = infantry
+        home = 1571
+    }
+    regiment = {
+        name= "2. Madimosi"
+        type = infantry
+        home = 1571
+    }
+    
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1563
+    }
+
+    regiment = {
+        name= "1. Artillery"
+        type = artillery
+        home = 1564
+    }
+
+    regiment = {
+        name= "2. Artillery"
+        type = artillery
+        home = 1568
+    }
+
+}
+navy = {
+    name = "The Haijun"
+    location = 1543 #Heicheng
+    ship = {
+        name= "Tao"
+        type = manowar
+    }
+
+    ship = {
+        name= "Heicheng"
+        type = manowar
+    }
+
+    ship = {
+        name= "Delan"
+        type = frigate
+    }
+
+    ship = {
+        name= "Wuying"
+        type = frigate
+    }
+
+    ship = {
+        name= "Chang"
+        type = frigate
+    }
+
+    ship = {
+        name= "Peng"
+        type = frigate
+    }
+
+    ship = {
+        name= "Tian"
+        type = frigate
+    }
+
+    ship = {
+        name= "Zhong"
+        type = frigate
+    }
+
+    ship = {
+        name= "Jiahao"
+        type = frigate
+    }
+
+    ship = {
+        name= "Lin"
+        type = frigate
+    }
+
+    ship = {
+        name= "Fen"
+        type = frigate
+    }
+
+    ship = {
+        name= "1 Yunshu Chuan"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "2 Yunshu Chuan"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "3 Yunshu Chuan"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "4 Yunshu Chuan"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "5 Yunshu Chuan"
+        type = clipper_transport
+    }
+    ship = {
+        name= "6 Yunshu Chuan"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "7 Yunshu Chuan"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "8 Yunshu Chuan"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "9 Yunshu Chuan"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "10 Yunshu Chuan"
+        type = clipper_transport
+    }
+}

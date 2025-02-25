@@ -110,5 +110,22 @@ political_decisions = {
             }
         }
     }
+    the_fourth_brother = {
+
+        potential = {
+            tag = NIT
+            AUS_623 = { owned_by = GLC } 
+            AUS_641 = { owned_by = HUN }
+        }
+
+        allow = {
+            prestige = 15
+            }
+
+        effect = {
+            AUS_641 = { add_core = THIS }
+            AUS_623 = { add_core = THIS }
+        }
+    }
 #Political Decisons Bracket
 }

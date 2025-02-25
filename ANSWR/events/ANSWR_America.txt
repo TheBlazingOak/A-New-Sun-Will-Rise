@@ -149,52 +149,6 @@ country_event = {
         set_country_flag = colonized_new_mexico
     }
 }
-#Canada
-country_event = {
-	id = 52260
-	title = "EVTNAME52260"
-	desc = "EVTDESC52260"
-	picture = hudson_river
-
-	trigger = {
-    	AND = { OR = { tag = WIN tag = ONT } ai = yes }
-    	year = 2840
-    	}
-	option = {
-	name = "EVTOPTA52260" #How dare they!
-		change_tag = WNT
-		CAN_46 = {add_core = THIS }
-		CAN_50 = {add_core = THIS }
-		WIN_2596 = {add_core = THIS }
-		ENG_36 = {add_core = THIS }
-		CAN_49 = {add_core = THIS }
-		inherit = WIN
-		inherit = ONT
-	}
-}
-country_event = {
-	id = 52261
-	title = "EVTNAME52260"
-	desc = "EVTDESC52260"
-	picture = hudson_river
-
-	trigger = {
-		ai = no
-    	OR = { tag = WIN tag = ONT}
-    	year = 2840
-    	}
-	option = {
-	name = "EVTOPTA52260" #How dare they!
-		change_tag = WNT
-		CAN_46 = {add_core = THIS }
-		CAN_50 = {add_core = THIS }
-		WIN_2596 = {add_core = THIS }
-		ENG_36 = {add_core = THIS }
-		CAN_49 = {add_core = THIS }
-		inherit = WIN
-		inherit = ONT
-	}
-}
 #Contact with the Mormons Failure - Cascadia
 country_event = {
 	id = 52107

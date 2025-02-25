@@ -1,3 +1,32 @@
+army = {
+    name = "Garrison of the Nantou"
+    location = 2681
+    regiment = {
+        name= "1. Brigade"
+        type = irregular
+        home = 1496
+    }
+    regiment = {
+        name= "2. Brigade"
+        type = irregular
+        home = 1499
+    }
+    regiment = {
+        name= "3. Brigade"
+        type = irregular
+        home = 1499
+    }
+    regiment = {
+        name= "4. Brigade"
+        type = irregular
+        home = 3360
+    }
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 2562
+    }
+}
 
 navy = {
     name = "Taiwan Coast Guard"

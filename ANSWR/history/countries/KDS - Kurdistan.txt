@@ -1,12 +1,11 @@
 capital = 893
 primary_culture = kurdish
-culture = turkish
 religion = sunni
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_tradition
-literacy = 0.15
-civilized = yes
+literacy = 0.45
+civilized = no
 is_releasable_vassal = no
 
 # Political reforms

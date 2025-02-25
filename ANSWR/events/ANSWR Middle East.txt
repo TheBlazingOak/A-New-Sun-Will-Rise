@@ -7,6 +7,7 @@ country_event = {
 	
 	trigger = {
 		OR = { tag = LBN tag = SYR}
+		NOT = { AND = { AND = { OR = { tag = LBN tag = SYR } ai = no } ai = yes } }
 		NOT = { has_country_flag = al_sham_takeover }
 		NOT = { has_global_flag = al_sham_fallen }
 	}
@@ -79,5 +80,28 @@ country_event = {
 		PAN_1224 = { add_core = NPE }
 		BDK_1210 = { add_core = NPE }
 		PNJ_1288 = { add_core = NPE }
+	}
+}
+#They choose us
+country_event = {
+	id = 211311
+	title = "EVTNAME211311"
+	desc = "EVTDESC211311"
+	major = yes
+	trigger = {
+		tag = NPE
+		prestige = 25
+		ideological_thought = 1
+		NOT = { he_choose_us }
+	}
+	mean_time_to_happen = {
+        months = 12
+        }
+	option = {
+		name = "EVTOPTA211310"
+		set_global_flag = persian_crisis
+		prestige = 5
+		KDS = { all_core = { add_core = NPE } }
+		AZB = { all_core = { add_core = NPE } }
 	}
 }

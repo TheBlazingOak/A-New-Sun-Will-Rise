@@ -23,7 +23,8 @@ muslim;Muslim;;;;;;;;;;;;;
 christian;Christian;;;;;;;;;;;;;
 eastern;Eastern Religions;;;;;;;;;;;;;
 pagan;Pagans;;;;;;;;;;;;;
-jefferson_method_desc;The Jefferson Method is a highest averages method for allocating seats, and is thus a type of party-list proportional representation. Proportional representation systems aim to allocate seats to parties approximately in proportion to the number of votes received. For example, if a party wins one-third of the votes then it should gain about one-third of the seats. In general, exact proportionality is not possible because these divisions produce fractional numbers of seats. As a result, several methods have been devised which ensure that the parties' seat allocations, which are of course whole numbers, are as proportional as possible. In comparison with the Sainte-Lague method, §Ythe Jefferson Method slightly favours large parties and coalitions over scattered small parties§W.;;;;;;;;;;;;;
+jefferson_method_title;Weiss Method;;;;;;;;;;;;;
+jefferson_method_desc;The Weiss Method is a highest averages method for allocating seats, and is thus a type of party-list proportional representation. Proportional representation systems aim to allocate seats to parties approximately in proportion to the number of votes received. For example, if a party wins one-third of the votes then it should gain about one-third of the seats. In general, exact proportionality is not possible because these divisions produce fractional numbers of seats. As a result, several methods have been devised which ensure that the parties' seat allocations, which are of course whole numbers, are as proportional as possible. In comparison with the Sainte-Lague method, §Ythe Jefferson Method slightly favours large parties and coalitions over scattered small parties§W.;;;;;;;;;;;;;
 precious_goods;Precious Goods;;;;;;;;;;;;;
 precious_goods_RGO_SIZE;Precious Goods Market Size;;;;;;;;;;;;;
 PARTY_LOYALTY_EFFECT_DESC;Loyalty towards §Y$PARTY$§W in §Y$PROV$§W will be changed by §Y$VALUE$§W.\n;;;;;;;;;;;;;
@@ -31,7 +32,7 @@ MODIFY_RELATION_EFFECT;§Y$SOURCE$§!'s relation with §Y$TARGET$§! changed with a 
 IS_NOT_ACCEPTED_CULTURE;Is NOT an accepted culture.;;;;;;;;;;;;;
 canned_food_factory;Cannery;;;;;;;;;;;;;
 ALL_CORE_PROVINCE_THAT;For all core provinces \n;;;;;;;;;;;;;
-TOPBAR_POPULATION;Our adult male population is $CURR$. Our adult male population has changed by $CHANGE$ in the last §Y$DAYS$§! days.;;;;;;;;;;;;;
+TOPBAR_POPULATION;Our adult population is $CURR$. Our adult population has changed by $CHANGE$ in the last §Y$DAYS$§! days.;;;;;;;;;;;;;
 precious_metal;Precious Metals;;;;;;;;;;;;;
 precious_metal_RGO_SIZE;Precious Metals Mine Size;;;;;;;;;;;;;
 cattle;Livestock;;;;;;;;;;;;;
@@ -1004,3 +1005,5 @@ bottom_of_the_earth_desc;Far away from all the problems of the World, the Kaap h
 mandingo;Mande;;;;;;;;;;;;;
 japanese;Tomin;;;;;;;;;;;;;
 koshitsu;Koshitsu;;;;;;;;;;;;;
+terrassier;Terrassier;;;;;;;;;;;;;
+new_world_french;Nouveau Monde;;;;;;;;;;;;;

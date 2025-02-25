@@ -1,16 +1,16 @@
 capital = 923
 primary_culture = assyrian
 religion = catholic
-government = democracy
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.06
-civilized = yes
+literacy = 0.46
+civilized = no
 
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = landed_voting
+vote_franschise = no_voting
 public_meetings = no_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
@@ -37,7 +37,7 @@ border_policy = open_borders
 set_country_flag = catholic_country
 
 ruling_party = ARM_conservative
-last_election = 1834.1.1
+last_election = 2834.1.1
 upper_house = {
     fascist = 0
     liberal = 35
@@ -49,3 +49,10 @@ upper_house = {
 }
 
 schools = developing_tech_school
+
+foreign_artillery = yes_foreign_artillery
+foreign_weapons = yes_foreign_weapons
+
+# Technologies
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1

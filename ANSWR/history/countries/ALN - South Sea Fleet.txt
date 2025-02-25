@@ -3,10 +3,11 @@ primary_culture = lanzu
 culture = cantan
 religion = mahayana
 government = trading_republic
-plurality = 0.0
+plurality = 5.0
 nationalvalue = nv_equality
 literacy = 0.28
-civilized = no
+civilized = yes
+prestige = 5
 
 # Political reforms
 slavery = no_slavery

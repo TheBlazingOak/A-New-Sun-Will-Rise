@@ -29,4 +29,35 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	schweizily_dreams = {
+		potential = {
+			tag = SWI
+			NOT = { has_country_flag = schweizily_acheived }
+			has_country_flag = schweizily_dreams
+		}
+		
+		allow = {
+			war = no
+			749 = { owned_by = THIS }
+			754 = { owned_by = THIS }
+			747 = { owned_by = THIS }
+			738 = { owned_by = THIS }
+			756 = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+		}
+		
+		effect = {
+			set_country_flag = schweizily_acheived
+			prestige = 5
+			change_tag = SIT
+			all_core = {
+				remove_core = SWI
+				add_core = SIT
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

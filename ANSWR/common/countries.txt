@@ -45,7 +45,7 @@ AMZ        ="countries/Amazon Provinces.txt"
 SJR        ="countries/Janeiro.txt"
 PTG        ="countries/Patagonia.txt"
 NUH        ="countries/Vinhia.txt"
-
+NSP        ="countries/NESP.txt"
 ##Western Europe ANSWR 
 ANI        = "countries/Anglia.txt"
 CHS        = "countries/Chester.txt"
@@ -70,6 +70,7 @@ NOU        = "countries/Nouverts.txt"
 NSO        = "countries/New Scotland.txt"
 ASL        = "countries/Anti-Stales League.txt"
 BRQ		   = "countries/Barce-Euskarra.txt"
+SIT        = "countries/Schweizily.txt"
 
 ## Central Europe ANSWR 
 APU        = "countries/Apulia.txt"

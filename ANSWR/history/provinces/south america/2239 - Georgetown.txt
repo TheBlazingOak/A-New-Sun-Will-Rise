@@ -1,6 +1,6 @@
-owner = AMZ
-controller = AMZ
-add_core = AMZ
+owner = NSP
+controller = NSP
+add_core = NSP
 trade_goods = fruit
 terrain = plains
-life_rating = 15
+life_rating = 31

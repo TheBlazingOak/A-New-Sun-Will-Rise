@@ -1,19 +1,149 @@
 #SWISS EVENTS#
-#A tale to boot
+#The Parma Sphere
+country_event = {
+    id = 224100
+    title = "EVTNAME224100"
+    desc = "EVTDESC224100"
+    picture = autocracy
+    mean_time_to_happen = { months = 24 }
+    trigger = {
+        tag = SWI
+        NOT = { ITA = { exists = yes } }
+        NOT = {has_country_flag = the_parma_sphere }
+        PAR = { exists = yes }
+        year = 2840
+    }
+    #We are intrested in Parma not Italy
+    option = {
+    name = "EVTOPTA224100"
+        set_country_flag = the_parma_sphere
+        infamy = -3
+        prestige = -2 
+        relation = {
+            who = PAR
+            value = 100
+        }
+        diplomatic_influence = {
+            who = PAR
+            value = 100
+        }
+        create_alliance = PAR
+    }
+    #Why? We can't let the peninula form
+    option = {
+    name = "EVTOPTB224100"
+        set_country_flag = the_parma_sphere
+        set_global_flag = italian_dreams
+        infamy = 1
+        prestige = 2
+        relation = {
+            who = PAR
+            value = -100
+        }
+    }
+}
+#The Parma Revolution (Parma)
 country_event = {
     id = 224101
     title = "EVTNAME224101"
     desc = "EVTDESC224101"
+    picture = french_revolution_1848
+    mean_time_to_happen = { months = 12 }
+    trigger = {
+        tag = PAR
+        NOT = { ITA = { exists = yes } }
+        NOT = {has_global_flag = italian_dreams}
+        SWI = { exists = yes }
+    }
+    option = {
+    name = "EVTOPTA224101"
+        set_global_flag = anti_schweiz
+        
+        SWI = { country_event = { id = 224102 }}
+        government = democracy
+        political_reform = universal_voting
+    }
+
+}
+#The Parma Revolution (Schweiz)
+country_event = {
+    id = 224102
+    title = "EVTNAME224102"
+    desc = "EVTDESC224102"
+    picture = autocracy
+    is_triggered_only = yes
+    #We were helping them
+    option = {
+    name = "EVTOPTA224102"
+        set_country_flag = intervention_in_parma
+        prestige = -5
+        add_casus_belli = {
+                target = PAR
+                type = make_puppet
+                months = 120
+            }
+    }
+
+}
+#End of the Parma Revolution
+country_event = {
+    id = 224103
+    title = "EVTNAME224103"
+    desc = "EVTDESC224103"
     picture = autocracy
     mean_time_to_happen = { days = 14 }
     trigger = {
         tag = SWI
-        NOT = { exists = ITA }
-        NOT = {has_country_flag = tale_to_boot}
+        NOT = { ITA = { exists = yes } }
+        NOT = {OR = { has_country_flag = satisfaction_in_schweiz has_country_flag = schweizily_dreams }
+        PAR = { exists = yes }
+        PAR = { vassal_of = SWI }
     }
+    }
+    #Expansionist (Schweizily)
     option = {
-    name = "EVTOPTA224101"
-        set_country_flag = tale_to_boot
+    name = "EVTOPTA224103"
+        set_country_flag = schweizily_dreams
+        prestige = 5
     }
 
-}
+    #The Schweiz-Pakt
+    option = {
+    name = "EVTOPTB224103"
+        set_country_flag = satisfaction_in_schweiz
+        prestige = 5
+        TUS_744 = { add_core = SWI }
+        PAP_741 = { add_core = SWI }
+        inherit = PAR
+        }
+    }
+#Tale to Boot
+country_event = {
+    id = 224104
+    title = "EVTNAME224104"
+    desc = "EVTDESC224104"
+    picture = autocracy
+    mean_time_to_happen = { months = 36 }
+    trigger = {
+        tag = SWI
+        NOT = { ITA = { exists = yes } }
+        has_country_flag = schweizily_dreams
+        NOT = {OR = { has_country_flag = schweizily_expansion  }}
+        SWI = { exists = yes }
+        PAR = { vassal_of = SWI }
+    }
+    #Expansionist (Schweizily)
+    option = {
+    name = "EVTOPTA224104"
+        set_country_flag = schweizily_expansion
+        infamy = 7
+        inherit = PAR
+        PAR = {
+            all_core = {
+                remove_core = PAR
+                add_core = SWI
+            }
+        }
+        }
+
+    }

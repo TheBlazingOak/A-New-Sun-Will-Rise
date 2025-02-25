@@ -762,3 +762,112 @@ country_event ={
             nationalvalue = nv_equality
         }
 }
+#Partition of the Vlanspublyk
+country_event ={
+    id = 222061
+    title = "EVTNAME222061"
+    desc = "EVTDESC222061"
+    
+    trigger = {
+        OR = { tag = OUD tag = PRF }
+        VLA = { exists = yes }
+        VLA = {is_independent = yes }
+        nationalism_n_imperialism = 1
+        NOT = { has_global_flag = partition_of_vlansia }
+        NOT = { has_global_flag = refused_partition_of_vlansia }
+    }
+
+    mean_time_to_happen = { months = 60 }
+
+    option = {
+        name = "EVTOPTA222061"
+            prestige = -5
+            infamy = 3
+            add_casus_belli = {
+                target = VLA
+                type = make_puppet
+                months = 120
+            }
+            set_global_flag = partition_of_vlansia
+            ai_chance = { chance = 95 }
+        }
+    option = {
+        name = "EVTOPTB222061"
+            prestige = 5
+            relation = { who = VLA value = 150}
+            set_global_flag = refused_partition_of_vlansia
+            ai_chance = { chance = 5 }
+        }
+}
+
+#Partition of the Vlanspublyk Successful
+country_event ={
+    id = 222062
+    title = "EVTNAME222062"
+    desc = "EVTDESC222062"
+    
+    trigger = {
+        OR = { tag = OUD tag = PRF }
+        VLA = { exists = yes }
+        VLA = { is_independent = no }
+        VLA = { vassal_of = THIS }
+        HAN_528 = { owned_by = VLA }
+        HAN_534 = { owned_by = VLA }
+        has_global_flag = partition_of_vlansia
+    }
+
+    mean_time_to_happen = { months = 60 }
+
+    option = {
+        name = "EVTOPTA222062"
+            prestige = 5
+            HAN_528 = { secede_province = THIS }
+            HAN_534 = { secede_province = THIS }
+            relation = { who = SAP value = 100 }
+            SAP = { country_event = { id = 222063 } }
+        }
+    option = {
+        name = "EVTOPTB222062"
+            prestige = -5
+            infamy = 5
+            HAN_528 = { secede_province = THIS }
+            HAN_534 = { secede_province = THIS }
+            DEN_367 = { secede_province = THIS }
+            HOL_369 = { secede_province = THIS }
+            relation = { who = SAP value = -200 }
+            SAP = { country_event = { id = 222064 } }
+        }
+}
+#Partition of the Vlanspublyk Skandi's Side
+country_event ={
+    id = 222063
+    title = "EVTNAME222063"
+    desc = "EVTDESC222063"
+    
+    is_triggered_only = yes
+
+    #Jylland
+    option = {
+        name = "EVTOPTA222063"
+            DEN_367 = { secede_province = THIS }
+            HOL_369 = { secede_province = THIS }
+            DEN_367 = { add_core = THIS }
+            HOL_369 = { add_core = THIS }
+        }
+}
+#Partition of the Vlanspublyk Skandi's Side
+country_event ={
+    id = 222064
+    title = "EVTNAME222064"
+    desc = "EVTDESC222064"
+    
+    is_triggered_only = yes
+
+    #Jylland
+    option = {
+        name = "EVTOPTA222064"
+            infamy = -2
+            DEN_367 = { add_core = THIS }
+            HOL_369 = { add_core = THIS }
+        }
+}

@@ -1,0 +1,100 @@
+leader = {
+    name = "Mo Meng"
+    date = 2836.1.1
+    type = land
+    personality = shirker
+    background = drillmaster
+    prestige = 0.15
+}
+leader = {
+    name = "Liao Yating"
+    date = 2836.1.1
+    type = land
+    personality = skilled
+    background = hated
+    prestige = 0.05
+}
+
+army = {
+    name = "Garrison of the Wenzhou"
+    location = 1611
+    regiment = {
+        name= "1. Brigade"
+        type = irregular
+        home = 1611
+    }
+    regiment = {
+        name= "2. Brigade"
+        type = irregular
+        home = 3340
+    }
+    regiment = {
+        name= "3. Brigade"
+        type = irregular
+        home = 3340
+    }
+    regiment = {
+        name= "4. Brigade"
+        type = irregular
+        home = 3340
+    }
+    regiment = {
+        name= "5. Brigade"
+        type = irregular
+        home = 1604
+    }
+    regiment = {
+        name= "6. Brigade"
+        type = irregular
+        home = 1604
+    }
+    regiment = {
+        name= "7. Brigade"
+        type = irregular
+        home = 1607
+    }
+    regiment = {
+        name= "8. Brigade"
+        type = irregular
+        home = 1482
+    }
+    regiment = {
+        name= "9. Brigade"
+        type = irregular
+        home = 1482
+    }
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1483
+    }
+}
+army = {
+    name = "Garrison of the Ningbo"
+    location = 1608
+    regiment = {
+        name= "1. Brigade"
+        type = irregular
+        home = 1609
+    }
+    regiment = {
+        name= "2. Brigade"
+        type = irregular
+        home = 1609
+    }
+    regiment = {
+        name= "3. Brigade"
+        type = irregular
+        home = 1609
+    }
+    regiment = {
+        name= "4. Brigade"
+        type = irregular
+        home = 1609
+    }
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1609
+    }
+}

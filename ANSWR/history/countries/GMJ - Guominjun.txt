@@ -1,11 +1,15 @@
 capital = 1600
 primary_culture = ping
+culture = nanfaren
+culture = yue
+culture = cantan
 religion = mahayana
 government = presidential_dictatorship
-plurality = 0.0
+plurality = 5.0
 nationalvalue = nv_tradition
-literacy = 0.03
+literacy = 0.25
 civilized = yes
+prestige = 5
 
 # Political reforms
 slavery = no_slavery

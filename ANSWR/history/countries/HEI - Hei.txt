@@ -1,11 +1,14 @@
 capital = 1543
 primary_culture = lanzu
+culture = cantan
+culture = yue
 religion = xifang
 government = trading_republic
-plurality = 3.0
+plurality = 5.0
 nationalvalue = nv_productivity
-literacy = 0.14
+literacy = 0.21
 civilized = yes
+prestige = 5
 
 # Political reforms
 slavery = no_slavery
@@ -58,3 +61,5 @@ flintlock_rifles = 1
 clipper_design = 1
 steamers = 1
 post_nelsonian_thought = 1
+
+oob = "HEI_oob.txt"

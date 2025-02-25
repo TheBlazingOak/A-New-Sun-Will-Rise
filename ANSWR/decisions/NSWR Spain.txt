@@ -65,32 +65,8 @@ political_decisions = {
             exists = yes
             OR = { primary_culture = basque primary_culture = catalan }
             OR = { has_global_flag = valencia_petition_ignored }
-            NOT = { OR = { CAT = { ai = no } BSQ = { ai = no }} }
-            }
-
-            allow = {
-                OR = { nationalism_n_imperialism = 1
-                has_country_flag = preparing_for_valencia_war
-                }
-            }
-
-            effect = {
-                prestige = 15
-                change_tag = BRQ
-                add_accepted_culture = basque
-                add_accepted_culture = catalan
-                SPA_503 = { add_core = THIS remove_core = CAT }
-                SPA_498 = { add_core = THIS remove_core = CAT }
-                SPA_492 = { add_core = THIS remove_core = BSQ }
-            }
-
-        ai_will_do = { factor = 1 }
-    }
-    anti_jardin_league_player = {
-        potential = {
-            exists = yes
-            OR = { primary_culture = basque primary_culture = catalan }
-            NOT = { THIS = { ai = yes } }
+            NOT = { AND = { AND = { OR = { tag = WIN tag = ONT } ai = no } ai = yes } }
+            NOT = { has_country_flag = anti_jardin}
             }
 
             allow = {
@@ -108,11 +84,10 @@ political_decisions = {
                 SPA_503 = { add_core = THIS remove_core = CAT }
                 SPA_498 = { add_core = THIS remove_core = CAT }
                 SPA_492 = { add_core = THIS remove_core = BSQ }
-                inherit = CAT
-                inherit = BSQ
+                set_country_flag = anti_jardin
             }
 
-        ai_will_do = { factor = 0 }
+        ai_will_do = { factor = 1 }
     }
     barce_sympathies_one = {
         potential = {
@@ -176,6 +151,7 @@ political_decisions = {
         potential = {
         tag = JAR
         OR = {AND = { has_global_flag = barce_attack 503 = {owned_by = THIS } } has_global_flag = barce_complacent }
+        NOT = {has_country_flag = barce_cores}
         }
         allow = {
             prestige = 30
@@ -185,6 +161,7 @@ political_decisions = {
         effect = {
             SPA_503 = { add_core = THIS }
             SPA_498 = { add_core = THIS }
+            set_country_flag = barce_cores
         }
     }
 }

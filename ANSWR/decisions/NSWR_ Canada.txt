@@ -1,0 +1,28 @@
+political_decisions = {
+	#Winnipeg-Ontario
+	union_of_the_moose = {
+		potential = {
+			OR = { tag = WIN tag = ONT }
+			NOT = { AND = { AND = { OR = { tag = WIN tag = ONT } ai = no } ai = yes } }
+			year = 2840
+			NOT = { has_country_flag = winnipeg_ontario }
+		}
+
+		allow = {
+			prestige = 15
+	    }
+
+		effect = {
+			set_country_flag = winnipeg_ontario
+		    change_tag = WNT
+			CAN_46 = {add_core = THIS }
+			CAN_50 = {add_core = THIS }
+			WIN_2596 = {add_core = THIS }
+			ENG_36 = {add_core = THIS }
+			CAN_49 = {add_core = THIS }
+			inherit = WIN
+			inherit = ONT
+		}
+#End of political_decisions brackets
+
+}

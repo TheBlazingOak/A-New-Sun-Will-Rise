@@ -139,6 +139,7 @@ From;To;Type;Through;Data;Comment
 1495;1499;sea;2823;0;Hainan Strait
 1457;1461;sea;2849;0;Tacloban Strait
 1640;1660;land;2843;0;Fukuoka Strait
+1651;1650;land;2843;0;Atorantisu Strait
 1642;1672;sea;2841;0;Hakodate Strait
 #1664;1666;land;2843;0;Matsuyama Strait
 1667;1659;land;2843;0;Setto Strait
@@ -208,12 +209,12 @@ From;To;Type;Through;Data;Comment
 1495;1499;sea;2823;0;Hainan Strait
 1457;1461;sea;2849;0;Tacloban Strait
 1640;1660;sea;2843;0;Fukuoka Strait
-1642;1643;sea;2841;0;Hakodate Strait
-1661;1660;sea;2841;0;Nagasaki Strait
-1661;1664;sea;2841;0;Nagasaki Strait
+1642;1643;land;2841;0;Hakodate Strait
+1661;1660;land;2841;0;Nagasaki Strait
+1661;1664;land;2841;0;Nagasaki Strait
 #1643;1087;sea;2831;0;Sakhalin Strait #removed
-1664;1666;sea;2843;0;Matsuyama Strait
-1667;1659;sea;2843;0;Setto Strait
+1663;1666;sea;2843;0;Matsuyama Strait
+1667;1655;land;2843;0;Setto Strait
 2465;1462;sea;2850;0;Fuerte Pilaria Strait
 3348;3341;sea;2850;0;Palo Strait
 2465;3341;sea;2850;0;Palo-Cebu Strait
