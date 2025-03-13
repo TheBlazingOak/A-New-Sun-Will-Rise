@@ -436,9 +436,7 @@ new_world_war = {
         war = yes
         exists = yes
         OR = {
-            capital_scope = { continent = north_america }
-            capital_scope = { continent = south_america }
-            capital_scope = { continent = australia_new_zealand }
+            has_country_flag = new_world_nation
         }
     }
 
@@ -466,6 +464,6 @@ disable_crisis = {
         exists = yes
         NOT = { year = 2886 }
     }
-    tension_decay = -1.0
+    tension_decay = -1.5
     icon = 16
 }

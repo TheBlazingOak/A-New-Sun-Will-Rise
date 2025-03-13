@@ -3644,7 +3644,7 @@ china_acquire_state = {
     months = 12
     crisis = no
 
-    badboy_factor = 0
+    badboy_factor = 1.5
     prestige_factor = 0
     peace_cost_factor = 1
     penalty_factor = 1
@@ -3662,6 +3662,7 @@ china_acquire_state = {
 
     can_use = {
         NOT = { is_our_vassal = THIS }
+        NOT = { year = 2847}
         neighbour = THIS
         OR = {
             any_owned_province = {

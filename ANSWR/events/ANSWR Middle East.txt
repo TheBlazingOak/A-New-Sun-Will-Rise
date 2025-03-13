@@ -82,26 +82,27 @@ country_event = {
 		PNJ_1288 = { add_core = NPE }
 	}
 }
-#They choose us
+#The Call of the Shah
 country_event = {
-	id = 211311
-	title = "EVTNAME211311"
-	desc = "EVTDESC211311"
-	major = yes
-	trigger = {
-		tag = NPE
-		prestige = 25
-		ideological_thought = 1
-		NOT = { he_choose_us }
-	}
-	mean_time_to_happen = {
+id = 211311
+title = "EVTNAME211311"
+desc = "EVTDESC211311"
+major = yes
+trigger = {
+tag = NPE
+prestige = 25
+ideological_thought = 1
+NOT = { has_country_flag = he_choose_us }  # Prevents the event from firing more than once
+}
+mean_time_to_happen = {
         months = 12
         }
-	option = {
-		name = "EVTOPTA211310"
-		set_global_flag = persian_crisis
-		prestige = 5
-		KDS = { all_core = { add_core = NPE } }
-		AZB = { all_core = { add_core = NPE } }
+option = {
+name = "EVTOPTA211311"
+set_global_flag = end_of_persian_crisis
+prestige = 5
+KDS = { all_core = { add_core = NPE } }
+AZB = { all_core = { add_core = NPE } }
+set_country_flag = he_choose_us  # Ensures the event never fires again
 	}
 }

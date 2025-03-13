@@ -31,7 +31,7 @@ country_event = {
 		NOT = { has_country_flag = last_empress }
 	}
 	mean_time_to_happen = {
-        months = 6
+        months = 36
         }
 	fire_only_once = yes
 	option = {
@@ -54,7 +54,7 @@ country_event = {
 		NOT = { has_country_flag = no_koshitsu}
 	}
 	mean_time_to_happen = {
-        months = 6
+        months = 24
         }
 	fire_only_once = yes
 	#Crown Princess Aiko Path
@@ -167,7 +167,7 @@ country_event = {
 		NOT = { has_country_flag = institutional_protest }
 	}
 	mean_time_to_happen = {
-        months = 6
+        months = 60
         }
 
 	

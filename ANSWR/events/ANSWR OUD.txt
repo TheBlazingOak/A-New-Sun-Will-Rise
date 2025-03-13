@@ -535,7 +535,7 @@ country_event ={
                 name = cislav_jingoism
                 duration = -1
             }
-            ai_chance = { chance = 5 }
+            ai_chance = { chance = 30 }
         }
     #Looking East (Trihoribratia path)
     option = {
@@ -554,7 +554,7 @@ country_event ={
                 name = cislav_slavism
                 duration = -1
             }
-            ai_chance = { chance = 75 }
+            ai_chance = { chance = 50 }
         }
     #Look Inwards
     option = {

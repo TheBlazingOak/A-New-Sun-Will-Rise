@@ -1,4 +1,5 @@
 add_core = HAE
+add_core = PRT
 trade_goods = fruit
 terrain = semidesert
 life_rating = 15

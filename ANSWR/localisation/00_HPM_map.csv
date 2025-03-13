@@ -171,6 +171,10 @@ MEX_97;Deseret;;;;;;;;;;;;x
 PROV146;St Pawnee;;;;;;;;;;;;x
 PROV2241;Kourou;;;;;;;;;;;;x
 ENG_1979;Port du Monde;;;;;;;;;;;;x
+ENG_2076;Tswanaland;;;;;;;;;;;;x
+ENG_2078;Eroro;;;;;;;;;;;;x
+TRN_2108;Buitestand;;;;;;;;;;;;x
+PROV2105;Buitestad;;;;;;;;;;;;x
 PROV150;Kirkland;;;;;;;;;;;;x
 PROV149;Kansas;;;;;;;;;;;;x
 PROV2702;Alty-Kuduk;;;;;;;;;;;;x
@@ -371,7 +375,7 @@ PROV2606;Balkhash;;;;;;;;;;;;;;;;;;;;;;;x
 ARG_2384;Córdoba de Argentina;;;;;;;;;;;;;;;;;;;;;;;x
 ARG_2393;La Pampa;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1391;Kota Kubang Labu;;;;;;;;;;;;;;;;;;;;;;;x
-PROV1382;Hà Tiên;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1382;Hatiên;;;;;;;;;;;;;;;;;;;;;;;x
 RUS_1048;Western Cherkess Plains;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1049;Upper Sochi;;;;;;;;;;;;;;;;;;;;;;;x
 PROV900;Antakya;;;;;;;;;;;;;;;;;;;;;;;x
@@ -401,7 +405,7 @@ PROV974;Bachmut;;;;;;;;;;;;;;;;;;;x;
 PROV1041;Elista;;;;;;;;;;;;;;;;;;;x;
 PROV745;Leghorn;;;;;;;;;;;;;;;;;;;x;
 PROV2436;Salvador da Bahia;;;;;;;;;;;;;;;;;;;x;
-BRZ_2408;Grão - Pará;;;;;;;;;;;;;;;;;;;x;
+BRZ_2408;Grão - Par?;;;;;;;;;;;;;;;;;;x;
 BRZ_2428;Nordeste;;;;;;;;;;;;;;;;;;;x;
 PROV2423;Vila da Palma;;;;;;;;;;;;;;;;;;;x;
 PROV2426;Vila do Poti;;;;;;;;;;;;;;;;;;;x;
@@ -466,7 +470,7 @@ ENG_258;Connacht;;;;;;;;;;;;x
 ENG_263;Leinster;;;;;;;;;;;;x
 SWE_322;Stockholm;;;;;;;;;;;;x
 SWE_329;Göteborg;;;;;;;;;;;;x
-SWE_334;Malmö;;;;;;;;;;;;x
+SWE_334;Malm?;;;;;;;;;;;x
 RUS_343;Helsinki;;;;;;;;;;;;x
 RUS_345;Turku;;;;;;;;;;;;x
 RUS_360;Lithuania;;;;;;;;;;;;x
@@ -965,7 +969,7 @@ PROV1755;Swuaze;;;;;;;;;;;;x
 PROV3255;Mar de Argentina;;;;;;;;;;;x
 PROV3276;Amazonas Baía;;;;;;;;;;;x
 PROV3260;Estreito de Grão;;;;;;;;;;;x
-PROV2247;Bacatá;;;;;;;;;;;;x
+PROV2247;Bacat?;;;;;;;;;;;x
 USA_2556;Carolingia Proper;;;;;;;;;;;;x
 PAW_166;Outer Illinois;;;;;;;;;;;;x
 LOS_89;Greater Los Angeles Area;;;;;;;;;;;;x
@@ -1096,7 +1100,7 @@ PROV2460;Pidrinha;;;;;;;;;;;;x
 PROV2452;Cal da Giuv;;;;;;;;;;;;x
 PROV2446;Namar;;;;;;;;;;;;x
 PROV2456;Piaro;;;;;;;;;;;;x
-PROV2453;Forê;;;;;;;;;;;;x
+PROV2453;Fora;;;;;;;;;;;x
 PROV2458;Cautell;;;;;;;;;;;;x
 PROV2462;Millel;;;;;;;;;;;;x
 PROV2459;Jerinho;;;;;;;;;;;;x
@@ -1116,7 +1120,7 @@ PROV2351;Maxdalinha;;;;;;;;;;;;x
 PROV2350;Tira Allulia;;;;;;;;;;;;x
 PROV2352;Ot' d-at-l Plazsa;;;;;;;;;;;;x
 PROV2354;Nua Ballia;;;;;;;;;;;;x
-PROV2353;Tarlê;;;;;;;;;;;;x
+PROV2353;Tarl?;;;;;;;;;;;x
 PROV2355;Corso do Roxo;;;;;;;;;;;;x
 PROV2386;Persucallao;;;;;;;;;;;;x
 PROV2379;Córdoma;;;;;;;;;;;;x
@@ -1128,7 +1132,7 @@ PROV2382;Sorogênia;;;;;;;;;;;;x
 PROV2359;Citae Borginha;;;;;;;;;;;;x
 PROV2393;Llituria;;;;;;;;;;;;x
 PROV2321;Terraien;;;;;;;;;;;;x
-PROV2320;Guarapá;;;;;;;;;;;;x
+PROV2320;Guarap?;;;;;;;;;;;x
 PROV2319;Santán;;;;;;;;;;;;x
 PROV2317;Jicnago;;;;;;;;;;;;x
 PROV2316;Orijia;;;;;;;;;;;;x
@@ -1137,9 +1141,9 @@ PROV2418;Quiáo;;;;;;;;;;;;x
 PROV2419;Corimina;;;;;;;;;;;;x
 PROV2416;Portamarilo;;;;;;;;;;;;x
 PROV2337;Lixer;;;;;;;;;;;;x
-PROV2367;Pó 'e Guará;;;;;;;;;;;;x
+PROV2367;P?'e Guar?;;;;;;;;;;;x
 PROV2365;Minien;;;;;;;;;;;;x
-PROV2365;Estevacitá;;;;;;;;;;;;x
+PROV2365;Estevacit?;;;;;;;;;;;x
 PROV2376;Des-o Ter;;;;;;;;;;;;x
 PROV2377;Brijas;;;;;;;;;;;;x
 PROV2356;Fliujido;;;;;;;;;;;;x
@@ -1229,7 +1233,7 @@ NTC_2000;Hvitesund;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2000;Tipsbyen;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1983;Hvitesund;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1977;Hafnarlaekur;;;;;;;;;;;;;;;;;;;;;;;x
-PROV2624;Kystsjø;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2624;Kystsj?;;;;;;;;;;;;;;;;;;;;;;x
 PROV1978;Tollefsrud;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1980;Opptelling;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1992;Handelbukt;;;;;;;;;;;;;;;;;;;;;;;x
@@ -1241,7 +1245,7 @@ PROV1973;Hoppepunkt;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1955;Aasøyer;;;;;;;;;;;;;;;;;;;;;;;x
 PROV3295;Rùkou Sea;;;;;;;;;;;;;;;;;;;;;;;x
 PROV3108;The Yin Sea;;;;;;;;;;;;;;;;;;;;;;;x
-PROV3235;The Jiaoyì;;;;;;;;;;;;;;;;;;;;;;;x
+PROV3235;The Jiaoy?;;;;;;;;;;;;;;;;;;;;;;x
 PROV3301;Sea of Rèshui;;;;;;;;;;;;;;;;;;;;;;;x
 ENG_277;Chester;;;;;;;;;;;;;;;;;;;;;;;x
 ENG_280;Tyne;;;;;;;;;;;;;;;;;;;;;;;x
@@ -1267,11 +1271,11 @@ CHI_1468;Khuurai;;;;;;;;;;;;x
 CHI_1532;Gadaadaral;;;;;;;;;;;;x
 CHI_1540;Hei;;;;;;;;;;;;;;;;;;;;;;;x
 RYU_1679;Bàndao;;;;;;;;;;;;;;;;;;;;;;;x
-RYU_1537;Didì;;;;;;;;;;;;;;;;;;;;;;;x
+RYU_1537;Did?;;;;;;;;;;;;;;;;;;;;;;x
 JUC_1536;Ju;;;;;;;;;;;;;;;;;;;;;;;x
 CHI_1563;Shangdao;;;;;;;;;;;;;;;;;;;;;;;x
 CHI_1565;Xiaofang;;;;;;;;;;;;;;;;;;;;;;;x
-CHI_1477;Haishì;;;;;;;;;;;;x
+CHI_1477;Haish?;;;;;;;;;;;x
 CHI_1470;South Anhui;;;;;;;;;;;;x
 CHI_1479;Fengtian;;;;;;;;;;;;x
 CHI_1482;Chaoxue;;;;;;;;;;;;x
@@ -1511,9 +1515,9 @@ PROV2083;Port Nolloth;;;;;;;;;;;x
 ENG_2096;Oos-Kaap;;;;;;;;;;;;x
 ENG_2087;Wes-Kaap;;;;;;;;;;;;x
 ZUL_2110;Mbabane;;;;;;;;;;;;x
-TRN_2108;Pretoria;;;;;;;;;;;;x
+TRN_2108;Buitestand;;;;;;;;;;;;x
 PROV2106;Johannesburg;;;;;;;;;;;;;;;;;;;;x;
-PROV2105;Pretoria;;;;;;;;;;;;;;;;;;;;x;
+PROV2105;Buitestand;;;;;;;;;;;;;;;;;;;;x;
 PROV2108;Vaalwater;;;;;;;;;;;;;;;;;;;;x;
 VNZ_2239;Mahdia;;;;;;;;;;;;;;;;;;;;x;
 PROV2468;Sydnica;;;;;;;;;;;;;;;;;;;;x;

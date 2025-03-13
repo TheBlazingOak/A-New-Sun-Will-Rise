@@ -1551,9 +1551,9 @@ the_statue_of_liberty = {
 }
 
 bottom_of_the_earth = {
-    prestige = 0.02
-    global_immigrant_attract = 0.5
-    global_assimilation_rate = 0.5
+    prestige = 0.01
+    global_immigrant_attract = 0.1
+    global_assimilation_rate = 0.25
     icon = 15
 }
 
@@ -2817,9 +2817,9 @@ kaapstad_volk = {
 }
 kaaper_education_reform = {
     icon = 7
-    education_efficiency_modifier = 0.75
+    education_efficiency_modifier = 1.5
     literacy_con_impact = 0.1
-    research_points_modifier = 0.02
+    research_points_modifier = 0.05
 }
 ###Underground Cities###
 #Complex

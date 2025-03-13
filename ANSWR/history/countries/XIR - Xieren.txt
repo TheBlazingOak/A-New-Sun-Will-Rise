@@ -59,3 +59,5 @@ foreign_weapons = yes_foreign_weapons
 
 # Technologies
 flintlock_rifles = 1
+
+oob = "XIR_oob.txt"

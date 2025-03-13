@@ -7,6 +7,7 @@ political_decisions = {
             OR = {tag = BOH tag = AUS}
             NOT = { has_global_flag = called_council_wien }
             OR = { BOH = {is_greater_power = no} AUS = { is_greater_power = no } }
+            NOT = { AND = { AND = { OR = { tag = WIN tag = ONT } ai = no } ai = yes } }
             NOT = {has_global_flag = oudrijk_destroyed}
         }
 
@@ -37,6 +38,7 @@ political_decisions = {
             has_global_flag = oudrijk_destroyed
             NOT = { has_country_flag = van_gesegnet_wedding }
             OR = { AND = { BOH = { ai = yes } AUS = { ai = no } THIS = {ai = no } } AND = { BOH = { ai = no } AUS = { ai = yes } THIS = {ai = no } } AND = { BOH = { ai = yes } AUS = { ai = yes } THIS = {ai = yes } } }
+            NOT = { AND = { AND = { OR = { tag = WIN tag = ONT } ai = no } ai = yes } }
         }
 
         allow = {

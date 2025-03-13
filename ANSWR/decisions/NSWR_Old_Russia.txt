@@ -73,6 +73,7 @@ political_decisions = {
 		effect = {
 		RUS_2680 = { secede_province = THIS }
 		RUS_2680 = { add_core = THIS }
+		set_country_flag = colonize_east
 		}
 		ai_will_do = {
 		factor = 1

@@ -4,7 +4,7 @@ religion = catholic
 government = democracy
 plurality = 10.0
 nationalvalue = nv_liberty
-literacy = 0.20
+literacy = 0.39
 civilized = yes
 
 
@@ -37,7 +37,7 @@ border_policy = closed_borders
 
 set_country_flag = catholic_country
 
-ruling_party = UNM_liberal
+ruling_party = ELO_liberal
 last_election = 2836.1.1
 upper_house = {
     fascist = 0
@@ -69,3 +69,5 @@ clipper_design = 1
 
 #Starting Consciousness
 consciousness = 4
+
+oob = "ELO_oob.txt"

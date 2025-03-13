@@ -79,3 +79,5 @@ modern_winemaking = yes
 #big_sail_support = yes
 
 }
+
+oob = "YNN_oob.txt"

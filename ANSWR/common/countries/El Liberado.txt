@@ -2,14 +2,14 @@ color = { 11  5  82 }
 graphical_culture = Generic
 
 party = {
-    name = "UNM_liberal"
+    name = "ELO_liberal"
     start_date = 2830.1.1
     end_date = 3000.1.1
 
     ideology = liberal
 
     social_policy = no_position_set
-    economic_policy = laissez_faire
+    economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pluralism
     citizenship_policy = residency
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-    name = "UNM_conservative"
+    name = "ELO_conservative"
     start_date = 2830.1.1
     end_date = 3000.1.1
 
@@ -25,14 +25,14 @@ party = {
 
     social_policy = no_position_set
     economic_policy = laissez_faire
-    trade_policy = protectionism
+    trade_policy = free_trade
     religious_policy = pluralism
     citizenship_policy = residency
     war_policy = anti_military
 }
 
 party = {
-    name = "UNM_anarcho_liberal"
+    name = "ELO_anarcho_liberal"
     start_date = 2820.1.1
     end_date = 2936.1.1
 
@@ -47,7 +47,7 @@ party = {
 }
 
 party = {
-    name = "UNM_reactionary"
+    name = "ELO_reactionary"
     start_date = 2820.1.1
     end_date = 3000.1.1
 
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-    name = "UNM_socialist"
+    name = "ELO_socialist"
     start_date = 2848.1.1
     end_date = 3000.1.1
 
@@ -77,7 +77,7 @@ party = {
 }
 
 party = {
-    name = "UNM_communist"
+    name = "ELO_communist"
     start_date = 2848.1.1
     end_date = 3000.1.1
 
@@ -92,7 +92,7 @@ party = {
 }
 
 party = {
-    name = "UNM_fascist"
+    name = "ELO_fascist"
     start_date = 2900.1.1
     end_date = 3000.1.1
 

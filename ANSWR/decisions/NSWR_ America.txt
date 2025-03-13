@@ -517,6 +517,25 @@ transpacifica_unification = {
     	}
     }
 
+	raising_arizona = {
+    	potential = {
+    	tag = TRP
+    	NOT = { 
+    	has_country_flag = raising_arizona}
+    	ARI = { is_vassal_of = THIS}
+		year = 2845
+    		}
+    	allow = {
+    		nationalism_n_imperialism = 1
+    	}
+    	effect = {
+    	prestige = 5
+    	inherit = ARI
+		MEX_100 = {add_core = THIS}
+		101 = { secede_province = THIS }
+    	}
+    }
+
     contact_the_mormons = {
     	potential = {
     		tag = TRP
@@ -628,32 +647,48 @@ transpacifica_unification = {
     		set_country_flag = death_to_st_lawerance
 		}
     }
-    #New Pacifica Renaming
+   #New Pacifica Renaming
     renaming_of_new_pacfica = {
-    	picture = guantanamo_bay
-    	potential = {
-	    	is_culture_group = pacific_cultures
-	    	NOT = {has_country_flag = renamed_new_pacifica}
-	    	BRU_1394 = { owned_by = THIS }
-    	}
+    picture = guantanamo_bay
+    potential = {
+    is_culture_group = pacific_cultures
+    NOT = {has_country_flag = renamed_new_pacifica}
+    BRU_1394 = { owned_by = THIS }
+    }
 
-    	allow = {
-    		prestige = 10
-    		BRU_1394 = { owned_by = THIS }
-    		NET_1426 = { owned_by = THIS }
-    		NET_1423 = { owned_by = THIS }
-    	}
-    	effect ={
-    		prestige = 5
-    		BRU_1394 = {change_region_name = "New California" }
-    		NET_1426 = {change_region_name = "New Arizona" }
-    		NET_1423 = {change_region_name = "New Washington" }
-    		1393 = { change_province_name = "New Anaheim" }
-    		1426 = { change_province_name = "New Catalina" }
-    		1423 = { change_province_name = "New Sacramento" }
-    		3362 = { change_province_name = "New Hollywood" }
-    		1427 = { change_province_name = "New Phoenix" }
-    		set_country_flag = renamed_new_pacifica
+    allow = {
+    prestige = 10
+    BRU_1394 = { owned_by = THIS }
+    NET_1426 = { owned_by = THIS }
+    NET_1423 = { owned_by = THIS }
+    }
+    effect ={
+    prestige = 5
+        set_country_flag = renamed_new_pacifica
+
+        # State Name Changes
+        1394 = { state_scope = { change_region_name = "New California" } }
+        1427 = { state_scope = { change_region_name = "New Arizona" } }
+        1423 = { state_scope = { change_region_name = "New Washington" } }
+
+        # Province Name Changes (New California)
+        1393 = { change_province_name = "New Anaheim" }
+        1394 = { change_province_name = "New Sacramento" }
+        3362 = { change_province_name = "New Hollywood" }
+        1426 = { change_province_name = "New Catalina" }
+
+        # Province Name Changes (New Arizona)
+        1428 = { change_province_name = "New Tucson" }
+        3364 = { change_province_name = "New Nogales" }
+        1422 = { change_province_name = "New Flagstaff" }
+        1427 = { change_province_name = "New Phoenix" }
+
+        # Province Name Changes (New Washington)
+        1425 = { change_province_name = "New Walla Walla" }
+        3338 = { change_province_name = "New Pertend" }
+        1429 = { change_province_name = "New Brescia" }
+        1423 = { change_province_name = "New Seattle" }
+        3347 = { change_province_name = "New Calispia" }
 		}
     }
     ##Pawnee##
@@ -743,6 +778,44 @@ transpacifica_unification = {
     		set_country_flag = texas_claimed
 		}
     }
+
+	##Mexico##
+	#El Liberado Mexico Claim
+	the_liberation_mexico = {
+		potential = {
+			exists = yes
+			tag = ELO 
+			NOT = {has_country_flag = the_liberation}
+		}
+		allow = {
+			ELO = { all_core = { owned_by = THIS } }
+			prestige = 1
+		}
+		effect ={
+			prestige = 3
+			MEX = { all_core = { add_core = THIS remove_core = MEX } }
+			set_country_flag = the_liberation
+		}
+	}
+	#Spread the liberation
+	the_liberation_central_america = {
+		potential = {
+			exists = yes
+			tag = ELO 
+			has_country_flag = the_liberation
+			NOT = {has_country_flag = the_liberation_central_america}
+		}
+		allow = {
+			ELO = { all_core = { owned_by = THIS } }
+			prestige = 15
+		}
+		effect ={
+			prestige = 10
+			GUA = { all_core = { add_core = THIS remove_core = MEX } }
+			set_country_flag = the_liberation_central_america
+		}
+	}
+
 #End of political_decisions brackets
 
 }

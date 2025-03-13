@@ -1,0 +1,125 @@
+leader = {
+    name = "Dong Zexian"
+    date = 2836.1.1
+    type = land
+    personality = defiant
+    background = cavalry_school
+    prestige = 0.35
+}
+leader = {
+    name = "Wu Hua"
+    date = 2836.1.1
+    type = land
+    personality = gutsy
+    background = adventurer
+    prestige = 0.15
+}
+
+army = {
+    name = "Garrison of the Xieren"
+    location = 1464
+    regiment = {
+        name= "1. Brigade"
+        type = irregular
+        home = 1464
+    }
+    regiment = {
+        name= "2. Brigade"
+        type = irregular
+        home = 1464
+    }
+    regiment = {
+        name= "3. Brigade"
+        type = irregular
+        home = 1545
+    }
+    regiment = {
+        name= "4. Brigade"
+        type = irregular
+        home = 1546
+    }
+    regiment = {
+        name= "5. Brigade"
+        type = irregular
+        home = 1546
+    }
+    regiment = {
+        name= "6. Brigade"
+        type = irregular
+        home = 1545
+    }
+    regiment = {
+        name= "7. Brigade"
+        type = irregular
+        home = 1551
+    }
+    regiment = {
+        name= "8. Brigade"
+        type = irregular
+        home = 1551
+    }
+    regiment = {
+        name= "9. Brigade"
+        type = irregular
+        home = 1547
+    }
+    regiment = {
+        name= "10. Brigade"
+        type = irregular
+        home = 1473
+    }
+    regiment = {
+        name= "11. Brigade"
+        type = irregular
+        home = 1473
+    }
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1547
+    }
+}
+army = {
+    name = "Garrison of the Huizhou"
+    location = 1473
+    regiment = {
+        name= "1. Brigade"
+        type = irregular
+        home = 1547
+    }
+    regiment = {
+        name= "2. Brigade"
+        type = irregular
+        home = 1547
+    }
+    regiment = {
+        name= "3. Brigade"
+        type = irregular
+        home = 1547
+    }
+    regiment = {
+        name= "4. Brigade"
+        type = irregular
+        home = 1547
+    }
+    regiment = {
+        name= "5. Brigade"
+        type = irregular
+        home = 1547
+    }
+    regiment = {
+        name= "6. Brigade"
+        type = irregular
+        home = 1547
+    }
+    regiment = {
+        name= "7. Brigade"
+        type = irregular
+        home = 1547
+    }
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1547
+    }
+}

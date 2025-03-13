@@ -1,0 +1,198 @@
+leader = {
+    name = "Lin Chang"
+    date = 2836.1.1
+    type = land
+    personality = vicious
+    background = cursed_luck
+    prestige = 0.15
+}
+leader = {
+    name = "Mao He"
+    date = 2836.1.1
+    type = land
+    personality = hellbent
+    background = hated
+    prestige = 0.05
+}
+
+leader = {
+    name = "Chen Liang"
+    date = 2836.1.1
+    type = land
+    personality = arrogant
+    background = clueless 
+    prestige = 0.05
+}
+
+army = {
+    name = "Xiang Militia"
+    location = 1540
+    regiment = {
+        name= "1. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "2. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "3. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "4. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "5. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "6. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "7. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "8. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "9. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "10. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "11. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1540
+    }
+}
+army = {
+    name = "Garrison of the Hengzhou"
+    location = 1527
+    regiment = {
+        name= "1. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "2. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "3. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "4. Brigade"
+        type = irregular
+        home = 1540
+    }
+    regiment = {
+        name= "5. Brigade"
+        type = irregular
+        home = 1527
+    }
+    regiment = {
+        name= "6. Brigade"
+        type = irregular
+        home = 1527
+    }
+    regiment = {
+        name= "7. Brigade"
+        type = irregular
+        home = 1524
+    }
+    regiment = {
+        name= "8. Brigade"
+        type = irregular
+        home = 1524
+    }
+    regiment = {
+        name= "9. Brigade"
+        type = irregular
+        home = 1526
+    }
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1540
+    }
+}
+army = {
+    name = "Garrison of the Guiyang"
+    location = 1505
+    regiment = {
+        name= "1. Brigade"
+        type = irregular
+        home = 1507
+    }
+    regiment = {
+        name= "2. Brigade"
+        type = irregular
+        home = 1507
+    }
+    regiment = {
+        name= "3. Brigade"
+        type = irregular
+        home = 1526
+    }
+    regiment = {
+        name= "4. Brigade"
+        type = irregular
+        home = 1526
+    }
+    regiment = {
+        name= "5. Brigade"
+        type = irregular
+        home = 1529
+    }
+    regiment = {
+        name= "6. Brigade"
+        type = irregular
+        home = 1529
+    }
+    regiment = {
+        name= "7. Brigade"
+        type = irregular
+        home = 1525
+    }
+    regiment = {
+        name= "8. Brigade"
+        type = irregular
+        home = 1525
+    }
+    regiment = {
+        name= "9. Brigade"
+        type = irregular
+        home = 1536
+    }
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1536
+    }
+}

@@ -120,14 +120,11 @@ country_migration_target = {
         number_of_states = 2
         has_country_flag = new_world_nation
         OR = {
-            capital_scope = { is_colonial = no continent = north_america }
-            capital_scope = { is_colonial = no continent = south_america }
-            capital_scope = { is_colonial = no continent = australia_new_zealand }
-        }
-        OR = {
             government = democracy
             government = presidential_dictatorship
             government = hms_government
+            government = trading_republic
+            government = prussian_constitutionalism
         }
     }
 
@@ -137,14 +134,11 @@ country_migration_target = {
         NOT = { number_of_states = 2 }
         has_country_flag = new_world_nation
         OR = {
-            capital_scope = { is_colonial = no continent = north_america }
-            capital_scope = { is_colonial = no continent = south_america }
-            capital_scope = { is_colonial = no continent = australia_new_zealand }
-        }
-        OR = {
             government = democracy
             government = presidential_dictatorship
             government = hms_government
+            government = trading_republic
+            government = prussian_constitutionalism
         }
     }
 

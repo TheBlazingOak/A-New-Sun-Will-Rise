@@ -617,7 +617,7 @@ emigration_chance =
         factor = -1.0
         country = {
             has_country_flag = new_world_nation
-            government = democracy
+            OR = { government = democracy government = hms_government government = trading_republic prussian_constitutionalism }
         }
     }
 

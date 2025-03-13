@@ -3087,6 +3087,13 @@ HDR;Los Hombres de Ruiz;;;;;;;;;;;;;,,
 HDR_ADJ;Tampican;;;;;;;;;;;;;,,
 ELO;El Liberado;;;;;;;;;;;;;,,
 ELO_ADJ;Liberador;;;;;;;;;;;;;,,
+ELO_liberal;Liberadors;;;;;;;;;;;;;,,
+ELO_conservative;Purpura;;;;;;;;;;;;;,,
+ELO_anarcho_liberal;Libertad Libre;;;;;;;;;;;;;,,
+ELO_reactionary;Traidors;;;;;;;;;;;;;,,
+ELO_socialist;Libertad Social;;;;;;;;;;;;;,,
+ELO_communist;Liberacion Nacional;;;;;;;;;;;;;,,
+ELO_fascist;Liberacion Nacional;;;;;;;;;;;;;,,
 MEX;Mexica;;;;;;;;;;;;;,,
 MEX_ADJ;Mexicano;;;;;;;;;;;;;,,
 AMA;Amazona;;;;;;;;;;;;;,,
@@ -3095,7 +3102,7 @@ COL;Cascadia;;;;;;;;;;;;;,,
 COL_ADJ;Cascadian;;;;;;;;;;;;;,,
 GUA;Cuantinama;;;;;;;;;;;;;,,
 GUA_ADJ;Cuantinaman;;;;;;;;;;;;;,,
-GUA_republic;Cuantinama República;;;;;;;;;;;;;,,
+GUA_republic;Cuantinama Republic;;;;;;;;;;;;;,,
 GUA_absolute_monarchy;Kingdom of Cuantinama;;;;;;;;;;;;;,,
 GUA_hms_government;Kingdom of Cuantinama;;;;;;;;;;;;;,,
 NIC;L'Arboleda;;;;;;;;;;;;;,,
@@ -3108,7 +3115,7 @@ PNM_presidential_dictatorship;Gran Taislas;;;;;;;;;;;;;,,
 PNM_bourgeois_dictatorship;Gran Taislas;;;;;;;;;;;;;,,
 QKD;Muisca;;;;;;;;;;;;;,,
 QKD_ADJ;Muiscan;;;;;;;;;;;;;,,
-QKD_republic;Muisca Republic;;;;;;;;;;;;;,,
+QKD_democracy;Muisca Republic;;;;;;;;;;;;;,,
 QKD_hms_government;Kingdom of Muisca;;;;;;;;;;;;;,,
 QKD_prussian_constitutionalism;Kingdom of Muisca;;;;;;;;;;;;;,,
 QKD_absolute_monarchy;Kingdom of Muisca;;;;;;;;;;;;;,,
@@ -3130,8 +3137,15 @@ BWK_absolute_monarchy;Choquehuanca Dynasty;;;;;;;;;;;;;,,
 BWK_proletarian_dictatorship;Mariateguist Qullasuyu;;;;;;;;;;;;;
 SJR;Borgia;;;;;;;;;;;;;,,
 SJR_ADJ;Pacaembun;;;;;;;;;;;;;,,
-SJR_democracy;Borgia;;;;;;;;;;;;;,,
+SJR_democracy;Borgian Republic;;;;;;;;;;;;;,,
 SJR_hms_government;Kingdom of Pacaembu;;;;;;;;;;;;;,,
+USS;United Provinces of America;;;;;;;;;;;;;,,
+TEX_democracy;Lone Star;;;;;;;;;;;;;,,
+USS_ADJ;Sureno;;;;;;;;;;;;;,,
+USS_democracy;United Provinces of the America;;;;;;;;;;;;;,,
+USS_absolute_monarchy;United Kingdom of the America;;;;;;;;;;;;;,,
+USS_hms_government;United Kingdom of the America;;;;;;;;;;;;;,,
+USS_prussian_constitutionalism;United Kingdom of the America;;;;;;;;;;;;;,,
 AMZ;Parania;;;;;;;;;;;;;,,
 AMZ_ADJ;Amazonian;;;;;;;;;;;;;,,
 AMZ_democracy;United Provinces of Grand Para;;;;;;;;;;;;;,,
@@ -3574,8 +3588,9 @@ ZUL_democracy;Zulu Republic;;;;;;;;;;;x;
 ZUL_hms_government;Great Zulu;;;;;;;;;;;x;
 ZUL_absolute_monarchy;Great Zulu;;;;;;;;;;;x;
 ZUL_prussian_constitutionalism;Great Zulu;;;;;;;;;;;x;
-TRN;Pretoria;;;;;;;;;;;x;
-TRN_ADJ;Pretorian;;;;;;;;;;;x;
+TRN;Buitestand;;;;;;;;;;;x;
+TRN_democracy;Buitenste Republiek;;;;;;;;;;;x;
+TRN_ADJ;Buitestander;;;;;;;;;;;x;
 SOK;Filayen;;;;;;;;;;;x;
 SOK_ADJ;Filayen;;;;;;;;;;;x;
 OYO;Shenkudu;;;;;;;;;;;x;

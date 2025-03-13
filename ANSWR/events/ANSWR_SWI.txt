@@ -52,18 +52,18 @@ country_event = {
     trigger = {
         tag = PAR
         NOT = { ITA = { exists = yes } }
-        NOT = {has_global_flag = italian_dreams}
+        NOT = { has_global_flag = italian_dreams }
+        NOT = { PAR = { vassal_of = SWI } }  # NEW FIX: Ensures Parma is NOT already a puppet of Switzerland
         SWI = { exists = yes }
     }
     option = {
-    name = "EVTOPTA224101"
+        name = "EVTOPTA224101"
         set_global_flag = anti_schweiz
         
         SWI = { country_event = { id = 224102 }}
         government = democracy
         political_reform = universal_voting
     }
-
 }
 #The Parma Revolution (Schweiz)
 country_event = {
@@ -72,7 +72,9 @@ country_event = {
     desc = "EVTDESC224102"
     picture = autocracy
     is_triggered_only = yes
-    #We were helping them
+    trigger = {
+        NOT = { PAR = { vassal_of = SWI } }  # NEW FIX: Prevents firing if Parma is already a puppet
+    }
     option = {
     name = "EVTOPTA224102"
         set_country_flag = intervention_in_parma
@@ -83,7 +85,6 @@ country_event = {
                 months = 120
             }
     }
-
 }
 #End of the Parma Revolution
 country_event = {
