@@ -1,0 +1,378 @@
+leader = {
+    name = "Okorie Chike"
+    type = land
+    date = 2836.1.1
+    personality = stalwart
+    background = aristocrat
+}
+
+leader = {
+    name = "Jioke Chidie"
+    type = land
+    date = 2836.1.1
+    personality = intuitive
+    background = aristocrat
+}
+
+leader = {
+    name = "Akachi Orji"
+    type = land
+    date = 2836.1.1
+    personality = arrogant
+    background = aristocrat
+}
+
+leader = {
+    name = "Jaja Chydy"
+    type = land
+    date = 2836.1.1
+    personality = cautious
+    background = aristocrat
+}
+
+leader = {
+    name = "Obey Beluchi"
+    type = land
+    date = 2836.1.1
+    personality = relentless
+    background = aristocrat
+}
+
+army = {
+    name = "Royal Army of The Holy Emperor"
+    location = 1939
+    regiment = {
+        name= "1. Division"
+        type = irregular
+        home = 1942
+    }
+
+    regiment = {
+        name= "2. Division"
+        type = irregular
+        home = 1942
+    }
+    regiment = {
+        name= "3. Division"
+        type = irregular
+        home = 1942
+    }
+    regiment = {
+        name= "4. Division"
+        type = irregular
+        home = 1942
+    }
+    regiment = {
+        name= "5. Division"
+        type = irregular
+        home = 1944
+    }
+    regiment = {
+        name= "6. Division"
+        type = irregular
+        home = 1939
+    }
+    regiment = {
+        name= "7. Division"
+        type = irregular
+        home = 1939
+    }
+    regiment = {
+        name= "8. Division"
+        type = irregular
+        home = 1939
+    }
+    regiment = {
+        name= "9. Division"
+        type = irregular
+        home = 1939
+    }
+    regiment = {
+        name= "10. Division"
+        type = irregular
+        home = 1939
+    }
+    regiment = {
+        name= "11. Division"
+        type = irregular
+        home = 1939
+    }
+    regiment = {
+        name= "12. Division"
+        type = irregular
+        home = 1939
+    }
+    regiment = {
+        name= "13. Division"
+        type = irregular
+        home = 1939
+    }
+    regiment = {
+        name= "14. Division"
+        type = irregular
+        home = 1939
+    }
+    regiment = {
+        name= "15. Division"
+        type = irregular
+        home = 1939
+    }
+    regiment = {
+        name= "16. Division"
+        type = irregular
+        home = 1939
+    }
+    regiment = {
+        name= "17. Division"
+        type = irregular
+        home = 1939
+    }
+    regiment = {
+        name= "18. Division"
+        type = irregular
+        home = 1939
+    }
+
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1939
+    }
+
+    regiment = {
+        name= "2. Cavalry"
+        type = cavalry
+        home = 1939
+    }
+
+}
+
+army = {
+    name = "Royal Army of the East"
+    location = 1953
+    regiment = {
+        name= "1. Division"
+        type = irregular
+        home = 1943
+    }
+
+    regiment = {
+        name= "2. Division"
+        type = irregular
+        home = 1944
+    }
+    regiment = {
+        name= "3. Division"
+        type = irregular
+        home = 1944
+    }
+    regiment = {
+        name= "4. Division"
+        type = irregular
+        home = 1944
+    }
+    regiment = {
+        name= "5. Division"
+        type = irregular
+        home = 1944
+    }
+    regiment = {
+        name= "6. Division"
+        type = irregular
+        home = 1943
+    }
+    regiment = {
+        name= "7. Division"
+        type = irregular
+        home = 1943
+    }
+    regiment = {
+        name= "8. Division"
+        type = irregular
+        home = 1949
+    }
+    regiment = {
+        name= "9. Division"
+        type = irregular
+        home = 1949
+    }
+    regiment = {
+        name= "10. Division"
+        type = irregular
+        home = 1952
+    }
+    regiment = {
+        name= "11. Division"
+        type = irregular
+        home = 1952
+    }
+    regiment = {
+        name= "12. Division"
+        type = irregular
+        home = 1952
+    }
+    regiment = {
+        name= "13. Division"
+        type = irregular
+        home = 1952
+    }
+    regiment = {
+        name= "14. Division"
+        type = irregular
+        home = 1951
+    }
+
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1951
+    }
+
+    regiment = {
+        name= "2. Cavalry"
+        type = cavalry
+        home = 1953
+    }
+
+}
+
+army = {
+    name = "Royal Army of the West"
+    location = 1946
+    regiment = {
+        name= "1. Division"
+        type = irregular
+        home = 1946
+    }
+
+    regiment = {
+        name= "2. Division"
+        type = irregular
+        home = 1946
+    }
+    regiment = {
+        name= "3. Division"
+        type = irregular
+        home = 1946
+    }
+    regiment = {
+        name= "4. Division"
+        type = irregular
+        home = 1946
+    }
+    regiment = {
+        name= "5. Division"
+        type = irregular
+        home = 1938
+    }
+    regiment = {
+        name= "6. Division"
+        type = irregular
+        home = 1938
+    }
+    regiment = {
+        name= "7. Division"
+        type = irregular
+        home = 1938
+    }
+    regiment = {
+        name= "8. Division"
+        type = irregular
+        home = 2589
+    }
+    regiment = {
+        name= "9. Division"
+        type = irregular
+        home = 2589
+    }
+    regiment = {
+        name= "10. Division"
+        type = irregular
+        home = 2589
+    }
+    regiment = {
+        name= "11. Division"
+        type = irregular
+        home = 2589
+    }
+    regiment = {
+        name= "12. Division"
+        type = irregular
+        home = 2589
+    }
+    regiment = {
+        name= "13. Division"
+        type = irregular
+        home = 1948
+    }
+    regiment = {
+        name= "14. Division"
+        type = irregular
+        home = 1948
+    }
+    regiment = {
+        name= "15. Division"
+        type = irregular
+        home = 1948
+    }
+    regiment = {
+        name= "16. Division"
+        type = irregular
+        home = 1948
+    }
+    regiment = {
+        name= "17. Division"
+        type = irregular
+        home = 1948
+    }
+    regiment = {
+        name= "18. Division"
+        type = irregular
+        home = 1948
+    }
+
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1947
+    }
+
+    regiment = {
+        name= "2. Cavalry"
+        type = cavalry
+        home = 1945
+    }
+
+}
+army = {
+    name = "Royal Army of the Chad"
+    location = 1824
+    regiment = {
+        name= "1. Division"
+        type = irregular
+        home = 1939
+    }
+
+    regiment = {
+        name= "2. Division"
+        type = irregular
+        home = 1939
+    }
+    regiment = {
+        name= "3. Division"
+        type = irregular
+        home = 1952
+    }
+    regiment = {
+        name= "4. Division"
+        type = irregular
+        home = 1937
+    }
+
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1937
+    }
+
+}

@@ -41,7 +41,7 @@
     farmers = {
         culture = lanzu
         religion = xifang
-        size = 545725
+        size = 145725
     }
 
 }
@@ -86,7 +86,7 @@
     farmers = {
         culture = lanzu
         religion = xifang
-        size = 680950
+        size = 310950
     }
 }
 #Luzhou (4484000/1121000 POPS)
@@ -206,7 +206,7 @@
     farmers = {
         culture = lanzu
         religion = xifang
-        size = 472920
+        size = 272920
     }
 }
 #Zhenjiang (3120000/790000 POPS)
@@ -385,7 +385,7 @@
     farmers = {
         culture = lanzu
         religion = xifang
-        size = 980900
+        size = 480900
     }
 }
 #Suzhou (4968000/1242000 POPS)
@@ -671,7 +671,7 @@
     farmers = {
         culture = lanzu
         religion = xifang
-        size = 315765
+        size = 185765
     }
 }
 #Qingzhou (3936000/984000 POPS)
@@ -747,7 +747,7 @@
     farmers = {
         culture = lanzu
         religion = xifang
-        size = 357275
+        size = 157275
     }
 }
 #Xiaofang
@@ -774,7 +774,7 @@
     artisans = {
         culture = lanzu
         religion = xifang
-        size = 79450
+        size = 39450
     }
 
     soldiers = {
@@ -786,7 +786,7 @@
     farmers = {
         culture = lanzu
         religion = xifang
-        size = 389820
+        size = 189820
     }
 }
 #Weihaiwei (28000/7000 POPS)

@@ -2,185 +2,30 @@
 #Yunnan Region (5652000)
 #Kunming (1656500/414125 POPS)
 1601 = {
-   soldiers = {
-		culture = hui
-		religion =  sunni 
-		size = 746
-	 } 
-	officers = {
-		culture = hui
-		religion = sunni
-		size = 89
-	 } 
 	farmers = {
-		culture = hui
-		religion =  sunni 
-		size = 30140
-	 } 
-	clerks = {
-		culture = hui
-		religion = sunni
-		size = 8
-	 } 
-	clergymen = {
-		culture = hui
-		religion =  sunni 
-		size = 618
-	 } 
-	capitalists = {
-		culture = hui
-		religion = sunni
-		size = 309
-	 } 
-	bureaucrats = {
-		culture = hui
-		religion =  sunni 
-		size = 62
-	 } 
-	soldiers = {
-		culture = hui
-		religion =  xifang 
-		size = 187
-	 } 
-	officers = {
-		culture = hui
-		religion = xifang
-		size = 22
-	 } 
-	farmers = {
-		culture = hui
-		religion =  xifang 
-		size = 15035
-	 } 
-	clerks = {
-		culture = hui
-		religion = xifang
-		size = 2
-	 } 
-	clergymen = {
-		culture = hui
-		religion =  xifang 
-		size = 154
-	 } 
-	capitalists = {
-		culture = hui
-		religion = xifang
-		size = 77
-	 } 
-	bureaucrats = {
-		culture = hui
-		religion =  xifang 
-		size = 15
-	 } 
-	soldiers = {
-		culture = yi
-		religion =  animist 
-		size = 1485
-	 } 
-	officers = {
-		culture = yi
-		religion = animist
-		size = 178
-	 } 
-	farmers = {
-		culture = yi
-		religion =  animist 
-		size = 119682
-	 } 
-	clerks = {
-		culture = yi
-		religion = animist
-		size = 17
-	 } 
-	clergymen = {
-		culture = yi
-		religion =  animist 
-		size = 1229
-	 } 
-	capitalists = {
-		culture = yi
-		religion = animist
-		size = 614
-	 } 
-	bureaucrats = {
-		culture = yi
-		religion =  animist 
-		size = 123
-	 } 
-	soldiers = {
-		culture = yi
-		religion =  xifang 
-		size = 371
-	 } 
-	officers = {
-		culture = yi
-		religion = xifang
-		size = 44
-	 } 
-	farmers = {
-		culture = yi
-		religion =  xifang 
-		size = 29921
-	 } 
-	clerks = {
-		culture = yi
-		religion = xifang
-		size = 4
-	 } 
-	clergymen = {
-		culture = yi
-		religion =  xifang 
-		size = 307
-	 } 
-	capitalists = {
-		culture = yi
-		religion = xifang
-		size = 154
-	 } 
-	bureaucrats = {
-		culture = yi
-		religion =  xifang 
-		size = 31
-	 } 
-	soldiers = {
-		culture = nanfaren
-		religion =  mahayana 
-		size = 10329
-	 } 
-	officers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1954
-	 } 
-	farmers = {
-		culture = nanfaren
-		religion =  mahayana 
+		culture = yue
+		religion =  xifang
 		size = 116208
 	 } 
-	clerks = {
-		culture = nanfaren
-		religion = mahayana
-		size = 186
-	 } 
 	clergymen = {
-		culture = nanfaren
-		religion =  mahayana 
+		culture = yue
+		religion =  xifang
 		size = 13518
 	 } 
 	capitalists = {
-		culture = nanfaren
-		religion = mahayana
+		culture = yue
+		religion = xifang
 		size = 6757
 	 } 
 	bureaucrats = {
-		culture = nanfaren
-		religion =  mahayana 
-		size = 1349
+		culture = yue
+		religion =  xifang
+		size = 3349
 	 } 
 	soldiers = {
 		culture = yue
 		religion =  xifang 
-		size = 4082
+		size = 19082
 	 } 
 	officers = {
 		culture = yue
@@ -190,7 +35,7 @@
 	farmers = {
 		culture = yue
 		religion =  xifang 
-		size = 2509052
+		size = 599052
 	 } 
 	clerks = {
 		culture = yue
@@ -609,7 +454,7 @@
 	farmers = {
 		culture = yi
 		religion =  animist 
-		size = 144868
+		size = 44868
 	 } 
 	clerks = {
 		culture = yi
@@ -819,7 +664,7 @@
 	farmers = {
 		culture = nanfaren
 		religion =  mahayana 
-		size = 187703
+		size = 87703
 	 } 
 	clerks = {
 		culture = nanfaren
@@ -952,12 +797,12 @@
 	farmers = {
 		culture = nanfaren
 		religion =  mahayana 
-		size = 448866
+		size = 248866
 	 } 
 	farmers = {
 		culture = yue
 		religion = xifang
-		size = 744676
+		size = 444676
 	 } 
 	farmers = {
 		culture = miao
@@ -972,7 +817,7 @@
 	 farmers = {
 		culture = miao
 		religion = animist 
-		size = 200000
+		size = 100000
 	 } 
 	farmers = {
 		culture = miao

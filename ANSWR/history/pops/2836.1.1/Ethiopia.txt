@@ -2,808 +2,430 @@
 #under the rule of Ethiopia in 1836
 #Gonder (632000/158000 POPS)
 1852 = {
-    aristocrats = {
-        culture = amhara
-        religion = coptic
-        size = 2100
-    }
-
-    bureaucrats = {
-        culture = amhara
-        religion = coptic
-        size = 455
-    }
-
-    officers = {
-        culture = amhara
-        religion = coptic
-        size = 420
-    }
-
-    clergymen = {
-        culture = amhara
-        religion = coptic
-        size = 1155
-    }
-
-    artisans = {
-        culture = amhara
-        religion = coptic
-        size = 5650
-    }
-
-    soldiers = {
-        culture = amhara
-        religion = coptic
-        size = 5020
-    }
-
-    farmers = {
-        culture = amhara
-        religion = coptic
-        size = 90000
-    }
-
-    slaves = {
-        culture = amhara
-        religion = coptic
-        size = 11200
-    }
-
-    aristocrats = {
-        culture = amhara
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = amhara
-        religion = jewish
-        size = 105
-    }
-
-    clergymen = {
-        culture = amhara
-        religion = jewish
-        size = 105
-    }
-
-    artisans = {
-        culture = amhara
-        religion = jewish
-        size = 350
-    }
-
-    soldiers = {
-        culture = amhara
-        religion = jewish
-        size = 1100
-    }
-
-    farmers = {
-        culture = amhara
-        religion = jewish
-        size = 7630
-    }
-
-    aristocrats = {
-        culture = tigray
-        religion = coptic
-        size = 775
-    }
-
-    officers = {
-        culture = tigray
-        religion = coptic
-        size = 100
-    }
-
-    clergymen = {
-        culture = tigray
-        religion = coptic
-        size = 100
-    }
-
-    artisans = {
-        culture = tigray
-        religion = coptic
-        size = 650
-    }
-
-    soldiers = {
-        culture = tigray
-        religion = coptic
-        size = 1100
-    }
-
-    farmers = {
-        culture = tigray
-        religion = coptic
-        size = 32300
-    }
 
     aristocrats = {
         culture = mabeli
-        religion = coptic
-        size = 775
+        religion = geerida
+        size = 7775
     }
 
     officers = {
         culture = mabeli
-        religion = coptic
-        size = 100
+        religion = geerida
+        size = 3100
     }
 
     clergymen = {
         culture = mabeli
-        religion = coptic
-        size = 100
+        religion = geerida
+        size = 5000
     }
 
     artisans = {
         culture = mabeli
-        religion = coptic
-        size = 650
+        religion = geerida
+        size = 7650
     }
 
     soldiers = {
         culture = mabeli
-        religion = coptic
-        size = 1100
+        religion = geerida
+        size = 12100
     }
 
     farmers = {
         culture = mabeli
-        religion = coptic
-        size = 2300
+        religion = geerida
+        size = 702300
     }
 
     slaves = {
         culture = mabeli
         religion = geerida
-        size = 3800
+        size = 243800
     }
 }
 #Debre Tabor (656000/164000 POPS)
 1853 = {
+
     aristocrats = {
-        culture = amhara
-        religion = coptic
-        size = 1400
+        culture = mabeli
+        religion = geerida
+        size = 7800
     }
 
     clergymen = {
-        culture = amhara
-        religion = coptic
-        size = 700
+        culture = mabeli
+        religion = geerida
+        size = 15440
     }
 
     artisans = {
-        culture = amhara
-        religion = coptic
-        size = 2900
+        culture = mabeli
+        religion = geerida
+        size = 14810
     }
-
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 14810
+    }
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 14810
+    }
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 14810
+    }
     soldiers = {
-        culture = amhara
-        religion = coptic
-        size = 5000
-    }
-
-    farmers = {
-        culture = amhara
-        religion = coptic
-        size = 113500
-    }
-
-    slaves = {
-        culture = amhara
-        religion = coptic
-        size = 10000
-    }
-
-    aristocrats = {
         culture = mabeli
-        religion = coptic
-        size = 800
-    }
-
-    clergymen = {
-        culture = mabeli
-        religion = coptic
-        size = 440
-    }
-
-    artisans = {
-        culture = mabeli
-        religion = coptic
-        size = 4810
+        religion = geerida
+        size = 12100
     }
 
     farmers = {
         culture = mabeli
-        religion = coptic
-        size = 7750
+        religion = geerida
+        size = 637750
     }
 
     slaves = {
         culture = mabeli
         religion = animist
-        size = 16700
+        size = 216700
     }
 }
 #Matamma (652000/163000 POPS)
 1854 = {
     aristocrats = {
-        culture = amhara
-        religion = coptic
-        size = 1425
+        culture = mabeli
+        religion = geerida
+        size = 7425
     }
 
     clergymen = {
-        culture = amhara
-        religion = coptic
-        size = 735
+        culture = mabeli
+        religion = geerida
+        size = 4735
     }
 
     artisans = {
-        culture = amhara
-        religion = coptic
-        size = 3000
+        culture = mabeli
+        religion = geerida
+        size = 13000
     }
 
     soldiers = {
-        culture = amhara
-        religion = coptic
-        size = 2240
+        culture = mabeli
+        religion = geerida
+        size = 22240
     }
 
     farmers = {
-        culture = amhara
-        religion = coptic
-        size = 110000
+        culture = mabeli
+        religion = geerida
+        size = 710000
     }
 
     slaves = {
-        culture = amhara
-        religion = coptic
-        size = 5600
-    }
-
-    aristocrats = {
-        culture = amhara
-        religion = jewish
-        size = 145
-    }
-
-    clergymen = {
-        culture = amhara
-        religion = jewish
-        size = 110
-    }
-
-    artisans = {
-        culture = amhara
-        religion = jewish
-        size = 800
-    }
-
-    soldiers = {
-        culture = amhara
-        religion = jewish
-        size = 145
-    }
-
-    farmers = {
-        culture = amhara
-        religion = jewish
-        size = 11800
-    }
-
-    aristocrats = {
-        culture = luo
-        religion = animist
-        size = 1470
-    }
-
-    clergymen = {
-        culture = luo
-        religion = animist
-        size = 170
-    }
-
-    artisans = {
-        culture = luo
-        religion = animist
-        size = 3150
-    }
-
-    soldiers = {
-        culture = luo
-        religion = animist
-        size = 770
-    }
-
-    farmers = {
-        culture = luo
-        religion = animist
-        size = 15840
-    }
-
-    slaves = {
-        culture = luo
-        religion = animist
-        size = 5600
+        culture = mabeli
+        religion = geerida
+        size = 125600
     }
 }
 #Debre Markos (1100000/275000 POPS)
 1855 = {
-    aristocrats = {
-        culture = amhara
-        religion = coptic
-        size = 1450
-    }
-
-    clergymen = {
-        culture = amhara
-        religion = coptic
-        size = 760
-    }
-
-    artisans = {
-        culture = amhara
-        religion = coptic
-        size = 3050
-    }
-
-    soldiers = {
-        culture = amhara
-        religion = coptic
-        size = 1740
-    }
-
-    farmers = {
-        culture = amhara
-        religion = coptic
-        size = 184500
-    }
-
-    slaves = {
-        culture = amhara
-        religion = coptic
-        size = 7000
-    }
 
     aristocrats = {
         culture = mabeli
-        religion = coptic
-        size = 1900
+        religion = geerida
+        size = 4900
     }
 
     clergymen = {
         culture = mabeli
-        religion = coptic
-        size = 500
+        religion = geerida
+        size = 4500
     }
 
     artisans = {
         culture = mabeli
         religion = animist
-        size = 8000
+        size = 18000
     }
 
     soldiers = {
         culture = mabeli
-        religion = coptic
-        size = 3000
+        religion = geerida
+        size = 9000
     }
 
     soldiers = {
         culture = mabeli
-        religion = coptic
-        size = 1300
+        religion = geerida
+        size = 15300
     }
 
     farmers = {
         culture = mabeli
-        religion = coptic
-        size = 50000
+        religion = geerida
+        size = 950000
     }
 
     slaves = {
         culture = mabeli
         religion = animist
-        size = 9800
+        size = 119800
     }
 }
 #Tigray Region (316000)
 #under the rule of Ethiopia in 1836
 #Aksum (196000/49000 POPS)
 1856 = {
-    aristocrats = {
-        culture = tigray
-        religion = coptic
-        size = 800
-    }
 
-    bureaucrats = {
-        culture = tigray
-        religion = coptic
-        size = 75
+    aristocrats = {
+        culture = mabeli
+        religion = geerida
+        size = 4000
     }
 
     officers = {
-        culture = tigray
-        religion = coptic
-        size = 70
+        culture = mabeli
+        religion = geerida
+        size = 3000
     }
 
     clergymen = {
-        culture = tigray
-        religion = coptic
-        size = 420
+        culture = mabeli
+        religion = geerida
+        size = 34100
     }
 
     artisans = {
-        culture = tigray
-        religion = coptic
-        size = 1750
+        culture = mabeli
+        religion = geerida
+        size = 11280
     }
 
     soldiers = {
-        culture = tigray
-        religion = coptic
-        size = 2400
+        culture = mabeli
+        religion = geerida
+        size = 19100
     }
 
     farmers = {
-        culture = tigray
-        religion = coptic
-        size = 62485
-    }
-
-    slaves = {
-        culture = tigray
-        religion = coptic
-        size = 7000
-    }
-
-    aristocrats = {
-        culture = amhara
-        religion = coptic
-        size = 100
-    }
-
-    officers = {
-        culture = amhara
-        religion = coptic
-        size = 100
-    }
-
-    clergymen = {
-        culture = amhara
-        religion = coptic
-        size = 100
-    }
-
-    artisans = {
-        culture = amhara
-        religion = coptic
-        size = 280
-    }
-
-    soldiers = {
-        culture = amhara
-        religion = coptic
-        size = 100
-    }
-
-    farmers = {
-        culture = amhara
-        religion = coptic
-        size = 2075
-    }
-
-    slaves = {
-        culture = nilotic
-        religion = animist
-        size = 1400
+        culture = mabeli
+        religion = geerida
+        size = 692075
     }
 }
 #Antalo (180000/45000 POPS)
 1857 = {
     aristocrats = {
-        culture = amhara
-        religion = coptic
-        size = 700
+        culture = mabeli
+        religion = geerida
+        size = 25000
     }
 
     clergymen = {
-        culture = amhara
-        religion = coptic
-        size = 350
+        culture = mabeli
+        religion = geerida
+        size = 40000
     }
 
     artisans = {
-        culture = amhara
-        religion = coptic
-        size = 1500
+        culture = mabeli
+        religion = geerida
+        size = 11500
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11500
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11500
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11500
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11500
+    }
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11500
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11500
     }
 
     soldiers = {
-        culture = amhara
-        religion = coptic
-        size = 2400
+        culture = mabeli
+        religion = geerida
+        size = 36500
     }
 
     farmers = {
-        culture = amhara
-        religion = coptic
-        size = 24550
+        culture = mabeli
+        religion = geerida
+        size = 924550
     }
 
     slaves = {
         culture = mabeli
         religion = geerida
-        size = 22000
-    }
-
-    aristocrats = {
-        culture = tigray
-        religion = coptic
-        size = 140
-    }
-
-    clergymen = {
-        culture = tigray
-        religion = coptic
-        size = 110
-    }
-
-    artisans = {
-        culture = tigray
-        religion = coptic
-        size = 425
-    }
-
-    soldiers = {
-        culture = tigray
-        religion = coptic
-        size = 100
-    }
-
-    farmers = {
-        culture = tigray
-        religion = coptic
-        size = 22750
+        size = 322000
     }
 }
 #Awsa (68000/17000 POPS)
 1858 = {
     aristocrats = {
-        culture = afar
+        culture = mabeli
         religion = geerida
-        size = 315
+        size = 5150
     }
 
     clergymen = {
-        culture = afar
+        culture = mabeli
         religion = geerida
-        size = 175
+        size = 2750
     }
 
     artisans = {
-        culture = afar
+        culture = mabeli
         religion = geerida
-        size = 700
+        size = 11700
     }
 
     soldiers = {
-        culture = afar
+        culture = mabeli
         religion = geerida
-        size = 175
+        size = 6000
     }
 
     farmers = {
-        culture = afar
+        culture = mabeli
         religion = geerida
-        size = 12635
+        size = 412635
+    }
+}
+#under the rule of Oman in 1836
+#Socotra (16000/4000 POPS)
+1177 = {
+    aristocrats = {
+        culture = mabeli
+        religion = geerida
+        size = 4100
     }
 
-    slaves = {
+    clergymen = {
         culture = mabeli
-        religion = animist
+        religion = geerida
+        size = 2100
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11500
+    }
+
+    soldiers = {
+        culture = mabeli
+        religion = geerida
         size = 3000
+    }
+
+    farmers = {
+        culture = mabeli
+        religion = geerida
+        size = 97750
     }
 }
 #Shoa Region (2068000)
 #under the rule of Ethiopia in 1836
 #Ankober (1236000/309000 POPS)
 1859 = {
-    aristocrats = {
-        culture = amhara
-        religion = coptic
-        size = 11175
-    }
-
-    bureaucrats = {
-        culture = amhara
-        religion = coptic
-        size = 665
-    }
-
-    officers = {
-        culture = amhara
-        religion = coptic
-        size = 660
-    }
-
-    clergymen = {
-        culture = amhara
-        religion = coptic
-        size = 5700
-    }
-
-    artisans = {
-        culture = amhara
-        religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = amhara
-        religion = coptic
-        size = 10000
-    }
-
-    artisans = {
-        culture = amhara
-        religion = coptic
-        size = 2800
-    }
-
-    soldiers = {
-        culture = amhara
-        religion = coptic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = amhara
-        religion = coptic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = amhara
-        religion = coptic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = amhara
-        religion = coptic
-        size = 3000
-    }
-
-    farmers = {
-        culture = amhara
-        religion = coptic
-        size = 62400
-    }
-
-    slaves = {
-        culture = amhara
-        religion = coptic
-        size = 21600
-    }
 
     aristocrats = {
         culture = mabeli
-        religion = coptic
-        size = 3225
+        religion = geerida
+        size = 23225
     }
 
     bureaucrats = {
         culture = mabeli
-        religion = coptic
-        size = 180
+        religion = geerida
+        size = 8000
     }
 
     officers = {
         culture = mabeli
-        religion = coptic
-        size = 600
+        religion = geerida
+        size = 2600
     }
 
     clergymen = {
         culture = mabeli
-        religion = coptic
-        size = 1730
+        religion = geerida
+        size = 24730
     }
 
     artisans = {
         culture = mabeli
-        religion = coptic
-        size = 6900
+        religion = geerida
+        size = 16900
+    }
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 16900
+    }
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 16900
+    }
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 16900
     }
 
     soldiers = {
         culture = mabeli
-        religion = coptic
+        religion = geerida
         size = 2065
     }
 
     farmers = {
         culture = mabeli
-        religion = coptic
-        size = 110000
+        religion = geerida
+        size = 1010000
     }
 
     slaves = {
         culture = mabeli
         religion = geerida
-        size = 57300
-    }
-
-    aristocrats = {
-        culture = harari
-        religion = geerida
-        size = 275
-    }
-
-    clergymen = {
-        culture = harari
-        religion = geerida
-        size = 100
-    }
-
-    artisans = {
-        culture = harari
-        religion = geerida
-        size = 800
-    }
-
-    soldiers = {
-        culture = harari
-        religion = geerida
-        size = 1250
-    }
-
-    farmers = {
-        culture = harari
-        religion = coptic
-        size = 20000
-    }
-
-    aristocrats = {
-        culture = harari
-        religion = coptic
-        size = 275
-    }
-
-    clergymen = {
-        culture = harari
-        religion = coptic
-        size = 100
-    }
-
-    artisans = {
-        culture = harari
-        religion = coptic
-        size = 800
-    }
-
-    soldiers = {
-        culture = harari
-        religion = coptic
-        size = 1250
-    }
-
-    farmers = {
-        culture = harari
-        religion = coptic
-        size = 20000
+        size = 357300
     }
 
 }
@@ -813,61 +435,36 @@
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 1325
+        size = 5325
     }
 
     clergymen = {
         culture = mabeli
         religion = geerida
-        size = 675
+        size = 6175
     }
 
     artisans = {
         culture = mabeli
         religion = geerida
-        size = 2725
+        size = 12725
     }
 
     farmers = {
         culture = mabeli
         religion = geerida
-        size = 53300
+        size = 453300
+    }
+    soldiers = {
+        culture = mabeli
+        religion = geerida
+        size = 7450
     }
 
     slaves = {
         culture = mabeli
         religion = animist
-        size = 10000
-    }
-
-    aristocrats = {
-        culture = mabeli #From here on they were amhara and coptic
-        religion = geerida
-        size = 925
-    }
-
-    clergymen = {
-        culture = mabeli
-        religion = geerida
-        size = 475
-    }
-
-    artisans = {
-        culture = mabeli
-        religion = geerida
-        size = 1900
-    }
-
-    soldiers = {
-        culture = mabeli
-        religion = geerida
-        size = 475
-    }
-
-    farmers = {
-        culture = mabeli
-        religion = geerida
-        size = 43225
+        size = 110000
     }
 
 }
@@ -877,349 +474,143 @@
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 1250
+        size = 5250
     }
 
     clergymen = {
         culture = mabeli
         religion = geerida
-        size = 150
+        size = 3150
     }
 
     artisans = {
         culture = mabeli
         religion = geerida
-        size = 2650
-    }
-
-    soldiers = {
-        culture = mabeli
-        religion = geerida
-        size = 450
-    }
-
-    farmers = {
-        culture = mabeli
-        religion = geerida
-        size = 50500
-    }
-
-    slaves = {
-        culture = mabeli
-        religion = geerida
-        size = 10000
-    }
-
-    #From here on they were amhara and coptic
-    aristocrats = {
-        culture = mabeli
-        religion = geerida
-        size = 600
-    }
-
-    clergymen = {
-        culture = mabeli
-        religion = geerida
-        size = 300
+        size = 12650
     }
 
     artisans = {
         culture = mabeli
         religion = geerida
-        size = 1250
+        size = 12650
     }
+
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 12650
+    }
+
 
     soldiers = {
         culture = mabeli
         religion = geerida
-        size = 325
+        size = 7450
     }
 
     farmers = {
         culture = mabeli
         religion = geerida
-        size = 26525
+        size = 550500
     }
 
     slaves = {
         culture = mabeli
         religion = geerida
-        size = 2000
+        size = 110000
     }
 }
 #Sidamo-Welega Region (1628000)
 #under the "rule" of Ethiopia in 1836
 #Bonga (516000/129000 POPS)
 1862 = {
-    aristocrats = {
-        culture = kefficho
-        religion = animist
-        size = 1000
-    }
-
-    officers = {
-        culture = kefficho
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = kefficho
-        religion = animist
-        size = 100
-    }
-
-    soldiers = {
-        culture = kefficho
-        religion = animist
-        size = 2000
-    }
-
-    farmers = {
-        culture = kefficho
-        religion = animist
-        size = 10100
-    }
-
-    aristocrats = {
-        culture = kefficho
-        religion = coptic
-        size = 840
-    }
-
-    officers = {
-        culture = kefficho
-        religion = coptic
-        size = 100
-    }
-
-    clergymen = {
-        culture = kefficho
-        religion = coptic
-        size = 100
-    }
-
-    soldiers = {
-        culture = kefficho
-        religion = coptic
-        size = 2000
-    }
-
-    farmers = {
-        culture = kefficho
-        religion = coptic
-        size = 7000
-    }
-
-    aristocrats = {
-        culture = mabeli #sidama
-        religion = animist
-        size = 4225
-    }
-
-    clergymen = {
-        culture = mabeli #sidama
-        religion = animist
-        size = 625
-    }
-
-    artisans = {
-        culture = mabeli #sidama
-        religion = animist
-        size = 5350
-    }
-
-    soldiers = {
-        culture = mabeli #sidama
-        religion = animist
-        size = 1500
-    }
-
-    farmers = {
-        culture = mabeli #sidama
-        religion = animist
-        size = 106500
-    }
-
-    slaves = {
-        culture = mabeli
-        religion = animist
-        size = 8200
-    }
-
-    aristocrats = {
-        culture = luo
-        religion = animist
-        size = 1300
-    }
-
-    clergymen = {
-        culture = luo
-        religion = animist
-        size = 100
-    }
-
-    soldiers = {
-        culture = luo
-        religion = animist
-        size = 500
-    }
-
-    artisans = {
-        culture = luo
-        religion = animist
-        size = 2000
-    }
-
-    farmers = {
-        culture = luo
-        religion = animist
-        size = 42500
-    }
 
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 500
+        size = 3500
     }
 
     officers = {
         culture = mabeli
         religion = geerida
-        size = 100
-    }
-
-    clergymen = {
-        culture = mabeli
-        religion = geerida
-        size = 100
-    }
-
-    soldiers = {
-        culture = mabeli
-        religion = geerida
         size = 2000
     }
 
-    farmers = {
+    clergymen = {
         culture = mabeli
         religion = geerida
-        size = 47300
-    }
-
-    aristocrats = {
-        culture = amhara
-        religion = coptic
-        size = 100
-    }
-
-    clergymen = {
-        culture = amhara
-        religion = coptic
-        size = 100
-    }
-
-    artisans = {
-        culture = amhara
-        religion = coptic
-        size = 500
+        size = 4000
     }
 
     soldiers = {
-        culture = amhara
-        religion = coptic
-        size = 500
+        culture = mabeli
+        religion = geerida
+        size = 12000
     }
 
     farmers = {
-        culture = amhara
-        religion = coptic
-        size = 8000
+        culture = mabeli
+        religion = geerida
+        size = 447300
     }
 }
 #Asosa (756000/189000 POPS)
 1863 = {
-    aristocrats = {
-        culture = amhara
-        religion = coptic
-        size = 200
-    }
-
-    clergymen = {
-        culture = amhara
-        religion = coptic
-        size = 310
-    }
-
-    artisans = {
-        culture = amhara
-        religion = coptic
-        size = 1200
-    }
-
-    soldiers = {
-        culture = amhara
-        religion = coptic
-        size = 1100
-    }
-    farmers = {
-        culture = amhara
-        religion = coptic
-        size = 20850
-    }
-
-    slaves = {
-        culture = amhara
-        religion = coptic
-        size = 6000
-    }
 
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 1650
+        size = 4650
     }
 
     clergymen = {
         culture = mabeli
         religion = geerida
-        size = 835
+        size = 8350
     }
 
     artisans = {
         culture = mabeli
         religion = geerida
-        size = 3350
+        size = 13350
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 13350
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 13350
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 13350
     }
 
     soldiers = {
         culture = mabeli
         religion = geerida
-        size = 240
+        size = 12400
     }
 
     farmers = {
         culture = mabeli
         religion = geerida
-        size = 57500
+        size = 687500
     }
 
     slaves = {
         culture = mabeli
         religion = geerida
-        size = 49425
-    }
-
-    clergymen = {
-        culture = mabeli
-        religion = animist
-        size = 435
-    }
-
-    farmers = {
-        culture = mabeli
-        religion = animist
-        size = 41000
+        size = 249425
     }
 }
 #Negele (720000/180000 POPS)
@@ -1227,7 +618,7 @@
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 875
+        size = 1875
     }
 
     clergymen = {
@@ -1300,112 +691,53 @@
 #under the "rule" of Ethiopia in 1836
 #Harer (384000/96000 POPS)
 1865 = {
-    aristocrats = {
-        culture = harari
-        religion = geerida
-        size = 910
-    }
-
-    bureaucrats = {
-        culture = harari
-        religion = geerida
-        size = 25
-    }
-
-    officers = {
-        culture = harari
-        religion = geerida
-        size = 25
-    }
-
-    clergymen = {
-        culture = harari
-        religion = geerida
-        size = 285
-    }
-
-    artisans = {
-        culture = harari
-        religion = geerida
-        size = 1900
-    }
-
-    soldiers = {
-        culture = harari
-        religion = geerida
-        size = 1100
-    }
-
-    farmers = {
-        culture = harari
-        religion = geerida
-        size = 39215
-    }
 
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 300
+        size = 4300
     }
 
     clergymen = {
         culture = mabeli
         religion = geerida
-        size = 165
+        size = 3650
     }
 
     artisans = {
         culture = mabeli
         religion = geerida
-        size = 700
+        size = 17000
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 17000
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 17000
     }
 
     soldiers = {
         culture = mabeli
         religion = geerida
-        size = 1170
+        size = 12170
     }
 
     farmers = {
         culture = mabeli
         religion = geerida
-        size = 11665
+        size = 611665
     }
 
     slaves = {
         culture = mabeli
         religion = animist
-        size = 2200
-    }
-
-    aristocrats = {
-        culture = mabeli
-        religion = geerida
-        size = 950
-    }
-
-    clergymen = {
-        culture = mabeli
-        religion = geerida
-        size = 475
-    }
-
-    artisans = {
-        culture = mabeli
-        religion = geerida
-        size = 2400
-    }
-
-    soldiers = {
-        culture = mabeli
-        religion = geerida
-        size = 175
-    }
-
-    farmers = {
-        culture = mabeli
-        religion = geerida
-        size = 32800
+        size = 218610
     }
 }
 #uncolonized in 1836
@@ -1415,37 +747,37 @@
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 625
+        size = 3625
     }
 
     clergymen = {
         culture = mabeli
         religion = geerida
-        size = 325
+        size = 1325
     }
 
     artisans = {
         culture = mabeli
         religion = geerida
-        size = 1600
+        size = 11600
     }
 
     soldiers = {
         culture = mabeli
         religion = geerida
-        size = 1050
+        size = 9050
     }
 
     farmers = {
         culture = mabeli
         religion = geerida
-        size = 38500
+        size = 238500
     }
 
     slaves = {
         culture = mabeli
         religion = animist
-        size = 5000
+        size = 15000
     }
 
 }
@@ -1455,37 +787,49 @@
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 1575
+        size = 3575
     }
 
     clergymen = {
         culture = mabeli
         religion = geerida
-        size = 100
+        size = 4000
     }
 
     soldiers = {
         culture = mabeli
         religion = geerida
-        size = 1150
+        size = 12150
     }
 
     artisans = {
         culture = mabeli
         religion = geerida
-        size = 3425
+        size = 13425
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 13425
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 13425
     }
 
     farmers = {
         culture = mabeli
         religion = geerida
-        size = 50625
+        size = 150625
     }
 
     slaves = {
         culture = mabeli
         religion = animist
-        size = 2000
+        size = 12000
     }
 
 }
@@ -1535,43 +879,43 @@
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 1050
+        size = 2050
     }
 
     bureaucrats = {
         culture = mabeli
         religion = geerida
-        size = 100
+        size = 1100
     }
 
     officers = {
         culture = mabeli
         religion = geerida
-        size = 75
+        size = 750
     }
 
     clergymen = {
         culture = mabeli
         religion = geerida
-        size = 550
+        size = 1550
     }
 
     artisans = {
         culture = mabeli
         religion = geerida
-        size = 2175
+        size = 12175
     }
 
     soldiers = {
         culture = mabeli
         religion = geerida
-        size = 1125
+        size = 3125
     }
 
     farmers = {
         culture = mabeli
         religion = geerida
-        size = 58000
+        size = 118000
     }
 }
 #Kismayo (84000/21000 POPS)
@@ -1579,31 +923,31 @@
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 275
+        size = 2275
     }
 
     clergymen = {
         culture = mabeli
         religion = geerida
-        size = 150
+        size = 1150
     }
 
     artisans = {
         culture = mabeli
         religion = geerida
-        size = 650
+        size = 11650
     }
 
     soldiers = {
         culture = mabeli
         religion = geerida
-        size = 150
+        size = 3150
     }
 
     farmers = {
         culture = mabeli
         religion = geerida
-        size = 13775
+        size = 113775
     }
 }
 #uncolonized/ruled by the Sultan of Geledi in 1836
@@ -1612,31 +956,31 @@
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 450
+        size = 3450
     }
 
     clergymen = {
         culture = mabeli
         religion = geerida
-        size = 225
+        size = 1225
     }
 
     artisans = {
         culture = mabeli
         religion = geerida
-        size = 1150
+        size = 15150
     }
 
     soldiers = {
         culture = mabeli
         religion = geerida
-        size = 1175
+        size = 6175
     }
 
     farmers = {
         culture = mabeli
         religion = geerida
-        size = 20000
+        size = 120000
     }
 }
 #Majerteyn Region (192000)
@@ -1646,31 +990,31 @@
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 350
+        size = 1350
     }
 
     clergymen = {
         culture = mabeli
         religion = geerida
-        size = 175
+        size = 1175
     }
 
     artisans = {
         culture = mabeli
         religion = geerida
-        size = 775
+        size = 12775
     }
 
     soldiers = {
         culture = mabeli
         religion = geerida
-        size = 200
+        size = 3200
     }
 
     farmers = {
         culture = mabeli
         religion = geerida
-        size = 15500
+        size = 95500
     }
 }
 #Busaso (116000/29000 POPS)
@@ -1678,49 +1022,73 @@
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 540
+        size = 4540
     }
 
     bureaucrats = {
         culture = mabeli
         religion = geerida
-        size = 50
+        size = 3500
     }
 
     officers = {
         culture = mabeli
         religion = geerida
-        size = 50
+        size = 350
     }
 
     clergymen = {
         culture = mabeli
         religion = geerida
-        size = 275
+        size = 4275
     }
 
     artisans = {
         culture = mabeli
         religion = geerida
-        size = 1175
+        size = 11175
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11175
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11175
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11175
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11175
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11175
     }
 
     soldiers = {
         culture = mabeli
         religion = geerida
-        size = 1000
+        size = 9000
     }
 
     farmers = {
         culture = mabeli
         religion = geerida
-        size = 20950
-    }
-
-    slaves = {
-        culture = cushitic
-        religion = animist
-        size = 5000
+        size = 320950
     }
 }
 #Adal Region (244000)
@@ -1730,60 +1098,16 @@
     aristocrats = {
         culture = mabeli
         religion = geerida
-        size = 890
+        size = 1890
     }
 
     bureaucrats = {
         culture = mabeli
         religion = geerida
-        size = 10
+        size = 900
     }
 
     officers = {
-        culture = mabeli
-        religion = geerida
-        size = 50
-    }
-
-    clergymen = {
-        culture = mabeli
-        religion = geerida
-        size = 450
-    }
-
-    artisans = {
-        culture = mabeli
-        religion = geerida
-        size = 1850
-    }
-
-    soldiers = {
-        culture = mabeli
-        religion = geerida
-        size = 1750
-    }
-
-    farmers = {
-        culture = mabeli
-        religion = geerida
-        size = 32000
-    }
-
-    slaves = {
-        culture = oromo
-        religion = animist
-        size = 7000
-    }
-
-    slaves = {
-        culture = cushitic
-        religion = animist
-        size = 3000
-    }
-}
-#Zayla (32000/8000 POPS)
-1874 = {
-    aristocrats = {
         culture = mabeli
         religion = geerida
         size = 150
@@ -1792,24 +1116,200 @@
     clergymen = {
         culture = mabeli
         religion = geerida
-        size = 75
+        size = 1450
     }
 
     artisans = {
         culture = mabeli
         religion = geerida
-        size = 400
+        size = 11850
     }
 
     soldiers = {
         culture = mabeli
         religion = geerida
-        size = 75
+        size = 3750
     }
 
     farmers = {
         culture = mabeli
         religion = geerida
-        size = 7300
+        size = 132000
     }
+}
+#Zayla (32000/8000 POPS)
+1874 = {
+    aristocrats = {
+        culture = mabeli
+        religion = geerida
+        size = 1500
+    }
+
+    clergymen = {
+        culture = mabeli
+        religion = geerida
+        size = 750
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 4000
+    }
+
+    soldiers = {
+        culture = mabeli
+        religion = geerida
+        size = 3750
+    }
+
+    farmers = {
+        culture = mabeli
+        religion = geerida
+        size = 97300
+    }
+}
+#Eritrea Region (180000)
+#under the rule of Egypt in 1836
+#Massawa (28000/7000 POPS)
+1849 = {
+    aristocrats = {
+        culture = mabeli
+        religion = geerida
+        size = 1500
+    }
+
+    clergymen = {
+        culture = mabeli
+        religion = geerida
+        size = 750
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11100
+    }
+
+    soldiers = {
+        culture = mabeli
+        religion = geerida
+        size = 3000
+    }
+
+    farmers = {
+        culture = mabeli
+        religion = geerida
+        size = 90000
+    }
+}
+#Assab (44000/11000 POPS)
+1851 = {
+    aristocrats = {
+        culture = mabeli
+        religion = geerida
+        size = 1250
+    }
+
+    clergymen = {
+        culture = mabeli
+        religion = geerida
+        size = 750
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 3500
+    }
+
+    soldiers = {
+        culture = mabeli
+        religion = geerida
+        size = 7500
+    }
+
+    farmers = {
+        culture = mabeli
+        religion = geerida
+        size = 63750
+    }
+}
+#under the rule of Ethiopia in 1836
+#Asmara (80000/20000 POPS)
+1848 = {
+    aristocrats = {
+        culture = mabeli
+        religion = geerida
+        size = 2250
+    }
+
+    bureaucrats = {
+        culture = mabeli
+        religion = geerida
+        size = 150
+    }
+
+    aristocrats = {
+        culture = mabeli
+        religion = geerida
+        size = 1500
+    }
+
+    clergymen = {
+        culture = mabeli
+        religion = geerida
+        size = 750
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11400
+    }
+
+    soldiers = {
+        culture = mabeli
+        religion = geerida
+        size = 6000
+    }
+
+    farmers = {
+        culture = mabeli
+        religion = geerida
+        size = 98800
+    }
+}
+#Akordat (28000/7000 POPS)
+1850 = {
+    aristocrats = {
+        culture = mabeli
+        religion = geerida
+        size = 2250
+    }
+
+    clergymen = {
+        culture = mabeli
+        religion = geerida
+        size = 1250
+    }
+
+    artisans = {
+        culture = mabeli
+        religion = geerida
+        size = 11350
+    }
+
+    soldiers = {
+        culture = mabeli
+        religion = geerida
+        size = 6000
+    }
+
+    farmers = {
+        culture = mabeli
+        religion = geerida
+        size = 106375
+    }
+
 }

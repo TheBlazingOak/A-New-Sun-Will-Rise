@@ -1,4 +1,4 @@
-capital = 1859
+capital = 1857
 primary_culture = mabeli
 religion = geerida
 government = absolute_monarchy
@@ -6,6 +6,7 @@ plurality = 5.0
 nationalvalue = nv_tradition
 literacy = 0.07
 is_releasable_vassal = no
+prestige = 25
 
 slavery = yes_slavery
 upper_house_composition = appointed
@@ -45,8 +46,25 @@ upper_house = {
     communist = 0
 }
 
+foreign_weapons = yes_foreign_weapons
+admin_reform = yes_admin_reform
+
+# Technologies
+flintlock_rifles = 1
+
+# Technologies
+
+# Inventions
+#bottling_process = yes
+modern_winemaking = yes
+#big_sail_ships = yes
+#sail_ships_transport = yes
+#big_sail_support = yes
+
 # Starting Consciousness
-consciousness = 2
-nonstate_consciousness = 1
+consciousness = 0
+nonstate_consciousness = 0
 
 schools = developing_tech_school
+
+oob = "ETH_oob.txt"

@@ -1,0 +1,507 @@
+leader = {
+    name = "Gabra Beselot Yosef"
+    type = land
+    date = 2836.1.1
+    personality = diplomatic
+    background = aristocrat
+}
+
+leader = {
+    name = "Sirak Anwar Teklile"
+    type = land
+    date = 2836.1.1
+    personality = deeply_religious
+    background = aristocrat
+}
+
+leader = {
+    name = "Akachi Orji"
+    type = land
+    date = 2836.1.1
+    personality = imperious 
+    background = aristocrat
+    prestige = 0.25
+}
+
+leader = {
+    name = "Gersem Aregawi Nebiat"
+    type = land
+    date = 2836.1.1
+    personality = cautious
+    background = aristocrat
+}
+
+leader = {
+    name = "Mengesha Adamu Ali"
+    type = land
+    date = 2836.1.1
+    personality = implacable
+    background = rising_star
+}
+
+army = {
+    name = "The Royal Guard"
+    location = 1857
+    regiment = {
+        name= "1. Guard"
+        type = irregular
+        home = 1857
+    }
+
+    regiment = {
+        name= "2. Guard"
+        type = irregular
+        home = 1857
+    }
+    regiment = {
+        name= "3. Guard"
+        type = irregular
+        home = 1857
+    }
+    regiment = {
+        name= "4. Guard"
+        type = irregular
+        home = 1857
+    }
+    regiment = {
+        name= "5. Guard"
+        type = irregular
+        home = 1857
+    }
+    regiment = {
+        name= "6. Guard"
+        type = irregular
+        home = 1857
+    }
+
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1857
+    }
+
+    regiment = {
+        name= "2. Cavalry"
+        type = cavalry
+        home = 1857
+    }
+
+}
+
+army = {
+    name = "Royal Army of the Sud"
+    location = 1835
+    regiment = {
+        name= "1. Division"
+        type = irregular
+        home = 1857
+    }
+
+    regiment = {
+        name= "2. Division"
+        type = irregular
+        home = 1857
+    }
+    regiment = {
+        name= "3. Division"
+        type = irregular
+        home = 1857
+    }
+    regiment = {
+        name= "4. Division"
+        type = irregular
+        home = 1857
+    }
+    regiment = {
+        name= "5. Division"
+        type = irregular
+        home = 1857
+    }
+
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1857
+    }
+
+}
+
+army = {
+    name = "Royal Army of the Bosaso"
+    location = 1872
+    regiment = {
+        name= "1. Division"
+        type = irregular
+        home = 1853
+    }
+
+    regiment = {
+        name= "2. Division"
+        type = irregular
+        home = 1853
+    }
+    regiment = {
+        name= "3. Division"
+        type = irregular
+        home = 1853
+    }
+    regiment = {
+        name= "4. Division"
+        type = irregular
+        home = 1853
+    }
+    regiment = {
+        name= "5. Division"
+        type = irregular
+        home = 1853
+    }
+
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1856
+    }
+
+}
+
+army = {
+    name = "Royal Army of the Mogadishu"
+    location = 1868
+    regiment = {
+        name= "1. Division"
+        type = irregular
+        home = 1868
+    }
+
+    regiment = {
+        name= "2. Division"
+        type = irregular
+        home = 1868
+    }
+    regiment = {
+        name= "3. Division"
+        type = irregular
+        home = 1869
+    }
+    regiment = {
+        name= "4. Division"
+        type = irregular
+        home = 1869
+    }
+    regiment = {
+        name= "5. Division"
+        type = irregular
+        home = 1869
+    }
+
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1870
+    }
+
+}
+
+army = {
+    name = "Royal Army of the Onnee City"
+    location = 1859
+    regiment = {
+        name= "1. Division"
+        type = irregular
+        home = 1859
+    }
+
+    regiment = {
+        name= "2. Division"
+        type = irregular
+        home = 1861
+    }
+    regiment = {
+        name= "3. Division"
+        type = irregular
+        home = 1861
+    }
+    regiment = {
+        name= "4. Division"
+        type = irregular
+        home = 1861
+    }
+    regiment = {
+        name= "5. Division"
+        type = irregular
+        home = 1862
+    }
+    regiment = {
+        name= "6. Division"
+        type = irregular
+        home = 1862
+    }
+    regiment = {
+        name= "7. Division"
+        type = irregular
+        home = 1865
+    }
+    regiment = {
+        name= "8. Division"
+        type = irregular
+        home = 1865
+    }
+    regiment = {
+        name= "9. Division"
+        type = irregular
+        home = 1860
+    }
+
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1862
+    }
+
+}
+
+army = {
+    name = "Royal Army of the Assab"
+    location = 1851
+    regiment = {
+        name= "1. Division"
+        type = irregular
+        home = 1851
+    }
+
+    regiment = {
+        name= "2. Division"
+        type = irregular
+        home = 1851
+    }
+    regiment = {
+        name= "3. Division"
+        type = irregular
+        home = 1851
+    }
+    regiment = {
+        name= "4. Division"
+        type = irregular
+        home = 1849
+    }
+    regiment = {
+        name= "5. Division"
+        type = irregular
+        home = 1849
+    }
+    regiment = {
+        name= "6. Division"
+        type = irregular
+        home = 1856
+    }
+    regiment = {
+        name= "7. Division"
+        type = irregular
+        home = 1856
+    }
+    regiment = {
+        name= "8. Division"
+        type = irregular
+        home = 1856
+    }
+    regiment = {
+        name= "9. Division"
+        type = irregular
+        home = 1856
+    }
+
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1856
+    }
+
+}
+
+army = {
+    name = "Glorius Army of the Emperor"
+    location = 1867
+    regiment = {
+        name= "1. Division"
+        type = irregular
+        home = 1867
+    }
+
+    regiment = {
+        name= "2. Division"
+        type = irregular
+        home = 1867
+    }
+    regiment = {
+        name= "3. Division"
+        type = irregular
+        home = 1867
+    }
+    regiment = {
+        name= "4. Division"
+        type = irregular
+        home = 1867
+    }
+    regiment = {
+        name= "5. Division"
+        type = irregular
+        home = 1867
+    }
+    regiment = {
+        name= "6. Division"
+        type = irregular
+        home = 1866
+    }
+    regiment = {
+        name= "7. Division"
+        type = irregular
+        home = 1866
+    }
+    regiment = {
+        name= "8. Division"
+        type = irregular
+        home = 1866
+    }
+    regiment = {
+        name= "9. Division"
+        type = irregular
+        home = 1866
+    }
+    regiment = {
+        name= "10. Division"
+        type = irregular
+        home = 1865
+    }
+    regiment = {
+        name= "11. Division"
+        type = irregular
+        home = 1865
+    }
+    regiment = {
+        name= "12. Division"
+        type = irregular
+        home = 1862
+    }
+
+    regiment = {
+        name= "13. Division"
+        type = irregular
+        home = 1829
+    }
+    regiment = {
+        name= "14. Division"
+        type = irregular
+        home = 1837
+    }
+    regiment = {
+        name= "15. Division"
+        type = irregular
+        home = 1831
+    }
+
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1865
+    }
+    regiment = {
+        name= "2. Cavalry"
+        type = cavalry
+        home = 1874
+    }
+
+}
+
+army = {
+    name = "Debre Markos Garrison"
+    location = 1855
+    regiment = {
+        name= "1. Division"
+        type = irregular
+        home = 1855
+    }
+
+    regiment = {
+        name= "2. Division"
+        type = irregular
+        home = 1855
+    }
+    regiment = {
+        name= "3. Division"
+        type = irregular
+        home = 1855
+    }
+    regiment = {
+        name= "4. Division"
+        type = irregular
+        home = 1855
+    }
+    regiment = {
+        name= "5. Division"
+        type = irregular
+        home = 1855
+    }
+    regiment = {
+        name= "6. Division"
+        type = irregular
+        home = 1855
+    }
+    regiment = {
+        name= "7. Division"
+        type = irregular
+        home = 1855
+    }
+    regiment = {
+        name= "8. Division"
+        type = irregular
+        home = 1855
+    }
+    regiment = {
+        name= "9. Division"
+        type = irregular
+        home = 1855
+    }
+    regiment = {
+        name= "10. Division"
+        type = irregular
+        home = 1848
+    }
+    regiment = {
+        name= "11. Division"
+        type = irregular
+        home = 1848
+    }
+    regiment = {
+        name= "12. Division"
+        type = irregular
+        home = 1848
+    }
+
+    regiment = {
+        name= "13. Division"
+        type = irregular
+        home = 1850
+    }
+    regiment = {
+        name= "14. Division"
+        type = irregular
+        home = 1850
+    }
+    regiment = {
+        name= "15. Division"
+        type = irregular
+        home = 1850
+    }
+
+    regiment = {
+        name= "1. Cavalry"
+        type = cavalry
+        home = 1873
+    }
+    regiment = {
+        name= "2. Cavalry"
+        type = cavalry
+        home = 1872
+    }
+
+}

@@ -520,10 +520,12 @@ transpacifica_unification = {
 	raising_arizona = {
     	potential = {
     	tag = TRP
+    	ARI = { exists = yes }
     	NOT = { 
     	has_country_flag = raising_arizona}
     	ARI = { is_vassal_of = THIS}
 		year = 2845
+		NOT = { has_country_flag = raising_arizona }
     		}
     	allow = {
     		nationalism_n_imperialism = 1
@@ -533,6 +535,7 @@ transpacifica_unification = {
     	inherit = ARI
 		MEX_100 = {add_core = THIS}
 		101 = { secede_province = THIS }
+		set_country_flag = raising_arizona
     	}
     }
 

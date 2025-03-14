@@ -187,7 +187,7 @@
     farmers = {
         culture = ping
         religion = mahayana
-        size = 824800
+        size = 424800
     }
     slaves = {
         culture = mongol
@@ -200,37 +200,13 @@
     aristocrats = {
         culture = ping
         religion = mahayana
-        size = 19075
+        size = 5075
     }
 
     clergymen = {
         culture = ping
         religion = mahayana
-        size = 11075
-    }
-
-    artisans = {
-        culture = ping
-        religion = mahayana
-        size = 11000
-    }
-
-    artisans = {
-        culture = ping
-        religion = mahayana
-        size = 11000
-    }
-
-    artisans = {
-        culture = ping
-        religion = mahayana
-        size = 11000
-    }
-
-    artisans = {
-        culture = ping
-        religion = mahayana
-        size = 11000
+        size = 3075
     }
 
     artisans = {
@@ -251,28 +227,16 @@
         size = 3000
     }
 
-    soldiers = {
-        culture = ping
-        religion = mahayana
-        size = 3000
-    }
-
-    soldiers = {
-        culture = ping
-        religion = mahayana
-        size = 75
-    }
-
     farmers = {
         culture = ping
         religion = mahayana
-        size = 547425
+        size = 117425
     }
 
     slaves = {
         culture = mongol
         religion = gelugpa
-        size = 214650
+        size = 124650
     }
 }
 #Tianjin (5964000/1491000 POPS)
@@ -280,7 +244,7 @@
     aristocrats = {
         culture = ping
         religion = mahayana
-        size = 19025
+        size = 9025
     }
 
     clergymen = {
@@ -292,7 +256,7 @@
     artisans = {
         culture = ping
         religion = mahayana
-        size = 79600
+        size = 49600
     }
 
     soldiers = {
@@ -304,13 +268,13 @@
     farmers = {
         culture = ping
         religion = mahayana
-        size = 920325
+        size = 520325
     }
 
     slaves = {
         culture = mongol
         religion = gelugpa
-        size = 99150
+        size = 49150
     }
 }
 ## Chen ##
@@ -1268,13 +1232,13 @@
     farmers = {
         culture = ping
         religion = mahayana
-        size = 512900
+        size = 212900
     }
 
     serfs = {
         culture = ping
         religion = mahayana
-        size = 260000
+        size = 60000
     }
 }
 #Xuzhou (2156000/539000 POPS)

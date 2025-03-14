@@ -7,25 +7,25 @@
     aristocrats = {
         culture = tsakiya
         religion = sarki
-        size = 3750
+        size = 13750
     }
 
     bureaucrats = {
         culture = tsakiya
         religion = sarki
-        size = 1500
+        size = 10500
     }
 
     officers = {
         culture = tsakiya
         religion = sarki
-        size = 500
+        size = 5500
     }
 
     clergymen = {
         culture = tsakiya
         religion = sarki
-        size = 4000
+        size = 60000
     }
 
     artisans = {
@@ -57,6 +57,24 @@
     soldiers = {
         culture = tsakiya
         religion = sarki
+        size = 24000
+    }
+
+    soldiers = {
+        culture = tsakiya
+        religion = sarki
+        size = 12000
+    }
+
+    soldiers = {
+        culture = tsakiya
+        religion = sarki
+        size = 12000
+    }
+
+    soldiers = {
+        culture = tsakiya
+        religion = sarki
         size = 12000
     }
 
@@ -69,12 +87,12 @@
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 255115
+        size = 1255115
     }
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 145750
+        size = 115750
     }
 
     aristocrats = {
@@ -166,13 +184,13 @@
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 56725
+        size = 556725
     }
 
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 20000
+        size = 120000
     }
 
     farmers = {
@@ -220,7 +238,7 @@
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 180125
+        size = 980125
     }
 
     aristocrats = {
@@ -244,7 +262,7 @@
     soldiers = {
         culture = tsakiya
         religion = sarki
-        size = 3000
+        size = 12000
     }
 
     farmers = {
@@ -256,7 +274,7 @@
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 74000
+        size = 174000
     }
 
     aristocrats = {
@@ -303,19 +321,43 @@
     aristocrats = {
         culture = tsakiya
         religion = sarki
-        size = 1925
+        size = 5925
     }
 
     clergymen = {
         culture = tsakiya
         religion = sarki
-        size = 975
+        size = 4975
     }
 
     artisans = {
         culture = tsakiya
         religion = sarki
-        size = 4900
+        size = 11900
+    }
+
+    artisans = {
+        culture = tsakiya
+        religion = sarki
+        size = 11900
+    }
+
+    artisans = {
+        culture = tsakiya
+        religion = sarki
+        size = 11900
+    }
+
+    artisans = {
+        culture = tsakiya
+        religion = sarki
+        size = 11900
+    }
+
+    artisans = {
+        culture = tsakiya
+        religion = sarki
+        size = 11900
     }
 
     soldiers = {
@@ -327,13 +369,13 @@
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 125700
+        size = 825700
     }
 
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 54000
+        size = 154000
     }
 	farmers = {
         culture = shenkuda
@@ -357,49 +399,49 @@
     aristocrats = {
         culture = tsakiya
         religion = sarki
-        size = 2200
+        size = 12200
     }
 
     bureaucrats = {
         culture = tsakiya
         religion = sarki
-        size = 125
+        size = 1125
     }
 
     officers = {
         culture = tsakiya
         religion = sarki
-        size = 250
+        size = 1250
     }
 
     clergymen = {
         culture = tsakiya
         religion = sarki
-        size = 1175
+        size = 8175
     }
 
     artisans = {
         culture = tsakiya
         religion = sarki
-        size = 8850
+        size = 28850
     }
 
     soldiers = {
         culture = tsakiya
         religion = sarki
-        size = 6175
+        size = 16175
     }
 
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 42025
+        size = 542025
     }
 
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 35500
+        size = 135500
     }
 
     farmers = {
@@ -458,37 +500,52 @@
     aristocrats = {
         culture = tsakiya
         religion = sarki
-        size = 325
+        size = 9325
     }
 
     clergymen = {
         culture = tsakiya
         religion = sarki
-        size = 175
+        size = 6175
     }
 
     artisans = {
         culture = tsakiya
         religion = sarki
-        size = 700
+        size = 11700
+    }
+    artisans = {
+        culture = tsakiya
+        religion = sarki
+        size = 11700
+    }
+    artisans = {
+        culture = tsakiya
+        religion = sarki
+        size = 11700
+    }
+    artisans = {
+        culture = tsakiya
+        religion = sarki
+        size = 11700
     }
 
     soldiers = {
         culture = tsakiya
         religion = sarki
-        size = 1750
+        size = 12750
     }
 
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 22625
+        size = 422625
     }
 
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 35000
+        size = 135000
     }
     farmers = {
         culture = kasashe
@@ -511,24 +568,49 @@
         size = 6725
     }
 }
-#Tsushima - formerly Shoyna
+#Sarki City
 2589 = {
     aristocrats = {
         culture = tsakiya
         religion = sarki
-        size = 1025
+        size = 9025
     }
 
     clergymen = {
         culture = tsakiya
         religion = sarki
-        size = 475
+        size = 50475
     }
 
     artisans = {
         culture = tsakiya
         religion = sarki
-        size = 10700
+        size = 11700
+    }
+    artisans = {
+        culture = tsakiya
+        religion = sarki
+        size = 11700
+    }
+    artisans = {
+        culture = tsakiya
+        religion = sarki
+        size = 11700
+    }
+    artisans = {
+        culture = tsakiya
+        religion = sarki
+        size = 11700
+    }
+    artisans = {
+        culture = tsakiya
+        religion = sarki
+        size = 11700
+    }
+    artisans = {
+        culture = tsakiya
+        religion = sarki
+        size = 11700
     }
 
     artisans = {
@@ -546,19 +628,19 @@
     soldiers = {
         culture = tsakiya
         religion = sarki
-        size = 1750
+        size = 22750
     }
 
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 72625
+        size = 1072625
     }
 
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 21000
+        size = 221000
     }
     farmers = {
         culture = kasashe
@@ -587,7 +669,7 @@
     aristocrats = {
         culture = tsakiya
         religion = sarki
-        size = 800
+        size = 4800
     }
 
     clergymen = {
@@ -605,13 +687,13 @@
     soldiers = {
         culture = tsakiya
         religion = sarki
-        size = 425
+        size = 26425
     }
 
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 57325
+        size = 257325
     }
 
     farmers = {
@@ -651,7 +733,7 @@
     aristocrats = {
         culture = tsakiya
         religion = sarki
-        size = 1200
+        size = 4200
     }
 
     clergymen = {
@@ -669,13 +751,13 @@
     soldiers = {
         culture = tsakiya
         religion = sarki
-        size = 4250
+        size = 19250
     }
 
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 72325
+        size = 272325
     }
 
     aristocrats = {
@@ -763,19 +845,19 @@
     soldiers = {
         culture = tsakiya
         religion = sarki
-        size = 3000
+        size = 13000
     }
 
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 65925
+        size = 665925
     }
 
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 77000
+        size = 177000
     }
 
     farmers = {
@@ -799,13 +881,13 @@
     aristocrats = {
         culture = tsakiya
         religion = sarki
-        size = 750
+        size = 5750
     }
 
     clergymen = {
         culture = tsakiya
         religion = sarki
-        size = 1000
+        size = 3000
     }
 
     artisans = {
@@ -817,19 +899,19 @@
     soldiers = {
         culture = tsakiya
         religion = sarki
-        size = 3000
+        size = 19000
     }
 
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 38925
+        size = 338925
     }
 
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 43000
+        size = 143000
     }
 
     farmers = {
@@ -853,37 +935,37 @@
     aristocrats = {
         culture = tsakiya
         religion = sarki
-        size = 750
+        size = 4750
     }
 
     clergymen = {
         culture = tsakiya
         religion = sarki
-        size = 1000
+        size = 4000
     }
 
     artisans = {
         culture = tsakiya
         religion = sarki
-        size = 4500
+        size = 14500
     }
 
     soldiers = {
         culture = tsakiya
         religion = sarki
-        size = 3000
+        size = 17000
     }
 
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 38925
+        size = 338925
     }
 
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 43000
+        size = 143000
     }
 
     farmers = {
@@ -907,37 +989,37 @@
     aristocrats = {
         culture = tsakiya
         religion = sarki
-        size = 450
+        size = 3450
     }
 
     clergymen = {
         culture = tsakiya
         religion = sarki
-        size = 700
+        size = 3700
     }
 
     artisans = {
         culture = tsakiya
         religion = sarki
-        size = 6500
+        size = 11500
     }
 
     soldiers = {
         culture = tsakiya
         religion = sarki
-        size = 3000
+        size = 19000
     }
 
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 58925
+        size = 258925
     }
 
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 33000
+        size = 133000
     }
 
     farmers = {
@@ -962,13 +1044,13 @@
     bureaucrats = {
         culture = tsakiya
         religion = sarki
-        size = 800
+        size = 2800
     }
 
     officers = {
         culture = tsakiya
         religion = sarki
-        size = 700
+        size = 2700
     }
 	aristocrats = {
         culture = tsakiya
@@ -1003,19 +1085,19 @@
     soldiers = {
         culture = tsakiya
         religion = sarki
-        size = 6000
+        size = 26000
     }
 
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 62125
+        size = 362125
     }
 
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 55000
+        size = 155000
     }
 
     farmers = {
@@ -1075,19 +1157,19 @@
     soldiers = {
         culture = tsakiya
         religion = sarki
-        size = 5200
+        size = 9200
     }
 
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 74500
+        size = 374500
     }
 
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 66000
+        size = 266000
     }
 
     farmers = {
@@ -1132,19 +1214,19 @@
     soldiers = {
         culture = tsakiya
         religion = sarki
-        size = 2200
+        size = 6200
     }
 
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 34500
+        size = 164500
     }
 
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 41000
+        size = 141000
     }
 
     farmers = {
@@ -1194,13 +1276,13 @@
     farmers = {
         culture = tsakiya
         religion = sarki
-        size = 41700
+        size = 241700
     }
 
     slaves = {
         culture = tsakiya
         religion = sarki
-        size = 25000
+        size = 125000
     }
 
     farmers = {
@@ -1353,49 +1435,49 @@
     aristocrats = {
         culture = shenkuda
         religion = sarki
-        size = 4250
+        size = 14250
     }
 
     bureaucrats = {
         culture = shenkuda
         religion = sarki
-        size = 1200
+        size = 4500
     }
 
     officers = {
         culture = shenkuda
         religion = sarki
-        size = 400
+        size = 3400
     }
 
     clergymen = {
         culture = shenkuda
         religion = sarki
-        size = 1750
+        size = 41750
     }
 
     artisans = {
         culture = shenkuda
         religion = sarki
-        size = 8600
+        size = 48600
     }
 
     soldiers = {
         culture = shenkuda
         religion = sarki
-        size = 6000
+        size = 36000
     }
 
     farmers = {
         culture = shenkuda
         religion = sarki
-        size = 73100
+        size = 473100
     }
 
     slaves = {
         culture = shenkuda
         religion = sarki
-        size = 115000
+        size = 215000
     }
 
     aristocrats = {
@@ -1451,7 +1533,7 @@
     farmers = {
         culture = shenkuda
         religion = sarki
-        size = 48650
+        size = 148650
     }
 
     slaves = {
@@ -1681,13 +1763,13 @@
     farmers = {
         culture = shenkuda
         religion = sarki
-        size = 93400
+        size = 593400
     }
 
     slaves = {
         culture = shenkuda
         religion = sarki
-        size = 56000
+        size = 156000
     }
 
     aristocrats = {
@@ -1908,13 +1990,13 @@
     farmers = {
         culture = shenkuda
         religion = sarki
-        size = 34600
+        size = 134600
     }
 
     slaves = {
         culture = shenkuda
         religion = sarki
-        size = 40000
+        size = 140000
     }
 
     farmers = {
@@ -1952,13 +2034,13 @@
     soldiers = {
         culture = shenkuda
         religion = sarki
-        size = 1100
+        size = 6100
     }
 
     farmers = {
         culture = shenkuda
         religion = sarki
-        size = 59025
+        size = 259025
     }
 
     slaves = {
@@ -2283,59 +2365,59 @@
     aristocrats = {
         culture = filayen
         religion = sarki
-        size = 1250
+        size = 7250
     }
 
     bureaucrats = {
         culture = filayen
         religion = sarki
-        size = 500
+        size = 5500
     }
 
     officers = {
         culture = filayen
         religion = sarki
-        size = 400
+        size = 3400
     }
 
     clergymen = {
         culture = filayen
         religion = sarki
-        size = 2000
+        size = 42000
     }
 
     artisans = {
+        culture = filayen
+        religion = sarki
+        size = 53000
+    }
+    artisans = {
+        culture = filayen
+        religion = sarki
+        size = 38450
+    }
+
+    soldiers = {
+        culture = filayen
+        religion = sarki
+        size = 16000
+    }
+
+    soldiers = {
         culture = filayen
         religion = sarki
         size = 13000
-    }
-    artisans = {
-        culture = filayen
-        religion = sarki
-        size = 8450
-    }
-
-    soldiers = {
-        culture = filayen
-        religion = sarki
-        size = 6000
-    }
-
-    soldiers = {
-        culture = filayen
-        religion = sarki
-        size = 3000
     }
 
     farmers = {
         culture = filayen
         religion = sarki
-        size = 122115
+        size = 322115
     }
     slaves = {
         culture = filayen
         religion = sarki
-        size = 115750
+        size = 215750
     }
 
     farmers = {
@@ -2381,7 +2463,7 @@
     artisans = {
         culture = filayen
         religion = sarki
-        size = 7000
+        size = 17000
     }
 
     soldiers = {
@@ -2393,12 +2475,12 @@
     farmers = {
         culture = filayen
         religion = sarki
-        size = 71915
+        size = 271915
     }
     slaves = {
         culture = filayen
         religion = sarki
-        size = 33750
+        size = 133750
     }
 
     farmers = {
@@ -2540,19 +2622,19 @@
     soldiers = {
         culture = filayen
         religion = sarki
-        size = 825
+        size = 6825
     }
 
     farmers = {
         culture = filayen
         religion = sarki
-        size = 61225
+        size = 261225
     }
 
     slaves = {
         culture = shenkuda
         religion = sarki
-        size = 14000
+        size = 114000
     }
 
     farmers = {
@@ -2572,13 +2654,13 @@
     clergymen = {
         culture = filayen
         religion = sarki
-        size = 550
+        size = 1550
     }
 
     artisans = {
         culture = filayen
         religion = sarki
-        size = 2250
+        size = 12250
     }
 
     soldiers = {
@@ -2590,13 +2672,13 @@
     farmers = {
         culture = filayen
         religion = sarki
-        size = 59575
+        size = 159575
     }
 
     slaves = {
         culture = shenkuda
         religion = sarki
-        size = 42000
+        size = 142000
     }
     farmers = {
         culture = tsakiya
@@ -2633,7 +2715,7 @@
     farmers = {
         culture = filayen
         religion = sarki
-        size = 37925
+        size = 137925
     }
 
     slaves = {
@@ -2857,13 +2939,13 @@
     farmers = {
         culture = filayen
         religion = sarki
-        size = 43225
+        size = 93225
     }
 
     slaves = {
         culture = filayen
         religion = sarki
-        size = 51250
+        size = 61250
     }
 
     farmers = {
@@ -2918,7 +3000,7 @@
     farmers = {
         culture = filayen
         religion = sarki
-        size = 63225
+        size = 163225
     }
 
     slaves = {
@@ -2955,13 +3037,13 @@
     clergymen = {
         culture = filayen
         religion = sarki
-        size = 700
+        size = 1700
     }
 
     artisans = {
         culture = filayen
         religion = sarki
-        size = 3450
+        size = 13450
     }
 
     soldiers = {
@@ -2973,13 +3055,13 @@
     farmers = {
         culture = filayen
         religion = sarki
-        size = 13225
+        size = 93225
     }
 
     slaves = {
         culture = filayen
         religion = sarki
-        size = 36850
+        size = 46850
     }
 
     farmers = {
@@ -3029,7 +3111,7 @@
     farmers = {
         culture = filayen
         religion = sarki
-        size = 23225
+        size = 123225
     }
 
     slaves = {
@@ -3078,13 +3160,13 @@
     farmers = {
         culture = filayen
         religion = sarki
-        size = 33225
+        size = 133225
     }
 
     slaves = {
         culture = filayen
         religion = sarki
-        size = 13850
+        size = 53850
     }
 
     farmers = {
@@ -3105,30 +3187,30 @@
     aristocrats = {
         culture = filayen
         religion = sarki
-        size = 2250
+        size = 7250
     }
     clergymen = {
         culture = filayen
         religion = sarki
-        size = 1200
+        size = 4200
     }
 
     artisans = {
         culture = filayen
         religion = sarki
-        size = 9450
+        size = 19450
     }
 
     soldiers = {
         culture = filayen
         religion = sarki
-        size = 2000
+        size = 7000
     }
 
     farmers = {
         culture = filayen
         religion = sarki
-        size = 33225
+        size = 133225
     }
 
     slaves = {
@@ -3220,19 +3302,19 @@
     soldiers = {
         culture = filayen
         religion = sarki
-        size = 2500
+        size = 9500
     }
 
     farmers = {
         culture = filayen
         religion = sarki
-        size = 23225
+        size = 163225
     }
 
     slaves = {
         culture = filayen
         religion = sarki
-        size = 2750
+        size = 12750
     }
 
     farmers = {

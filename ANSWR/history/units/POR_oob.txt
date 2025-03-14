@@ -1,8 +1,3 @@
-PER = { value = 200 }
-GAZ = {
-    truce_until = 1841.1.1
-    value = 125
-}
 AGC = {
     value = -400
 }
@@ -109,39 +104,6 @@ army = {
         home = 519
     }
 
-}
-
-army = {
-    name = "Exército de Africa Ocidental"
-    location = 1999
-
-    regiment = {
-        name = "1. Divisão Colonial"
-        type = infantry
-        home = 525
-    }
-}
-
-army = {
-    name = "Exército de Africa Oriental"
-    location = 2059
-
-    regiment = {
-        name = "2. Divisão Colonial"
-        type = infantry
-        home = 2134
-    }
-}
-
-army = {
-    name = "Exército da Índia"
-    location = 1303
-
-    regiment = {
-        name = "3. Divisão Colonial"
-        type = infantry
-        home = 1303
-    }
 }
 
 navy = {
