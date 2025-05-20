@@ -5,7 +5,7 @@ government = democracy
 plurality = 0.5
 nationalvalue = nv_equality
 literacy = 0.7
-civilized = yes
+civilized = no
 
 # Political reforms
 slavery = no_slavery
@@ -46,3 +46,6 @@ upper_house = {
     socialist = 35
     communist = 0
 }
+
+# Technologies
+flintlock_rifles = 1

@@ -114,17 +114,40 @@ political_decisions = {
 
         potential = {
             tag = NIT
-            AUS_623 = { owned_by = GLC } 
-            AUS_641 = { owned_by = HUN }
+            NOT = { has_country_flag = nit_fourth_brother }
         }
 
         allow = {
             prestige = 15
+            AUS_623 = { owned_by = HUN } 
+            AUS_641 = { owned_by = GLC }
             }
 
         effect = {
             AUS_641 = { add_core = THIS }
             AUS_623 = { add_core = THIS }
+            set_country_flag = nit_fourth_brother
+        }
+    }
+
+    the_fourth_brother_continued = {
+
+        potential = {
+            tag = NIT
+            has_country_flag = nit_fourth_brother 
+            NOT = { has_country_flag = nit_fourth_brother_2 }
+        }
+
+        allow = {
+            state_n_government = 1
+            AUS_623 = { owned_by = NIT } 
+            AUS_641 = { owned_by = NIT }
+            }
+
+        effect = {
+            add_accepted_culture = staromadar
+            add_accepted_culture = hungarian
+            set_country_flag = nit_fourth_brother_2
         }
     }
 #Political Decisons Bracket

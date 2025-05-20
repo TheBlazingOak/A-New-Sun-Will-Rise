@@ -168,6 +168,7 @@ political_decisions = {
         }
         ai_will_do = { factor = 1 }
     }
+
     embrace_the_autocracy = {
     potential = {
         tag = FRE
@@ -234,6 +235,41 @@ political_decisions = {
             schools = french_commoner_school
             nationalvalue = nv_equality
             set_country_flag = embraced_unity
+        }
+    }
+
+    the_novo_provencials = {
+    potential = {
+        tag = FRE
+        not = { has_country_flag = novo_prov }
+        }
+
+        allow = {
+        revolution_n_counterrevolution = 1
+        FRA_420 = { owned_by = THIS}
+        }
+
+        effect = {
+        FRA_467 = { add_core = FRE }
+        set_country_flag = novo_prov
+        }
+    }
+
+
+    embrace_the_novo_provencials = {
+    potential = {
+        tag = FRE
+        has_country_flag = novo_prov
+        not = { has_country_flag = embraced_novo_prov }
+        }
+
+        allow = {
+        FRA_467 = { owned_by = FRE }
+        }
+
+        effect = {
+        add_accepted_culture = provencal
+        set_country_flag = embraced_novo_prov
         }
     }
 #End of political_decisions brackets    

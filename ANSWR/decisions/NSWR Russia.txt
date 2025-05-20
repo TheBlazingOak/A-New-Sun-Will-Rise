@@ -68,13 +68,14 @@ political_decisions = {
 		potential = {
 			has_country_modifier = siberian_unifier
 			1008 = { owned_by = THIS }
-			NOT = { has_country_flag = setjer_colonization}
+			NOT = { has_country_flag = accept_oldrus_expansion}
 		}
 		allow = {
 			prestige = 30
 			nationalism_n_imperialism = 1
 			}
 		effect ={
+			set_country_flag = accept_oldrus_expansion
 			prestige = 5
 			add_accepted_culture = russian
 		}
