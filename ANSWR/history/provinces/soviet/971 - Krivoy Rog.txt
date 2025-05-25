@@ -1,6 +1,7 @@
-owner = UKR
-controller = UKR
+owner = WRP
+controller = WRP
 add_core = UKR
+add_core = WRP
 trade_goods = coal
 life_rating = 39
 terrain = mining_district

@@ -4,7 +4,3 @@ add_core = OSE
 trade_goods = wool
 life_rating = 35
 colonial = 2
-2861.1.1 = {
-    owner = RUS
-    controller = RUS
-}

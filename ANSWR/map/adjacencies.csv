@@ -116,9 +116,6 @@ From;To;Type;Through;Data;Comment
 # Asian Straits
 #
 
-1540;1538;sea;2826;0;Nantong - Shanghai through the Yantze River
-1540;1539;sea;2826;0;Nantong - Suzhou through the Yantze River
-1541;1539;sea;2826;0;Tongzhou - Suzhou through the Yantze River
 1452;1454;sea;2856;0;Biak - Merah Strait
 1071;1142;sea;2787;0;Bandar abbhas - Homuz Strait
 1071;1141;sea;2787;0;Lengeh - Homuz Strait
@@ -175,7 +172,6 @@ From;To;Type;Through;Data;Comment
 1249;1282;sea;3307;0;Kharswari Strait
 1249;1262;sea;3307;0;Kharswari Strait
 1248;1270;sea;3303;0;Gaya Strait
-1646;1648;sea;1841;0;Kanazawa Strait
 #Lebannon
 896;900;sea;2770;0;Antakya Strait 
 900;898;sea;2770;0;Antep Strait

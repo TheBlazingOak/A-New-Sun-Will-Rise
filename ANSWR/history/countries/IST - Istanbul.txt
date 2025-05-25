@@ -73,3 +73,5 @@ basic_chemistry = 1
 #Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 0
+
+oob = "IST_oob.txt"

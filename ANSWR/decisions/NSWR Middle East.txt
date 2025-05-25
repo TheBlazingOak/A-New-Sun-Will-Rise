@@ -85,33 +85,4 @@ political_decisions = {
 			add_accepted_culture = tajik
 		}
 	}
-	claim_indian_lands = {
-		alert = yes
-		picture = neo_persia
-		potential = {
-			tag = NPE
-			NOT = { has_country_flag = indian_claims }
-		}
-		allow = {
-			prestige = 50
-			}
-		effect = {
-			set_country_flag = indian_claims
-			add_casus_belli = {
-				target = NAG
-				type = colonial_conquest_full
-				months = 120
-			}
-			add_casus_belli = {
-				target = IND
-				type = colonial_conquest_full
-				months = 120
-			}
-			add_casus_belli = {
-				target = PNJ
-				type = colonial_conquest_full
-				months = 120
-			}
-		}
-	}
 }

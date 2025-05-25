@@ -1055,6 +1055,7 @@ province_event = {
     desc = "EVTDESC2600"
 
     trigger = {
+        year = 2860
         NOT = {
             is_core = THIS
             has_province_modifier = core_integration

@@ -1,6 +1,7 @@
 owner = NUH
 controller = NUH
 add_core = NUH
+add_core = AMZ
 trade_goods = tobacco
 terrain = farmlands
 life_rating = 35

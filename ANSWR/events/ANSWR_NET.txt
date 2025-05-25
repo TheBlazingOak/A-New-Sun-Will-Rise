@@ -307,3 +307,42 @@ country_event = {
 		ATJ_1405 = { secede_province = THIS }
 	}
 }
+
+#The Rise of the Oudrijk
+country_event = {
+	id = 52047
+	title = "EVTNAME52047"
+	desc = "EVTDESC52047"
+	trigger = {
+		tag = NET
+		OUD = { exists = yes }
+		NOT = { has_country_flag = oudrijk_response}
+	}
+	mean_time_to_happen = { months = 3 }
+	option = {
+		name = "EVTOPTA52047"
+		prestige = -10
+		set_country_flag = oudrijk_response
+	}
+}
+#The Omani Sultanate
+country_event = {
+	id = 52048
+	title = "EVTNAME52048"
+	desc = "EVTDESC52048"
+	trigger = {
+		tag = NET
+		year = 2870
+		revolution_n_counterrevolution = 1
+		OMN = { exists = yes }
+		OMN = { ai = yes }
+		NOT = { has_country_flag = omani_protectorate}
+		relation = { who = OMN value = 25 }
+	}
+	mean_time_to_happen = { months = 3 }
+	option = {
+		name = "EVTOPTA52048"
+		prestige = 5
+		OMN = { inherit = THIS }
+	}
+}

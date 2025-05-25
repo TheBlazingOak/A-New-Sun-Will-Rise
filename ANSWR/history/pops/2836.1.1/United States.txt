@@ -4984,55 +4984,47 @@
     aristocrats = {
         culture = dixie
         religion = protestant
-        size = 150
+        size = 3150
     }
 
     clergymen = {
         culture = dixie
         religion = protestant
-        size = 50
+        size = 1450
     }
 
     artisans = {
         culture = dixie
         religion = protestant
-        size = 275
+        size = 11000
+    }
+    artisans = {
+        culture = dixie
+        religion = protestant
+        size = 11000
+    }
+    artisans = {
+        culture = dixie
+        religion = protestant
+        size = 11000
     }
 
     soldiers = {
         culture = dixie
         religion = protestant
-        size = 525
+        size = 6000
     }
 
     farmers = {
         culture = dixie
         religion = protestant
-        size = 9000
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = protestant
-        size = 15
-    }
-
-    artisans = {
-        culture = dixie
-        religion = protestant
-        size = 75
-    }
-
-    farmers = {
-        culture = dixie
-        religion = protestant
-        size = 10
+        size = 99000
     }
 
     slaves = {
         culture = dixie
         religion = protestant
-        size = 13900
+        size = 43900
     }
 }
 #Savannah (200000/50000 POPS)

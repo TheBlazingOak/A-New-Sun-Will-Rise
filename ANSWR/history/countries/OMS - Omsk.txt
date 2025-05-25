@@ -47,7 +47,6 @@ upper_house = {
 }
 
 set_country_flag = veravburyu_country
-set_country_flag = new_world_nation
 
 # Technologies
 post_napoleonic_thought = 1

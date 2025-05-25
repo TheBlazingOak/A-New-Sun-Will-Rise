@@ -1,6 +1,5 @@
-owner = GMJ
-controller = GMJ
-add_core = GMJ
-add_core = XBI
+owner = TIB
+controller = TIB
+add_core = TIB
 trade_goods = grain
 life_rating = 32

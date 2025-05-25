@@ -401,7 +401,7 @@ political_decisions = {
 		effect = {
 			prestige = 15
 			money = -100000
-			2089 = {add_province_modifier { name = small_immigration_boom duration = 1825}}
+			2089 = { add_province_modifier { name = small_immigration_boom duration = 1825}}
 			set_country_flag = the_palace_in_aan_de_doorns
 		}
 	}

@@ -738,7 +738,7 @@
     farmers = {
         culture = misri
         religion = sunni
-        size = 10150
+        size = 16150
     }
 
     aristocrats = {
@@ -769,6 +769,11 @@
         culture = bedouin
         religion = sunni
         size = 2700
+    }
+    farmers = {
+        culture = grecocopt
+        religion = coptic
+        size = 10000
     }
 }
 #Sidi Barrani (20000/5000 POPS)

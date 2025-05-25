@@ -626,8 +626,6 @@ country_event ={
         remove_core = PZN
         remove_core = AUS
         }
-        HAN_534 = { add_core = OUD }
-        HAN_528 = { add_core = OUD }
         remove_country_modifier = oudrijk_prince
         remove_country_modifier = oudrijk_oppostion
         add_country_modifier = {

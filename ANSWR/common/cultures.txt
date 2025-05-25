@@ -1434,6 +1434,7 @@ iranian_turanian = {
             Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti
             Shirazi Tabrizi Tahmasebi Zahedi
             }
+        radicalism = 15
     }
     ossetian = {
         color = {44 48 81}

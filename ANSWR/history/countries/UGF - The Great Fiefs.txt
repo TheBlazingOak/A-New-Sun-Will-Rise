@@ -1,19 +1,22 @@
-capital = 1258
-primary_culture = assamese
-religion = hindu
+capital = 2019
+primary_culture = ugandalan
+culture = viwa
+culture = bingwa
+religion = harami
 government = absolute_monarchy
-plurality = 0.0
-nationalvalue = nv_order
-literacy = 0.02
+plurality = 1.0
+nationalvalue = nv_tradition
+literacy = 0.06
+non_state_culture_literacy = 0
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = no_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = first_past_the_post
+voting_system = jefferson_method
 political_parties = underground_parties
 
 # Social Reforms
@@ -25,30 +28,33 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = no_draft
-debt_law = serfdom
+debt_law = peonage
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
-border_policy = open_borders
+border_policy = closed_borders
 
-set_country_flag = hindu_country
+set_country_flag = harami_country
 
-ruling_party = ASM_conservative
+set_country_flag = lacking_writing_system
+
+ruling_party = BUG_conservative
 upper_house = {
     fascist = 0
-    liberal = 12
-    conservative = 77
-    reactionary = 11
+    liberal = 15
+    conservative = 70
+    reactionary = 15
     anarcho_liberal = 0
     socialist = 0
     communist = 0
 }
 
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
+set_country_flag = post_colonial_country
+
+#Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
+
+oob = "BUG_oob.txt"

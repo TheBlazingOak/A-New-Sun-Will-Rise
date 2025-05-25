@@ -1,6 +1,5 @@
-owner = BKV
-controller = BKV
-add_core = BKV
-add_core = ROM
+owner = WRP
+controller = WRP
+add_core = NIT
 trade_goods = fruit
 life_rating = 35

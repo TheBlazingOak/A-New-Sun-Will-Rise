@@ -675,3 +675,21 @@ country_event = {
 		}
 	}
 }
+#Misc Flavor
+#California Forever
+country_event = {
+	id = 522000
+	title = "EVTNAME522000"
+	desc = "EVTDESC522000"
+	picture = wasteland_evt
+
+	trigger = {
+		revolution_n_counterrevolution = 1
+		84 = {owned_by = THIS}
+	}
+
+	option = {
+	name = "EVTOPTA522000"
+		prestige = 5
+	}
+}

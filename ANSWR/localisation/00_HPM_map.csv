@@ -376,6 +376,11 @@ ARG_2384;Córdoba de Argentina;;;;;;;;;;;;;;;;;;;;;;;x
 ARG_2393;La Pampa;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1391;Kota Kubang Labu;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1382;Hatiên;;;;;;;;;;;;;;;;;;;;;;;x
+ENG_2014;Barotse;;;;;;;;;;;;;;;;;;;;;;;x
+POR_2049;Manjakazi;;;;;;;;;;;;;;;;;;;;;;;x
+POR_2054;Shonaland;;;;;;;;;;;;;;;;;;;;;;;x
+ENG_1261;Rezara;;;;;;;;;;;;;;;;;;;;;;;x
+ENG_1305;Varsha;;;;;;;;;;;;;;;;;;;;;;;x
 RUS_1048;Western Cherkess Plains;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1049;Upper Sochi;;;;;;;;;;;;;;;;;;;;;;;x
 PROV900;Antakya;;;;;;;;;;;;;;;;;;;;;;;x
@@ -663,7 +668,7 @@ PROV4;Paul's Harbor;;;;;;;;;;;;x
 PROV5;Unalaska;;;;;;;;;;;;x
 PROV107;San Jose;;;;;;;;;;;;x
 PROV108;Great Rockies;;;;;;;;;;;;x
-PROV104;San Francisco;;;;;;;;;;;;x
+PROV104;SanFran;;;;;;;;;;;;x
 PROV2146;Wash City;;;;;;;;;;;;x
 PROV2148;Albuquerque;;;;;;;;;;;;x
 PROV231;Camden;;;;;;;;;;;;x
@@ -1233,7 +1238,7 @@ NTC_2000;Hvitesund;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2000;Tipsbyen;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1983;Hvitesund;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1977;Hafnarlaekur;;;;;;;;;;;;;;;;;;;;;;;x
-PROV2624;Kystsj?;;;;;;;;;;;;;;;;;;;;;;x
+PROV2624;Kystsji;;;;;;;;;;;;;;;;;;;;;;x
 PROV1978;Tollefsrud;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1980;Opptelling;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1992;Handelbukt;;;;;;;;;;;;;;;;;;;;;;;x
@@ -1584,3 +1589,10 @@ SIC_753;Foggia;;;;;;;;;;;;;;;;;;;;x;
 ABU_1162;Dubaay;;;;;;;;;;;;;;;;;;;;x;
 PROV1168;Dubaay;;;;;;;;;;;;;;;;;;;;x;
 ALD_1718;Tuareg Homelands;;;;;;;;;;;;;;;;;;;;x
+PROV3009;The Forever Coast;;;;;;;;;;;;;;;;;;;;;;;x
+PROV100;Firebird;;;;;;;;;;;;;;;;;;;;;;;x
+PROV102;Newsun;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2140;Port McCree;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2137;Albertsins;;;;;;;;;;;;;;;;;;;;;;;x
+PROV202;Davison City;;;;;;;;;;;;;;;;;;;;;;;x
+PROV218;Stonewall;;;;;;;;;;;;;;;;;;;;;;;x

@@ -1,0 +1,116 @@
+#Indian Conference#
+###################
+
+country_event = {
+    id = 195500
+    title = "EVTNAME195500" #The Kouderstad Conference
+    desc = "EVTDESC195500"
+    news = yes
+    picture = "scramble_for_africa"
+    major = yes
+
+    trigger = {
+        OR = {
+            is_greater_power = yes
+            AND = {
+                colonial_nation = yes
+                any_owned_province = { continent = asia }
+            }
+        }
+        OR = { capital_scope = { continent = europe  } capital_scope = { continent = australia_new_zealand } tag = SAF}
+        invention = prophylaxis_against_malaria
+        invention = mission_to_civilize
+        invention = colonial_negotiations
+        year = 2875
+        NOT = { has_global_flag = kouderstad_conference }
+    }
+
+    allow_multiple_instances = no
+
+    mean_time_to_happen = {
+        months = 6
+        modifier = {
+            factor = 0.8
+            tag = NET
+        }
+    }
+
+    option = {
+        name = "EVT195500OPTA"
+        set_global_flag = kouderstad_conference
+        prestige = 25
+    }
+}
+#European Notification
+country_event = {
+
+    id = 195501
+    title = "EVTNAME195501" #The Age of Colonialism
+    desc = "EVTDESC195501"
+    picture = "scramble_for_africa"
+
+    trigger = {
+        OR = { capital_scope = { continent = europe  } capital_scope = { continent = australia_new_zealand } tag = SAF}
+        NOT = { tag = BYE }
+        OR = {
+            is_greater_power = yes
+            is_secondary_power = yes
+        }
+        NOT = { has_country_modifier = neutrality_modifier }
+        civilized = yes
+        has_global_flag = kouderstad_conference
+        NOT = { has_country_flag = reaction_to_indian_conferance}
+    }
+
+    mean_time_to_happen = {
+        days = 5
+    }
+
+    option = {
+        name = "EVT195501OPTA"
+        prestige = 1
+        set_country_flag = reaction_to_indian_conference   
+    }
+}
+
+country_event = {
+
+    id = 195502
+    title = "EVTNAME195502" #The Age of Colonialism
+    desc = "EVTDESC195502"
+    picture = "scramble_for_africa"
+
+    trigger = {
+        civilized = no
+        capital_scope = { continent = asia }
+        is_culture_group = south_asia
+        has_global_flag = kouderstad_conference
+        NOT = { has_country_flag = delay_unciv_annexation }
+        NOT = { has_country_flag = reaction_to_indian_conference }
+    }
+
+    mean_time_to_happen = {
+        days = 5
+    }
+
+    option = {
+        name = "EVT195502OPTA"
+        set_country_flag = reaction_to_indian_conference
+        any_country = {
+            limit = {
+                civilized = yes
+                OR = {
+                    is_greater_power = yes
+                    is_secondary_power = yes
+                    colonial_nation = yes
+                }
+                capital_scope = { continent = europe continent = australia_new_zealand}
+            }
+            leave_alliance = THIS
+            relation = {
+                who = THIS
+                value = -200
+            }
+        }
+    }
+}

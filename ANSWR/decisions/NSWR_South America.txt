@@ -92,4 +92,101 @@ muisca_form = {
 			set_country_flag = state_of_the_south
 		}
 	}
+	#Amazon Colonization
+	mato_grasso_colonization = {
+		picture = south_america
+		potential = {
+				exists = yes
+				tag = USS
+				year = 2850
+				NOT = {
+				any_country = { any_owned_province = { region = BRZ_2416 } }
+				}
+				NOT = {has_country_flag = mato_grasso_colonization}
+			}
+		allow = {
+			2600 = { owned_by = THIS }
+			prestige = 5
+		}
+		effect = {
+			BRZ_2416 = { secede_province = THIS }
+			set_country_flag = mato_grasso_colonization
+		}
+	}
+	#Amazon Colonization
+	valle_de_amazonas_colonization = {
+		picture = south_america
+		potential = {
+				exists = yes
+				tag = USS
+				year = 2855
+				NOT = {
+				any_country = { any_owned_province = { region = CSK_2301 } }
+				}
+				NOT = {has_country_flag = amazonas_colonization}
+			}
+		allow = {
+			2404 = { owned_by = THIS }
+			prestige = 5
+		}
+		effect = {
+			CSK_2301 = { secede_province = THIS }
+			set_country_flag = amazonas_colonization
+		}
+	}
+	#Patagonia Colonization
+	patagonia_colonization = {
+		picture = south_america
+		potential = {
+				exists = yes
+				year = 2865
+				ARG_2393 = { owned_by = THIS }
+				NOT = {
+				any_country = { any_owned_province = { region = ARG_2374 } }
+				}
+				NOT = {
+				any_country = { any_owned_province = { region = ARG_2391 } }
+				}
+				NOT = {
+				any_country = { any_owned_province = { region = ARG_2398 } }
+				}
+				NOT = {has_country_flag = patagonia_colonization}
+			}
+		allow = {
+			2404 = { owned_by = THIS }
+			prestige = 5
+		}
+		effect = {
+			ARG_2398 = { secede_province = THIS add_core = THIS add_core = USS }
+			ARG_2391 = { secede_province = THIS add_core = THIS add_core = USS }
+			ARG_2374 = { secede_province = THIS add_core = THIS add_core = USS }
+			set_country_flag = patagonia_colonization
+		}
+	}
+	chile_colonization = {
+		picture = south_america
+		potential = {
+				exists = yes
+				year = 2860
+				ARG_2398 = { owned_by = THIS }
+				ARG_2391 = { owned_by = THIS }
+				ARG_2374 = { owned_by = THIS }
+				NOT = {
+				any_country = { any_owned_province = { region = CHL_2327 } }
+				}
+				NOT = {
+				any_country = { any_owned_province = { region = CHL_2322 } }
+				}
+				NOT = {has_country_flag = chile_colonization}
+			}
+		allow = {
+			2404 = { owned_by = THIS }
+			prestige = 5
+		}
+		effect = {
+			CHL_2327 = { secede_province = THIS add_core = THIS add_core = USS }
+			CHL_2322 = { secede_province = THIS add_core = THIS add_core = USS }
+			set_country_flag = chile_colonization
+		}
+	}
 }

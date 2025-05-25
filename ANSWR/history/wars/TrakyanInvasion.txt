@@ -1,0 +1,25 @@
+name = "The Trakyan War of Opportunity"
+
+2835.7.13 = {
+    add_attacker = IST
+    add_defender = TUR
+
+    war_goal = {
+        casus_belli = acquire_core_state
+        actor = IST
+        receiver = TUR
+        state_province_id = 863
+    }
+    war_goal = {
+        casus_belli = acquire_core_state
+        actor = IST
+        receiver = TUR
+        state_province_id = 869
+    }
+    war_goal = {
+        casus_belli = status_quo
+        actor = TUR
+        receiver = BOR
+    }
+
+}

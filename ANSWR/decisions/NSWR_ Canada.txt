@@ -23,6 +23,7 @@ political_decisions = {
 			inherit = WIN
 			inherit = ONT
 		}
+	}
 #End of political_decisions brackets
 
 }

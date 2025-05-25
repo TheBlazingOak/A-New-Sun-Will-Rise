@@ -10,10 +10,10 @@ political_decisions = {
 			NOT = {has_country_flag = dreams_of_domination}
 		}
 		allow = {
-			prestige = 20
+			prestige = 35
 			has_country_flag = crown_princess
 			has_country_flag = the_genius
-			year = 2840
+			OR = { has_country_flag = crown_legitimized has_country_flag = weak_ideals has_country_flag = strong_ideals }
 		}
 		effect = {
 			set_country_flag = land_of_the_fallen_sun
@@ -86,6 +86,7 @@ political_decisions = {
 		allow = {
 			OR = { has_country_flag = no_koshitsu has_country_flag = crown_princess }
 			money = 20000
+			prestige = 30
 		}
 		effect = {
 			prestige = 5
@@ -123,6 +124,25 @@ political_decisions = {
 		effect = {
 			prestige = 10
 			set_country_flag = southern_shima
+		}
+	}
+	destruction_of_wi = {
+	picture = japan_map
+		potential = {
+			OR = { tag = JPN tag = KYO tag = KOS }
+			NOT = { has_country_flag = wi_destruction }
+			has_country_flag = crowning_of_aiko
+		}
+		allow = {
+		NOT = { KOR = { exists = yes } }
+		1624 = { owned_by = THIS }
+		1635 = { owned_by = THIS }
+		1625 = { owned_by = THIS }
+		1619 = { owned_by = THIS }
+		}
+		effect = {
+			prestige = 10
+			set_country_flag = wi_destruction
 		}
 	}
 }

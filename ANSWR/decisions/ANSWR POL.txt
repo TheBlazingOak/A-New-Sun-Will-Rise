@@ -81,4 +81,30 @@ political_decisions = {
         factor = 1
         }
 	}
+
+    Poles_in_west = {
+        picture = attack_the_laagers
+        potential = {
+            tag = WRP
+            NOT = { has_country_flag = poles_in_west }
+        }
+
+        allow = {
+            is_greater_power = yes
+            revolution_n_counterrevolution = 1
+        }
+
+        effect = {
+        set_country_flag = poles_in_west
+        PRU_546 = { add_core = POL }
+        PRU_682 = { add_core = POL }
+        PRU_701 = { add_core = POL }
+        688 = { add_core = POL }
+        689 = { add_core = POL }
+        2584 = { add_core = POL }
+        }
+        ai_will_do = {
+        factor = 1
+        }
+    }
 }

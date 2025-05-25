@@ -79,3 +79,5 @@ basic_chemistry = 1
 #Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0
+
+oob = "TUR_oob.txt"

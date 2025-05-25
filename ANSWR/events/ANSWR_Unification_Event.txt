@@ -490,6 +490,10 @@ country_event = {
         TUR_880 = {  add_province_modifier = { name = colonial_recruitment duration = 1825 } }
         TUR_873 = { add_core = BOR remove_core = TUR }
         TUR_876 = { add_core = BOR remove_core = TUR }
+        TUR_860 = { add_core = BOR }
+        TUR_882 = { remove_core = TUR }
+        TUR_860 = { add_core = BOR }
+            TUR_882 = { remove_core = TUR }
         set_country_flag = borgar_conquest
     }
 }
@@ -516,5 +520,28 @@ country_event = {
         TUR_803 = { add_core = THIS }
         TUR_674 = { add_core = THIS }
         set_country_flag = borgar_balkans
+    }
+}
+#Incomplete Conquer of Anatolia
+country_event = {
+
+    id = 52156
+    title = "EVTNAME52154" #Borgar Migrations
+    desc = "EVTDESC52154"
+    is_triggered_only = yes
+
+    option = {
+        name = "EVT52154OPTA" #Yes
+        TUR_863 = { add_core = BOR remove_core = TUR }
+        TUR_863 = { add_province_modifier = { name = colonial_recruitment duration = 1825 } }
+        TUR_880 = { any_pop = { limit = { culture = borgar } reduce_pop = 1.5 } }
+        TUR_880 = {  add_province_modifier = { name = colonial_recruitment duration = 1825 } }
+        TUR_873 = { add_core = BOR remove_core = TUR }
+        TUR_876 = { add_core = BOR remove_core = TUR }
+        TUR_860 = { add_core = BOR }
+        TUR_882 = { remove_core = TUR }
+        TUR_860 = { add_core = BOR }
+        TUR_882 = { remove_core = TUR }
+        set_country_flag = borgar_conquest
     }
 }

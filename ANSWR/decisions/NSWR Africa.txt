@@ -79,5 +79,100 @@ political_decisions = {
 			set_country_flag = migration_into_sabbin_kasashe
 		}
 	}
+	#Norkselkaap
+	the_tsakiya_border = {
+		alert = yes
+		picture = moroccan_partition
+		potential = {
+			tag = NTC
+			nationalism_n_imperialism = 1
+			NOT = {has_country_flag = filayen_claims}
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+			}
+		effect = {
+			set_country_flag = filayen_claims
+			SOK_1961 = { add_core = THIS }
+			ENG_1956 = { add_core = THIS }
+		}
+	}
+	#Colonization Decisions
+	south_angola = {
+		alert = yes
+		potential = {
+			2003 = { owned_by = this}
+			year = 2850
+			NOT = { has_global_flag = south_angola_colonized}
+		}
+		allow = {
+			OR = {ai = yes prestige = 15}
+			}
+		effect = {
+			set_country_flag = south_angola_colonized
+			POR_2003 = { secede_province = THIS add_core = ANG }
+		}
+	}
+	north_angola = {
+		alert = yes
+		potential = {
+			2001 = { owned_by = this}
+			year = 2850
+			NOT = { has_global_flag = north_angola_colonized}
+		}
+		allow = {
+			OR = {ai = yes prestige = 15}
+			}
+		effect = {
+			set_country_flag = north_angola_colonized
+			POR_1999 = { secede_province = THIS add_core = ANG }
+		}
+	}
+	saharan_lands = {
+		alert = yes
+		potential = {
+			tag = TRI
+			year = 2856
+			NOT = { has_global_flag = north_angola_colonized}
+		}
+		allow = {
+			OR = {AND = { ai = yes prestige = 3 } prestige = 10}
+			}
+		effect = {
+			set_country_flag = north_angola_colonized
+			TRI_1741 = { secede_province = THIS add_core = THIS }
+			TRI_1735 = { secede_province = THIS add_core = THIS }
+		}
+	}
+	#Formables
+	the_great_fiefs = {
+		alert = yes
+		potential = {
+			OR = { tag = KNY tag = BUG }
+			year = 2852
+			NOT = { has_global_flag = the_great_fiefs}
+			NOT = { AND = { AND = { OR = { tag = KNY tag = BUG } ai = no } ai = yes }
+			}
+		}
+		allow = {
+			OR = { AND = { ai = yes prestige = 3 } prestige = 15 }
+			}
+		effect = {
+			set_country_flag = the_great_fiefs
+			change_tag = UGF
+			inherit = KNY
+			inherit = BUG
+			prestige = 5
+			add_accepted_culture = viwa
+			add_accepted_culture = bingwa
+			add_accepted_culture = ugandalan
+			KNY = { all_core = { add_core = UGF } }
+			BUG = { all_core = { add_core = UGF } }
+			BEL_2034 = { secede_province = THIS add_core = THIS }
+			ENG_2044 = { secede_province = THIS add_core = THIS }
+			BEL_1990 = { secede_province = THIS add_core = THIS }
+			KBO_1969 = { secede_province = THIS add_core = THIS }
+		}
+	}
 #END OF POLITICAL BRACKETS
 }

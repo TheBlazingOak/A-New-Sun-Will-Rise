@@ -233,7 +233,7 @@ country_event = {
         CAT = { exists = yes }
         has_global_flag = valencia_petition_refused
         NOT = { has_global_flag = valencia_massacre }
-        NOT = { has_country_flagpreparing_for_valencia_war}
+        NOT = { has_country_flag = preparing_for_valencia_war}
     }
 
     mean_time_to_happen = { days = 14 }

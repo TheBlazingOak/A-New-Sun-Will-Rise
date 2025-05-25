@@ -106,3 +106,25 @@ AZB = { all_core = { add_core = NPE } }
 set_country_flag = he_choose_us  # Ensures the event never fires again
 	}
 }
+# The Final Satrapy: Persian Claim to India
+country_event = {
+    id = 211312
+    title = "EVTNAME211312" 
+    desc = "EVTDESC211312"
+    picture = "neo_persia"
+
+    trigger = {
+        tag = NPE
+		prestige = 50	
+        NOT = { has_global_flag = indian_claims }
+    }
+
+    mean_time_to_happen = { days = 60 }
+
+    option = {
+        name = "EVTOPTA211312" # We Must Link the XX Tax District
+        set_global_flag = indian_claims
+		set_country_flag = persian_imperialism
+		prestige = 5
+        }
+    }

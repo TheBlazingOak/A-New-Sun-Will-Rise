@@ -818,6 +818,26 @@ transpacifica_unification = {
 			set_country_flag = the_liberation_central_america
 		}
 	}
+	#Chihuahua colonization
+	chihuahua_colonization = {
+		potential = {
+			exists = yes
+			is_primary_culture = mexican
+			year = 2850
+			NOT = {
+				any_country = { any_owned_province = { region = MEX_2142 } }
+				}
+			NOT = {has_country_flag = chihuahua_colonization}
+		}
+		allow = {
+			2141 = { owned_by = THIS }
+			prestige = 15
+		}
+		effect ={
+			MEX_2142 = { secede_province = THIS }
+			set_country_flag = chihuahua_colonization
+		}
+	}
 
 #End of political_decisions brackets
 

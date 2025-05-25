@@ -76,6 +76,7 @@ political_decisions = {
             has_global_flag = oudrijk_destroyed
             NOT = { exists = OUD }
             NOT = { exists = NUR }
+            NOT = { tag = FRB }
         }
 
         allow = {
@@ -89,27 +90,25 @@ political_decisions = {
         effect = {
             prestige = 20
             change_tag = NUR 
-            add_country_modifier = {
-                        name = nieuwrijk_kaizer
-                        duration = -1
-                }
+            add_country_modifier = { name = nieuwrijk_kaizer duration = -1 }
             add_accepted_culture = rhine_german
             add_accepted_culture = south_german
             add_accepted_culture = north_german
-            all_core = { remove_core = THIS add_core = NUR}
-            WES = { all_core = { add_core = NUR } }
-            RHI = { all_core = { add_core = NUR } }
-            BAV = { all_core = { add_core = NUR } }
-            ULM = { all_core = { add_core = NUR } }
-            BAD = { all_core = { add_core = NUR } }
-            SAX = { all_core = { add_core = NUR } }
-            WEI = { all_core = { add_core = NUR } }
-            BRI = { all_core = { add_core = NUR } }
-            MEC = { all_core = { add_core = NUR } }
-            PZN = { all_core = { add_core = NUR } }
-            HAN_534 = { add_core = NUR }
-            HAN_528 = { add_core = NUR }
-            FRA_412 = { remove_core = OUD add_core = NUR}
+            BAV_599 = { add_core = NUR }
+            BAV_595 = { add_core = NUR }
+            WUR_589 = { add_core = NUR }
+            BAD_586 = { add_core = NUR }
+            FRA_412 = { add_core = NUR }
+            PRU_570 = { add_core = NUR }
+            HES_2560 = { add_core = NUR }
+            PRU_581 = { add_core = NUR }
+            PRU_554 = { add_core = NUR }
+            PRU_553 = { add_core = NUR }
+            PRU_549 = { add_core = NUR }
+            HAN_530 = { add_core = NUR }
+            PRU_546 = { add_core = NUR }
+            PRU_701 = { add_core = NUR }
+            SAX_558 = { add_core = NUR }
         }
     }
 

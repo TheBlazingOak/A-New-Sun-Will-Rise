@@ -448,15 +448,15 @@ country_event = {
     }
     mean_time_to_happen = { months = 120 
         modifier = {
-            factor = 4
+            factor = 0.25
             is_greater_power = yes
             } 
         modifier = {
-            factor = 4
+            factor = 0.5
             year = 2890
             } 
         modifier = {
-            factor = 2
+            factor = 0.5
             prestige = 100
             } 
         }
@@ -484,15 +484,15 @@ country_event = {
     }
     mean_time_to_happen = { months = 120 
             modifier = {
-            factor = 4
+            factor = 0.25
             is_greater_power = yes
             } 
-            modifier = {
-            factor = 4
+        modifier = {
+            factor = 0.5
             year = 2890
             } 
-            modifier = {
-            factor = 2
+        modifier = {
+            factor = 0.5
             prestige = 100
             } 
         }
@@ -621,5 +621,122 @@ country_event = {
         FRA_1808 = {add_core = TRG}
         FRA_1775 = {add_core = TRG}
         set_country_flag = tuareg_masakekaso
+    }
+}
+
+#The Kongo Outpost
+country_event = {
+    id = 65703
+    title = "EVTNAME65703"
+    desc = "EVTDESC65703"
+    trigger = {
+        tag = NTC
+        exists = yes
+        year = 2855
+        prestige = 5
+        NOT = {has_country_flag = kongo_outpost }
+        NOT = {has_global_flag = kongo_outpost }
+    }
+    mean_time_to_happen = { months = 12 }
+    option = {
+        name = "EVTOPTA65703"
+        prestige = 3
+        1994 = { secede_province = THIS}
+        1986 = { secede_province = THIS }
+        1988 = { secede_province = THIS }
+        1984 = { secede_province = THIS }
+        set_country_flag = kongo_outpost
+        set_global_flag = kongo_outpost
+    }
+}
+#The Ruz Peninsula
+country_event = {
+    id = 65704
+    title = "EVTNAME65704"
+    desc = "EVTDESC65704"
+    trigger = {
+        OR = { AND = { tag = NTC has_country_flag = kongo_outpost } tag = SWI tag = NUR tag = ENG tag = AUS tag = OUD tag = PRF tag = POL tag = IRE tag = ITA tag = USS tag = FRE tag = JAR tag = SAF}
+        OR = { OR = {is_greater_power = yes is_secondary_power = yes} tag = NTC }
+        exists = yes
+        year = 2855
+        prestige = 15
+        NOT = {has_country_flag = ruz_peninsula }
+        NOT = {has_global_flag = ruz_peninsula }
+    }
+    mean_time_to_happen = { months = 24 }
+    option = {
+        name = "EVTOPTA65704"
+        prestige = 3
+        BEL_1991 = { secede_province = THIS}
+        random_owned = { limit = { owner = { primary_culture = english } } 1991 = { change_province_name = "New Oxford" } }
+        random_owned = { limit = { owner = { primary_culture = south_german } } 1991 = { change_province_name = "Port Gesegnet" } }
+        random_owned = { limit = { owner = { primary_culture = czech } } 1991 = { change_province_name = "New Praha" } }
+        random_owned = { limit = { owner = { primary_culture = scottish } } 1991 = { change_province_name = "Port Glasgow" } }
+        random_owned = { limit = { owner = { primary_culture = irish } } 1991 = { change_province_name = "New Dublin" } }
+        random_owned = { limit = { owner = { primary_culture = north_italian } } 1991 = { change_province_name = "Port Rome" } }
+        random_owned = { limit = { owner = { primary_culture = south_italian } } 1991 = { change_province_name = "New Apuglia" } }
+        random_owned = { limit = { owner = { primary_culture = swiss } } 1991 = { change_province_name = "Port Geneva" } }
+        random_owned = { limit = { owner = { is_culture_group = south_american_cultures } } 1991 = { change_province_name = "Port Rio" } }
+        random_owned = { limit = { owner = { is_culture_group = french } } 1991 = { change_province_name = "Port Pars" } }
+        random_owned = { limit = { owner = { primary_culture = afrikaan } } 1991 = { change_province_name = "New Suiderstrand" } }
+        random_owned = { limit = { owner = { primary_culture = jardino } } 1991 = { change_province_name = "Port Floral" } }
+        random_owned = { limit = { owner = { primary_culture = nork } } 1991 = { change_province_name = "New Doli" } }
+        random_owned = { limit = { owner = { primary_culture = polish } } 1991 = { change_province_name = "Nowykraina" } }
+        set_country_flag = ruz_peninsula
+        set_global_flag = ruz_peninsula
+        ai_chance = { chance = 99 }
+    }
+    option = {
+        #Not Intrested
+        name = "EVTOPTB65704"
+        prestige = -1
+        set_country_flag = ruz_peninsula
+        ai_chance = { chance = 1 }
+    }
+}
+#The Kongo Outpost on Tanganyika
+country_event = {
+    id = 65705
+    title = "EVTNAME65705"
+    desc = "EVTDESC65705"
+    trigger = {
+        OR = { AND = { tag = NTC has_country_flag = kongo_outpost } tag = SWI tag = ENG tag = AUS tag = OUD tag = NUR tag = PRF tag = POL tag = IRE tag = ITA tag = USS tag = FRE tag = JAR tag = SAF }
+        OR = { OR = {is_greater_power = yes is_secondary_power = yes} tag = NTC }
+        exists = yes
+        year = 2855
+        prestige = 15
+        NOT = {has_country_flag = tanganyika_outpost }
+        NOT = {has_global_flag = tanganyika_outpost }
+    }
+    mean_time_to_happen = { months = 24 }
+    option = {
+
+        name = "EVTOPTA65704"
+        prestige = 3
+        ENG_2016 = { secede_province = THIS}
+        random_owned = { limit = { owner = { primary_culture = english } } 2017 = { change_province_name = "New Oxford" } }
+        random_owned = { limit = { owner = { primary_culture = south_german } } 2017 = { change_province_name = "Port Gesegnet" } }
+        random_owned = { limit = { owner = { primary_culture = czech } } 2017 = { change_province_name = "New Praha" } }
+        random_owned = { limit = { owner = { primary_culture = scottish } } 2017 = { change_province_name = "Port Glasgow" } }
+        random_owned = { limit = { owner = { primary_culture = irish } } 2017 = { change_province_name = "New Dublin" } }
+        random_owned = { limit = { owner = { primary_culture = north_italian } } 2017 = { change_province_name = "Port Rome" } }
+        random_owned = { limit = { owner = { primary_culture = south_italian } } 2017 = { change_province_name = "New Apuglia" } }
+        random_owned = { limit = { owner = { primary_culture = swiss } } 2017 = { change_province_name = "Port Geneva" } }
+        random_owned = { limit = { owner = { is_culture_group = south_american_cultures } } 2017 = { change_province_name = "Port Rio" } }
+        random_owned = { limit = { owner = { is_culture_group = french } } 2017 = { change_province_name = "Port Pars" } }
+        random_owned = { limit = { owner = { primary_culture = afrikaan } } 2017 = { change_province_name = "New Suiderstrand" } }
+        random_owned = { limit = { owner = { primary_culture = jardino } } 2017 = { change_province_name = "Port Floral" } }
+        random_owned = { limit = { owner = { primary_culture = nork } } 2017 = { change_province_name = "New Stoffsted" } }
+        random_owned = { limit = { owner = { primary_culture = polish } } 1991 = { change_province_name = "Nowysuwalki" } }
+        set_country_flag = tanganyika_outpost
+        set_global_flag = tanganyika_outpost 
+        ai_chance = { chance = 99 }
+    }
+    option = {
+        #Not Intrested
+        name = "EVTOPTB65704"
+        prestige = -1
+        set_country_flag = tanganyika_outpost
+        ai_chance = { chance = 1 }
     }
 }

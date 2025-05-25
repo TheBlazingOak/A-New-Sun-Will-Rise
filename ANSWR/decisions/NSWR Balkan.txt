@@ -137,6 +137,41 @@ political_decisions = {
             add_accepted_culture = skrvat
         }
     }
+    #Trakyan Republic Decision chain
+    a_boys_dream = {
+        potential = {
+            tag = IST
+            NOT = {has_country_flag = a_boys_dream}
+        }
+        allow = {
+            861 = { owned_by = IST }
+        }
+        effect = {
+            set_country_flag = a_boys_dream
+            TUR_863 = { remove_core = TUR }
+            TUR_869 = { remove_core = TUR }
+            TUR_873 = { add_core = IST }
+            TUR_876 = { add_core = IST }
+        }
+    }
+    #Declare Trakyan Republic
+    trakyan_republic = {
+        potential = {
+            OR = { primary_culture = turkish primary_culture = westturkish}
+            NOT = { TUR = {exists = yes} }
+        }
+        allow = {
+            THIS = {all_core = { owned_by = THIS }}
+        }
+        effect = {
+            prestige = 15
+            all_core = { remove_core = THIS add_core = TUR }
+            change_tag = TUR
+            add_accepted_culture = turkish
+            add_accepted_culture = westturkish
+        }
+    }
+    #Borgar Empire Decisions
     borgar_mandatory_schools = {
         potential = {
             tag = BOR
@@ -195,13 +230,31 @@ political_decisions = {
             set_country_flag = BOR_victory
             prestige = 5
             863 = { state_scope = { change_region_name = "Borgarskazemya"} }
+            869 = { state_scope = { change_region_name = "Sirakov"} }
             880 = { state_scope = { change_region_name = "Chernokrai"} }
             876 = { state_scope = { change_region_name = "Tsentralna"} }
             873 = { state_scope = { change_region_name = "Goremini"} }
-            869 = { state_scope = { change_region_name = "Sirakov"} }
             894 = { state_scope = {  change_region_name = "Noviyat Sofia"} }
-            TUR_860 = { add_core = BOR }
-            TUR_882 = { remove_core = TUR }
+            
+            BOR = { country_event = { id = 52154 } }
+        }
+    }
+    incomplete_borgar_anatolia = {
+        potential = {
+            tag = BOR
+            NOT = { has_country_flag = BOR_victory }
+            NOT = {OR = { 861 = {owned_by = BOR } 861 = {owned_by = TUR } 861 = {owned_by = IST } }
+        }
+        allow = {
+            876 = { owned_by = BOR }
+        }
+        effect = {
+            set_country_flag = BOR_victory
+            prestige = 5
+            880 = { state_scope = { change_region_name = "Chernokrai"} }
+            876 = { state_scope = { change_region_name = "Tsentralna"} }
+            873 = { state_scope = { change_region_name = "Goremini"} }
+            894 = { state_scope = {  change_region_name = "Noviyat Sofia"} }
             BOR = { country_event = { id = 52154 } }
         }
     }

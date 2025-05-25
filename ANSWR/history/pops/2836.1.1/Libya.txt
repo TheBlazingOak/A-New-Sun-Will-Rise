@@ -385,21 +385,9 @@
     }
 
     slaves = {
-        culture = forest_bantu
-        religion = animist
-        size = 6000
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 5
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 245
+        culture = grecocopt
+        religion = coptic
+        size = 10000
     }
 }
 #Darnah (60000/15000 POPS)

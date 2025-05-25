@@ -60,4 +60,27 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	integrate_italians = {
+		potential = {
+			tag = SIT
+			has_country_flag = schweizily_acheived
+			NOT = { has_country_flag = integrate_italians }
+		}
+		
+		allow = {
+			is_greater_power = yes
+            prestige = 75
+			revolution_n_counterrevolution = 1
+		}
+		
+		effect = {
+			set_country_flag = integrate_italians
+            add_accepted_culture = north_italian
+            add_accepted_culture = south_italian
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }
