@@ -4,6 +4,7 @@ From;To;Type;Through;Data;Comment
 #
 66;65;sea;3239;0;Sherbroke to Quebec City
 66;64;sea;3239;0;Sherbroke to Trois Rivieres
+67;65;sea;3239;0;Rimouski to Quebec City
 68;72;land;2944;0;Fredericton to Truro
 68;70;sea;2944;0;Fredericton to Edward Isle
 70;72;sea;2944;0;Edward Isle to Truro
@@ -53,7 +54,7 @@ From;To;Type;Through;Data;Comment
 177;176;sea;3115;0;Marquette-Transverse City
 173;54;sea;3113;0;Detroit-Windsor
 220;222;land;2954;0;Old Philly Strait
-
+1606;1498;land;2937;0;The Baffin Strait
 
 #
 # African Straits

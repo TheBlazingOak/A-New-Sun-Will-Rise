@@ -5,8 +5,8 @@ religion = jewish
 government = democracy
 plurality = 2.0
 nationalvalue = nv_productivity
-literacy = 0.87
-civilized = yes
+literacy = 0.47
+civilized = no
 
 # Political reforms
 slavery = no_slavery
@@ -48,46 +48,15 @@ upper_house = {
     communist = 0
 }
 
+foreign_weapons = yes_foreign_weapons
+army_schools = yes_army_schools
+land_reform = yes_land_reform
+education_reform = yes_education_reform
+western_shipyards = yes_western_shipyards
+naval_schools = yes_naval_schools
+
 # Technologies
-post_napoleonic_thought = 1
 flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-military_staff_system = 1
-army_command_principle = 1
 post_nelsonian_thought = 1
 clipper_design = 1
 steamers = 1
-naval_design_bureaus = 1
-alphabetic_flag_signaling = 1
-the_command_principle = 1
-private_banks = 1
-no_standard = 1
-early_classical_theory_and_critique = 1
-freedom_of_trade = 1
-guild_based_production = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-malthusian_thought = 1
-enlightenment_thought = 1
-introspectionism = 1
-piston_steam_engine = 1
-mechanical_production = 1
-hot_blast = 1
-experimental_railroad = 1
-basic_chemistry = 1
-high_pressure_steam_engine = 1
-interchangeable_parts = 1
-battleship_column_doctrine = 1
-naval_professionalism = 1
-stock_exchange = 1
-ad_hoc_money_bill_printing = 1
-private_bank_money_bill_printing = 1
-late_classical_theory = 1
-market_structure = 1
-
-# Inventions
-#corvettes = yes
-commerce_raiders = yes
-precision_work = yes
-
-}

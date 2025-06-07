@@ -140,6 +140,7 @@ TRE        = "countries/Lost Coast.txt"
 ION        = "countries/Levega.txt"
 EQG        ="countries/Erera.txt"
 RNA        ="countries/New Australia.txt"
+SWA        ="countries/United States of Western Australia.txt"
 
 ##East Asia ANSWR
 XIR        = "countries/Xieren.txt"
@@ -191,7 +192,7 @@ FRB        = "countries/Fernost-Cislavia.txt"
 KYO        ="countries/Kyowato.txt"
 KOS        ="countries/Koshitisu.txt"
 NPE        ="countries/Neo-Persia.txt"
-ASM        ="countries/Al-Sham.txt"
+ALH        ="countries/Al-Sham.txt"
 USS        ="countries/States of the South.txt"
 UGF		   ="countries/The Great Fiefs.txt"
 

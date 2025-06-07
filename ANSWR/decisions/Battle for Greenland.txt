@@ -1,0 +1,69 @@
+political_decisions = {
+    the_greenland_initiative = {
+        picture = greenland
+        potential = {
+            OR = {tag = SCO tag = QUE}
+            2636 = { owned_by = THIS }
+            1541 = { owned_by = THIS }
+            has_country_flag = greenhome
+            NOT = {has_country_flag = greenland_initiative}
+        }
+        allow = {
+            prestige = 50
+            battleship_column_doctrine = 1
+        }
+        effect = {
+            prestige = 5
+            set_country_flag = greenland_initiative
+            any_owned = { limit = { OR = { is_core = NOU is_core = NSO}} add_province_modifier = { name = colonial_recruitment duration = 1825}}
+        }
+        ai_will_do = { factor = 1 }
+    }
+    rename_new_scotland = {
+        picture = greenland
+        potential = {
+            tag = QUE
+            2636 = { owned_by = THIS }
+            1541 = { owned_by = THIS }
+            has_country_flag = greenhome
+            NOT = {has_country_flag = renamed_new_scotland}
+        }
+        allow = {
+            prestige = 5
+        }
+        effect = {
+            prestige = 5
+            set_country_flag = renamed_new_scotland
+            1541 = { state_scope = { change_region_name = "Nouvelle Montreal"} }
+            1541 = { change_province_name = "Nouvelle Montreal"}
+            252 = { change_province_name = "Islande"}
+            1498 = { change_province_name = "Port de Vert"}
+            1606 = { change_province_name = "Nouvelle Selkirk"}
+        }
+        ai_will_do = { factor = 1 }
+    }
+    rename_the_nouverts ={
+        picture = greenland
+        potential = {
+            tag = SCO
+            2636 = { owned_by = THIS }
+            1541 = { owned_by = THIS }
+            has_country_flag = greenhome
+            NOT = {has_country_flag = renamed_nouverts}
+        }
+        allow = {
+            prestige = 5
+        }
+        effect = {
+            prestige = 5
+            set_country_flag = renamed_nouverts
+            1570 = { state_scope = { change_region_name = "New Edinburgh"} }
+            1570 = { change_province_name = "Collin's Edge"}
+            1330 = { change_province_name = "Port Little"}
+            93 = { change_province_name = "New Dundee"}
+            2636 = { change_province_name = "New Edinburgh"}
+            251 = { change_province_name = "New Aberdeen"}
+        }
+        ai_will_do = { factor = 1 }
+    }
+}

@@ -61,6 +61,22 @@ political_decisions = {
 			treasury = -20000
 		}
 	}
+	##The Free State of Dubaii##
+	one_for_all = {
+		alert = yes
+		potential = {
+			tag = FSD
+			NOT = { has_country_flag = one_for_all }
+		}
+		allow = {
+			FSD = { all_core = { owned_by = THIS } }
+			}
+		effect = {
+			prestige = 10
+			set_country_flag = one_for_all
+			NEJ = { any_core = {limit = { owned_by = THIS } add_core = THIS}}
+		}
+	}
 	##Neo-Persia##
 	proclaim_neo_persia = {
 		alert = yes

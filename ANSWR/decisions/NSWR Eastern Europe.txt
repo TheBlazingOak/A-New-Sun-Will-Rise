@@ -150,5 +150,27 @@ political_decisions = {
             set_country_flag = nit_fourth_brother_2
         }
     }
+    #St Petersburgh Claim
+    suomi_expansion_1 = {
+
+        potential = {
+            tag = FIN
+            IZH = { ai = yes}
+            NOT = { has_country_flag = suomi_expansion_1 }
+        }
+
+        allow = {
+            state_n_government = 1
+            prestige = 20
+            }
+
+        effect = {
+            prestige = 5
+            RUS_994 = { add_core = THIS }
+            set_country_flag = suomi_expansion_1
+        }
+    }
+
+
 #Political Decisons Bracket
 }

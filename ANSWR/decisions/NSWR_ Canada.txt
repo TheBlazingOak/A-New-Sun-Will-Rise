@@ -24,6 +24,58 @@ political_decisions = {
 			inherit = ONT
 		}
 	}
+	the_new_rationale = {
+		potential = {
+			tag = QUE
+			NOT = { AND = { AND = { OR = { tag = WIN tag = ONT } ai = no } ai = yes } }
+			has_country_flag = greenhome
+			NOT = { has_country_flag = quebec_ontario }
+		}
+
+		allow = {
+			prestige = 65
+			nationalism_n_imperialism = 1
+			is_secondary_power = yes
+	    }
+
+		effect = {
+			set_country_flag = quebec_ontario
+		    CAN_46 = {add_core = THIS }
+			CAN_50 = {add_core = THIS }
+			CAN_57 = {add_core = THIS }
+		}
+	}
+	the_new_america = {
+		potential = {
+			tag = QUE
+			NOT = { AND = { AND = { OR = { tag = WIN tag = ONT } ai = no } ai = yes } }
+			has_country_flag = greenhome
+			has_country_flag = quebec_ontario
+			NOT = { has_country_flag = quebec_new_england }
+		}
+
+		allow = {
+			prestige = 80
+			nationalism_n_imperialism = 1
+			is_secondary_power = yes
+			OR = { 
+				AND = { 
+				CAN_46 = { owned_by = THIS }
+				CAN_50 = { owned_by = THIS }
+				CAN_49 = { owned_by = THIS }
+				}
+				71 = {owned_by = THIS }
+			}
+			
+	    }
+
+		effect = {
+			set_country_flag = quebec_new_england
+		    USA_247 = { add_core = THIS }
+			ENG_68 = { add_core = THIS }
+		}
+	}
+
 #End of political_decisions brackets
 
 }

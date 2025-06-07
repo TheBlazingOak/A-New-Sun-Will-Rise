@@ -542,6 +542,7 @@ country_event = {
         TUR_882 = { remove_core = TUR }
         TUR_860 = { add_core = BOR }
         TUR_882 = { remove_core = TUR }
+        TUR_869 = { add_core = BOR }
         set_country_flag = borgar_conquest
     }
 }

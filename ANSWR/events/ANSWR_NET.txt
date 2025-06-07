@@ -334,15 +334,72 @@ country_event = {
 		tag = NET
 		year = 2870
 		revolution_n_counterrevolution = 1
-		OMN = { exists = yes }
-		OMN = { ai = yes }
-		NOT = { has_country_flag = omani_protectorate}
-		relation = { who = OMN value = 25 }
+		OMA = { exists = yes }
+		OMA = { ai = yes }
+		NOT = { has_country_flag = omani_waterproject}
+		NOT = { has_country_flag = no_omani_waterproject}
+		THIS = { relation = { who = OMA value = 25 } }
 	}
-	mean_time_to_happen = { months = 3 }
+	mean_time_to_happen = { months = 12 }
+	#Continue chain
 	option = {
 		name = "EVTOPTA52048"
+		treasury = -50000
 		prestige = 5
-		OMN = { inherit = THIS }
+		set_country_flag = omani_waterproject
+		ai_chance = { factor = 100 }
+	}
+	#No thanks
+	option = {
+		name = "EVTOPTB52048"
+		prestige = -5
+		set_country_flag = no_omani_waterproject
+		ai_chance = { factor = 0 }
+	}
+}
+
+#The Omani Sultanate
+country_event = {
+	id = 52049
+	title = "EVTNAME52049"
+	desc = "EVTDESC52049"
+	trigger = {
+		tag = NET
+		year = 2870
+		has_country_flag = omani_waterproject
+		OMA = { exists = yes }
+		OMA = { ai = yes }
+		NOT = { has_country_flag = omani_protectorate}
+		NOT = { has_country_flag = free_omani_protectorate}
+		THIS = { relation = { who = OMA value = 25 } }
+	}
+	mean_time_to_happen = { months = 12 }
+	#Inherit buffed Oman
+	option = {
+		name = "EVTOPTA52048"
+		inherit = OMA
+		prestige = 5
+		infamy = 2
+		1166 = { life_rating = 4 }
+		1171 = { life_rating = 4 }
+		1169 = { life_rating = 13 }
+		1170 = { life_rating = 13 }
+		1172 = { life_rating = 13 }
+		1174 = { life_rating = 13 }
+		set_country_flag = omani_protectorate
+	}
+	#Free Oman under sphere
+	option = {
+		name = "EVTOPTA52048"
+		sphere = OMA
+		prestige = 15
+		OMA = {prestige = 10 }
+		1166 = { life_rating = 4 }
+		1171 = { life_rating = 4 }
+		1169 = { life_rating = 13 }
+		1170 = { life_rating = 13 }
+		1172 = { life_rating = 13 }
+		1174 = { life_rating = 13 }
+		set_country_flag = free_omani_protectorate
 	}
 }

@@ -1,7 +1,7 @@
-owner = CUB
-controller = CUB
+owner = SCO
+controller = SCO
 add_core = CUB
 trade_goods = fish
-life_rating = 30
+life_rating = 35
 
 terrain = new_world_mountain

@@ -1,0 +1,237 @@
+##Battle for Greenland Event Chain##
+#History of Greenland
+country_event = {
+    id = 52800
+    title = "EVTNAME52800" #History of Greenland
+    desc = "EVTDESC52800"
+    trigger = {
+        year = 2840
+        OR = { 1541 = { owned_by = THIS } 2636 = { owned_by = THIS } 1652 = { owned_by = THIS } }
+        NOT = { has_country_flag = the_greenlander_wars }
+    }
+
+    mean_time_to_happen = { months = 1 }
+
+    option = {
+        name = "EVT52800OPTA"
+        set_country_flag = the_greenlander_wars
+    }
+}
+#The Second Greenland Gold Rush
+country_event = {
+    id = 52801
+    title = "EVTNAME52801" #History of Greenland
+    desc = "EVTDESC52801"
+    trigger = {
+        year = 2846
+        tag = QUE
+        93 = { owned_by = QUE }
+        has_country_flag = the_greenlander_wars
+        NOT = { has_country_flag = the_second_gold_rush }
+    }
+
+    mean_time_to_happen = { months = 12 }
+
+    option = {
+        name = "EVT52801OPTA"
+        set_country_flag = the_second_gold_rush
+        93 = {change_province_name = "Duchamp"}
+        93 = { add_province_modifier = { name = gold_rush duration = 1825 } }
+        add_country_modifier = { name = gold_rush_country duration = 1825 }
+        93 = { trade_goods = precious_metal }
+    }
+}
+#The Scotland Greenland Rush
+country_event = {
+    id = 52802
+    title = "EVTNAME52802" #History of Greenland
+    desc = "EVTDESC52802"
+    trigger = {
+        year = 2846
+        tag = SCO
+        1606 = { owned_by = SCO }
+        has_country_flag = the_greenlander_wars
+        NOT = { has_country_flag = the_second_gold_rush }
+    }
+
+    mean_time_to_happen = { months = 12 }
+
+    option = {
+        name = "EVT52802OPTA"
+        set_country_flag = the_second_gold_rush
+        1606 = { add_province_modifier = { name = gold_rush duration = 1825 } }
+        add_country_modifier = { name = gold_rush_country duration = 1825 }
+        1606 = { trade_goods = precious_metal }
+    }
+}
+#The Border Conflicts
+country_event = {
+    id = 52803
+    title = "EVTNAME52803" #Border Conflicts
+    desc = "EVTDESC52803"
+    trigger = {
+        OR = { tag = QUE tag = SCO }
+        NOT = { AND = { AND = { OR = { tag = SCO tag = QUE } ai = no } ai = yes } }
+        has_country_flag = the_second_gold_rush
+        NOT = { has_global_flag = greenland_border_conflicts }
+    }
+
+    mean_time_to_happen = { months = 12 }
+
+    option = {
+        name = "EVT52803OPTA"
+        set_global_flag = greenland_border_conflicts
+        set_country_flag = greenland_border_conflicts
+        prestige = -2
+    }
+}
+#The Escalation - QUE
+country_event = {
+    id = 52804
+    title = "EVTNAME52804" #Border Conflicts
+    desc = "EVTDESC52804"
+    trigger = {
+        tag = QUE
+        has_global_flag = greenland_border_conflicts
+        has_country_flag = greenland_border_conflicts
+        NOT = { OR = { has_global_flag = greenland_border_escalation has_global_flag = greenland_border_descalation } }
+        NOT = { OR = { has_country_flag = greenland_push has_country_flag = greenland_pull } }
+    }
+
+    mean_time_to_happen = { months = 12 }
+
+    #Push the conflict
+    option = {
+        name = "EVTOPTA52804"
+        set_global_flag = greenland_border_escalation
+        set_country_flag = greenland_push
+        prestige = -2
+        badboy = 2
+        war = {
+            target = SCO
+            attacker_goal = { casus_belli = acquire_state state_province_id = 1541 }
+            defender_goal = { casus_belli = acquire_state state_province_id = 2636 }
+            call_ally = no
+        }
+    }
+    #Deescalate
+    option = {
+        name = "EVTOPTB52804"
+        set_global_flag = greenland_border_descalation
+        set_country_flag = greenland_pull
+        prestige = -2
+        badboy = -2
+    }
+}
+#The Escalation - SCO
+country_event = {
+    id = 52805
+    title = "EVTNAME52805" #Border Conflicts
+    desc = "EVTDESC52805"
+    trigger = {
+        tag = SCO
+        has_global_flag = greenland_border_conflicts
+        has_country_flag = greenland_border_conflicts
+        NOT = { OR = { has_global_flag = greenland_border_escalation has_global_flag = greenland_border_descalation } }
+        NOT = { OR = { has_country_flag = greenland_push has_country_flag = greenland_pull } }
+    }
+
+    mean_time_to_happen = { months = 12 }
+
+    #Push the conflict
+    option = {
+        name = "EVTOPTA52805"
+        set_global_flag = greenland_border_escalation
+        set_country_flag = greenland_push
+        prestige = -2
+        badboy = 2
+        war = {
+            target = QUE
+            attacker_goal = { casus_belli = acquire_state state_province_id = 2636 }
+            defender_goal = { casus_belli = acquire_state state_province_id = 1541 }
+            call_ally = no
+        }
+    }
+    #Deescalate
+    option = {
+        name = "EVTOPTB52805"
+        set_global_flag = greenland_border_descalation
+        set_country_flag = greenland_pull
+        prestige = -2
+        badboy = -2
+    }
+}
+##Coring Greenland - QUE
+country_event = {
+    id = 52807
+    title = "EVTNAME52807"
+    desc = "EVTDESC52807"
+    trigger = {
+        tag = QUE
+        1541 = {owned_by = THIS }
+        1570 = {owned_by = THIS }
+        NOT = { has_country_flag = greenhome }
+    }
+
+    mean_time_to_happen = { months = 3 }
+
+    #Core Greenland
+    option = {
+        name = "EVTOPTA52807"
+        set_country_flag = greenhome
+        any_owned = { limit = { is_core = GRN } add_core = THIS add_core = NOU remove_core = NSO remove_core = GRN}
+        1330 = { trade_goods = coal }
+        251 = { trade_goods = precious_metal }
+        251 = { add_province_modifier = { name = gold_rush duration = 1825 } }
+        add_country_modifier = { name = gold_rush_country duration = 1825 }
+    }
+}
+##Coring Greenland - SCO
+country_event = {
+    id = 52808
+    title = "EVTNAME52808"
+    desc = "EVTDESC52808"
+    trigger = {
+        tag = SCO
+        1541 = {owned_by = THIS }
+        1570 = {owned_by = THIS }
+        NOT = { has_country_flag = greenhome }
+    }
+
+    mean_time_to_happen = { months = 3 }
+
+    #Core Greenland
+    option = {
+        name = "EVTOPTA52808"
+        set_country_flag = greenhome
+        any_owned = { limit = { is_core = GRN } add_core = THIS add_core = NSO remove_core = NOU remove_core = GRN}
+        1330 = { trade_goods = coal }
+        251 = { trade_goods = precious_metal }
+        251 = { add_province_modifier = { name = gold_rush duration = 1825 } }
+        add_country_modifier = { name = gold_rush_country duration = 1825 }
+    }
+}
+##A ticket to Colline##
+country_event = {
+    id = 52809
+    title = "EVTNAME52809"
+    desc = "EVTDESC52809"
+    trigger = {
+        tag = QUE
+        medicine = 1
+        battleship_column_doctrine = 1
+        1570 = {owned_by = THIS }
+        has_country_flag = greenhome
+    }
+
+    mean_time_to_happen = { months = 48 }
+
+    #Push the conflict
+    option = {
+        name = "EVTOPTA52809"
+        1570 = { change_province_name = "Colline"}
+        1570 = { life_rating = 4 }
+        1570 = { add_province_modifier = {name = the_gem_of_greenland duration = -1 } }
+        1570 = { add_province_modifier = {name = rebuilding_city duration = 3650 } }
+    }
+}

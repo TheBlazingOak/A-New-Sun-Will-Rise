@@ -37,12 +37,12 @@ country_event = {
         }
 	option = {
 		name = "EVTOPTA211301"
-		change_tag = ASM
+		change_tag = ALH
 		set_global_flag = al_sham_fascist
 		government = fascist_dictatorship
-		EGY_915 = { add_core = ASM }
-		EGY_897 = { add_core = ASM }
-		EGY_903 = { add_core = ASM }
+		EGY_915 = { add_core = ALH }
+		EGY_897 = { add_core = ALH }
+		EGY_903 = { add_core = ALH }
 		militancy = 1
 	}
 }

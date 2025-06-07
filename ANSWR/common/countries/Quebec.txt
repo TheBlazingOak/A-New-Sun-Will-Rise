@@ -4,7 +4,7 @@ graphical_culture = FrenchGC
 party = {
     name = "QUE_liberal"
     start_date = 2830.1.1
-    end_date = 1850.1.1
+    end_date = 2850.1.1
 
     ideology = liberal
 
@@ -18,7 +18,7 @@ party = {
 
 party = {
     name = "QUE_liberal_2"
-    start_date = 1850.1.1
+    start_date = 2850.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -63,7 +63,7 @@ party = {
 
 party = {
     name = "QUE_liberal_3"
-    start_date = 1907.1.1
+    start_date = 2907.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -139,7 +139,7 @@ party = {
 unit_names = {
     dreadnought = {
         Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent"
-        "Trois-Rivières" Champlain Richelieu
+        "Trois-Rivieres" Champlain Richelieu
 
     }
     ironclad = {
@@ -151,8 +151,8 @@ unit_names = {
         "Trois-Rivières" Champlain Richelieu
     }
     cruiser = {
-        Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent"
-        "Trois-Rivières" Champlain Richelieu
+        Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+        "Trois-Rivieres" Champlain Richelieu
     }
     frigate = {
         Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent"

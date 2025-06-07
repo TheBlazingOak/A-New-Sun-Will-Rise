@@ -12,7 +12,7 @@ LSK = {
 }
 DES = { value = -200 }
 leader = {
-	name = "John López"
+	name = "John Lopez"
     type = sea
     date="2836.1.1"
     personality = heroic

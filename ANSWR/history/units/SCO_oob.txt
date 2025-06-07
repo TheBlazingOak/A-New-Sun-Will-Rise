@@ -2,7 +2,7 @@
 #GPs
 NET = { value = -5 }
 SWI = { value = 5 }
-UNS = { value = -25 }
+UNS = { value = -200 }
 AUS = { value = -30 }
 BOH = { value = 15 }
 AST = { value = 0 }

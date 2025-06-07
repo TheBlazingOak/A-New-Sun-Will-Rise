@@ -1,5 +1,12 @@
 #Sphere of Influence
 #GPs
+NET = { value = -25 }
+SWI = { value = -25 }
+SCO = { value = -200 }
+AUS = { value = 0 }
+BOH = { value = 15 }
+AST = { value = 15 }
+NEN = { value = 15 }
 
 leader = {
     name = "Arlo Hughes"

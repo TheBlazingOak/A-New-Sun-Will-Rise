@@ -91,26 +91,43 @@ country_event = {
     }
 }
 
-#Eastern Australia Claim
+#Western Australia Claim
 country_event = {
     id = 52302
     title = "EVTNAME52302" #Annexation of the Australian lords
     desc = "EVTDESC52302"
     picture = conquest_of_the_desert
     trigger = {
-        has_country_flag = the_new_hae
-        NOT = { has_country_flag = the_eastern_conquest }
+        year = 2845
+        OR = { has_country_flag = the_new_hae SWA = { exists = yes }}
+        NOT = { has_global_flag = the_holy_empires_claim }
     }
 
     mean_time_to_happen = { months = 24 }
 
     option = {
         name = "EVT52302OPTA"
-        set_country_flag = the_eastern_conquest
-        AST_2500 = { add_core = HAE }
-        ENG_2497 = { add_core = HAE }
-        AST_2501 = { add_core = HAE }
-        ENG_2505 = { add_core = HAE }
+        set_global_flag = the_holy_empires_claim
+        THIS = { casus_belli = {
+            target = PRT
+            type = conquest
+            months = 36
+        } }
+        THIS = { add_casus_belli = {
+            target = BRE
+            type = conquest
+            months = 36
+        } }
+        THIS = {add_casus_belli = {
+            target = OLD
+            type = conquest
+            months = 36
+        } }
+        THIS = { add_casus_belli = {
+            target = SWA
+            type = conquest
+            months = 36
+        } }
     }
 }
 #Failures of the Erera Company
@@ -133,4 +150,24 @@ country_event = {
         inherit = EQG
     }
 }
+#SWA Immigration Boom
+country_event = {
+    id = 52304
+    title = "EVTNAME52304" #Failures of the Erera Company
+    desc = "EVTDESC52304"
+    trigger = {
+        tag = SWA
+        has_global_flag = great_western_rail
+        has_global_flag = inner_australia_claimed
+        NOT = { has_country_flag = perther_immigration_boom }
+    }
 
+    mean_time_to_happen = { months = 18 }
+
+    option = {
+        name = "EVT52304OPTA"
+        set_country_flag = perther_immigration_boom
+        add_country_modifier = { name = small_immigration_boom duration = 3650 }
+        2497 = { life_rating = 4 }
+    }
+}

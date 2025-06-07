@@ -1,0 +1,25 @@
+name = "Second Greenland War"
+
+2744.12.25 = {
+    add_attacker = SCO
+    add_defender = QUE
+
+    war_goal = {
+        casus_belli = acquire_state
+        state_province_id = 1541
+        actor = QUE
+        receiver = SCO
+    }
+    war_goal = {
+        casus_belli = acquire_state
+        state_province_id = 2636
+        actor = SCO
+        receiver = QUE
+    }
+
+}
+
+2749.12.30 = {
+    rem_attacker = SCO
+    rem_defender = QUE
+}

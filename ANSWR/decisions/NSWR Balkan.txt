@@ -243,7 +243,8 @@ political_decisions = {
         potential = {
             tag = BOR
             NOT = { has_country_flag = BOR_victory }
-            NOT = {OR = { 861 = {owned_by = BOR } 861 = {owned_by = TUR } 861 = {owned_by = IST } }
+            876 = { owned_by = BOR }
+            OR = {  861 = {owned_by = TUR } 861 = {owned_by = IST } }
         }
         allow = {
             876 = { owned_by = BOR }
@@ -255,7 +256,7 @@ political_decisions = {
             876 = { state_scope = { change_region_name = "Tsentralna"} }
             873 = { state_scope = { change_region_name = "Goremini"} }
             894 = { state_scope = {  change_region_name = "Noviyat Sofia"} }
-            BOR = { country_event = { id = 52154 } }
+            BOR = { country_event = { id = 52156 } }
         }
     }
     atanagrad_project = {
@@ -293,4 +294,5 @@ political_decisions = {
             add_accepted_culture = iskhor
         }
     }
+}
 }

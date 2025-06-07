@@ -521,14 +521,12 @@ transpacifica_unification = {
     	potential = {
     	tag = TRP
     	ARI = { exists = yes }
-    	NOT = { 
-    	has_country_flag = raising_arizona}
+    	NOT = { has_country_flag = raising_arizona }
     	ARI = { is_vassal_of = THIS}
 		year = 2845
-		NOT = { has_country_flag = raising_arizona }
     		}
     	allow = {
-    		nationalism_n_imperialism = 1
+    		state_n_government = 1
     	}
     	effect = {
     	prestige = 5
@@ -625,7 +623,6 @@ transpacifica_unification = {
     	}
     	effect ={
     		239 = {add_core = NEN}
-    		66 = {add_core = NEN}
     		236 = {add_core = NEN}
     		set_country_flag = death_to_st_lawerance
 		}
@@ -702,15 +699,15 @@ transpacifica_unification = {
 	    	tag = PAW
 	    	126 = { owned_by = THIS }
 	    	120 = { owned_by = THIS }
-	    	NOT = { 127 = { owned_by = THIS } 125 = { owned_by = THIS } }
+	    	NOT = { 127 = { is_owned = yes } 125 = { is_owned = yes } }
 	    	NOT = { has_country_flag = great_roads_conquered }
     	}
 
     	allow = {
-    		prestige = 10
     		OR = {
-    		prestige = 15
-    		130 = { owned_by = THIS }
+    		prestige = 10
+			AND = { 130 = { owned_by = THIS } prestige = 5 }
+    		AND = { ai = yes year = 2840 }
     		}
     	}
     	effect ={

@@ -1,0 +1,80 @@
+political_decisions = {
+    ##Western Australia Decisions##
+    the_western_states = {
+        picture = western_australia
+        potential = {
+            primary_culture = perther
+            NOT = { exists = SWA }
+        }
+        allow = {
+            prestige = 10
+            PRT = { exists = yes }
+            BRE = { exists = yes }
+            OLD = { exists = yes }
+            THIS = { war = no }
+            NOT = { AND = { AND = { OR = { tag = PRT tag = BRE tag = OLD} ai = no } ai = yes } }
+        }
+        effect = {
+            prestige = 10
+            change_tag = SWA
+            inherit = OLD
+            inherit = PRT
+            inherit = BRE
+            ENG_2497 = { add_core = THIS remove_core = PRT }
+            AST_2501 = { add_core = THIS remove_core = OLD remove_core = BRE  }
+            ENG_2505 = { add_core = THIS remove_core = OLD remove_core = BRE }
+        }
+        ai_will_do = { factor = 1 }
+    }
+    the_western_desert = {
+        picture = western_australia
+        potential = {
+            2497 = { owned_by = THIS }
+            2502 = { owned_by = THIS }
+            2505 = { owned_by = THIS }
+            year = 2840
+            NOT = { has_global_flag = inner_australia_claimed }
+        }
+        allow = {
+            prestige = 10
+            early_railroad = 1
+        }
+        effect = {
+            2503 = { secede_province = THIS add_core = THIS }
+            2605 = { secede_province = THIS add_core = THIS }
+            2601 = { secede_province = THIS add_core = THIS }
+            2603 = { secede_province = THIS add_core = THIS }
+            2507 = { secede_province = THIS add_core = THIS }
+            2495 = { secede_province = THIS add_core = THIS }
+            set_global_flag = inner_australia_claimed
+        }
+        ai_will_do = { factor = 1 }
+    }
+    the_great_rail = {
+        picture = railroad
+        potential = {
+            2497 = { owned_by = THIS }
+            2502 = { owned_by = THIS }
+            2505 = { owned_by = THIS }
+            has_global_flag = inner_australia_claimed
+            NOT = { has_global_flag = great_western_rail }
+        }
+        allow = {
+            prestige = 10
+            early_railroad = 1
+            money = 50000
+        }
+        effect = {
+            treasury = 50000
+            set_global_flag = great_western_rail
+            2497 = { railroad = 2 }
+            2499 = { railroad = 2 }
+            2502 = { railroad = 2 }
+            2501 = { railroad = 2 }
+            2505 = { railroad = 2 }
+            2602 = { railroad = 2 }
+        }
+        ai_will_do = { factor = 1 }
+    }
+
+}

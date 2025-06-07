@@ -2913,3 +2913,10 @@ national_assembly = {
     political_reform_desire = 0.05
     icon = 3
 }
+#Bord de Collin
+the_gem_of_greenland = {
+    prestige = 0.02
+    global_immigrant_attract = 0.25
+    global_assimilation_rate = 0.25
+    icon = 15
+}
