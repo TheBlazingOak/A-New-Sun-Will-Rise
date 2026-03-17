@@ -252,7 +252,7 @@ country_event = {
     title = "EVTNAME52120" #Bohemia signs away the opposition pact
     desc = "EVTDESC52120"
     is_triggered_only = yes
-    fire_once_only = yes
+    fire_only_once = yes
 
     option = {
         name = "EVT52020OPTA" #We have no choice
@@ -464,7 +464,7 @@ country_event ={
     option = {
         name = "EVTOPTA222054"
         change_tag = OUD
-        end_war = AUS
+        end_war = BOH
         prestige = 25
         BOH = { all_core = { remove_core = OUD } }
         BOH = { set_country_flag = lost_war_of_the_seventh }
@@ -491,6 +491,10 @@ country_event ={
         remove_core = PZN
         remove_core = AUS
         }
+        add_accepted_culture = north_german
+        add_accepted_culture = south_german
+        add_accepted_culture = rhine_german
+        add_accepted_culture = alsatian
         HAN_534 = { add_core = OUD }
         HAN_528 = { add_core = OUD }
         remove_country_modifier = oudrijk_prince
@@ -583,7 +587,7 @@ country_event ={
         }
 }
 #Cislav Victory
-country_event ={
+country_event = {
     id = 222057
     title = "EVTNAME222057"
     desc = "EVTDESC222057"
@@ -592,7 +596,6 @@ country_event ={
         has_global_flag = night_of_the_seventh
         622 = { NOT = { controlled_by = AUS } }
         tag = BOH
-        AUS = { has_recently_lost_war = yes}
         NOT = { has_global_flag = boh_won_war_of_the_seventh }
         NOT = { OUD = {exists = yes} }
     }
@@ -626,6 +629,10 @@ country_event ={
         remove_core = PZN
         remove_core = AUS
         }
+        add_accepted_culture = north_german
+        add_accepted_culture = south_german
+        add_accepted_culture = rhine_german
+        add_accepted_culture = alsatian
         remove_country_modifier = oudrijk_prince
         remove_country_modifier = oudrijk_oppostion
         add_country_modifier = {
@@ -761,7 +768,7 @@ country_event ={
         }
 }
 #Partition of the Vlanspublyk
-country_event ={
+country_event = {
     id = 222061
     title = "EVTNAME222061"
     desc = "EVTDESC222061"

@@ -79,10 +79,10 @@ army = {
 }
 
 army = {
-    name = "Polacy Armia Ochotnicza"
+    name = "Poula Militia"
     location = 705 #Przemysl
     regiment = {
-        name= "Brygada Prestiżu"
+        name= "Brygada Prestizu"
         type = infantry
         home = 705
     }
@@ -113,50 +113,30 @@ army = {
 }
 
 army = {
-    name = "Polish Eastern Palatinate"
-    location = 719 #Bialystock
+    name = "Poulan Eastern Paladins"
+    location = 958 #Bialystock
    regiment = {
         name= "I.Paladin"
         type = guard
-        home = 719
+        home = 712
     }
 
     regiment = {
         name= "II.Paladin"
         type = guard
-        home = 937
+        home = 712
     }
 
     regiment = {
         name= "III.Paladin"
         type = guard
-        home = 936
-    }
-}
-
-army = {
-    name = "Krainakrolow Armia"
-    location = 695 #Krainakrólów
-    regiment = {
-        name= "I. Brygada Krainakrólów"
-        type = infantry
-        home = 695
-    }
-    regiment = {
-        name= "II. Brygada Krainakrólów"
-        type = infantry
-        home = 695
-    }
-    regiment = {
-        name= "III. Brygada Krainakrólów"
-        type = infantry
-        home = 695
+        home = 694
     }
 }
 
 navy = {
-    name = "Polacy Flota"
-    location = 695 #Krainakrólów
+    name = "Poulkranan Flota"
+    location = 710 #Krainakrólów
     ship = {
         name= "Nizińsk"
         type = manowar

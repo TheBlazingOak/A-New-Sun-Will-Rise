@@ -1,6 +1,5 @@
 owner = TNT
 controller = TNT
 add_core = TNT
-add_core = MGL
 trade_goods = grain
 life_rating = 32

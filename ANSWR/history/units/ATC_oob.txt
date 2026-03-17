@@ -1,0 +1,80 @@
+army = {
+    name = "Army of PR"
+    location = 1462
+    regiment = {
+        name= "I. Cavalry"
+        type = cavalry
+        home = 1462
+    }
+
+    regiment = {
+        name = "I. Division"
+        type = irregular
+        home = 1462
+    }
+    regiment = {
+        name = "II. Division"
+        type = irregular
+        home = 1462
+    }
+    regiment = {
+        name = "III. Division"
+        type = irregular
+        home = 1463
+    }
+    regiment = {
+        name = "IV. Division"
+        type = irregular
+        home = 1463
+    }
+}
+
+navy = {
+    name = "The Pilarista Fleet"
+    location = 1462 Fuerte Pilaria
+    ship = {
+        name= "San Jaun"
+        type = manowar
+    }
+    ship = {
+        name= "1 Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "2 Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "3 Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "4 Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "5 Transport"
+        type = steam_transport
+    }
+}
+leader = {
+    name = "Henry Ramos"
+    date = 2836.1.1
+    type = land
+    personality = bold
+    background = rising_star
+    prestige = 0.15
+}
+
+leader = {
+    name = "Enrique Soto"
+    date = 2836.1.1
+    type = sea
+    personality = brash
+    background = debutante
+    prestige = 0.05
+}

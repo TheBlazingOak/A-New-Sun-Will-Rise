@@ -60,26 +60,4 @@ political_decisions = {
 		factor = 1
 		}
 	}
-	#Siberian Colonization
-	colonize_east = {
-		potential = {
-			exists = yes
-			OR = { 1032 = {owned_by = THIS } 2645 = {owned_by = THIS } }
-				NOT = {
-				has_global_flag = colonized_east_siberia_wasters
-				}
-		}
-		allow = {
-			1032 = {owned_by = THIS }
-			2645 = {owned_by = THIS }
-			}
-		effect = {
-		RUS_2680 = { secede_province = THIS }
-		RUS_2680 = { add_core = THIS }
-		set_global_flag = colonized_east_siberia_wasters
-		}
-		ai_will_do = {
-		factor = 1
-		}
-	}
 }

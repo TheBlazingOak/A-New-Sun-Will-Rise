@@ -209,7 +209,7 @@ country_event = {
     desc = "EVTDESC52004"
     picture = "norwegian_storting"
     is_triggered_only = yes
-    fire_once_only = yes
+    fire_only_once = yes
 
     option = {
         name = "EVT52004OPTA" #So be it
@@ -223,7 +223,7 @@ country_event = {
     desc = "EVTDESC52005"
     picture = "norwegian_storting"
     is_triggered_only = yes
-    fire_once_only = yes
+    fire_only_once = yes
 
     option = {
         name = "EVT52005OPTA" #So be it
@@ -236,7 +236,7 @@ country_event = {
     title = "EVTNAME52006" #Vive La France!
     desc = "EVTDESC52006"
     is_triggered_only = yes
-    fire_once_only = yes
+    fire_only_once = yes
 
     option = {
         name = "EVT52006OPTA" #Yay!
@@ -254,7 +254,7 @@ country_event = {
     desc = "EVTDESC52007"
     major = yes
     is_triggered_only = yes
-    fire_once_only = yes
+    fire_only_once = yes
 
     option = {
         name = "EVT52007OPTA" #Horrah for Skan
@@ -267,7 +267,7 @@ country_event = {
     id = 52058
     title = "EVTNAME52058" #The Finnish Question
     desc = "EVTDESC52058"
-    fire_once_only = yes
+    fire_only_once = yes
     trigger = {
         tag = FIN
         has_global_flag = scandi_united
@@ -333,7 +333,7 @@ country_event = {
     id = 520509
     title = "EVTNAME52059" #Svea-Norge Wins
     desc = "EVTDESC52059"
-    fire_once_only = yes
+    fire_only_once = yes
 
     trigger = {
         tag = NOD
@@ -366,7 +366,7 @@ country_event = {
     title = "EVTNAME52118" #Prosperity for El Jardin!
     desc = "EVTDESC52118"
     is_triggered_only = yes
-    fire_once_only = yes
+    fire_only_once = yes
 
     option = {
         name = "EVT52006OPTA" #Yay!
@@ -383,7 +383,7 @@ country_event = {
     desc = "EVTDESC52119"
     major = yes
     is_triggered_only = yes
-    fire_once_only = yes
+    fire_only_once = yes
 
     option = {
         name = "EVT52119OPTA" #To a new era
@@ -398,7 +398,7 @@ country_event = {
     title = "EVTNAME52150" #Istoslavia wants us to join them
     desc = "EVTDESC52150"
     is_triggered_only = yes
-    fire_once_only = yes
+    fire_only_once = yes
 
     option = {
         name = "EVT52150OPTA" #Yes

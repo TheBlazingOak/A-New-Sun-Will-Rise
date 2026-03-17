@@ -1,5 +1,5 @@
 political_decisions = {
-#Muisca Formation
+Muisca Formation
 muisca_form = {
 		potential = {
 				OR = { tag = CRR tag = GAR }
@@ -23,14 +23,14 @@ muisca_form = {
 		potential = {
 				tag = QKD
 				year = 2840
-				NOT = {has_country_flag = casanar_qkd }
+				NOT = { has_country_flag = casanar_qkd }
 			}
 		allow = {
 			NOT = { CLM_2262 = { owned_by = THIS } }
 		}
 		effect = {
 			CLM_2262 = { add_core = THIS }
-			CLM_2262 = {secede_province = THIS }
+			CLM_2262 = { secede_province = THIS }
 			set_country_flag = casanar_qkd
 		}
 	}
@@ -39,7 +39,7 @@ muisca_form = {
 				tag = QKD
 				year = 2843
 				has_country_flag = casanar_qkd
-				NOT = {has_country_flag = casanar_qkd2 }
+				NOT = { has_country_flag = casanar_qkd2 }
 			}
 		allow = {
 			has_country_flag = casanar_qkd
@@ -93,64 +93,53 @@ muisca_form = {
 		}
 	}
 	#Amazon Colonization
-	mato_grasso_colonization = {
+	mato_grosso_colonization = {
 		picture = south_america
 		potential = {
-				exists = yes
 				tag = USS
 				year = 2850
-				NOT = {
-				any_country = { any_owned_province = { region = BRZ_2416 } }
-				}
-				NOT = {has_country_flag = mato_grasso_colonization}
+				BRZ_2416 = { empty = yes }
+				NOT = { has_country_flag = mato_grosso_colonized }
 			}
 		allow = {
 			2600 = { owned_by = THIS }
 			prestige = 5
+			USS = { all_core = { owned_by = THIS } }
 		}
 		effect = {
-			BRZ_2416 = { secede_province = THIS }
-			set_country_flag = mato_grasso_colonization
+			BRZ_2416 = { secede_province = THIS add_core = THIS }
+			set_country_flag = mato_grosso_colonized
 		}
 	}
 	#Amazon Colonization
 	valle_de_amazonas_colonization = {
 		picture = south_america
 		potential = {
-				exists = yes
 				tag = USS
 				year = 2855
-				NOT = {
-				any_country = { any_owned_province = { region = CSK_2301 } }
-				}
-				NOT = {has_country_flag = amazonas_colonization}
+				CSK_2301 = { empty = yes }
+				NOT = { has_country_flag = amazonas_colonized }
 			}
 		allow = {
 			2404 = { owned_by = THIS }
 			prestige = 5
+			USS = { all_core = { owned_by = THIS } }
 		}
 		effect = {
-			CSK_2301 = { secede_province = THIS }
-			set_country_flag = amazonas_colonization
+			CSK_2301 = { secede_province = THIS add_core = THIS }
+			set_country_flag = amazonas_colonized
 		}
 	}
 	#Patagonia Colonization
 	patagonia_colonization = {
 		picture = south_america
 		potential = {
-				exists = yes
 				year = 2865
 				ARG_2393 = { owned_by = THIS }
-				NOT = {
-				any_country = { any_owned_province = { region = ARG_2374 } }
-				}
-				NOT = {
-				any_country = { any_owned_province = { region = ARG_2391 } }
-				}
-				NOT = {
-				any_country = { any_owned_province = { region = ARG_2398 } }
-				}
-				NOT = {has_country_flag = patagonia_colonization}
+				ARG_2374 = { empty = yes }
+				ARG_2391 = { empty = yes }
+				ARG_2398 = { empty = yes }
+				NOT = { has_country_flag = patagonia_colonized }
 			}
 		allow = {
 			2404 = { owned_by = THIS }
@@ -160,24 +149,19 @@ muisca_form = {
 			ARG_2398 = { secede_province = THIS add_core = THIS add_core = USS }
 			ARG_2391 = { secede_province = THIS add_core = THIS add_core = USS }
 			ARG_2374 = { secede_province = THIS add_core = THIS add_core = USS }
-			set_country_flag = patagonia_colonization
+			set_country_flag = patagonia_colonized
 		}
 	}
 	chile_colonization = {
 		picture = south_america
 		potential = {
-				exists = yes
 				year = 2860
 				ARG_2398 = { owned_by = THIS }
 				ARG_2391 = { owned_by = THIS }
 				ARG_2374 = { owned_by = THIS }
-				NOT = {
-				any_country = { any_owned_province = { region = CHL_2327 } }
-				}
-				NOT = {
-				any_country = { any_owned_province = { region = CHL_2322 } }
-				}
-				NOT = {has_country_flag = chile_colonization}
+				CHL_2327 = { empty = yes }
+				CHL_2322 = { empty = yes }
+				NOT = { has_country_flag = chile_colonized }
 			}
 		allow = {
 			2404 = { owned_by = THIS }
@@ -186,7 +170,7 @@ muisca_form = {
 		effect = {
 			CHL_2327 = { secede_province = THIS add_core = THIS add_core = USS }
 			CHL_2322 = { secede_province = THIS add_core = THIS add_core = USS }
-			set_country_flag = chile_colonization
+			set_country_flag = chile_colonized
 		}
 	}
 }

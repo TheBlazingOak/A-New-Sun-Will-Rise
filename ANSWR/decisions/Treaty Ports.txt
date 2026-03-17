@@ -93,15 +93,8 @@ political_decisions = {
                 }
                 modifier = {
                     factor = 0
-                    tag = RUS
-                    NOT = { owns = 1481 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
                     primary_culture = japanese
                     NOT = { owns = 1415 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -143,20 +136,6 @@ political_decisions = {
                     tag = ENG
                     NOT = { owns = 1569 }
                     1569 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
-                    tag = RUS
-                    NOT = { owns = 1481 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
-                    primary_culture = japanese
-                    NOT = { owns = 1415 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
-                    NOT = { owns = 2562 }
-                    2562 = { owner = { civilized = no truce_with = THIS } }
                 }
             }
     }
@@ -245,15 +224,8 @@ political_decisions = {
                 }
                 modifier = {
                     factor = 0
-                    tag = RUS
-                    NOT = { owns = 1481 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
                     primary_culture = japanese
                     NOT = { owns = 1415 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -298,15 +270,7 @@ political_decisions = {
                 }
                 modifier = {
                     factor = 0
-                    tag = RUS
-                    NOT = { owns = 1481 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
                     primary_culture = japanese
-                    NOT = { owns = 1415 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -351,15 +315,8 @@ political_decisions = {
                 }
                 modifier = {
                     factor = 0
-                    tag = RUS
-                    NOT = { owns = 1481 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
                     primary_culture = japanese
                     NOT = { owns = 1415 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -403,15 +360,8 @@ political_decisions = {
                 }
                 modifier = {
                     factor = 0
-                    tag = RUS
-                    NOT = { owns = 1481 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
                     primary_culture = japanese
                     NOT = { owns = 1415 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -456,15 +406,8 @@ political_decisions = {
                 }
                 modifier = {
                     factor = 0
-                    tag = RUS
-                    NOT = { owns = 1481 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
                     primary_culture = japanese
                     NOT = { owns = 1415 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
                     NOT = { owns = 2562 }
                     2562 = { owner = { civilized = no truce_with = THIS } }
                 }
@@ -506,12 +449,6 @@ political_decisions = {
                     tag = ENG
                     NOT = { owns = 1566 }
                     1566 = { owner = { civilized = no truce_with = THIS } }
-                }
-                modifier = {
-                    factor = 0
-                    tag = RUS
-                    NOT = { owns = 1481 }
-                    1481 = { owner = { civilized = no truce_with = THIS } }
                 }
                 modifier = {
                     factor = 0

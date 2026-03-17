@@ -1,20 +1,283 @@
+##Kingdoms of Poulkrana Chains##
+#Act I: The Brewing
+#Intro Event
 country_event = {
     id = 52501
     title = "EVTNAME52501"
     desc = "EVTDESC52501"
-    is_triggered_only = yes
+    trigger = {
+        tag = WRP
+        NOT = { OR = { has_country_flag = WRP_senate_curbed has_country_flag = WRP_senate_free } }
+    }
+
+    mean_time_to_happen = { months = 6 }
+
     option = {
-        name = "EVT52501OPTA" #Yes
-            FROM = { inherit = THIS }
-            all_core = {
-            add_core = WRP
-            }
+        name = "EVTOPTA52501" #They have every right
+        set_country_flag = WRP_senate_curbed
+        
         }
     option = {
-        name = "EVT52501OPTB" #Refuse
-            all_core = {
-            add_core = WRP
+        name = "EVTOPTB52501" #Curb the senate power
+        set_country_flag = WRP_senate_free
+        }
+}
+
+#The Black Bill
+country_event = {
+    id = 52502
+    title = "EVTNAME52502"
+    desc = "EVTDESC52502"
+    trigger = {
+        tag = WRP
+        OR = { has_country_flag = WRP_senate_curbed has_country_flag = WRP_senate_free }
+        NOT = { OR = { has_country_flag = dead_bill_supported has_country_flag = dead_bill_killed } }
+    }
+
+    mean_time_to_happen = { months = 24 }
+
+    option = {
+        name = "EVTOPTA52502" #Pro-Democratic
+        set_country_flag = dead_bill_supported
+    }
+    option = {
+        name = "EVTOPTB52502" #Anti-Democratic
+        set_country_flag = dead_bill_killed
+    }
+}
+
+#The Black Bill 2
+country_event = {
+    id = 52503
+    title = "EVTNAME52503"
+    desc = "EVTDESC52503"
+    trigger = {
+        tag = WRP
+        has_country_flag = dead_bill_supported
+        NOT = { OR = { has_country_flag = equal_bill has_country_flag = poula_bill has_country_flag = ukrana_bill} }
+    }
+
+    mean_time_to_happen = { months = 3 }
+
+    #Focus on equal rights
+    option = {
+        name = "EVTOPTA52503" #Equal Rights (Best outcome, potential peaceful union of Paltija)
+        set_country_flag = equal_bill
+        political_reform = universal_voting
+        political_reform = secret_ballots
+        political_reform = open_borders
+        political_reform = free_press
+        political_reform = yes_meeting
+        political_reform = meetings_allowed
+    }
+    #Favor Poula
+    option = {
+        name = "EVTOPTB52503" #Poula (Leds to tension between Paltija)
+        set_country_flag = poula_bill
+        political_reform = wealth_voting
+        political_reform = non_secret_ballots
+        political_reform = open_borders
+        political_reform = free_press
+        political_reform = yes_meeting
+    }
+    #Favor Ukrana
+    option = {
+        name = "EVTOPTC52503" #Ukrana (Leds to dissatified Poula, but opens up Ukrana Colonization)
+        set_country_flag = ukrana_bill
+        political_reform = wealth_voting
+        political_reform = non_secret_ballots
+        political_reform = open_borders
+        political_reform = free_press
+        political_reform = yes_meeting
+    }
+}
+#Fear on the border
+country_event = {
+    id = 52504
+    title = "EVTNAME52504"
+    desc = "EVTDESC52504"
+    trigger = {
+        tag = WRP
+        has_global_flag = flight_of_the_one
+        NOT = { OR = { has_country_flag = anti_adzinoki has_country_flag = the_mask_of_fear } }
+    }
+
+    mean_time_to_happen = { months = 12 }
+
+    #My god, the horror
+    option = {
+        name = "EVTOPTA52504" #Expansionist
+        set_country_flag = anti_adzinoki
+        prestige = -5
+        RUS_940 = { add_core = THIS }
+        RUS_718 = { add_core = THIS }
+    }
+
+    #This is all just deflection and fear, to distract us.
+    option = {
+        name = "EVTOPTB52504" #Humanitarian Democratic
+        set_country_flag = the_mask_of_fear
+        prestige = 10
+    }
+}
+
+#The Young Heir's University#
+country_event = {
+    id = 52505
+    title = "EVTNAME52505"
+    desc = "EVTDESC52505"
+    trigger = {
+        tag = WRP
+        OR = { has_country_flag = WRP_senate_curbed has_country_flag = WRP_senate_free }
+        NOT = { has_country_flag = nowydom_university }
+    }
+
+    mean_time_to_happen = { months = 60 }
+
+    option = {
+        name = "EVTOPTA52505"
+        set_country_flag = nowydom_university
+        prestige = 10
+        political_reform = acceptable_school_system
+    }
+}
+
+#March on Kiev
+country_event = {
+    id = 52506
+    title = "EVTNAME52506"
+    desc = "EVTDESC52506"
+    trigger = {
+        tag = WRP
+        year = 2851
+        OR = { has_country_flag = equal_rights has_country_flag = WRP_senate_free }
+        NOT = { has_country_flag = ukrana_bill }
+        NOT = { has_country_flag = kiev_march }
+        NOT = { has_country_flag = crimea_liberated }
+    }
+
+    mean_time_to_happen = { months = 12 }
+
+    option = {
+        name = "EVTOPTA52506" #That's not good.
+        set_country_flag = kiev_march
+        any_pop = {
+            limit = {
+                has_pop_culture = ukrainian
             }
-            relation = { who = WRP value = -150}
+            militancy = 4
+        }
+    }
+
+}
+
+#Declaration of the Free State of Ukrana
+country_event = {
+    id = 52507
+    title = "EVTNAME52507"
+    desc = "EVTDESC52507"
+    trigger = {
+        tag = WRP
+        has_country_flag = kiev_march
+        OR = { has_country_flag = WRP_senate_curbed has_country_flag = WRP_senate_free }
+        NOT = { has_global_flag = the_poulkrana_war }
+    }
+
+    mean_time_to_happen = { days = 14 }
+
+    #Ukrana Secedes
+    option = {
+        name = "EVTOPTA52507"
+        prestige = -10
+        set_global_flag = the_poulkrana_war
+        UKR = { 
+            random_owned = {
+            limit = { province_id = 958 }
+            owner = { capital = 958 }
+            } 
+        }
+        any_pop = {
+            limit = { has_pop_culture = ukrainian }
+            dominant_issue = {
+                factor = 0.10
+                value = jingoism
+            }
+            ideology = {
+                value = reactionary
+                factor = 0.10
+            }
+        }
+        RUS_959 = { secede_province = UKR }
+        RUS_958 = { secede_province = UKR }
+        RUS_955 = { secede_province = UKR }
+        #THIS = { create_vassal = UKR }
+    }
+}
+#War Againist Ukrana
+country_event = {
+    id = 52508
+    title = "EVTNAME52508"
+    desc = "EVTDESC52508"
+    major = yes
+    trigger = {
+        tag = WRP
+        OR = { has_global_flag = poulkrana_war_declared }
+        has_global_flag = the_poulkrana_war
+    }
+
+    mean_time_to_happen = { months = 3 }
+
+    #Ukrana Secedes
+    option = {
+        name = "EVTOPTA52508"
+        prestige = -10
+        set_global_flag = poulkrana_war_declared
+        war = {
+            target = UKR
+            attacker_goal = { casus_belli = civil_war }
+            defender_goal = { casus_belli = status_quo }
+            call_ally = no
+        }
+    }
+}
+##The Adzinoki Wars##
+#Crimea Liberation (Makes Ukrana Happy)
+country_event = {
+    id = 52549
+    title = "EVTNAME52549"
+    desc = "EVTDESC52549"
+    trigger = {
+        tag = WRP
+        967 = { owned_by = THIS }
+        OR = { has_country_flag = WRP_senate_curbed has_country_flag = WRP_senate_free }
+        NOT = { has_country_flag = crimea_liberated }
+    }
+
+    mean_time_to_happen = { months = 6 }
+
+    option = {
+        name = "EVTOPTA52549" #Hurah for Poulkrana
+        set_country_flag = crimea_liberated
+        prestige = 10
+        }
+}
+#Poulkrana Liberation of Brest (Makes Poula Happy)
+country_event = {
+    id = 52550
+    title = "EVTNAME52550"
+    desc = "EVTDESC52550"
+    trigger = {
+        tag = WRP
+        937 = { owned_by = THIS }
+        OR = { has_country_flag = WRP_senate_curbed has_country_flag = WRP_senate_free }
+        NOT = { has_country_flag = brest_liberated }
+    }
+
+    mean_time_to_happen = { months = 6 }
+
+    option = {
+        name = "EVTOPTA52550" #Hurah for Poulkrana
+        set_country_flag = brest_liberated
+        prestige = 10
         }
 }

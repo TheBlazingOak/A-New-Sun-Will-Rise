@@ -1,0 +1,18 @@
+political_decisions = {
+	pr_claims = {
+		potential = {
+			exists = yes
+			tag = ATC
+			NOT = {has_country_flag = pr_claims}
+		}
+		allow = {
+			prestige = 10
+		}
+		effect ={
+			HAI_2213 = { add_core = THIS }
+			SPA_2209 = { add_core = THIS }
+			set_country_flag = pr_claims
+		}
+	}
+	#END OF DECISIONS
+}

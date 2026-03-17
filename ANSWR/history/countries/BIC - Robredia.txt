@@ -1,12 +1,10 @@
 capital = 1457
 primary_culture = nagan
-culture = waray
-culture = manobo
 religion = catholic
 government = proletarian_dictatorship
 plurality = 0.0
 nationalvalue = nv_equality
-literacy = 0.28
+literacy = 0.22
 civilized = no
 
 

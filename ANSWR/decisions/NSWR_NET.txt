@@ -151,13 +151,13 @@ political_decisions = {
                 duration = 3650
             }
             NET_385 = { remove_province_modifier = dutch_dijkes
-            	add_province_modifier = { name = improved_dutch_dijkes duration = -1 } }
+            	add_province_modifier = { name = improved_dutch_dijkes duration = 3650 } }
             HAN_540 = { remove_province_modifier = dutch_dijkes
-            	add_province_modifier = { name = improved_dutch_dijkes duration = -1 } }
+            	add_province_modifier = { name = improved_dutch_dijkes duration = 3650 } }
             NET_375 = { remove_province_modifier = dutch_dijkes
-            	add_province_modifier = { name = improved_dutch_dijkes duration = -1 } }
+            	add_province_modifier = { name = improved_dutch_dijkes duration = 3650 } }
             BEL_387 = { remove_province_modifier = dutch_dijkes
-            	add_province_modifier = { name = improved_dutch_dijkes duration = -1 } } 
+            	add_province_modifier = { name = improved_dutch_dijkes duration = 3650 } } 
             any_province = {
             	limit = {
             		owned_by = NET

@@ -350,6 +350,11 @@
         religion = sunni
         size = 4600
     }
+    slaves = {
+        culture = swathanthrar
+        religion = sunni
+        size = 1525
+    }
 }
 #Nejd Region (204000)
 #under the rule of Nejd in 1836
@@ -358,49 +363,64 @@
     aristocrats = {
         culture = bedouin
         religion = sunni
-        size = 2450
+        size = 5450
     }
 
     bureaucrats = {
         culture = bedouin
         religion = sunni
-        size = 325
+        size = 925
     }
 
     officers = {
         culture = bedouin
         religion = sunni
-        size = 75
+        size = 275
     }
 
     clergymen = {
         culture = bedouin
         religion = sunni
-        size = 425
+        size = 3425
     }
 
     artisans = {
         culture = bedouin
         religion = sunni
-        size = 6850
+        size = 11850
+    }
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 11850
+    }
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 11850
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 3000
+        size = 8000
     }
 
     soldiers = {
         culture = bedouin
         religion = sunni
-        size = 3000
+        size = 12000
     }
 
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 145675
+        size = 155675
+    }
+    slaves = {
+        culture = swathanthrar
+        religion = sunni
+        size = 92525
     }
 }
 #Rafha (20000/5000 POPS)
@@ -434,6 +454,11 @@
         religion = sunni
         size = 12675
     }
+    slaves = {
+        culture = swathanthrar
+        religion = sunni
+        size = 1525
+    }
 }
 #Halaban (28000/7000 POPS)
 1159 = {
@@ -465,6 +490,11 @@
         culture = bedouin
         religion = sunni
         size = 5525
+    }
+    slaves = {
+        culture = swathanthrar
+        religion = sunni
+        size = 1525
     }
 }
 #Hail (12000/3000 POPS)
@@ -508,13 +538,13 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 21850
+        size = 31850
     }
 
     slaves = {
-        culture = kefficho
-        religion = animist
-        size = 3000
+        culture = swathanthrar
+        religion = sunni
+        size = 11525
     }
 }
 #Sharawah (28000/7000 POPS)
@@ -548,6 +578,12 @@
         religion = sunni
         size = 7525
     }
+    slaves = {
+        culture = swathanthrar
+        religion = sunni
+        size = 1525
+    }
+
 }
 #Bahrain Region (204000) #see Gulf States.txt for balance of region
 #under the rule of Nejd in 1836
@@ -626,9 +662,9 @@
     }
 
     slaves = {
-        culture = kefficho
-        religion = animist
-        size = 1000
+        culture = swathanthrar
+        religion = sunni
+        size = 16525
     }
 }
 #Hufuf (96000/POPS)
@@ -648,6 +684,16 @@
     artisans = {
         culture = bedouin
         religion = sunni
+        size = 11500
+    }
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 11500
+    }
+    artisans = {
+        culture = bedouin
+        religion = sunni
         size = 5500
     }
 
@@ -661,6 +707,11 @@
         culture = bedouin
         religion = sunni
         size = 91750
+    }
+    slaves = {
+        culture = swathanthrar
+        religion = sunni
+        size = 825
     }
 }
 #Ahsa (16000/4000 POPS)
@@ -693,6 +744,11 @@
         culture = bedouin
         religion = sunni
         size = 3850
+    }
+    slaves = {
+        culture = swathanthrar
+        religion = sunni
+        size = 825
     }
 
 }

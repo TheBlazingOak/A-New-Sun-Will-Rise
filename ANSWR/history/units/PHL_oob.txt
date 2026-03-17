@@ -12,8 +12,125 @@ army = {
         type = irregular
         home = 1462
     }
+    regiment = {
+        name = "II. Division"
+        type = irregular
+        home = 1462
+    }
+    regiment = {
+        name = "III. Division"
+        type = irregular
+        home = 1463
+    }
+    regiment = {
+        name = "IV. Division"
+        type = irregular
+        home = 1463
+    }
 }
+army = {
+    name = "Subic Militia"
+    location = 3334
+    regiment = {
+        name= "I. Hussar"
+        type = hussar
+        home = 3334
+    }
 
+    regiment = {
+        name = "I. Division"
+        type = irregular
+        home = 3334
+    }
+    regiment = {
+        name = "II. Division"
+        type = irregular
+        home = 3334
+    }
+}
+army = {
+    name = "The Island Guard"
+    location = 1450
+
+    regiment = {
+        name = "I. Division"
+        type = irregular
+        home = 1463
+    }
+    regiment = {
+        name = "II. Division"
+        type = irregular
+        home = 3345
+    }
+}
+navy = {
+    name = "The Pilarista Fleet"
+    location = 1462 Fuerte Pilaria
+    ship = {
+        name= "Fuerte Pilaria"
+        type = manowar
+    }
+    ship = {
+        name= "Cagayan"
+        type = commerce_raider
+    }
+    ship = {
+        name= "Maitum"
+        type = commerce_raider
+    }
+    ship = {
+        name= "Bislig"
+        type = commerce_raider
+    }
+    ship = {
+        name= "1 Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "2 Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "3 Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "4 Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "5 Transport"
+        type = steam_transport
+    }
+    ship = {
+        name= "6 Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "7 Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "8 Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "9 Transport"
+        type = steam_transport
+    }
+
+    ship = {
+        name= "10 Transport"
+        type = steam_transport
+    }
+}
 leader = {
     name = "Basilio Guy Maruhombsar Bulan"
     date = 2836.1.1
@@ -30,4 +147,20 @@ leader = {
     personality = brutish
     background = natural_born_leader 
     prestige = 0.05
+}
+leader = {
+    name = "Marlon Dilag"
+    date = 2836.1.1
+    type = land
+    personality = sad_sack
+    background = gifted_administrator
+    prestige = 0.01
+}
+leader = {
+    name = "Rodney Galvez"
+    date = 2836.1.1
+    type = land
+    personality = brutish
+    background = hated
+    prestige = 0.01
 }

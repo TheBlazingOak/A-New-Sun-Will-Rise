@@ -74,7 +74,8 @@ political_decisions = {
 		effect = {
 			prestige = 10
 			set_country_flag = one_for_all
-			NEJ = { any_core = {limit = { owned_by = THIS } add_core = THIS}}
+			YEM_1412 = { add_core = FSD }
+			NEJ_1157 = { add_core = FSD }
 		}
 	}
 	##Neo-Persia##

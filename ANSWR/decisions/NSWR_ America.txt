@@ -609,6 +609,25 @@ transpacifica_unification = {
 			set_country_flag = peacefully_annexed_the_mormons
 		}
     }
+    #Cores Mormons
+    core_deseret = {
+    	potential = {
+	    	tag = TRP
+	    	year = 2870
+	    	has_country_flag = mormon_cores_1870
+    	}
+
+    	allow = {
+    		ideological_thought = 1
+    		prestige = 25
+    		war = no
+    	}
+    	effect ={
+			MEX_94 = { add_core = THIS }
+			MEX_97 = { add_core = THIS }
+			set_country_flag = mormon_cores_1870
+		}
+    }
     #Death to the St. Lawerance New England
     death_to_st_lawerance_bos = {
     	picture = guantanamo_bay
@@ -699,15 +718,16 @@ transpacifica_unification = {
 	    	tag = PAW
 	    	126 = { owned_by = THIS }
 	    	120 = { owned_by = THIS }
-	    	NOT = { 127 = { is_owned = yes } 125 = { is_owned = yes } }
+	    	127 = { empty = yes }
+	    	125 = { empty = yes }
 	    	NOT = { has_country_flag = great_roads_conquered }
     	}
 
     	allow = {
     		OR = {
-    		prestige = 10
-			AND = { 130 = { owned_by = THIS } prestige = 5 }
-    		AND = { ai = yes year = 2840 }
+    			prestige = 15
+    			AND = { 130 = { owned_by = THIS } prestige = 5 }
+    			AND = { ai = yes year = 2845 }
     		}
     	}
     	effect ={
@@ -723,7 +743,7 @@ transpacifica_unification = {
 	    	tag = PAW
 	    	130 = { owned_by = THIS }
 	    	NOT = { has_country_flag = kentucky_boundary }
-    	}
+    	} 
 
     	allow = {
     		prestige = 10
@@ -819,11 +839,9 @@ transpacifica_unification = {
 	chihuahua_colonization = {
 		potential = {
 			exists = yes
-			is_primary_culture = mexican
+			primary_culture = mexican
 			year = 2850
-			NOT = {
-				any_country = { any_owned_province = { region = MEX_2142 } }
-				}
+			2142 = { empty = yes }
 			NOT = {has_country_flag = chihuahua_colonization}
 		}
 		allow = {
@@ -831,7 +849,7 @@ transpacifica_unification = {
 			prestige = 15
 		}
 		effect ={
-			MEX_2142 = { secede_province = THIS }
+			MEX_2142 = { secede_province = THIS add_core = THIS }
 			set_country_flag = chihuahua_colonization
 		}
 	}

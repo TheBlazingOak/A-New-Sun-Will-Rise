@@ -3,123 +3,45 @@
 #Manila (780000/195000 POPS)
 1455 = {
     aristocrats = {
-        culture = tisoy
+        culture = macoyan
         religion = catholic
-        size = 200
-    }
-
-    bureaucrats = {
-        culture = tisoy
-        religion = catholic
-        size = 400
+        size = 2100
     }
 
     clergymen = {
-        culture = tisoy
+        culture = macoyan
         religion = catholic
-        size = 250
+        size = 325
     }
 
     artisans = {
-        culture = tisoy
+        culture = macoyan
         religion = catholic
-        size = 1050
+        size = 3350
     }
 
     soldiers = {
-        culture = tisoy
+        culture = macoyan
         religion = catholic
-        size = 7000
-    }
-
-    aristocrats = {
-        culture = filipino
-        religion = catholic
-        size = 1250
-    }
-
-    bureaucrats = {
-        culture = filipino
-        religion = catholic
-        size = 450
-    }
-
-    clergymen = {
-        culture = filipino
-        religion = catholic
-        size = 750
-    }
-
-    artisans = {
-        culture = filipino
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = filipino
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = filipino
-        religion = catholic
-        size = 9000
-    }
-
-    soldiers = {
-        culture = filipino
-        religion = catholic
-        size = 5000
+        size = 9500
     }
 
     farmers = {
-        culture = filipino
+        culture = macoyan
         religion = catholic
-        size = 116550
-    }
-
-    slaves = {
-        culture = filipino
-        religion = catholic
-        size = 20000
+        size = 44525
     }
 
     artisans = {
-        culture = tisoy
+        culture = chavacan
         religion = catholic
-        size = 1200
+        size = 7500
     }
 
     farmers = {
-        culture = tisoy
+        culture = chavacan
         religion = catholic
-        size = 800
-    }
-
-    clergymen = {
-        culture = tisoy
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = tisoy
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = tisoy
-        religion = catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = tisoy
-        religion = catholic
-        size = 117725
+        size = 92450
     }
 }
 #Vigan (133622 POPS)
@@ -145,37 +67,25 @@
     soldiers = {
         culture = macoyan
         religion = catholic
-        size = 1500
+        size = 8500
     }
 
     farmers = {
         culture = macoyan
         religion = catholic
-        size = 114525
-    }
-
-    clergymen = {
-        culture = tisoy
-        religion = catholic
-        size = 50
+        size = 184525
     }
 
     artisans = {
-        culture = tisoy
+        culture = chavacan
         religion = catholic
-        size = 250
-    }
-
-    soldiers = {
-        culture = tisoy
-        religion = catholic
-        size = 50
+        size = 5500
     }
 
     farmers = {
-        culture = tisoy
+        culture = chavacan
         religion = catholic
-        size = 6650
+        size = 22450
     }
 }
 #Legazpi (380135 POPS)
@@ -195,93 +105,73 @@
     artisans = {
         culture = nagan
         religion = catholic
-        size = 65000
+        size = 15000
     }
 
     soldiers = {
         culture = nagan
         religion = catholic
-        size = 11350
+        size = 9350
     }
 
     farmers = {
         culture = nagan
         religion = catholic
-        size = 322525
+        size = 92252
     }
 
     clergymen = {
-        culture = tisoy
+        culture = chavacan
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = tisoy
+        culture = chavacan
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = tisoy
+        culture = chavacan
         religion = catholic
-        size = 10450
+        size = 30450
     }
 }
 #Mindoro (224000/88029 POPS)
 1458 = {
     aristocrats = {
         culture = pacifica
-        religion = catholic
+        religion = protestant
         size = 400
     }
 
     clergymen = {
-        culture = filipino
-        religion = catholic
+        culture = pacifica
+        religion = protestant
         size = 1450
     }
 
     artisans = {
-        culture = filipino
-        religion = catholic
-        size = 1100
+        culture = pacifica
+        religion = protestant
+        size = 5100
     }
 
     soldiers = {
-        culture = filipino
-        religion = catholic
-        size = 4500
-    }
-
-    farmers = {
-        culture = filipino
-        religion = catholic
-        size = 58875
-    }
-
-    clergymen = {
         culture = pacifica
-        religion = catholic
-        size = 325
+        religion = protestant
+        size = 9500
     }
-
-    artisans = {
-        culture = pacifica
-        religion = catholic
-        size = 1750
-    }
-
-    soldiers = {
-        culture = pampangan
-        religion = catholic
-        size = 100
-    }
-
     farmers = {
-        culture = pampangan
+        culture = pacifica
+        religion = protestant
+        size = 22875
+    }
+    farmers = {
+        culture = chavacan
         religion = catholic
-        size = 21025
+        size = 48875
     }
 
 }
@@ -291,206 +181,174 @@
 1459 = {
     aristocrats = {
         culture = pacifica
-        religion = catholic
-        size = 250
-    }
-
-    clergymen = {
-        culture = filipino
-        religion = catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = filipino
-        religion = catholic
-        size = 2000
-    }
-
-    soldiers = {
-        culture = filipino
-        religion = catholic
-        size = 500
-    }
-
-    farmers = {
-        culture = filipino
-        religion = catholic
-        size = 27000
-    }
-
-    aristocrats = {
-        culture = aklanon
-        religion = catholic
-        size = 750
-    }
-
-    clergymen = {
-        culture = aklanon
-        religion = catholic
-        size = 500
-    }
-
-    artisans = {
-        culture = aklanon
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = aklanon
-        religion = catholic
-        size = 750
-    }
-
-    farmers = {
-        culture = aklanon
-        religion = catholic
-        size = 15500
+        religion = protestant
+        size = 600
     }
 
     clergymen = {
         culture = pacifica
-        religion = catholic
-        size = 750
+        religion = protestant
+        size = 1750
     }
 
     artisans = {
         culture = pacifica
-        religion = catholic
-        size = 4500
+        religion = protestant
+        size = 9100
     }
 
     soldiers = {
-        culture = pampangan
-        religion = catholic
-        size = 1000
+        culture = pacifica
+        religion = protestant
+        size = 14500
     }
-
     farmers = {
-        culture = pampangan
+        culture = pacifica
+        religion = protestant
+        size = 42875
+    }
+    farmers = {
+        culture = chavacan
         religion = catholic
-        size = 9375
+        size = 98875
     }
 }
 #Iloilo (283933 POPS)
 1460 = {
     aristocrats = {
-        culture = aklanon
+        culture = nagan
         religion = catholic
-        size = 650
+        size = 1100
     }
 
     clergymen = {
-        culture = aklanon
-        religion = catholic
-        size = 3500
-    }
-
-    artisans = {
-        culture = aklanon
-        religion = catholic
-        size = 3500
-    }
-
-    soldiers = {
-        culture = aklanon
-        religion = catholic
-        size = 7500
-    }
-
-    farmers = {
-        culture = aklanon
-        religion = catholic
-        size = 264750
-    }
-}
-#Tacloban (119346 POPS)
-1461 = {
-    aristocrats = {
-        culture = waray
-        religion = catholic
-        size = 750
-    }
-
-    clergymen = {
-        culture = waray
+        culture = nagan
         religion = catholic
         size = 625
     }
 
     artisans = {
-        culture = waray
+        culture = nagan
         religion = catholic
-        size = 4250
+        size = 11000
     }
 
     soldiers = {
-        culture = waray
+        culture = nagan
         religion = catholic
-        size = 4500
+        size = 3350
     }
 
     farmers = {
-        culture = waray
+        culture = nagan
         religion = catholic
-        size = 110125
+        size = 82252
+    }
+
+    artisans = {
+        culture = chavacan
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = chavacan
+        religion = catholic
+        size = 30450
+    }
+}
+#Tacloban (119346 POPS)
+1461 = {
+    aristocrats = {
+        culture = nagan
+        religion = catholic
+        size = 1700
+    }
+
+    clergymen = {
+        culture = nagan
+        religion = catholic
+        size = 225
+    }
+
+    artisans = {
+        culture = nagan
+        religion = catholic
+        size = 11000
+    }
+
+    soldiers = {
+        culture = nagan
+        religion = catholic
+        size = 3350
+    }
+
+    farmers = {
+        culture = nagan
+        religion = catholic
+        size = 112252
+    }
+
+    artisans = {
+        culture = chavacan
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = chavacan
+        religion = catholic
+        size = 45450
     }
 }
 #Cebu (207837 POPS)
 2565 = {
     bureaucrats = {
-        culture = tisoy
+        culture = nagan
         religion = catholic
-        size = 125
-    }
-
-    clergymen = {
-        culture = tisoy
-        religion = catholic
-        size = 50
-    }
-
-    soldiers = {
-        culture = tisoy
-        religion = catholic
-        size = 25
+        size = 725
     }
 
     aristocrats = {
-        culture = cebuan
+        culture = nagan
         religion = catholic
-        size = 675
-    }
-
-    bureaucrats = {
-        culture = cebuan
-        religion = catholic
-        size = 375
+        size = 2100
     }
 
     clergymen = {
-        culture = cebuan
+        culture = nagan
         religion = catholic
-        size = 4500
+        size = 625
     }
 
     artisans = {
-        culture = cebuan
+        culture = nagan
         religion = catholic
-        size = 35000
+        size = 11000
     }
 
     soldiers = {
-        culture = cebuan
+        culture = nagan
         religion = catholic
-        size = 7500
+        size = 9350
     }
 
     farmers = {
-        culture = cebuan
+        culture = nagan
         religion = catholic
-        size = 124050
+        size = 161225
+    }
+
+    artisans = {
+        culture = chavacan
+        religion = catholic
+        size = 5500
+    }
+
+    farmers = {
+        culture = chavacan
+        religion = catholic
+        size = 40225
     }
 }
 #Mindanao Region (496000)
@@ -498,33 +356,15 @@
 #Cagayan De Oro (152000/38000 POPS)
 1463 = {
     bureaucrats = {
-        culture = tisoy
+        culture = chavacan
         religion = catholic
-        size = 75
-    }
-
-    clergymen = {
-        culture = tisoy
-        religion = catholic
-        size = 50
-    }
-
-    soldiers = {
-        culture = tisoy
-        religion = catholic
-        size = 25
-    }
-
-    aristocrats = {
-        culture = cebuan
-        religion = catholic
-        size = 100
+        size = 375
     }
 
     clergymen = {
         culture = cebuan
         religion = catholic
-        size = 100
+        size = 450
     }
 
     artisans = {
@@ -546,63 +386,33 @@
     }
 
     aristocrats = {
-        culture = cebuan
+        culture = chavacan
         religion = catholic
-        size = 100
+        size = 500
     }
 
     clergymen = {
-        culture = cebuan
+        culture = chavacan
         religion = catholic
-        size = 100
+        size = 775
     }
 
     artisans = {
-        culture = cebuan
+        culture = chavacan
         religion = catholic
-        size = 600
+        size = 1350
     }
 
     soldiers = {
-        culture = cebuan
+        culture = chavacan
         religion = catholic
-        size = 100
+        size = 9000
     }
 
     farmers = {
-        culture = cebuan
+        culture = chavacan
         religion = catholic
-        size = 12200
-    }
-
-    aristocrats = {
-        culture = asian_minor
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = animist
-        size = 350
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = asian_minor
-        religion = animist
-        size = 7375
+        size = 34800
     }
 }
 #Under rule of Spain in 1836
@@ -611,60 +421,50 @@
     aristocrats = {
         culture = chavacan
         religion = catholic
-        size = 600
+        size = 2600
     }
 
     clergymen = {
         culture = chavacan
         religion = catholic
-        size = 5000
+        size = 7000
     }
 
     artisans = {
         culture = chavacan
         religion = catholic
-        size = 2500
+        size = 11500
+    }
+    artisans = {
+        culture = chavacan
+        religion = catholic
+        size = 11500
+    }
+    artisans = {
+        culture = chavacan
+        religion = catholic
+        size = 11500
+    }
+    artisans = {
+        culture = chavacan
+        religion = catholic
+        size = 11500
+    }
+    artisans = {
+        culture = chavacan
+        religion = catholic
+        size = 11500
     }
 
     soldiers = {
         culture = chavacan
         religion = catholic
-        size = 12000
+        size = 14000
     }
 
     farmers = {
         culture = chavacan
         religion = catholic
-        size = 94900
-    }
-
-    aristocrats = {
-        culture = asian_minor
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = animist
-        size = 300
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = animist
-        size = 100
-    }
-
-    slaves = {
-        culture = asian_minor
-        religion = animist
-        size = 18525
+        size = 164900
     }
 }

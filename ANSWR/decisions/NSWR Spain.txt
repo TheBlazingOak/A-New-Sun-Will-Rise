@@ -66,28 +66,53 @@ political_decisions = {
             OR = { primary_culture = basque primary_culture = catalan }
             OR = { has_global_flag = valencia_petition_ignored }
             NOT = { AND = { AND = { OR = { tag = WIN tag = ONT } ai = no } ai = yes } }
-            NOT = { has_country_flag = anti_jardin}
-            }
+            NOT = { has_country_flag = anti_jardin }
+        }
+            
+    
 
             allow = {
-                OR = { nationalism_n_imperialism = 1
-                has_country_flag = preparing_for_valencia_war
+                OR = { 
+                nationalism_n_imperialism = 1
+                JAR = { has_country_flag = preparing_for_valencia_war }
                 has_global_flag = valencia_petition_ignored
                 }
             }
 
             effect = {
                 prestige = 15
-                change_tag = BRQ
                 add_accepted_culture = basque
-                add_accepted_culture = catalan
-                SPA_503 = { add_core = THIS remove_core = CAT }
-                SPA_498 = { add_core = THIS remove_core = CAT }
-                SPA_492 = { add_core = THIS remove_core = BSQ }
+                #add_accepted_culture = catalan
+                any_country = {
+                    limit = {
+                        primary_culture = basque
+                        NOT = { tag = THIS }
+                    }
+                    annex_to = THIS
+                }
+                any_country = {
+                    limit = {
+                        primary_culture = catalan
+                        NOT = { tag = THIS }
+                    }
+                    annex_to = THIS
+                }
+                SPA_503 = { add_core = BRQ remove_core = CAT }
+                SPA_498 = { add_core = BRQ remove_core = CAT }
+                SPA_492 = { add_core = BRQ remove_core = BSQ }
+                change_tag = BRQ
                 set_country_flag = anti_jardin
             }
 
-        ai_will_do = { factor = 1 }
+        ai_will_do = { factor = 1 
+            modifier = {
+                factor = 0
+                OR = {
+                    CAT = { ai = no }
+                    BSQ = { ai = no }
+                }
+            }
+        }
     }
     barce_sympathies_one = {
         potential = {
@@ -132,7 +157,7 @@ political_decisions = {
         potential = {
             tag = JAR
             has_global_flag = barce_sympathies
-            CAT = { ai = no}
+            CAT = { ai = no }
             }
 
             allow = {
@@ -150,8 +175,8 @@ political_decisions = {
     barce_cores = {
         potential = {
         tag = JAR
-        OR = {AND = { has_global_flag = barce_attack 503 = {owned_by = THIS } } has_global_flag = barce_complacent }
-        NOT = {has_country_flag = barce_cores}
+        OR = { AND = { has_global_flag = barce_attack 503 = {owned_by = THIS } } has_global_flag = barce_complacent }
+        NOT = { has_country_flag = barce_cores }
         }
         allow = {
             prestige = 30

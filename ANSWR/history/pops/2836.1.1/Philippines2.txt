@@ -1,102 +1,120 @@
 
 #New Subic
 3334 = {
-    aristocrats = {
-        culture = pacifica
+    bureaucrats = {
+        culture = chavacan
         religion = catholic
-        size = 250
+        size = 575
     }
 
-    bureaucrats = {
-        culture = pacifica
+    clergymen = {
+        culture = macoyan
         religion = catholic
         size = 450
     }
 
-    clergymen = {
-        culture = pacifica
+    artisans = {
+        culture = macoyan
         religion = catholic
-        size = 750
+        size = 8850
     }
 
     artisans = {
-        culture = pacifica
+        culture = macoyan
         religion = catholic
-        size = 2000
+        size = 8850
+    }
+
+    artisans = {
+        culture = macoyan
+        religion = catholic
+        size = 8850
     }
 
     soldiers = {
-        culture = pampangan
+        culture = macoyan
         religion = catholic
-        size = 4000
+        size = 3100
     }
 
     farmers = {
-        culture = pampangan
+        culture = macoyan
         religion = catholic
-        size = 86550
+        size = 74800
+    }
+
+    aristocrats = {
+        culture = chavacan
+        religion = catholic
+        size = 800
+    }
+
+    clergymen = {
+        culture = chavacan
+        religion = catholic
+        size = 275
     }
 
     artisans = {
-        culture = tisoy
+        culture = chavacan
         religion = catholic
-        size = 1200
+        size = 8350
+    }
+
+    soldiers = {
+        culture = chavacan
+        religion = catholic
+        size = 6000
     }
 
     farmers = {
-        culture = tisoy
+        culture = chavacan
         religion = catholic
-        size = 800
+        size = 34800
     }
 }
 #Cabanatuan (~300000 pops)
 3336 = {
     aristocrats = {
-        culture = filipino
+        culture = macoyan
         religion = catholic
-        size = 1250
-    }
-
-    bureaucrats = {
-        culture = filipino
-        religion = catholic
-        size = 450
+        size = 1100
     }
 
     clergymen = {
-        culture = filipino
+        culture = macoyan
         religion = catholic
-        size = 7500
+        size = 625
     }
 
     artisans = {
-        culture = filipino
+        culture = macoyan
         religion = catholic
-        size = 29000
+        size = 5350
     }
 
     soldiers = {
-        culture = filipino
+        culture = macoyan
         religion = catholic
-        size = 14000
+        size = 3500
     }
 
     farmers = {
-        culture = filipino
+        culture = macoyan
         religion = catholic
-        size = 216550
+        size = 74525
     }
 
     artisans = {
-        culture = tisoy
+        culture = chavacan
         religion = catholic
-        size = 1200
+        size = 5500
     }
 
     farmers = {
-        culture = tisoy
+        culture = chavacan
         religion = catholic
-        size = 110800
+        size = 22450
     }
 }
 #Aparri (230359 POPS)
@@ -116,160 +134,197 @@
     clergymen = {
         culture = macoyan
         religion = catholic
-        size = 7500
+        size = 625
     }
 
     artisans = {
         culture = macoyan
         religion = catholic
-        size = 29000
+        size = 2350
     }
-	
+
     soldiers = {
         culture = macoyan
         religion = catholic
-        size = 15000
-    }
-
-	farmers = {
-        culture = macoyan
-        religion = catholic
-        size = 70000
+        size = 5500
     }
 
     farmers = {
-        culture = cordilleran
+        culture = macoyan
         religion = catholic
-        size = 116550
+        size = 112525
     }
 
     artisans = {
-        culture = cordilleran
+        culture = chavacan
         religion = catholic
-        size = 1200
+        size = 2500
     }
 
     farmers = {
-        culture = cordilleran
+        culture = chavacan
         religion = catholic
-        size = 800
+        size = 55450
     }
 }
 
 #Palo Leyte (111053 POPS)
 3341 = {
     aristocrats = {
-        culture = cebuan
+        culture = nagan
         religion = catholic
-        size = 1250
-    }
-
-    bureaucrats = {
-        culture = cebuan
-        religion = catholic
-        size = 450
+        size = 3100
     }
 
     clergymen = {
-        culture = cebuan
+        culture = nagan
         religion = catholic
-        size = 750
+        size = 1625
     }
 
     artisans = {
-        culture = cebuan
+        culture = nagan
         religion = catholic
-        size = 10000
+        size = 5000
     }
 
     soldiers = {
-        culture = cebuan
+        culture = nagan
         religion = catholic
-        size = 4000
+        size = 1350
     }
 
     farmers = {
-        culture = cebuan
+        culture = nagan
         religion = catholic
-        size = 91550
+        size = 42252
+    }
+
+    artisans = {
+        culture = chavacan
+        religion = catholic
+        size = 5500
+    }
+
+    farmers = {
+        culture = chavacan
+        religion = catholic
+        size = 62450
     }
 }
 
 
 #Sarangani-South Cotabato (74719 POPS)
 3345 = {
-    aristocrats = {
-        culture = lanaoan
-        religion = sunni
-        size = 250
-    }
-
     bureaucrats = {
-        culture = lanaoan
-        religion = sunni
-        size = 450
+        culture = chavacan
+        religion = catholic
+        size = 175
     }
 
     clergymen = {
-        culture = lanaoan
-        religion = sunni
-        size = 750
+        culture = cebuan
+        religion = catholic
+        size = 450
     }
 
     artisans = {
-        culture = lanaoan
-        religion = sunni
-        size = 1000
+        culture = cebuan
+        religion = catholic
+        size = 1850
     }
 
     soldiers = {
-        culture = lanaoan
-        religion = sunni
-        size = 3550
+        culture = cebuan
+        religion = catholic
+        size = 3100
     }
 
     farmers = {
-        culture = lanaoan
-        religion = sunni
-        size = 69000
+        culture = cebuan
+        religion = catholic
+        size = 44800
     }
-	
-	slaves = {
-        culture = aklanon
-        religion = sunni
-        size = 40000
+
+    aristocrats = {
+        culture = chavacan
+        religion = catholic
+        size = 800
+    }
+
+    clergymen = {
+        culture = chavacan
+        religion = catholic
+        size = 275
+    }
+
+    artisans = {
+        culture = chavacan
+        religion = catholic
+        size = 3350
+    }
+
+    soldiers = {
+        culture = chavacan
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = chavacan
+        religion = catholic
+        size = 84800
     }
 }
 #CEntral Highland Mindanao
 #Agusan
 3348 = {
-	aristocrats = {
-        culture = manobo
-        religion = animist
-        size = 125
-    }
- 
+
     clergymen = {
-        culture = manobo
-        religion = animist
-        size = 377
+        culture = cebuan
+        religion = catholic
+        size = 150
     }
 
     artisans = {
-        culture = manobo
-        religion = animist
-        size = 1500
+        culture = cebuan
+        religion = catholic
+        size = 250
     }
 
-	soldiers = {
-		culture = manobo
-        religion = animist
+    soldiers = {
+        culture = cebuan
+        religion = catholic
+        size = 3700
+    }
+
+    farmers = {
+        culture = cebuan
+        religion = catholic
+        size = 54800
+    }
+
+    aristocrats = {
+        culture = chavacan
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = chavacan
+        religion = catholic
+        size = 175
+    }
+
+    soldiers = {
+        culture = chavacan
+        religion = catholic
         size = 3000
     }
 
     farmers = {
-        culture = manobo
-        religion = animist
-        size = 62550
+        culture = chavacan
+        religion = catholic
+        size = 24800
     }
 }

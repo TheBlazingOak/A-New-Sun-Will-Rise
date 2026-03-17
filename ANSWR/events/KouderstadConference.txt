@@ -17,7 +17,7 @@ country_event = {
                 any_owned_province = { continent = asia }
             }
         }
-        OR = { capital_scope = { continent = europe  } capital_scope = { continent = australia_new_zealand } tag = SAF}
+        OR = { capital_scope = { continent = europe } capital_scope = { continent = australia_new_zealand } tag = SAF }
         invention = prophylaxis_against_malaria
         invention = mission_to_civilize
         invention = colonial_negotiations
@@ -50,7 +50,7 @@ country_event = {
     picture = "scramble_for_africa"
 
     trigger = {
-        OR = { capital_scope = { continent = europe  } capital_scope = { continent = australia_new_zealand } tag = SAF}
+        OR = { capital_scope = { continent = europe } capital_scope = { continent = australia_new_zealand } tag = SAF }
         NOT = { tag = BYE }
         OR = {
             is_greater_power = yes
@@ -59,7 +59,7 @@ country_event = {
         NOT = { has_country_modifier = neutrality_modifier }
         civilized = yes
         has_global_flag = kouderstad_conference
-        NOT = { has_country_flag = reaction_to_indian_conferance}
+        NOT = { has_country_flag = reaction_to_indian_conference }
     }
 
     mean_time_to_happen = {
@@ -104,7 +104,7 @@ country_event = {
                     is_secondary_power = yes
                     colonial_nation = yes
                 }
-                capital_scope = { continent = europe continent = australia_new_zealand}
+                capital_scope = { continent = europe continent = australia_new_zealand }
             }
             leave_alliance = THIS
             relation = {

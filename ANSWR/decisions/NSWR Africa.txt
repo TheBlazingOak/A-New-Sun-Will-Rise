@@ -109,8 +109,8 @@ political_decisions = {
 			OR = {ai = yes prestige = 15}
 			}
 		effect = {
-			set_country_flag = south_angola_colonized
-			POR_2003 = { secede_province = THIS add_core = ANG }
+			set_global_flag = south_angola_colonized
+			POR_2003 = { secede_province = THIS }
 		}
 	}
 	north_angola = {
@@ -124,8 +124,8 @@ political_decisions = {
 			OR = {ai = yes prestige = 15}
 			}
 		effect = {
-			set_country_flag = north_angola_colonized
-			POR_1999 = { secede_province = THIS add_core = ANG }
+			set_global_flag = north_angola_colonized
+			POR_1999 = { secede_province = THIS }
 		}
 	}
 	saharan_lands = {
@@ -133,13 +133,13 @@ political_decisions = {
 		potential = {
 			tag = TRI
 			year = 2856
-			NOT = { has_global_flag = north_angola_colonized}
+			NOT = { has_global_flag = sahara_colonized }
 		}
 		allow = {
 			OR = {AND = { ai = yes prestige = 3 } prestige = 10}
 			}
 		effect = {
-			set_country_flag = north_angola_colonized
+			set_global_flag = sahara_colonized
 			TRI_1741 = { secede_province = THIS add_core = THIS }
 			TRI_1735 = { secede_province = THIS add_core = THIS }
 		}

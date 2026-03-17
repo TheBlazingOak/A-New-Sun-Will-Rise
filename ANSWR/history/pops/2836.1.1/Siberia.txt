@@ -712,468 +712,502 @@
         size = 4550
     }
 }
+#Nizhneudinsk
 1076 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
-        size = 100
+        culture = mongol
+        religion = gelugpa
+        size = 700
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
-        size = 50
+        culture = mongol
+        religion = gelugpa
+        size = 350
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
-        size = 250
+        culture = mongol
+        religion = gelugpa
+        size = 4250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
-        size = 50
+        culture = mongol
+        religion = gelugpa
+        size = 3050
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
-        size = 4550
+        culture = mongol
+        religion = gelugpa
+        size = 14550
     }
 }
+#Uriankhai
 1469 = {
      aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 1000
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 500
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 2500
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
-        size = 15050
+        culture = mongol
+        religion = gelugpa
+        size = 6050
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
-        size = 29550
+        culture = mongol
+        religion = gelugpa
+        size = 49550
+    }
+}
+#Irkutsk
+1075 = {
+     aristocrats = {
+        culture = mongol
+        religion = gelugpa
+        size = 1200
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = gelugpa
+        size = 2500
+    }
+
+    artisans = {
+        culture = mongol
+        religion = gelugpa
+        size = 11500
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = gelugpa
+        size = 3050
+    }
+
+    farmers = {
+        culture = mongol
+        religion = gelugpa
+        size = 51550
     }
 }
 2677 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 2694 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 2675 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 1032 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 2651 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 2650 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 2645 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 2695 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 2676 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 2670 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 1078 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 1079 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 2671 = {
 	 aristocrats = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
-        religion = shiset
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
@@ -1429,219 +1463,219 @@
 #Port Arthur (80000/15000 POPS)
 1481 = {
     aristocrats = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 2655 = {
     aristocrats = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 2693 = {
     aristocrats = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 2673 = {
     aristocrats = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 4550
     }
 }
 2667 = {
     aristocrats = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = ledyanyyeludi
-        religion = veravzem
-        size = 4550
+        culture = mongol
+        religion = gelugpa
+        size = 8550
     }
 }
 2654 = {
     aristocrats = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = ledyanyyeludi
-        religion = veravzem
-        size = 4550
+        culture = mongol
+        religion = gelugpa
+        size = 3550
     }
 }
 2680 = {
     aristocrats = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 100
     }
 
     clergymen = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     artisans = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 250
     }
 
     soldiers = {
-        culture = ledyanyyeludi
-        religion = veravzem
+        culture = mongol
+        religion = gelugpa
         size = 50
     }
 
     farmers = {
-        culture = ledyanyyeludi
-        religion = veravzem
-        size = 4550
+        culture = mongol
+        religion = gelugpa
+        size = 6550
     }
 }
 

@@ -112,7 +112,7 @@ country_event = {
     trigger = {
         tag = PAW
         year = 2844
-        NOT = { ANM = { exists = yes } }
+        ANM = { exists = yes } }
         has_country_flag = inner_rustica
         NOT = { has_country_flag = yooper_core }
     }
@@ -134,7 +134,7 @@ country_event = {
     desc = "EVTDESC52183"
 
     trigger = { 
-    	NOT = { OR = { has_country_flag = colonized_new_mexico 105 = {owned_by = THIS } } }
+    	NOT = { OR = { has_country_flag = colonized_new_mexico 105 = { owned_by = THIS } } }
         OR = { tag = TEX 133 = {owned_by = THIS } }
         OR = { year = 2838 NOT = { 130 = {owned_by = THIS } }}
     }
@@ -145,7 +145,7 @@ country_event = {
     #Colonize
     option = {
         name = "EVT52183OPTA"
-        USA_162 = { secede_province = THIS add_core = THIS }
+        MEX_103 = { secede_province = THIS add_core = THIS }
         set_country_flag = colonized_new_mexico
     }
 }

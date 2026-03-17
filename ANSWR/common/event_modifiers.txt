@@ -2920,3 +2920,18 @@ the_gem_of_greenland = {
     global_assimilation_rate = 0.25
     icon = 15
 }
+##East Europe##
+adzinoki_flight = {
+    pop_militancy_modifier = 0.05
+    pop_consciousness_modifier = 0.1
+    immigrant_push = 0.75
+    icon = 20
+}
+#Nomad Settlements
+nomadic_migrations = {
+    immigrant_attract = 0.5        #100%
+    life_rating = 0.1
+    population_growth = 0.01
+    assimilation_rate = 0.5
+    icon = 9
+}

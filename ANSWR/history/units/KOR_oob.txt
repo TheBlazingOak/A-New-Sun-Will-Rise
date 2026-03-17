@@ -1,6 +1,13 @@
-RUS = {
-    value = 100
+JPN = {
+    value = -150
 }
+HAE = {
+    value = -200
+}
+HNN = {
+    value = -150
+}
+
 
 army = {
     name = "Korean Imperial Army"

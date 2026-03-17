@@ -47,7 +47,12 @@
     farmers = {
         culture = bedouin
         religion = ibadi
-        size = 92625
+        size = 112625
+    }
+    slaves = {
+        culture = swathanthrar
+        religion = sunni
+        size = 32525
     }
 }
 #Suhar (16000/4000 POPS)
@@ -85,7 +90,12 @@
     farmers = {
         culture = bedouin
         religion = sunni
-        size = 1625
+        size = 11625
+    }
+    slaves = {
+        culture = swathanthrar
+        religion = sunni
+        size = 5525
     }
 }
 #Nizwa (24000/6000 POPS)
@@ -142,6 +152,11 @@
         culture = bedouin
         religion = sunni
         size = 3525
+    }
+    slaves = {
+        culture = swathanthrar
+        religion = sunni
+        size = 1225
     }
 }
 #Sur (24000/6000 POPS)
@@ -219,9 +234,9 @@
     }
 
     slaves = {
-        culture = forest_bantu
-        religion = animist
-        size = 1100
+        culture = swathanthrar
+        religion = sunni
+        size = 8525
     }
 }
 #Duqm (20000/5000 POPS)
@@ -272,6 +287,11 @@
         culture = bedouin
         religion = sunni
         size = 2825
+    }
+    slaves = {
+        culture = swathanthrar
+        religion = sunni
+        size = 14525
     }
 }
 #Hadramaut Region (36000) #see Yemen.txt for balance of region
@@ -336,6 +356,11 @@
         culture = bedouin
         religion = sunni
         size = 2025
+    }
+    slaves = {
+        culture = swathanthrar
+        religion = sunni
+        size = 14525
     }
 
 }

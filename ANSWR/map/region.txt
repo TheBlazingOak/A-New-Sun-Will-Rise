@@ -309,7 +309,7 @@ AUS_633 = { 633 634 635 636 } #Slovakia
 
 NIT_637 = { 637 638 704 } #Bohatéhory
 
-NIT_714 = { 714 953 951 662 950 } #Bohatéhory
+NIT_714 = { 953 951 662 950 } #Bohatéhory
 
 AUS_641 = { 648 649 650 651 647 } #Central Hungary
 
@@ -319,7 +319,7 @@ AUS_654 = { 654 655 656 661} #Western Transylvania
 
 AUS_657 = { 657 659 660 2533 } #Eastern Transylvania
 
-RUS_715 = { 715 711 705 } #West Galicia
+RUS_715 = { 715 711 705 714 } #West Galicia
 
 AUS_734 = { 734 732 733 8 736 737 } #South Tirol
 
@@ -583,7 +583,7 @@ RUS_1079 = { 1078 1079 2670 2671 } #Trans-Baikal
 
 RUS_1194 = { 1194 1196 1192 1205 1182 1183 2610 2702 } #Rogevik
 
-RUS_1185 = { 1185 1187 2606 1193 } #Semireche - Zhetysu
+RUS_1185 = { 1185 1187 2606 1193 1186 1188 } #Semireche - Zhetysu
 
 RUS_1196 = { 1204 1206 686 1211 } #Turkmenia
 
@@ -811,7 +811,7 @@ CHI_1524 = { 1540 1525 1529 } #West Hunan
 
 CHI_1526 = { 1527 1530 } #East Hunan
 
-CHI_1532 = { 1535 1488 1599 } #Inner Mongolia
+CHI_1532 = { 1532 1535 1488 1599 } #Inner Mongolia
 
 CHI_2221 = { } #South Jiangsu
 
@@ -821,7 +821,7 @@ CHI_1547 = { 1547 1545 1464 } #South Jiangxi
 
 #CHI_1557 = { } #Kokonor/Qinghai
 
-CHI_1559 = { 1559 1561 2062 1532 } #Shaanxi
+CHI_1559 = { 1559 1561 2062 } #Shaanxi
 
 CHI_1563 = { 1563 1564 1568 1571 1566 1567 } #West Shandong
 
@@ -835,7 +835,7 @@ CHI_1579 = { 1579 1577 1581 1583 1562 } #East Sichuan
 
 CHI_1594 = { 1594 1597 1598 2607 } #Kashgar
 
-CHI_1600 = { 1600 1595 1596 1186 1188 } #Urumqui
+CHI_1600 = { 1600 1595 1596 } #Urumqui
 
 CHI_1601 = { 1601 1602 1603 3369 3368 } #Yunnan
 
@@ -1171,11 +1171,9 @@ CLM_2004 = { 1723 2205 2206 2203 } #Old Panama
 
 ### Caribbean
 
-SPA_2209 = { 2209 2210 2211 44 2212 } #Cuba
+SPA_2209 = { 2209 2210 2211 44 2212 2217 } #Cuba
 
-HAI_2213 = { 2213 2214 2215 2216 } #Hispanola
-
-ENG_203 = { 2217 2219 } #Caribbean Islands
+HAI_2213 = { 2213 2214 2215 2216 2219 } #Hispanola
 
 ENG_2224 = { 2226 2227 2230 2236 2223 2222 } #West Indies
 

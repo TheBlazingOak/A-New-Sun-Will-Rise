@@ -1,0 +1,27 @@
+##Adzinoki
+#Brest Lost
+country_event = {
+    id = 52600
+    title = "EVTNAME52600"
+    desc = "EVTDESC52600"
+    trigger = {
+        tag = BYE
+        NOT = { OR = { 719 = {owned_by = THIS } } }
+        NOT = { has_global_flag = flight_of_the_one}
+    }
+
+    mean_time_to_happen = { months = 24 }
+
+    option = {
+        name = "EVTOPTA52600" #The Adzinoki Flight
+        set_global_flag = flight_of_the_one
+		any_owned_province = { limit = { is_core = yes } add_province_modifier = {name = adzinoki_flight duration = 1825} }
+        any_pop = {
+            limit = {
+                has_pop_culture = adzinoki
+            }
+            consciousness = 2
+            militancy = 2
+        }
+    }
+}

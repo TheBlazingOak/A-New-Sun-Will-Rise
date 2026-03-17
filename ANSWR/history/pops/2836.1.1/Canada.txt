@@ -1547,6 +1547,11 @@
 }
 #Ottawa (44000/11000 POPS)
 57 = {
+    bureaucrats= {
+        culture = anglo_canadian
+        religion = protestant
+        size = 1500
+    }
     clergymen = {
         culture = anglo_canadian
         religion = protestant

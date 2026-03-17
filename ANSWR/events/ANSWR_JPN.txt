@@ -434,7 +434,7 @@ country_event = {
 	trigger = {
 		tag = JPN
 		civilized = yes
-		OR = {has_country_flag = princess_abdicates has_country_flag = kyowato_coup }
+		OR = { has_country_flag = princess_abdicates has_country_flag = kyowato_coup }
 		NOT = { has_country_flag = constitutional_republic }
 	}
 	mean_time_to_happen = {
@@ -460,7 +460,7 @@ country_event = {
 	picture = asian_administration
 
 	trigger = {
-		tag = JPN
+		tag = KOS
 		civilized = yes
 		nationalism_n_imperialism = 1
 		has_country_flag = dreams_of_domination
@@ -484,7 +484,7 @@ country_event = {
 	picture = asian_administration
 
 	trigger = {
-		tag = JPN
+		tag = KOS
 		civilized = yes
 		nationalism_n_imperialism = 1
 		has_country_flag = crowning_of_aiko

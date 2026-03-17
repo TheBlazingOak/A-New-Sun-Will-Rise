@@ -1,0 +1,58 @@
+GMJ = {
+    value = 100
+}
+GMJ = {
+    value = 100
+}
+MCK = {
+    value = 100
+}
+
+army = {
+    name = "Bikalek Nomads"
+    location = 1465
+    regiment = {
+        name= "1. Nomads"
+        type = irregular
+        home = 2608
+    }
+
+    regiment = {
+        name= "2. Nomads"
+        type = irregular
+        home = 2608
+    }
+
+    regiment = {
+        name= "3. Nomads"
+        type = irregular
+        home = 2678
+    }
+
+    regiment = {
+        name= "1. Horsemen"
+        type = cavalry
+        home = 2678
+    }
+
+    regiment = {
+        name= "2. Horsemen"
+        type = cavalry
+        home = 1465
+    }
+
+    regiment = {
+        name= "3. Horsemen"
+        type = cavalry
+        home = 1465
+    }
+
+}
+leader = {
+    name = "Dogar Nogai"
+    date = 2836.1.1
+    type = land
+    personality = hellbent
+    background = expert_raider
+    prestige = 0.15
+}

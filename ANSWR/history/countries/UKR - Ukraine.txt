@@ -1,22 +1,21 @@
 capital = 971
 primary_culture = ukrainian
 religion = prosperity
-government = absolute_monarchy
+government = democracy
 plurality = 2.5
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 0.33
 civilized = yes
-prestige = 20
 
 # Political reforms
 slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = none_voting
+upper_house_composition = state_equal_weight
+vote_franschise = universal_weighted_voting
 public_meetings = yes_meeting
-press_rights = state_press
+press_rights = free_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = underground_parties
+political_parties = gerrymandering
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -28,8 +27,8 @@ pensions = no_pensions
 school_reforms = no_schools
 
 #New Reforms
-conscription = four_year_draft
-debt_law = serfdom
+conscription = two_year_draft
+debt_law = debtors_prisons
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = culture_voting_only

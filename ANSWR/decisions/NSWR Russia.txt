@@ -120,5 +120,73 @@ political_decisions = {
 			set_country_flag = asia_expansion
 		}
 	}
+	bikail_asia ={
+		alert = yes
+		potential = {
+			tag = TNT
+			NOT = { has_country_flag = asia_expansion }
+		}
+		allow = {
+			prestige = 5
+			1465 = { owned_by = THIS }
+			}
+		effect ={
+			RUS_1071 = { add_core = THIS }
+			RUS_2618 = { add_core = THIS }
+			RUS_2668 = { add_core = THIS }
+			RUS_1074 = { add_core = THIS }
+			RUS_2590 = { add_core = THIS }
+			set_country_flag = asia_expansion
+		}
+	}
+	death_of_a_nomad ={
+		alert = yes
+		potential = {
+			tag = TNT
+			prestige = 5
+			NOT = { has_country_flag = death_of_a_nomad }
+			has_global_flag = ulaanbatar`
+			has_global_flag = bespoleznyy_migration
+		}
+		allow = {
+			prestige = 5
+			treasury = 10000
+			1465 = { owned_by = THIS }
+			}
+		effect ={
+			treasury = -10000
+			prestige = -2
+			research_points = 5000
+			1465 = { railroad = 1 }
+			2678 = { railroad = 1 }
+			2608 = { railroad = 1 }
+			set_country_flag = death_of_a_nomad
+		}
+	}
+	bikail_homeland ={
+		alert = yes
+		potential = {
+			tag = TNT
+			prestige = 5
+			NOT = { has_country_flag = death_of_a_nomad }
+			has_country_flag = death_of_a_nomad
+		}
+		allow = {
+			prestige = 5
+			treasury = 25000
+			1080 = { owned_by = THIS }
+			}
+		effect ={
+			treasury = -2500
+			prestige = 5
+			2678 = { life_rating = 8 }
+			2608 = { life_rating = 8 }
+			2679 = { life_rating = 8 }
+			1468 = { life_rating = 8 trade_goods = coal }
+			1466 = { life_rating = 8 }
+			2207 = { life_rating = 8 }
+			set_country_flag = death_of_a_nomad
+		}
+	}
 
 }

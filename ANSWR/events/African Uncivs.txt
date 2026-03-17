@@ -249,7 +249,6 @@ country_event = {
         political_reform = open_borders
         political_reform = free_press
         political_reform = yes_meeting
-        political_reform = meetings_allowed
         set_country_flag = kaap_republic
         ai_chance = { factor = 25 }
     }

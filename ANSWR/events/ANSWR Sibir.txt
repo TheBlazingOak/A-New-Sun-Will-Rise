@@ -1,0 +1,216 @@
+##Bikail
+#Bikail City
+country_event = {
+    id = 95000
+    title = "EVTNAME95000"
+    desc = "EVTDESC95000"
+    picture = bahrain_city
+    trigger = {
+        1465 = { owned_by = this }
+        primary_culture = mongol
+        NOT = { has_global_flag = ulaanbatar }
+        has_country_flag = rossiya_straits
+    }
+
+    mean_time_to_happen = { months = 60 }
+
+    option = {
+        name = "EVTOPTA95000" #Ulaanbaatar Boom
+        set_global_flag = ulaanbatar
+		1465 = { change_province_name = "Bikail City" trade_goods = coal life_rating = 9 add_province_modifier = { name = recently_built_city duration = 1825 } }
+    }
+}
+##Migrations into the Unknown##
+#Buriyat Migration
+country_event = {
+    id = 95001
+    title = "EVTNAME95001"
+    desc = "EVTDESC95001"
+    picture = central_asian_tribes
+    trigger = {
+        primary_culture = mongol
+        NOT = { has_global_flag = buriyat_migration }
+    }
+
+    mean_time_to_happen = { months = 24 }
+
+    option = {
+        name = "EVTOPTA95001"
+        set_global_flag = buriyat_migration
+        1078 = { add_province_modifier = { name = nomadic_migrations duration = 3650 } }
+        1079 = { add_province_modifier = { name = nomadic_migrations duration = 3650 } }
+        2670 = { add_province_modifier = { name = nomadic_migrations duration = 3650 } }
+        2671 = { add_province_modifier = { name = nomadic_migrations duration = 3650 } }
+    }
+}
+
+#Kiranakh Migration
+country_event = {
+    id = 95002
+    title = "EVTNAME95002"
+    desc = "EVTDESC95002"
+    picture = central_asian_tribes
+    trigger = {
+        primary_culture = mongol
+        NOT = { has_global_flag = kiranakh_migration }
+        OR = { 2670 = { owned_by = THIS} 2677 = {owned_by = THIS } }
+    }
+
+    mean_time_to_happen = { months = 24 }
+
+    option = {
+        name = "EVTOPTA95002"
+        set_global_flag = kiranakh_migration
+        2650  = { add_province_modifier = { name = nomadic_migrations duration = 3650 } }
+        2651  = { add_province_modifier = { name = nomadic_migrations duration = 3650 } }
+        2695  = { add_province_modifier = { name = nomadic_migrations duration = 3650 } }
+        2676  = { add_province_modifier = { name = nomadic_migrations duration = 3650 } }
+        2645  = { add_province_modifier = { name = nomadic_migrations duration = 3650 } }
+    }
+}
+
+#Bursan Migration
+country_event = {
+    id = 95003
+    title = "EVTNAME95003"
+    desc = "EVTDESC95003"
+    picture = central_asian_tribes
+    trigger = {
+        primary_culture = mongol
+        NOT = { has_global_flag = bursan_migration }
+    }
+
+    mean_time_to_happen = { months = 24 }
+
+    option = {
+        name = "EVTOPTA95003"
+        set_global_flag = bursan_migration
+		2675 = { add_province_modifier = { name = nomadic_migrations duration = 3650 } }
+        2677 = { add_province_modifier = { name = nomadic_migrations duration = 3650 } }
+        1032 = { add_province_modifier = { name = nomadic_migrations duration = 3650 } }
+        2694 = { add_province_modifier = { name = nomadic_migrations duration = 3650 } }
+    }
+}
+
+#Bespoleznyy Migration
+country_event = {
+    id = 95004
+    title = "EVTNAME95004"
+    desc = "EVTDESC95004"
+    picture = central_asian_tribes
+    trigger = {
+        primary_culture = mongol
+        NOT = { has_global_flag = bespoleznyy_migration }
+        OR = { 2670 = { owned_by = THIS} 2677 = {owned_by = THIS } }
+    }
+
+    mean_time_to_happen = { months = 36 }
+
+    option = {
+        name = "EVTOPTA95004"
+        set_global_flag = bespoleznyy_migration
+        2680  = { 
+        add_province_modifier = { name = nomadic_migrations duration = 3650 } 
+        secede_province = THIS
+        }
+        2654  = { 
+        add_province_modifier = { name = nomadic_migrations duration = 3650 } 
+        secede_province = THIS
+        }
+        2655  = { 
+        add_province_modifier = { name = nomadic_migrations duration = 3650 } 
+        secede_province = THIS
+        }
+        2673  = { 
+        add_province_modifier = { name = nomadic_migrations duration = 3650 } 
+        secede_province = THIS
+        }
+        1481  = { 
+        add_province_modifier = { name = nomadic_migrations duration = 3650 } 
+        secede_province = THIS
+        }
+        2667  = { 
+        add_province_modifier = { name = nomadic_migrations duration = 3650 } 
+        secede_province = THIS
+        }
+        2693  = { 
+        add_province_modifier = { name = nomadic_migrations duration = 3650 } 
+        secede_province = THIS
+        }
+    }
+}
+##Bikail Story Events##
+#The Straits of Rossiya
+country_event = {
+    id = 95005
+    title = "EVTNAME95005"
+    desc = "EVTDESC95005"
+    picture = croatia_issue
+    trigger = {
+        tag = TNT
+        NOT = { has_country_flag = rossiya_straits}
+    }
+
+    mean_time_to_happen = { months = 60 }
+
+    option = {
+        name = "EVTOPTA95005"
+        set_country_flag = rossiya_straits
+        2678 = { naval_base = 1 add_province_modifier = { name = small_baby_boom duration = 1825 } }
+        add_country_modifier = { name = western_influences duration = 3650 }
+    }
+}
+#Travels of the Young
+country_event = {
+    id = 95006
+    title = "EVTNAME95006"
+    desc = "EVTDESC95006"
+    trigger = {
+        tag = TNT
+        NOT = { has_country_flag = rossiya_straits}
+        nationalism_n_imperialism = 1
+    }
+
+    mean_time_to_happen = { months = 12 }
+
+    #Pop Boom#
+    option = {
+        name = "EVTOPTA95006"
+        set_country_flag = travels_of_the_young
+        add_country_modifier = { name = global_baby_boom duration = 1825 }
+        prestige = 15
+    }
+    #Expansion#
+    option = {
+        name = "EVTOPTB95006"
+        set_country_flag = travels_of_the_young
+        prestige = 5
+        CHI_1532 = { add_core = THIS }
+        CHI_1600 = { add_core = THIS }
+        CHI_1552 = { add_core = THIS }
+        add_country_modifier = { name = small_global_baby_boom duration = 1825 }
+    }
+}
+
+#Discovery of a bunker
+province_event = {
+    title = "EVTNAME95020"
+    desc = "EVTDESC95020"
+    id = 95020
+
+    trigger = {
+        OR = { culture = mongol culture = kochevnik culture = ledyanyyeludi}
+        NOT = { year = 2880 }
+        NOT = { has_global_flag = excavation_rights_of_the_lost_tombs }
+    }
+
+    mean_time_to_happen = {
+        months = 120
+    }
+
+    option = {
+        name = "EVTOPTA95020"
+        treasury = 10000
+        research_points = 1000
+    }
+}
