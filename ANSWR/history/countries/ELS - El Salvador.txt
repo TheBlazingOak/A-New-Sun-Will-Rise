@@ -53,3 +53,8 @@ set_country_flag = new_world_nation
 foreign_weapons = yes_foreign_weapons
 military_constructions = yes_military_constructions
 firearms_production = yes_firearms_production
+
+# Technologies
+flintlock_rifles = 1
+post_napoleonic_thought = 1
+guild_based_production = 1

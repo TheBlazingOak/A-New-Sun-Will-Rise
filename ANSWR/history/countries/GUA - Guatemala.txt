@@ -53,3 +53,7 @@ naval_schools = yes_naval_schools
 foreign_weapons = yes_foreign_weapons
 military_constructions = yes_military_constructions
 education_reform = yes_education_reform
+
+# Technologies
+flintlock_rifles = 1
+post_napoleonic_thought = 1

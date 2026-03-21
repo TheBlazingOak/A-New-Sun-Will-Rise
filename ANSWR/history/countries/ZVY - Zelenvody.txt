@@ -53,3 +53,6 @@ nonstate_consciousness = 1
 
 industrial_construction = yes_industrial_construction
 land_reform = yes_land_reform
+
+# Technologies
+piston_steam_engine = 1

@@ -57,4 +57,10 @@ army_schools = yes_army_schools
 military_constructions = yes_military_constructions
 foreign_artillery = yes_foreign_artillery
 
+# Technologies
+flintlock_rifles = 1
+post_napoleonic_thought = 1
+military_staff_system = 1
+bronze_muzzle_loaded_artillery = 1
+
 oob = "PAW_oob.txt"

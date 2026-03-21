@@ -56,3 +56,6 @@ naval_schools = yes_naval_schools
 land_reform = yes_land_reform
 
 set_country_flag = new_world_nation
+
+# Technologies
+late_enlightenment_philosophy = 1
