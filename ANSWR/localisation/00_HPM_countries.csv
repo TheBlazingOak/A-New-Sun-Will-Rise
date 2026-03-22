@@ -3169,8 +3169,8 @@ NUH;Vinhia;;;;;;;;;;;;;,,
 NUH_ADJ;Vinhian;;;;;;;;;;;;;,,
 HAI;Haitia;;;;;;;;;;;;;,,
 HAI_ADJ;Haitien;;;;;;;;;;;;;,,
-ALS;Elsass;;;;;;;;;;;;;,,
-ALS_ADJ;Elsassisch;;;;;;;;;;;;;,,
+ALS;Elzas;;;;;;;;;;;;;,,
+ALS_ADJ;Elzasser;;;;;;;;;;;;;,,
 SLO;Slowenia;;;;;;;;;;;;;,,
 SLO_ADJ;Slowenisch;;;;;;;;;;;;;,,
 CRO;Hrvatska;;;;;;;;;;;;;,,
@@ -3663,7 +3663,6 @@ NAG_ADJ;Delhi;;;;;;;;;;;;x;
 NAG_democracy;New Delhi Republic;;;;;;;;;;;;x;
 ALD;Dzayer;;;;;;;;;;;;x;
 ALD_ADJ;Dziria;;;;;;;;;;;;x;
-ALD;Dzayer;;;;;;;;;;;;x;
 ALD_hms_government;Regency of Dzayer;;;;;;;;;;;x;
 ALD_absolute_monarchy;Regency of Dzayer;;;;;;;;;;;x;
 ALD_prussian_constitutionalism;Regency of Dzayer;;;;;;;;;;;x;
@@ -3935,3 +3934,9 @@ SWA_democracy;United States of Western Australia;;;;;;;;;;;;;,,
 SWA_hms_government;United Kingdoms of Western Australia;;;;;;;;;;;;;,,
 SWA_prussian_constitutionalism;United Kingdoms of Western Australia;;;;;;;;;;;;;,,
 SWA_absolute_monarchy;United Kingdoms of Western Australia;;;;;;;;;;;;;,,
+RJS;Rajastan;;;;;;;;;;;;;,,
+RJS_ADJ;Rajastani;;;;;;;;;;;;;,,
+RJS_hms_government;Rajastani Empire;;;;;;;;;;;;;,,
+RJS_prussian_constitutionalism;Rajastani Empire;;;;;;;;;;;;;,,
+RJS_democracy;Rajastani Republic;;;;;;;;;;;;;,,
+RJS_absolute_monarchy;Rajastani Empire;;;;;;;;;;;;;,,

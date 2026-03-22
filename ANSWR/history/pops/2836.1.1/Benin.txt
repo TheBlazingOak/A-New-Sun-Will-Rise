@@ -4,37 +4,47 @@
 1919 = {
     aristocrats = {
         culture = fon
-        religion = catholic
+        religion = geerida
         size = 1950
     }
 
     clergymen = {
         culture = fon
-        religion = catholic
+        religion = geerida
         size = 1100
     }
 
     artisans = {
         culture = fon
-        religion = catholic
-        size = 4100
+        religion = geerida
+        size = 11100
+    }
+    artisans = {
+        culture = fon
+        religion = geerida
+        size = 11100
+    }
+    artisans = {
+        culture = fon
+        religion = geerida
+        size = 11100
     }
 
     soldiers = {
         culture = fon
-        religion = catholic
+        religion = geerida
         size = 1000
     }
 
     farmers = {
         culture = fon
-        religion = catholic
-        size = 59950
+        religion = geerida
+        size = 92950
     }
 
     slaves = {
         culture = fon
-        religion = catholic
+        religion = geerida
         size = 4000
     }
 
@@ -78,50 +88,55 @@
 1920 = {
     aristocrats = {
         culture = fon
-        religion = catholic
+        religion = geerida
         size = 2100
     }
 
     bureaucrats = {
         culture = fon
-        religion = catholic
-        size = 1000
+        religion = geerida
+        size = 1500
     }
 
     officers = {
         culture = fon
-        religion = catholic
-        size = 200
+        religion = geerida
+        size = 500
     }
 
     clergymen = {
         culture = fon
-        religion = catholic
-        size = 1100
+        religion = geerida
+        size = 2100
     }
 
     artisans = {
         culture = fon
-        religion = catholic
-        size = 4250
+        religion = geerida
+        size = 11250
+    }
+    artisans = {
+        culture = fon
+        religion = geerida
+        size = 11250
     }
 
     soldiers = {
         culture = fon
-        religion = catholic
+        religion = geerida
         size = 6000
     }
 
     farmers = {
         culture = fon
-        religion = catholic
-        size = 93250
+        religion = geerida
+        size = 122250
     }
 
     slaves = {
         culture = fon
-        religion = catholic
-        size = 8000
+        religion = geerida
+        size = 11000
     }
 
     aristocrats = {
@@ -166,32 +181,32 @@
 1921 = {
     aristocrats = {
         culture = fon
-        religion = catholic
-        size = 50
+        religion = geerida
+        size = 1450
     }
 
     clergymen = {
         culture = fon
-        religion = catholic
-        size = 75
+        religion = geerida
+        size = 1275
     }
 
     artisans = {
         culture = fon
-        religion = catholic
-        size = 150
+        religion = geerida
+        size = 12150
     }
 
     soldiers = {
         culture = fon
-        religion = catholic
-        size = 100
+        religion = geerida
+        size = 6100
     }
 
     farmers = {
         culture = fon
-        religion = catholic
-        size = 32700
+        religion = geerida
+        size = 72700
     }
 
     slaves = {
@@ -204,32 +219,32 @@
 1922 = {
     aristocrats = {
         culture = fon
-        religion = catholic
-        size = 100
+        religion = geerida
+        size = 1100
     }
 
     clergymen = {
         culture = fon
-        religion = catholic
-        size = 100
+        religion = geerida
+        size = 500
     }
 
     artisans = {
         culture = fon
-        religion = catholic
-        size = 250
+        religion = geerida
+        size = 11250
     }
 
     soldiers = {
         culture = fon
-        religion = catholic
-        size = 100
+        religion = geerida
+        size = 3100
     }
 
     farmers = {
         culture = fon
-        religion = catholic
-        size = 44575
+        religion = geerida
+        size = 74575
     }
 
 }
@@ -273,31 +288,31 @@
 
     aristocrats = {
         culture = fon
-        religion = catholic
-        size = 550
+        religion = geerida
+        size = 1150
     }
 
     clergymen = {
         culture = fon
-        religion = catholic
-        size = 300
+        religion = geerida
+        size = 800
     }
 
     artisans = {
         culture = fon
-        religion = catholic
-        size = 1150
+        religion = geerida
+        size = 6150
     }
 
     soldiers = {
         culture = fon
-        religion = catholic
-        size = 300
+        religion = geerida
+        size = 3000
     }
 
     farmers = {
         culture = fon
-        religion = catholic
-        size = 19700
+        religion = geerida
+        size = 49700
     }
 }

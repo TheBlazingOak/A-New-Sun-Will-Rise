@@ -110,6 +110,8 @@ political_decisions = {
             }
         }
     }
+
+    ##TRIHORIBRATIA##
     the_fourth_brother = {
 
         potential = {
@@ -150,6 +152,65 @@ political_decisions = {
             set_country_flag = nit_fourth_brother_2
         }
     }
+    magyar_claims = {
+
+        potential = {
+            tag = NIT
+            has_country_flag = nit_fourth_brother_2
+            NOT = { has_country_flag = nit_fourth_brother_3 }
+        }
+
+        allow = {
+            state_n_government = 1
+            prestige = 25
+            }
+
+        effect = {
+            AUS_657 = { add_core = THIS }
+            AUS_654 = { add_core = THIS }
+            set_country_flag = nit_fourth_brother_3
+        }
+    }
+    brno_core = {
+        potential = {
+            tag = NIT
+            has_country_flag = nit_fourth_brother 
+            NOT = { has_country_flag = brno_claim }
+        }
+
+        allow = {
+            AUS_627 = { owned_by = THIS }
+            }
+
+        effect = {
+            AUS_627 = { add_core = THIS }
+            set_country_flag = brno_claim
+        }
+    }
+
+    istoslav_claims = {
+        potential = {
+            tag = NIT
+            has_country_flag = nit_fourth_brother 
+            NOT = { has_country_flag = istoslav_claims }
+        }
+
+        allow = {
+            AUS_657 = { owned_by = THIS }
+            AUS_654 = { owned_by = THIS }
+            AUS_623 = { owned_by = THIS } 
+            AUS_641 = { owned_by = THIS }
+            }
+
+        effect = {
+            AUS_652 = { add_core = THIS }
+            AUS_777 = { add_core = THIS }
+            AUS_771 = { add_core = THIS }
+            AUS_780 = { add_core = THIS }
+            set_country_flag = istoslav_claims
+        }
+    }
+
     #St Petersburgh Claim
     suomi_expansion_1 = {
 

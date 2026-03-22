@@ -1847,7 +1847,6 @@ province_event = {
                     province_id = 1681 #Wazzan
                     ##France
                     province_id = 434
-                    province_id = 418
                     province_id = 428
                     province_id = 411
                     #Madagascar
@@ -4968,7 +4967,6 @@ country_event = {
 
         1906 = { trade_goods = cotton } #Orodaro
         1901 = { trade_goods = cotton } #Wagadugu
-        1904 = { trade_goods = cotton } #Fada Ngourma
 
         ai_chance = { factor = 80 }
     }
@@ -4979,7 +4977,6 @@ country_event = {
 
         1906 = { trade_goods = coffee } #Orodaro
         1901 = { trade_goods = coffee } #Wagadugu
-        1904 = { trade_goods = coffee } #Fada Ngourma
 
         ai_chance = {
             factor = 10
@@ -5008,7 +5005,6 @@ country_event = {
 
         1906 = { trade_goods = tobacco } #Orodaro
         1901 = { trade_goods = tobacco } #Wagadugu
-        1904 = { trade_goods = tobacco } #Fada Ngourma
 
         ai_chance = {
             factor = 10
@@ -5073,6 +5069,7 @@ country_event = {
         1922 = { trade_goods = tropical_wood }
         1921 = { trade_goods = tropical_wood }
         1919 = { trade_goods = fruit }
+        1904 = { trade_goods = coffee }
 
         ai_chance = {
             factor = 10
@@ -5103,6 +5100,7 @@ country_event = {
         1922 = { trade_goods = tropical_wood }
         1921 = { trade_goods = tropical_wood }
         1919 = { trade_goods = fruit }
+        1904 = { trade_goods = tobacco }
 
         ai_chance = {
             factor = 10

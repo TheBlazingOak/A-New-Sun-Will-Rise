@@ -6,6 +6,7 @@ add_core = FRE
 trade_goods = grain
 life_rating = 31
 terrain = ruined_city
+fort = 1
 state_building = {
     level = 1
     building = luxury_furniture_factory

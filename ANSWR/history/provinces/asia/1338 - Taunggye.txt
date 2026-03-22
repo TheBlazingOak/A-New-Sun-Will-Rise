@@ -1,6 +1,5 @@
 owner = PGG
 controller = PGG
 add_core = PGG
-add_core = BUR
 trade_goods = tea
-life_rating = 32
+life_rating = 33

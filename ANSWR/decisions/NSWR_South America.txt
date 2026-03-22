@@ -1,6 +1,6 @@
 political_decisions = {
-Muisca Formation
-muisca_form = {
+#Muisca Formation
+	muisca_form = {
 		potential = {
 				OR = { tag = CRR tag = GAR }
 				NOT = { has_global_flag = muiscan_formed }

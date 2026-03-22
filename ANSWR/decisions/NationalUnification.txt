@@ -236,6 +236,7 @@ political_decisions = {
                 is_culture_group = polish_culture_group
                 is_culture_group = french
                 is_culture_group = american_cultures
+                is_culture_group = burmese_culture
                 tag = FSA
                 tag = CSA
             }
@@ -359,16 +360,6 @@ political_decisions = {
         potential = {
             OR = {
                 is_culture_group = south_asian
-                is_culture_group = indo_iranian
-            }
-			NOT = { tag = NAG } 
-            NOT = { tag = PAK }
-            NOT = { tag = MUG }
-            NOT = { tag = NEP }
-            NOT = { has_country_flag = mughal_reborn }
-            NOT = {
-                has_country_flag = post_colonial_country
-                exists = HND
             }
         }
 
@@ -380,13 +371,6 @@ political_decisions = {
                 all_core = {
                     OR = {
                         owned_by = THIS
-                        province_id = 1303
-                        province_id = 1312
-                        province_id = 1320
-                        is_core = KAL
-                        is_core = MAK
-                        is_core = AFG
-                        is_core = KAS
                         owner = {
                             in_sphere = THIS
                             OR = {
@@ -429,6 +413,9 @@ political_decisions = {
             all_core = { remove_core = THIS }
             1303 = { add_core = HND }
             1312 = { add_core = HND }
+            2591 = { add_core = HND }
+            ENG_1247 = { add_core = HND }
+            ENG_1321 = { add_core = HND }
             change_tag = HND
             any_country = {
                 limit = {
@@ -440,13 +427,6 @@ political_decisions = {
                     }
                     OR = {
                         is_culture_group = south_asian
-                        AND = {
-                            is_culture_group = indo_iranian
-                            NOT = {
-                                has_global_flag = pakistan_formed
-                                has_global_flag = pakistan_born
-                            }
-                        }
                     }
                     in_sphere = THIS
                     OR = {
@@ -456,18 +436,14 @@ political_decisions = {
                 }
                 country_event = 11101
             }
-            add_accepted_culture = avadhi
-            add_accepted_culture = marathi
-            add_accepted_culture = rajput
-            add_accepted_culture = bihari
-            add_accepted_culture = bengali
-            add_accepted_culture = kanauji
-            add_accepted_culture = panjabi
-            add_accepted_culture = kashmiri
-            add_accepted_culture = manipuri
-            add_accepted_culture = assamese
+            add_accepted_culture = tekno
+            add_accepted_culture = telegu
             add_accepted_culture = oriya
+            add_accepted_culture = kannada
+            add_accepted_culture = marathi
+            add_accepted_culture = kanauji
             add_accepted_culture = gujarati
+            add_accepted_culture = bihari
 
         }
         ai_will_do = {
@@ -494,9 +470,9 @@ political_decisions = {
                 change_province_name = "Kolmar"
             }
             409 = {
-                change_province_name = "Straßburg"
+                change_province_name = "Straï¿½burg"
                 state_scope = {
-                    change_region_name = "Elsaß-Lothringen"
+                    change_region_name = "Elsaï¿½-Lothringen"
                 }
             }
             prestige = 5
@@ -931,6 +907,49 @@ political_decisions = {
         }
 
         ai_will_do = { factor = 1 }
+    }
+    form_burma = {
+        picture = form_union_nation
+        potential = {
+            is_culture_group = burmese_culture
+            BUR = { exists = no}
+        }
+
+        allow = {
+            prestige = 10
+            war = no
+            OR = { 
+                nationalism_n_imperialism = 1 
+                THIS = {
+                    1345 = { owned_by = THIS }
+                    3381 = { owned_by = THIS }
+                    3383 = { owned_by = THIS }
+                }
+            }
+            
+        }
+        effect = {
+            prestige = 10
+            all_core = { remove_core = THIS }
+            change_tag = culture
+            any_country = {
+                limit = {
+                    NOT = { is_greater_power = yes }
+                    NOT = { has_country_flag = post_colonial_country }
+                    is_culture_group = THIS
+                    in_sphere = THIS
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                }
+                country_event = 11101
+            }
+            add_accepted_culture = union
+        }
+        ai_will_do = {
+            factor = 1
+        }
     }
 
 }

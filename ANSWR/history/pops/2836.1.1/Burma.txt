@@ -41,94 +41,26 @@
     farmers = {
         culture = rohingya
         religion = sunni
-        size = 214000
-    }
-
-    aristocrats = {
-        culture = asian_minor #Mon
-        religion = theravada
-        size = 25
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = theravada
-        size = 75
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = theravada
-        size = 2000
-    }
-
-	farmers = {
-        culture = asian_minor
-        religion = theravada
-        size = 35000
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = theravada
-        size = 500
+        size = 254000
     }
 }
-#Pegu (134840 POPS)
-1332 = {
-    aristocrats = {
-        culture = karen
-        religion = theravada
-        size = 400
-    }
-
+#Andaman Islands (14000/3500 POPS)
+1320 = {
     clergymen = {
-        culture = karen
+        culture = burmese
         religion = theravada
-        size = 500
-    }
-
-    artisans = {
-        culture = karen
-        religion = theravada
-        size = 2400
-    }
-
-    soldiers = {
-        culture = karen
-        religion = theravada
-        size = 500
+        size = 50
     }
 
     farmers = {
-        culture = karen
+        culture = burmese
         religion = theravada
-        size = 24200
+        size = 3400
     }
 
-    aristocrats = {
-        culture = asian_minor #Mon
-        religion = theravada
-        size = 100
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = theravada
-        size = 150
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = theravada
-        size = 850
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = theravada
-        size = 150
-    }
+}
+#Pegu (134840 POPS)
+1332 = {
 
     aristocrats = {
         culture = burmese
@@ -174,35 +106,6 @@
 }
 #Toungoo (90350 POPS)
 1333 = {
-    aristocrats = {
-        culture = karen
-        religion = theravada
-        size = 300
-    }
-
-    clergymen = {
-        culture = karen
-        religion = theravada
-        size = 325
-    }
-
-    artisans = {
-        culture = karen
-        religion = theravada
-        size = 1600
-    }
-
-    soldiers = {
-        culture = karen
-        religion = theravada
-        size = 350
-    }
-
-    farmers = {
-        culture = karen
-        religion = theravada
-        size = 12425
-    }
 
     aristocrats = {
         culture = burmese
@@ -273,66 +176,6 @@
         culture = burmese
         religion = theravada
         size = 243600
-    }
-
-    aristocrats = {
-        culture = kachin
-        religion = animist
-        size = 50
-    }
-
-    clergymen = {
-        culture = kachin
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = kachin
-        religion = animist
-        size = 250
-    }
-
-    soldiers = {
-        culture = kachin
-        religion = animist
-        size = 1050
-    }
-
-    farmers = {
-        culture = kachin
-        religion = animist
-        size = 35600
-    }
-
-    aristocrats = {
-        culture = shan
-        religion = theravada
-        size = 75
-    }
-
-    clergymen = {
-        culture = shan
-        religion = theravada
-        size = 75
-    }
-
-    artisans = {
-        culture = shan
-        religion = theravada
-        size = 350
-    }
-
-    soldiers = {
-        culture = shan
-        religion = theravada
-        size = 1075
-    }
-
-    farmers = {
-        culture = shan
-        religion = theravada
-        size = 36425
     }
 }
 #Kyaukse (472000/118000 POPS)
@@ -897,140 +740,33 @@
         religion = theravada
         size = 38825
     }
-
-    clergymen = {
-        culture = asian_minor #Chin
-        religion = animist
-        size = 25
-    }
-
-    farmers = {
-        culture = asian_minor
-        religion = animist
-        size = 950
-    }
 }
 
 #Loikaw (264000/66000 POPS)
 3372 = {
-    aristocrats = {
-        culture = shan
-        religion = theravada
-        size = 250
-    }
-
-    clergymen = {
-        culture = shan
-        religion = theravada
-        size = 250
-    }
-
-    artisans = {
-        culture = shan
-        religion = theravada
-        size = 1250
-    }
-
-    soldiers = {
-        culture = shan
-        religion = theravada
-        size = 250
-    }
-
-    farmers = {
-        culture = shan
-        religion = theravada
-        size = 26000
-    }
-
-	aristocrats = {
-        culture = karen
-        religion = theravada
-        size = 250
-    }
-
-    clergymen = {
-        culture = karen
-        religion = theravada
-        size = 250
-    }
-
-    artisans = {
-        culture = karen
-        religion = theravada
-        size = 1250
-    }
-
-    soldiers = {
-        culture = karen
-        religion = theravada
-        size = 250
-    }
-
-    farmers = {
-        culture = karen
-        religion = theravada
-        size = 20000
-    }
-
-    aristocrats = {
-        culture = asian_minor
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = animist
-        size = 550
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = animist
-        size = 150
-    }
-
-    farmers = {
-        culture = asian_minor
-        religion = animist
-        size = 10100
-    }
 
     clergymen = {
         culture = burmese
         religion = theravada
-        size = 75
+        size = 575
     }
 
     artisans = {
         culture = burmese
         religion = theravada
-        size = 350
+        size = 11350
     }
 
     soldiers = {
         culture = burmese
         religion = theravada
-        size = 100
+        size = 3100
     }
 
     farmers = {
         culture = burmese
         religion = theravada
-        size = 13475
-    }
-
-    slaves = {
-        culture = asian_minor
-        religion = animist
-        size = 1000
+        size = 83475
     }
 
 }

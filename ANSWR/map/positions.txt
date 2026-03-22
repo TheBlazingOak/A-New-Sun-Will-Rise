@@ -20179,8 +20179,8 @@
     }
 
     city = {
-        x = 2794.750000
-        y = 1554.800000
+        x = 2793.750000
+        y = 1557.300000
     }
 
     factory = {
@@ -20191,6 +20191,11 @@
     building_construction = {
         x = 2801.600000
         y = 1552.250000
+    }
+
+    military_construction = {
+        x = 2788.300000
+        y = 1555.700000
     }
 
     building_position = {
@@ -21458,6 +21463,16 @@
     }
 
     text_scale = 1
+    unit = {
+        x = 2875.900000
+        y = 1567.800000
+    }
+
+    city = {
+        x = 2876.400000
+        y = 1566.800000
+    }
+
     building_position = {
         naval_base = {
             x = 2878.050000
@@ -28307,6 +28322,11 @@
     unit = {
         x = 3094.259524
         y = 1589.975000
+    }
+
+    city = {
+        x = 3091.986667
+        y = 1587.083333
     }
 
     factory = {
@@ -42308,10 +42328,11 @@
 
 968 = {
     text_position = {
-        x = 3286.796667
-        y = 1562.960000
+        x = 3288.208333
+        y = 1560.065000
     }
 
+    text_rotation = 0.739494
     text_scale = 2.800000
     unit = {
         x = 3295.755000
@@ -42319,8 +42340,8 @@
     }
 
     city = {
-        x = 3288.715000
-        y = 1565.765000
+        x = 3289.985000
+        y = 1560.475000
     }
 
     factory = {
@@ -42329,13 +42350,13 @@
     }
 
     building_construction = {
-        x = 3276.000000
-        y = 1562.000000
+        x = 3299.688333
+        y = 1571.066667
     }
 
     military_construction = {
-        x = 3279.585000
-        y = 1565.270000
+        x = 3278.300000
+        y = 1554.188333
     }
 
     building_position = {
@@ -53669,7 +53690,7 @@
     }
 
     building_rotation = {
-        naval_base = 5.142341
+        naval_base = 1.187512
         aeroplane_factory = 0.110657
     }
 
@@ -53867,7 +53888,7 @@
     }
 
     building_rotation = {
-        naval_base = 4.011893
+        naval_base = 2.070143
     }
 
 } # Gorakhpur
@@ -115829,14 +115850,14 @@
         }
 
         naval_base = {
-            x = 4296.625000
-            y = 1629.750000
+            x = 4295.625000
+            y = 1629.125000
         }
 
     }
 
     building_rotation = {
-        naval_base = 2.494104
+        naval_base = 2.143628
     }
 
 } # Araouane

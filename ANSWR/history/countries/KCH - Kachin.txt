@@ -1,11 +1,11 @@
-capital = 1314
+capital = 3381
 primary_culture = burmese
 culture = kachin
 religion = theravada
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.02
+literacy = 0.07
 
 # Political reforms
 slavery = yes_slavery

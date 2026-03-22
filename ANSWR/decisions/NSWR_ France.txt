@@ -186,7 +186,7 @@ political_decisions = {
 
         effect = {
             prestige = 15
-            schools = culture_tech_school
+            tech_school = culture_tech_school
             nationalvalue = nv_autocracy
             set_country_flag = embraced_nobility
         }
@@ -220,6 +220,7 @@ political_decisions = {
         tag = FRE
         has_country_flag = french_unity
         not = { has_country_flag = embraced_unity }
+        government = republic
         }
 
         allow = {
@@ -232,7 +233,7 @@ political_decisions = {
 
         effect = {
             prestige = 10
-            schools = french_commoner_school
+            tech_school = french_commoner_school
             nationalvalue = nv_equality
             set_country_flag = embraced_unity
         }
@@ -272,5 +273,58 @@ political_decisions = {
         set_country_flag = embraced_novo_prov
         }
     }
+    the_streets_of_parii = {
+        picture = metro_system
+        potential = {
+        425 = { owned_by = THIS }
+        experimental_railroad = 1
+        not = { has_global_flag = parii_rebuilt }
+        year = 2840
+        }
+        allow = {
+        iron_railroad = 1
+        business_regulations = 1
+        425 = { owned_by = THIS }
+        treasury = 25000
+        war = no
+        }
+
+        effect = {
+        set_global_flag = parii_rebuilt
+        prestige = 5
+        treasury = -25000
+        425 = { 
+            trade_goods = iron 
+            life_rating = 9 
+            add_province_modifier = { name = recently_built_city duration = 1825 } 
+            add_province_modifier = { name = underground_city duration = -1 }
+            }
+        }
+    }
+    the_normandie_cloth_production = {
+        picture = metro_system
+        potential = {
+        418 = { owned_by = THIS }
+        not = { has_global_flag = normandie_cloth }
+        }
+        allow = {
+        business_banks = 1
+        business_regulations = 1
+        418 = { owned_by = THIS }
+        treasury = 25000
+        }
+
+        effect = {
+        set_global_flag = normandie_cloth
+        prestige = 5
+        treasury = -25000
+        418 = { trade_goods = cotton }
+        416 = { trade_goods = dye }
+        415 = { trade_goods = cotton }
+        417 = { trade_goods = silk }
+        FRA_418 = { add_province_modifier = { name = baby_boom duration = 1825 } }
+        }
+    }
+
 #End of political_decisions brackets    
 }

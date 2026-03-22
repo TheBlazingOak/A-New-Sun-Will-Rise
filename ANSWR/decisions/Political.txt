@@ -1062,16 +1062,6 @@ political_decisions = {
                     is_capital = yes
                     NOT = { life_rating = 38 }
                 }
-                375 = { #Amsterdam
-                    owned_by = THIS
-                    is_capital = yes
-                    NOT = { life_rating = 38 }
-                }
-                387 = { #Brussels
-                    owned_by = THIS
-                    is_capital = yes
-                    NOT = { life_rating = 38 }
-                }
                 521 = { #Lisbon
                     owned_by = THIS
                     is_capital = yes
@@ -1105,6 +1095,11 @@ political_decisions = {
                 }
 
                 849 = { #Tirana
+                    owned_by = THIS
+                    is_capital = yes
+                    NOT = { life_rating = 38 }
+                }
+                635 = { #Nitra
                     owned_by = THIS
                     is_capital = yes
                     NOT = { life_rating = 38 }
@@ -1145,6 +1140,7 @@ political_decisions = {
                         province_id = 876
                         province_id = 783
                         province_id = 849
+                        province_id = 635
                     }
                 }
                 life_rating = 5

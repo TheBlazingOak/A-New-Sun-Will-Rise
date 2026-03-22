@@ -68,7 +68,7 @@ germanic = {
         color = { 5  109  150 }
         first_names = { Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
         Charles Daniel Denis edouard Elie ettiene Eugene Felicien Felix Fernand
-        François Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+        Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
         Joseph Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
         Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
 
@@ -166,8 +166,8 @@ beneluxian = {
     flemish = {
         color = { 250 180 80 }
         first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas
-        Camille Charles Constant David Desire Diederik Edmond Emmanuel Etienne Eugene Felix Filip Frans Ferdinand François Frederik
-        Guillaume Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-François Jean-Louis Jean-Jacques
+        Camille Charles Constant David Desire Diederik Edmond Emmanuel Etienne Eugene Felix Filip Frans Ferdinand Francois Frederik
+        Guillaume Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-Francois Jean-Louis Jean-Jacques
         Jochem Joseph Josse Jozef Jules Karel Laurens Leon Leonard Leopold Louis Lucien Manfred Mathias Nicolas Nikolaas Olivier
         Paul Philippe Philippe-Joseph Pierre Pieter Robert Sylvain Theodoor Victor Vincent Werner Willem }
 
@@ -189,8 +189,8 @@ beneluxian = {
     wallonian = {
         color = { 190 90 20 }
         first_names = { Albert Alexandre Alexis Alphonse Andre Antoine Auguste Barthelemy Baudouin Blaise Camille Clement Charles Constant
-        Damien David Desire Didier Edmond edouard Emmanuel emile Etienne Eugene Felix Fernand Feullien Florent François Frederic Georges
-        Gerard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-François Jean-Louis
+        Damien David Desire Didier Edmond edouard Emmanuel emile Etienne Eugene Felix Fernand Feullien Florent Francois Frederic Georges
+        Gerard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-Francois Jean-Louis
         Jean-Jacques Joseph Jules Lambert Laurent Leon Leonard Leopold Louis Lucien Mathieu Maxime Maximilien Nicolas Olivier
         Pascal Patrice Paul Philippe Philippe-Joseph Pierre Pierre-Guillaume Sebastien Sylvain Theophile Victor Vincent Werner }
 
@@ -208,8 +208,8 @@ beneluxian = {
     flanish = {
         color = { 71  14  33 }
         first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas
-        Camille Charles Constant David Desire Diederik Edmond Emmanuel Etienne Eugene Felix Filip Frans Ferdinand François Frederik
-        Guillaume Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-François Jean-Louis Jean-Jacques
+        Camille Charles Constant David Desire Diederik Edmond Emmanuel Etienne Eugene Felix Filip Frans Ferdinand Francois Frederik
+        Guillaume Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-Francois Jean-Louis Jean-Jacques
         Jochem Joseph Josse Jozef Jules Karel Laurens Leon Leonard Leopold Louis Lucien Manfred Mathias Nicolas Nikolaas Olivier
         Paul Philippe Philippe-Joseph Pierre Pieter Robert Sylvain Theodoor Victor Vincent Werner Willem }
 
@@ -450,7 +450,7 @@ italian = {
         color = {118 232 223}
         first_names = { Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
         Charles Daniel Denis edouard Elie ettiene Eugene Felicien Felix Fernand
-        François Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+        Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
         Joseph Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
         Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
 
@@ -519,7 +519,7 @@ iberian = {
         color = {220 110 30}
         first_names = { Albert Alexandre Alfons Alfonso Andres Andreu Antoni Carles Cassià Dalmau
         David Eduard Enric Enrique Federico Felip Fernando Ferran Francesc Gaspar
-        Gerard Isaac Jacint Jaume Joan Jordi Jose Josep Juan Llorenç
+        Gerard Isaac Jacint Jaume Joan Jordi Jose Josep Juan Llorenc
         Lluis Manel Manuel Marc Miquel Narcís Pasqual Pau Pedro Pere
         Pompeu Rafael Rafel Ramon Ricardo Salvador Sergi Valntí Victor Xavier }
 
@@ -540,7 +540,7 @@ iberian = {
         Sebastião Teodoro Teófilo Tiago Tome Urbano Vasco Vicente Vitorino Vitório }
 
         last_names = { Amaral Barreto Bleck Braga Cabral Capelo Carmona Coelho Correia Coutinho
-        "da Costa" "da Cunha" "da Silva" "de Albuquerque" "de Almeida" "de Arriaga" "de Bragança" "de Bragança-Coburgo" "de Carvalho"
+        "da Costa" "da Cunha" "da Silva" "de Albuquerque" "de Almeida" "de Arriaga" "de Braganca" "de Braganca-Coburgo" "de Carvalho"
         "de Castro" "de Gusmão" "de Lacerda" "de Mesquita" "de Moura" "de Noronha" "de Oliveira" "de Paiva" "de Sousa" "de Vasconcelos"
         Dias "dos Reis" "dos Santos" Fernandes Ferreira Figueira "Freire de Andrade" Gago Gil Gomes
         Herculano Ivens Keil Lopes Machado Magalhães Mendes Moniz Mouzinho Nogueira
@@ -556,7 +556,7 @@ french = {
         color = {20 20 100}
         first_names = { Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
         Charles Daniel Denis edouard Elie ettiene Eugene Felicien Felix Fernand
-        François Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+        Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
         Joseph Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
         Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
 
@@ -575,7 +575,7 @@ french = {
     }
     occitan = {
         color = {110 110 50}
-        first_names = { Alban Andieu Alòi Beròt Carles Esteve Fidel Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
+        first_names = { Alban Andieu Alòi Beròt Carles Esteve Fidel Frederic Girard Jan Jacin Laurenc Martin Nicolau Privat Roman Vincenc }
 
         last_names = { Amiel Benet Dardier Delpuech Ladiveze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
     }
@@ -723,16 +723,16 @@ pan_albanian = {
         color = {140 0 0}
         first_names = { Ahmet Ali Azem Bajram Behxhet Davud Ekrem Elez Enver Eqrem
         Esad Fatmir Fejzi Fiqri Gjergj Gjon Hasan Hashim Ibrahim Idhomene
-        Iliaz Ishak Ismail Izet Kara Kastriot Koçi Köpryly Kostaq Leke
+        Iliaz Ishak Ismail Izet Kara Kastriot Koci Köpryly Kostaq Leke
         Maliq Marin mehdi Musa Mustafa Pandeli Petro Qamil Qazim Ramush
         Rexhep Shefqet Skender Sulejman Tewfik Theofan Turhan Vasil Veton Xhafer
         }
 
-        last_names = { Ahmeti al-Albani Bardha Bazna "Bej Alizoti" "Bej Biçakçiu" "Bej Delvina" "Bej Frasheri" "Bej Libohova" "Bej Ndroque"
-        "Bej Prishtina" "Bej Verlaci" "Bej Vrioni" "Bej Ypi" "Bej Zogu" Belishi Burbank Bushati Buza Çabej
-        Çeku Dine Dragoti Dukagiini Dushku Evangjeli Feza Hoxha Islami Kadare
+        last_names = { Ahmeti al-Albani Bardha Bazna "Bej Alizoti" "Bej Bicakciu" "Bej Delvina" "Bej Frasheri" "Bej Libohova" "Bej Ndroque"
+        "Bej Prishtina" "Bej Verlaci" "Bej Vrioni" "Bej Ypi" "Bej Zogu" Belishi Burbank Bushati Buza cabej
+        ceku Dine Dragoti Dukagiini Dushku Evangjeli Feza Hoxha Islami Kadare
         Koculi Konica Konushevci Kosturi Kota Logoreci Merlika-Kruja Mitrovica Mula Noli
-        "Pashe Permeti" "Pashe Tepelena" "Pashe Toptani" Poga "Qemal Bej" Shahini Skiroi Thaçi Troja Xoxe
+        "Pashe Permeti" "Pashe Tepelena" "Pashe Toptani" Poga "Qemal Bej" Shahini Skiroi Thaci Troja Xoxe
         }
         radicalism = 15
     }
@@ -1794,16 +1794,6 @@ south_asian = {
 
         }
     }
-    utara = {
-        color = {190 190 140}
-        first_names = { Chetan Fakirbhai Jivraj Madhavsingh Khemchand Manubhai Bharatsingh Balwantry Chabildas Maniraj
-
-        }
-
-        last_names = { Pansara Vaghela Solanki Modhvadia Mehta Baro Parmar
-
-        }
-    }
     swathanthrar = {
         color = {153 0 0}
         first_names = { Chetan Fakirbhai Jivraj Madhavsingh Khemchand Manubhai Bharatsingh Balwantry Chabildas Maniraj
@@ -1820,26 +1810,7 @@ south_asian = {
 indo_iranian = {
     leader = indian
     unit = IndianGC
-    talobum = {
-        color = {165 143 211}
-        first_names = { Murshid Quli Shujauddin Alauddin Alivardi Sirajuddaula "Mir Muhammad" Najimuddin Reza Saifuddaula Zainul Ahmad Mansur Mubarak Hasan Wasif Waris
-
-        }
-
-        last_names = { Jafar Muhammad Sarfaraz Ali "Qasim Ali" Najabut Bahadur Mirza
-
-        }
-    }
-    bengali = {
-        color = {156 134 112}
-        first_names = { Murshid Quli Shujauddin Alauddin Alivardi Sirajuddaula "Mir Muhammad" Najimuddin Reza Saifuddaula Zainul Ahmad Mansur Mubarak Hasan Wasif Waris
-
-        }
-
-        last_names = { Jafar Muhammad Sarfaraz Ali "Qasim Ali" Najabut Bahadur Mirza
-
-        }
-    }
+    
     panjabi = {
         color = {190 180 170}
         first_names = { Ranjit Kharak Nau Nihal Chand Kaur Shir Dhalip Diwan Jassa Hari Bhuma Nawab Banda Baba Kapur
@@ -1860,6 +1831,65 @@ indo_iranian = {
 
         }
     }
+}
+burmese_culture = {
+    leader = asian
+    unit = AsianGC
+    bengali = {
+        color = {156 134 112}
+        first_names = { Murshid Quli Shujauddin Alauddin Alivardi Sirajuddaula "Mir Muhammad" Najimuddin Reza Saifuddaula Zainul Ahmad Mansur Mubarak Hasan Wasif Waris
+
+        }
+
+        last_names = { Jafar Muhammad Sarfaraz Ali "Qasim Ali" Najabut Bahadur Mirza
+
+        }
+    }
+    burmese = {
+        color = {99 87 27}
+        first_names = { Thibaw Mindon Pagan Tharawadi Gabyidaw Bodawphaya Maung Singu Hsinbyushin Naungdawkyi Alaungphaya Maha Minkyaw Zeya
+
+        }
+
+        last_names = { Min Bagyidaw Bandula "Ne Myo" Myo Thura Dabayin
+
+        }
+    }
+    kachin = {
+        color = {255 98 76}
+        first_names = { Sama Sinwa U Zan Hta Duwa Ding Ga Hkyeng
+
+        }
+
+        last_names = { Ratang Nawng Sin Lahpai Lahtaw Maran Marip Nhkum
+
+        }
+    }
+    naga = {
+		 color = { 201 0 0 }
+		 first_names = { Hswe Hsö Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun }
+		 last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min }
+	}
+    rohingya = {
+		 color = { 136 154 152 }
+		 first_names = { Hswe Hso Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun }
+		 last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min }
+	}
+	assamese = {
+        color = {112 134 156}
+        first_names = { Chandraka Purandar Ruchinath Kaganath Dhekial Jogeshwar Sudingphaa Kamaleswar Daman Hao Jama Patalang
+
+        }
+
+        last_names = { Singha Aideo Dogoi Bora Khan Purnananda Phukan
+        }
+    }
+
+    union = BUR
+}
+north_indian = {
+    leader = indian
+    unit = IndianGC
     issaclander = {
         color = {120 190 110}
         first_names = { Ranjit Kharak Nau Nihal Chand Kaur Shir Dhalip Diwan Jassa Hari Bhuma Nawab Banda Baba Kapur
@@ -1871,7 +1901,7 @@ indo_iranian = {
         }
 
     }
-	 delhiite = {
+	delhiite = {
         color = {44 51 45}
         first_names = { Kirtisri Vikrama Sri Vijaya Viraparakkama Vimala Rajasingha Senarat  Anagarika Wimalaratne
 
@@ -1881,20 +1911,24 @@ indo_iranian = {
 
         }
     }
-	rohingya = {
-		 #!religion = { sunni }
-		 #color = { 107 142 35 }
-		 color = { 136 154 152 }
-		 first_names = { Hswe Hsö Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun }
-		 last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min }
-	}
-	assamese = {
-        color = {112 134 156}
-        first_names = { Chandraka Purandar Ruchinath Kaganath Dhekial Jogeshwar Sudingphaa Kamaleswar Daman Hao Jama Patalang
+    talobum = {
+        color = {165 143 211}
+        first_names = { Murshid Quli Shujauddin Alauddin Alivardi Sirajuddaula "Mir Muhammad" Najimuddin Reza Saifuddaula Zainul Ahmad Mansur Mubarak Hasan Wasif Waris
 
         }
 
-        last_names = { Singha Aideo Dogoi Bora Khan Purnananda Phukan
+        last_names = { Jafar Muhammad Sarfaraz Ali "Qasim Ali" Najabut Bahadur Mirza
+
+        }
+    }
+    utara = {
+        color = {190 190 140}
+        first_names = { Chetan Fakirbhai Jivraj Madhavsingh Khemchand Manubhai Bharatsingh Balwantry Chabildas Maniraj
+
+        }
+
+        last_names = { Pansara Vaghela Solanki Modhvadia Mehta Baro Parmar
+
         }
     }
 }
@@ -2116,16 +2150,6 @@ southeast_asian = {
 
         }
     }
-    burmese = {
-        color = {99 87 27}
-        first_names = { Thibaw Mindon Pagan Tharawadi Gabyidaw Bodawphaya Maung Singu Hsinbyushin Naungdawkyi Alaungphaya Maha Minkyaw Zeya
-
-        }
-
-        last_names = { Min Bagyidaw Bandula "Ne Myo" Myo Thura Dabayin
-
-        }
-    }
     asian_minor = {
         color = {99 150 72}
         first_names = { Abdul Vijaya Rajkumari Aurobindo Chandrashekhar Gopal Motilal Sardar Sarojini Subhas Srinivasa Mridula Gupinath Chittaranjan
@@ -2133,16 +2157,6 @@ southeast_asian = {
         }
 
         last_names = { Singh Prasad Ambedkar Khan Pandit Besant Sarabhai Gaidinliu Iyengar Baharjee Naidu
-
-        }
-    }
-    kachin = {
-        color = {255 98 76}
-        first_names = { Sama Sinwa U Zan Hta Duwa Ding Ga Hkyeng
-
-        }
-
-        last_names = { Ratang Nawng Sin Lahpai Lahtaw Maran Marip Nhkum
 
         }
     }
@@ -2166,12 +2180,7 @@ southeast_asian = {
 
         }
     }
-	naga = {
-		 #!religion = { protestant }
-		 color = { 201 0 0 }
-		 first_names = { Hswe Hsö Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun }
-		 last_names = { Cheng Kaw Möng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min }
-	}
+
 	khasi = {
 		 #!religion = { protestant }
 		 color = { 106 90 205 }
@@ -2448,7 +2457,7 @@ native_american = {
     tupinamba = {
         color = {43 212 67}
         first_names = { Álvaro Andre Carlos Diogo Emilio Eusebio Fábio Fernando Filipe Francisco
-        Gabriel Gaspar Gonçalo Gustavo Henrique João Jose Luís Manuel Inácio
+        Gabriel Gaspar Goncalo Gustavo Henrique João Jose Luís Manuel Inácio
         Jordão Lúcio Mateus Nicolau Paulo Pedro Roque Sergio Tomás Vítor }
 
         last_names = { Caetes Potiguara Tabajara Tamoios Temiminó Tupinambá Tupiniquim     }
@@ -2564,7 +2573,7 @@ american_cultures = {
         Jonas Frank Charles Peter Rand Leslie Howard Malvin Oscar Henry Simon Edward Gideon Isaac Evander Jerome Alfred Cadmus
         "Fitz Hugh" Carnot Ezra Wilton Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
          Denis edouard Elie ettiene Eugene Felicien Felix Fernand
-        François Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+        Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
          Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
         Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry
         }
@@ -2619,7 +2628,7 @@ american_cultures = {
         Jonas Frank Charles Peter Rand Leslie Howard Malvin Oscar Henry Simon Edward Gideon Isaac Evander Jerome Alfred Cadmus
         "Fitz Hugh" Carnot Ezra Wilton Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
         Daniel Denis edouard Elie ettiene Eugene Felicien Felix Fernand
-        François Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+        Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
          Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
         Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas
         }
@@ -2898,7 +2907,7 @@ new_world_french = {
         color = {230 250 255}
         first_names = { Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
         Charles Daniel Denis edouard Elie ettiene Eugene Felicien Felix Fernand
-        François Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+        Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
         Joseph Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
         Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
 
@@ -3061,7 +3070,7 @@ south_american_cultures = {
         }
 
         last_names = { Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
-        "da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+        "da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Braganca" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
         "de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
         Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
         Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
@@ -3077,7 +3086,7 @@ south_american_cultures = {
         }
 
         last_names = { Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
-        "da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+        "da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Braganca" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
         "de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
         Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
         Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
@@ -3093,7 +3102,7 @@ south_american_cultures = {
         }
 
         last_names = { Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
-        "da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+        "da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Braganca" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
         "de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
         Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
         Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
@@ -3167,14 +3176,14 @@ african_diaspora_cultures = {
         Felix Francisco Guilherme Itamar João Joaquim Jorge Jose Kleber Leandro
         Luís Manuel Marco Marcos Maurício Mauro Nilo Procópio Ricardo Ronaldo }
 
-        last_names = { Aragão Assunçao Bahia Barbosa Borges "de Cruz e Sousa" "da Lima" "de Lima Barreto" "de Ouro" "de Sousa"
+        last_names = { Aragão Assuncao Bahia Barbosa Borges "de Cruz e Sousa" "da Lima" "de Lima Barreto" "de Ouro" "de Sousa"
         "de Souza" "dos Reis" "dos Santos" Fidalgo Filho Gil Gomes "Machado de Assis" Nunes Oliveira
-        Otelo Paim Pandeiro Peçanha Pereira Pitanga Rodrigues Santos Silva Teixeira }
+        Otelo Paim Pandeiro Pecanha Pereira Pitanga Rodrigues Santos Silva Teixeira }
     }
     afro_antillean = {
         color = {24 44 49}
         first_names = { Alexis Andre Antenor Antoine Augustin Balthazar Beaubrun Celigny Charlemagne Charles
-            Cincinnatus Dantes Demesvar Denys Emmanuel Eugene Fabre Faustin Florvil François
+            Cincinnatus Dantes Demesvar Denys Emmanuel Eugene Fabre Faustin Florvil Francois
             Guillaume Hannibal Henri Jacques Jean Jean-Baptiste Jean-Louis Jean-Pierre Jonathas Joseph
             Leon Louis Louis-Eugene Louis-Joseph Lysius Michel Monpoint Nissage Nord Oreste
             Philippe Pierre Simon Stenio Sylvain Tandrede Thomas Timoleón Tiresias Vilbrum }
@@ -3188,7 +3197,7 @@ african_diaspora_cultures = {
     kreol = {
         color = { 63 32 10 }
         first_names = { Alexis Andre Antenor Antoine Augustin Balthazar Beaubrun Celigny Charlemagne Charles
-            Cincinnatus Dantes Demesvar Denys Emmanuel Eugene Fabre Faustin Florvil François
+            Cincinnatus Dantes Demesvar Denys Emmanuel Eugene Fabre Faustin Florvil Francois
             Guillaume Hannibal Henri Jacques Jean Jean-Baptiste Jean-Louis Jean-Pierre Jonathas Joseph
             Leon Louis Louis-Eugene Louis-Joseph Lysius Michel Monpoint Nissage Nord Oreste
             Philippe Pierre Simon Stenio Sylvain Tandrede Thomas Timoleón Tiresias Vilbrum }

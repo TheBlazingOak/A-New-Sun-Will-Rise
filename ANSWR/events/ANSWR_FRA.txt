@@ -4,16 +4,26 @@ country_event = {
 	id = 224000
 	title = "EVTNAME224000"
     desc = "EVTDESC224000"
-    picture = autocracy
+    picture = chile_peru_bolivia_treaty
 
     mean_time_to_happen = { months = 12 }
 
     trigger = {
-        OR = { has_country_flag = embraced_nobility has_country_flag = embraced_unity}
+        OR = { has_country_flag = embraced_nobility has_country_flag = embraced_unity }
+        NOT = { has_country_flag = dzayer_claims}
+        ALD = { exists = yes }
+        year = 2856
     }
 
     option = {
     name = "EVTOPTA224000"
+    set_country_flag = dzayer_claims
+    war = {
+            target = ALD
+            attacker_goal = { casus_belli = establish_protectorate_casus_belli }
+            defender_goal = { casus_belli = status_quo }
+            call_ally = yes
+        }
     }
 }
 country_event = {

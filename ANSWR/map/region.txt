@@ -30,9 +30,9 @@ CAN_65 = { 65 45 1491 1087 61 } #Quebec Proper
 
 CAN_60 = { 9 59 2593 2626 2592 76 2625 62 1107 } #Upper Quebec
 
-ENG_68 = { 68 69 70 71 72 73 66 67 } #Maritimes
+ENG_68 = { 68 69 66 67 250 } #Martimes
 
-#ENG_74 = {  } #Newfoundland
+CAN_71 = { 70 71 72 73 } #Halifaxe
 
 QUE_75 = { 75 74 77 }#New-Kouderhagen
 
@@ -108,7 +108,7 @@ USA_232 = { 232 234 235 236 237 238 239 240 3355 } #New York
 
 USA_243 = { 244 245 241 242 233 } #Hartsford
 
-USA_247 = { 247 246 248 249 250 203 } #New England
+USA_247 = { 247 246 248 249 203 } #New England
 
 
 ### United Kingdom
@@ -305,9 +305,9 @@ AUS_625 = { 625 626 627 628 629 630 } #Bohemia
 
 AUS_627 = { 688 632 689 2584 631 } #Lower Silesia
 
-AUS_633 = { 633 634 635 636 } #Slovakia
+AUS_633 = { 633 634 635 636 637 638 704 } #Slovakia
 
-NIT_637 = { 637 638 704 } #Bohatéhory
+#NIT_637 = { } #Bohatéhory
 
 NIT_714 = { 953 951 662 950 } #Bohatéhory
 

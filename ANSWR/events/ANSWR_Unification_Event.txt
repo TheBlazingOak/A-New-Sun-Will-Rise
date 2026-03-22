@@ -546,3 +546,35 @@ country_event = {
         set_country_flag = borgar_conquest
     }
 }
+##Rajastan Formation Event
+country_event = {
+
+    id = 52210
+    title = "EVTNAME52210" #Borgar Migrations
+    desc = "EVTDESC52210"
+    trigger = {
+        is_culture_group = north_indian
+        RJS = { exists = no }
+        military_score = 20
+        NOT = { country_flag = formed_rajastan }
+    }
+
+    mean_time_to_happen = { months = 24 }
+
+    option = {
+        name = "EVT52210OPTA" #Yes
+        all_core = { limit = { is_core = THIS } remove_core = THIS }
+        change_tag = RJS
+        prestige = 10
+        ENG_1236 = { add_core = RJS }
+        DEL_1236 = { add_core = RJS }
+        ENG_1264 = { add_core = RJS }
+        IND_1290 = { add_core = RJS }
+        PAN_1227 = { add_core = RJS }
+        NEP_1327 = { add_core = RJS }
+        NEP_1326 = { add_core = RJS }
+        NEP_1329 = { add_core = RJS }
+        add_accepted_culture = union
+        set_country_flag = formed_rajastan
+    }
+}

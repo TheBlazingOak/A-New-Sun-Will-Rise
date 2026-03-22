@@ -528,7 +528,7 @@ country_event = {
     option = {
         name = "EVTOPTA65531"
         2106 = { trade_goods = precious_metal change_province_name = "Greenburg"}
-        TRN_2108 = { add_province_modifier { name = small_immigration_boom duration = 1825 } }
+        TRN_2108 = { add_province_modifier = { name = small_immigration_boom duration = 1825 } }
         set_country_flag = greenburg
     }
 }

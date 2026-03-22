@@ -206,7 +206,7 @@
     serfs = {
         culture = ukrainian
         religion = orthodox
-        size = 85650
+        size = 45650
     }
 
     clergymen = {
@@ -224,13 +224,13 @@
     soldiers = {
         culture = slovak
         religion = catholic
-        size = 175
+        size = 6175
     }
 
     farmers = {
         culture = slovak
         religion = catholic
-        size = 15825
+        size = 85825
     }
 
     aristocrats = {
@@ -260,103 +260,7 @@
     farmers = {
         culture = hungarian
         religion = catholic
-        size = 35725
-    }
-
-    clergymen = {
-        culture = hungarian
-        religion = protestant
-        size = 400
-    }
-
-    artisans = {
-        culture = hungarian
-        religion = protestant
-        size = 2250
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = protestant
-        size = 400
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = protestant
-        size =  38950
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 800
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 3075
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = south_german
-        religion = catholic
-        size = 875
-    }
-
-    clergymen = {
-        culture = romanian
-        religion = orthodox
-        size = 125
-    }
-
-    artisans = {
-        culture = romanian
-        religion = orthodox
-        size = 750
-    }
-
-    soldiers = {
-        culture = romanian
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = romanian
-        religion = orthodox
-        size = 13975
+        size = 65725
     }
 }
 #Galicia Region (2576000) #see Poland.txt for balance of region
@@ -546,51 +450,27 @@
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+        culture = slovak
+        religion = catholic
+        size = 1100
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1400
+        culture = slovak
+        religion = catholic
+        size = 8100
     }
 
     soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+        culture = slovak
+        religion = catholic
+        size = 3100
     }
 
     farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 5475
-    }
-
-    clergymen = {
-        culture = south_german
+        culture = slovak
         religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = south_german
-        religion = catholic
-        size = 920
+        size = 32920
     }
 }
 #Ternopil (1136000/284000 POPS) #now part of Ukraine
@@ -718,51 +598,27 @@
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+        culture = slovak
+        religion = catholic
+        size = 800
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1400
+        culture = slovak
+        religion = catholic
+        size = 11100
     }
 
     soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+        culture = slovak
+        religion = catholic
+        size = 3000
     }
 
     farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 5475
-    }
-
-    clergymen = {
-        culture = south_german
+        culture = slovak
         religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = south_german
-        religion = catholic
-        size = 920
+        size = 41920
     }
 }
 #Volhynia-Podolia Region (1892000)

@@ -196,7 +196,17 @@
     artisans = {
         culture = slovak
         religion = catholic
-        size = 3500
+        size = 11500
+    }
+    artisans = {
+        culture = slovak
+        religion = catholic
+        size = 11500
+    }
+    artisans = {
+        culture = slovak
+        religion = catholic
+        size = 11500
     }
 
     craftsmen = {
@@ -220,13 +230,13 @@
     farmers = {
         culture = slovak
         religion = catholic
-        size = 60300
+        size = 90300
     }
 
     serfs = {
         culture = slovak
         religion = catholic
-        size = 102000
+        size = 122000
     }
 
     clergymen = {

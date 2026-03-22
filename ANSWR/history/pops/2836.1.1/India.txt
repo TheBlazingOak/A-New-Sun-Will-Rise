@@ -691,21 +691,7 @@
         size = 2000
     }
 }
-#Andaman Islands (14000/3500 POPS)
-1320 = {
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 50
-    }
 
-    farmers = {
-        culture = asian_minor
-        religion = animist
-        size = 3400
-    }
-
-}
 
 #Orissa Region  (1588000)
 #Ruled by Britain 1836 (944000)
@@ -752,36 +738,6 @@
         culture = bihari
         religion = hindu
         size = 75150
-    }
-
-    aristocrats = {
-        culture = asian_minor
-        religion = animist
-        size = 225
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 200
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = animist
-        size = 1100
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = animist
-        size = 250
-    }
-
-    serfs = {
-        culture = asian_minor
-        religion = animist
-        size = 20000
     }
 
     clergymen = {
@@ -831,44 +787,8 @@
     farmers = {
         culture = oriya
         religion = hindu
-        size = 25900
+        size = 259000
     }
-
-    aristocrats = {
-        culture = asian_minor
-        religion = animist
-        size = 250
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 225
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = animist
-        size = 1050
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = animist
-        size = 250
-    }
-    farmers = {
-        culture = asian_minor
-        religion = animist
-        size = 11225
-    }
-
-    serfs = {
-        culture = asian_minor
-        religion = animist
-        size = 10000
-    }
-
 }
 
 #Under rule of Mewar 1836
@@ -1203,67 +1123,37 @@
     aristocrats = {
         culture = kanauji
         religion = hindu
-        size = 1100
+        size = 3100
     }
 
     bureaucrats = {
         culture = kanauji
         religion = hindu
-        size = 150
+        size = 350
     }
 
     clergymen = {
         culture = kanauji
         religion = hindu
-        size = 1100
+        size = 2100
     }
 
     artisans = {
         culture = kanauji
         religion = hindu
-        size = 4500
+        size = 14500
     }
 
     soldiers = {
         culture = kanauji
         religion = hindu
-        size = 1100
+        size = 8100
     }
 
     farmers = {
         culture = kanauji
         religion = hindu
-        size = 84350
-    }
-
-    aristocrats = {
-        culture = asian_minor
-        religion = animist
-        size = 700
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 750
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = animist
-        size = 1500
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = animist
-        size = 650
-    }
-
-    serfs = {
-        culture = asian_minor
-        religion = animist
-        size = 60000
+        size = 184350
     }
 
     clergymen = {
@@ -1301,13 +1191,13 @@
     clergymen = {
         culture = kanauji
         religion = hindu
-        size = 1300
+        size = 3300
     }
 
     artisans = {
         culture = kanauji
         religion = hindu
-        size = 4500
+        size = 11500
     }
 
     soldiers = {
@@ -1319,13 +1209,13 @@
     soldiers = {
         culture = kanauji
         religion = hindu
-        size = 1000
+        size = 6000
     }
 
     farmers = {
         culture = kanauji
         religion = hindu
-        size = 117600
+        size = 187600
     }
 
     clergymen = {
@@ -1344,36 +1234,6 @@
         culture = kanauji
         religion = sunni
         size = 1925
-    }
-
-    aristocrats = {
-        culture = asian_minor
-        religion = animist
-        size = 600
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 5050
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = animist
-        size = 1100
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = animist
-        size = 550
-    }
-
-    serfs = {
-        culture = asian_minor
-        religion = animist
-        size = 54000
     }
 
 }
@@ -1656,67 +1516,46 @@
     aristocrats = {
         culture = oriya
         religion = hindu
-        size = 850
+        size = 2850
     }
 
     clergymen = {
         culture = oriya
         religion = hindu
-        size = 800
+        size = 6800
     }
 
     artisans = {
         culture = oriya
         religion = hindu
-        size = 7000
+        size = 11000
     }
-
-    soldiers = {
-        culture = oriya
-        religion = hindu
-        size = 800
-    }
-
-    farmers = {
-        culture = oriya
-        religion = hindu
-        size = 70550
-    }
-
-    aristocrats = {
-        culture = asian_minor
-        religion = animist
-        size = 1250
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 1225
-    }
-
     artisans = {
-        culture = asian_minor
-        religion = animist
-        size = 3050
+        culture = oriya
+        religion = hindu
+        size = 11000
+    }
+    artisans = {
+        culture = oriya
+        religion = hindu
+        size = 11000
+    }
+    artisans = {
+        culture = oriya
+        religion = hindu
+        size = 11000
     }
 
     soldiers = {
-        culture = asian_minor
-        religion = animist
-        size = 1250
+        culture = oriya
+        religion = hindu
+        size = 9800
     }
 
     farmers = {
-        culture = asian_minor
-        religion = animist
-        size = 604225
-    }
-
-    serfs = {
-        culture = asian_minor
-        religion = animist
-        size = 50000
+        culture = oriya
+        religion = hindu
+        size = 470550
     }
 }
 #Bilaspur (672000/168000 POPS)
@@ -1724,67 +1563,46 @@
     aristocrats = {
         culture = oriya
         religion = hindu
-        size = 850
+        size = 4850
     }
 
     clergymen = {
         culture = oriya
         religion = hindu
-        size = 850
+        size = 2850
     }
 
     artisans = {
         culture = oriya
         religion = hindu
-        size = 5000
+        size = 15000
     }
-
-    soldiers = {
-        culture = oriya
-        religion = hindu
-        size = 1100
-    }
-
-    farmers = {
-        culture = oriya
-        religion = hindu
-        size = 74300
-    }
-
-    aristocrats = {
-        culture = asian_minor
-        religion = animist
-        size = 850
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 850
-    }
-
     artisans = {
-        culture = asian_minor
-        religion = animist
-        size = 3400
+        culture = oriya
+        religion = hindu
+        size = 15000
+    }
+    artisans = {
+        culture = oriya
+        religion = hindu
+        size = 15000
+    }
+    artisans = {
+        culture = oriya
+        religion = hindu
+        size = 15000
     }
 
     soldiers = {
-        culture = asian_minor
-        religion = animist
-        size = 850
+        culture = oriya
+        religion = hindu
+        size = 9100
     }
 
     farmers = {
-        culture = asian_minor
-        religion = animist
-        size = 50050
-    }
-
-    serfs = {
-        culture = asian_minor
-        religion = animist
-        size = 30000
+        culture = oriya
+        religion = hindu
+        size = 174300
     }
 }
 #Under rule of Hyderabad 1836
@@ -1880,25 +1698,25 @@
     clergymen = {
         culture = oriya
         religion = hindu
-        size = 650
+        size = 1650
     }
 
     artisans = {
         culture = oriya
         religion = hindu
-        size = 3000
+        size = 13000
     }
 
     soldiers = {
         culture = oriya
         religion = hindu
-        size = 1000
+        size = 6000
     }
 
     farmers = {
         culture = oriya
         religion = hindu
-        size = 58400
+        size = 158400
     }
 
     clergymen = {
@@ -1917,42 +1735,6 @@
         culture = oriya
         religion = sunni
         size = 4500
-    }
-
-    aristocrats = {
-        culture = asian_minor
-        religion = animist
-        size = 400
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 350
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = animist
-        size = 1100
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = animist
-        size = 400
-    }
-
-    farmers = {
-        culture = asian_minor
-        religion = animist
-        size = 10000
-    }
-
-    serfs = {
-        culture = asian_minor
-        religion = animist
-        size = 24000
     }
 }
 #Under Native Rule 1836

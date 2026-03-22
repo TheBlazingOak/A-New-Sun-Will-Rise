@@ -112,7 +112,7 @@ country_event = {
     trigger = {
         tag = PAW
         year = 2844
-        ANM = { exists = yes } }
+        ANM = { exists = yes }
         has_country_flag = inner_rustica
         NOT = { has_country_flag = yooper_core }
     }

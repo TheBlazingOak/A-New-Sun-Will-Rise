@@ -1,7 +1,6 @@
 owner = NET
 controller = NET
 add_core = ORI
-add_core = HND
 trade_goods = precious_goods
 life_rating = 32
 fort = 1
