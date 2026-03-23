@@ -58,3 +58,7 @@ transport_improv = yes_transport_improv
 #Starting Consciousness
 consciousness = 1
 
+# Technologies
+clipper_design = 1
+steamers = 1
+experimental_railroad = 1

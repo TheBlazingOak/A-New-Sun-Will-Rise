@@ -52,3 +52,6 @@ nonstate_consciousness = 1
 
 firearms_production = yes_firearms_production
 land_reform = yes_land_reform
+
+# Technologies
+guild_based_production = 1
