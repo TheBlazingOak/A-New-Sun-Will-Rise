@@ -2730,50 +2730,6 @@
 #Savoy Region (486800)
 ##Sardinian until 1860
 #Provence Region (1268400)
-#Marseilles (384800/96200 POPS)
-467 = {
-    aristocrats = {
-        culture = occitan
-        religion = the_broken
-        size = 3900
-    }
-
-    officers = {
-        culture = occitan
-        religion = the_broken
-        size = 25
-    }
-
-    bureaucrats = {
-        culture = occitan
-        religion = the_broken
-        size = 30
-    }
-
-    clergymen = {
-        culture = occitan
-        religion = the_broken
-        size = 500
-    }
-
-    artisans = {
-        culture = occitan
-        religion = the_broken
-        size = 3000
-    }
-
-    soldiers = {
-        culture = occitan
-        religion = the_broken
-        size = 500
-    }
-
-    farmers = {
-        culture = occitan
-        religion = the_broken
-        size = 18400
-    }
-}
 #Avignon (243600/60900 POPS)
 468 = {
     aristocrats = {

@@ -726,12 +726,17 @@
     farmers = {
         culture = swiss
         religion = vitalic
-        size = 64050
+        size = 44050
     }
     craftsmen = {
         culture = swiss
         religion = vitalic
         size = 10500
+    }
+    farmers = {
+        culture = parish
+        religion = the_broken
+        size = 44600
     }
 }
 #Lons (314000/78500 POPS)
@@ -763,12 +768,17 @@
     farmers = {
         culture = swiss
         religion = vitalic
-        size = 42400
+        size = 32400
     }
     craftsmen = {
         culture = swiss
         religion = vitalic
         size = 25500
+    }
+    farmers = {
+        culture = parish
+        religion = the_broken
+        size = 47600
     }
 
 }
@@ -825,13 +835,13 @@
     soldiers = {
         culture = swiss
         religion = vitalic
-        size = 2100
+        size = 6100
     }
 
     farmers = {
         culture = swiss
         religion = vitalic
-        size = 823600
+        size = 52360
     }
     farmers = {
         culture = parish
@@ -971,6 +981,49 @@
         culture = swiss
         religion = vitalic
         size = 12000
+    }
+}
+#Marseilles (384800/96200 POPS)
+467 = {
+    aristocrats = {
+        culture = provencal
+        religion = vitalic
+        size = 1250
+    }
+
+    clergymen = {
+        culture = provencal
+        religion = vitalic
+        size = 1000
+    }
+
+    artisans = {
+        culture = provencal
+        religion = vitalic
+        size = 8500
+    }
+
+    soldiers = {
+        culture = provencal
+        religion = vitalic
+        size = 6350
+    }
+
+    farmers = {
+        culture = provencal
+        religion = vitalic
+        size = 62900
+    }
+
+    farmers = {
+        culture = swiss
+        religion = vitalic
+        size = 32000
+    }
+    farmers = {
+        culture = north_italian
+        religion = vitalic
+        size = 47025
     }
 }
 #Nice (Sardinian until 1860) (170800/42700 POPS)
