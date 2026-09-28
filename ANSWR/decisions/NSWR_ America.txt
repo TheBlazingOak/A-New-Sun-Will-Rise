@@ -5,11 +5,12 @@ political_decisions = {
 	picture = map_new_brunswick
 		potential = {
 			exists = MRU
+			MRU = { ai = yes }
 			OR = { primary_culture = yankee primary_culture = french_canadian primary_culture = anglo_canadian }
 			}
 
 		allow = {
-			relation = { who = MRU value = 150 }
+			OR = { relation = { who = MRU value = 75 } MRU = { in_sphere = THIS } MRU = { alliance_with = THIS } }
 			prestige = 25
 			}
 

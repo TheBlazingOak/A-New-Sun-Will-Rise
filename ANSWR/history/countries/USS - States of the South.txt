@@ -6,6 +6,7 @@ government = democracy
 plurality = 5.0
 nationalvalue = nv_equality
 civilized = yes
+literacy = 0.50
 
 # Political reforms
 slavery = yes_slavery

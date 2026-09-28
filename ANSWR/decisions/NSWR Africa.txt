@@ -20,7 +20,6 @@ political_decisions = {
 			1712 = { add_core = THIS }
 			1710 = { add_core = THIS }
 			1702 = { add_core = THIS }
-			ALD_1718 = {remove_core = THIS}
 			set_country_flag = southern_expansion
 		}
 	}
@@ -59,24 +58,6 @@ political_decisions = {
 			TUN_1726 = { add_core = THIS } 
 			relation = { who = APU value = -200}
 			set_country_flag = dey_of_tunis
-		}
-	}
-	migration_into_sabbin_kasashe = {
-		alert = yes
-		picture = moroccan_partition
-		potential = {
-			tag = TRG
-			has_country_flag = tuareg_masakekaso
-			NOT = {has_country_flag = migration_into_sabbin_kasashe}
-		}
-		allow = {
-			prestige = 1
-			1805 = {owned_by = THIS}
-			}
-		effect = {
-			prestige = 3
-			FRA_1815 = { add_core = THIS } 
-			set_country_flag = migration_into_sabbin_kasashe
 		}
 	}
 	#Norkselkaap

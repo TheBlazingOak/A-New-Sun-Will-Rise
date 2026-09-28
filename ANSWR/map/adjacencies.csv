@@ -70,9 +70,9 @@ From;To;Type;Through;Data;Comment
 # European Straits
 #
 254;271;sea;2737;0;Irish Strait
-334;372;sea;2711;0;Öresund
-335;374;sea;2710;0;Bornholmsfärjan
-353;349;sea;2709;0;Öselsund
+334;372;sea;2711;0; resund
+335;374;sea;2710;0;Bornholmsf rjan
+353;349;sea;2709;0; selsund
 353;358;sea;2709;0;Strait of Riga
 372;373;sea;2711;0;Fyn-Sjaelland
 371;373;sea;2711;0;Fyn-Jylland
@@ -82,13 +82,6 @@ From;To;Type;Through;Data;Comment
 533;373;sea;2711;0;Guldborg-Odense
 375;378;sea;2722;0;Bay of Holland
 377;378;sea;2723;0;Dogger Bank
-467;431;sea;3326;0;Straits of Parii
-467;429;sea;3326;0;Straits of Parii
-424;418;sea;3325;0;Straits of Britanny
-441;440;sea;3326;0;Straits of Tours
-460;459;sea;3323;0;Cruce del Rio #Mont de Marsan to Pau
-463;457;sea;3323;0;Cruce del Rio #Foix to Carcassonne
-405;397;sea;3328;0;Sea of Picardy strait
 473;766;sea;2751;0;Sassari Strait
 826;824;sea;2764;0;Corfu Strait
 826;853;sea;2764;0;Corfu Strait
@@ -112,7 +105,26 @@ From;To;Type;Through;Data;Comment
 #301;400;sea;2724;0;UK - France Strait
 291;292;land;2732;0;Ipswich Cambridge
 280;269;sea;3289;0;Newcastle Edinburgh
-
+427;425;land;3328;0;Parii-Melun
+408;425;land;3328;0;Parii-Chalons
+426;425;land;3328;0;Parii-Chartres
+415;425;land;3328;0;Parii-Rouen
+401;425;land;3328;0;Parii-Arras
+408;403;land;3328;0;Chalons-Laon
+404;403;land;3328;0;Cambrai-Laon
+401;403;land;3328;0;Arras-Laon
+404;403;land;3328;0;Cambrai-Arras
+401;408;land;3328;0;Chalons-Arras
+417;415;land;3328;0;Rouen-Alencon
+418;419;sea;2725;0;Channel Isles-Caen
+421;419;sea;2725;0;Channel Isles-St Brieuc
+369;370;sea;2721;0;Kiel-Vlensburg
+369;530;sea;2721;0;Kiel-Lubeeck
+369;528;sea;2721;0;Kiel-Hamburg
+307;338;land;2705;0;Overforingen-Tornio
+307;321;land;2705;0;Overforingen-Lulea
+437;434;land;2728;0;La Roche-Poitiers
+532;528;land;2721;0;Luumburg-Hamburg
 #
 # Asian Straits
 #

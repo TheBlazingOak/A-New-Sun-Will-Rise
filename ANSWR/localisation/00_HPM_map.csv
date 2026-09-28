@@ -476,7 +476,7 @@ ENG_258;Connacht;;;;;;;;;;;;x
 ENG_263;Leinster;;;;;;;;;;;;x
 SWE_322;Stockholm;;;;;;;;;;;;x
 SWE_329;Göteborg;;;;;;;;;;;;x
-SWE_334;Malm?;;;;;;;;;;;x
+SWE_334;Malmo;;;;;;;;;;;x
 RUS_343;Helsinki;;;;;;;;;;;;x
 RUS_345;Turku;;;;;;;;;;;;x
 RUS_360;Lithuania;;;;;;;;;;;;x
@@ -492,7 +492,14 @@ HAN_534;Upper Vlansia;;;;;;;;;;;;x
 HAN_540;Friesland;;;;;;;;;;;;x
 PRU_575;Rijnland;;;;;;;;;;;;x
 PRU_578;Ostrheinland;;;;;;;;;;;;x
-FRA_412;Elsass;;;;;;;;;;;;x
+FRA_412;Elzas;;;;;;;;;;;;x
+FRA_413;Lorraine;;;;;;;;;;;;x
+FRA_429;Upper Burgundy;;;;;;;;;;;;x
+SWI_433;Niederburgund;;;;;;;;;;;;x
+FRA_435;Orleans;;;;;;;;;;;;x
+FRA_425;Iles de France;;;;;;;;;;;;x
+PROV428;Nevers;;;;;;;;;;;;x
+PROV429;Parc Nationale;;;;;;;;;;;;x
 PROV2338;Fagal;;;;;;;;;;;;x
 PROV693;Elbag;;;;;;;;;;;;x
 PROV694;Zalewo;;;;;;;;;;;;x
@@ -943,11 +950,11 @@ PROV3282;Lake Pyhäjärvi;;;;;;;;;;;;x
 PROV3283;Lake Geneva;;;;;;;;;;;x
 PROV3284;Lake Constance;;;;;;;;;;;x
 PROV906;As-Suwayda;;;;;;;;;;;x
-PROV3328;Sea of Picardy;;;;;;;;;;;x
-PROV3324;The Metz Gulf;;;;;;;;;;;x
-PROV3325;Strait of Britanny;;;;;;;;;;;x
-PROV3326;Straits of Parii;;;;;;;;;;;x
-PROV3327;Straits of Savoie;;;;;;;;;;;x
+PROV3328;Straits of Parii;;;;;;;;;;;x
+PROV3324;Lake Lorraine;;;;;;;;;;;x
+PROV3325;Lake Vättern;;;;;;;;;;;x
+PROV3326;Lake Mans;;;;;;;;;;;x
+PROV3327;Lake Normandie;;;;;;;;;;;x
 NET_1413;West Kerajaan;;;;;;;;;;;;x
 PROV1413;Jakarta;;;;;;;;;;;;x
 NET_375;Kwijtplaats;;;;;;;;;;;;x
@@ -955,9 +962,9 @@ NET_385;Hartlands;;;;;;;;;;;;x
 PROV425;Parii;;;;;;;;;;;;x
 PROV625;Praha;;;;;;;;;;;;x
 PROV619;Wien;;;;;;;;;;;;x
-FRA_409;Elsàss;;;;;;;;;;;;x
-FRA_411;Lothrìnga;;;;;;;;;;;;x
-PROV3323;Cruce del Río;;;;;;;;;;;;x
+FRA_409;Elzas;;;;;;;;;;;;x
+FRA_411;Lorraine;;;;;;;;;;;;x
+PROV3323;Lake Chinian;;;;;;;;;;;;x
 PROV2714;Ladoga Salmi;;;;;;;;;;;;x
 PROV400;Kouderstad;;;;;;;;;;;;x
 PROV3315;Segozero;;;;;;;;;;;;x
@@ -1007,13 +1014,13 @@ PROV390;Antwerpen;;;;;;;;;;;;x
 PROV371;Abenrade;;;;;;;;;;;;x
 PROV530;Lubeeck;;;;;;;;;;;;x
 PROV536;Brunswyck;;;;;;;;;;;;x
-PROV531;Stêd;;;;;;;;;;;;x
+PROV531;Sted;;;;;;;;;;;;x
 PROV367;Aalsburg;;;;;;;;;;;;x
 PROV532;Luumburg;;;;;;;;;;;;x
 PROV2557;Ysberg;;;;;;;;;;;;x
 PROV370;Vlensburg;;;;;;;;;;;;x
 PROV535;Negenburg;;;;;;;;;;;;x
-PROV539;Breem;;;;;;;;;;;;x
+PROV539;Vlanstaad;;;;;;;;;;;;x
 PROV45;Saguenay;;;;;;;;;;;;x
 PROV2357;Porlamar;;;;;;;;;;;;x
 PROV57;Ottawa;;;;;;;;;;;;x
@@ -1022,7 +1029,7 @@ PROV941;Novialiki;;;;;;;;;;;;x
 PROV948;Varyjaca;;;;;;;;;;;;x
 PROV942;Liepšaraka;;;;;;;;;;;;x
 PROV718;Raskol;;;;;;;;;;;;x
-PROV348;Hjørring;;;;;;;;;;;;x
+PROV348;Hjørring Isles;;;;;;;;;;;;x
 PROV307;Överföringen;;;;;;;;;;;;x
 PROV533;Guldborgsund;;;;;;;;;;;;x
 PROV605;Bärn;;;;;;;;;;;;x
@@ -1115,6 +1122,12 @@ PROV2463;Porso da Legra;;;;;;;;;;;;x
 PROV2464;Menharia;;;;;;;;;;;;x
 PROV2466;Fitasao;;;;;;;;;;;;x
 PROV2467;Federicopolis;;;;;;;;;;;;x
+ALQ_1735;Alqarasina;;;;;;;;;;;;x
+GAB_2573;Port Arthur;;;;;;;;;;;;x
+FRA_1923;Shendu;;;;;;;;;;;;x
+ENG_1956;Filayen;;;;;;;;;;;;x
+FRA_1930;Benkudu;;;;;;;;;;;;x
+PROV1928;Benkudu;;;;;;;;;;;;x
 PROV2345;Sertanhia;;;;;;;;;;;;x
 PROV2347;Uruquia d-at-l Nuri;;;;;;;;;;;;x
 PROV2344;Uruquia d-at-l Seria;;;;;;;;;;;;x
@@ -1598,3 +1611,42 @@ PROV2137;Albertsins;;;;;;;;;;;;;;;;;;;;;;;x
 PROV202;Davison City;;;;;;;;;;;;;;;;;;;;;;;x
 PROV218;Stonewall;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1465;Ulaanbaatar;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2722;The Koudrel Coast;;;;;;;;;;;;;;;;;;;;;;;x
+PROV369;Kiel Isles;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV373;Odense;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV540;Oldenburg;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV534;Hanover;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV543;Emden;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV580;Dortmund;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV455;Toulouse;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV463;Carcassonne;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV468;Avignon;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV453;Valence;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV454;Grenoble;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV459;Mont de Marsan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV444;Saintes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV446;Châteauroux;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV432;Besançon;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV408;Meaux;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV404;Ile d'Amiens;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV403;Ile d'Roye;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV401;Aumale;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV405;Reims;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV417;Lisieux;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV403;Laon;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV391;Hasselt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2570;Vesoul;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV426;Chartres;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV416;Dijon;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV423;Rennes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV424;Rance-Cote;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV440;Tours;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV441;Parc Brenne;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV442;Limouges;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV434;Poitiers;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV443;Angoulême;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV445;Nontron;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV447;St Astiers;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+PROV458;Nouvelle Bordeaux;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+POR_1999;North Barbaro;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+POR_2003;South Barbaro;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

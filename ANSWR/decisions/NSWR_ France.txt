@@ -83,63 +83,6 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
-    #PRP wins Parish civil war
-    parish_republic_victory = {
-    picture = france_liberty
-        potential = {
-        tag = PRP
-        418 = { owned_by = DPA }
-        NOT = { has_country_flag = pars_republic_victory }
-        }
-
-        allow = {
-            war = no
-            418 = { owned_by = PRP }
-            NOT = {
-                exists = DPA
-            }
-        }
-
-        effect = {
-            prestige = 20
-            405 = { add_core = PRP }
-            FRA_418 = { remove_core = DPA }
-            FRA_435 = { remove_core = DPA }
-            FRA_399 = { remove_core = DPA }
-            FRA_400 = { remove_core = DPA }
-            FRA_425 = { remove_core = DPA }
-            set_country_flag = pars_republic_victory
-        }
-        ai_will_do = { factor = 1 }
-    }
-
-    #DPA wins Parish civil war
-    parish_duchy_victory = {
-    picture = war_propaganda_france
-        potential = {
-        tag = DPA
-        425 = { owned_by = THIS }
-        NOT = { has_country_flag = pars_duchy_victory }
-        }
-
-        allow = {
-            war = no
-            425 = { owned_by = THIS}
-            NOT = { exists = PRP }
-        }
-
-        effect = {
-            prestige = 10
-            capital = 425
-            FRA_400 = { remove_core = PRP }
-            FRA_425 = { remove_core = PRP }
-            FRA_418 = { remove_core = PRP }
-            FRA_435 = { remove_core = PRP }
-            FRA_399 = { remove_core = PRP }
-            set_country_flag = pars_duchy_victory
-        }
-        ai_will_do = { factor = 1 }
-    }
     #####################################
     ## FRANCE UNIFIED FLAVOR AND CHAINS##
     #####################################
@@ -318,13 +261,34 @@ political_decisions = {
         set_global_flag = normandie_cloth
         prestige = 5
         treasury = -25000
-        418 = { trade_goods = cotton }
-        416 = { trade_goods = dye }
+        418 = { trade_goods = silk }
         415 = { trade_goods = cotton }
-        417 = { trade_goods = silk }
         FRA_418 = { add_province_modifier = { name = baby_boom duration = 1825 } }
         }
     }
 
+    a_metal_monalith = {
+        picture = build_the_eiffel_tower
+        potential = {
+            tag = FRE
+            NOT = {
+                has_country_flag = the_eiffel_tower_was_built
+            }
+        }
+
+        allow = {
+            war = no
+            invention = bessemer_steel
+            OR = {
+                money = 30000
+                ai = yes
+            }
+        }
+
+        effect = {
+            country_event = 224005
+            set_country_flag = the_eiffel_tower_was_built
+        }
+    }
 #End of political_decisions brackets    
 }

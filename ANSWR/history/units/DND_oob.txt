@@ -1,3 +1,4 @@
+NET = { value = 200}
 DAM = {
     value = -50
 }
@@ -24,16 +25,18 @@ MOS = { value = -200 }
 ASH = { value = -200 }
 
 army = {
-    name = "Army of the Dendi Kingdom"
-    location = 1808
+    name = "Provisional Armee of Grandeote"
+    location = 1883
 regiment = {
-        name= "Askiya's Cavalry"
+        name= "Grandeote Cavalry"
     type = cavalry
-        home = 1808    }
+        home = 1883    
+        }
 
 
 regiment = {
-        name= "Songhai Warriors"
+        name= "Grandeote Warriors"
         type = irregular
-    home = 1805    }
+        home = 1883   
+        }
 }

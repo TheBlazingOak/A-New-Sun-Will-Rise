@@ -4,7 +4,6 @@ infantry = {
 	type = land
 	sprite = Infantry
 	active = no
-	is_accepted_culture = yes
 	unit_type = infantry
 	floating_flag = no
 	

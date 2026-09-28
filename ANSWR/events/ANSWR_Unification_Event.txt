@@ -359,38 +359,6 @@ country_event = {
         THIS = { country_event = { id = 52007 days = 0} }
     }
 }
-###El Jardin Unification
-country_event = {
-
-    id = 52118
-    title = "EVTNAME52118" #Prosperity for El Jardin!
-    desc = "EVTDESC52118"
-    is_triggered_only = yes
-    fire_only_once = yes
-
-    option = {
-        name = "EVT52006OPTA" #Yay!
-        FROM = {
-        inherit = THIS
-        }
-        all_core = { remove_core = THIS add_core = JAR }
-    }
-}
-country_event = {
-
-    id = 52119
-    title = "EVTNAME52119" #Prosperity for El Jardin!
-    desc = "EVTDESC52119"
-    major = yes
-    is_triggered_only = yes
-    fire_only_once = yes
-
-    option = {
-        name = "EVT52119OPTA" #To a new era
-        change_tag = JAR
-        prestige = 10
-    }
-}
 ###Istoslavia
 country_event = {
 

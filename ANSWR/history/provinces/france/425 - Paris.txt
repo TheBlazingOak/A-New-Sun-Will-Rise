@@ -1,7 +1,6 @@
-owner = PRP
-controller = PRP
+owner = DPA
+controller = DPA
 add_core = DPA
-add_core = PRP
 add_core = FRE
 trade_goods = grain
 life_rating = 31

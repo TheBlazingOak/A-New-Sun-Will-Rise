@@ -121,8 +121,13 @@ political_decisions = {
 
         allow = {
             prestige = 15
-            AUS_623 = { owned_by = HUN } 
-            AUS_641 = { owned_by = GLC }
+            OR = {
+            AND = { AUS_623 = { owned_by = HUN } 
+            AUS_641 = { owned_by = GLC } }
+            AND = { AUS_623 = { owned_by = THIS } 
+            AUS_641 = { owned_by = THIS } }
+            }
+            
             }
 
         effect = {
@@ -166,7 +171,7 @@ political_decisions = {
             }
 
         effect = {
-            AUS_657 = { add_core = THIS }
+            #AUS_657 = { add_core = THIS }
             AUS_654 = { add_core = THIS }
             set_country_flag = nit_fourth_brother_3
         }
@@ -187,6 +192,58 @@ political_decisions = {
             set_country_flag = brno_claim
         }
     }
+    praha_core = {
+        potential = {
+            tag = NIT
+            has_country_flag = nit_fourth_brother 
+            NOT = { has_country_flag = praha_claim }
+        }
+
+        allow = {
+            AUS_625 = { owned_by = THIS }
+            }
+
+        effect = {
+            AUS_625 = { add_core = THIS }
+            set_country_flag = praha_claim
+        }
+    }
+    silesia_core = {
+        potential = {
+            tag = NIT
+            has_country_flag = nit_fourth_brother 
+            NOT = { has_country_flag = silesia_claim }
+        }
+
+        allow = {
+            PRU_682 = { owned_by = THIS }
+            }
+
+        effect = {
+            PRU_682 = { add_core = THIS }
+            set_country_flag = silesia_claim
+        }
+    }
+    cislav_culture = {
+        potential = {
+            tag = NIT
+            has_country_flag = brno_claim
+            NOT = { has_country_flag = cislav_incorporated }
+        }
+
+        allow = { 
+            nationalism_n_imperialism = 1
+            PRU_682 = { owned_by = THIS }
+            AUS_625 = { owned_by = THIS }
+            AUS_627 = { owned_by = THIS }
+            }
+
+        effect = {
+            prestige = 10
+            add_accepted_culture = czech
+            set_country_flag = cislav_incorporated
+        }
+    }
 
     istoslav_claims = {
         potential = {
@@ -196,7 +253,6 @@ political_decisions = {
         }
 
         allow = {
-            AUS_657 = { owned_by = THIS }
             AUS_654 = { owned_by = THIS }
             AUS_623 = { owned_by = THIS } 
             AUS_641 = { owned_by = THIS }
@@ -208,6 +264,66 @@ political_decisions = {
             AUS_771 = { add_core = THIS }
             AUS_780 = { add_core = THIS }
             set_country_flag = istoslav_claims
+        }
+    }
+    istoslav_claims_2 = {
+        potential = {
+            tag = NIT
+            has_country_flag = istoslav_claims 
+            NOT = { has_country_flag = istoslav_claims_2 }
+        }
+
+        allow = {
+            AUS_777 = { owned_by = THIS }
+            AUS_652 = { owned_by = THIS } 
+            }
+
+        effect = {
+            SER_794 = { add_core = THIS }
+            TUR_788 = { add_core = THIS }
+            MON_2582 = { add_core = THIS }
+            set_country_flag = istoslav_claims_2
+        }
+    }
+    istoslav_culture = {
+        potential = {
+            tag = NIT
+            has_country_flag = istoslav_claims 
+            NOT = { has_country_flag = istoslav_culture }
+        }
+
+        allow = { 
+            nationalism_n_imperialism = 1
+            SER_794 = { owned_by = THIS } 
+            TUR_788 = { owned_by = THIS } 
+            MON_2582 = { owned_by = THIS } 
+            AUS_777 = { owned_by = THIS }
+            AUS_652 = { owned_by = THIS } 
+            }
+
+        effect = {
+            prestige = 10
+            add_accepted_culture = serb
+            set_country_flag = istoslav_culture
+        }
+    }
+    slowenia_culture = {
+        potential = {
+            tag = NIT
+            has_country_flag = istoslav_claims 
+            NOT = { has_country_flag = slowenia_culture }
+        }
+
+        allow = { 
+            nationalism_n_imperialism = 1
+            AUS_771 = { owned_by = THIS }
+            AUS_780 = { owned_by = THIS }
+            }
+
+        effect = {
+            prestige = 10
+            add_accepted_culture = slovene
+            set_country_flag = slowenia_culture
         }
     }
 

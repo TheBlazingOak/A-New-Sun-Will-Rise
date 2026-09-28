@@ -1,5 +1,5 @@
-IST = { relation = -200 }
-BOR = { relation = -200 }
+IST = { value = -200 }
+BOR = { value = -200 }
 army = {
     name = "The Sultan's Army"
     location = 876

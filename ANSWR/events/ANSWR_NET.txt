@@ -86,7 +86,169 @@ country_event = {
 		months = 120
 	}
 }
+###############################
+##Vlanspublyk Partition Chain##
+###############################
+#Partition of the Vlanspublyk
+country_event = {
+    id = 222061
+    title = "EVTNAME222061"
+    desc = "EVTDESC222061"
+    
+    is_triggered_only = yes
 
+    option = {
+        name = "EVTOPTA222061"
+            war = {
+                target = VLA
+                attacker_goal = { casus_belli = make_puppet }
+                defender_goal = { casus_belli = status_quo }
+                call_ally = no
+            }
+            ai_chance = { chance = 100 }
+        }
+    option = {
+        name = "EVTOPTB222061"
+            prestige = 5
+            relation = { who = VLA value = 150}
+            ai_chance = { chance = 0 }
+        }
+}
+
+#Partition of the Vlanspublyk Successful
+country_event ={
+    id = 222062
+    title = "EVTNAME222062"
+    desc = "EVTDESC222062"
+    
+    trigger = {
+        tag = NET
+        VLA = { exists = yes }
+        VLA = { is_independent = no }
+        VLA = { vassal_of = THIS }
+        HAN_528 = { owned_by = VLA }
+        HAN_534 = { owned_by = VLA }
+        has_country_flag = vlansia_partition
+        NOT = { has_country_flag = vlansia_partition_completed }
+    }
+
+    mean_time_to_happen = { days = 7 }
+    #Partition Vlanspublyk
+    option = {
+        name = "EVTOPTA222062"
+            prestige = 5
+            HAN_528 = { secede_province = THIS }
+            HAN_534 = { secede_province = THIS }
+            HAN_528 = { add_core = THIS }
+            HAN_534 = { add_core = THIS }
+            relation = { who = SAP value = 100 }
+            SAP = { country_event = { id = 222063 } }
+            any_country ={
+				limit = { exists = yes OR = { tag = OUD tag = PRF } }
+				country_event = { id = 222064 }
+			}
+            set_country_flag = vlansia_partition_completed
+            ai_chance = { factor  = 100 }
+        }
+    #Keep Vlanspublyk as Puppet
+    option = {
+        name = "EVTOPTB222062"
+            prestige = -25
+            badboy =  = 15
+            HAN_528 = { secede_province = THIS }
+            HAN_534 = { secede_province = THIS }
+            HAN_528 = { add_core = THIS }
+            HAN_534 = { add_core = THIS }
+            relation = { who = SAP value = -200 }
+            SAP = { country_event = { id = 222066 } }
+			any_country ={
+				limit = { exists = yes OR = { tag = OUD tag = PRF } }
+				country_event = { id = 222065 }
+                relation = { who = NET value = -200 }
+			}
+            set_country_flag = vlansia_partition_completed
+            ai_chance = { factor  = 0 }
+        }
+}
+#Partition of the Vlanspublyk Skandi's Side
+country_event ={
+    id = 222063
+    title = "EVTNAME222063"
+    desc = "EVTDESC222063"
+    
+    is_triggered_only = yes
+
+    #Jylland
+    option = {
+        name = "EVTOPTA222063"
+            prestige = 5
+            DEN_367 = { secede_province = THIS }
+            DEN_367 = { add_core = THIS }
+            relation = { who = NET value = 25 }
+            any_country ={
+				limit = { exists = yes OR = { tag = OUD tag = PRF } }
+				country_event = { id = 222065 }
+                relation = { who = SAP value = 25 }
+			}
+        }
+}
+#Partition of the Vlanspublyk Oudrijk's Side
+country_event ={
+    id = 222064
+    title = "EVTNAME222064"
+    desc = "EVTDESC222064"
+    
+    is_triggered_only = yes
+
+    #Holstien
+    option = {
+        name = "EVTOPTA222064"
+            prestige = 5
+            HOL_369 = { secede_province = THIS }
+            HOL_369 = { add_core = THIS }
+            relation = { who = NET value = 25 }
+            relation = { who = SAP value = 25 }
+        }
+}
+#Partition of the Falls Through Vlanspublyk Skandi's Side
+country_event ={
+    id = 222065
+    title = "EVTNAME222065"
+    desc = "EVTDESC222065"
+    
+    is_triggered_only = yes
+
+    #Jylland
+    option = {
+        name = "EVTOPTA222065"
+            badboy = -5
+            DEN_367 = { add_core = THIS }
+            relation = { who = NET value = -200 }
+            any_country ={
+				limit = { exists = yes OR = { tag = OUD tag = PRF } }
+				country_event = { id = 222065 }
+                relation = { who = SAP value = 100 }
+			}
+        }
+}
+#Partition of the Falls through Vlanspublyk Oudrijk's Side
+country_event ={
+    id = 222066
+    title = "EVTNAME222066"
+    desc = "EVTDESC222066"
+    
+    is_triggered_only = yes
+
+    #Holstien
+    option = {
+        name = "EVTOPTA222066"
+            badboy = -5
+            HOL_369 = { add_core = THIS }
+            relation = { who = NET value = -200 }
+            relation = { who = SAP value = 100 }
+        }
+}
+##End of Chain##
 # Nieuw-Kouderhagen Purchase 1/3
 country_event = {
 	id = 52039
@@ -173,41 +335,29 @@ country_event = {
 		}
 	}
 }
-# Vlanisch War
+#Oudrijk claims
 country_event = {
 	id = 52042
 	title = "EVTNAME52042"
 	desc = "EVTDESC52042"
+	picture = "exemplar_colony"
 	trigger = {
-		year = 2860
-		exists = NET
-		exists = VLA
 		tag = NET
-		relation = {
-			who = VLA
-			value = -200
+		OR = {
+			has_global_flag = night_of_the_seventh
+			OUD = { exists = yes }
+			NUR = { exists = yes }
 		}
-		NOT = {
-			year = 2870
-			relation = {
-				who = VLA
-				value = 100
-			} 
-		}
+		NOT = { has_country_flag = vroljikbuit_claims }
 	}
 	mean_time_to_happen = {
-		months = 60
-        	modifier = {
-           		factor = 6
-            		NOT = { year = 2868 }
-		}
+		days = 7
 	}
+	
 	option = {
 		name = "EVTOPTA52042"
-		relation = {
-			who = VLA
-			value = -100
-		}
+		PRU_581 = { add_core = NET }
+		set_country_flag = vroljikbuit_claims
 	}
 }
 # Kerajaan Expedition Chain

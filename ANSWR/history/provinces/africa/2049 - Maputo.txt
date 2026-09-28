@@ -1,6 +1,6 @@
-owner = DAM
-controller = DAM
-add_core = DAM
+owner = NGR
+controller = NGR
+add_core = NGR
 trade_goods = fish
 terrain = plains
 life_rating = 35

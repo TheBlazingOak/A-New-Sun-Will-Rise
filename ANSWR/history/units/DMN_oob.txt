@@ -17,7 +17,7 @@ CAT = {
     value = -200
 }
 leader = {
-    name = "Prince Fabian II Damasco the Virtuous"
+    name = "Duke Fabian II Damasco"
     picture = european_general_25
     date = 2836.1.1
     type = land
@@ -26,7 +26,7 @@ leader = {
     prestige = 0.60
 }
 leader = {
-    name = "Prince Josep Damasco the Incompetent"
+    name = "Duke Josep Clavel"
     picture = european_general_21
     date = 2836.1.1
     type = land

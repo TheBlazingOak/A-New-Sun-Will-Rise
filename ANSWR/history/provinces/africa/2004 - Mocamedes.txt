@@ -1,5 +1,6 @@
 owner = SJR
 controller = SJR
+add_core = ANG
 terrain = plains
 trade_goods = fish
 life_rating = 35

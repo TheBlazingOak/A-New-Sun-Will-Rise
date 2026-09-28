@@ -1650,31 +1650,31 @@
 #Macon (536000/134000 POPS)
 431 = {
     aristocrats = {
-        culture = occitan
+        culture = parish
         religion = the_broken
         size = 1100
     }
 
     clergymen = {
-        culture = occitan
+        culture = parish
         religion = the_broken
         size = 900
     }
 
     artisans = {
-        culture = occitan
+        culture = parish
         religion = the_broken
         size = 5000
     }
 
     soldiers = {
-        culture = occitan
+        culture = parish
         religion = the_broken
         size = 1100
     }
 
     farmers = {
-        culture = occitan
+        culture = parish
         religion = the_broken
         size = 126000
     }
@@ -1946,31 +1946,31 @@
 #Tours (300000/75000 POPS)
 441 = {
     aristocrats = {
-        culture = occitan
+        culture = parish
         religion = the_broken
         size = 750
     }
 
     clergymen = {
-        culture = occitan
+        culture = parish
         religion = the_broken
         size = 450
     }
 
     artisans = {
-        culture = occitan
+        culture = parish
         religion = the_broken
         size = 8000
     }
 
     soldiers = {
-        culture = occitan
+        culture = parish
         religion = the_broken
         size = 1000
     }
 
     farmers = {
-        culture = occitan
+        culture = parish
         religion = the_broken
         size = 64800
     }
@@ -2331,117 +2331,6 @@
 
 }
 #Lyonnais-Dauphine Region (2588000)
-#Lyon (824000/206000 POPS)
-451 = {
-    aristocrats = {
-        culture = occitan
-        religion = the_broken
-        size = 2000
-    }
-
-    officers = {
-        culture = occitan
-        religion = the_broken
-        size = 700
-    }
-
-    bureaucrats = {
-        culture = occitan
-        religion = the_broken
-        size = 1650
-    }
-
-    capitalists = {
-        culture = occitan
-        religion = the_broken
-        size = 50
-    }
-
-    clerks = {
-        culture = occitan
-        religion = the_broken
-        size = 350
-    }
-
-    craftsmen = {
-        culture = occitan
-        religion = the_broken
-        size = 6500
-    }
-
-    clergymen = {
-        culture = occitan
-        religion = the_broken
-        size = 1500
-    }
-
-    artisans = {
-        culture = occitan
-        religion = the_broken
-        size = 26500
-    }
-
-    soldiers = {
-        culture = occitan
-        religion = the_broken
-        size = 2100
-    }
-
-    farmers = {
-        culture = occitan
-        religion = the_broken
-        size = 103600
-    }
-
-    #####Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    capitalists = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clerks = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 250
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1000
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 2800
-    }
-}
 #St Etienne (412000/103000 POPS)
 452 = {
     aristocrats = {
@@ -2637,67 +2526,52 @@
     aristocrats = {
         culture = occitan
         religion = the_broken
-        size = 1500
+        size = 6500
     }
-
     officers = {
         culture = occitan
         religion = the_broken
         size = 500
     }
-
     bureaucrats = {
         culture = occitan
         religion = the_broken
-        size = 1100
+        size = 2100
     }
-
     clergymen = {
         culture = occitan
         religion = the_broken
-        size = 1200
+        size = 5200
     }
-
     artisans = {
         culture = occitan
         religion = the_broken
         size = 10000
     }
-
     artisans = {
         culture = occitan
         religion = the_broken
         size = 10000
     }
-
     artisans = {
         culture = occitan
         religion = the_broken
         size = 10000
     }
-
     artisans = {
         culture = occitan
         religion = the_broken
-        size = 1100
+        size = 11100
     }
-
     soldiers = {
         culture = occitan
         religion = the_broken
-        size = 1600
+        size = 9600
     }
-
     farmers = {
         culture = occitan
         religion = the_broken
-        size = 80910
-    }
-
-    farmers = {
-        culture = occitan
-        religion = the_broken
-        size = 30510
+        size = 170910
     }
 }
 #Mont de Marsan (556000/139000 POPS)

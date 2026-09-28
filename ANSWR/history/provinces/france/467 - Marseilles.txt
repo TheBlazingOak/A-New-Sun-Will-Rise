@@ -1,6 +1,5 @@
-owner = AUV
-controller = AUV
-add_core = AUV
-add_core = FRE
+owner = SWI
+controller = SWI
+add_core = SWI
 trade_goods = fruit
 life_rating = 35

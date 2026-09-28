@@ -8,6 +8,12 @@ BOH = { value = 15 }
 AST = { value = 15 }
 NEN = { value = 15 }
 
+BRT = {
+    value = 200        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 50
+}
+
 leader = {
     name = "Arlo Hughes"
     picture = eng_gen_seaton

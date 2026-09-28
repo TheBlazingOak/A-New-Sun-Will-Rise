@@ -63,7 +63,7 @@ army = {
 }
 
 army = {
-    name = "II. Arm�e Populaire"
+    name = "II. Armee Populaire"
     location = 425
     regiment = {
         name= "I. Bataillon populaire"
@@ -99,7 +99,7 @@ army = {
 
 navy = {
     name = "Marine Rouges"
-    location = 439
+    location = 408
     ship = {
         name= "Couronne"
         type = manowar
@@ -126,12 +126,12 @@ navy = {
     }
 
     ship = {
-        name= "Trocadero�"
+        name= "Trocaderoe"
         type = manowar
     }
 
     ship = {
-        name= "Z�landais"
+        name= "Zelandais"
         type = manowar
     }
 

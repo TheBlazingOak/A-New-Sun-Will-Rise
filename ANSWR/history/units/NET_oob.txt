@@ -25,7 +25,7 @@ ANI = {
 
 BRT = {
     value = 180        #relation
-    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    level = 4        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 
@@ -34,6 +34,12 @@ ALS = {
     level = 5        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
+DPA = {
+    value = -25        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 50
+}
+
 
 army = {
     name = "Kuderhagen Leger"

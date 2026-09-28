@@ -1,6 +1,6 @@
 ###Jardin Flavor
 ##Coronation of the new emperor (Different variation for each country that forms the Jardin)##
-#Damasco Coronation
+#The Jardin Coronation
 country_event = {
     id = 55420
     title = "EVTNAME55420"
@@ -8,101 +8,66 @@ country_event = {
     fire_only_once = yes
     picture = BRZ_pedro_coronation
     trigger = {
-        has_country_flag = damasco_family
         tag = JAR
         NOT = { has_global_flag = jardin_emperor_crowned }
     }
 
     mean_time_to_happen = { months = 1 }
 
+    #Damasco Coronation
     option = {
         name = "EVT55420OPTA"
         prestige = 10
         set_global_flag = jardin_emperor_crowned
+        set_country_flag = damasco_family
+        add_country_modifier = {
+            name = damasco_family
+            duration = -1
+        }
     }
-}
-#Clavel Coronation
-country_event = {
-    id = 55421
-    title = "EVTNAME55421"
-    desc = "EVTDESC55421"
-    fire_only_once = yes
-    picture = BRZ_pedro_coronation
-    trigger = {
-        has_country_flag = clavel_family
-        tag = JAR
-        NOT = { has_global_flag = jardin_emperor_crowned }
-    }
-
-    mean_time_to_happen = { months = 1 }
-
+    #Clavel Coronation
     option = {
-        name = "EVT55420OPTA"
+        name = "EVT55420OPTB"
         prestige = 10
         set_global_flag = jardin_emperor_crowned
+        set_country_flag = clavel_family
+        add_country_modifier = {
+            name = clavel_family
+            duration = -1
+        }
     }
-}
-#Alfazema Coronation
-country_event = {
-    id = 55422
-    title = "EVTNAME55422"
-    desc = "EVTDESC55422"
-    fire_only_once = yes
-    picture = BRZ_pedro_coronation
-    trigger = {
-        has_country_flag = alfazema_family
-        tag = JAR
-        NOT = { has_global_flag = jardin_emperor_crowned }
-    }
-
-    mean_time_to_happen = { months = 1 }
-
+    #Alfazema Coronation
     option = {
-        name = "EVT55420OPTA"
+        name = "EVT55420OPTC"
         prestige = 10
         set_global_flag = jardin_emperor_crowned
+        set_country_flag = alfazema_family
+        add_country_modifier = {
+            name = alfazema_family
+            duration = -1
+        }
     }
-}
-#Dalia Coronation
-country_event = {
-    id = 55423
-    title = "EVTNAME55423"
-    desc = "EVTDESC55423"
-    fire_only_once = yes
-    picture = BRZ_pedro_coronation
-    trigger = {
-        has_country_flag = dalia_family
-        tag = JAR
-        NOT = { has_global_flag = jardin_emperor_crowned }
-    }
-
-    mean_time_to_happen = { months = 1 }
-
+    #Dalia Coronation
     option = {
-        name = "EVT55420OPTA"
+        name = "EVT55420OPTD"
         prestige = 10
         set_global_flag = jardin_emperor_crowned
+        set_country_flag = dalia_family
+        add_country_modifier = {
+            name = dalia_family
+            duration = -1
+        }
     }
-}
-#Lirlo Coronation
-country_event = {
-    id = 55424
-    title = "EVTNAME55424"
-    desc = "EVTDESC55424"
-    fire_only_once = yes
-    picture = BRZ_pedro_coronation
-    trigger = {
-        has_country_flag = lirlo_family
-        tag = JAR
-        NOT = { has_global_flag = jardin_emperor_crowned }
-    }
-
-    mean_time_to_happen = { months = 1 }
-
+    #Lirlo Coronation
     option = {
-        name = "EVT55420OPTA"
+        name = "EVT55420OPTE"
         prestige = 10
         set_global_flag = jardin_emperor_crowned
+        set_country_flag = lirlo_family
+        add_country_modifier = {
+            name = lirlo_family
+            duration = -1
+        }
     }
 }
 ##################

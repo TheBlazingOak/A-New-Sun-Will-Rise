@@ -772,6 +772,73 @@
     }
 
 }
+#Lyon (824000/206000 POPS)
+451 = {
+    aristocrats = {
+        culture = swiss
+        religion = vitalic
+        size = 2000
+    }
+
+    officers = {
+        culture = swiss
+        religion = vitalic
+        size = 700
+    }
+
+    bureaucrats = {
+        culture = swiss
+        religion = vitalic
+        size = 1650
+    }
+
+    capitalists = {
+        culture = swiss
+        religion = vitalic
+        size = 50
+    }
+
+    clerks = {
+        culture = swiss
+        religion = vitalic
+        size = 350
+    }
+
+    craftsmen = {
+        culture = swiss
+        religion = vitalic
+        size = 6500
+    }
+
+    clergymen = {
+        culture = swiss
+        religion = vitalic
+        size = 1500
+    }
+
+    artisans = {
+        culture = swiss
+        religion = vitalic
+        size = 26500
+    }
+
+    soldiers = {
+        culture = swiss
+        religion = vitalic
+        size = 2100
+    }
+
+    farmers = {
+        culture = swiss
+        religion = vitalic
+        size = 823600
+    }
+    farmers = {
+        culture = parish
+        religion = the_broken
+        size = 47600
+    }
+}
 #New Provence
 #Chambery (228400/57100 POPS)
 466 = {

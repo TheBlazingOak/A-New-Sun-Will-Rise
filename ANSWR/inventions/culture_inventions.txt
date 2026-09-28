@@ -1,3 +1,82 @@
+#prestormic tales and evocationism
+evocation_arts = {
+    limit = { classicism_n_early_romanticism = 1 }
+    news = no
+    chance = {
+        base = 2
+        modifier = {
+            factor = 3
+            average_consciousness = 3
+        }
+        modifier = {
+            factor = 2
+            nationalvalue = nv_order
+        }
+        modifier = {
+            factor = -2
+            OR = {
+                invention = the_moon_walker
+                invention = minds_of_silice
+            }
+        }
+    }
+    effect = {
+        shared_prestige = 5
+    }
+}
+
+the_moon_walker = {
+    limit = { classicism_n_early_romanticism = 1 }
+    news = no
+    chance = {
+        base = 2
+        modifier = {
+            factor = 3
+            average_consciousness = 3
+        }
+        modifier = {
+            factor = 2
+            nationalvalue = nv_order
+        }
+        modifier = {
+            factor = -2
+            OR = {
+                invention = minds_of_silice
+                invention = evocation_arts
+            }
+        }
+    }
+    effect = {
+        shared_prestige = 2
+    }
+}
+
+minds_of_silice = {
+    limit = { classicism_n_early_romanticism = 1 }
+    news = no
+    chance = {
+        base = 2
+        modifier = {
+            factor = 3
+            average_consciousness = 3
+        }
+        modifier = {
+            factor = 2
+            nationalvalue = nv_order
+        }
+        modifier = {
+            factor = -2
+            OR = {
+                invention = the_moon_walker
+                invention = evocation_arts
+            }
+        }
+    }
+    effect = {
+        shared_prestige = 2
+    }
+}
+
 #romanticism
 romanticist_literature = {
     limit = { romanticism = 1 }

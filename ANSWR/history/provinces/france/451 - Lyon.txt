@@ -1,9 +1,8 @@
-owner = AUV
-controller = AUV
-add_core = AUV
-add_core = FRE
+owner = SWI
+controller = SWI
+add_core = SWI
 trade_goods = iron
-life_rating = 34
+life_rating = 35
 railroad = 1
 state_building = {
     level = 1

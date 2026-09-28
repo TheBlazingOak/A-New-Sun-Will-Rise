@@ -1,3 +1,4 @@
+NET = {value = 200}
 KNG = { value = 10 }
 GBU = { value = -200 }
 SEG = { value = -200 }
@@ -21,20 +22,19 @@ SOK = {
 }
 
 army = {
-    name = "Army of the Kingdom of Futa Jallon"
-    location = 1880
+    name = "Provisional Armee of Zilverland"
+    location = 1794
 
 regiment = {
-        name= "Almami's Cavalry"
+        name= "Zilverland Cavalry"
         type = cavalry
-
-    home = 1880
+        home = 1794
     }
 
 
 regiment = {
-        name= "Jallon Jihadis"
-            type = irregular
-    home = 1881
+        name= "Zilverland Militia"
+        type = irregular
+        home = 1881
     }
 }

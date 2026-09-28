@@ -1,5 +1,6 @@
 owner = SJR
 controller = SJR
+add_core = ANG
 terrain = savanna
 trade_goods = grain
 life_rating = 35

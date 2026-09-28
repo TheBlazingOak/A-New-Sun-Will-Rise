@@ -195,7 +195,7 @@ islamic_law_triggered = {
     icon = 5
 }
 
-the_british_raj = {
+the_indies = {
     trigger = {
         exists = yes
         OR = {
@@ -205,11 +205,11 @@ the_british_raj = {
         }
         NOT = { is_culture_group = indo_iranian }
         NOT = { is_culture_group = south_asian }
-        1227 = {
+        1319 = {
             is_colonial = yes
             owned_by = THIS
         }
-        1236 = {
+        1306 = {
             is_colonial = yes
             owned_by = THIS
         }
@@ -223,12 +223,11 @@ the_british_raj = {
         }
     }
     research_points = 0.5
-    core_pop_militancy_modifier = -0.01
-    prestige = 0.03
+    prestige = 0.05
     icon = 19
 }
 
-dutch_east_india = {
+east_kerajaan_company = {
     trigger = {
         exists = yes
         capital_scope = { continent = europe }
@@ -241,7 +240,7 @@ dutch_east_india = {
             owned_by = THIS
         }
     }
-    prestige = 0.01
+    prestige = 0.03
     icon = 19
 }
 
@@ -456,14 +455,5 @@ ryotwari = {
 
     tax_efficiency = 0.25
     administrative_efficiency_modifier = 0.25
-    icon = 16
-}
-
-disable_crisis = {
-    trigger = {
-        exists = yes
-        NOT = { year = 2886 }
-    }
-    tension_decay = -1.5
     icon = 16
 }

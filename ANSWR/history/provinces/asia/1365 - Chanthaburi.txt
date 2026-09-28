@@ -1,5 +1,6 @@
-owner = DAI
-controller = DAI
+owner = EQG
+controller = EQG
 add_core = DAI
 trade_goods = grain
 life_rating = 40
+colonial = 2

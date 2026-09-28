@@ -1,6 +1,6 @@
 army = {
     name = "Army of PR"
-    location = 1462
+    location = 2222
     regiment = {
         name= "I. Cavalry"
         type = cavalry
@@ -30,8 +30,8 @@ army = {
 }
 
 navy = {
-    name = "The Pilarista Fleet"
-    location = 1462 Fuerte Pilaria
+    name = "Antilles Fleet"
+    location = 2222 #Fuerte Pilaria
     ship = {
         name= "San Jaun"
         type = manowar

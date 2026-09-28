@@ -123,74 +123,63 @@
 370 = {
     bureaucrats = {
         culture = flanish
-        religion = protestant
+        religion = ketronant
         size = 100
     }
-
     clergymen = {
         culture = flanish
-        religion = protestant
+        religion = ketronant
         size = 125
     }
-
     artisans = {
         culture = danish
         religion = protestant
         size = 5500
     }
-
     soldiers = {
         culture = flanish
-        religion = protestant
+        religion = ketronant
         size = 250
     }
-
     farmers = {
         culture = danish
         religion = protestant
-        size = 10025
+        size = 20025
     }
-
     aristocrats = {
         culture = flanish
-        religion = protestant
+        religion = ketronant
         size = 650
     }
-
     bureaucrats = {
         culture = danish
         religion = protestant
         size = 100
     }
-
     officers = {
         culture = danish
         religion = protestant
         size = 150
     }
-
     clergymen = {
         culture = flanish
-        religion = protestant
+        religion = ketronant
         size = 250
     }
-
     artisans = {
         culture = north_german
         religion = protestant
         size = 2500
     }
-
     soldiers = {
         culture = north_german
         religion = protestant
         size = 500
     }
-
     farmers = {
         culture = flanish
-        religion = protestant
-        size = 38850
+        religion = ketronant
+        size = 58850
     }
 }
 #Aabenra (100000/25000 POPS)

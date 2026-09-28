@@ -65,7 +65,7 @@ army = {
 }
 navy = {
     name = "The Pilarista Fleet"
-    location = 1462 Fuerte Pilaria
+    location = 1462 #Fuerte Pilaria
     ship = {
         name= "Fuerte Pilaria"
         type = manowar
@@ -152,7 +152,7 @@ leader = {
     name = "Marlon Dilag"
     date = 2836.1.1
     type = land
-    personality = sad_sack
+    personality = calm
     background = gifted_administrator
     prestige = 0.01
 }

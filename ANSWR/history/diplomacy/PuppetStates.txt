@@ -18,14 +18,6 @@ vassal = {
     end_date = 2936.1.1
 }
 
-#Ostanatolien-West Georgia
-vassal = {
-    first = OTA
-    second = WGO
-    start_date = 2836.1.1
-    end_date = 2936.1.1
-}
-
 #Cossackia-Abkhazia
 vassal = {
     first = DON
@@ -100,22 +92,6 @@ vassal = {
 #######################
 #        AFRICA       #
 #######################
-
-# Nigeria/Filayen
-vassal = {
-    first = NGR
-    second = SOK
-    start_date = 2836.1.1
-    end_date = 2936.1.1
-}
-
-# Nigeria/Kadakusa
-vassal = {
-    first = NGR
-    second = OYO
-    start_date = 2836.1.1
-    end_date = 2936.1.1
-}
 
 # Kouderhagen/DND
 vassal = {
