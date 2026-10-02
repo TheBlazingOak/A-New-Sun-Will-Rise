@@ -210,14 +210,18 @@ political_decisions = {
         effect = {
             set_country_flag = BOR_zakovograd
             prestige = 5
+            capital = 860
             860 = {change_province_name = "Zakovograd"}
             860 = { state_scope = { change_region_name = "Zakovazemya"} }
-            860 = { any_pop = { limit = { culture = borgar } reduce_pop = 5.0 } }
-            860 = { any_pop = { limit = { culture = westturkish } reduce_pop = 0.25 }
+            860  = { any_pop = { limit = { culture = borgar } reduce_pop = 1.25 } }
+            TUR_860  = { any_pop = { limit = { culture = borgar } reduce_pop = 8.0 } }
+            TUR_860  = { any_pop = { limit = { culture = westturkish } reduce_pop = 0.25 }
+            TUR_860  = { any_pop = { limit = { culture = turkish } reduce_pop = 0.25 } }
             TUR_860 = {  add_province_modifier = { name = colonial_recruitment duration = 1825 } }
             }
         }
     }
+
     borgar_turkey = {
         potential = {
             tag = BOR
@@ -229,6 +233,16 @@ political_decisions = {
         effect = {
             set_country_flag = BOR_victory
             prestige = 5
+            any_owned = {
+                limit = { NOT = { TUR_882 = { owned_by = THIS } } }
+                any_pop = { limit = { culture = borgar } reduce_pop = 8.0 }
+            }
+            any_owned = {
+                any_pop = { limit = { culture = westturkish } reduce_pop = 0.67 }
+            }
+            any_owned = {
+                any_pop = { limit = { culture = turkish } reduce_pop = 0.67 }
+            }
             863 = { state_scope = { change_region_name = "Borgarskazemya"} }
             869 = { state_scope = { change_region_name = "Sirakov"} }
             880 = { state_scope = { change_region_name = "Chernokrai"} }
@@ -252,6 +266,16 @@ political_decisions = {
         effect = {
             set_country_flag = BOR_victory
             prestige = 5
+            any_owned = {
+                limit = { NOT = { TUR_882 = { owned_by = THIS } } }
+                any_pop = { limit = { culture = borgar } reduce_pop = 8.0 }
+            }
+            any_owned = {
+                any_pop = { limit = { culture = westturkish } reduce_pop = 0.67 }
+            }
+            any_owned = {
+                any_pop = { limit = { culture = turkish } reduce_pop = 0.67 }
+            }
             880 = { state_scope = { change_region_name = "Chernokrai"} }
             876 = { state_scope = { change_region_name = "Tsentralna"} }
             873 = { state_scope = { change_region_name = "Goremini"} }
@@ -292,6 +316,44 @@ political_decisions = {
         effect = {
             set_country_flag = BOR_ishkor
             add_accepted_culture = iskhor
+        }
+    }
+    borgar_balkans_2 = {
+        potential = {
+            THIS = { is_culture = borgar }
+            has_country_flag = borgar_balkans
+            NOT = { has_country_flag = borgar_balkans_2 }
+        }
+        allow = {
+            all_core = {
+                owned_by = THIS
+            }
+        }
+        effect = {
+            set_country_flag = borgar_balkans_2
+            GRE_826 = { add_core = THIS }
+            GRE_837 = { add_core = THIS }
+            TUR_805 = { add_core = THIS }
+            TUR_853 = { add_core = THIS }
+        }
+    }
+    borgar_middle_east = {
+        potential = {
+            THIS = { is_culture = borgar }
+            has_country_flag = BOR_zakovograd
+            NOT = { has_country_flag = borgar_middle_east }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+            prestige = 50
+        }
+        effect = {
+            set_country_flag = borgar_middle_east
+            TUR_893 = { add_core = THIS }
+            KUR_890 = { add_core = THIS }
+            RUS_1090 = { add_core = THIS }
+            RUS_1098 = { add_core = THIS }
+            GEO_1095 = { add_core = THIS }
         }
     }
 }

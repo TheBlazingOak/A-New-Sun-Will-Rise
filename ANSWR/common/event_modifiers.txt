@@ -956,7 +956,7 @@ springtime_of_nations = {
 
 global_liberal_agitation = {
     global_pop_consciousness_modifier = 0.2
-    global_pop_militancy_modifier = 0.01
+    global_pop_militancy_modifier = 0.1
     prestige = -0.03
     icon = 4
 }
@@ -2617,12 +2617,6 @@ improved_dutch_dijkes = {
     farm_rgo_eff = 0.75
 }
 
-stanz_boom = {
-    factory_owner_cost = -0.5
-    factory_throughput = 0.05
-    icon = 11
-}
-
 adzinoki_propaganda = {
     war_exhaustion = -0.05
     mobilization_economy_impact = -0.15
@@ -2900,7 +2894,7 @@ iron_princess = {
     prestige = 0.3
     research_points_modifier = 0.2
     political_reform_desire = -0.1
-    military_tech_research_bonus = 0.1
+    army_tech_research_bonus = 0.1
 }
 atorantisu_conservatory = {
     research_points_modifier = 0.25

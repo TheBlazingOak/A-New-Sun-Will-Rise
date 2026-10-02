@@ -1030,6 +1030,12 @@
         size = 150550
     }
 
+    bureaucrats = {
+        culture = parish
+        religion = the_broken
+        size = 2550
+    }
+
 }
 #Brittany Region (2616000)
 #Brest (552000/138000 POPS)

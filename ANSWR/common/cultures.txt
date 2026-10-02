@@ -67,7 +67,7 @@ germanic = {
     alsatian = {
         color = { 5  109  150 }
         first_names = { Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
-        Charles Daniel Denis edouard Elie ettiene Eugene Felicien Felix Fernand
+        Charles Daniel Denis Edouard Elie ettiene Eugene Felicien Felix Fernand
         Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
         Joseph Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
         Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
@@ -77,6 +77,21 @@ germanic = {
         "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
         Foch Forey "Franchet d'Esperey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
         Jaures Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Pellissier Petain Vaillant }
+    }
+    czech = {
+        color = {120 120 255}
+        first_names = { Abraham Alexander Alfred Alois Antona August Bedrich Benedikt Borivoj
+        Cenek David Drahoslav Edvard Emanuel Emil Evzen Frantisek "Frantisek Josef" "Frantisek Xaver"
+        Hermenegild Jan "Jan Krtitel" "Jan Nepomuk" Jaroslav Jindrich Jira Josef Jagomir Kajetan Karel
+        Konstantin Ladislav Luvík Matyas Maxmilian Mikulas Olbram Otakar Pavel Petr
+        Radola Rafael Tomas Vaclav Vincenc Vitezslav Vlastimil Vojtech Vratislav Zdenek }
+
+        last_names = { Albert Balaban Basch Breisky Celovska Dvorak Fibich Gajda Gellner Halek
+        Hrdlicka Jirecek Jagr Kadlec Kafka Koller Krízkovska Kucera Kuchar Lederer Makosky
+        Mik Moravec Nemecek Neruda Novacek Novotna Popper Pastrnak Radecka Rokytanska Safarik
+        Safranek Schack Schubert Skoda Skuherska Smetana Snejdarek Suk Svoboda Syrova
+        Tomasek Tyl Vitasek "von Mittrowitz-Nettolitzky" Vorisek Wankel Weber Za�brt Za�vr Zoubek }
+        radicalism = 5
     }
     union = OUD
 }
@@ -189,7 +204,7 @@ beneluxian = {
     wallonian = {
         color = { 190 90 20 }
         first_names = { Albert Alexandre Alexis Alphonse Andre Antoine Auguste Barthelemy Baudouin Blaise Camille Clement Charles Constant
-        Damien David Desire Didier Edmond edouard Emmanuel emile Etienne Eugene Felix Fernand Feullien Florent Francois Frederic Georges
+        Damien David Desire Didier Edmond Edouard Emmanuel emile Etienne Eugene Felix Fernand Feullien Florent Francois Frederic Georges
         Gerard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-Francois Jean-Louis
         Jean-Jacques Joseph Jules Lambert Laurent Leon Leonard Leopold Louis Lucien Mathieu Maxime Maximilien Nicolas Olivier
         Pascal Patrice Paul Philippe Philippe-Joseph Pierre Pierre-Guillaume Sebastien Sylvain Theophile Victor Vincent Werner }
@@ -449,7 +464,7 @@ italian = {
     provencal = {
         color = {118 232 223}
         first_names = { Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
-        Charles Daniel Denis edouard Elie ettiene Eugene Felicien Felix Fernand
+        Charles Daniel Denis Edouard Elie ettiene Eugene Felicien Felix Fernand
         Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
         Joseph Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
         Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
@@ -555,7 +570,7 @@ french = {
     parish = {
         color = {20 20 100}
         first_names = { Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
-        Charles Daniel Denis edouard Elie ettiene Eugene Felicien Felix Fernand
+        Charles Daniel Denis Edouard Elie ettiene Eugene Felicien Felix Fernand
         Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
         Joseph Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
         Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
@@ -802,42 +817,33 @@ polish_culture_group = {
         Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
         radicalism = 10
     }
-    western_slavic = {
-        color = {147 63 109}
-        first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
-        Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
-        Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
-        Maciej Marceli Marian Mariusz Melchior Michal Mieczyslaw Roman Romuald Samuel
-        Stanislaw Stefan Tadeusz Tomasz Waclaw Wilhelm Witold Wladyslaw Wojciech Zygmunt }
+    byelorussian = {
+        color = {100 140 110}
+            first_names = { Alaksandr Alexei Andrei Anton Boris Cyril Danya Dz'mitry Giorgi
+                            Ivan Janka Jury Lavr Leonid Leu Mikalai Paval Piotr Roman Ryhor
+                            Stanislaw Sergey Valery Vasily Viktar Uladzimir Vladislav }
 
-        last_names = { Bem Bór-Komorowski Brzóska Chalasinski Chlaposwski Chlopicki Chrzanowski Dabrowski Dembinski Fabryvy
-        Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mierolawski
-        Mikolajczyk Mokronowski Niepokólczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
-        Rokossowski Rola-Zymierski Rómmel Rózicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
-        Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
-    }
-    union = POL
+            last_names = { Alexseyev "Bulak-Balachowicz" Chibisov Denikin Dragomirov Golivin Gurko
+                           Ivanov Kalinowski Kornilov Kolchak Kuropatkin Lukashenka Menshikov Nakhimov
+                           Nebogatov Nikolaevich Pavlov Putyatin Rozhestvensky Skobelev Sukhoi
+                           Tukhachevsky Yegorov Vorontsov Zhauryd }
+        }
+    ukrainian = {
+        color = {120 120 60}
+            first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev
+                             Mikhail Mykola Nikita  Oleksandr Pavel Petro Roman Semyon Sergiy Valeriy
+                             Viktor Volodimir Vladislav Yuriy }
+
+            last_names = { Bezruchko Chernyakhovsky Dyachenko Gamula Grigoriev Hrekov Ivanenko Ivanov
+                            Kapustiansky Kondratenko Leshchenko Leshchinskiy "Omelianovych-Pavlenko"
+                            Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky }
+            radicalism = 10
+        }
 }
 
 czecho_slovak_culture_group = {
     leader = european
     unit = EuropeanGC
-
-    czech = {
-        color = {120 120 255}
-        first_names = { Abraham Alexander Alfred Alois Antonín August Bedrich Benedikt Borivoj
-        Cenek David Drahoslav Edvard Emanuel Emil Evzen Frantisek "Frantisek Josef" "Frantisek Xaver"
-        Hermenegild Jan "Jan Krtitel" "Jan Nepomuk" Jaroslav Jindrich Jirí Josef Kajetan Karel
-        Konstantin Ladislav Luvík Matyas Maxmilian Mikulas Olbram Otakar Pavel Petr
-        Radola Rafael Tomas Vaclav Vincenc Vitezslav Vlastimil Vojtech Vratislav Zdenek }
-
-        last_names = { Albert Balaban Basch Breisky Celovský Dvorak Fibich Gajda Gellner Halek
-        Hrdlicka Jirecek Kadlec Kafka Koller Krízkovský Kucera Kuchar Lederer Makosky
-        Mik Moravec Nemecek Neruda Novacek Novotný Popper Radecký Rokytanský Safarik
-        Safranek Schack Schubert Skoda Skuherský Smetana Snejdarek Suk Svoboda Syrový
-        Tomasek Tyl Vitasek "von Mittrowitz-Nettolitzky" Vorisek Wankel Weber Zíbrt Zívr Zoubek }
-        radicalism = 5
-    }
 
     slovak = {
         color = {120 255 255}
@@ -977,32 +983,6 @@ leader = russian
                           Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko }
     }
 }
-east_slavic = {
-leader = russian
-    byelorussian = {
-        color = {100 140 110}
-            first_names = { Alaksandr Alexei Andrei Anton Boris Cyril Danya Dz'mitry Giorgi
-                            Ivan Janka Jury Lavr Leonid Leu Mikalai Paval Piotr Roman Ryhor
-                            Stanislaw Sergey Valery Vasily Viktar Uladzimir Vladislav }
-
-            last_names = { Alexseyev "Bulak-Balachowicz" Chibisov Denikin Dragomirov Golivin Gurko
-                           Ivanov Kalinowski Kornilov Kolchak Kuropatkin Lukashenka Menshikov Nakhimov
-                           Nebogatov Nikolaevich Pavlov Putyatin Rozhestvensky Skobelev Sukhoi
-                           Tukhachevsky Yegorov Vorontsov Zhauryd }
-        }
-    ukrainian = {
-        color = {120 120 60}
-            first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev
-                             Mikhail Mykola Nikita  Oleksandr Pavel Petro Roman Semyon Sergiy Valeriy
-                             Viktor Volodimir Vladislav Yuriy }
-
-            last_names = { Bezruchko Chernyakhovsky Dyachenko Gamula Grigoriev Hrekov Ivanenko Ivanov
-                            Kapustiansky Kondratenko Leshchenko Leshchinskiy "Omelianovych-Pavlenko"
-                            Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky }
-            radicalism = 10
-        }
-}
-
 baltic = {
     leader = european
     unit = EuropeanGC
@@ -2572,7 +2552,7 @@ american_cultures = {
         Lewis Edmund Leonida Benjamin Wade Daniel Thomas Jonathan Stonewall Lemual Sterling Raphael Kirby
         Jonas Frank Charles Peter Rand Leslie Howard Malvin Oscar Henry Simon Edward Gideon Isaac Evander Jerome Alfred Cadmus
         "Fitz Hugh" Carnot Ezra Wilton Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
-         Denis edouard Elie ettiene Eugene Felicien Felix Fernand
+         Denis Edouard Elie ettiene Eugene Felicien Felix Fernand
         Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
          Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
         Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry
@@ -2627,7 +2607,7 @@ american_cultures = {
         Lewis Edmund Leonida Benjamin Wade Jonathan Stonewall Lemual Sterling Raphael Kirby
         Jonas Frank Charles Peter Rand Leslie Howard Malvin Oscar Henry Simon Edward Gideon Isaac Evander Jerome Alfred Cadmus
         "Fitz Hugh" Carnot Ezra Wilton Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
-        Daniel Denis edouard Elie ettiene Eugene Felicien Felix Fernand
+        Daniel Denis Edouard Elie ettiene Eugene Felicien Felix Fernand
         Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
          Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
         Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas
@@ -2906,7 +2886,7 @@ new_world_french = {
     terrassier = {
         color = {230 250 255}
         first_names = { Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
-        Charles Daniel Denis edouard Elie ettiene Eugene Felicien Felix Fernand
+        Charles Daniel Denis Edouard Elie ettiene Eugene Felicien Felix Fernand
         Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
         Joseph Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
         Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }

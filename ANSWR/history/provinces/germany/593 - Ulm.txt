@@ -1,6 +1,6 @@
-owner = ULM
-controller = ULM
-add_core = ULM
+owner = BAV
+controller = BAV
+add_core = BAV
 add_core = OUD
 trade_goods = grain
 life_rating = 40

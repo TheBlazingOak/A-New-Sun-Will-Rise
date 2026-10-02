@@ -64,10 +64,7 @@ political_decisions = {
                 is_culture_group = french
                 owns = 425
             NOT = {
-                is_culture = french
                 OR = { 425 = { is_capital = yes } }
-                OR = { tag = DPA }
-                OR = { tag = PRP}
                 }
             }
 
@@ -107,32 +104,11 @@ political_decisions = {
 
         effect = {
             prestige = 10
+            tech_school = culture_tech_school
+            nationalvalue = nv_autocracy
             set_country_flag = french_nobility
         }
         ai_will_do = { factor = 1 }
-    }
-
-    embrace_the_autocracy = {
-    potential = {
-        tag = FRE
-        has_country_flag = french_nobility
-        NOT = { has_country_flag = embraced_nobility }
-        }
-
-        allow = {
-            is_greater_power = yes
-            prestige = 80
-            functionalism = 1
-            penomenalism = 1
-            war = no
-        }
-
-        effect = {
-            prestige = 15
-            tech_school = culture_tech_school
-            nationalvalue = nv_autocracy
-            set_country_flag = embraced_nobility
-        }
     }
     ## Republic of the Iles
     #The New French Autocracy
@@ -154,68 +130,13 @@ political_decisions = {
 
         effect = {
             prestige = 5
+            tech_school = french_commoner_school
+            nationalvalue = nv_equality
             set_country_flag = french_unity
         }
         ai_will_do = { factor = 1 }
     }
-    embrace_the_commoners = {
-    potential = {
-        tag = FRE
-        has_country_flag = french_unity
-        not = { has_country_flag = embraced_unity }
-        government = republic
-        }
 
-        allow = {
-            is_greater_power = yes
-            prestige = 80
-            functionalism = 1
-            inorganic_chemistry = 1
-            war = no
-        }
-
-        effect = {
-            prestige = 10
-            tech_school = french_commoner_school
-            nationalvalue = nv_equality
-            set_country_flag = embraced_unity
-        }
-    }
-
-    the_novo_provencials = {
-    potential = {
-        tag = FRE
-        not = { has_country_flag = novo_prov }
-        }
-
-        allow = {
-        revolution_n_counterrevolution = 1
-        FRA_420 = { owned_by = THIS}
-        }
-
-        effect = {
-        FRA_467 = { add_core = FRE }
-        set_country_flag = novo_prov
-        }
-    }
-
-
-    embrace_the_novo_provencials = {
-    potential = {
-        tag = FRE
-        has_country_flag = novo_prov
-        not = { has_country_flag = embraced_novo_prov }
-        }
-
-        allow = {
-        FRA_467 = { owned_by = FRE }
-        }
-
-        effect = {
-        add_accepted_culture = provencal
-        set_country_flag = embraced_novo_prov
-        }
-    }
     the_streets_of_parii = {
         picture = metro_system
         potential = {
@@ -288,6 +209,101 @@ political_decisions = {
         effect = {
             country_event = 224005
             set_country_flag = the_eiffel_tower_was_built
+        }
+    }
+    ##FRENCH Claims##
+    lower_burgundy_fre_claims = {
+        potential = {
+            tag = FRE
+            nationalism_n_imperialism = 1
+            NOT = { has_country_flag = lower_burgundy_claims }
+        }
+
+        allow = {
+            prestige = 100
+            all_core = {
+                owned_by = THIS
+            }
+        }
+
+        effect = {
+            SWI_433 = { add_core = THIS }
+            set_country_flag = lower_burgundy_claims
+        }
+    }
+    elzas_fre_claims = {
+        potential = {
+            tag = FRE
+            nationalism_n_imperialism = 1
+            NOT = { has_country_flag = elzas_claims }
+        }
+
+        allow = {
+            prestige = 100
+            all_core = {
+                owned_by = THIS
+            }
+            revolution_n_counterrevolution = 1
+        }
+
+        effect = {
+            FRA_413 = { add_core = THIS }
+            FRA_412 = { add_core = THIS }
+            set_country_flag = elzas_claims
+        }
+    }
+    elzas_accept_fre = {
+        potential = {
+            tag = FRE
+            nationalism_n_imperialism = 1
+            has_country_flag = elzas_claims
+            NOT = { has_country_flag = elzas_accepted }
+        }
+
+        allow = {
+            FRA_413 = { owned_by = THIS }
+            FRA_412 = { owned_by = THIS }
+        }
+
+        effect = {
+            add_accepted_culture = alsatian
+            set_country_flag = elzas_accepted
+        }
+    }
+    the_novo_provencials = {
+        potential = {
+            tag = FRE
+            nationalism_n_imperialism = 1
+            not = { has_country_flag = novo_prov }
+            }
+
+        allow = {
+            revolution_n_counterrevolution = 1
+            FRA_420 = { owned_by = THIS}
+            all_core = {
+                    owned_by = THIS
+                }
+            }
+
+            effect = {
+            FRA_467 = { add_core = FRE }
+            set_country_flag = novo_prov
+        }
+    }
+    accept_novo_provencials = {
+        potential = {
+            tag = FRE
+            has_country_flag = novo_prov
+            not = { has_country_flag = novo_prov_accepted }
+            }
+
+        allow = {
+            FRA_467 = { owned_by = THIS}
+            }
+
+        effect = {
+            add_accepted_culture = provencal
+            set_country_flag = novo_prov_accepted
         }
     }
 #End of political_decisions brackets    

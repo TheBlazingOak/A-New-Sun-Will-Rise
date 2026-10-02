@@ -276,5 +276,76 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	jungfeld_claims = {
+		potential = {
+			tag = NET
+			has_country_flag = rijnduits_accepted
+			NOT = { has_country_flag = jungfeld_claims }
+		}
+		
+		allow = {
+			revolution_n_counterrevolution = 1
+			HES_2560 = { owned_by = NET }
+		}
+		
+		effect = {
+			prestige = 5
+			HES_2560 = { add_core = NET }
+			set_country_flag = jungfeld_claims
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	flasslauf_claims = {
+		potential = {
+			tag = NET
+			has_country_flag = rijnduits_accepted
+			NOT = { has_country_flag = flasslauf_claims }
+		}
+		
+		allow = {
+			revolution_n_counterrevolution = 1
+			PRU_570 = { owned_by = NET }
+		}
+		
+		effect = {
+			prestige = 5
+			PRU_570 = { add_core = NET }
+			set_country_flag = flasslauf_claims
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	elzasser_claims = {
+		potential = {
+			tag = NET
+			has_country_flag = rijnduits_accepted
+			has_country_flag = flasslauf_claims
+			has_country_flag = jungfeld_claims
+			NOT = { has_country_flag = elzasser_claims }
+		}
+		
+		allow = {
+			revolution_n_counterrevolution = 1
+			FRA_412 = { owned_by = NET }
+			FRA_413 = { owned_by = NET }
+		}
+		
+		effect = {
+			prestige = 5
+			FRA_412 = { add_core = NET }
+			FRA_413 = { add_core = NET }
+			add_accepted_culture = alsatian
+			set_country_flag = elzasser_claims
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	
 }

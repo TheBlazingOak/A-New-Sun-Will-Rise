@@ -9,17 +9,22 @@ army = {
         home = 1168
     }
     regiment = {
+        name= "2.Vifajanam"
+        type = infantry
+        home = 1168
+    }
+    regiment = {
         name= "1.Peerangikal"
         type = artillery
         home = 1168
     }
     regiment = {
-        name= "1.Levi"
-        type = irregular
+        name= "1.Cavalry"
+        type = cavalry
         home = 1167
     }
     regiment = {
-        name= "2.Levi"
+        name= "1.Levi"
         type = irregular
         home = 1167
     }

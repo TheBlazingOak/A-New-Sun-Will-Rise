@@ -113,7 +113,7 @@ From;To;Type;Through;Data;Comment
 408;403;land;3328;0;Chalons-Laon
 404;403;land;3328;0;Cambrai-Laon
 401;403;land;3328;0;Arras-Laon
-404;403;land;3328;0;Cambrai-Arras
+404;401;land;3328;0;Cambrai-Aumale
 401;408;land;3328;0;Chalons-Arras
 417;415;land;3328;0;Rouen-Alencon
 418;419;sea;2725;0;Channel Isles-Caen
@@ -185,6 +185,8 @@ From;To;Type;Through;Data;Comment
 1249;1282;sea;3307;0;Kharswari Strait
 1249;1262;sea;3307;0;Kharswari Strait
 1248;1270;sea;3303;0;Gaya Strait
+1495;1504;sea;2824;0;Maoming-Pingle Strait
+
 #Lebannon
 896;900;sea;2770;0;Antakya Strait 
 900;898;sea;2770;0;Antep Strait
@@ -195,48 +197,10 @@ From;To;Type;Through;Data;Comment
 915;916;sea;2769;0;Akko Strait
 914;913;sea;2770;0;Beirut Strait
 912;913;sea;2770;0;Beirut Strait
-#
-# Asian Straits
-#
-1083;1086;sea;2832;0;Tatar Straits
-1084;1086;sea;2832;0;Tatar Straits
-#1087;1643;sea;2831;0;La Perouse Strait#removed
-#1087;1643;sea;2839;0;La Perouse Strait#removed
-1162;1165;sea;2788;0;Bahrain Strait
-1168;1145;sea;2787;0;Straits of Hormuz
-1309;1322;sea;2794;0;Palk Strait #Ceylon-S India
-1310;1322;sea;2794;0;Palk Strait #Ceylon-S India
-1384;1402;sea;2814;0;Straits of Johore
-1385;1402;sea;2814;0;Straits of Johore
-1403;1413;sea;2805;0;Sunda Strait
-1412;1851;sea;2782;0;Aden Strait
-1412;1875;sea;2782;0;Aden Strait
-1418;1421;sea;2811;0;Strait of Madura
-1420;1438;sea;2811;0;Bali Strait
-1438;1442;sea;2811;0;Lombok Strait
-1442;1440;sea;2811;0;Sumbawa Strait
-1495;1499;sea;2823;0;Hainan Strait
-1457;1461;sea;2849;0;Tacloban Strait
-1640;1660;sea;2843;0;Fukuoka Strait
-1642;1643;land;2841;0;Hakodate Strait
-1661;1660;land;2841;0;Nagasaki Strait
-1661;1664;land;2841;0;Nagasaki Strait
-#1643;1087;sea;2831;0;Sakhalin Strait #removed
-1663;1666;sea;2843;0;Matsuyama Strait
-1667;1655;land;2843;0;Setto Strait
-2465;1462;sea;2850;0;Fuerte Pilaria Strait
-3348;3341;sea;2850;0;Palo Strait
-2465;3341;sea;2850;0;Palo-Cebu Strait
-1461;3348;sea;2850;0;Bislig-Tacloban Strait
-1455;3334;sea;2849;0;Lipa Subic Strait
-1455;1457;sea;2849;0;Naga-Tacloban Strait
-1458;1460;sea;2850;0;Mindoro-Iloilo Strait
-#Philippines
-1455;1458;sea;2848;0;Isla Verde passages #Manila to Mindoro
-1458;1459;sea;2848;0;Mindoro Bay #Mindoro to Palawan
-1461;2565;sea;2850;0;Cebu Strait #Tacloban to Cebu
-1461;1463;sea;2850;0;Surigao Strait #Tacloban to Davao
-2565;1460;sea;2850;0;Tanon Strait #Cebu to Iloilo
+
+#Middle East
+1165;1164;sea;2788;0;Doha Strait
+1168;2664;sea;2788;0;Dubaay Hormuz Strait
 
 #
 # Oceanian Straits

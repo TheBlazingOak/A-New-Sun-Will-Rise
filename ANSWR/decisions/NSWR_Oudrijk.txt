@@ -21,7 +21,6 @@ political_decisions = {
             prestige = -5
             THIS = { country_event = { id = 222059 days = 0 } }
             remove_country_modifier = oudrijk_kaizer
-            remove_country_modifier = oudrijk_opposition
             remove_country_modifier = oudrijk_prince
             set_global_flag = oudrijk_destroyed
         }
@@ -53,14 +52,14 @@ political_decisions = {
             add_accepted_culture = austro_german
             inherit = BOH
             inherit = AUS
-            AUS_619 = { add_core = FRB remove = AUS }
-            AUS_613 = { add_core = FRB remove = AUS }
-            AUS_612 = { add_core = FRB remove = AUS }
-            AUS_734 = { add_core = FRB remove = AUS }
-            AUS_736 = { add_core = FRB remove = AUS }
-            AUS_625 = { add_core = FRB remove = BOH }
-            AUS_627 = { add_core = FRB remove = BOH }
-            PRU_682 = { add_core = FRB remove = BOH }
+            AUS_619 = { add_core = FRB remove_core = AUS }
+            AUS_613 = { add_core = FRB remove_core = AUS }
+            AUS_612 = { add_core = FRB remove_core = AUS }
+            AUS_734 = { add_core = FRB remove_core = AUS }
+            AUS_736 = { add_core = FRB remove_core = AUS }
+            AUS_625 = { add_core = FRB remove_core = BOH }
+            AUS_627 = { add_core = FRB remove_core = BOH }
+            PRU_682 = { add_core = FRB remove_core = BOH }
             set_country_flag = van_gesegnet_wedding
         }
         ai_will_do = {
@@ -83,7 +82,7 @@ political_decisions = {
             prestige = 20
             war = no
             has_global_flag = oudrijk_destroyed
-            is_secondary_power = yes
+            OR = { is_secondary_power = yes is_greater_power = yes }
             nationalism_n_imperialism = 1
         }
 
@@ -109,6 +108,7 @@ political_decisions = {
             PRU_546 = { add_core = NUR }
             PRU_701 = { add_core = NUR }
             SAX_558 = { add_core = NUR }
+
         }
     }
 
@@ -180,7 +180,7 @@ political_decisions = {
                         name = nieuwrijk_kaizer
                         duration = -1
                 }
-            set_primary_culture = austro_german
+            primary_culture = austro_german
             add_accepted_culture = rhine_german
             add_accepted_culture = south_german
             inherit = WES
@@ -227,92 +227,6 @@ political_decisions = {
         }
     }
 
-    alignment_in_the_oudrijk = {
-        potential = {
-        has_country_modifier = oudrijk_prince
-        NOT = { exists = OUD }
-        NOT = { tag = AUS }
-        NOT = { tag = BOH }
-        NOT = { has_country_flag = set_allegiance_oudrijk }
-        year = 2837
-        }
-
-        allow = {
-            prestige = 5
-            has_country_modifier = oudrijk_prince
-        }
-
-        effect = {
-        set_country_flag = set_allegiance_oudrijk
-        country_event = { id = 222004 days = 0 }
-        }
-        ai_will_do = {
-        factor = 1
-        }
-    }
-
-    alignment_in_the_oudrijk_BOH = {
-        potential = {
-        has_country_modifier = oudrijk_prince
-        has_country_modifier = oudrijk_allegiance_fernost
-        NOT = { exists = OUD }
-        NOT = { tag = AUS }
-        NOT = { tag = BOH }
-        NOT = { alliance_with = BOH }
-        year = 2837
-        }
-
-        allow = {
-            has_country_modifier = oudrijk_prince
-            relation = { who = AUS value = -50 }
-            OR = { in_sphere = BOH }
-            NOT = { has_country_flag = changed_allegiance_oudrijk }
-            NOT = { has_country_modifier = oudrijk_allegiance_cislavet }
-        }
-
-        effect = {
-        set_country_flag = changed_allegiance_oudrijk
-        set_country_modifier = oudrijk_allegiance_cislavet
-        remove_country_modifier = oudrijk_allegiance_fernost
-        BOH = { country_event = { id = 222006 days = 0 } }
-        prestige = -5
-        }
-        ai_will_do = {
-        factor = 1
-        }
-    }
-
-    #Reallign
-    alignment_in_the_oudrijk_AUS = {
-        potential = {
-        has_country_modifier = oudrijk_prince
-        has_country_modifier = oudrijk_allegiance_cislavet
-        NOT = { exists = OUD }
-        NOT = { tag = AUS }
-        NOT = { tag = BOH }
-        NOT = { alliance_with = AUS }
-        year = 2837
-        }
-
-        allow = {
-            has_country_modifier = oudrijk_prince
-            relation = { who = AUS value = -50 }
-            OR = { in_sphere = BOH }
-            NOT = { has_country_flag = changed_allegiance_oudrijk }
-            NOT = { has_country_modifier = oudrijk_allegiance_fernost }
-        }
-
-        effect = {
-        set_country_flag = changed_allegiance_oudrijk
-        set_country_modifier = oudrijk_allegiance_fernost
-        remove_country_modifier = oudrijk_allegiance_cislavet
-        AUS = { country_event = { id = 222005 days = 0 } }
-        prestige = -5
-        }
-        ai_will_do = {
-        factor = 1
-        }
-    }
     ###############################
     ### Oudrijk Chain Decisions ###
     ###############################
@@ -340,7 +254,7 @@ political_decisions = {
             year = 2845
             war = yes
             tag = AUS
-            NOT = { set_country_flag = hired_mercenaries }
+            NOT = { has_country_flag = hired_mercenaries }
         }
         allow = {
             army_decision_making = 1
@@ -351,9 +265,9 @@ political_decisions = {
             prestige = -10
             treasury = -25000
             define_general = {
-                name = {Nechov Vyacheslav}
-                personality = {sharp}
-                background = {dvrenerusskiy_merc}
+                name = Nechov Vyacheslav
+                personality = relentless
+                background = dvrenerusskiy_merc
             }
             set_country_flag = hired_mercenaries
         }

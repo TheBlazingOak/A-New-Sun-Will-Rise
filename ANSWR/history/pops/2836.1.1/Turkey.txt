@@ -216,27 +216,27 @@
 
     ######Jews
     soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
+        culture = borgar
+        religion = the_broken
+        size = 2000
     }
 
     clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
+        culture = borgar
+        religion = the_broken
+        size = 800
     }
 
     artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 100
+        culture = borgar
+        religion = the_broken
+        size = 3100
     }
 
     farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
+        culture = borgar
+        religion = the_broken
+        size = 11900
     }
     ########
 }
@@ -293,7 +293,7 @@
     farmers = {
         culture = westturkish
         religion = sunni
-        size = 18225
+        size = 38225
     }
 
     aristocrats = {
@@ -329,34 +329,32 @@
     farmers = {
         culture = iskhor
         religion = sunni
-        size = 5475
+        size = 15475
     }
 
-    ######Jews
     soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
+        culture = borgar
+        religion = the_broken
+        size = 2000
     }
 
     clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
+        culture = borgar
+        religion = the_broken
+        size = 800
     }
 
     artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 100
+        culture = borgar
+        religion = the_broken
+        size = 3100
     }
 
     farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
+        culture = borgar
+        religion = the_broken
+        size = 25000
     }
-    ########
 }
 #Istanbul Region (1268000)
 #under the rule of Ottoman Empire in 1836
@@ -405,7 +403,7 @@
     }
 
     farmers = {
-        culture = circassian
+        culture = iskhor
         religion = sunni
         size = 100
     }
@@ -480,41 +478,6 @@
         religion = the_broken
         size = 15000
     }
-    aristocrats = {
-        culture = westturkish
-        religion = sunni
-        size = 120
-    }
-
-    officers = {
-        culture = westturkish
-        religion = sunni
-        size = 120
-    }
-
-    soldiers = {
-        culture = westturkish
-        religion = sunni
-        size = 300
-    }
-
-    clergymen = {
-        culture = westturkish
-        religion = sunni
-        size = 225
-    }
-
-    artisans = {
-        culture = westturkish
-        religion = sunni
-        size = 5000
-    }
-
-    farmers = {
-        culture = westturkish
-        religion = sunni
-        size = 22775
-    }
 }
 #Uskudar (188000/47000 POPS)
 861 = {
@@ -545,37 +508,13 @@
     farmers = {
         culture = turkish
         religion = sunni
-        size = 29250
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 125
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 125
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 3500
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 8375
+        size = 79250
     }
 
     soldiers = {
         culture = borgar
         religion = the_broken
-        size = 120
+        size = 3120
     }
 
     clergymen = {
@@ -593,7 +532,7 @@
     farmers = {
         culture = borgar
         religion = the_broken
-        size = 7450
+        size = 27450
     }
 }
 #Izmit (316000/79000 POPS)
@@ -625,31 +564,7 @@
     farmers = {
         culture = turkish
         religion = sunni
-        size = 50250
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 450
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 8475
+        size = 70250
     }
 
     soldiers = {
@@ -725,43 +640,7 @@
     farmers = {
         culture = turkish
         religion = sunni
-        size = 65575
-    }
-
-    aristocrats = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    officers = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 300
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 5500
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 9850
+        size = 95575
     }
 
     aristocrats = {
@@ -797,34 +676,8 @@
     farmers = {
         culture = borgar
         religion = the_broken
-        size = 6425
+        size = 26425
     }
-
-    ######Jews
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 200
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-    ########
 
     slaves = {
         culture = borgar
@@ -864,34 +717,10 @@
         size = 38325
     }
 
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 450
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 8475
-    }
-
     farmers = {
         culture = borgar
         religion = the_broken
-        size = 8475
+        size = 14475
     }
 }
 #Chanakkale (132000/33000 POPS)

@@ -110,6 +110,7 @@ NORMAL_CIVIL_WAR_NAME_TKG_YZW;$ORDER$Boshin War;;;;;;;;;;;;;
 NORMAL_WAR_RESTORE_ORDER_NAME_ENG_TRN;$ORDER$Boer War;;;;;;;;;;;;;
 NORMAL_WAR_RESTORE_ORDER_NAME_ENG_ORA;$ORDER$Boer War;;;;;;;;;;;;;
 NORMAL_WAR_RESTORE_ORDER_NAME_ENG_NAL;$ORDER$Boer War;;;;;;;;;;;;;
+NORMAL_WAR_RESTORE_ORDER_NAME_WRP_UKR;$ORDER$Poulkrana Civil War;;;;;;;;;;;;;
 NORMAL_WAR_PUPPET_NAME_TUR_EGY;$ORDER$Oriental Crisis;;;;;;;;;;;;;
 NORMAL_WAR_TAKE_NAME_ENG_QNG;$ORDER$Opium War;;;;;;;;;;;;;
 NORMAL_WAR_TAKE_CORE_NAME_SHW_GON;Zemene Mesafint;;;;;;;;;;;;;
@@ -357,3 +358,11 @@ annex_india_full_short;$COUNTRY$ Acquisition;;;;;;;;;;;;;
 annex_india_full_setup;Annexation of $RECIPIENT$;;;;;;;;;;;;;
 annex_india_full;Indian Conference Acquisition;;;;;;;;;;;;;
 annex_india_full_desc;The recent conference of European and Oceanian nations has determined that the lands of India are uncivilized, and that any act of aggression towards them is justified.;;;;;;;;;;;;;
+demand_capital_concession;Demand Capital Concession;x
+demand_capital_concession_short;Demand the capital state of $STATE$;x
+demand_capital_concession_desc;Force a country to secede its capital to form a concession;x
+demand_capital_concession_setup;Demand that $RECIPIENT$ secede their capital to form a concession;x
+minor_conquest;Minor Conquest;x
+minor_conquest_short;Annex $RECIPIENT$;x
+minor_conquest_desc;Annex a minor country;x
+minor_conquest_setup;Annex $RECIPIENT$;x

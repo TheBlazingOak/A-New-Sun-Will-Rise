@@ -41,7 +41,7 @@ country_event = {
     picture = autocracy
     mean_time_to_happen = { months = 12 }
     trigger = {
-        OR = { TAG = DPA }
+        is_culture_group = french
         nationalism_n_imperialism = 1
         OR = { is_secondary_power = yes is_greater_power = yes}
         ai = yes
@@ -49,10 +49,11 @@ country_event = {
     }
     option = {
     name = "EVTOPTA224001"
-        any_province = {
-            limit = { has_core = FRE}
-            add_core = THIS
-        }
+        FRE = {
+            any_core = { 
+                add_core = THIS
+            }
+            }
         set_country_flag = claimed_france
     }
 
@@ -98,8 +99,13 @@ country_event = {
     name = "EVTOPTA224003"
         set_country_flag = pars_refused_appeasement
         prestige = 5
-        militancy = 1
-        consciousness = 2
+        any_pop = {
+            limit = {
+                is_culture = parish
+            }
+            militancy = 1
+            consciousness = 2
+        }
         ai_chance = { factor = 75 }
     }
     #Appease the Masses
@@ -107,7 +113,16 @@ country_event = {
     name = "EVTOPTA224003"
         set_country_flag = pars_appeasement
         prestige = -5
-        militancy = -1
+        any_pop = {
+            limit = {
+                is_culture = parish
+            }
+            ideology = {
+                factor = 0.2
+                value = liberal
+            }
+            militancy = -5
+        }
         political_reform = universal_weighted_voting
         ai_chance = { factor = 25 }
     }
@@ -122,18 +137,30 @@ country_event = {
     mean_time_to_happen = { months = 6 }
     trigger = {
         TAG = DPA
-        militancy = 6
+        militancy = 5
         has_country_flag = pars_refused_appeasement
         NOT = {has_country_flag = bloody_revolution}
     }
     option = {
-    name = "EVTOPTA224001"
+    name = "EVTOPTA224004"
         set_country_flag = bloody_revolution
         prestige = -10
         government = democracy
         political_reform = universal_voting
         political_reform = secret_ballots
+        political_reform = free_press
+        political_reform = no_slavery
         remove_country_modifier = global_liberal_agitation
+        any_pop = {
+            limit = {
+                is_culture = parish
+            }
+            ideology = {
+                factor = 0.35
+                value = liberal
+            }
+            militancy = -7
+        }
     }
 }
 

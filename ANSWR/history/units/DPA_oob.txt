@@ -6,7 +6,7 @@ PRP = { value = -200 }
 
 army = {
     name = "I. Armee du Duc"
-    location = 417
+    location = 425
     regiment = {
         name= "I. Bataillon populaire"
         type = infantry

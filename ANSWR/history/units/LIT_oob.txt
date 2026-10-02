@@ -8,11 +8,13 @@ POL = {
     value = 75
 }
 leader = {
-    name = "Karolis Grigenas"
+    name = "Darius the Black Prince"
+    picture = european_general_55
     date = 2836.1.1
     type = land
-    personality = coolminded
-    background = cavalry_school
+    personality = merciless
+    background = hated
+    prestige = 0.50
 }
 leader = {
     name = "Juozas Grimas"

@@ -1,5 +1,6 @@
 owner = TRG
 controller = TRG
 add_core = TRG
+add_core = MOR
 trade_goods = wool
 life_rating = 35

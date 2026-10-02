@@ -154,7 +154,7 @@ country_event ={
     option = {
         name = "EVTOPTB222062"
             prestige = -25
-            badboy =  = 15
+            badboy = 15
             HAN_528 = { secede_province = THIS }
             HAN_534 = { secede_province = THIS }
             HAN_528 = { add_core = THIS }

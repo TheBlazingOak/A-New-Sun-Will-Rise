@@ -1112,75 +1112,43 @@
     aristocrats = {
         culture = greek
         religion = orthodox
-        size = 500
+        size = 2500
     }
     bureaucrats = {
         culture = greek
         religion = orthodox
-        size = 850
+        size = 1850
     }
 
     officers = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 1200
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 775
+        size = 1775
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 1000
+        size = 9000
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 2100
+        size = 8100
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 40175
+        size = 89175
     }
-
-    ######Jews #1250 pops
-    aristocrats = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-    ########
 }
 #Amfissa (76000/19000 POPS)
 835 = {
@@ -1304,128 +1272,128 @@
 839 = {
 
     clergymen = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 170
     }
 
     artisans = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 300
     }
 
     soldiers = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 200
     }
 
     soldiers = {
-        culture = south_german
-        religion = catholic
-        size = 1000
+        culture = greek
+        religion = orthodox
+        size = 7000
     }
 
     farmers = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
-        size = 10070
+        size = 40070
     }
 }
 #Corinth (40000/10000 POPS)
 840 = {
     clergymen = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 500
     }
 
     soldiers = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
-        size = 400
+        size = 3400
     }
 
     farmers = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
-        size = 9100
+        size = 29100
     }
 }
 #Kalamai (68000/17000 POPS)
 841 = {
     clergymen = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 350
     }
 
     soldiers = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
-        size = 400
+        size = 3400
     }
 
     farmers = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
-        size = 9000
+        size = 39000
     }
 }
 #Patrai (40000/10000 POPS)
 842 = {
 
     aristocrats = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 1100
     }
 
     bureaucrats = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 100
     }
 
     officers = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 60
     }
 
     clergymen = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 400
     }
 
     soldiers = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = peloponesian
+        culture = greek
         religion = orthodox
         size = 41000
     }

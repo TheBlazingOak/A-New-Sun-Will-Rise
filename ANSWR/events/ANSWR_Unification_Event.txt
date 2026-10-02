@@ -451,17 +451,15 @@ country_event = {
     option = {
         name = "EVT52154OPTA" #Yes
         TUR_863 = { add_core = BOR remove_core = TUR }
-        TUR_863 = { any_pop = { limit = { culture = borgar } reduce_pop = 1.5 } }
+        TUR_863 = { any_pop = { limit = { culture = borgar } reduce_pop = 2 } }
         TUR_863 = { add_province_modifier = { name = colonial_recruitment duration = 1825 } }
         TUR_869 = { add_core = BOR remove_core = TUR }
-        TUR_880 = { any_pop = { limit = { culture = borgar } reduce_pop = 1.5 } }
-        TUR_880 = {  add_province_modifier = { name = colonial_recruitment duration = 1825 } }
         TUR_873 = { add_core = BOR remove_core = TUR }
         TUR_876 = { add_core = BOR remove_core = TUR }
         TUR_860 = { add_core = BOR }
         TUR_882 = { remove_core = TUR }
         TUR_860 = { add_core = BOR }
-            TUR_882 = { remove_core = TUR }
+        TUR_882 = { remove_core = TUR }
         set_country_flag = borgar_conquest
     }
 }
@@ -501,11 +499,10 @@ country_event = {
     option = {
         name = "EVT52154OPTA" #Yes
         TUR_863 = { add_core = BOR remove_core = TUR }
-        TUR_863 = { add_province_modifier = { name = colonial_recruitment duration = 1825 } }
-        TUR_880 = { any_pop = { limit = { culture = borgar } reduce_pop = 1.5 } }
-        TUR_880 = {  add_province_modifier = { name = colonial_recruitment duration = 1825 } }
         TUR_873 = { add_core = BOR remove_core = TUR }
+        TUR_873 = { add_province_modifier = { name = colonial_recruitment duration = 1825 } }
         TUR_876 = { add_core = BOR remove_core = TUR }
+        TUR_876 = { add_province_modifier = { name = colonial_recruitment duration = 1825 } }
         TUR_860 = { add_core = BOR }
         TUR_882 = { remove_core = TUR }
         TUR_860 = { add_core = BOR }
@@ -524,7 +521,7 @@ country_event = {
         is_culture_group = north_indian
         RJS = { exists = no }
         military_score = 20
-        NOT = { country_flag = formed_rajastan }
+        NOT = { has_country_flag = formed_rajastan }
     }
 
     mean_time_to_happen = { months = 24 }

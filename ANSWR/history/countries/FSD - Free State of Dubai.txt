@@ -4,7 +4,7 @@ religion = sunni
 government = democracy
 plurality = 5.0
 nationalvalue = nv_liberty
-literacy = 0.22
+literacy = 0.07
 non_state_culture_literacy = 0.01
 
 # Political reforms
@@ -51,11 +51,13 @@ upper_house = {
 foreign_artillery = yes_foreign_artillery
 foreign_weapons = yes_foreign_weapons
 education_reform = yes_education_reform
+research_reform = yes_research_reform
 army_schools = yes_army_schools
 
 # Technologies
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
+late_enlightenment_philosophy = 1
 
 # Inventions
 #bottling_process = yes

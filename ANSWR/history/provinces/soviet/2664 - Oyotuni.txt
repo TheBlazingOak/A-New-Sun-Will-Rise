@@ -3,6 +3,6 @@ controller = FSD
 add_core = NEJ
 add_core = FSD
 add_core = OMA
-trade_goods = fish
+trade_goods = precious_goods
 terrain = mountain
 life_rating = 35

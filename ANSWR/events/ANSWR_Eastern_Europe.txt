@@ -6,7 +6,7 @@ country_event = {
     desc = "EVTDESC52600"
     trigger = {
         tag = BYE
-        NOT = { OR = { 719 = {owned_by = THIS } } }
+        NOT = { 719 = { owned_by = THIS } }
         NOT = { has_global_flag = flight_of_the_one}
     }
 
@@ -15,13 +15,11 @@ country_event = {
     option = {
         name = "EVTOPTA52600" #The Adzinoki Flight
         set_global_flag = flight_of_the_one
-		any_owned_province = { limit = { is_core = yes } add_province_modifier = {name = adzinoki_flight duration = 1825} }
-        any_pop = {
-            limit = {
-                has_pop_culture = adzinoki
-            }
+		any_owned = { 
+            limit = { is_core = BYE } 
+            add_province_modifier = {name = adzinoki_flight duration = 1825} 
             consciousness = 2
-            militancy = 2
+            militancy = 2 
         }
     }
 }

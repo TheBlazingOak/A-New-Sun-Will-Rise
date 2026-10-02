@@ -68,7 +68,6 @@ country_event = {
         political_reform = open_borders
         political_reform = free_press
         political_reform = yes_meeting
-        political_reform = meetings_allowed
     }
     #Favor Poula
     option = {
@@ -111,6 +110,9 @@ country_event = {
         prestige = -5
         RUS_940 = { add_core = THIS }
         RUS_718 = { add_core = THIS }
+        ai_chance = {
+            factor = 100
+        }
     }
 
     #This is all just deflection and fear, to distract us.
@@ -118,6 +120,9 @@ country_event = {
         name = "EVTOPTB52504" #Humanitarian Democratic
         set_country_flag = the_mask_of_fear
         prestige = 10
+        ai_chance = {
+            factor = 0
+        }
     }
 }
 
@@ -138,7 +143,7 @@ country_event = {
         name = "EVTOPTA52505"
         set_country_flag = nowydom_university
         prestige = 10
-        political_reform = acceptable_school_system
+        political_reform = acceptable_schools
     }
 }
 
@@ -150,7 +155,7 @@ country_event = {
     trigger = {
         tag = WRP
         year = 2851
-        OR = { has_country_flag = equal_rights has_country_flag = WRP_senate_free }
+        OR = { has_country_flag = equal_bill has_country_flag = WRP_senate_free }
         NOT = { has_country_flag = ukrana_bill }
         NOT = { has_country_flag = kiev_march }
         NOT = { has_country_flag = crimea_liberated }
@@ -210,7 +215,7 @@ country_event = {
         RUS_959 = { secede_province = UKR }
         RUS_958 = { secede_province = UKR }
         RUS_955 = { secede_province = UKR }
-        #THIS = { create_vassal = UKR }
+        THIS = { create_vassal = UKR }
     }
 }
 #War Againist Ukrana
@@ -253,12 +258,13 @@ country_event = {
         NOT = { has_country_flag = crimea_liberated }
     }
 
-    mean_time_to_happen = { months = 6 }
+    mean_time_to_happen = { days = 14 }
 
     option = {
         name = "EVTOPTA52549" #Hurah for Poulkrana
         set_country_flag = crimea_liberated
         prestige = 10
+        RUS_964 = { add_core = UKR }
         }
 }
 #Poulkrana Liberation of Brest (Makes Poula Happy)
@@ -273,11 +279,109 @@ country_event = {
         NOT = { has_country_flag = brest_liberated }
     }
 
-    mean_time_to_happen = { months = 6 }
+    mean_time_to_happen = { days = 14 }
 
     option = {
         name = "EVTOPTA52550" #Hurah for Poulkrana
         set_country_flag = brest_liberated
         prestige = 10
+        }
+}
+##Unification Events##
+#Paltija Inheritance Event Chain#
+#The Paltijan King
+country_event = {
+    id = 52551
+    title = "EVTNAME52551"
+    desc = "EVTDESC52551"
+    trigger = {
+        tag = LIT
+        year = 2845
+        NOT = { has_country_flag =  the_paltijan_king }
+    }
+
+    mean_time_to_happen = { months = 24 }
+
+    #The King made a promise
+    option = {
+        name = "EVTOPTA52551"
+        set_country_flag = the_paltijan_king
+        prestige = 10
+        WRP = { country_event = 52552 }
+        ai_chance = { factor = 85 }
+        }
+    #Paltija will never be claimed by outsiders
+    option = {
+        name = "EVTOPTB52551"
+        set_country_flag = the_paltijan_king
+        set_global_flag = the_black_prince
+        prestige = -10
+        WRP = { country_event = 52553 }
+        ai_chance = { factor = 15 }
+        }
+}
+country_event = {
+    id = 52552
+    title = "EVTNAME52552"
+    desc = "EVTDESC52552"
+    is_triggered_only = yes
+
+    #Claims on Paltija
+    option = {
+        name = "EVTOPTA52552"
+        set_country_flag = the_paltijan_king
+        prestige = 10
+        WRP = { country_event = 52552 }
+        }
+}
+#Bastard Heir Poulkrana Event
+country_event = {
+    id = 52553
+    title = "EVTNAME52553"
+    desc = "EVTDESC52553"
+    is_triggered_only = yes
+
+    #Claims on Paltija
+    option = {
+        name = "EVTOPTA52553"
+        set_country_flag = the_black_prince
+        PRU_695 = { add_core = WRP }
+        }
+}
+#Inheritance of Paltija
+country_event = {
+    id = 52554
+    title = "EVTNAME52554"
+    desc = "EVTDESC52554"
+    trigger = {
+        tag = WRP
+        year = 2845
+        has_country_flag =  the_paltijan_king
+        NOT = { has_country_flag =  the_paltijan_inheritance }
+    }
+
+    mean_time_to_happen = { months = 24 }
+
+    #Claims on Paltija
+    option = {
+        name = "EVTOPTA52554"
+        set_country_flag = the_paltijan_inheritance
+        prestige = 10
+        THIS = { inherit = LIT }
+        THIS = { inherit = EST }
+        LIT = {
+            any_owned = {
+                limit = { is_core = LIT }
+                add_core = WRP
+            }
+        }
+        WRP = {
+            any_owned = {
+                limit = { is_core = LIT }
+                add_core = WRP
+            }
+        }
+        add_accepted_culture = paltijan
+        add_accepted_culture = osti
         }
 }

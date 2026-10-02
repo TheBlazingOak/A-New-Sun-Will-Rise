@@ -3,6 +3,6 @@ controller = FSD
 add_core = NEJ
 add_core = FSD
 add_core = OMA
-trade_goods = fruit
+trade_goods = opium
 life_rating = 40
 terrain = semidesert

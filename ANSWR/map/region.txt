@@ -389,11 +389,11 @@ TUR_810 = { 809 810 812 816 817 } #Bulgaria
 
 TUR_823 = { 823 829 815 808 } #Eastern Macedonia
 
-GRE_826 = { 839 842 840 841 } #Peloponnese
+GRE_826 = { 839 842 840 841 848 827 } #Peloponnese
 
-GRE_837 = { 834 837 836 835 } #Attica - Central Greece
+GRE_837 = { 834 837 836 835 838 845 } #Attica - Central Greece
 
-EGY_843 = { 838 845 848 827 } #Aegean Islands
+#EGY_843 = { } #Aegean Islands
 
 TUR_853 = { 849 1780 853 852 851 824 826 } #Albania
 
@@ -1038,7 +1038,9 @@ SOK_1937 = { 1949 1952 1951 1953 2049 } #Tukari - West Central Nigeria
 
 NIG_1937 = { 1937 1950 1942 1943 1944 } #Yola Hills
 
-GAB_2573 = { 2573 1877 1775 1779 1774 1781 1782 } #
+GAB_2573 = { 2573 1877 1775 1779 } #Port Arthur
+
+TAR_1774 = { 1774 1781 1782 } #Saharan Desert
 
 WOL_1785 = { 1785 1783 1786 1787 1790 } #Marcage
 

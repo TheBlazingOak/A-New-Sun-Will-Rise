@@ -138,7 +138,7 @@ navy = {
     name = "Poulkranan Flota"
     location = 710 #Krainakrólów
     ship = {
-        name= "Nizińsk"
+        name= "Nizinsk"
         type = manowar
     }
 

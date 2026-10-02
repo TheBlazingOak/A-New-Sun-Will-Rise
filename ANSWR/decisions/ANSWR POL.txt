@@ -3,31 +3,82 @@ political_decisions = {
     poles_in_west = {
         picture = attack_the_laagers
         potential = {
-            tag = WRP
+            THIS = { is_culture = polish }
             NOT = { has_country_flag = poles_in_west }
+            OUD = { exists = yes }
+            NUR = { exists = yes }
         }
 
         allow = {
-            is_greater_power = yes
-            revolution_n_counterrevolution = 1
+            OR = { is_greater_power = yes is_secondary_power = yes }
+            nationalism_n_imperialism = 1
+            prestige = 25
         }
 
         effect = {
         set_country_flag = poles_in_west
-        PRU_546 = { add_core = POL }
-        PRU_682 = { add_core = POL }
-        PRU_701 = { add_core = POL }
-        688 = { add_core = POL }
-        689 = { add_core = POL }
-        2584 = { add_core = POL }
+        PRU_546 = { add_core = WRP }
+        PRU_682 = { add_core = WRP }
+        PRU_701 = { add_core = WRP }
         }
         ai_will_do = {
         factor = 1
         }
     }
+    east_cislavy = {
+        picture = attack_the_laagers
+        potential = {
+            THIS = { is_culture = polish }
+            has_country_flag = poles_in_west
+            NOT = { has_country_flag = poles_of_cislavy }
+        }
+
+        allow = {
+            prestige = 100
+            is_greater_power = yes
+            revolution_n_counterrevolution = 1
+            PRU_546 = { owned_by = WRP }
+            PRU_682 = { owned_by = WRP }
+            PRU_701 = { owned_by = WRP }
+        }
+
+        effect = {
+        set_country_flag = poles_of_cislavy
+        AUS_627 = { add_core = THIS }
+        }
+        ai_will_do = {
+        factor = 1
+        }
+    }
+    nitra_claims = {
+        picture = attack_the_laagers
+        potential = {
+            THIS = { is_culture = polish }
+            has_country_flag = poles_in_west
+            NOT = { has_country_flag = nitra_claims }
+        }
+
+        allow = {
+            prestige = 100
+            is_greater_power = yes
+            revolution_n_counterrevolution = 1
+            PRU_546 = { owned_by = WRP }
+            PRU_682 = { owned_by = WRP }
+            PRU_701 = { owned_by = WRP }
+        }
+
+        effect = {
+        set_country_flag = nitra_claims
+        NIT_714 = { add_core = THIS }
+        }
+        ai_will_do = {
+        factor = 1
+        }
+    }
+
     accept_ukranans = {
         potential = {
-            tag = WRP
+            THIS = { is_culture = polish }
             958 = { owned_by = THIS }
             OR = { 
                 has_country_flag = ukrana_bill 
@@ -35,6 +86,7 @@ political_decisions = {
                 has_global_flag = poulkrana_war_declared 
                 }
                 has_country_flag = crimea_liberated
+                revolution_n_counterrevolution = 1
             }
             NOT = { has_country_flag = ukrana_accepted }
         }
@@ -50,6 +102,79 @@ political_decisions = {
         effect = {
         set_country_flag = ukrana_accepted
         add_accepted_culture = ukrainian
+        NIT_714 = { add_core = THIS }
+        }
+        ai_will_do = {
+        factor = 1
+        }
+    }
+    accept_adzinoki = {
+        potential = {
+            THIS = { is_culture = polish }
+            has_country_flag = brest_liberated
+            NOT = { has_country_flag = ukrana_accepted }
+        }
+
+        allow = {
+            RUS_707 = { owned_by = THIS }
+            RUS_940 = { owned_by = THIS }
+            RUS_718 = { owned_by = THIS }
+            revolution_n_counterrevolution = 1
+            prestige = 15
+        }
+
+        effect = {
+        set_country_flag = adzinoki_accepted
+        add_accepted_culture = byelorussian
+        }
+        ai_will_do = {
+        factor = 1
+        }
+    }
+    nowydom_university = {
+        potential = {
+            712 = { owned_by = THIS }
+            THIS = { is_culture = polish }
+            has_country_flag = nowydom_university
+            NOT = { has_country_flag = nowydom_uni_standard }
+        }
+
+        allow = {
+            biologism = 1
+            money = 250000
+        }
+
+        effect = {
+        add_country_modifier = {
+            name = total_reform
+            duration = -1
+        }
+        treasury = -250000
+        set_country_flag = nowydom_uni_standard
+        }
+        ai_will_do = {
+        factor = 1
+        }
+    }
+    #Ostikunia Paltija
+    end_of_ostikunia = {
+        potential = {
+            EST = { vassal_of = THIS }
+            EST = { ai = yes }
+            year = 2839
+            NOT = { has_country_flag = ostikunia_inherited }
+        }
+
+        allow = {
+            prestige = 15
+        }
+
+        effect = {
+        set_country_flag = ostikunia_inherited
+        prestige = 10
+        RUS_349 = { add_core = LIT }
+        inherit = EST
+        add_accepted_culture = osti
         }
         ai_will_do = {
         factor = 1

@@ -3570,163 +3570,77 @@
 #Karlsruhe (632000/158000 POPS)
 586 = {
     aristocrats = {
-        culture = rhine_german
+        culture = south_german
         religion = ketronant
         size = 1600
     }
 
     bureaucrats = {
-        culture = rhine_german
+        culture = south_german
         religion = ketronant
         size = 700
     }
 
     officers = {
-        culture = rhine_german
+        culture = south_german
         religion = ketronant
         size = 350
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = south_german
         religion = ketronant
         size = 1500
     }
 
     artisans = {
-        culture = rhine_german
+        culture = south_german
         religion = ketronant
         size = 7650
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = south_german
         religion = ketronant
         size = 1550
     }
 
     farmers = {
-        culture = rhine_german
+        culture = south_german
         religion = ketronant
         size = 139650
     }
-
-    clergymen = {
-        culture = rhine_german
-        religion = ketronant
-        size = 100
-    }
-
-    artisans = {
-        culture = rhine_german
-        religion = ketronant
-        size = 250
-    }
-
-    soldiers = {
-        culture = rhine_german
-        religion = ketronant
-        size = 100
-    }
-
-    farmers = {
-        culture = rhine_german
-        religion = ketronant
-        size = 4400
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
-    }
-    ########
 }
 #Freiburg (244000/61000 POPS)
 587 = {
     aristocrats = {
-        culture = rhine_german
+        culture = south_german
         religion = ketronant
         size = 600
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = south_german
         religion = ketronant
         size = 575
     }
 
     artisans = {
-        culture = rhine_german
+        culture = south_german
         religion = ketronant
         size = 2850
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = south_german
         religion = ketronant
         size = 1000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = south_german
         religion = ketronant
-        size = 51975
-    }
-
-    clergymen = {
-        culture = rhine_german
-        religion = ketronant
-        size = 75
-    }
-
-    artisans = {
-        culture = rhine_german
-        religion = ketronant
-        size = 200
-    }
-
-    soldiers = {
-        culture = rhine_german
-        religion = ketronant
-        size = 25
-    }
-
-    farmers = {
-        culture = rhine_german
-        religion = ketronant
-        size = 3700
+        size = 61975
     }
 }
 #Wurttemburg Region (1308000)
