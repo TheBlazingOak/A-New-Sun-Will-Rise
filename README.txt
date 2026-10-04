@@ -1,6 +1,6 @@
 # A-New-Sun-Will-Rise
 A Victoria 2 Mod based off of HPM. Currently in early devolopment.
-The mod is currently in Version 0.72, released on September 28th, 2026
+The mod is currently in Version 0.73
 Installation:
 Move both the ANSWR, and ANSWR.mod files into your Victoria 2 mod folder. You can find it by going into steam, and find your copy of Victoria 2 in your libary.
 Right click the game, and click on properties. From there, move to the Local Files tab, and click Browse Local Files. From there you should see the mod folder, and

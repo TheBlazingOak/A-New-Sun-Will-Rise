@@ -212,10 +212,11 @@ country_event = {
                 factor = 0.10
             }
         }
+        958 = { secede_province = UKR }
+        THIS = { create_vassal = UKR }
         RUS_959 = { secede_province = UKR }
         RUS_958 = { secede_province = UKR }
         RUS_955 = { secede_province = UKR }
-        THIS = { create_vassal = UKR }
     }
 }
 #War Againist Ukrana
