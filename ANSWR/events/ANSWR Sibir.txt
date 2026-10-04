@@ -211,6 +211,6 @@ province_event = {
     option = {
         name = "EVTOPTA95020"
         treasury = 10000
-        research_points = 1000
+        THIS = { research_points = 1000 }
     }
 }

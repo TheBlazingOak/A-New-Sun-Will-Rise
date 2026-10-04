@@ -6775,7 +6775,6 @@ political_decisions = {
             NOT = { has_global_flag = caprivi_purchase_tried }
             2081 = { owner = { NOT = { capital_scope = { continent = africa } } } }
             OR = {
-                2081 = { owner = { has_country_flag = treaty_of_heligoland } }
                 2081 = { owner = { NOT = { tag = ENG } } }
                 NOT = { is_culture_group = germanic }
             }
@@ -6800,32 +6799,6 @@ political_decisions = {
         effect = {
             2081 = { owner = { country_event = 955201 } }
             set_global_flag = caprivi_purchase_tried
-        }
-        ai_will_do = { factor = 1 }
-    }
-
-    free_botswana = {
-        picture = map_botswana
-        potential = {
-            civilized = yes
-            owns = 2074
-            ai = yes
-            NOT = { exists = TSW }
-            exists = SAF
-            OR = {
-                exists = RHO
-                exists = ZBW
-            }
-        }
-
-        allow = {
-            war = no
-        }
-
-        effect = {
-            release_vassal = TSW
-            relation = { who = TSW value = 400 }
-            diplomatic_influence = { who = TSW value = 400 }
         }
         ai_will_do = { factor = 1 }
     }

@@ -112,7 +112,7 @@ political_decisions = {
         potential = {
             THIS = { is_culture = polish }
             has_country_flag = brest_liberated
-            NOT = { has_country_flag = ukrana_accepted }
+            NOT = { has_country_flag = adzinoki_accepted }
         }
 
         allow = {

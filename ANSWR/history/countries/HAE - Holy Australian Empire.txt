@@ -77,9 +77,13 @@ piston_steam_engine = 1
 mechanical_production = 1
 hot_blast = 1
 basic_chemistry = 1
+steamers = 1
+battleship_column_doctrine = 1
 
 #Inventions
 
 # Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 3
+
+schools = hae_tech_school

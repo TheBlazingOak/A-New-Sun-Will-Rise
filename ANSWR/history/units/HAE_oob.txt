@@ -23,6 +23,15 @@ leader = {
     prestige = 0.05
 }
 
+leader = {
+    name = "Albert Irwin"
+    date = 2836.1.1
+    type = sea
+    personality = charismatic
+    background = madman
+    prestige = 0.05
+}
+
 army = {
     name = "The Emperor's Guard"
     location = 2468
@@ -114,7 +123,7 @@ army = {
     }
 }
 navy = {
-    name = "Australia's Hope "
+    name = "Australia's Hope"
     location = 2468
 	ship = {
         name= "Sydney's Pride"
@@ -124,24 +133,164 @@ navy = {
         name= "Sea Lion"
         type = manowar
     }
+    ship = {
+        name= "1. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "2. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "3. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "4. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "5. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "6. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "7. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "8. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "9. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "10. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "11. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "12. Frigate"
+        type = frigate
+    }
 	ship = {
         name= "1st Troop ship"
-        type = clipper_transport
+        type = steam_transport
     }
     ship = {
         name= "2nd Troop ship"
-        type = clipper_transport
+        type = steam_transport
     }    
 	ship = {
         name= "3rd Troop ship"
-        type = clipper_transport
+        type = steam_transport
     }    
 	ship = {
         name= "4th Troop ship"
-        type = clipper_transport
+        type = steam_transport
     }    
 	ship = {
         name= "5th Troop ship"
-        type = clipper_transport
+        type = steam_transport
+    }
+    ship = {
+        name= "6th Troop ship"
+        type = steam_transport
+    }
+    ship = {
+        name= "7th Troop ship"
+        type = steam_transport
+    }    
+    ship = {
+        name= "8th Troop ship"
+        type = steam_transport
+    }    
+    ship = {
+        name= "9th Troop ship"
+        type = steam_transport
+    }    
+    ship = {
+        name= "10th Troop ship"
+        type = steam_transport
+    }
+}
+navy = {
+    name = "Australian Imperial Fleet"
+    location = 1312
+    ship = {
+        name= "Melbore Flight"
+        type = manowar
+    }
+    ship = {
+        name= "Warrnambool"
+        type = manowar
+    }
+    ship = {
+        name= "1. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "2. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "3. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "4. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "5. Frigate"
+        type = frigate
+    }
+    ship = {
+        name= "1st Troop ship"
+        type = steam_transport
+    }
+    ship = {
+        name= "2nd Troop ship"
+        type = steam_transport
+    }    
+    ship = {
+        name= "3rd Troop ship"
+        type = steam_transport
+    }    
+    ship = {
+        name= "4th Troop ship"
+        type = steam_transport
+    }    
+    ship = {
+        name= "5th Troop ship"
+        type = steam_transport
+    }
+    ship = {
+        name= "6th Troop ship"
+        type = steam_transport
+    }
+    ship = {
+        name= "7th Troop ship"
+        type = steam_transport
+    }    
+    ship = {
+        name= "8th Troop ship"
+        type = steam_transport
+    }    
+    ship = {
+        name= "9th Troop ship"
+        type = steam_transport
+    }    
+    ship = {
+        name= "10th Troop ship"
+        type = steam_transport
     }
 }

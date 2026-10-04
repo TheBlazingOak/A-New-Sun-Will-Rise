@@ -331,7 +331,6 @@ country_event = {
         name = "EVTOPTA52552"
         set_country_flag = the_paltijan_king
         prestige = 10
-        WRP = { country_event = 52552 }
         }
 }
 #Bastard Heir Poulkrana Event

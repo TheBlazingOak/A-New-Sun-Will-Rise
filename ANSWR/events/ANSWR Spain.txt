@@ -169,7 +169,7 @@ country_event = {
     option = {
         name = "EVT55427OPTB"
         prestige = -10
-        infamy = 5.0
+        badboy = 5.0
         set_global_flag = valencia_petition_refused
     }
 }
@@ -207,7 +207,7 @@ country_event = {
     option = {
         name = "EVT55429OPTA"
         prestige = 5
-        infamy = -5.0
+        badboy = -5.0
         set_country_flag = preparing_for_valencia_war
         add_country_modifier = {
             name = military_reform
@@ -255,7 +255,6 @@ country_event = {
         add_accepted_culture = catalan
         SPA_503 = { add_core = THIS }
         SPA_498 = { add_core = THIS }
-        CAT_495 = { add_core = THIS }
     }
 }
 #The Valencia Massacre

@@ -122,6 +122,16 @@ schools ={
         unciv_military_modifier = -0.15
     }
 
+    hae_tech_school = {
+        army_tech_research_bonus = 0.1
+        commerce_tech_research_bonus = -0.1
+        culture_tech_research_bonus = -0.15
+        industry_tech_research_bonus = 0.05
+        navy_tech_research_bonus = 0.1
+        unciv_economic_modifier = -0.05
+        unciv_military_modifier = -0.15
+    }
+
     czech_tech_school = {
         army_tech_research_bonus = 0.1
         commerce_tech_research_bonus = 0
@@ -172,7 +182,7 @@ schools ={
 
     french_noble_school = {
         army_tech_research_bonus = -0.15
-        commerce_tech_research_bonus = -.1
+        commerce_tech_research_bonus = -0.1
         culture_tech_research_bonus = 0.1
         industry_tech_research_bonus = 0
         navy_tech_research_bonus = 0.15
