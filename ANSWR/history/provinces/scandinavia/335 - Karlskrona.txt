@@ -1,6 +1,7 @@
 owner = SAP
 controller = SAP
 add_core = SAP
+add_core = NOD
 trade_goods = fish
 life_rating = 35
 naval_base = 1

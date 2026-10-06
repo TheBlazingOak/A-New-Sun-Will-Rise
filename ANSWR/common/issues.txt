@@ -883,8 +883,9 @@ social_reforms = {
         acceptable_health_care = {
             global_population_growth = 0.003
             administrative_multiplier = 3
-            global_immigrant_attract = 0.04
+            global_immigrant_attract = 0.03
             allow = {
+                has_country_flag = gaslights_invented
                 NOT = { has_country_flag = government_busy_with_something }
             }
         }

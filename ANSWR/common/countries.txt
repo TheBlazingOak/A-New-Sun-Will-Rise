@@ -68,7 +68,7 @@ DMN        = "countries/Damasco.txt"
 LIR        = "countries/Lirlo.txt"
 NOU        = "countries/Nouverts.txt"
 NSO        = "countries/New Scotland.txt"
-ASL        = "countries/Anti-Stales League.txt"
+ASL        = "countries/The Northern Union.txt"
 BRQ		   = "countries/Barce-Euskarra.txt"
 SIT        = "countries/Schweizily.txt"
 
@@ -197,6 +197,7 @@ NPE        ="countries/Neo-Persia.txt"
 ALH        ="countries/Al-Sham.txt"
 USS        ="countries/States of the South.txt"
 UGF		   ="countries/The Great Fiefs.txt"
+ABA	       ="countries/New Albion.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"

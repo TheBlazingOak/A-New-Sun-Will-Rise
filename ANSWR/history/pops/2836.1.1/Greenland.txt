@@ -523,21 +523,21 @@ clergymen = {
         size = 500
     }
 }
-#Norwegian
+#danish
 #Nyverden (1156000/289000 POPS)
 1652 = {
     bureaucrats = {
-        culture = norwegian
+        culture = danish
         religion = protestant
         size = 50
     }
     clergymen = {
-        culture = norwegian
+        culture = danish
         religion = protestant
         size = 50
     }
     artisans = {
-        culture = norwegian
+        culture = danish
         religion = protestant
         size = 500
     }
@@ -552,17 +552,17 @@ clergymen = {
         size = 1525
     }
     aristocrats = {
-        culture = norwegian
+        culture = danish
         religion = protestant
         size = 25
     }
     farmers = {
-        culture = norwegian
+        culture = danish
         religion = protestant
         size = 8500
     }
     soldiers = {
-        culture = norwegian
+        culture = danish
         religion = protestant
         size = 500
     }

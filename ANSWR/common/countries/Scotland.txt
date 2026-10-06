@@ -4,7 +4,7 @@ graphical_culture = EuropeanGC
 party = {
     name = "SCO_conservative"
     start_date = 2830.1.1
-    end_date = 1868.1.1
+    end_date = 2868.1.1
 
     ideology = liberal
 
@@ -19,7 +19,7 @@ party = {
 party = {
     name = "SCO_conservative_2"
     start_date = 2830.1.1
-    end_date = 1886.1.1
+    end_date = 2886.1.1
 
     ideology = conservative
 
@@ -33,7 +33,7 @@ party = {
 
 party = {
     name = "SCO_liberal"
-    start_date = 1868.1.1
+    start_date = 2868.1.1
     end_date = 3000.1.1
 
     ideology = liberal
@@ -48,7 +48,7 @@ party = {
 
 party = {
     name = "SCO_conservative_3"
-    start_date = 1886.1.1
+    start_date = 2886.1.1
     end_date = 3000.1.1
 
     ideology = conservative
@@ -78,8 +78,8 @@ party = {
 
 party = {
     name = "SCO_liberal_2"
-    start_date = 1885.1.1
-    end_date = 1892.1.1
+    start_date = 2885.1.1
+    end_date = 2892.1.1
 
     ideology = liberal
 

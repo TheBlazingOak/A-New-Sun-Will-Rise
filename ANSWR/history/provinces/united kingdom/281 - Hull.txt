@@ -1,9 +1,9 @@
-owner = TYN
-controller = TYN
-add_core = TYN
+owner = ASL
+controller = ASL
+add_core = ASL
 add_core = ENL
 trade_goods = coal
-life_rating = 35
+life_rating = 40
 naval_base = 2
 terrain = mining_district
 party_loyalty = {

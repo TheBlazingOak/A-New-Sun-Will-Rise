@@ -1,7 +1,7 @@
-owner = APU
-controller = APU
-add_core = APU
-add_core = SYC
+owner = NET
+controller = NET
+add_core = MLT
 trade_goods = fish
 life_rating = 35
 terrain = small_island
+naval_base = 2

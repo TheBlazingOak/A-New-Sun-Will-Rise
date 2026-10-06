@@ -1,7 +1,8 @@
-owner = NOD
-controller = NOD
+owner = SAP
+controller = SAP
 add_core = GRN
 add_core = NOU
+add_core = SAP
 trade_goods = iron
 life_rating = 35
 terrain = montane_forest

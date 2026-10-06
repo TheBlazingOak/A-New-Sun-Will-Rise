@@ -1,6 +1,7 @@
 owner = PTO
 controller = PTO
 add_core = PTO
+add_core = EGY
 trade_goods = cotton
 life_rating = 35
 terrain = plains

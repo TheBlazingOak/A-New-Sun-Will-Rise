@@ -342,6 +342,7 @@ british = {
     leader = european
     unit = BritishGC
     english = {
+        radicalism = 5
         color = { 220 100 120}
         first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
         Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
@@ -355,7 +356,7 @@ british = {
         Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
         Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
     }
-        welsh = {
+    welsh = {
         color = { 35 100 20}
         first_names = {  
             Adda Adgar Adran Aeddan Aldwr Aldroenus Algwyn Alisander Alured 
@@ -396,7 +397,7 @@ british = {
         }
 
         last_names = { Aberffraw Dinefwr Mathrafal Gwynedd Tudor Kernew "of Cornwall" Glyndwr "Ternyllwg" 
-            "Morgannwg" "Caradoc" "Mostyn" "Gorfynydd" Denbigh "Gwynn" "Gwarthaf" "Môn" "Penfro"
+            "Morgannwg" "Caradoc" "Mostyn" "Gorfynydd" Denbigh "Gwynn" "Gwarthaf" "Man" "Penfro"
             "Aberteifi" "Gethin" "Gruffudd" "Carmarthen" "Mynyw" "Anwyl of Tywyn" "Fane"
             "of Bristol" "Evans" "Owen" "Lloyd" 
         }
@@ -415,6 +416,13 @@ british = {
     }
     scottish = {
         color = { 0 71 182 }
+        primary = SCO
+        first_names = { Alan Alastair Alban Alpin Andrew Angus Aulay Blane Boyd Calum Clyde Coll Derek Donald Donnan Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
+
+        last_names = { Smith Brown Wilson Robertson Thomson Campbell Stewart Anderson Scott Murray MacDonald Reid Taylor Clark Ross Young Mitchell Watson Paterson Morrison Sanders    }
+    }
+    steelmekker = {
+        color = { 148 42 27 }
         radicalism = 5
         primary = SCO
         first_names = { Alan Alastair Alban Alpin Andrew Angus Aulay Blane Boyd Calum Clyde Coll Derek Donald Donnan Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}

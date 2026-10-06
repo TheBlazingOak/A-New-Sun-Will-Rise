@@ -1,60 +1,4 @@
 political_decisions = {
-	
-	#Danish ultimatium
-	skandinaviska_union = {
-	picture = form_scandinavia
-		potential = {
-			tag = SAP
-			exists = NOD
-			311 = {owned_by = THIS}
-			NOT = { has_country_flag = skandinaviska_ultimatium }
-		}
-		allow = {
-				prestige = 20			
-				war = no
-			}
-
-		effect = {
-			set_country_flag = skandinaviska_ultimatium
-			NOD = { country_event = { id=52001 days=7 } }
-		}
-        ai_will_do = { factor = 1 }
-	}
-	
-	#Uniting Scandinava
-	skandinaviska_victory = {
-	picture = SCA_political_union
-		potential = {
-			tag = SAP
-	 		has_country_flag = skandinaviska_victory
-	 		NOT = { has_country_modifier = kalmar_union }
-		}
-		allow = {
-				war = no
-				has_country_flag = skandinaviska_victory
-		}
-		effect = {
-			THIS = {				
-				country_event = { id = 52007 days = 0}
-				add_country_modifier = {
-					name = kalmar_union
-					duration = -1
-					}
-		        prestige = 10
-		        any_pop = {
-		       	limit = { owned_by = THIS }
-		        militancy = -2.00
-		        consciousness = -1.00
-		        }
-		        add_accepted_culture = swedish
-		        add_accepted_culture = norwegian
-		        SWE_308 = { add_core = SAP remove_core = NOD }
-		        SWE_318 = { add_core = SAP remove_core = NOD }
-		        set_country_flag = skandinaviska_victory
-		        }
-		}
-		ai_will_do = { factor = 1 }
-	}
 
 	#Renaming Jylland
 	rename_jylland = {
@@ -152,7 +96,6 @@ political_decisions = {
 			}
 			THIS = { has_country_modifier = kalmar_union }
 			NOT = { has_country_flag = finnish_claims }
-			has_global_flag = finnish_petition
 		}
 		allow = {
 			prestige = 20
@@ -165,29 +108,6 @@ political_decisions = {
 			RUS_336 = { add_core = THIS }
 			RUS_343 = { add_core = THIS }
  			FIN_339 = { add_core = THIS }
-        	}
-		ai_will_do = { factor = 1 }
-	}
-	jylland_claims = {
-		picture = form_scandinavia
-		potential = {
-			OR = {
-				tag = SAP
-				tag = NOD
-				tag = SCA
-			}
-			THIS = { has_country_modifier = kalmar_union }
-			NOT = { has_country_flag = jylland_claims }
-		}
-		allow = {
-			prestige = 15
-			war = no
-		}
-		effect = {
-			set_country_flag = jylland_claims
-			prestige = 5
-			DEN_367 = { add_core = THIS }
-			HOL_369 = { add_core = THIS }
         	}
 		ai_will_do = { factor = 1 }
 	}

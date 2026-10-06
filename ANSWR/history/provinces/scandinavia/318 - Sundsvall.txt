@@ -1,6 +1,6 @@
-owner = NOD
-controller = NOD
-add_core = NOD
+owner = SAP
+controller = SAP
+add_core = SAP
 trade_goods = timber
 life_rating = 35
 #state_building = {

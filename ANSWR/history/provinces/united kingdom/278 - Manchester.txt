@@ -1,9 +1,9 @@
-owner = CHS
-controller = CHS
-add_core = CHS
+owner = ASL
+controller = ASL
+add_core = ASL
 add_core = ENL
 trade_goods = coal
-life_rating = 40
+life_rating = 35
 railroad = 1
 terrain = mining_district
 party_loyalty = {

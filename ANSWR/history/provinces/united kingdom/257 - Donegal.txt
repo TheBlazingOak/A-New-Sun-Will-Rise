@@ -1,8 +1,6 @@
-owner = ULS
-controller = ULS
-add_core = LEC
-add_core = COC
-add_core = ULS
+owner = SCO
+controller = SCO
+add_core = SCO
 add_core = IRE
 trade_goods = cattle
 life_rating = 35

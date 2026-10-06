@@ -4,7 +4,7 @@ religion = koshitsu
 government = theocracy
 plurality = 4.0
 nationalvalue = nv_tradition
-literacy = 0.57
+literacy = 0.22
 prestige = 10
 
 # Political reforms
@@ -53,11 +53,13 @@ nonstate_consciousness = 1
 foreign_weapons = yes_foreign_weapons
 army_schools = yes_army_schools
 land_reform = yes_land_reform
+research_reform = yes_research_reform
 education_reform = yes_education_reform
 
 # Technologies
 flintlock_rifles = 1
 post_nelsonian_thought = 1
+late_enlightenment_philosophy = 1
 
 # Inventions
 #bottling_process = yes

@@ -987,8 +987,10 @@ DUR_prussian_constitutionalism_ADJ;Durrani;;;;;;;;;;;;;,,
 DUR_hms_government_ADJ;Durrani;;;;;;;;;;;;;,,
 DUR_fascist_dictatorship;Durrani Republic;;;;;;;;;;;;;,,
 DUR_fascist_dictatorship_ADJ;Durrani;;;;;;;;;;;;;,,
-ENL;England;;;;;;;;;;;;;,,
-ENL_ADJ;English;;;;;;;;;;;;;,,
+ENL;Angland;;;;;;;;;;;;;,,
+ENL_ADJ;Anglish;;;;;;;;;;;;;,,
+ENL_trading_republic;The Anglish Federation;;;;;;;;;;;;;,,
+ENL_democracy;The Anglish Union;;;;;;;;;;;;;,,
 ENT;Entre Rios;;;;;;;;;;;;;,,
 ENT_ADJ;Entrerriano;;;;;;;;;;;;;,,
 ENT_conservative;Federalistas;;;;;;;;;;;;;,,
@@ -3374,7 +3376,7 @@ GAR_socialist;Fazion Sozialera;;;;;;;;;;;;;
 GAR_communist;Fazion dem Potiekono;;;;;;;;;;;;;
 GAR_fascist;Fazion dem Ultirrak;;;;;;;;;;;;;
 CRR;Carcitra;;;;;;;;;;;;;
-CCR_ADJ;Caercitran;;;;;;;;;;;;;
+CRR_ADJ;Caercitran;;;;;;;;;;;;;
 CRR_proletariat_dictatorship;Comuna Caercitra;;;;;;;;;;;;;
 CRR_conservative;Parti Conservador;;;;;;;;;;;;;
 CRR_liberal;Parti Librere;;;;;;;;;;;;;
@@ -3588,8 +3590,15 @@ NTC_fascist_dictatorship;Taptforviste;;;;;;;;;;;x;
 NTC_bourgeois_dictatorship;Ukjentland;;;;;;;;;;;x;
 NTC_proletarian_dictatorship;Ukjentland;;;;;;;;;;;x;
 NTC_prussian_constitutionalism;Taptforviste;;;;;;;;;;;x;
-ASL;Anti-Stales League;;;;;;;;;;;x;
-ASL_ADJ;Anti-Unionist;;;;;;;;;;;x;
+ASL;The Northern Union;;;;;;;;;;;x;
+ASL_ADJ;Steelmekker;;;;;;;;;;;x;
+ASL_hms_government;The Kingdom of the North;;;;;;;;;;;x;
+ASL_absolute_monarchy;The Kingdom of the North;;;;;;;;;;;x;
+ASL_presidential_dictatorship;The Northern Republic;;;;;;;;;;;x;
+ASL_bourgeois_dictatorship;The Northern Lands;;;;;;;;;;;x;
+ASL_proletarian_dictatorship;The Northern Commune;;;;;;;;;;;x;
+ASL_prussian_constitutionalism;The Kingdom of the North;;;;;;;;;;;x;
+ASL_trading_republic;The Northern Trade League;;;;;;;;;;;x;
 SAF;Der Kaap;;;;;;;;;;;x;
 SAF_ADJ;Kaap;;;;;;;;;;;x;
 SAF_democracy;Kaap Republic;;;;;;;;;;;x;
@@ -3952,3 +3961,5 @@ RJS_hms_government;Rajastani Empire;;;;;;;;;;;;;,,
 RJS_prussian_constitutionalism;Rajastani Empire;;;;;;;;;;;;;,,
 RJS_democracy;Rajastani Republic;;;;;;;;;;;;;,,
 RJS_absolute_monarchy;Rajastani Empire;;;;;;;;;;;;;,,
+ABA;New Albion;;;;;;;;;;;;;,,
+ABA_ADJ;Scottish;;;;;;;;;;;;;,,

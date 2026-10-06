@@ -363,37 +363,26 @@
         religion = orthodox
         size = 500
     }
-
     clergymen = {
         culture = westgeorgian
         religion = orthodox
         size = 250
     }
-
     artisans = {
         culture = westgeorgian
         religion = orthodox
         size = 1300
     }
-
     soldiers = {
         culture = westgeorgian
         religion = orthodox
         size = 275
     }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 3500
-    }
-
     serfs = {
         culture = westgeorgian
         religion = orthodox
         size = 20675
     }
-
     farmers = {
         culture = westgeorgian
         religion = orthodox
@@ -405,91 +394,27 @@
     aristocrats = {
         culture = westgeorgian
         religion = orthodox
-        size = 75
+        size = 2175
     }
-
     clergymen = {
         culture = westgeorgian
         religion = orthodox
-        size = 75
+        size = 175
     }
-
     artisans = {
         culture = westgeorgian
         religion = orthodox
-        size = 200
+        size = 1200
     }
-
     soldiers = {
         culture = westgeorgian
         religion = orthodox
-        size = 50
+        size = 3650
     }
-
     farmers = {
         culture = westgeorgian
         religion = orthodox
-        size = 17600
-    }
-
-    aristocrats = {
-        culture = abkhazian
-        religion = orthodox
-        size = 150
-    }
-
-    clergymen = {
-        culture = abkhazian
-        religion = orthodox
-        size = 75
-    }
-
-    artisans = {
-        culture = abkhazian
-        religion = orthodox
-        size = 450
-    }
-
-    soldiers = {
-        culture = westgeorgian
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = abkhazian
-        religion = orthodox
-        size = 28225
-    }
-
-    aristocrats = {
-        culture = abkhazian
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = abkhazian
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = abkhazian
-        religion = sunni
-        size = 250
-    }
-
-    soldiers = {
-        culture = abkhazian
-        religion = sunni
-        size = 50
-    }
-
-    farmers = {
-        culture = abkhazian
-        religion = sunni
-        size = 20550
+        size = 47600
     }
 }
 #Rise-Artvin (Lazica aka Sunni Coastal West Georgians)

@@ -627,35 +627,30 @@
 #Fernando Po (11000/2750 POPS)
 1955 = {
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = scottish
+        religion = protestant
         size = 25
     }
-
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = scottish
+        religion = protestant
         size = 50
     }
-
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = scottish
+        religion = protestant
         size = 200
     }
-
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = scottish
+        religion = protestant
         size = 125
     }
-
     farmers = {
-        culture = nork
-        religion = ketronant
-        size = 7175
+        culture = scottish
+        religion = protestant
+        size = 11175
     }
-
     slaves = {
         culture = bakongo
         religion = animist

@@ -2,6 +2,7 @@ owner = HDJ
 controller = HDJ
 add_core = HDJ
 add_core = EGY
+add_core = PTO
 trade_goods = precious_goods
 life_rating = 32
 terrain = semidesert

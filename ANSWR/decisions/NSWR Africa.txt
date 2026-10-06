@@ -110,6 +110,48 @@ political_decisions = {
 			
 		}
 	}
+	##Aigyptos##
+	new_aigyptos = {
+		alert = yes
+		potential = {
+			THIS = { primary_culture = grecocopt }
+			NOT = { has_country_flag = new_egypt }
+		}
+		allow = {
+			EGY_1745 = { owned_by = THIS }
+			}
+		effect = {
+			set_country_flag = new_egypt
+			prestige = 10
+			EGY_1762 = { add_core = THIS }
+			EGY_1771 = { add_core = THIS }
+			EGY_1758 = { add_core = THIS }
+			
+		}
+	}
+	the_older_greece = {
+		alert = yes
+		potential = {
+			THIS = { primary_culture = grecocopt }
+			has_country_flag = new_egypt
+			NOT = { has_country_flag = new_greece }
+		}
+		allow = {
+			EGY_1762 = { owned_by = THIS }
+			EGY_1771 = { owned_by = THIS }
+			EGY_1758 = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+			}
+		effect = {
+			set_country_flag = new_greece
+			prestige = 10
+			GRE_826 = { add_core = THIS }
+			GRE_837 = { add_core = THIS }
+			TUR_805 = { add_core = THIS }
+			TUR_823 = { add_core = THIS }
+			
+		}
+	}
 	#Formables
 	the_great_fiefs = {
 		alert = yes
@@ -124,7 +166,7 @@ political_decisions = {
 			OR = { AND = { ai = yes prestige = 3 } prestige = 15 }
 			}
 		effect = {
-			set_country_flag = the_great_fiefs
+			set_global_flag = the_great_fiefs
 			change_tag = UGF
 			inherit = KNY
 			inherit = BUG

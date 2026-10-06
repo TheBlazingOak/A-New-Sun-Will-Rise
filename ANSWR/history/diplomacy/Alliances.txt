@@ -12,6 +12,13 @@ alliance = {
     start_date = 2820.4.17
     end_date = 2840.9.9
 }
+#Anti-Stales League
+alliance = {
+    first = SCO
+    second = ASL
+    start_date = 2820.4.17
+    end_date = 2860.9.9
+}
 #South German Alliances
 alliance = {
     first = BAV

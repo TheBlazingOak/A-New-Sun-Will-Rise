@@ -69,7 +69,7 @@ From;To;Type;Through;Data;Comment
 #
 # European Straits
 #
-254;271;sea;2737;0;Irish Strait
+256;270;sea;2737;0;Irish Strait
 334;372;sea;2711;0; resund
 335;374;sea;2710;0;Bornholmsf rjan
 353;349;sea;2709;0; selsund
@@ -103,7 +103,7 @@ From;To;Type;Through;Data;Comment
 267;1724;sea;2735;0;Inverness - Orkney Strait
 780;782;land;2762;0;Mostar Bay
 #301;400;sea;2724;0;UK - France Strait
-291;292;land;2732;0;Ipswich Cambridge
+288;290;land;2732;0;Lincoln Strait
 280;269;sea;3289;0;Newcastle Edinburgh
 427;425;land;3328;0;Parii-Melun
 408;425;land;3328;0;Parii-Chalons
@@ -151,6 +151,7 @@ From;To;Type;Through;Data;Comment
 1640;1660;land;2843;0;Fukuoka Strait
 1651;1650;land;2843;0;Atorantisu Strait
 1642;1672;sea;2841;0;Hakodate Strait
+1642;1643;sea;2841;0;Hakodate Strait
 #1664;1666;land;2843;0;Matsuyama Strait
 1667;1659;land;2843;0;Setto Strait
 1411;1408;sea;2803;0;Gunungsitoli Strait
@@ -186,6 +187,8 @@ From;To;Type;Through;Data;Comment
 1249;1262;sea;3307;0;Kharswari Strait
 1248;1270;sea;3303;0;Gaya Strait
 1495;1504;sea;2824;0;Maoming-Pingle Strait
+1660;1661;land;2829;0;Nagasaki-Fukuoka Strait
+1646;1648;sea;2841;0;Kamazawa Strait
 
 #Lebannon
 896;900;sea;2770;0;Antakya Strait 

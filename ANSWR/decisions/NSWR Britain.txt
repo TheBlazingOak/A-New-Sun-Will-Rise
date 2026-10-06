@@ -1,206 +1,126 @@
 ### ENGLAND
 political_decisions = {
-	support_sutton = {
-
+	form_new_albion = {
+		picture = england_form
 		potential = {
-		exists = yes
-		tag = UNS
-		has_country_flag = the_lions_speech
+			primary_culture = scottish
+			has_global_flag = stal_union_defeated
+			OR = { ASL = { exists = yes } 281 = {owned_by = THIS}}
+			NOT = {has_country_flag = new_albion}
 		}
 		allow = {
-		prestige = 60
-		ideological_thought = 1
-		}
-		effect = {
-		UNS = { country_event = 17301 }
-		clr_country_flag = the_lions_speech
-		}
-		ai_will_do = { factor = 1 } 
-	}
-	anti_stales_league_player = {
-		picture = anti_stales_league
-		potential = {
-		ai = no
-		exists = yes
-		has_global_flag = the_lions_speech
-		capital_scope = { continent = europe }
-		primary_culture = english		
-		NOT = { tag = UNS}
-		NOT = { tag = ASL}	
-		}
-		allow = {
-		prestige = 25
-		}
-		effect = {
-		change_tag = ASL
-			any_country = {
-                limit = {
-                capital_scope = { continent = europe }
-				primary_culture = english
-				NOT = { tag = UNS}
-				NOT = { tag = THIS}
-                }
-                country_event = 17309
-            }
-        all_core = {
-        remove_core = THIS
-        }
-		THIS = { country_event = 17304 }
-		}
-	}
-	anti_stales_league = {
-	picture = anti_stales_league
-		potential = {
-		ai = yes
-		exists = yes
-		has_country_flag = the_lions_speech
-		NOT = { has_global_flag = the_lions_speech }
-		NOT = { has_global_flag = anti_stales_league_formed}
-		capital_scope = { continent = europe }
-		primary_culture = english
-		NOT = { tag = UNS }		
-		NOT = { tag = ASL}		
-		}
-		allow = {
-		prestige = 25
-		}
-		effect = {
-		change_tag = ASL
-			any_country = {
-	                limit = {
-	                capital_scope = { continent = europe }
-					primary_culture = english
-					NOT = { tag = UNS}
-					NOT = { tag = THIS}
-	                }
-	                country_event = 17309
-	            }
-	        all_core = {
-	        remove_core = THIS
-	        }
-		THIS = { country_event = 17304 }
-		}
-		ai_will_do = { factor = 1 }  
-	}
-	stales_england_form_asl = {
-	picture = england_form
-		potential = {
-		exists = yes
-		has_global_flag = anti_stales_league_formed
-		tag = UNS
-		NOT = { tag = ENL }
-		NOT = { has_country_flag = england_formed }
-		ENG_277 = { owned_by = UNS }
-		ENG_280 = { owned_by = UNS }
-		ENG_291 = { owned_by = UNS }
-		}
-
-		allow = {
-		}
-		effect = {
-		UNS = { country_event = 17308 }
-		set_country_flag = england_formed
-		}
-		ai_will_do = { factor = 1 } 
-	}
-	anti_stales_england_form = {
-	picture = england_form
-		potential = {
-		exists = yes
-		has_global_flag = anti_stales_league_formed
-		tag = ASL
-		NOT = { tag = ENL }
-		NOT = { has_country_flag = england_formed }
-			UNS = {
-			is_disarmed = yes
+			OR = { 
+				nationalism_n_imperialism = 1
+				AND = { 
+				ENG_280 = { owned_by = THIS }
+				ENG_291 = { owned_by = THIS }
+				ENG_277 = { owned_by = THIS }
+				}
 			}
 		}
+		effect = {
+			prestige = 10
+			add_accepted_culture = steelmekker
+			change_tag = ABA
+			set_country_flag = new_albion
+			country_event = 17307
+		}
+	}
+	end_of_the_stales = {
+		potential = {
+			OR = { primary_culture = scottish primary_culture = steelmekker }
+			OR = { has_country_flag = new_albion has_country_flag = england_ambitions }
+			NOT = {has_country_flag = end_of_stales }
+		}
 		allow = {
+			nationalism_n_imperialism = 1
+			AND = { 
+				ENG_273 = { owned_by = THIS }
+        		ENG_296 = { owned_by = THIS }
+        		ENG_300 = { owned_by = THIS }
+			}
 		}
 		effect = {
-		UNS = { country_event = 17306 }
-		THIS = { country_event = 17307 }
-		set_country_flag = england_formed
+			prestige = 10
+			add_accepted_culture = english
+			ENG_273 = { remove_core = UNS }
+        	ENG_296 = { remove_core = UNS }
+        	ENG_300 = { remove_core = UNS }
+			inherit = UNS
+			set_country_flag = end_of_stales
 		}
-		ai_will_do = { factor = 1 } 
 	}
-
-	apologize_english = {
-
+	the_old_man_of_albion = {
 		potential = {
-		exists = yes
-		tag = UNS
-		has_country_flag = denounced_lions_speech
-		NOT = { has_country_flag = unionist_apology }
+			OR = { primary_culture = english primary_culture = steelmekker }
+			OR = { has_country_flag = england_formed has_country_flag = england_ambitions}
+			NOT = {has_country_flag = old_man_of_albion }
 		}
 		allow = {
-		prestige = 50
-		ideological_thought = 1
+			nationalism_n_imperialism = 1
 		}
 		effect = {
-		prestige = 5
-			relation = {
-	            who = TYN
-	            value = 25
-	        }
-	        relation = {
-	            who = CHS
-	            value = 25
-	        }
-	        relation = {
-	            who = ANI
-	            value = 25
-	        }
-	        set_country_flag = unionist_apology
+			set_country_flag = old_man_of_albion
+			ENG_271 = { add_core = THIS }
+			ENG_266 = { add_core = THIS }
+			ENG_254 = { add_core = THIS }
 		}
-		ai_will_do = { factor = 1 }  
 	}
-	offer_compensation_english = {
-
-	picture = institute_central_bank
-
+	accept_the_scots = {
 		potential = {
-		exists = yes
-		tag = UNS
-		has_country_flag = imprisioned_the_lions_speech
-		NOT = { has_country_flag = unionist_apology }
+			OR = { primary_culture = scottish primary_culture = steelmekker primary_culture = english }
+			OR = { has_country_flag = new_albion has_country_flag = england_ambitions has_country_flag = england_formed }
+			has_country_flag = dead_man_of_albion
+			NOT = {has_country_flag = accepted_scottish }
 		}
 		allow = {
-		prestige = 50
-		ideological_thought = 1
+			revolution_n_counterrevolution = 1
+			ENG_271 = { owned_by = THIS }
+			ENG_266 = { owned_by = THIS }
 		}
 		effect = {
-			prestige = 5
-			any_country ={
-	            limit = { 
-	            exists = yes
-	            ai = yes
-	            capital_scope = { continent = europe }
-	            primary_culure = english
-	            NOT = { tag = UNS }
-	            }
-	            country_event = 17302
-	        }
-	        set_country_flag = unionist_apology
+			set_country_flag = accepted_scottish
+			prestige = 10
+			add_accepted_culture = scottish
+			add_accepted_culture = scottish_greenlander
 		}
-		ai_will_do = { factor = 1 }  
 	}
-	form_ireland = {
-	picture = ireland
+	the_isle_of_emeralds = {
 		potential = {
-		primary_culture = irish
-		NOT = { tag = IRE }
+			OR = { primary_culture = scottish primary_culture = steelmekker primary_culture = english }
+			OR = { has_country_flag = new_albion has_country_flag = england_ambitions has_country_flag = england_formed }
+			has_country_flag = old_man_of_albion
+			NOT = { has_country_flag = isle_of_emeralds }
 		}
 		allow = {
-			ENG_254 = { owned_by = THIS }
-			ENG_258 = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+			all_core = { owned_by = THIS }
+		}
+		effect = {
+			set_country_flag = isle_of_emeralds
+			add_accepted_culture = irish
+			ENG_263 = { add_core = THIS }
+			ENG_258 = { add_core = THIS }
+			ENG_254 = { add_core = THIS }
+		}
+	}
+	accept_irish = {
+		potential = {
+			OR = { primary_culture = scottish primary_culture = steelmekker primary_culture = english }
+			OR = { has_country_flag = new_albion has_country_flag = england_ambitions has_country_flag = england_formed }
+			has_country_flag = isle_of_emeralds
+			NOT = {has_country_flag = accepted_irish }
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
 			ENG_263 = { owned_by = THIS }
+			ENG_258 = { owned_by = THIS }
+			ENG_254 = { owned_by = THIS }
 		}
 		effect = {
-		prestige = 10
-		change_tag = IRE
-		any_owned = { limit = { is_core = IRE} remove_core = LEC remove_core = ULS remove_core = COC }
+			set_country_flag = accepted_irish
+			prestige = 10
+			add_accepted_culture = irish
 		}
-		ai_will_do = { factor = 1 } 
 	}
 }

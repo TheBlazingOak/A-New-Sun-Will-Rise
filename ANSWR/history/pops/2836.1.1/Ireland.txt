@@ -2,172 +2,140 @@
 #under rule of Ulster
 #Belfast (540000/135000 POPs)
 254 = {
-
     clergymen = {
         culture = irish
         religion = prosperity
         size = 250
     }
-
     soldiers = {
         culture = irish
         religion = prosperity
         size = 6000
     }
-
     artisans = {
         culture = irish
         religion = prosperity
         size = 9000
     }
-
     artisans = {
         culture = irish
         religion = prosperity
         size = 9000
     }
-
-    artisans = {
-        culture = irish
-        religion = prosperity
-        size = 3250
-    }
-
     farmers = {
         culture = irish
         religion = prosperity
-        size = 125250
+        size = 105250
     }
-
     aristocrats = {
         culture = irish
         religion = prosperity
         size = 2100
     }
-
-    officers = {
-        culture = irish
-        religion = prosperity
-        size = 350
-    }
-
-    bureaucrats = {
-        culture = irish
-        religion = prosperity
-        size = 1125
-    }
-
-    craftsmen = {
-        culture = irish
-        religion = prosperity
-        size = 6350
-    }
-
-    clerks = {
-        culture = irish
-        religion = prosperity
-        size = 725
+    farmers = {
+        culture = scottish
+        religion = protestant
+        size = 10000
     }
 }
 #Londonderry (524000/131000 POPS)
 255 = {
-
     aristocrats = {
         culture = irish
         religion = prosperity
         size = 750
     }
-
     clergymen = {
         culture = irish
         religion = prosperity
         size = 250
     }
-
     artisans = {
         culture = irish
         religion = prosperity
         size = 3500
     }
-
     soldiers = {
         culture = irish
         religion = prosperity
         size = 700
     }
-
     farmers = {
         culture = irish
         religion = prosperity
         size = 43000
     }
+    farmers = {
+        culture = scottish
+        religion = protestant
+        size = 10000
+    }
 }
 #Amargh (524000/131000 POPS)
 256 = {
-
     aristocrats = {
         culture = irish
         religion = prosperity
         size = 1750
     }
-
     clergymen = {
         culture = irish
         religion = prosperity
         size = 1250
     }
-
     artisans = {
         culture = irish
         religion = prosperity
         size = 8500
     }
-
     soldiers = {
         culture = irish
         religion = prosperity
         size = 4500
     }
-
     farmers = {
         culture = irish
         religion = prosperity
-        size = 93000
+        size = 73000
+    }
+    farmers = {
+        culture = scottish
+        religion = protestant
+        size = 15000
     }
 }
 #Donegal (508000/127000 POPS)
 257 = {
-
     aristocrats = {
         culture = irish
         religion = prosperity
         size = 800
     }
-
     clergymen = {
         culture = irish
         religion = prosperity
         size = 250
     }
-
     artisans = {
         culture = irish
         religion = prosperity
         size = 3750
     }
-
     soldiers = {
         culture = irish
         religion = prosperity
         size = 1500
     }
-
     farmers = {
         culture = irish
         religion = prosperity
-        size = 62250
+        size = 52250
     }
-
+    farmers = {
+        culture = scottish
+        religion = protestant
+        size = 15000
+    }
 }
 #Connaught Region - 1316000
 #under rule of Britain 1836

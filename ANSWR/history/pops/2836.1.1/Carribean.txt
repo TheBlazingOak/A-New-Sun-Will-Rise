@@ -892,37 +892,37 @@
 2213 = {
 
     bureaucrats = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 1500
     }
 
     aristocrats = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 3825
     }
 
     officers = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 1750
     }
 
     artisans = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 14050
     }
 
     soldiers = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 6000
     }
@@ -936,25 +936,25 @@
 #Cap Haitien (204000/51000 POPS)
 2215 = {
     aristocrats = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 2550
     }
 
     clergymen = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 12550
     }
 
     soldiers = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 3000
     }
@@ -969,37 +969,37 @@
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
     aristocrats = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 700
     }
 
     bureaucrats = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 62375
     }
@@ -1031,31 +1031,31 @@
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
     aristocrats = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 550
     }
 
     clergymen = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = norwegian
+        culture = danish
         religion = catholic
         size = 15175
     }

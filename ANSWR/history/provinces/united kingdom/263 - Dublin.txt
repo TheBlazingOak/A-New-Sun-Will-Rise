@@ -1,8 +1,5 @@
-owner = LEC
-controller = LEC
-add_core = LEC
-add_core = COC
-add_core = ULS
+owner = IRE
+controller = IRE
 add_core = IRE
 trade_goods = iron
 naval_base = 1

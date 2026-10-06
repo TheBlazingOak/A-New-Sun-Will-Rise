@@ -341,6 +341,7 @@ AGRESSION_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$British-American War;;;;;;;;;;;;;
 NORMAL_WAR_ALL_CORES_NAME_USA_ENG;$ORDER$British-American War;;;;;;;;;;;;;
 AGRESSION_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$British-American War;;;;;;;;;;;;;
 NORMAL_WAR_ALL_CORES_NAME_ENG_USA;$ORDER$British-American War;;;;;;;;;;;;;
+NORMAL_WAR_PERSIA_IMPERIALISM;$ORDER$War of Persian Imperialism;;;;;;;;;;;;;
 NORMAL_WAR_PERSIA_UNIFICATION;$ORDER$War of Persian Unification;;;;;;;;;;;;;
 persia_acquire_state_short;$STATE$ Neo-Persian Scramble;;;;;;;;;;;;;
 persia_acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;;
@@ -362,6 +363,10 @@ demand_capital_concession;Demand Capital Concession;x
 demand_capital_concession_short;Demand the capital state of $STATE$;x
 demand_capital_concession_desc;Force a country to secede its capital to form a concession;x
 demand_capital_concession_setup;Demand that $RECIPIENT$ secede their capital to form a concession;x
+minor_conquest;Minor Conquest;x
+minor_conquest_short;Annex $RECIPIENT$;x
+minor_conquest_desc;Annex a minor country;x
+minor_conquest_setup;Annex $RECIPIENT$;x
 minor_conquest;Minor Conquest;x
 minor_conquest_short;Annex $RECIPIENT$;x
 minor_conquest_desc;Annex a minor country;x
