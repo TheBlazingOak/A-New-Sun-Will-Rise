@@ -16,7 +16,7 @@ country_event = {
     owns = 310
     owns = 311
     owns = 1021
-    year = 2850
+    THIS = { NOT = { alliance_with = SAP } }
     NOT = { has_global_flag = bergen_treaty_ended }
     }
 
@@ -37,6 +37,7 @@ country_event = {
         1021 = { add_core = SCO }
         prestige = 10
         set_global_flag = bergen_treaty_ended
+        set_country_flag = bergen_peacful_transfer
         relation = {
             who = SAP
             value = 200
@@ -170,6 +171,7 @@ country_event = {
     }
     311 = { is_core = SCO }
     has_global_flag = bergen_treaty_ended
+    NOT = {has_country_flag = bergen_peacful_transfer}
     tag = SCO
     }
     option = {
@@ -443,7 +445,7 @@ country_event = {
     }
     #Go there on way
     option = {
-        name = "EVTOPTA17306"
+        name = "EVTOPTB17306"
         set_country_flag = scotia_decay
         prestige = -10
         ASL = { relation = { value = -100 } }

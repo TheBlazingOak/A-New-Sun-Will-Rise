@@ -34,7 +34,7 @@ party = {
 party = {
     name = "IRE_liberal_2"
     start_date = 2830.1.1
-    end_date = 1845.1.1
+    end_date = 2845.1.1
 
     ideology = liberal
 
@@ -48,8 +48,8 @@ party = {
 
 party = {
     name = "IRE_liberal_3"
-    start_date = 1850.1.1
-    end_date = 1866.1.1
+    start_date = 2850.1.1
+    end_date = 2866.1.1
 
     ideology = liberal
 
@@ -64,7 +64,7 @@ party = {
 party = {
     name = "IRE_liberal_4"
     start_date = 2859.1.1
-    end_date = 1879.1.1
+    end_date = 2879.1.1
 
     ideology = liberal
 
@@ -78,7 +78,7 @@ party = {
 
 party = {
     name = "IRE_liberal_5"
-    start_date = 1879.1.1
+    start_date = 2879.1.1
     end_date = 2890.1.1
 
     ideology = liberal
@@ -93,7 +93,7 @@ party = {
 
 party = {
     name = "IRE_liberal_6"
-    start_date = 1879.1.1
+    start_date = 2879.1.1
     end_date = 3000.1.1
 
     ideology = liberal

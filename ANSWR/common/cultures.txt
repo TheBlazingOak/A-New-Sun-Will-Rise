@@ -469,20 +469,6 @@ italian = {
         last_names = { Abela Adami Azzopardi Boffa Borg Buhagiar Cassar Farrugia Frendo Gonzi
         Howard Mifsud Mintoff Mizzi Muscat Olivier Puli Pullicino Strickland Vella }
     }
-    provencal = {
-        color = {118 232 223}
-        first_names = { Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
-        Charles Daniel Denis Edouard Elie ettiene Eugene Felicien Felix Fernand
-        Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-        Joseph Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
-        Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-
-        last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boue de Lapeyrere" Bouet-Willaumez Boulanger Bourbaki
-        Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
-        "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
-        Foch Forey "Franchet d'Esperey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-        Jaures Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Pellissier Petain Vaillant }
-        }
     union = ITA
 }
 
@@ -602,6 +588,20 @@ french = {
 
         last_names = { Amiel Benet Dardier Delpuech Ladiveze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
     }
+    provencal = {
+        color = {118 232 223}
+        first_names = { Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
+        Charles Daniel Denis Edouard Elie ettiene Eugene Felicien Felix Fernand
+        Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+        Joseph Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
+        Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
+
+        last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boue de Lapeyrere" Bouet-Willaumez Boulanger Bourbaki
+        Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
+        "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
+        Foch Forey "Franchet d'Esperey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
+        Jaures Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Pellissier Petain Vaillant }
+        }
     union = FRE
 }
 
