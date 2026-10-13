@@ -115,40 +115,6 @@ army = {
     }
 
 }
-navy = {
-    name = "Jahoflot"
-    location = 948
-
-    ship = {
-        name= "Pinsk"
-        type = manowar
-    }
-
-    ship = {
-        name= "Baranovichi"
-        type = manowar
-    }
-
-    ship = {
-        name= "Lida"
-        type = frigate
-    }
-
-    ship = {
-        name= "Raskol"
-        type = clipper_transport
-    }
-
-    ship = {
-        name= "Varyjaca"
-        type = clipper_transport
-    }
-
-    ship = {
-        name= "Novialiki"
-        type = clipper_transport
-    }
-}
 
 leader = {
     name = "Benedicht Krist"

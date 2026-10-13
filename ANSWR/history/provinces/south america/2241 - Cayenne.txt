@@ -1,5 +1,5 @@
 owner = NSP
 controller = NSP
 add_core = NSP
-trade_goods = precious_goods
-life_rating = 40
+trade_goods = precious_metal
+life_rating = 35

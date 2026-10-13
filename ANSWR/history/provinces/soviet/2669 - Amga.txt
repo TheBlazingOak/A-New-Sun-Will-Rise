@@ -4,3 +4,4 @@ add_core = SWI
 trade_goods = iron
 life_rating = 40
 railroad = 2
+naval_base = 1

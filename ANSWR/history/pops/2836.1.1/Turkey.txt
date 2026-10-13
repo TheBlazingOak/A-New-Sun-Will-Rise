@@ -2,137 +2,96 @@
 #under the rule of Ottoman Empire in 1836
 #Edirne (172000/43000 POPS)
 828 = {
-    aristocrats = {
-        culture = westturkish
-        religion = sunni
-        size = 900
-    }
-
-    bureaucrats = {
-        culture = westturkish
-        religion = sunni
-        size = 225
-    }
-
-    clergymen = {
-        culture = westturkish
-        religion = sunni
-        size = 175
-    }
-
-    artisans = {
-        culture = westturkish
-        religion = sunni
-        size = 1000
-    }
-
-    soldiers = {
-        culture = westturkish
-        religion = sunni
-        size = 1100
-    }
-
-    farmers = {
-        culture = westturkish
-        religion = sunni
-        size = 17825
-    }
-
-    clergymen = {
-        culture = westturkish
-        religion = sunni
-        size = 175
-    }
-
-    artisans = {
-        culture = westturkish
-        religion = sunni
-        size = 1000
-    }
-
-    soldiers = {
-        culture = westturkish
-        religion = sunni
-        size = 500
-    }
-
-    farmers = {
-        culture = westturkish
-        religion = sunni
-        size = 11525
-    }
-
-    clergymen = {
-        culture = iskhor
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = iskhor
-        religion = orthodox
-        size = 500
-    }
-
-    soldiers = {
-        culture = iskhor
-        religion = orthodox
-        size = 500
-    }
-
-    farmers = {
-        culture = iskhor
-        religion = orthodox
-        size = 9950
-    }
-
-    clergymen = {
-        culture = borgar
-        religion = the_broken
-        size = 200
-    }
-
-    artisans = {
-        culture = borgar
-        religion = the_broken
-        size = 400
-    }
-
-    soldiers = {
-        culture = borgar
-        religion = the_broken
-        size = 400
-    }
-
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 500
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 200
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 600
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 200
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 1000
-    }
+	aristocrats = {
+		culture = westturkish
+		religion = sunni
+		size = 900
+	}
+	bureaucrats = {
+		culture = westturkish
+		religion = sunni
+		size = 225
+	}
+	clergymen = {
+		culture = westturkish
+		religion = sunni
+		size = 175
+	}
+	artisans = {
+		culture = westturkish
+		religion = sunni
+		size = 1000
+	}
+	soldiers = {
+		culture = westturkish
+		religion = sunni
+		size = 1100
+	}
+	farmers = {
+		culture = westturkish
+		religion = sunni
+		size = 17825
+	}
+	clergymen = {
+		culture = westturkish
+		religion = sunni
+		size = 175
+	}
+	artisans = {
+		culture = westturkish
+		religion = sunni
+		size = 1000
+	}
+	soldiers = {
+		culture = westturkish
+		religion = sunni
+		size = 500
+	}
+	farmers = {
+		culture = westturkish
+		religion = sunni
+		size = 11525
+	}
+	clergymen = {
+		culture = iskhor
+		religion = orthodox
+		size = 120
+	}
+	artisans = {
+		culture = iskhor
+		religion = orthodox
+		size = 500
+	}
+	soldiers = {
+		culture = iskhor
+		religion = orthodox
+		size = 500
+	}
+	farmers = {
+		culture = iskhor
+		religion = orthodox
+		size = 9950
+	}
+	clergymen = {
+		culture = borgar
+		religion = the_broken
+		size = 200
+	}
+	artisans = {
+		culture = borgar
+		religion = the_broken
+		size = 400
+	}
+	soldiers = {
+		culture = borgar
+		religion = the_broken
+		size = 400
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 500
+	}
 }
 #Kirklareli (112000/28000 POPS)
 858 = {
@@ -360,124 +319,71 @@
 #under the rule of Ottoman Empire in 1836
 #Istanbul (764000/191000 POPS)
 860 = {
-    aristocrats = {
-        culture = westturkish
-        religion = sunni
-        size = 750
-    }
-
-    bureaucrats = {
-        culture = westturkish
-        religion = sunni
-        size = 700
-    }
-
-    officers = {
-        culture = westturkish
-        religion = sunni
-        size = 150
-    }
-
-    clergymen = {
-        culture = westturkish
-        religion = sunni
-        size = 1125
-    }
-
-    artisans = {
-        culture = westturkish
-        religion = sunni
-        size = 10000
-    }
-
-    soldiers = {
-        culture = westturkish
-        religion = sunni
-        size = 6000
-    }
-
-    farmers = {
-        culture = westturkish
-        religion = sunni
-        size = 43675
-    }
-
-    farmers = {
-        culture = iskhor
-        religion = sunni
-        size = 100
-    }
-
-    aristocrats = {
-        culture = westturkish
-        religion = sunni
-        size = 120
-    }
-
-    officers = {
-        culture = westturkish
-        religion = sunni
-        size = 120
-    }
-
-    soldiers = {
-        culture = westturkish
-        religion = sunni
-        size = 300
-    }
-
-    clergymen = {
-        culture = westturkish
-        religion = sunni
-        size = 550
-    }
-
-    artisans = {
-        culture = westturkish
-        religion = sunni
-        size = 5000
-    }
-
-    farmers = {
-        culture = westturkish
-        religion = sunni
-        size = 20900
-    }
-    aristocrats = {
-        culture = borgar
-        religion = the_broken
-        size = 120
-    }
-
-    officers = {
-        culture = borgar
-        religion = the_broken
-        size = 120
-    }
-
-    soldiers = {
-        culture = borgar
-        religion = the_broken
-        size = 2000
-    }
-
-    clergymen = {
-        culture = borgar
-        religion = the_broken
-        size = 120
-    }
-
-    artisans = {
-        culture = borgar
-        religion = the_broken
-        size = 1000
-    }
-
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 15000
-    }
+	aristocrats = {
+		culture = westturkish
+		religion = sunni
+		size = 750
+	}
+	bureaucrats = {
+		culture = westturkish
+		religion = sunni
+		size = 700
+	}
+	officers = {
+		culture = westturkish
+		religion = sunni
+		size = 150
+	}
+	clergymen = {
+		culture = westturkish
+		religion = sunni
+		size = 1125
+	}
+	artisans = {
+		culture = westturkish
+		religion = sunni
+		size = 10000
+	}
+	soldiers = {
+		culture = westturkish
+		religion = sunni
+		size = 6000
+	}
+	farmers = {
+		culture = westturkish
+		religion = sunni
+		size = 43675
+	}
+	aristocrats = {
+		culture = borgar
+		religion = the_broken
+		size = 120
+	}
+	officers = {
+		culture = borgar
+		religion = the_broken
+		size = 120
+	}
+	soldiers = {
+		culture = borgar
+		religion = the_broken
+		size = 2000
+	}
+	clergymen = {
+		culture = borgar
+		religion = the_broken
+		size = 120
+	}
+	artisans = {
+		culture = borgar
+		religion = the_broken
+		size = 1000
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 15000
+	}
 }
 #Uskudar (188000/47000 POPS)
 861 = {
@@ -725,64 +631,36 @@
 }
 #Chanakkale (132000/33000 POPS)
 865 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 350
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 275
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1500
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 325
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 27600
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 2800
-    }
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 5000
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 350
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 275
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 1500
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 325
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 27600
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 5000
+	}
 }
 #Karahisar Region (336000)
 #under the rule of Ottoman Empire in 1836
@@ -868,324 +746,169 @@
 }
 #Kutahya (112000/28000 POPS)
 867 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 375
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 275
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1350
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 275
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 24725
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 730
-    }
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 5000
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 375
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 275
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 1350
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 275
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 24725
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 5000
+	}
 }
 #Eskisehir (140000/35000 POPS)
 868 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 450
-    }
-
-    bureaucrats = {
-        culture = turkish
-        religion = sunni
-        size = 525
-    }
-
-    officers = {
-        culture = turkish
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 275
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1650
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 350
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 29550
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 930
-    }
-
-    soldiers = {
-        culture = borgar
-        religion = the_broken
-        size = 200
-    }
-
-    clergymen = {
-        culture = borgar
-        religion = the_broken
-        size = 120
-    }
-
-    artisans = {
-        culture = borgar
-        religion = the_broken
-        size = 150
-    }
-
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 8100
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 450
+	}
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 525
+	}
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 275
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 1650
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 350
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 29550
+	}
+	soldiers = {
+		culture = borgar
+		religion = the_broken
+		size = 200
+	}
+	clergymen = {
+		culture = borgar
+		religion = the_broken
+		size = 120
+	}
+	artisans = {
+		culture = borgar
+		religion = the_broken
+		size = 150
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 8100
+	}
 }
 #Aydin Region (988000)
 #under the rule of Ottoman Empire in 1836
 #Izmir (340000/85000 POPS)
 869 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 575
-    }
-
-    bureaucrats = {
-        culture = turkish
-        religion = sunni
-        size = 425
-    }
-
-    officers = {
-        culture = turkish
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 550
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 500
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 40350
-    }
-
-    aristocrats = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    officers = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 250
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 400
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 4750
-    }
-
-    aristocrats = {
-        culture = borgar
-        religion = the_broken
-        size = 120
-    }
-
-    officers = {
-        culture = borgar
-        religion = the_broken
-        size = 120
-    }
-
-    soldiers = {
-        culture = borgar
-        religion = the_broken
-        size = 150
-    }
-
-    clergymen = {
-        culture = borgar
-        religion = the_broken
-        size = 120
-    }
-
-    artisans = {
-        culture = borgar
-        religion = the_broken
-        size = 400
-    }
-
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 3580
-    }
-
-    ######Jews
-    aristocrats = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 200
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 1500
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 1100
-    }
-    ########
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 575
+	}
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 425
+	}
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 550
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 10000
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 3000
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 500
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 50350
+	}
+	aristocrats = {
+		culture = borgar
+		religion = the_broken
+		size = 120
+	}
+	officers = {
+		culture = borgar
+		religion = the_broken
+		size = 120
+	}
+	soldiers = {
+		culture = borgar
+		religion = the_broken
+		size = 3150
+	}
+	clergymen = {
+		culture = borgar
+		religion = the_broken
+		size = 120
+	}
+	artisans = {
+		culture = borgar
+		religion = the_broken
+		size = 11400
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 13580
+	}
 }
 #Manisa (244000/61000 POPS)
 870 = {
@@ -1250,125 +973,69 @@
 }
 #Denizli (308000/77000 POPS)
 871 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 900
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 400
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 725
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 3650
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 67750
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 3725
-    }
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 5000
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 900
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 400
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 725
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 3650
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 67750
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 15000
+	}
 }
 #Mugla (96000/24000 POPS)
 872 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 275
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 120
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1100
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 250
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 20175
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 1875
-    }
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 5000
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 275
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 120
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 1100
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 250
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 20175
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 5000
+	}
 }
 #Karaman Region (820000)
 #under the rule of Ottoman Empire in 1836
@@ -1570,562 +1237,317 @@
 }
 #Antalya (204000/51000 POPS)
 875 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 575
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 475
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 2400
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 525
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 44025
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 2800
-    }
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 2150
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 575
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 475
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 2400
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 525
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 44025
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 12150
+	}
 }
 #Central Anatolia Region (692000)
 #under the rule of Ottoman Empire in 1836
 #Ankara (240000/60000 POPS)
 876 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 700
-    }
-
-    bureaucrats = {
-        culture = turkish
-        religion = sunni
-        size = 250
-    }
-
-    officers = {
-        culture = turkish
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 525
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 2200
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 1000
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 48125
-    }
-
-    aristocrats = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    officers = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 925
-    }
-
-    aristocrats = {
-        culture = borgar
-        religion = the_broken
-        size = 120
-    }
-
-    officers = {
-        culture = borgar
-        religion = the_broken
-        size = 120
-    }
-
-    soldiers = {
-        culture = borgar
-        religion = the_broken
-        size = 200
-    }
-
-    clergymen = {
-        culture = borgar
-        religion = the_broken
-        size = 120
-    }
-
-    artisans = {
-        culture = borgar
-        religion = the_broken
-        size = 250
-    }
-
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 4700
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 700
+	}
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 250
+	}
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 525
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 2200
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 1000
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 48125
+	}
+	aristocrats = {
+		culture = borgar
+		religion = the_broken
+		size = 120
+	}
+	officers = {
+		culture = borgar
+		religion = the_broken
+		size = 120
+	}
+	soldiers = {
+		culture = borgar
+		religion = the_broken
+		size = 200
+	}
+	clergymen = {
+		culture = borgar
+		religion = the_broken
+		size = 120
+	}
+	artisans = {
+		culture = borgar
+		religion = the_broken
+		size = 250
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 14700
+	}
 }
 #Amasya (132000/33000 POPS)
 877 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 675
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 300
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1500
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 325
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 27200
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 925
-    }
-
-    soldiers = {
-        culture = borgar
-        religion = the_broken
-        size = 200
-    }
-
-    clergymen = {
-        culture = borgar
-        religion = the_broken
-        size = 120
-    }
-
-    artisans = {
-        culture = borgar
-        religion = the_broken
-        size = 100
-    }
-
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 1875
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 675
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 300
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 1500
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 325
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 27200
+	}
+	soldiers = {
+		culture = borgar
+		religion = the_broken
+		size = 200
+	}
+	clergymen = {
+		culture = borgar
+		religion = the_broken
+		size = 120
+	}
+	artisans = {
+		culture = borgar
+		religion = the_broken
+		size = 100
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 11875
+	}
 }
 #Kayseri (96000/24000 POPS)
 878 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 300
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 125
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 600
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 250
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 107225
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 4700
-    }
-
-    soldiers = {
-        culture = borgar
-        religion = the_broken
-        size = 200
-    }
-
-    clergymen = {
-        culture = borgar
-        religion = the_broken
-        size = 120
-    }
-
-    artisans = {
-        culture = borgar
-        religion = the_broken
-        size = 350
-    }
-
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 6575
-    }
-
-    slaves = {
-        culture = circassian
-        religion = orthodox
-        size = 1000
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 300
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 125
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 600
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 250
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 107225
+	}
+	soldiers = {
+		culture = borgar
+		religion = the_broken
+		size = 200
+	}
+	clergymen = {
+		culture = borgar
+		religion = the_broken
+		size = 120
+	}
+	artisans = {
+		culture = borgar
+		religion = the_broken
+		size = 350
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 26575
+	}
 }
 
 #Kastamonu Region (392000)
 #under the rule of Ottoman Empire in 1836
 #Kastamonu (296000/74000 POPS)
 880 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 825
-    }
-
-    bureaucrats = {
-        culture = turkish
-        religion = sunni
-        size = 125
-    }
-
-    officers = {
-        culture = turkish
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 725
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 3650
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 750
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 66825
-    }
-
-    aristocrats = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    officers = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 925
-    }
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 4150
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 825
+	}
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 125
+	}
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 725
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 3650
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 750
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 66825
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 4150
+	}
 }
 #Bolu (96000/24000 POPS)
 881 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 250
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 225
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1150
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 250
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 21125
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 925
-    }
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 3500
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 250
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 225
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 1150
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 250
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 21125
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 13500
+	}
 }
 #Trebizonde Region (540000)
 #under the rule of Ottoman Empire in 1836
 
 #Sinop (192000/48000 POPS)
 883 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 525
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 425
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 2150
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 1000
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 37900
-    }
-
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 7150
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 4700
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 525
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 425
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 2150
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 1000
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 37900
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 17150
+	}
 }
 #Kars Region (856000) #see Georgia.txt for balance of region
 #under the rule of Ottoman Empire in 1836
@@ -2861,342 +2283,217 @@
 #under the rule of Ottoman Empire in 1836
 #Adana (252000/63000 POPS)
 894 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 650
-    }
-
-    bureaucrats = {
-        culture = turkish
-        religion = sunni
-        size = 150
-    }
-
-    officers = {
-        culture = turkish
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 500
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 2550
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 2625
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 44375
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 110
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 110
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 2600
-    }
-
-    aristocrats = {
-        culture = borgar
-        religion = the_broken
-        size = 110
-    }
-
-    officers = {
-        culture = borgar
-        religion = the_broken
-        size = 110
-    }
-
-    soldiers = {
-        culture = borgar
-        religion = the_broken
-        size = 110
-    }
-
-    clergymen = {
-        culture = borgar
-        religion = the_broken
-        size = 110
-    }
-
-    artisans = {
-        culture = borgar
-        religion = the_broken
-        size = 450
-    }
-
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 8075
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 650
+	}
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 150
+	}
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 500
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 2550
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 2625
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 44375
+	}
+	aristocrats = {
+		culture = borgar
+		religion = the_broken
+		size = 110
+	}
+	officers = {
+		culture = borgar
+		religion = the_broken
+		size = 110
+	}
+	soldiers = {
+		culture = borgar
+		religion = the_broken
+		size = 110
+	}
+	clergymen = {
+		culture = borgar
+		religion = the_broken
+		size = 110
+	}
+	artisans = {
+		culture = borgar
+		religion = the_broken
+		size = 450
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 8075
+	}
 }
 #Mersin (96000/24000 POPS)
 895 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 275
-    }
-
-    officers = {
-        culture = turkish
-        religion = sunni
-        size = 110
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 225
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1100
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 225
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 20175
-    }
-
-    aristocrats = {
-        culture = greek
-        religion = orthodox
-        size = 110
-    }
-
-    officers = {
-        culture = greek
-        religion = orthodox
-        size = 110
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 110
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 1575
-    }
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 3150
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 275
+	}
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 110
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 225
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 1100
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 225
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 40175
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 13150
+	}
 }
 #Marash (192000/48000 POPS)
 896 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 525
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 425
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 2000
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 1525
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 37525
-    }
-
-    farmers = {
-        culture = circassian
-        religion = sunni
-        size = 150
-    }
-
-    soldiers = {
-        culture = borgar
-        religion = the_broken
-        size = 110
-    }
-
-    clergymen = {
-        culture = borgar
-        religion = the_broken
-        size = 110
-    }
-
-    artisans = {
-        culture = borgar
-        religion = the_broken
-        size = 300
-    }
-
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 5650
-    }
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 525
+	}
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 425
+	}
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 2000
+	}
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 1525
+	}
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 37525
+	}
+	soldiers = {
+		culture = borgar
+		religion = the_broken
+		size = 110
+	}
+	clergymen = {
+		culture = borgar
+		religion = the_broken
+		size = 110
+	}
+	artisans = {
+		culture = borgar
+		religion = the_broken
+		size = 300
+	}
+	farmers = {
+		culture = borgar
+		religion = the_broken
+		size = 5650
+	}
 }
 #Halab Region (756000) #see Syria.txt for balance of region
 #under the rule of Egypt in 1836
 #Antep (248000/62000 POPS)
 898 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 450
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 350
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1750
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 425
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 29025
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 250
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 175
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 850
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 200
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 15525
-    }
-
-    soldiers = {
-        culture = borgar
-        religion = the_broken
-        size = 110
-    }
-
-    clergymen = {
-        culture = borgar
-        religion = the_broken
-        size = 110
-    }
-
-    artisans = {
-        culture = borgar
-        religion = the_broken
-        size = 500
-    }
-
-    farmers = {
-        culture = borgar
-        religion = the_broken
-        size = 9425
-    }
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 450
+	}
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 350
+	}
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 1750
+	}
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 3000
+	}
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 425
+	}
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 29025
+	}
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 250
+	}
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 175
+	}
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 850
+	}
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 200
+	}
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 15525
+	}
 }
 #Urfa (348000/87000 POPS)
 899 = {

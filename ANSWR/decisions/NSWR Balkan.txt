@@ -89,13 +89,13 @@ political_decisions = {
             prestige = 20
             tag = ISV
             803 = { owned_by = ISV }
-            NOT = {has_country_flag = the_refugees}
+            NOT = {has_country_flag = oudrijk_refugees}
         }
         allow = {
             prestige = 30
         }
         effect = {
-            set_country_flag = the_refugees
+            set_country_flag = oudrijk_refugees
             MON = { country_event = 52150 }
             NSR = { country_event = 52151 }
         }
@@ -158,6 +158,7 @@ political_decisions = {
     trakyan_republic = {
         potential = {
             OR = { primary_culture = turkish primary_culture = westturkish}
+            has_country_flag = a_boys_dream
             NOT = { TUR = {exists = yes} }
         }
         allow = {

@@ -1,4 +1,6 @@
 add_core = STR
 trade_goods = cattle
 life_rating = 20
+owner = STR
+controller = STR
 

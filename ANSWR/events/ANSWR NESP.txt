@@ -1,0 +1,297 @@
+##NESP EVENT CHAINS
+#History of The Earthworks
+country_event = {
+    id = 17900
+    title = "EVTNAME17900"
+    desc = "EVTDESC17900"
+
+    trigger = {
+    THIS = { primary_culture = terrassier }
+    NOT = { has_country_flag = history_seen }
+    }
+
+    mean_time_to_happen = {
+        days = 14
+    }
+    option = {
+        name = "EVTOPTA17900"
+        set_country_flag = history_seen
+        neutrality = yes
+    }
+}
+country_event = {
+    id = 17901
+    title = "EVTNAME17901"
+    desc = "EVTDESC17901"
+    picture = galaxy
+
+    trigger = {
+    THIS = { primary_culture = terrassier }
+    has_country_flag = history_seen
+    NOT = { has_country_flag = the_voice }
+    }
+    mean_time_to_happen = {
+        months = 1
+    }
+    option = {
+        name = "EVTOPTA17901"
+        set_country_flag = the_voice
+    }
+}
+country_event = {
+    id = 17902
+    title = "EVTNAME17902"
+    desc = "EVTDESC17902"
+    picture = the_comet
+
+    trigger = {
+    THIS = { primary_culture = terrassier }
+    has_country_flag = the_voice
+    NOT = { has_country_flag = the_comet }
+    }
+    mean_time_to_happen = {
+        months = 1
+    }
+    option = {
+        name = "EVTOPTA17902"
+        set_country_flag = the_comet
+        years_of_research = 0.25
+    }
+}
+country_event = {
+    id = 17903
+    title = "EVTNAME17903"
+    desc = "EVTDESC17903"
+    picture = astronaut1
+
+    trigger = {
+    THIS = { primary_culture = terrassier }
+    has_country_flag = the_comet
+    NOT = { has_country_flag = the_people_from_the_sky }
+    }
+    mean_time_to_happen = {
+        months = 1
+    }
+    #Friendly
+    option = {
+        name = "EVTOPTA17903"
+        set_country_flag = the_people_from_the_sky
+        set_country_flag = friendly_flag_1
+        years_of_research = 0.25
+    }
+    #Hostile
+    option = {
+        name = "EVTOPTB17903"
+        set_country_flag = the_people_from_the_sky
+        set_country_flag = hostile_flag_1
+        years_of_research = 0.5
+    }
+}
+#Friendly Offworld
+country_event = {
+    id = 17904
+    title = "EVTNAME17904"
+    desc = "EVTDESC17904"
+    picture = astronaut1
+
+    trigger = {
+    THIS = { primary_culture = terrassier }
+    has_country_flag = the_people_from_the_sky
+    NOT = { OR = { has_country_flag = the_offworld_colony has_country_flag = the_offworld_ship } }
+    }
+    mean_time_to_happen = {
+        months = 1
+    }
+    #Offer the lands to the offworlders (New Europe)
+    option = {
+        name = "EVTOPTA17904"
+        set_country_flag = the_offworld_colony
+        prestige = 5
+        ai_chance = {
+            factor = 1
+            modifier = {
+                factor = 3
+                has_country_flag = friendly_flag_1
+            }
+        }
+    }
+    #Seek mutual cooperation (The Spaceport)
+    #option = {
+    #    name = "EVTOPTB17904"
+    #    set_country_flag = the_offworld_cooperation
+    #}
+    #The Terrasiers will never submit to the Offworlders (Greater Terra)
+    option = {
+        name = "EVTOPTC17904"
+        set_country_flag = the_offworld_ship
+        prestige = -5
+        ai_chance = {
+            factor = 1
+            modifier = {
+                factor = 3
+                has_country_flag = hostile_flag_1
+            }
+        }
+    }
+}
+#New Europa
+country_event = {
+    id = 17905
+    title = "EVTNAME17905"
+    desc = "EVTDESC17905"
+    picture = galaxy
+
+    trigger = {
+    THIS = { primary_culture = terrassier }
+    has_country_flag = the_spaceport
+    NOT = { OR = { has_country_flag = new_europe } }
+    }
+    mean_time_to_happen = {
+        months = 1
+    }
+    option = {
+        name = "EVTOPTA17905"
+        set_country_flag = new_europe
+        change_tag = NER
+        ENG_1979 = {
+            remove_core = NSP
+            add_core = NER
+        }
+        THIS = { neutrality = no }
+    }
+}
+#New Europa Claims
+country_event = {
+    id = 17906
+    title = "EVTNAME17906"
+    desc = "EVTDESC17906"
+
+    trigger = {
+    THIS = { primary_culture = terrassier }
+    OR = { has_country_flag = new_europe has_country_flag = grand_terra }
+    NOT = { has_country_flag = nesp_claims }
+    }
+    mean_time_to_happen = {
+        months = 6
+    }
+    option = {
+        name = "EVTOPTA17906"
+        set_country_flag = nesp_claims
+        BRZ_2408 = { add_core = THIS }
+        VNZ_2239 = { add_core = THIS }
+        BRZ_1954 = { add_core = THIS }
+    }
+}
+#The New Europe
+country_event = {
+    id = 17907
+    title = "EVTNAME17907"
+    desc = "EVTDESC17907"
+
+    trigger = {
+    THIS = { primary_culture = terrassier }
+    has_country_flag = new_europe
+    NOT = { has_country_flag = new_europe_rename }
+    }
+    mean_time_to_happen = {
+        months = 6
+    }
+    option = {
+        name = "EVTOPTA17907"
+        set_country_flag = new_europe_rename
+        prestige = 5
+        2241 = {change_province_name = "Port du Monde" }
+        2240 = {change_province_name = "Nouveau-Paris" }
+        2239 = {change_province_name = "Nouveau-Satellite" }
+        2245 = {change_province_name = "Nouvelle-Venus" }
+        2246 = {change_province_name = "Astrale Colonie" }
+        1979 = {change_province_name = "Nouvelle-Mars" }
+        ENG_1979 = { add_province_modifier = {
+            name = province_small_immigration_boom
+            duration = 3650
+            }
+        }
+        ENG_1979 = { add_province_modifier = {
+            name = small_baby_boom
+            duration = 3650
+            }
+        }
+    }
+}
+#Founded a Offworld Lab
+country_event = {
+    id = 17920
+    title = "EVTNAME17920"
+    desc = "EVTDESC17920"
+    picture = galaxy
+
+    trigger = {
+    THIS = { primary_culture = terrassier }
+    has_country_flag = searching_for_colonies
+    NOT = { OR = { has_country_flag = nesp_lab has_country_flag = nesp_colony } }
+    }
+    mean_time_to_happen = {
+        months = 120
+    }
+    option = {
+        name = "EVTOPTA17920"
+        set_country_flag = nesp_lab
+        prestige = 5
+        add_country_modifier = {
+            name = offworld_labs
+            duration = -1
+        }
+    }
+}
+#Founded a Offworld Colony
+country_event = {
+    id = 17921
+    title = "EVTNAME17921"
+    desc = "EVTDESC17921"
+    picture = galaxy
+
+    trigger = {
+    THIS = { primary_culture = terrassier }
+    has_country_flag = searching_for_colonies
+    NOT = { OR = { has_country_flag = nesp_lab has_country_flag = nesp_colony } }
+    }
+    mean_time_to_happen = {
+        months = 60
+    }
+    option = {
+        name = "EVTOPTA17921"
+        set_country_flag = nesp_colony
+        prestige = 5
+        add_country_modifier = {
+            name = offworld_labs
+            duration = -1
+        }
+    }
+}
+#Grand Terra
+country_event = {
+    id = 17930
+    title = "EVTNAME17930"
+    desc = "EVTDESC17930"
+
+    trigger = {
+    THIS = { primary_culture = terrassier }
+    has_country_flag = the_offworld_ship
+    NOT = { has_country_flag = grand_terra }
+    }
+    mean_time_to_happen = {
+        months = 6
+    }
+    option = {
+        name = "EVTOPTA17930"
+        set_country_flag = grand_terra
+        change_tag = GTR
+        ENG_1979 = {
+            remove_core = NSP
+            add_core = GTR
+        }
+        THIS = { neutrality = no }
+        political_reform = open_borders
+        political_reform = free_press
+    }
+}

@@ -1,11 +1,8 @@
-owner = TUS
-controller = TUS
-add_core = PAR
-add_core = SIC
-add_core = TUS
-add_core = APU
+owner = RSM
+controller = RSM
+add_core = RSM
 trade_goods = fruit
-life_rating = 39
+life_rating = 35
 state_building = {
     level = 1
     building = fabric_factory

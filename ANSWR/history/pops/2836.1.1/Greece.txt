@@ -805,77 +805,65 @@
         religion = sunni
         size = 450
     }
-
     clergymen = {
         culture = westturkish
         religion = sunni
         size = 100
     }
-
     artisans = {
         culture = westturkish
         religion = sunni
         size = 400
     }
-
     soldiers = {
         culture = westturkish
         religion = sunni
         size = 175
     }
-
-    farmers = {
-        culture = westturkish
-        religion = sunni
-        size = 9900
-    }
-
     soldiers = {
         culture = westturkish
         religion = orthodox
         size = 500
     }
-
     clergymen = {
         culture = westturkish
         religion = orthodox
         size = 200
     }
-
     artisans = {
         culture = westturkish
         religion = orthodox
         size = 450
     }
-
     farmers = {
         culture = westturkish
         religion = orthodox
         size = 27450
     }
-
     soldiers = {
         culture = iskhor
         religion = orthodox
         size = 400
     }
-
     clergymen = {
         culture = iskhor
         religion = orthodox
         size = 200
     }
-
     artisans = {
         culture = iskhor
         religion = orthodox
         size = 300
     }
-
     farmers = {
         culture = iskhor
         religion = orthodox
         size = 3625
+    }
+    farmers = {
+        culture = borgar
+        religion = the_broken
+        size = 11000
     }
 }
 #Thessaly Region (408000)
@@ -1471,77 +1459,45 @@
         religion = sunni
         size = 150
     }
-
     bureaucrats = {
         culture = westturkish
         religion = sunni
         size = 50
     }
-
-    officers = {
-        culture = westturkish
-        religion = sunni
-        size = 50
-    }
-
-    clergymen = {
-        culture = westturkish
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = westturkish
-        religion = sunni
-        size = 600
-    }
-
-    soldiers = {
-        culture = westturkish
-        religion = sunni
-        size = 175
-    }
-
-    farmers = {
-        culture = westturkish
-        religion = sunni
-        size = 700
-    }
-
     aristocrats = {
         culture = westturkish
         religion = sunni
         size = 120
     }
-
     officers = {
         culture = westturkish
         religion = sunni
         size = 120
     }
-
     soldiers = {
         culture = westturkish
         religion = sunni
         size = 300
     }
-
     clergymen = {
         culture = westturkish
         religion = sunni
         size = 100
     }
-
     artisans = {
         culture = westturkish
         religion = sunni
         size = 2400
     }
-
     farmers = {
         culture = westturkish
         religion = sunni
-        size = 12450
+        size = 32450
+    }
+    farmers = {
+        culture = borgar
+        religion = the_broken
+        size = 11000
     }
 }
 #Crete Region (140000)

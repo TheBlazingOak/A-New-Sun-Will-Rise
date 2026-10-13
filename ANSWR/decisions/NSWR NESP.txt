@@ -1,0 +1,107 @@
+political_decisions = {
+	#General Decisions
+	the_spaceport = {
+		potential = {
+			THIS = { primary_culture = terrassier }
+    		OR = { 
+				has_country_flag = the_offworld_colony 
+				#has_country_flag = the_offworld_cooperation 
+				has_country_flag = the_offworld_ship 
+			}
+			NOT = {has_country_flag = the_spaceport}
+		}
+		allow = {
+			treasury = 100000
+			experimental_railroad = 1
+		}
+		effect = {
+			set_country_flag = the_spaceport
+			money = -100000
+			2241 = { trade_goods = precious_goods life_rating = 5 }
+			2241 = {add_province_modifier = {
+				name = port_du_mond
+				duration = -1
+				}
+			}
+		}
+	}
+	searching_for_the_offworld = {
+		potential = {
+			THIS = { primary_culture = terrassier }
+    		has_country_flag = the_spaceport
+			NOT = {has_country_flag = searching_for_colonies }
+		}
+		allow = {
+			prestige = 50
+			treasury = 100000
+		}
+		effect = {
+			set_country_flag = searching_for_colonies
+			prestige = 10
+			money = -100000
+			add_country_modifier = {
+				name = offworld_search
+				duration = -1
+			}
+		}
+	}
+	##New Europa Decisions##
+	new_europa_constitution = {
+		potential = {
+			THIS = { primary_culture = terrassier }
+    		has_country_flag = new_europe
+			NOT = {has_country_flag = the_new_europa_constitution }
+		}
+		allow = {
+			ideological_thought = 1
+		}
+		effect = {
+			set_country_flag = the_new_europa_constitution
+			prestige = 10
+			political_reform = universal_voting
+			political_reform = culture_voting_only
+			political_reform = open_borders
+			political_reform = secret_ballots
+			political_reform = free_press
+		}
+	}
+	#New Europe Additional Claims
+	new_europe_claims = {
+		potential = {
+			THIS = { primary_culture = terrassier }
+    		has_country_flag = nesp_claims
+			has_country_flag = new_europe
+			NOT = {has_country_flag = new_europe_claims2 }
+		}
+		allow = {
+			THIS = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			set_country_flag = new_europe_claims2
+			prestige = 5
+			VNZ_2278 = { add_core = THIS }
+			VNZ_2265 = { add_core = THIS }
+			VNZ_2234 = { add_core = THIS }
+		}
+	}
+	antilles_claims = {
+		potential = {
+			THIS = { primary_culture = terrassier }
+    		has_country_flag = new_europe_claims2
+			has_country_flag = new_europe
+			NOT = {has_country_flag = new_europe_claims3 }
+		}
+		allow = {
+			THIS = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			set_country_flag = new_europe_claims3
+			prestige = 5
+			ENG_2228 = { add_core = THIS }
+			ENG_2224 = { add_core = THIS }
+		}
+	}
+	##Grand Terra Decisions
+
+}
+			

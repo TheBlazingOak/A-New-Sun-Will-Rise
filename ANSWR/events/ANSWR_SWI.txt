@@ -1,175 +1,204 @@
 #SWISS EVENTS#
-#The Parma Sphere
+#Swiss History
 country_event = {
     id = 224100
     title = "EVTNAME224100"
     desc = "EVTDESC224100"
-    picture = autocracy
-    mean_time_to_happen = { months = 24 }
+    mean_time_to_happen = { days = 7 }
     trigger = {
-        tag = SWI
-        NOT = { ITA = { exists = yes } }
-        NOT = { has_country_flag = the_parma_sphere }
-        PAR = { exists = yes }
+        THIS = { primary_culture = swiss }
+        NOT = { has_country_flag = history_seen }
     }
-    #We are interested in Parma not Italy
     option = {
-    name = "EVTOPTA224100"
-        set_country_flag = the_parma_sphere
-        badboy = -3
-        prestige = -2 
-        relation = {
-            who = PAR
-            value = 100
-        }
-        diplomatic_influence = {
-            who = PAR
-            value = 100
-        }
-        create_alliance = PAR
-        ai_chance = {
-            factor = 30
-        }
-    }
-    
-    #Why? We can't let the peninsula form
-    option = {
-    name = "EVTOPTB224100"
-        set_country_flag = the_parma_sphere
-        set_global_flag = italian_dreams
-        badboy = 1 
-        prestige = 2
-        relation = {
-            who = PAR
-            value = -100
-        }
-        ai_chance = {
-            factor = 70
-        }
+        name = "EVTOPTA224100"
+        set_country_flag = history_seen
     }
 }
-#The Parma Revolution (Parma)
+#The Savoy Revolution (Savoy)
 country_event = {
     id = 224101
     title = "EVTNAME224101"
     desc = "EVTDESC224101"
     picture = french_revolution_1848
-    mean_time_to_happen = { months = 12 }
+    mean_time_to_happen = { months = 6 }
     trigger = {
-        tag = PAR
-        NOT = { ITA = { exists = yes } }
-        has_global_flag = italian_dreams
-        NOT = { PAR = { vassal_of = SWI } }  # NEW FIX: Ensures Parma is NOT already a puppet of Switzerland
-        NOT = { has_global_flag = anti_schweiz }
-        SWI = { exists = yes }
+        THIS = { primary_culture = swiss }
+        NOT = { has_global_flag = savoy_revolution }
+        has_global_flag = revolutionary_unification
         year = 2840
     }
     option = {
         name = "EVTOPTA224101"
-        set_global_flag = anti_schweiz
-        SWI = { country_event = { id = 224102 } }
-        government = democracy
-        political_reform = universal_voting
-        relation = { who = SWI value = -200}
-        end_alliance = SWI
+        set_global_flag = savoy_revolution
+        720 = { secede_province = SVY }
+        SVY = { 
+            random_owned = {
+            limit = { province_id = 720 }
+            owner = { capital = 720 }
+            } 
+        }
+        THIS = { create_vassal = SVY }
+        SAR_720 = { secede_province = SVY }
+        SWI_721 = { secede_province = SVY }
     }
 }
-#The Parma Revolution (Schweiz)
+#SVY Revolution
 country_event = {
     id = 224102
     title = "EVTNAME224102"
     desc = "EVTDESC224102"
     picture = autocracy
-    is_triggered_only = yes
     trigger = {
-        NOT = { PAR = { vassal_of = SWI } }  # NEW FIX: Prevents firing if Parma is already a puppet
+        THIS = { primary_culture = north_italian}
+        tag = SVY
+        ITA = { exists = no }
+        NOT = { OR = { has_country_flag = savoyindependent has_country_flag = savoyannexed} }
     }
+    mean_time_to_happen = {
+        days = 7
+    }
+    #Fight Independently
     option = {
     name = "EVTOPTA224102"
-        set_country_flag = intervention_in_parma
-    any_pop = {
-        dominant_issue = { value = jingoism factor = 0.05 }
-    }
-        diplomatic_influence = {
-            who = PAR
-            value = -400
-        }
-        prestige = -5
-        militancy = 4
-        casus_belli = {
-                target = PAR
-                type = make_puppet
-                months = 120
+        prestige = 5
+        set_country_flag = savoyindependent
+        ai_chance = {
+            factor = 0
+            modifier = {
+                factor = 1
+                OR = {
+                    RSM = {ai = no }
+                }
             }
+        }
+    }
+    #RSM Annexation
+    option = {
+    name = "EVTOPTA224102"
+        set_country_flag = savoyannexed
+        RSM = { country_event = 224103 }
+        ai_chance = {
+            factor = 0.25
+            modifier = {
+                factor = 20
+                OR = {
+                    RSM = { 738 = { owned_by = THIS } }
+                }
+            }
+        }
     }
 }
-#End of the Parma Revolution
+#Savoy Annexation
 country_event = {
     id = 224103 
     title = "EVTNAME224103"
     desc = "EVTDESC224103"
     picture = autocracy
-    mean_time_to_happen = { days = 14 }
-    trigger = {
-        tag = SWI
-        NOT = { ITA = { exists = yes } }
-        NOT = { OR = { has_country_flag = satisfaction_in_schweiz has_country_flag = schweizily_dreams } }
-        PAR = { exists = yes }
-        PAR = { vassal_of = SWI }
-    }
+    is_triggered_only = yes
 
-    #Expansionist (Schweizily)
     option = {
     name = "EVTOPTA224103"
-        set_country_flag = schweizily_dreams
         prestige = 5
-        PAP_741 = { add_core = SWI }
-        ai_chance = {
-            factor = 50
-            modifier = {
-                factor = 2.0
-                militancy > 5.0
-            }
+        set_country_flag = annexed_savoy
+        set_global_flag = savoy_annexed
+        inherit = SVY
+        SAR_720 = { remove_core = SVY add_core = THIS }
+        SWI_721 = { remove_core = SVY add_core = THIS }
+        relation = {
+            who = SWI
+            value = -200
         }
-    }
-
-
-    #The Schweiz-Pakt
-    option = {
-    name = "EVTOPTB224103"
-        set_country_flag = satisfaction_in_schweiz
-        prestige = 5
-        ai_chance = {
-            factor = 50
-        }
+        leave_alliance = SWI
     }
 }
-#Tale to Boot
+#War of Savoy (RSM)
 country_event = {
     id = 224104
     title = "EVTNAME224104"
     desc = "EVTDESC224104"
     picture = autocracy
-    mean_time_to_happen = { months = 36 }
+    mean_time_to_happen = { months = 4 }
     trigger = {
-        tag = SWI
-        NOT = { ITA = { exists = yes } }
-        has_country_flag = schweizily_dreams
-        NOT = {OR = { has_country_flag = schweizily_expansion } }
-        SWI = { exists = yes }
-        PAR = { vassal_of = SWI }
+        THIS = { primary_culture = swiss }
+        has_global_flag = savoy_annexed
+        RSM = { has_country_flag = annexed_savoy }
+        NOT = { has_country_flag = savoy_war }
     }
-    #Expansionist (Schweizily)
+
     option = {
     name = "EVTOPTA224104"
-        set_country_flag = schweizily_expansion
-        infamy = 7
-        inherit = PAR
-        PAR = {
-            all_core = {
-                remove_core = PAR
-                add_core = SWI
-            }
+        set_country_flag = savoy_war
+        war = {
+            target = RSM
+            attacker_goal = { casus_belli = unification_annex_casus_belli  }
+            defender_goal = { casus_belli = status_quo }
+            call_ally = yes
         }
+    }
+} 
+#War of Savoy (Independent)
+country_event = {
+    id = 224105
+    title = "EVTNAME224105"
+    desc = "EVTDESC224105"
+    picture = autocracy
+    mean_time_to_happen = { months = 4 }
+    trigger = {
+        THIS = { primary_culture = swiss }
+        has_global_flag = savoy_annexed
+        SVY = { exists = yes }
+        SVY = { has_country_flag = savoyindependent}
+        NOT = { has_country_flag = savoy_war }
+    }
+
+    option = {
+    name = "EVTOPTA224105"
+        set_country_flag = savoy_war
+        war = {
+            target = SVY
+            attacker_goal = { casus_belli = civil_war  }
+            defender_goal = { casus_belli = status_quo }
+            call_ally = yes
+        }
+    }
+}
+country_event = {
+    id = 224109
+    title = "EVTNAME224109"
+    desc = "EVTDESC224109"
+    picture = autocracy
+    trigger = {
+        THIS = { primary_culture = swiss }
+        has_country_flag = savoy_war
+        720 = { owned_by = THIS }
+        NOT = { has_country_flag = schweizily_start }
+    }
+    mean_time_to_happen = { months = 4 }
+    #Expansionist (Schweizily)
+    option = {
+    name = "EVTOPTA224109"
+        set_country_flag = schweizily_start
+        PAP_741 = { add_core = THIS }
+        TUS_744 = { add_core = THIS }
+    }
+}
+#Tale to Boot
+country_event = {
+    id = 224110
+    title = "EVTNAME224110"
+    desc = "EVTDESC224110"
+    picture = autocracy
+    major = yes
+    is_triggered_only = yes
+    #Expansionist (Schweizily)
+    option = {
+    name = "EVTOPTA224110"
+        badboy = 2
+        change_tag = SIT
+		all_core = {
+			remove_core = SWI
+			add_core = SIT
+		}
+		PAP_752 = { add_core = SIT }
     }
 }

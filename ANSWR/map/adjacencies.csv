@@ -124,6 +124,26 @@ From;To;Type;Through;Data;Comment
 307;321;land;2705;0;Overforingen-Lulea
 437;434;land;2728;0;La Roche-Poitiers
 532;528;land;2721;0;Luumburg-Hamburg
+
+#Russian Straits
+1065;2690;sea;3304;0;Roman-Krilo Strait
+966;964;sea;2776;0;Crimea Straits
+967;964;sea;2776;0;Crimea Straits
+967;965;sea;2775;0;Crimea Straits
+973;965;sea;2775;0;Crimea Straits
+966;1049;sea;2776;0;Caucaus Strait
+979;1047;sea;3292;0;Caucaus Strait
+1057;1041;sea;3292;0;Caucaus Strait
+1196;1192;sea;2780;0;Asia Strait
+1196;1191;sea;2780;0;Asia Strait
+2613;2659;sea;3304;0;Nadym Strait
+994;2715;sea;2714;0;Peterburgh Straits
+2580;2715;sea;2714;0;Peterburgh Straits
+339;2715;sea;2714;0;Peterburgh Straits
+994;996;sea;3329;0;Peterburgh Straits
+994;350;sea;2713;0;Peterburgh Straits
+2580;1003;sea;3329;0;Peterburgh Straits
+
 #
 # Asian Straits
 #

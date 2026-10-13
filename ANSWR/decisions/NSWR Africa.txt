@@ -129,6 +129,24 @@ political_decisions = {
 			
 		}
 	}
+	aigyptos_alqarsina = {
+		alert = yes
+		potential = {
+			THIS = { primary_culture = grecocopt }
+			has_country_flag = new_egypt
+			NOT = { has_country_flag = alqarsina_confed }
+		}
+		allow = {
+			EGY_1762 = { owned_by = THIS }
+			EGY_1771 = { owned_by = THIS }
+			EGY_1758 = { owned_by = THIS }
+			}
+		effect = {
+			set_country_flag = alqarsina_confed
+			prestige = 10
+			ALQ_1735 = { add_core = THIS }
+		}
+	}
 	the_older_greece = {
 		alert = yes
 		potential = {

@@ -33,27 +33,23 @@ political_decisions = {
 		potential = {
 			tag = SWI
 			NOT = { has_country_flag = schweizily_acheived }
-			has_country_flag = schweizily_dreams
+			has_country_flag = savoy_war
+			has_country_flag = schweizily_start
 		}
 		
 		allow = {
 			war = no
-			749 = { owned_by = THIS }
-			754 = { owned_by = THIS }
-			747 = { owned_by = THIS }
 			738 = { owned_by = THIS }
-			756 = { owned_by = THIS }
+			720 = { owned_by = THIS }
+			741 = { owned_by = THIS }
 			nationalism_n_imperialism = 1
 		}
 		
 		effect = {
 			set_country_flag = schweizily_acheived
 			prestige = 5
-			change_tag = SIT
-			all_core = {
-				remove_core = SWI
-				add_core = SIT
-			}
+			add_accepted_culture = north_italian
+			country_event = 224110
 		}
 		
 		ai_will_do = {
@@ -75,8 +71,14 @@ political_decisions = {
 		
 		effect = {
 			set_country_flag = integrate_italians
-            add_accepted_culture = north_italian
             add_accepted_culture = south_italian
+			SIC_753 = { add_core = SIT }
+			SIC_754 = { add_core = SIT }
+			SIC_756 = { add_core = SIT }
+			SIC_763 = { add_core = SIT }
+			763 = { add_core = SIT }
+			762 = { add_core = SIT }
+			764 = { add_core = SIT }
 		}
 		
 		ai_will_do = {

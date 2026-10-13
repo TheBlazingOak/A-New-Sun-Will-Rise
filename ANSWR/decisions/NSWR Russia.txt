@@ -94,7 +94,6 @@ political_decisions = {
 			995 = {owned_by = THIS}
 			}
 		effect ={
-			RUS_978 = { add_core = THIS }
 			RUS_973 = { add_core = THIS }
 			set_country_flag = ukraine_expansion
 		}

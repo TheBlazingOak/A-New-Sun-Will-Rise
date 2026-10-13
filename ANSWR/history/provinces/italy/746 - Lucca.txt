@@ -1,8 +1,5 @@
-owner = TUS
-controller = TUS
-add_core = PAR
-add_core = SIC
-add_core = TUS
-add_core = APU
+owner = RSM
+controller = RSM
+add_core = RSM
 trade_goods = grain
 life_rating = 35

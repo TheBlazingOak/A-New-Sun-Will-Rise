@@ -71,6 +71,7 @@ NSO        = "countries/New Scotland.txt"
 ASL        = "countries/The Northern Union.txt"
 BRQ		   = "countries/Barce-Euskarra.txt"
 SIT        = "countries/Schweizily.txt"
+RSM        = "countries/San Marino.txt"
 
 ## Central Europe ANSWR 
 APU        = "countries/Apulia.txt"
@@ -116,6 +117,7 @@ BRY        ="countries/Buryatia.txt"
 STR        ="countries/Setjer.txt"
 OSE	       ="countries/Ossetia.txt"
 ROY	       ="countries/Rossiya.txt"
+BYE        = "countries/Adzinoki.txt"
 
 ##Australasia ANSWR
 AST        ="countries/Australia.txt"
@@ -198,6 +200,8 @@ ALH        ="countries/Al-Sham.txt"
 USS        ="countries/States of the South.txt"
 UGF		   ="countries/The Great Fiefs.txt"
 ABA	       ="countries/New Albion.txt"
+NER	       ="countries/New Europa.txt"
+GTR        ="countries/Grand Terra.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"
@@ -458,7 +462,7 @@ TMT        = "countries/Tuamotu.txt"
 
 # New for 2.3
 ARA        = "countries/Arabia.txt"
-BYE        = "countries/Belarus.txt"
+
 PLC        = "countries/Poland-Lithuania.txt"
 UBD        = "countries/United Baltic Provinces.txt"
 
@@ -688,18 +692,8 @@ KUK        = "countries/Austria-Hungary.txt"
 
 #new for 1.2
 ISR        ="countries/Israel.txt"
-ICL        ="countries/Iceland.txt"
-
-##NNM and Vanilla Scrapped tags
-IBR        ="countries/Iberia.txt"
-BYZ        ="countries/Byzantium.txt"
-BAB        ="countries/Babylonia.txt"
-
-#new for AHD
-TPG        ="countries/Taiping.txt"
 
 ##EIC
-EIC        ="countries/East India Company.txt"
 UTI        ="countries/Utility Tag.txt"
 ##
 

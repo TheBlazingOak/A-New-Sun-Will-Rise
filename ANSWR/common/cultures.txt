@@ -4,96 +4,6 @@
 germanic = {
     leader = european
     unit = EuropeanGC
-    north_german = {
-        color = { 18  56  71 }
-        first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
-        Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Gunther
-        Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jurgen Karl
-        Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Otto
-        Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Wilhelm Wolfgang }
-
-        last_names = { Behncke Brommy Cordemann Dreyer Droste Groener "Hcerwarth von Bittenfeld" Heppendorf Hoffmann Krohn Ludendorff Schree
-        "Vogel von Falkenstein" "von Alten" "von Anhalt" "von Arentschildt" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg"         "von Boyen" "von Braunschweig" "von Bulow" "von dem Knesebeck" "von Gebser" "von Fritsch" "von Halkett" "von Hannover"
-        "von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindenburg" "von Hohenzollern" "von Holstein-Gottorp" "von Knorr" "von Kleefeld"
-        "von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von Oldenburg" "von Rauch" "von Ravensberg"
-        "von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen"
-        "von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin"
-        "von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
-    }
-    south_german = {
-        color = { 123  134  135 } #{ 110 80 80 }
-        first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian
-        Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
-        Gunther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
-        Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian
-        Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
-
-        last_names = { Beck-Rzikowsky Blos Dankl Eisner Geiss Goering Hainisch Haus Held Hellpach
-        Hoffmann Hummel Kohler Mergenthaler Miklas Remmele Schmitt Schobber Seitz Steeb
-        Stolzer Trunk "von Baden" "von Benedek" "von Bohm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz"
-        "von Grunne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Hotzendorf" "von Kirbach"
-        "von Kobratin" "von Schonburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Wurttemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
-    }
-    austro_german = {
-        color = { 207  207  209 }
-        first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian
-        Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
-        Gunther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
-        Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian
-        Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
-
-        last_names = { Beck-Rzikowsky Blos Dankl Eisner Geiss Goering Hainisch Haus Held Hellpach
-        Hoffmann Hummel Kohler Mergenthaler Miklas Remmele Schmitt Schobber Seitz Steeb
-        Stolzer Trunk "von Baden" "von Benedek" "von Bohm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz"
-        "von Grunne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Hotzendorf" "von Kirbach"
-        "von Kobratin" "von Schonburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Wurttemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
-    }
-    rhine_german = {
-        color = { 145  145  158 }
-        first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
-        Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Gunther
-        Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jurgen Karl
-        Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Otto
-        Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Wilhelm Wolfgang }
-
-        last_names = { Behncke Brommy Cordemann Dreyer Droste Groener "Hcerwarth von Bittenfeld" Heppendorf Hoffmann Krohn Ludendorff Schree
-        "Vogel von Falkenstein" "von Alten" "von Anhalt" "von Arentschildt" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg"         "von Boyen" "von Braunschweig" "von Bulow" "von dem Knesebeck" "von Gebser" "von Fritsch" "von Halkett" "von Hannover"
-        "von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindenburg" "von Hohenzollern" "von Holstein-Gottorp" "von Knorr" "von Kleefeld"
-        "von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von Oldenburg" "von Rauch" "von Ravensberg"
-        "von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen"
-        "von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin"
-        "von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
-    }        
-    alsatian = {
-        color = { 5  109  150 }
-        first_names = { Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
-        Charles Daniel Denis Edouard Elie ettiene Eugene Felicien Felix Fernand
-        Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-        Joseph Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
-        Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-
-        last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boue de Lapeyrere" Bouet-Willaumez Boulanger Bourbaki
-        Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
-        "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duch锚ne Dupetit-Thouars Exelmans
-        Foch Forey "Franchet d'Esperey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-        Jaures Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Pellissier Petain Vaillant }
-    }
-    czech = {
-        color = {120 120 255}
-        first_names = { Abraham Alexander Alfred Alois Antona August Bedrich Benedikt Borivoj
-        Cenek David Drahoslav Edvard Emanuel Emil Evzen Frantisek "Frantisek Josef" "Frantisek Xaver"
-        Hermenegild Jan "Jan Krtitel" "Jan Nepomuk" Jaroslav Jindrich Jira Josef Jagomir Kajetan Karel
-        Konstantin Ladislav Luv铆k Matyas Maxmilian Mikulas Olbram Otakar Pavel Petr
-        Radola Rafael Tomas Vaclav Vincenc Vitezslav Vlastimil Vojtech Vratislav Zdenek }
-
-        last_names = { Albert Balaban Basch Breisky Celovska Dvorak Fibich Gajda Gellner Halek
-        Hrdlicka Jirecek Jagr Kadlec Kafka Koller Kr铆zkovska Kucera Kuchar Lederer Makosky
-        Mik Moravec Nemecek Neruda Novacek Novotna Popper Pastrnak Radecka Rokytanska Safarik
-        Safranek Schack Schubert Skoda Skuherska Smetana Snejdarek Suk Svoboda Syrova
-        Tomasek Tyl Vitasek "von Mittrowitz-Nettolitzky" Vorisek Wankel Weber Za璪rt Za璿r Zoubek }
-        radicalism = 5
-    }
-    union = OUD
 }
 
 jewish_cultures = {
@@ -178,48 +88,6 @@ beneluxian = {
             Wolterbeek
         }
     }
-    flemish = {
-        color = { 250 180 80 }
-        first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas
-        Camille Charles Constant David Desire Diederik Edmond Emmanuel Etienne Eugene Felix Filip Frans Ferdinand Francois Frederik
-        Guillaume Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-Francois Jean-Louis Jean-Jacques
-        Jochem Joseph Josse Jozef Jules Karel Laurens Leon Leonard Leopold Louis Lucien Manfred Mathias Nicolas Nikolaas Olivier
-        Paul Philippe Philippe-Joseph Pierre Pieter Robert Sylvain Theodoor Victor Vincent Werner Willem }
-
-        last_names = { Andries "Annez de Zillebroeck" Barbanson Barthelemy Beaucarne Beernaert Berthels Bethune Beyts Bischoff Blomme Bosmans
-        "Boucqueau de Villeraye" Buylaert Buyse Claes Claus Cogels Cols Coppens Coppieters Corten Cruts "d'Arschot Schoonhoven"
-        d'Ansembourg d'Hanens "de Brouckere" "de Celles" "de Coninck" "de Decker" "de Foere" "de Gaesebeke" "de Ghellink" "de Grez"
-        "de Haerne" "de Jonghe" "de Jonghe d'Ardoye" "de Langhe" "de Leeuw" "de Leuze" "de Man" "de Meer de Moorsel"
-        "de Meester" "de Merode" "de Muelenaere" "de Pelichy" "de Renesse" "de Robiano" "de Rodes" "de Roo" "de Ryckere"
-        "de Smet" "de Theux de Meylandt" "de Tiecken" "de Viron" "de Woelmont" Dayeneux Delberke Delehaye Delwarde "Desmanet de Biesme"
-        Destouvelles Deswert Devaux Dhanis Domis "du Bois" Fransman Gelders Geudens Goethals Hennequin "Huysman d'Annecroix"
-        Jacobs Janssens Joos Jottrand Kockaert Ledeganck Lefebvre Liedts Marcq Meeus Morel Moyersoen Mulle Nypels
-        Ooms Osy Peemans Peeters Petens Rodenbach Roels Rosseuw Rouppe Rutten Serruys Schollaert Speelman Simons Struye
-        "Surlet de Chokier" "Surmont de Volsberghe" Terlinden Teuwens Tilkens Thienpont "van Caloen" "van Casteel" "van Crombrugghe"
-        "van de Kerchove" "van de Werve de Vorselaar" "van de Weyer" "van den Broucke" "van den Hove" "van der Belen" "van der Bruggen"
-        "van der Burch" "van der Eecken" "van der Linden" "van der Linden d'Hooghvorst" "van der Looy" "van Dievoet" "van Dorpe"
-        "van Havre" "van Hoobrouck" "van Innis" "van Meenen" "van Neste" "van Snick" "van Tongerloo" "van Volden de Lombeke" "van Zeeland"
-        Vandive Verbeke Vercruysse Verduyn Vergauwen "Verseyden de Varick" Verwilghen "Vilain XIIII" Wallaert Wannaar Werbrouck Wyvekens }
-    }
-    wallonian = {
-        color = { 190 90 20 }
-        first_names = { Albert Alexandre Alexis Alphonse Andre Antoine Auguste Barthelemy Baudouin Blaise Camille Clement Charles Constant
-        Damien David Desire Didier Edmond Edouard Emmanuel emile Etienne Eugene Felix Fernand Feullien Florent Francois Frederic Georges
-        Gerard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-Francois Jean-Louis
-        Jean-Jacques Joseph Jules Lambert Laurent Leon Leonard Leopold Louis Lucien Mathieu Maxime Maximilien Nicolas Olivier
-        Pascal Patrice Paul Philippe Philippe-Joseph Pierre Pierre-Guillaume Sebastien Sylvain Theophile Victor Vincent Werner }
-
-        last_names = { Allard Barbanson Barthelemy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies Brialmont Bredart Cauvin Collet
-        Cols Claus Clerix Coquilhat d'Arenberg d'Huart d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort"
-        "de Behr" "de Bocarme" "de Bousies" "de Brouckere" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen"
-        "de Cro每" "de Decker" "de Dixmude" "de Gerlache" "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin"
-        "de Merode" "de Pelichy" "de Quarre" "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Secus" "de Selys Longchamps"
-        "de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies" "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix
-        "Desmanet de Biesme" Destriveaux Dethier Devaux Deville Dewandre Dhanis Dreze "du Bois" "du Bus" "du Pont" "du Val de Beaulieu" Dumont
-        Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos Jottrand
-        Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb
-        Orban Petillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermee Wyvekens Zoude }
-    }
     flanish = {
         color = { 71  14  33 }
         first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas
@@ -243,6 +111,122 @@ beneluxian = {
         "van Havre" "van Hoobrouck" "van Innis" "van Meenen" "van Neste" "van Snick" "van Tongerloo" "van Volden de Lombeke" "van Zeeland"
         Vandive Verbeke Vercruysse Verduyn Vergauwen "Verseyden de Varick" Verwilghen "Vilain XIIII" Wallaert Wannaar Werbrouck Wyvekens }
     }
+    north_german = {
+        color = { 18  56  71 }
+        first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas
+        Camille Charles Constant David Desire Diederik Edmond Emmanuel Etienne Eugene Felix Filip Frans Ferdinand Francois Frederik
+        Guillaume Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-Francois Jean-Louis Jean-Jacques
+        Jochem Joseph Josse Jozef Jules Karel Laurens Leon Leonard Leopold Louis Lucien Manfred Mathias Nicolas Nikolaas Olivier
+        Paul Philippe Philippe-Joseph Pierre Pieter Robert Sylvain Theodoor Victor Vincent Werner Willem }
+
+        last_names = { Andries "Annez de Zillebroeck" Barbanson Barthelemy Beaucarne Beernaert Berthels Bethune Beyts Bischoff Blomme Bosmans
+        "Boucqueau de Villeraye" Buylaert Buyse Claes Claus Cogels Cols Coppens Coppieters Corten Cruts "d'Arschot Schoonhoven"
+        d'Ansembourg d'Hanens "de Brouckere" "de Celles" "de Coninck" "de Decker" "de Foere" "de Gaesebeke" "de Ghellink" "de Grez"
+        "de Haerne" "de Jonghe" "de Jonghe d'Ardoye" "de Langhe" "de Leeuw" "de Leuze" "de Man" "de Meer de Moorsel"
+        "de Meester" "de Merode" "de Muelenaere" "de Pelichy" "de Renesse" "de Robiano" "de Rodes" "de Roo" "de Ryckere"
+        "de Smet" "de Theux de Meylandt" "de Tiecken" "de Viron" "de Woelmont" Dayeneux Delberke Delehaye Delwarde "Desmanet de Biesme"
+        Destouvelles Deswert Devaux Dhanis Domis "du Bois" Fransman Gelders Geudens Goethals Hennequin "Huysman d'Annecroix"
+        Jacobs Janssens Joos Jottrand Kockaert Ledeganck Lefebvre Liedts Marcq Meeus Morel Moyersoen Mulle Nypels
+        Ooms Osy Peemans Peeters Petens Rodenbach Roels Rosseuw Rouppe Rutten Serruys Schollaert Speelman Simons Struye
+        "Surlet de Chokier" "Surmont de Volsberghe" Terlinden Teuwens Tilkens Thienpont "van Caloen" "van Casteel" "van Crombrugghe"
+        "van de Kerchove" "van de Werve de Vorselaar" "van de Weyer" "van den Broucke" "van den Hove" "van der Belen" "van der Bruggen"
+        "van der Burch" "van der Eecken" "van der Linden" "van der Linden d'Hooghvorst" "van der Looy" "van Dievoet" "van Dorpe"
+        "van Havre" "van Hoobrouck" "van Innis" "van Meenen" "van Neste" "van Snick" "van Tongerloo" "van Volden de Lombeke" "van Zeeland"
+        Vandive Verbeke Vercruysse Verduyn Vergauwen "Verseyden de Varick" Verwilghen "Vilain XIIII" Wallaert Wannaar Werbrouck Wyvekens }
+    }
+    south_german = {
+        color = { 123  134  135 } #{ 110 80 80 }
+        first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas
+        Camille Charles Constant David Desire Diederik Edmond Emmanuel Etienne Eugene Felix Filip Frans Ferdinand Francois Frederik
+        Guillaume Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-Francois Jean-Louis Jean-Jacques
+        Jochem Joseph Josse Jozef Jules Karel Laurens Leon Leonard Leopold Louis Lucien Manfred Mathias Nicolas Nikolaas Olivier
+        Paul Philippe Philippe-Joseph Pierre Pieter Robert Sylvain Theodoor Victor Vincent Werner Willem }
+
+        last_names = { Andries "Annez de Zillebroeck" Barbanson Barthelemy Beaucarne Beernaert Berthels Bethune Beyts Bischoff Blomme Bosmans
+        "Boucqueau de Villeraye" Buylaert Buyse Claes Claus Cogels Cols Coppens Coppieters Corten Cruts "d'Arschot Schoonhoven"
+        d'Ansembourg d'Hanens "de Brouckere" "de Celles" "de Coninck" "de Decker" "de Foere" "de Gaesebeke" "de Ghellink" "de Grez"
+        "de Haerne" "de Jonghe" "de Jonghe d'Ardoye" "de Langhe" "de Leeuw" "de Leuze" "de Man" "de Meer de Moorsel"
+        "de Meester" "de Merode" "de Muelenaere" "de Pelichy" "de Renesse" "de Robiano" "de Rodes" "de Roo" "de Ryckere"
+        "de Smet" "de Theux de Meylandt" "de Tiecken" "de Viron" "de Woelmont" Dayeneux Delberke Delehaye Delwarde "Desmanet de Biesme"
+        Destouvelles Deswert Devaux Dhanis Domis "du Bois" Fransman Gelders Geudens Goethals Hennequin "Huysman d'Annecroix"
+        Jacobs Janssens Joos Jottrand Kockaert Ledeganck Lefebvre Liedts Marcq Meeus Morel Moyersoen Mulle Nypels
+        Ooms Osy Peemans Peeters Petens Rodenbach Roels Rosseuw Rouppe Rutten Serruys Schollaert Speelman Simons Struye
+        "Surlet de Chokier" "Surmont de Volsberghe" Terlinden Teuwens Tilkens Thienpont "van Caloen" "van Casteel" "van Crombrugghe"
+        "van de Kerchove" "van de Werve de Vorselaar" "van de Weyer" "van den Broucke" "van den Hove" "van der Belen" "van der Bruggen"
+        "van der Burch" "van der Eecken" "van der Linden" "van der Linden d'Hooghvorst" "van der Looy" "van Dievoet" "van Dorpe"
+        "van Havre" "van Hoobrouck" "van Innis" "van Meenen" "van Neste" "van Snick" "van Tongerloo" "van Volden de Lombeke" "van Zeeland"
+        Vandive Verbeke Vercruysse Verduyn Vergauwen "Verseyden de Varick" Verwilghen "Vilain XIIII" Wallaert Wannaar Werbrouck Wyvekens }
+    }
+    austro_german = {
+        color = { 207  207  209 }
+        first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas
+        Camille Charles Constant David Desire Diederik Edmond Emmanuel Etienne Eugene Felix Filip Frans Ferdinand Francois Frederik
+        Guillaume Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-Francois Jean-Louis Jean-Jacques
+        Jochem Joseph Josse Jozef Jules Karel Laurens Leon Leonard Leopold Louis Lucien Manfred Mathias Nicolas Nikolaas Olivier
+        Paul Philippe Philippe-Joseph Pierre Pieter Robert Sylvain Theodoor Victor Vincent Werner Willem }
+
+        last_names = { Andries "Annez de Zillebroeck" Barbanson Barthelemy Beaucarne Beernaert Berthels Bethune Beyts Bischoff Blomme Bosmans
+        "Boucqueau de Villeraye" Buylaert Buyse Claes Claus Cogels Cols Coppens Coppieters Corten Cruts "d'Arschot Schoonhoven"
+        d'Ansembourg d'Hanens "de Brouckere" "de Celles" "de Coninck" "de Decker" "de Foere" "de Gaesebeke" "de Ghellink" "de Grez"
+        "de Haerne" "de Jonghe" "de Jonghe d'Ardoye" "de Langhe" "de Leeuw" "de Leuze" "de Man" "de Meer de Moorsel"
+        "de Meester" "de Merode" "de Muelenaere" "de Pelichy" "de Renesse" "de Robiano" "de Rodes" "de Roo" "de Ryckere"
+        "de Smet" "de Theux de Meylandt" "de Tiecken" "de Viron" "de Woelmont" Dayeneux Delberke Delehaye Delwarde "Desmanet de Biesme"
+        Destouvelles Deswert Devaux Dhanis Domis "du Bois" Fransman Gelders Geudens Goethals Hennequin "Huysman d'Annecroix"
+        Jacobs Janssens Joos Jottrand Kockaert Ledeganck Lefebvre Liedts Marcq Meeus Morel Moyersoen Mulle Nypels
+        Ooms Osy Peemans Peeters Petens Rodenbach Roels Rosseuw Rouppe Rutten Serruys Schollaert Speelman Simons Struye
+        "Surlet de Chokier" "Surmont de Volsberghe" Terlinden Teuwens Tilkens Thienpont "van Caloen" "van Casteel" "van Crombrugghe"
+        "van de Kerchove" "van de Werve de Vorselaar" "van de Weyer" "van den Broucke" "van den Hove" "van der Belen" "van der Bruggen"
+        "van der Burch" "van der Eecken" "van der Linden" "van der Linden d'Hooghvorst" "van der Looy" "van Dievoet" "van Dorpe"
+        "van Havre" "van Hoobrouck" "van Innis" "van Meenen" "van Neste" "van Snick" "van Tongerloo" "van Volden de Lombeke" "van Zeeland"
+        Vandive Verbeke Vercruysse Verduyn Vergauwen "Verseyden de Varick" Verwilghen "Vilain XIIII" Wallaert Wannaar Werbrouck Wyvekens }
+    }
+    rhine_german = {
+        color = { 145  145  158 }
+        first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas
+        Camille Charles Constant David Desire Diederik Edmond Emmanuel Etienne Eugene Felix Filip Frans Ferdinand Francois Frederik
+        Guillaume Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-Francois Jean-Louis Jean-Jacques
+        Jochem Joseph Josse Jozef Jules Karel Laurens Leon Leonard Leopold Louis Lucien Manfred Mathias Nicolas Nikolaas Olivier
+        Paul Philippe Philippe-Joseph Pierre Pieter Robert Sylvain Theodoor Victor Vincent Werner Willem }
+
+        last_names = { Andries "Annez de Zillebroeck" Barbanson Barthelemy Beaucarne Beernaert Berthels Bethune Beyts Bischoff Blomme Bosmans
+        "Boucqueau de Villeraye" Buylaert Buyse Claes Claus Cogels Cols Coppens Coppieters Corten Cruts "d'Arschot Schoonhoven"
+        d'Ansembourg d'Hanens "de Brouckere" "de Celles" "de Coninck" "de Decker" "de Foere" "de Gaesebeke" "de Ghellink" "de Grez"
+        "de Haerne" "de Jonghe" "de Jonghe d'Ardoye" "de Langhe" "de Leeuw" "de Leuze" "de Man" "de Meer de Moorsel"
+        "de Meester" "de Merode" "de Muelenaere" "de Pelichy" "de Renesse" "de Robiano" "de Rodes" "de Roo" "de Ryckere"
+        "de Smet" "de Theux de Meylandt" "de Tiecken" "de Viron" "de Woelmont" Dayeneux Delberke Delehaye Delwarde "Desmanet de Biesme"
+        Destouvelles Deswert Devaux Dhanis Domis "du Bois" Fransman Gelders Geudens Goethals Hennequin "Huysman d'Annecroix"
+        Jacobs Janssens Joos Jottrand Kockaert Ledeganck Lefebvre Liedts Marcq Meeus Morel Moyersoen Mulle Nypels
+        Ooms Osy Peemans Peeters Petens Rodenbach Roels Rosseuw Rouppe Rutten Serruys Schollaert Speelman Simons Struye
+        "Surlet de Chokier" "Surmont de Volsberghe" Terlinden Teuwens Tilkens Thienpont "van Caloen" "van Casteel" "van Crombrugghe"
+        "van de Kerchove" "van de Werve de Vorselaar" "van de Weyer" "van den Broucke" "van den Hove" "van der Belen" "van der Bruggen"
+        "van der Burch" "van der Eecken" "van der Linden" "van der Linden d'Hooghvorst" "van der Looy" "van Dievoet" "van Dorpe"
+        "van Havre" "van Hoobrouck" "van Innis" "van Meenen" "van Neste" "van Snick" "van Tongerloo" "van Volden de Lombeke" "van Zeeland"
+        Vandive Verbeke Vercruysse Verduyn Vergauwen "Verseyden de Varick" Verwilghen "Vilain XIIII" Wallaert Wannaar Werbrouck Wyvekens }
+    }    
+    czech = {
+        color = {120 120 255}
+        first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas
+        Camille Charles Constant David Desire Diederik Edmond Emmanuel Etienne Eugene Felix Filip Frans Ferdinand Francois Frederik
+        Guillaume Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-Francois Jean-Louis Jean-Jacques
+        Jochem Joseph Josse Jozef Jules Karel Laurens Leon Leonard Leopold Louis Lucien Manfred Mathias Nicolas Nikolaas Olivier
+        Paul Philippe Philippe-Joseph Pierre Pieter Robert Sylvain Theodoor Victor Vincent Werner Willem Jan Pavel Petrk}
+
+        last_names = { Andries "Annez de Zillebroeck" Barbanson Barthelemy Beaucarne Beernaert Berthels Bethune Beyts Bischoff Blomme Bosmans
+        "Boucqueau de Villeraye" Buylaert Buyse Claes Claus Cogels Cols Coppens Coppieters Corten Cruts "d'Arschot Schoonhoven"
+        d'Ansembourg d'Hanens "de Brouckere" "de Celles" "de Coninck" "de Decker" "de Foere" "de Gaesebeke" "de Ghellink" "de Grez"
+        "de Haerne" "de Jonghe" "de Jonghe d'Ardoye" "de Langhe" "de Leeuw" "de Leuze" "de Man" "de Meer de Moorsel"
+        "de Meester" "de Merode" "de Muelenaere" "de Pelichy" "de Renesse" "de Robiano" "de Rodes" "de Roo" "de Ryckere"
+        "de Smet" "de Theux de Meylandt" "de Tiecken" "de Viron" "de Woelmont" Dayeneux Delberke Delehaye Delwarde "Desmanet de Biesme"
+        Destouvelles Deswert Devaux Dhanis Domis "du Bois" Fransman Gelders Geudens Goethals Hennequin "Huysman d'Annecroix"
+        Jacobs Janssens Joos Jottrand Kockaert Ledeganck Lefebvre Liedts Marcq Meeus Morel Moyersoen Mulle Nypels
+        Ooms Osy Peemans Peeters Petens Rodenbach Roels Rosseuw Rouppe Rutten Serruys Schollaert Speelman Simons Struye
+        "Surlet de Chokier" "Surmont de Volsberghe" Terlinden Teuwens Tilkens Thienpont "van Caloen" "van Casteel" "van Crombrugghe"
+        "van de Kerchove" "van de Werve de Vorselaar" "van de Weyer" "van den Broucke" "van den Hove" "van der Belen" "van der Bruggen"
+        "van der Burch" "van der Eecken" "van der Linden" "van der Linden d'Hooghvorst" "van der Looy" "van Dievoet" "van Dorpe"
+        "van Havre" "van Hoobrouck" "van Innis" "van Meenen" "van Neste" "van Snick" "van Tongerloo" "van Volden de Lombeke" "van Zeeland"
+        Vandive Verbeke Vercruysse Verduyn Vergauwen "Verseyden de Varick" Verwilghen "Vilain XIIII" Wallaert Wannaar Werbrouck Wyvekens }
+        radicalism = 5
+    }    
 }
 
 pan_swiss = {
@@ -305,7 +289,6 @@ scandinavian = {
         last_names = { Arn贸rsson asgeirsson Benediktsson Bjarnasen Bjornsson Eggers Eldjarn Hafstein Hansen
         Hermannsson Johanesson J贸nsson Magn煤sson Stefansson Steinthosson Th贸rdarson Th贸rhallson Thorlaksson Thurs }
     }
-    union = SCA
 }
 
 finnougric = {
@@ -602,6 +585,20 @@ french = {
         Foch Forey "Franchet d'Esperey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
         Jaures Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Pellissier Petain Vaillant }
         }
+    alsatian = {
+        color = { 5  109  150 }
+        first_names = { Achille Adolphe Adrien Aimable Alphonse Amedee Antoine Armand August Augustin
+        Charles Daniel Denis Edouard Elie ettiene Eugene Felicien Felix Fernand
+        Francois Frederic Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+        Joseph Jules Julien Lazare Leopold Leroy Louis Lucien Matthieu Michel
+        Napoleon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
+
+        last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boue de Lapeyrere" Bouet-Willaumez Boulanger Bourbaki
+        Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
+        "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duch锚ne Dupetit-Thouars Exelmans
+        Foch Forey "Franchet d'Esperey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
+        Jaures Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Pellissier Petain Vaillant }
+    }
     union = FRE
 }
 
@@ -2913,7 +2910,7 @@ new_world_french = {
             }
             radicalism = 5
         }
-        french_greenlander = {
+    french_greenlander = {
             color = {155 111 217}
             first_names = { Narcisse Rene Edouard Luc Letellier Theodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugene Essioff Huguel Jean-Pierre Gilles
             }

@@ -238,6 +238,7 @@ country_event = {
         name = "EVTOPTA52508"
         prestige = -10
         set_global_flag = poulkrana_war_declared
+        release_vassal = UKR
         war = {
             target = UKR
             attacker_goal = { casus_belli = civil_war }

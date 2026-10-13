@@ -1,6 +1,8 @@
 add_core = ZVY
 trade_goods = cattle
 life_rating = 20
+owner = ZVY
+controller = ZVY
 #state_building = {
 #    level = 1
 #    building = liquor_distillery

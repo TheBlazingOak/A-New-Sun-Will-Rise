@@ -1,4 +1,6 @@
-add_core = MOW
+add_core = STR
 trade_goods = iron
 life_rating = 20
+owner = STR
+controller = STR
 
