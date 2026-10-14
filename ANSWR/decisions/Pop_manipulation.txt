@@ -142,7 +142,7 @@ political_decisions = {
             #Specific Cultures
             clr_country_flag = interning_germanics
             clr_country_flag = interning_jewish_cultures
-            clr_country_flag = interning_beneluxian
+            clr_country_flag = interning_koudrel
             clr_country_flag = interning_pan_swiss
             clr_country_flag = interning_scandinavian
             clr_country_flag = interning_british
@@ -1154,7 +1154,7 @@ political_decisions = {
         ai_will_do = { factor = 0 }
     }
 
-    intern_beneluxian = {
+    intern_koudrel = {
         picture = generic_culture
         potential = {
             has_country_modifier = interment_camps
@@ -1163,10 +1163,10 @@ political_decisions = {
                 any_pop = {
                     is_primary_culture = no
                     is_accepted_culture = no
-                    is_culture_group = beneluxian
+                    is_culture_group = koudrel
                 }
             }
-            NOT = { has_country_flag = interning_beneluxian }
+            NOT = { has_country_flag = interning_koudrel }
             OR = {
                 has_country_flag = government_decisions_on
                 ai = yes
@@ -1177,7 +1177,7 @@ political_decisions = {
         }
 
         effect = {
-            set_country_flag = interning_beneluxian
+            set_country_flag = interning_koudrel
             change_variable = { which = slowdown_point value = 2 }
         }
         ai_will_do = { factor = 0 }

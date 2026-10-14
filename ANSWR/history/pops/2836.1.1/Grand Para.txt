@@ -749,25 +749,21 @@
         religion = catholic
         size = 1150
     }
-
     clergymen = {
         culture = fortaleceirei
         religion = catholic
         size = 2500
     }
-
     artisans = {
         culture = fortaleceirei
         religion = catholic
         size = 6325
     }
-
     soldiers = {
         culture = fortaleceirei
         religion = catholic
-        size = 2200
+        size = 3200
     }
-
     farmers = {
         culture = fortaleceirei
         religion = catholic
@@ -778,13 +774,11 @@
         religion = catholic
         size = 1000
     }
-
     slaves = {
         culture = amazonian
         religion = catholic
         size = 5500
     }
-
     slaves = {
         culture = amazonian
         religion = animist

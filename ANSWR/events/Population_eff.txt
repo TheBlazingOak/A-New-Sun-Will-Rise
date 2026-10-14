@@ -185,9 +185,9 @@ province_event = {
                 }
             }
             AND = {
-                owner = { has_country_flag = interning_beneluxian }
+                owner = { has_country_flag = interning_koudrel }
                 any_pop = {
-                    is_culture_group = beneluxian
+                    is_culture_group = koudrel
                     NOT = {
                         is_primary_culture = yes
                         is_accepted_culture = yes
@@ -2682,12 +2682,12 @@ province_event = {
             }
         }
 
-        ##############beneluxian Cultures
+        ##############koudrel Cultures
         random_pop = {#Killing in a majority state
             limit = {
-                is_culture_group = beneluxian
+                is_culture_group = koudrel
                 location = {
-                    owner = { has_country_flag = interning_beneluxian }
+                    owner = { has_country_flag = interning_koudrel }
                     state_scope = {
                         OR = {
                             is_accepted_culture = yes
@@ -2703,7 +2703,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = beneluxian
+                            is_culture_group = koudrel
                         }
                         reduce_pop = 0.35
                         random = {
@@ -2726,9 +2726,9 @@ province_event = {
         #Killing in a minority state
         random_pop = {
             limit = {
-                is_culture_group = beneluxian
+                is_culture_group = koudrel
                 location = {
-                    owner = { has_country_flag = interning_beneluxian }
+                    owner = { has_country_flag = interning_koudrel }
                     state_scope = {
                         is_primary_culture = no
                         is_accepted_culture = no
@@ -2747,7 +2747,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = beneluxian
+                            is_culture_group = koudrel
                         }
                         reduce_pop = 0.65
                         random = {
@@ -2770,9 +2770,9 @@ province_event = {
         #Killing in a no-presence state
         random_pop = {
             limit = {
-                is_culture_group = beneluxian
+                is_culture_group = koudrel
                 location = {
-                    owner = { has_country_flag = interning_beneluxian }
+                    owner = { has_country_flag = interning_koudrel }
                     state_scope = {
                         is_primary_culture = no
                         is_accepted_culture = no
@@ -2793,7 +2793,7 @@ province_event = {
                         limit = {
                             is_primary_culture = no
                             is_accepted_culture = no
-                            is_culture_group = beneluxian
+                            is_culture_group = koudrel
                         }
                         reduce_pop = 0.85
                         random = {
@@ -8508,7 +8508,7 @@ country_event = {
         #Specific Cultures
         clr_country_flag = interning_germanics
         clr_country_flag = interning_jewish_cultures
-        clr_country_flag = interning_beneluxian
+        clr_country_flag = interning_koudrel
         clr_country_flag = interning_pan_swiss
         clr_country_flag = interning_scandinavian
         clr_country_flag = interning_british

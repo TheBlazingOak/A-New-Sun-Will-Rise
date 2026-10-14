@@ -2132,43 +2132,41 @@
         religion = catholic
         size = 10
     }
-
     soldiers = {
         culture = amazonian
         religion = catholic
         size = 15
     }
-
     farmers = {
         culture = amazonian
         religion = catholic
-        size = 275
+        size = 1275
     }
-
     clergymen = {
         culture = muisca
         religion = catholic
         size = 5
     }
-
     artisans = {
         culture = muisca
         religion = catholic
         size = 5
     }
-
     soldiers = {
         culture = muisca
         religion = catholic
         size = 5
     }
-
     farmers = {
         culture = muisca
         religion = catholic
-        size = 20
+        size = 120
     }
-
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 1000
+    }
 }
 #Guyana (99600)
 #Ruled by Quycan 2836
@@ -2176,38 +2174,34 @@
 #Mahdia (4000/1000 POPS)
 2242 = {
     aristocrats = {
-        culture = amazonian
+        culture = fortaleceirei
         religion = catholic
-        size = 10
+        size = 1110
     }
-
     clergymen = {
-        culture = amazonian
+        culture = fortaleceirei
         religion = catholic
-        size = 25
+        size = 825
     }
-
     artisans = {
-        culture = amazonian
+        culture = fortaleceirei
         religion = catholic
-        size = 50
+        size = 950
     }
-
     soldiers = {
-        culture = amazonian
+        culture = fortaleceirei
         religion = catholic
-        size = 15
+        size = 215
     }
-
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 2400
+    }
     farmers = {
         culture = amazonian
         religion = catholic
-        size = 400
-    }
-    farmers = {
-        culture = muisca
-        religion = catholic
-        size = 300
+        size = 7300
     }
 }
 #Essequibo (33000/8250 POPS)
@@ -2215,31 +2209,27 @@
     aristocrats = {
         culture = muisca
         religion = catholic
-        size = 50
+        size = 1250
     }
-
     clergymen = {
         culture = muisca
         religion = catholic
-        size = 25
+        size = 125
     }
-
     artisans = {
         culture = muisca
         religion = catholic
-        size = 100
+        size = 11100
     }
-
     soldiers = {
         culture = muisca
         religion = catholic
-        size = 25
+        size = 3125
     }
-
     farmers = {
         culture = muisca
         religion = catholic
-        size = 1250
+        size = 51250
     }
 }
 #Surinam : 56640

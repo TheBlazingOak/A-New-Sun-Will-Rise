@@ -1060,41 +1060,35 @@
         religion = catholic
         size = 100
     }
-
     soldiers = {
         culture = amazonian
         religion = catholic
         size = 1500
     }
-
     farmers = {
         culture = amazonian
         religion = catholic
         size = 4000
     }
-
     clergymen = {
         culture = fortaleceirei
         religion = catholic
         size = 50
     }
-
     artisans = {
         culture = fortaleceirei
         religion = catholic
         size = 500
     }
-
     soldiers = {
         culture = fortaleceirei
         religion = catholic
-        size = 500
+        size = 3500
     }
-
     farmers = {
         culture = fortaleceirei
         religion = catholic
-        size = 5020
+        size = 15020
     }
 }
 #Borba (12000/3000 POPS)
@@ -1236,92 +1230,83 @@
         religion = catholic
         size = 10
     }
-
     soldiers = {
         culture = amazonian
         religion = catholic
         size = 15
     }
-
     farmers = {
         culture = amazonian
         religion = catholic
         size = 1375
     }
-
     clergymen = {
         culture = muisca
         religion = catholic
         size = 5
     }
-
     artisans = {
         culture = muisca
         religion = catholic
         size = 5
     }
-
     soldiers = {
         culture = muisca
         religion = catholic
         size = 5
     }
-
     farmers = {
         culture = muisca
         religion = catholic
         size = 2320
     }
+    farmers = {
+        culture = fortaleceirei
+        religion = catholic
+        size = 4000
+    }
 }
 #Aruba (2400/600 POPS)
 2235 = {
-
     aristocrats = {
         culture = fortaleceirei
         religion = catholic
-        size = 1120
+        size = 2120
     }
-
     clergymen = {
         culture = fortaleceirei
         religion = catholic
-        size = 125
+        size = 1125
     }
-
     soldiers = {
-        culture = amazonian
+        culture = fortaleceirei
         religion = catholic
-        size = 2215
+        size = 6215
     }
-
     farmers = {
         culture = fortaleceirei
         religion = catholic
-        size = 18400
+        size = 68400
     }
-
     farmers = {
         culture = amazonian
         religion = catholic
-        size = 2175
+        size = 12175
     }
-
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
-        size = 2175
+        size = 22175
     }
-
     bureaucrats = {
         culture = fortaleceirei
         religion = catholic
-        size = 80
+        size = 1180
     }
-
     officers = {
         culture = fortaleceirei
         religion = catholic
-        size = 50
+        size = 150
     }
 }
 #Para Region (128000)

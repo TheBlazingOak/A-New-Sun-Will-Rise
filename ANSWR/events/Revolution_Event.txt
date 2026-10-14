@@ -310,7 +310,7 @@ country_event = {
         #Specific Cultures
         clr_country_flag = interning_germanics
         clr_country_flag = interning_jewish_cultures
-        clr_country_flag = interning_beneluxian
+        clr_country_flag = interning_koudrel
         clr_country_flag = interning_pan_swiss
         clr_country_flag = interning_scandinavian
         clr_country_flag = interning_british
@@ -813,7 +813,7 @@ country_event = {
         #Specific Cultures
         clr_country_flag = interning_germanics
         clr_country_flag = interning_jewish_cultures
-        clr_country_flag = interning_beneluxian
+        clr_country_flag = interning_koudrel
         clr_country_flag = interning_pan_swiss
         clr_country_flag = interning_scandinavian
         clr_country_flag = interning_british
@@ -1231,7 +1231,7 @@ country_event = {
         #Specific Cultures
         clr_country_flag = interning_germanics
         clr_country_flag = interning_jewish_cultures
-        clr_country_flag = interning_beneluxian
+        clr_country_flag = interning_koudrel
         clr_country_flag = interning_pan_swiss
         clr_country_flag = interning_scandinavian
         clr_country_flag = interning_british
@@ -1660,7 +1660,7 @@ country_event = {
         #Specific Cultures
         clr_country_flag = interning_germanics
         clr_country_flag = interning_jewish_cultures
-        clr_country_flag = interning_beneluxian
+        clr_country_flag = interning_koudrel
         clr_country_flag = interning_pan_swiss
         clr_country_flag = interning_scandinavian
         clr_country_flag = interning_british
@@ -2153,7 +2153,7 @@ country_event = {
         #Specific Cultures
         clr_country_flag = interning_germanics
         clr_country_flag = interning_jewish_cultures
-        clr_country_flag = interning_beneluxian
+        clr_country_flag = interning_koudrel
         clr_country_flag = interning_pan_swiss
         clr_country_flag = interning_scandinavian
         clr_country_flag = interning_british
@@ -2762,7 +2762,7 @@ country_event = {
         #Specific Cultures
         clr_country_flag = interning_germanics
         clr_country_flag = interning_jewish_cultures
-        clr_country_flag = interning_beneluxian
+        clr_country_flag = interning_koudrel
         clr_country_flag = interning_pan_swiss
         clr_country_flag = interning_scandinavian
         clr_country_flag = interning_british

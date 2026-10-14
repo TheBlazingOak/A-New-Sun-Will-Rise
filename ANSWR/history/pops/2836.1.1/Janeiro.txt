@@ -829,73 +829,42 @@
     aristocrats = {
         culture = janeiran
         religion = catholic
-        size = 1275
+        size = 2275
     }
-
     bureaucrats = {
         culture = janeiran
         religion = catholic
-        size = 125
+        size = 3125
     }
-
     officers = {
         culture = janeiran
         religion = catholic
-        size = 150
+        size = 650
     }
-
     clergymen = {
         culture = janeiran
         religion = catholic
-        size = 550
+        size = 4550
     }
-
     artisans = {
         culture = janeiran
         religion = catholic
-        size = 1025
+        size = 11025
     }
-
     soldiers = {
         culture = janeiran
         religion = catholic
         size = 6100
     }
-
     farmers = {
         culture = janeiran
         religion = catholic
-        size = 45900
+        size = 115900
     }
-
-    clergymen = {
-        culture = janeiran
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = janeiran
-        religion = catholic
-        size = 750
-    }
-
-    soldiers = {
-        culture = janeiran
-        religion = catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = janeiran
-        religion = catholic
-        size = 10025
-    }
-
     slaves = {
         culture = janeiran
         religion = catholic
-        size = 10000
+        size = 30000
     }
 }
 #Santos (132000/33000 POPS)

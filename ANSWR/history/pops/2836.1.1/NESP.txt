@@ -4,67 +4,57 @@
 2241 = {
     aristocrats = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 1500
     }
-
     bureaucrats = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 750
     }
-
     artisans = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 6150
     }
-
     clergymen = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 4425
     }
-
     soldiers = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 6050
     }
-
     farmers = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 40425
     }
-
     aristocrats = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 2
     }
-
     clergymen = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 3
     }
-
     artisans = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 10
     }
-
     soldiers = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 5
     }
-
     farmers = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 230
     }
 }
@@ -72,37 +62,32 @@
 2246 = {
     aristocrats = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 10
     }
-
     clergymen = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 15
     }
-
     artisans = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 35
     }
-
     soldiers = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 10
     }
-
     farmers = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 580
     }
-
     farmers = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 5280
     }
 }
@@ -110,36 +95,32 @@
 2240 = {
     aristocrats = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 75
     }
-
     bureaucrats = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 60
     }
-
     artisans = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 100
     }
-
     soldiers = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 3275
     }
-
     farmers = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 14075
     }
     farmers = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 1350
     }
 }
@@ -147,76 +128,65 @@
 2245 = {
     aristocrats = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 25
     }
-
     clergymen = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 50
     }
-
     artisans = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 100
     }
-
     soldiers = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 25
     }
-
     farmers = {
         culture = amazonian
-        religion = animist
+        religion = catholic
         size = 1350
     }
-
     farmers = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 6250
     }
-
 }
 #Georgetown (58600/14650 POPS)
 2239 = {
     aristocrats = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 600
     }
-
     bureaucrats = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 150
     }
-
     clergymen = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 125
     }
-
     artisans = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 5350
     }
-
     soldiers = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 3000
     }
-
     farmers = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 13100
     }
 }
@@ -227,25 +197,21 @@
         religion = catholic
         size = 10
     }
-
     clergymen = {
         culture = amazonian
         religion = catholic
         size = 25
     }
-
     artisans = {
         culture = amazonian
         religion = catholic
         size = 50
     }
-
     soldiers = {
         culture = amazonian
         religion = catholic
         size = 15
     }
-
     farmers = {
         culture = amazonian
         religion = catholic
@@ -253,7 +219,7 @@
     }
     farmers = {
         culture = terrassier
-        religion = catholic
+        religion = free_spirit
         size = 1100
     }
 }

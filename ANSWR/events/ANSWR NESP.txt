@@ -178,7 +178,6 @@ country_event = {
         name = "EVTOPTA17906"
         set_country_flag = nesp_claims
         BRZ_2408 = { add_core = THIS }
-        VNZ_2239 = { add_core = THIS }
         BRZ_1954 = { add_core = THIS }
     }
 }

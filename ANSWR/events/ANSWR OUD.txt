@@ -177,6 +177,7 @@ country_event = {
             factor = 25
         }
     }
+    #Accept 
     option = {
     name = "EVTOPTC222011"
         prestige = -10
@@ -213,12 +214,48 @@ country_event = {
     id = 222012
     title = "EVTNAME222012"
     desc = "EVTDESC222012"
-    picture = bad_badboy
+    major = yes
     is_triggered_only = yes
     option = {
         name = "EVTOPTA222012"
-        prestige = 10
+        prestige = 25
         create_alliance = BOH
+        change_tag = OUD
+        prestige = 25
+        BOH = { all_core = { remove_core = OUD } }
+        inherit = WES
+        inherit = RHI
+        inherit = BAV
+        inherit = ULM
+        inherit = BAD
+        inherit = SAX
+        inherit = WEI
+        inherit = BRI
+        inherit = MEC
+        inherit = PZN
+        all_core = {
+        remove_core = WES
+        remove_core = RHI
+        remove_core = BAV
+        remove_core = ULM
+        remove_core = BAD
+        remove_core = SAX
+        remove_core = WEI
+        remove_core = BRI
+        remove_core = MEC
+        remove_core = PZN
+        remove_core = AUS
+        }
+        add_accepted_culture = north_german
+        add_accepted_culture = south_german
+        add_accepted_culture = rhine_german
+        add_accepted_culture = alsatian
+        remove_country_modifier = oudrijk_prince
+        remove_country_modifier = oudrijk_kaizer
+        add_country_modifier = {
+                name = oudrijk_kaizer_victory
+                duration = -1
+            }
     }
 }
 #Fernost reacts to council request
@@ -241,7 +278,7 @@ country_event = {
     #War is the only option
     option = {
     name = "EVTOPTA222014"
-        
+        set_country_flag = council_wien_war
     }
 }
 #Oudrijk Accept

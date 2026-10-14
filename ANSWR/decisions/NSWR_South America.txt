@@ -21,7 +21,7 @@ political_decisions = {
 	}
 	casanare_colonialization = {
 		potential = {
-				tag = QKD
+				OR = { is_primary_culture = muisca 2247 = { owned_by = THIS } }
 				year = 2840
 				NOT = { has_country_flag = casanar_qkd }
 			}
@@ -36,23 +36,36 @@ political_decisions = {
 	}
 	eastward_expansion = {
 		potential = {
-				tag = QKD
-				year = 2843
+				is_primary_culture = muisca
+				year = 2850
 				has_country_flag = casanar_qkd
 				NOT = { has_country_flag = casanar_qkd2 }
 			}
 		allow = {
-			has_country_flag = casanar_qkd
 			CLM_2262 = { owned_by = THIS }
-			civilized = yes
+			prestige = 10
 		}
 		effect = {
-			VNZ_2239 = { secede_province = THIS }
-			VNZ_2239 = { add_core = THIS }
 			BRZ_1954 = { add_core = THIS }
 			BRZ_2452 = { add_core = THIS }
 			BRZ_2408 = { add_core = THIS }
 			set_country_flag = casanar_qkd2
+		}
+	}
+	pastaza_colonization = {
+		potential = {
+				2280 = { owned_by = THIS }
+				PEU_2289 = { empty = yes }
+				year = 2850
+				NOT = { has_country_flag = pastaza_colonization }
+			}
+		allow = {
+			2280 = { owned_by = THIS }
+			prestige = 10
+		}
+		effect = {
+			BRZ_1954 = { secede_province = THIS add_core = THIS }
+			set_country_flag = pastaza_colonization
 		}
 	}
 	#States of the South
@@ -104,7 +117,6 @@ political_decisions = {
 		allow = {
 			2600 = { owned_by = THIS }
 			prestige = 5
-			USS = { all_core = { owned_by = THIS } }
 		}
 		effect = {
 			BRZ_2416 = { secede_province = THIS add_core = THIS }
@@ -123,7 +135,6 @@ political_decisions = {
 		allow = {
 			2404 = { owned_by = THIS }
 			prestige = 5
-			USS = { all_core = { owned_by = THIS } }
 		}
 		effect = {
 			CSK_2301 = { secede_province = THIS add_core = THIS }
@@ -142,7 +153,7 @@ political_decisions = {
 				NOT = { has_country_flag = patagonia_colonized }
 			}
 		allow = {
-			2404 = { owned_by = THIS }
+			2393 = { owned_by = THIS }
 			prestige = 5
 		}
 		effect = {
@@ -156,20 +167,17 @@ political_decisions = {
 		picture = south_america
 		potential = {
 				year = 2860
-				ARG_2398 = { owned_by = THIS }
-				ARG_2391 = { owned_by = THIS }
-				ARG_2374 = { owned_by = THIS }
+				OR = { ARG_2374 = { owned_by = THIS } BOL_2305 = { owned_by = THIS } }				
 				CHL_2327 = { empty = yes }
 				CHL_2322 = { empty = yes }
 				NOT = { has_country_flag = chile_colonized }
 			}
 		allow = {
-			2404 = { owned_by = THIS }
-			prestige = 5
+			OR = { AND = { 2395 = { owned_by = THIS } prestige = 10 } AND = { 2305 = { owned_by = THIS } prestige = 20 } } 
 		}
 		effect = {
-			CHL_2327 = { secede_province = THIS add_core = THIS add_core = USS }
-			CHL_2322 = { secede_province = THIS add_core = THIS add_core = USS }
+			CHL_2327 = { secede_province = THIS add_core = THIS }
+			CHL_2322 = { secede_province = THIS add_core = THIS }
 			set_country_flag = chile_colonized
 		}
 	}

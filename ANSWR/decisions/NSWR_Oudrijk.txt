@@ -215,7 +215,7 @@ political_decisions = {
             change_tag = PRF
             remove_country_modifier = oudrijk_prince
             remove_country_modifier = oudrijk_oppostion 
-            set_primary_culture = czech
+            primary_culture = czech
             add_accepted_culture = north_german
             inherit = SAX
             inherit = WEI
@@ -281,11 +281,13 @@ political_decisions = {
 
     ### BOH Decisions ###
     renovate_the_black_palace = {
+        alert = yes
         potential = {
-            tag = BOH
+            is_culture_group = koudrel
+            625 = { owned_by = THIS }
             prestige = 75
             year = 2845
-            NOT = { has_country_flag = black_palace }
+            NOT = { has_global_flag = black_palace }
         }
         allow = {
             semi_automatization = 1
@@ -295,12 +297,84 @@ political_decisions = {
         effect = {
             prestige = 20
             treasury = -50000
-            set_country_flag = black_palace
+            set_global_flag = black_palace
         }
         ai_will_do = {
         factor = 1
         }
     }
-    
+    #Post-Formation Decisions#
+    slowenia_core = {
+        alert = yes
+        potential = {
+            is_culture_group = koudrel
+            771 = { owned_by = THIS }
+            NOT = { has_country_flag = slowenia_core }
+        }
+
+        allow = {
+            prestige = 50
+            revolution_n_counterrevolution = 1
+            771 = { owned_by = THIS }
+            785 = { owned_by = THIS }
+            war = no
+        }
+
+        effect = {
+            prestige = 5
+            add_accepted_culture = slovene
+            AUS_771 = { add_core = THIS }
+            AUS_780 = { add_core = THIS }
+            set_country_flag = slowenia_core
+        }
+    }
+    the_western_miracle = {
+        picture = whistlestop_tour
+        alert = yes
+        potential = {
+            is_culture_group = koudrel
+            567 = { owned_by = THIS }
+            571 = { owned_by = THIS }
+            586 = { owned_by = THIS }
+            590 = { owned_by = THIS }
+            NOT = { has_country_flag = western_miracle }
+        }
+
+        allow = {
+            prestige = 50
+            regenerative_furnaces = 1
+            compound_steam_engines = 1
+            war = no
+        }
+
+        effect = {
+            prestige = 5
+            HES_2560 = { 
+                add_province_modifier = {
+                name = baby_boom
+                duration = 1825
+                }
+            }
+            PRU_570 = { 
+                add_province_modifier = {
+                name = baby_boom
+                duration = 1825
+                }
+            }
+            BAD_586 = { 
+                add_province_modifier = {
+                name = baby_boom
+                duration = 1825
+                }
+            }
+            WUR_589 = { 
+                add_province_modifier = {
+                name = baby_boom
+                duration = 1825
+                }
+            }
+            set_country_flag = western_miracle
+        }
+    }
 #End of Brackets
 }

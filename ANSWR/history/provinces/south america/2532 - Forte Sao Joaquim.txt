@@ -1,6 +1,5 @@
-owner = CRR
-controller = CRR
-add_core = CRR
+owner = AMZ
+controller = AMZ
 add_core = AMZ
 trade_goods = cattle
 life_rating = 31

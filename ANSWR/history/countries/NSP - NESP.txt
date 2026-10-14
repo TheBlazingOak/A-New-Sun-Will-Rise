@@ -1,6 +1,6 @@
 capital = 2241
 primary_culture = terrassier
-religion = catholic
+religion = free_spirit
 government = democracy
 plurality = 60
 nationalvalue = nv_productivity
@@ -36,7 +36,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = closed_borders
 
-set_country_flag = catholic_country
+set_country_flag = free_spirit_country
 set_country_flag = new_world_nation
 
 ruling_party = FRA_conservative

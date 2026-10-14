@@ -20,20 +20,16 @@ From;To;Type;Through;Data;Comment
 2213;2217;sea;2969;0;Port Au Prince to Jamaica
 2214;2222;sea;2974;0;Santo Domingo to Puerto Rico
 2222;2223;sea;2976;0;Saint Thomas to Puerto Rico
-2222;2226;sea;2976;0;Tortola to Puerto Rico
+2226;2223;sea;2976;0;Tortola to Saint Thomas
 2226;2236;sea;2976;0;Tortola to Phillipsburg
-2224;2236;sea;2976;0;Baruda to Phillipsburg
-2224;2230;sea;2976;0;Baruda to Gaudeloupe
-2232;2228;sea;2976;0;Dominica to Gaudeloupe
-2231;2228;sea;2976;0;Saint Lucia to Martinique
-2232;2228;sea;2976;0;Dominica to Martinique
-2223;2226;sea;2976;0;Tortola to Saint Thomas
-2229;2409;sea;2975;0;Barbados to Saint Vincent
+2227;2236;sea;2976;0;St Kitts to Phillipsburg
+2227;2230;sea;2976;0;St Kitts to Gaudeloupe
+2228;2230;sea;2976;0;Martinique to Gaudeloupe
+2228;2409;sea;2975;0;Martinique to Saint Vincent
 2233;2409;sea;2975;0;Grenada to Saint Vincent
-2233;2238;sea;2975;0;Grenada to Tobago
-2237;2238;sea;2975;0;Trinidad to Tobago
 2237;2269;sea;2975;0;Trinidad to Guira
 2237;2276;sea;2975;0;Trinidad to Curiapo
+2237;2233;sea;2975;0;Trinidad to Grenada
 2204;1723;sea;2968;0;Panama Strait
 2412;2410;sea;3260;0;Amazon Strait
 2356;2365;land;3288;0;Corrientes to Villa Angela
@@ -124,6 +120,8 @@ From;To;Type;Through;Data;Comment
 307;321;land;2705;0;Overforingen-Lulea
 437;434;land;2728;0;La Roche-Poitiers
 532;528;land;2721;0;Luumburg-Hamburg
+733;732;land;2761;0;Treviso Land Connection
+734;732;land;2761;0;Treviso Land Connection
 
 #Russian Straits
 1065;2690;sea;3304;0;Roman-Krilo Strait

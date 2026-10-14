@@ -80,8 +80,6 @@ political_decisions = {
 			set_country_flag = new_europe_claims2
 			prestige = 5
 			VNZ_2278 = { add_core = THIS }
-			VNZ_2265 = { add_core = THIS }
-			VNZ_2234 = { add_core = THIS }
 		}
 	}
 	antilles_claims = {
