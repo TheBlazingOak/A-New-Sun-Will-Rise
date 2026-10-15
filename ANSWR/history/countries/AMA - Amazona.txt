@@ -55,3 +55,6 @@ land_reform = yes_land_reform
 foreign_weapons = yes_foreign_weapons
 foreign_training = yes_foreign_training
 finance_reform = finance_reform_two
+
+# Technologies
+flintlock_rifles = 1

@@ -57,3 +57,7 @@ military_constructions = yes_military_constructions
 education_reform = yes_education_reform
 land_reform = yes_land_reform
 admin_reform = yes_admin_reform
+
+# Technologies
+flintlock_rifles = 1
+post_napoleonic_thought = 1
