@@ -10,7 +10,7 @@ country_event = {
         NOT = { has_country_flag = the_greenlander_wars }
     }
 
-    mean_time_to_happen = { months = 1 }
+    mean_time_to_happen = { days = 7 }
 
     option = {
         name = "EVT52800OPTA"
@@ -24,8 +24,7 @@ country_event = {
     desc = "EVTDESC52801"
     trigger = {
         year = 2846
-        tag = QUE
-        93 = { owned_by = QUE }
+        93 = { owned_by = THIS }
         has_country_flag = the_greenlander_wars
         NOT = { has_country_flag = the_second_gold_rush }
     }
@@ -48,8 +47,7 @@ country_event = {
     desc = "EVTDESC52802"
     trigger = {
         year = 2846
-        tag = SCO
-        1606 = { owned_by = SCO }
+        1606 = { owned_by = THIS }
         has_country_flag = the_greenlander_wars
         NOT = { has_country_flag = the_second_gold_rush }
     }
@@ -173,7 +171,7 @@ country_event = {
         NOT = { has_country_flag = greenhome }
     }
 
-    mean_time_to_happen = { months = 3 }
+    mean_time_to_happen = { months = 1 }
 
     #Core Greenland
     option = {
@@ -198,7 +196,7 @@ country_event = {
         NOT = { has_country_flag = greenhome }
     }
 
-    mean_time_to_happen = { months = 3 }
+    mean_time_to_happen = { months = 1 }
 
     #Core Greenland
     option = {

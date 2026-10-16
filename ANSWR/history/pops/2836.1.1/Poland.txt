@@ -912,95 +912,60 @@
         religion = prosperity
         size = 5500
     }
-
     bureaucrats = {
         culture = polish
         religion = prosperity
         size = 1225
     }
-
     soldiers = {
         culture = polish
         religion = prosperity
         size = 6000
     }
-
     officers = {
         culture = polish
         religion = prosperity
         size = 800
     }
-
     clergymen = {
         culture = polish
         religion = prosperity
         size = 2425
     }
-
     artisans = {
         culture = polish
         religion = prosperity
         size = 11000
     }
-
     artisans = {
         culture = polish
         religion = prosperity
         size = 11000
     }
-
     farmers = {
         culture = polish
         religion = prosperity
         size = 377850
     }
-
     craftsmen = {
         culture = polish
         religion = prosperity
         size = 35000
     }
-
     clerks = {
         culture = polish
         religion = prosperity
         size = 5000
     }
-
     farmers = {
         culture = polish
         religion = prosperity
         size = 5000
     }
-
-    clergymen = {
-        culture = north_german
-        religion = ketronant
-        size = 100
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = ketronant
-        size = 100
-    }
-
-    artisans = {
-        culture = north_german
-        religion = ketronant
-        size = 225
-    }
-
     farmers = {
-        culture = north_german
-        religion = ketronant
-        size = 20000
-    }
-
-    farmers = {
-        culture = czech
-        religion = ketronant
-        size = 5200
+        culture = ukrainian
+        religion = prosperity
+        size = 11000
     }
 }
 #Kalicz (252000/63000 POPS)
@@ -1267,58 +1232,49 @@
 705 = {
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = prosperity
         size = 175
     }
-
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = prosperity
         size = 950
     }
-
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = prosperity
         size = 7500
     }
-
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = prosperity
         size = 17700
     }
-
     aristocrats = {
         culture = polish
         religion = prosperity
         size = 3400
     }
-
     clergymen = {
         culture = polish
         religion = prosperity
         size = 1175
     }
-
     artisans = {
         culture = polish
         religion = prosperity
         size = 5750
     }
-
     soldiers = {
         culture = polish
         religion = prosperity
         size = 12500
     }
-
     farmers = {
         culture = polish
         religion = prosperity
         size = 45000
     }
-
     farmers = {
         culture = polish
         religion = prosperity

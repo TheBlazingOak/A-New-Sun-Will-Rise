@@ -1,6 +1,5 @@
 owner = EQG
 controller = EQG
-add_core = PPG
+add_core = EQG
 trade_goods = grain
 life_rating = 31
-naval_base = 1

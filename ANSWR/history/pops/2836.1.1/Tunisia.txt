@@ -7,89 +7,60 @@
         religion = sunni
         size = 2350
     }
-
     bureaucrats = {
         culture = maghrebi
         religion = sunni
         size = 350
     }
-
     officers = {
         culture = maghrebi
         religion = sunni
         size = 325
     }
-
     clergymen = {
         culture = maghrebi
         religion = sunni
         size = 1200
     }
-
     artisans = {
         culture = maghrebi
         religion = sunni
         size = 10000
     }
-
     artisans = {
         culture = maghrebi
         religion = sunni
         size = 10000
     }
-
     artisans = {
         culture = maghrebi
         religion = sunni
         size = 7500
     }
-
     soldiers = {
         culture = maghrebi
         religion = sunni
         size = 3000
     }
-
     soldiers = {
         culture = maghrebi
         religion = sunni
         size = 1000
     }
-
     farmers = {
         culture = maghrebi
         religion = sunni
         size = 76425
     }
-
     slaves = {
         culture = tuareg
         religion = sunni
         size = 5000
     }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 75
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 3725
-    }
-
-    artisans = {
-        culture = maltese
-        religion = catholic
-        size = 500
-    }
-
     artisans = {
         culture = south_italian
         religion = catholic
-        size = 500
+        size = 2500
     }
 }
 #Bizerte (268000/67000 POPS)
@@ -181,47 +152,30 @@
         religion = sunni
         size = 875
     }
-
     clergymen = {
         culture = maghrebi
         religion = sunni
         size = 400
     }
-
     artisans = {
         culture = maghrebi
         religion = sunni
         size = 2250
     }
-
     soldiers = {
         culture = maghrebi
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = maghrebi
         religion = sunni
         size = 40225
     }
-
     slaves = {
         culture = tuareg
         religion = sunni
         size = 12000
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 5
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 245
     }
 }
 #Tozeur (96000/24000 POPS)

@@ -863,7 +863,7 @@
     farmers = {
         culture = borgar
         religion = the_broken
-        size = 11000
+        size = 4000
     }
 }
 #Thessaly Region (408000)
@@ -1497,7 +1497,7 @@
     farmers = {
         culture = borgar
         religion = the_broken
-        size = 11000
+        size = 4000
     }
 }
 #Crete Region (140000)

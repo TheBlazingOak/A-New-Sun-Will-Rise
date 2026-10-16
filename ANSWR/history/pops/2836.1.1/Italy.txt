@@ -837,31 +837,21 @@
         religion = catholic
         size = 2750
     }
-
     clergymen = {
         culture = south_italian
         religion = catholic
         size = 1100
     }
-
     artisans = {
         culture = south_italian
         religion = catholic
         size = 5250
     }
-
     soldiers = {
         culture = south_italian
         religion = catholic
         size = 400
     }
-
-    soldiers = {
-        culture = swiss
-        religion = catholic
-        size = 1100
-    }
-
     farmers = {
         culture = south_italian
         religion = catholic
@@ -877,47 +867,35 @@
         religion = catholic
         size = 3500
     }
-
     bureaucrats = {
         culture = south_italian
         religion = catholic
         size = 475
     }
-
     officers = {
         culture = south_italian
         religion = catholic
         size = 375
     }
-
     clergymen = {
         culture = south_italian
         religion = catholic
         size = 1350
     }
-
     artisans = {
         culture = south_italian
         religion = catholic
         size = 7500
     }
-
     soldiers = {
         culture = south_italian
         religion = catholic
         size = 2000
     }
-
     farmers = {
         culture = south_italian
         religion = catholic
         size = 128650
-    }
-
-    farmers = {
-        culture = albanian
-        religion = catholic
-        size = 4000
     }
 }
 #Foggia (572000/143000 POPS)
@@ -959,41 +937,25 @@
         religion = catholic
         size = 1800
     }
-
     clergymen = {
         culture = south_italian
         religion = catholic
         size = 700
     }
-
     artisans = {
         culture = south_italian
         religion = catholic
         size = 3500
     }
-
     soldiers = {
         culture = south_italian
         religion = catholic
         size = 1100
     }
-
     farmers = {
         culture = south_italian
         religion = catholic
         size = 59350
-    }
-
-    farmers = {
-        culture = albanian
-        religion = catholic
-        size = 4000
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 4500
     }
 }
 #Calabria-Basilicata Region (1488000)
@@ -1005,53 +967,35 @@
         religion = catholic
         size = 3500
     }
-
     bureaucrats = {
         culture = south_italian
         religion = catholic
         size = 475
     }
-
     officers = {
         culture = south_italian
         religion = catholic
         size = 375
     }
-
     clergymen = {
         culture = south_italian
         religion = catholic
         size = 1450
     }
-
     artisans = {
         culture = south_italian
         religion = catholic
         size = 7500
     }
-
     soldiers = {
         culture = south_italian
         religion = catholic
         size = 2000
     }
-
     farmers = {
         culture = south_italian
         religion = catholic
         size = 124550
-    }
-
-    farmers = {
-        culture = albanian
-        religion = orthodox
-        size = 6000
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 2000
     }
 }
 #Catanzaro (344000/86000 POPS)
@@ -1061,35 +1005,25 @@
         religion = catholic
         size = 2200
     }
-
     clergymen = {
         culture = south_italian
         religion = catholic
         size = 875
     }
-
     artisans = {
         culture = south_italian
         religion = catholic
         size = 4250
     }
-
     soldiers = {
         culture = south_italian
         religion = catholic
         size = 1100
     }
-
     farmers = {
         culture = south_italian
         religion = catholic
         size = 80975
-    }
-
-    farmers = {
-        culture = albanian
-        religion = orthodox
-        size = 3550
     }
 }
 #Potenza (572000/143000 POPS)
@@ -1133,59 +1067,45 @@
         religion = catholic
         size = 6200
     }
-
     bureaucrats = {
         culture = south_italian
         religion = catholic
         size = 825
     }
-
     officers = {
         culture = south_italian
         religion = catholic
         size = 500
     }
-
     clergymen = {
         culture = south_italian
         religion = catholic
         size = 1900
     }
-
     artisans = {
         culture = south_italian
         religion = catholic
         size = 10000
     }
-
     artisans = {
         culture = south_italian
         religion = catholic
         size = 10000
     }
-
     artisans = {
         culture = south_italian
         religion = catholic
         size = 8000
     }
-
     soldiers = {
         culture = south_italian
         religion = catholic
         size = 2000
     }
-
     farmers = {
         culture = south_italian
         religion = catholic
         size = 155172
-    }
-
-    farmers = {
-        culture = albanian
-        religion = orthodox
-        size = 4450
     }
 }
 #Messina (352000/88000 POPS)
@@ -1195,37 +1115,26 @@
         religion = catholic
         size = 2450
     }
-
     clergymen = {
         culture = south_italian
         religion = catholic
         size = 900
     }
-
     artisans = {
         culture = south_italian
         religion = catholic
         size = 8500
     }
-
     soldiers = {
         culture = south_italian
         religion = catholic
         size = 1100
     }
-
     farmers = {
         culture = south_italian
         religion = catholic
         size = 86196
     }
-
-    farmers = {
-        culture = albanian
-        religion = orthodox
-        size = 2000
-    }
-
 }
 #Catania (720000/180000 POPS)
 764 = {
@@ -1234,47 +1143,35 @@
         religion = catholic
         size = 5000
     }
-
     clergymen = {
         culture = south_italian
         religion = catholic
         size = 700
     }
-
     artisans = {
         culture = south_italian
         religion = catholic
         size = 10000
     }
-
     artisans = {
         culture = south_italian
         religion = catholic
         size = 10000
     }
-
     artisans = {
         culture = south_italian
         religion = catholic
         size = 1100
     }
-
     soldiers = {
         culture = south_italian
         religion = catholic
         size = 2000
     }
-
     farmers = {
         culture = south_italian
         religion = catholic
         size = 154046
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 1000
     }
 }
 #Sardinia Region (524000)

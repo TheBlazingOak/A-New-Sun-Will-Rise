@@ -1,7 +1,7 @@
 owner = SCO
 controller = SCO
 add_core = SCO
-trade_goods = wool
+trade_goods = coal
 life_rating = 35
 party_loyalty = {
     ideology = conservative

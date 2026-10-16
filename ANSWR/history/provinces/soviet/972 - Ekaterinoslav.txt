@@ -3,5 +3,5 @@ controller = WRP
 add_core = UKR
 add_core = WRP
 trade_goods = coal
-life_rating = 32
+life_rating = 35
 terrain = mining_district

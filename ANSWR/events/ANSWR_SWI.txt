@@ -110,6 +110,11 @@ country_event = {
         }
         leave_alliance = SWI
     }
+    option = {
+    name = "EVTOPTA224103"
+        prestige = -5
+        set_country_flag = refused_annexation
+    }
 }
 #War of Savoy (RSM)
 country_event = {

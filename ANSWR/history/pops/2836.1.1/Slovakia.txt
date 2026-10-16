@@ -636,68 +636,58 @@
 #Tarnow (616000/154000 POPS)
 714 = {
     aristocrats = {
-        culture = slovak
-        religion = catholic
+        culture = ukrainian
+        religion = prosperity
         size = 3500
     }
-
     clergymen = {
-        culture = slovak
-        religion = catholic
+        culture = ukrainian
+        religion = prosperity
         size = 1425
     }
-
     artisans = {
         culture = polish
-        religion = catholic
+        religion = prosperity
         size = 7250
     }
-
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = prosperity
         size = 1450
     }
-
     farmers = {
         culture = polish
-        religion = catholic
+        religion = prosperity
         size = 20000
     }
-
     serfs = {
         culture = polish
-        religion = catholic
+        religion = prosperity
         size = 50000
     }
-
     clergymen = {
-        culture = slovak
-        religion = catholic
+        culture = ukrainian
+        religion = prosperity
         size = 100
     }
-
     artisans = {
-        culture = slovak
-        religion = catholic
+        culture = ukrainian
+        religion = prosperity
         size = 100
     }
-
     soldiers = {
-        culture = slovak
-        religion = catholic
+        culture = ukrainian
+        religion = prosperity
         size = 2000
     }
-
     farmers = {
-        culture = slovak
-        religion = catholic
+        culture = ukrainian
+        religion = prosperity
         size = 30920
     }
-
     serfs = {
-        culture = slovak
-        religion = catholic
+        culture = ukrainian
+        religion = prosperity
         size = 40000
     }
 }

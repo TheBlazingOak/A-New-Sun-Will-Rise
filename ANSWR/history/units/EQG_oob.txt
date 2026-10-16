@@ -1,6 +1,6 @@
 army = {
     name = "Erera Company Security"
-    location = 1446
+    location = 1452
     regiment = {
         name= "1. Security"
         type = infantry
@@ -24,7 +24,7 @@ army = {
 }
 navy = {
     name = "Erera Company Transport"
-    location = 1446
+    location = 1452
     ship = {
         name= "1. Transport"
         type = clipper_transport

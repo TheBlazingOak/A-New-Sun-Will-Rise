@@ -171,7 +171,7 @@
     clergymen = {
         culture = scottish
         religion = protestant
-        size = 1375
+        size = 3375
     }
     capitalists = {
         culture = scottish
@@ -186,17 +186,32 @@
     clerks = {
         culture = scottish
         religion = protestant
-        size = 400
+        size = 3400
     }
     craftsmen = {
         culture = scottish
         religion = protestant
-        size = 8000
+        size = 18000
     }
     artisans = {
         culture = scottish
         religion = protestant
         size = 16000
+    }
+    artisans = {
+        culture = scottish
+        religion = protestant
+        size = 11000
+    }
+    artisans = {
+        culture = scottish
+        religion = protestant
+        size = 11000
+    }
+    artisans = {
+        culture = scottish
+        religion = protestant
+        size = 11000
     }
     soldiers = {
         culture = scottish
@@ -214,33 +229,28 @@
     aristocrats = {
         culture = scottish
         religion = protestant
-        size = 200
+        size = 1200
     }
-
     clergymen = {
         culture = scottish
         religion = protestant
-        size = 200
+        size = 1200
     }
-
     artisans = {
         culture = scottish
         religion = protestant
         size = 6500
     }
-
     soldiers = {
         culture = scottish
         religion = protestant
-        size = 1100
+        size = 3100
     }
-
     farmers = {
         culture = scottish
         religion = protestant
         size = 79100
     }
-
     farmers = {
         culture = scottish
         religion = catholic
@@ -1376,175 +1386,116 @@
         religion = protestant
         size = 5500
     }
-
     officers = {
         culture = english
         religion = protestant
         size = 2500
     }
-
     bureaucrats = {
         culture = english
         religion = protestant
         size = 18000
     }
-
     clergymen = {
         culture = english
         religion = protestant
         size = 18250
     }
-
     capitalists = {
         culture = english
         religion = protestant
         size = 1500
     }
-
     clerks = {
         culture = english
         religion = protestant
         size = 4000
     }
-
     craftsmen = {
         culture = english
         religion = protestant
         size = 25000
     }
-
     artisans = {
         culture = english
         religion = protestant
         size = 10000
     }
-
     artisans = {
         culture = english
         religion = protestant
         size = 10000
     }
-
     artisans = {
         culture = english
         religion = protestant
         size = 10000
     }
-
     artisans = {
         culture = english
         religion = protestant
         size = 10000
     }
-
     artisans = {
         culture = english
         religion = protestant
         size = 10000
     }
-
     artisans = {
         culture = english
         religion = protestant
         size = 9500
     }
-
     soldiers = {
         culture = english
         religion = protestant
         size = 40000
     }
-
     farmers = {
         culture = english
         religion = protestant
         size = 127000
     }
-
     artisans = {
         culture = english
         religion = catholic
         size = 8000
     }
-
     farmers = {
         culture = english
         religion = catholic
         size = 17000
     }
-
     clerks = {
         culture = english
         religion = jewish
         size = 100
     }
-
     craftsmen = {
         culture = english
         religion = jewish
         size = 1500
     }
-
     artisans = {
         culture = english
         religion = jewish
         size = 3400
     }
-
     craftsmen = {
         culture = irish
         religion = catholic
         size = 4000
     }
-
     artisans = {
         culture = irish
         religion = catholic
         size = 10000
     }
-
     artisans = {
         culture = irish
         religion = catholic
         size = 2000
     }
-
-    farmers = {
-        culture = north_german
-        religion = protestant
-        size = 1050
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
-    }
-
-    farmers = {
-        culture = spanish
-        religion = catholic
-        size = 400
-    }
-
-    farmers = {
-        culture = north_italian
-        religion = catholic
-        size = 400
-    }
-
-    farmers = {
-        culture = bengali
-        religion = hindu
-        size = 100
-    }
-
-    farmers = {
-        culture = yue
-        religion = mahayana
-        size = 100
-    }
-
 }
 #Sussex-Kent Region : 1212000
 #Canterbury (476000/98000 POPS)
@@ -1554,35 +1505,25 @@
         religion = protestant
         size = 750
     }
-
     clergymen = {
         culture = english
         religion = protestant
         size = 625
     }
-
     artisans = {
         culture = english
         religion = protestant
         size = 4000
     }
-
     soldiers = {
         culture = english
         religion = protestant
         size = 1100
     }
-
     labourers = {
         culture = english
         religion = protestant
         size = 90625
-    }
-
-    artisans = {
-        culture = irish
-        religion = catholic
-        size = 1100
     }
 }
 #Brighton (404000/101000 POPS)

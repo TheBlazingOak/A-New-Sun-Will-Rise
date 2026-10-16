@@ -145,6 +145,12 @@ country_event = {
     option = {
         name = "EVTOPTA52708"
         set_country_flag = revolution_of_parma
+        war = {
+            target = PAR
+            attacker_goal = { casus_belli = unification_annex_casus_belli  }
+            defender_goal = { casus_belli = status_quo }
+            call_ally = yes
+        }
         PAP_741 = { add_core = RSM }
         relation = { who = RSM value = -200 }
         }

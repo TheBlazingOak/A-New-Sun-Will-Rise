@@ -1,6 +1,7 @@
 owner = EQG
 controller = EQG
-add_core = TMR
+add_core = BAL
 trade_goods = timber
 life_rating = 35
 naval_base = 1
+colonial = 2

@@ -7,85 +7,61 @@
         religion = sunni
         size = 525
     }
-
     bureaucrats = {
         culture = maghrebi
         religion = sunni
         size = 125
     }
-
     officers = {
         culture = maghrebi
         religion = sunni
         size = 150
     }
-
     clergymen = {
         culture = maghrebi
         religion = sunni
         size = 300
     }
-
     artisans = {
         culture = maghrebi
         religion = sunni
         size = 7000
     }
-
     soldiers = {
         culture = maghrebi
         religion = sunni
         size = 2000
     }
-
     farmers = {
         culture = maghrebi
         religion = sunni
         size = 24400
     }
-
     aristocrats = {
         culture = tuareg
         religion = sunni
         size = 125
     }
-
     clergymen = {
         culture = tuareg
         religion = sunni
         size = 50
     }
-
     artisans = {
         culture = tuareg
         religion = sunni
         size = 1750
     }
-
     soldiers = {
         culture = tuareg
         religion = sunni
         size = 75
     }
-
     farmers = {
         culture = tuareg
         religion = sunni
         size = 4000
     }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 25
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 1225
-    }
-
     slaves = {
         culture = forest_bantu
         religion = animist
@@ -388,73 +364,51 @@
         religion = sunni
         size = 325
     }
-
     clergymen = {
         culture = maghrebi
         religion = sunni
         size = 200
     }
-
     artisans = {
         culture = maghrebi
         religion = sunni
         size = 2150
     }
-
     soldiers = {
         culture = maghrebi
         religion = sunni
         size = 1100
     }
-
     farmers = {
         culture = maghrebi
         religion = sunni
         size = 20200
     }
-
     aristocrats = {
         culture = tuareg
         religion = sunni
         size = 25
     }
-
     clergymen = {
         culture = tuareg
         religion = sunni
         size = 25
     }
-
     artisans = {
         culture = tuareg
         religion = sunni
         size = 225
     }
-
     soldiers = {
         culture = tuareg
         religion = sunni
         size = 25
     }
-
     farmers = {
         culture = tuareg
         religion = sunni
         size = 1700
     }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 120
-    }
-
     slaves = {
         culture = forest_bantu
         religion = animist

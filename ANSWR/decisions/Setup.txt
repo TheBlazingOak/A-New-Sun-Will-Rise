@@ -2626,24 +2626,17 @@ NET_setup_1836 = {
             is_coastal = yes
             has_pop_culture = dutch
             NOT = {
-            region = PRU_575
+            province_id = 854
             }
             }
         add_province_modifier = { name = dutch_dijkes duration = -1 }
         }
-            400 = { set_province_flag = kouderstad }
             400 = { any_pop = { literacy = 0.91 } }
             any_pop = {
                 limit = {
                         has_pop_culture = dutch
                 }
                 literacy = .73
-            }
-            any_pop = {
-                limit = {
-                        has_pop_culture = flemish
-                }
-                literacy = .62
             }
             387 = { any_pop = { literacy = 0.82 } }
             treasury = 525200
@@ -2654,7 +2647,13 @@ NET_setup_1836 = {
     OUD_setup_1836 = {
         picture = constantinople
         potential = {
-            is_culture_group = germanic
+            OR = { 
+                is_primary_culture = north_german 
+                is_primary_culture = south_german 
+                is_primary_culture = rhine_german 
+                is_primary_culture = austro_german 
+                is_primary_culture = czech 
+            }
             always = no
         }
 
@@ -2711,7 +2710,7 @@ NET_setup_1836 = {
         picture = constantinople
         potential = {
             tag = MOW
-            NOT = { has_country_flag = { metro_systems } }
+            NOT = { has_country_flag = metro_systems }
         }
 
         allow = {
@@ -2725,7 +2724,7 @@ NET_setup_1836 = {
         300 = { add_province_modifier = { name = underground_metro duration = -1 } }
         232 = { add_province_modifier = { name = underground_metro duration = -1 } }
         1650 = { add_province_modifier = { name = underground_metro duration = -1 } }
-        set_country_flag = { metro_systems }
+        set_country_flag = metro_systems
     }
     ai_will_do = { factor = 1 }
     }

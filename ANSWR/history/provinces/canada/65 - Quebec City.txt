@@ -2,5 +2,6 @@ owner = QUE
 controller = QUE
 add_core = QUE
 trade_goods = grain
-life_rating = 39
+life_rating = 40
 naval_base = 1
+terrain = farmlands

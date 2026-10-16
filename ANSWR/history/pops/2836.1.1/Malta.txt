@@ -18,32 +18,32 @@
         size = 150
     }
     aristocrats = {
-        culture = maltese
+        culture = south_italian
         religion = ketronant
         size = 200
     }
     bureaucrats = {
-        culture = maltese
+        culture = south_italian
         religion = ketronant
         size = 10
     }
     clergymen = {
-        culture = maltese
+        culture = south_italian
         religion = ketronant
         size = 275
     }
     artisans = {
-        culture = maltese
+        culture = south_italian
         religion = ketronant
         size = 5500
     }
     soldiers = {
-        culture = maltese
+        culture = south_italian
         religion = ketronant
         size = 340
     }
     farmers = {
-        culture = maltese
+        culture = south_italian
         religion = ketronant
         size = 20475
     }
