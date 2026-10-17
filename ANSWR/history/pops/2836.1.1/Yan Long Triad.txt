@@ -92,79 +92,69 @@
 #Bokeo-Luangnamtha (100640/25160 POPS)
 3366 = {
 	aristocrats = {
-        culture = cantan
-        religion = mahayana
-        size = 100
-    }
-
+		culture = lao
+		religion = theravada
+		size = 100
+	}
 	bureaucrats = {
-		culture = cantan
-		religion = mahayana
+		culture = lao
+		religion = theravada
 		size = 1000
 	}
-		
-    clergymen = {
-        culture = cantan
-        religion = mahayana
-        size = 1550
-    }
-
-    soldiers = {
-        culture = cantan
-        religion = mahayana
-        size = 1200
-    }
-
+	clergymen = {
+		culture = lao
+		religion = theravada
+		size = 1550
+	}
+	soldiers = {
+		culture = lao
+		religion = theravada
+		size = 1200
+	}
 	farmers = {
-        culture = cantan
-        religion = mahayana
-        size = 4000
-    }
-
-    slaves = {
-        culture = yue
-        religion = mahayana
-        size = 17500
-    }
+		culture = lao
+		religion = theravada
+		size = 4000
+	}
+	slaves = {
+		culture = lao
+		religion = theravada
+		size = 17500
+	}
 }
 
 #Oudomxay-Phongsaly (134642/33660 POPS)
 3370 = {
 	aristocrats = {
-        culture = cantan
-        religion = mahayana
-        size = 100
-    }
-
+		culture = lao
+		religion = theravada
+		size = 100
+	}
 	bureaucrats = {
-		culture = cantan
-		religion = mahayana
+		culture = lao
+		religion = theravada
 		size = 1000
 	}
-		
-    clergymen = {
-        culture = cantan
-        religion = mahayana
-        size = 550
-    }
-
-    soldiers = {
-        culture = cantan
-        religion = mahayana
-        size = 1000
-    }
-
-    slaves = {
-        culture = yue
-        religion = mahayana
-        size = 17500
-    }
-	
+	clergymen = {
+		culture = lao
+		religion = theravada
+		size = 550
+	}
+	soldiers = {
+		culture = lao
+		religion = theravada
+		size = 1000
+	}
 	slaves = {
-        culture = lao
-        religion = theravada
-        size = 13000
-    }
+		culture = lao
+		religion = theravada
+		size = 17500
+	}
+	farmers = {
+		culture = lao
+		religion = theravada
+		size = 13000
+	}
 }
 
 #Chiang Rai (442668/110667 POPS)

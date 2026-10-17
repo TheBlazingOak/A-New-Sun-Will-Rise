@@ -3,8 +3,13 @@
 #Christmas Island (60/15POPS)
 2244 = {
     farmers = {
-        culture = malay
+        culture = javan
         religion = sunni
-        size = 15
+        size = 2515
+    }
+    aristocrats = {
+        culture = javan
+        religion = sunni
+        size = 200
     }
 }

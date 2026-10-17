@@ -986,7 +986,7 @@ ENG_2044 = { 2046 2042 } #Tanganyika
 
 ### West Africa
 
-FRA_1775 = { 1807 2609 } #Trab El Beidan
+FRA_1775 = { 1807 2609 1774 1781 1782 } #Trab El Beidan
 
 FRA_1798 = { 1804 1800 1802 1803 1805 } #Eastern Mali
 
@@ -1038,7 +1038,7 @@ NIG_1937 = { 1937 1950 1942 1943 1944 } #Yola Hills
 
 GAB_2573 = { 2573 1877 1775 1779 } #Port Arthur
 
-TAR_1774 = { 1774 1781 1782 } #Saharan Desert
+#TAR_1774 = {  } #Saharan Desert
 
 WOL_1785 = { 1785 1783 1786 1787 1790 } #Marcage
 
