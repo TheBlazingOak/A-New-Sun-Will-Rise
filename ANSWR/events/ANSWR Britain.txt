@@ -386,6 +386,8 @@ country_event = {
         THIS = { primary_culture = steelmekker }
         has_global_flag = stal_union_defeated
         NOT = { has_global_flag = england_formed }
+        NOT = { has_global_flag = scotia_superiority }
+        NOT = { has_global_flag = england_ambitions }
     }
     mean_time_to_happen = {
         months = 12
@@ -402,7 +404,7 @@ country_event = {
     }
     #Go there on way
     option = {
-        name = "EVTOPTA17305"
+        name = "EVTOPTB17305"
         set_global_flag = england_ambitions
         set_country_flag = england_ambitions
         prestige = 10
