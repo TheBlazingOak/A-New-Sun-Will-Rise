@@ -130,7 +130,7 @@ country_event = {
         }
         war = {
         target = SCO
-        attacker_goal = { acquire_core_state = SWE_309 }
+        attacker_goal = { casus_belli = acquire_core_state state_province_id = 309 }
         call_ally = yes
         }
         ai_chance = {
@@ -256,7 +256,7 @@ country_event = {
         set_global_flag = northern_ireland_war
         war = {
             target = SCO
-            attacker_goal = { casus_belli = acquire_core_state state_province_id = ENG_254 }
+            attacker_goal = { casus_belli = acquire_core_state state_province_id = 254 }
             defender_goal = { casus_belli = status_quo }
             call_ally = yes
         }
