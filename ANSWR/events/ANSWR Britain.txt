@@ -31,10 +31,10 @@ country_event = {
         310 = { secede_province =  SAP }
         311 = { secede_province =  SAP }
         1021 = { secede_province =  SAP }
-        309 = { add_core = SCO }
-        310 = { add_core = SCO }
-        311 = { add_core = SCO }
-        1021 = { add_core = SCO }
+        309 = { remove_core = SCO }
+        310 = { remove_core = SCO }
+        311 = { remove_core = SCO }
+        1021 = { remove_core = SCO }
         prestige = 10
         set_global_flag = bergen_treaty_ended
         set_country_flag = bergen_peacful_transfer
@@ -231,6 +231,50 @@ country_event = {
 #Representative Sutton's Lions Speech in New Stales
 #Start of English Unification
 country_event = {
+    id = 17299
+    title = "EVTNAME17299"
+    desc = "EVTDESC17299"
+    picture = election
+    fire_only_once = yes
+
+    trigger = {
+    THIS = { primary_culture = pendragonian }
+    has_global_flag = the_lions_speech
+    SCO = { exists = yes }
+    NOT = { has_global_flag = northern_ireland_war }
+    }
+
+    mean_time_to_happen = {
+        days = 7
+    }
+
+    option = {
+        #War againist Scotland
+        name = "EVTOPTA17299"
+        prestige = 5
+        badboy = 2
+        set_global_flag = northern_ireland_war
+        war = {
+            target = SCO
+            attacker_goal = { casus_belli = acquire_core_state state_province_id = ENG_254 }
+            defender_goal = { casus_belli = status_quo }
+            call_ally = yes
+        }
+        ai_chance = {
+            factor = 1
+        }
+    }
+    option = {
+        #Denounce Sutton
+        name = "EVTOPTB17299"
+        prestige = -5
+        set_global_flag = lion_denounced
+        ai_chance = {
+            factor = 0
+        }
+    }
+}
+country_event = {
     id = 17300
     title = "EVTNAME17300"
     desc = "EVTDESC17300"
@@ -241,6 +285,7 @@ country_event = {
     THIS = { primary_culture = english }
     year = 2842
     NOT = { has_global_flag = the_lions_speech }
+    NOT = { has_global_flag = lion_denounced}
     }
 
     mean_time_to_happen = {
@@ -492,6 +537,8 @@ country_event = {
     desc = "EVTDESC17308"
     trigger = {
         has_country_flag = old_man_of_albion 
+        is_culture_group = british
+        NOT = { primary_culture = scottish }
         ENG_271 = { owned_by = THIS }
 		ENG_266 = { owned_by = THIS }
         ENG_254 = { owned_by = THIS }
@@ -505,6 +552,82 @@ country_event = {
         set_country_flag = dead_man_of_albion
 			prestige = 10
 			inherit = SCO
+        ai_chance = {
+            factor = 1
+        }
+    }
+}
+#Dead Man Scotia (with Norwegian Cores)
+country_event = {
+    id = 17309
+    title = "EVTNAME17309"
+    desc = "EVTDESC17309"
+    trigger = {
+        has_country_flag = dead_man_of_albion
+        310 = { owned_by = THIS }
+        312 = { owned_by = SAP }
+		NOT = {has_country_flag = scottish_norway }
+    }
+
+    mean_time_to_happen = {
+        days = 7
+    }
+
+    #Give back Norway
+    option = {
+        name = "EVTOPTA17309"
+        set_country_flag = scottish_norway
+		prestige = 10
+        309 = { add_core = SAP }
+        310 = { add_core = SAP }
+        311 = { add_core = SAP }
+        1021 = { add_core = SAP }
+        309 = { secede_province =  SAP }
+        310 = { secede_province =  SAP }
+        311 = { secede_province =  SAP }
+        1021 = { secede_province =  SAP }
+        309 = { remove_core = THIS }
+        310 = { remove_core = THIS }
+        311 = { remove_core = THIS }
+        1021 = { remove_core = THIS }
+        ai_chance = {
+            factor = 1
+        }
+    }
+    #
+    option = {
+        name = "EVTOPTB17309"
+        set_country_flag = scottish_norway
+        prestige = -15
+        badboy = 2
+        relation = {
+            who = SAP
+            value = -150
+        }
+        leave_alliance = SAP
+        ai_chance = {
+            factor = 1
+        }
+    }
+}
+#Camelot Forms
+country_event = {
+    id = 17310
+    title = "EVTNAME17310"
+    desc = "EVTDESC17310"
+    is_triggered_only = yes
+    major = yes
+
+    option = {
+        name = "EVTOPTA17310"
+        prestige = 5
+        any_owned = {
+            limit = { is_core = PND }
+            remove_core = PND
+            add_core = WHA
+        }
+        ENG_271 = { add_core = THIS }
+	    ENG_266 = { add_core = THIS }
         ai_chance = {
             factor = 1
         }

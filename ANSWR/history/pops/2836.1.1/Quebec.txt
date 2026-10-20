@@ -4,25 +4,25 @@
 59 = {
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 25
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 750
     }
 
@@ -31,31 +31,31 @@
 9 = {
     aristocrats = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 25
     }
 
     clergymen = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 25
     }
 
     artisans = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 25
     }
 
     soldiers = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 25
     }
 
     farmers = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 1000
     }
 }
@@ -63,37 +63,37 @@
 1548 = {
     aristocrats = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 2500
     }
 
     clergymen = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 500
     }
 
     artisans = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 3000
     }
 
     artisans = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 4400
     }
 
     soldiers = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 2900
     }
 
     farmers = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 25050
     }
 }
@@ -101,31 +101,31 @@
 1087 = {
     aristocrats = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 50
     }
 
     clergymen = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 125
     }
 
     artisans = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 250
     }
 
     soldiers = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 500
     }
 
     farmers = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 10550
     }
 
@@ -135,31 +135,31 @@
 
     aristocrats = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 5
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 5
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 2200
     }
 
@@ -168,25 +168,25 @@
 2626 = {
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 5
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 5
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 20
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 1000
     }
 }
@@ -196,25 +196,25 @@
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 5
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 5
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 1500
     }
 
@@ -225,37 +225,37 @@
 
     aristocrats = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 2000
     }
 
     bureaucrats = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 900
     }
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 1000
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 6000
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 9000
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 125500
     }
 
@@ -267,13 +267,13 @@
 
     craftsmen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 45000
     }
 
     clerks = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 7000
     }
 
@@ -283,25 +283,25 @@
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 100
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 25
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 1825
     }
 }
@@ -309,31 +309,31 @@
 6 = {
     aristocrats = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 1000
     }
 
     clergymen = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 125
     }
 
     artisans = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 450
     }
 
     soldiers = {
         culture = french_canadian
-        religion = orthodox
+        religion = libertist
         size = 15
     }
 
     farmers = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 32400
     }
 
@@ -349,25 +349,25 @@
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 25
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 100
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 6915
     }
 }
@@ -376,25 +376,25 @@
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 75
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 150
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 25
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 4750
     }
 }
@@ -402,25 +402,25 @@
 64 = {
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 250
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 3000
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 500
     }
 
     labourers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 67675
     }
 }
@@ -428,37 +428,37 @@
 65 = {
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 750
     }
 
     aristocrats = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 1000
     }
 
     bureaucrats = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 250
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 7000
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 3500
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 81000
     }
 
@@ -472,37 +472,37 @@
 45 = {
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 450
     }
 
     aristocrats = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 600
     }
 
     bureaucrats = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 50
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 5000
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 2500
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 51000
     }
 
@@ -516,25 +516,25 @@
 66 = {
     clergymen = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 500
     }
 
     artisans = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 400
     }
 
     soldiers = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 100
     }
 
     farmers = {
         culture = french_canadian
-        religion = protestant
+        religion = libertist
         size = 34450
     }
 
@@ -566,25 +566,25 @@
 67 = {
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 150
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 750
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 150
     }
 
     labourers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 4500
     }
 
@@ -593,31 +593,31 @@
 1491 = {
     aristocrats = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 200
     }
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 1525
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 3600
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 1525
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 58350
     }
 }
@@ -633,7 +633,7 @@
 
     bureaucrats = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 250
     }
 
@@ -645,31 +645,31 @@
 
     aristocrats = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 200
     }
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 509
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 100
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 14000
     }
 
@@ -714,25 +714,25 @@
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 500
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 200
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 22500
     }
 }
@@ -741,25 +741,25 @@
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 2000
     }
 
@@ -769,25 +769,25 @@
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 2500
     }
 
@@ -798,19 +798,19 @@
 77 = {
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 20
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 450
     }
 
     labourers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 6000
     }
 
@@ -825,25 +825,25 @@
 1107 = {
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 50
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 500
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = libertist
         size = 2500
     }
 }

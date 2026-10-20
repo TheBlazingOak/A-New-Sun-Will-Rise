@@ -1,6 +1,7 @@
-owner = SAP
-controller = SAP
-add_core = CUB
+owner = NOD
+controller = NOD
+add_core = HAI
+add_core = NOD
 trade_goods = cotton
 life_rating = 35
 colonial = 2

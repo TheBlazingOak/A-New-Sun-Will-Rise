@@ -78,7 +78,7 @@ political_decisions = {
 	}
 	the_old_man_of_albion = {
 		potential = {
-			OR = { primary_culture = english primary_culture = steelmekker }
+			OR = { primary_culture = english primary_culture = steelmekker primary_culture = pendragonian }
 			OR = { has_country_flag = england_formed has_country_flag = england_ambitions}
 			NOT = {has_country_flag = old_man_of_albion }
 		}
@@ -94,7 +94,7 @@ political_decisions = {
 	}
 	accept_the_scots = {
 		potential = {
-			OR = { primary_culture = scottish primary_culture = steelmekker primary_culture = english }
+			OR = { primary_culture = steelmekker primary_culture = english primary_culture = pendragonian }
 			OR = { has_country_flag = new_albion has_country_flag = england_ambitions has_country_flag = england_formed }
 			has_country_flag = dead_man_of_albion
 			NOT = {has_country_flag = accepted_scottish }
@@ -103,12 +103,18 @@ political_decisions = {
 			revolution_n_counterrevolution = 1
 			ENG_271 = { owned_by = THIS }
 			ENG_266 = { owned_by = THIS }
+
 		}
 		effect = {
 			set_country_flag = accepted_scottish
 			prestige = 10
 			add_accepted_culture = scottish
 			add_accepted_culture = scottish_greenlander
+			any_owned = {
+				limit = {is_core = SCO }
+				remove_core = SCO
+				add_core = THIS
+			}
 		}
 	}
 	the_isle_of_emeralds = {
@@ -124,7 +130,6 @@ political_decisions = {
 		}
 		effect = {
 			set_country_flag = isle_of_emeralds
-			add_accepted_culture = irish
 			ENG_263 = { add_core = THIS }
 			ENG_258 = { add_core = THIS }
 			ENG_254 = { add_core = THIS }
@@ -146,7 +151,82 @@ political_decisions = {
 		effect = {
 			set_country_flag = accepted_irish
 			prestige = 10
-			add_accepted_culture = irish
+			add_accepted_culture = pendragonian
+		}
+	}
+	#Pendragonia Decisions
+		pendragonian_stales = {
+		potential = {
+			OR = { primary_culture = pendragonian }
+			NOT = {has_country_flag = stalish_claims }
+		}
+		allow = {
+			prestige = 30
+			nationalism_n_imperialism = 1
+			ENG_273 = { owned_by = THIS }
+		}
+		effect = {
+			prestige = 10
+			add_accepted_culture = english
+        	ENG_296 = { add_core = THIS }
+        	ENG_300 = { add_core = THIS }
+			set_country_flag = stalish_claims
+		}
+	}
+	pendragonian_steeland = {
+		potential = {
+			OR = { primary_culture = pendragonian }
+			has_country_flag = stalish_claims
+			NOT = {has_country_flag = steelland_claims }
+		}
+		allow = {
+			prestige = 50
+			nationalism_n_imperialism = 1
+			ENG_296 = { owned_by = THIS }
+        	ENG_300 = { owned_by = THIS }
+		}
+		effect = {
+			prestige = 10
+			add_accepted_culture = english
+        	ENG_280 = { add_core = THIS }
+			ENG_291 = { add_core = THIS }
+			ENG_277 = { add_core = THIS }
+			set_country_flag = steelland_claims
+		}
+	}
+	camelot_formation = {
+		potential = {
+			OR = { primary_culture = pendragonian }
+			NOT = {has_country_flag = camelot_formed }
+		}
+		allow = {
+			prestige = 75
+			nationalism_n_imperialism = 1
+			ENG_280 = { owned_by = THIS }
+			ENG_291 = { owned_by = THIS }
+			ENG_277 = { owned_by = THIS }
+			ENG_296 = { owned_by = THIS }
+        	ENG_300 = { owned_by = THIS }
+		}
+		effect = {
+			prestige = 10
+			change_tag = WHA
+        	
+			set_country_flag = camelot_formed
+		}
+	}
+	cardiff_capital = {
+		picture = budapest_city
+		potential = {
+			primary_culture = pendragonian
+			NOT = { 273 = { is_capital = yes } }
+		}
+		allow = {
+			273 = { owned_by = THIS }
+		}
+		effect = {
+			prestige = 10
+			capital = 273
 		}
 	}
 }

@@ -1,1 +1,20 @@
 #Canada
+##REVOLUTIONARY QUEBEC##
+country_event = {
+    id = 17400
+    title = "EVTNAME17400"
+    desc = "EVTDESC17400"
+    trigger = {
+        is_primary_culture = french_canadian
+        NOT = { has_country_flag = history_seen }
+    }
+
+    mean_time_to_happen = {
+        days = 7
+    }
+
+    option = {
+        name = "EVTOPTA17400"
+        set_country_flag = history_seen
+    }
+}

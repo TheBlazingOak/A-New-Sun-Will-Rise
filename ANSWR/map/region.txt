@@ -123,7 +123,7 @@ ENG_266 = { 266 267 268 1724 253 } #Highlands
 
 ENG_271 = { 271 269 270 272 } #Lowlands
 
-ENG_273 = { 273 274 275 276 286 } #Wales
+ENG_273 = { 273 274 275 276 286 299 } #Wales
 
 ENG_277 = { 278 285 283 284 288 290 } #North West England
 
@@ -131,7 +131,7 @@ ENG_280 = { 280 281 282 279 277 } #North East England
 
 ENG_291 = { 291 292 293 289 295 } #Eastern Counties
 
-ENG_296 = { 296 299 297 298 287 } #South West England
+ENG_296 = { 296 297 298 287 } #South West England
 
 ENG_300 = { 300 294 301 302 303 } #South East England
 

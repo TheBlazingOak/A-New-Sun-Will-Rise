@@ -339,7 +339,7 @@ british = {
         Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
         Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
     }
-    welsh = {
+    pendragonian = {
         color = { 35 100 20}
         first_names = {  
             Adda Adgar Adran Aeddan Aldwr Aldroenus Algwyn Alisander Alured 

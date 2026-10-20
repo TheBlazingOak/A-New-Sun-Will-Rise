@@ -233,3 +233,78 @@ country_event = {
         1570 = { add_province_modifier = {name = rebuilding_city duration = 3650 } }
     }
 }
+#Sell Nyverden (SKANDI)
+country_event = {
+    id = 52820
+    title = "EVTNAME52820"
+    desc = "EVTDESC52820"
+    is_triggered_only = yes
+
+    #Sell Nyverden
+    option = {
+        name = "EVTOPTA52820"
+        money = 20000
+        1652 = { secede_province = FROM add_core = FROM }
+        any_country = {
+            limit = { has_country_flag = greenhome is_primary_culture = french_canadian }
+            country_event = 52821
+        }
+        any_country = {
+            limit = { has_country_flag = greenhome is_primary_culture = scottish }
+            country_event = 52822
+        }
+    }
+    #No thanks
+    option = {
+        name = "EVTOPTA52820"
+        relation = {
+            tag = FROM
+            value = -150
+        }
+        FROM = { country_event = 52823 }
+    }
+}
+#Buy Nyverden (QUEBEC)
+country_event = {
+    id = 52821
+    title = "EVTNAME52821"
+    desc = "EVTDESC52821"
+    is_triggered_only = yes
+
+    #Buy Nyverden
+    option = {
+        name = "EVTOPTA52821"
+        money = -20000
+        1652 = { secede_province = THIS add_core = THIS add_core = NOU }
+    }
+}
+#Buy Nyverden (SCOTIA)
+country_event = {
+    id = 52822
+    title = "EVTNAME52822"
+    desc = "EVTDESC52822"
+    is_triggered_only = yes
+
+    #Buy Nyverden
+    option = {
+        name = "EVTOPTA52822"
+        money = -20000
+        1652 = { secede_province = THIS add_core = THIS add_core = NSO }
+    }
+}
+#Buy Nyverden Failure
+country_event = {
+    id = 52823
+    title = "EVTNAME52823"
+    desc = "EVTDESC52823"
+    is_triggered_only = yes
+
+    #Unfortunate
+    option = {
+        name = "EVTOPTA52823"
+        relation = {
+            tag = FROM
+            value = -150
+        }
+    }
+}

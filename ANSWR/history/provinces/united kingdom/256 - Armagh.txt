@@ -1,6 +1,6 @@
 owner = SCO
 controller = SCO
 add_core = SCO
-add_core = IRE
+add_core = PND
 trade_goods = cattle
 life_rating = 35

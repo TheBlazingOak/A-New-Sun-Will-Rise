@@ -2329,10 +2329,10 @@ USA_hms_government;The Kingdom of America;;;;;;;;;;;;;,,
 USA_proletarian_dictatorship;The United Socialist States;;;;;;;;;;;;;,,
 ESS;The Eastern Seaboard;;;;;;;;;;;;;,,
 ESS_ADJ;Yankee;;;;;;;;;;;;;,,
-ESS_absolute_monarchy;The Kingdom of the Sea;;;;;;;;;;;;;,,
-ESS_prussian_constitutionalism;The Kingdom of the Sea;;;;;;;;;;;;;,,
-ESS_hms_government;The Kingdom of the Sea;;;;;;;;;;;;;,,
-ESS_proletarian_dictatorship;ESSR;;;;;;;;;;;;;,,
+ESS_absolute_monarchy;The Eastern Empire;;;;;;;;;;;;;,,
+ESS_prussian_constitutionalism;The Eastern Empire;;;;;;;;;;;;;,,
+ESS_hms_government;The Eastern Empire;;;;;;;;;;;;;,,
+ESS_proletarian_dictatorship;The Eastern Socialist Republics;;;;;;;;;;;;;,,
 UYG;Uyghurstan;;;;;;;;;;;;;,,
 UYG_ADJ;Uyghur;;;;;;;;;;;;;,,
 UYG_absolute_monarchy;Kashgaria;;;;;;;;;;;;;,,
@@ -2401,8 +2401,8 @@ WES_conservative_3;Christsoz. Arbeiterpartei;Christsoz. Arbeiterpartei;Christsoz
 WES_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbeiterpartei;;;;;;;;;;;,,
 WES_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;;;;;,,
 WES_fascist;NSDP;NSDP;NSDP;;;;;;;;;;;,,
-WHA;Pendragonia;;;;;;;;;;;;;,,
-WHA_ADJ;Pendragonian;;;;;;;;;;;;;,,
+PND;Pendragonia;;;;;;;;;;;;;,,
+PND_ADJ;Pendragonian;;;;;;;;;;;;;,,
 WHA_liberal;Democratiaid Rhyddfrydol;;;;;;;;;;;;;,,
 WHA_conservative;Plaid Geidwadol;;;;;;;;;;;;;,,
 WHA_socialist;Plaid Cymru;;;;;;;;;;;;;,,
@@ -3008,8 +3008,8 @@ ROU;Rouance;;;;;;;;;;;;;,,
 ROU_ADJ;Rouancen;;;;;;;;;;;;;,,
 AUV;Auvergne;;;;;;;;;;;;;,,
 AUV_ADJ;Auvergnian;;;;;;;;;;;;;,,
-NOD;Norge-Svea;;;;;;;;;;;;;,,
-NOD_ADJ;Norsk-Svenske;;;;;;;;;;;;;,,
+NOD;Exiled Kingdom of Norge;;;;;;;;;;;;;,,
+NOD_ADJ;Norsk;;;;;;;;;;;;;,,
 NIT;Trihoribratia;;;;;;;;;;;;;,,
 NIT_ADJ;Trihoribratan;;;;;;;;;;;;;,,
 FRE;Iles de France;;;;;;;;;;;;;,,
@@ -3329,12 +3329,12 @@ TUR_hms_government;Yeni Imparatorluk;;;;;;;;;;;;;,,
 TUR_ADJ;Trakyan;;;;;;;;;;;;;,,
 TUR_democracy;Trakyan Republic;;;;;;;;;;;;;,,
 TUR_trading_republic;The Trakyan Maritime Republic;;;;;;;;;;;;;,,
-BOR;Borgar;;;;;;;;;;;;;,,
+BOR;Borgaria;;;;;;;;;;;;;,,
 BOR_ADJ;Borgar;;;;;;;;;;;;;,,
-BOR_absolute_monarchy;Borgar Empire;;;;;;;;;;;;;,,
-BOR_prussian_constitutionalism;Borgar Empire;;;;;;;;;;;;;,,
-BOR_hms_government;Borgar Empire;;;;;;;;;;;;;,,
-BOR_democracy;Borgar Republic;;;;;;;;;;;;;,,
+BOR_absolute_monarchy;The Borgar Empire;;;;;;;;;;;;;,,
+BOR_prussian_constitutionalism;The Borgar Empire;;;;;;;;;;;;;,,
+BOR_hms_government;The Borgar Empire;;;;;;;;;;;;;,,
+BOR_democracy;The Borgar Republic;;;;;;;;;;;;;,,
 BOR_conservative;Imperatora;;;;;;;;;;;;;,,
 BOR_liberal;Napreduk;;;;;;;;;;;;;,,
 BOR_reactionary;Anti-Napreduk;;;;;;;;;;;;;,,
@@ -3591,7 +3591,7 @@ NTC_fascist_dictatorship;Taptforviste;;;;;;;;;;;x;
 NTC_bourgeois_dictatorship;Ukjentland;;;;;;;;;;;x;
 NTC_proletarian_dictatorship;Ukjentland;;;;;;;;;;;x;
 NTC_prussian_constitutionalism;Taptforviste;;;;;;;;;;;x;
-ASL;The Northern Union;;;;;;;;;;;x;
+ASL;The Steelland;;;;;;;;;;;x;
 ASL_ADJ;Steelmekker;;;;;;;;;;;x;
 ASL_hms_government;The Kingdom of the North;;;;;;;;;;;x;
 ASL_absolute_monarchy;The Kingdom of the North;;;;;;;;;;;x;
@@ -3814,7 +3814,7 @@ PTO;Aigyptos;;;;;;;;;;;;;,,
 PTO_ADJ;Aigyption-Elniki;;;;;;;;;;;;;,,
 EGY;Misr;;;;;;;;;;;;;,,
 EGY_ADJ;Misri;;;;;;;;;;;;;,,
-WHA;Holy Court of House Pendragon;;;;;;;;;;;;;
+WHA;Camelot;;;;;;;;;;;;;
 WHA_ADJ;Pendragonian;;;;;;;;;;;;;
 NIN;Sugbuan Union;;;;;;;;;;;;;
 NIN_ADJ;Sugbuan;;;;;;;;;;;;;

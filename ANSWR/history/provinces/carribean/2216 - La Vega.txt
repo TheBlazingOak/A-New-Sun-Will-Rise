@@ -1,5 +1,6 @@
-owner = SAP
-controller = SAP
+owner = NOD
+controller = NOD
 add_core = HAI
+add_core = NOD
 trade_goods = coffee
 life_rating = 35

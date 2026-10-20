@@ -1,6 +1,6 @@
-owner = IRE
-controller = IRE
-add_core = IRE
+owner = PND
+controller = PND
+add_core = PND
 trade_goods = fish
 life_rating = 35
 naval_base = 1 #Base in Cobh, important since pre-NaWRPeonic times

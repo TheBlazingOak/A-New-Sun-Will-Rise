@@ -87,6 +87,7 @@ political_decisions = {
         	USA_243 = { add_core = ESS }
         	USA_247 = { add_core = ESS }
         	USA_211 = { add_core = ESS }
+			USA_223 = { add_core = ESS }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -385,7 +386,7 @@ transpacifica_unification = {
 			1 = { owned_by = THIS}
 			year = 2845
 			hot_blast = 1
-			expirimental_railroad = 1
+			experimental_railroad = 1
 			is_culture_group = pacific_cultures
 			NOT = { has_global_flag = pacifica_railway }
 			}
@@ -523,7 +524,7 @@ transpacifica_unification = {
     	tag = TRP
     	ARI = { exists = yes }
     	NOT = { has_country_flag = raising_arizona }
-    	ARI = { is_vassal_of = THIS}
+    	ARI = { vassal_of = THIS}
 		year = 2845
     		}
     	allow = {

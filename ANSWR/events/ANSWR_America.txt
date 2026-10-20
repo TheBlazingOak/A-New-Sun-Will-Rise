@@ -83,12 +83,12 @@ province_event = {
         	THIS = { civilized = yes }
         	THIS = { has_country_modifier = raided_bunker }
         	}
-            
+
         }
     }
 
     mean_time_to_happen = {
-        months = 120
+        months = 240
     }
     #Study 
     option = {
@@ -99,7 +99,6 @@ province_event = {
     #Destroy these unholy relics
     option = {
         name = "EVT52181OPTB"
-        prestige = 3
         any_pop = { militancy = -2 }
     }
 }
@@ -644,8 +643,8 @@ country_event = {
 		add_country_modifier = { name = western_influences duration = -1 }
 		relation = { who = FROM relation = 50 }
 		research_points = 11000
-		FROM = { country_event = 52108 days = 21 }
-		ai_chance = { chance = 70
+		FROM = { country_event = 52108 }
+		ai_chance = { factor = 70
 		modifier = { 
 			factor = 2
 			relation = { who = FROM value = 150 }
@@ -660,14 +659,14 @@ country_event = {
 		MEX_94 = { add_core = THIS }
 		research_points = 30000
 		define_general = {
-			name = { Alex Black }
-			personality = { audacious }
-			background = { school_of_hartskamp }
+			name = Alex Black
+			personality = audacious
+			background = school_of_hartskamp
 		}
 		set_country_flag = opposed_pacifica
-		FROM = { country_event = 52107 days = 21 }
+		FROM = { country_event = 52107 }
 		ai_chance = { 
-		chance = 30
+		factor = 30
 		modifier = {
             factor = 50
             stronger_army_than = FROM

@@ -3,33 +3,33 @@
 #Belfast (540000/135000 POPs)
 254 = {
     clergymen = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 250
     }
     soldiers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 6000
     }
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 9000
     }
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 9000
     }
     farmers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 105250
     }
     aristocrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 2100
     }
     farmers = {
@@ -41,28 +41,28 @@
 #Londonderry (524000/131000 POPS)
 255 = {
     aristocrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 750
     }
     clergymen = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 250
     }
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 3500
     }
     soldiers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 700
     }
     farmers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 43000
     }
     farmers = {
@@ -74,28 +74,28 @@
 #Amargh (524000/131000 POPS)
 256 = {
     aristocrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 1750
     }
     clergymen = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 1250
     }
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 8500
     }
     soldiers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 4500
     }
     farmers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 73000
     }
     farmers = {
@@ -107,28 +107,28 @@
 #Donegal (508000/127000 POPS)
 257 = {
     aristocrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 800
     }
     clergymen = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 250
     }
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 3750
     }
     soldiers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 1500
     }
     farmers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 52250
     }
     farmers = {
@@ -143,62 +143,62 @@
 258 = {
 
     bureaucrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 3500
     }
 
     officers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 450
     }
 
     aristocrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 4500
     }
 
     clergymen = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 1250
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 10000
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 10000
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 8000
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 5500
     }
 
     soldiers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 6750
     }
 
     farmers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 142171
     }
 }
@@ -206,32 +206,32 @@
 259 = {
 
     aristocrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 600
     }
 
     clergymen = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 1000
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 6500
     }
 
     soldiers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 3000
     }
 
     farmers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 146250
     }
 
@@ -241,108 +241,108 @@
 #Cork (890000/224000 POPS)
 260 = {
     aristocrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 600
     }
 
     bureaucrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 100
     }
 
     officers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 200
     }
 
     clergymen = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 500
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 6000
     }
 
     soldiers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 4500
     }
 
     farmers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 62750
     }
 }
 #Limerick (818000/204500 POPS)
 261 = {
     aristocrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 900
     }
 
     clergymen = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 1100
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 4000
     }
 
     soldiers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 2500
     }
 
     farmers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 136300
     }
 }
 #Waterford (536000/134000 POPs)
 262 = {
     aristocrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 100
     }
 
     clergymen = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 350
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 5000
     }
 
     soldiers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 1200
     }
 
     farmers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 93750
     }
 
@@ -352,144 +352,144 @@
 #Dublin (860000/215000 POPs)
 263 = {
     aristocrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 3700
     }
 
     bureaucrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 2200
     }
 
     officers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 700
     }
 
     clergymen = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 2250
     }
 
     soldiers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 9500
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 10000
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 10000
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 10000
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 2000
     }
 
     farmers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 184375
     }
 
     craftsmen = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 12375
     }
 
     clerks = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 1375
     }
 }
 #Kildare (532000/133000 POPs)
 264 = {
     aristocrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 350
     }
 
     clergymen = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 100
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 2500
     }
 
     soldiers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 700
     }
 
     farmers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 73400
     }
 }
 #Wexford (444000/111000 POPS)
 265 = {
     aristocrats = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 1050
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 10000
     }
 
     artisans = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 7000
     }
 
     clergymen = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 1000
     }
 
     soldiers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 3000
     }
 
     farmers = {
-        culture = irish
-        religion = prosperity
+        culture = pendragonian
+        religion = folkloric
         size = 149274
     }
 

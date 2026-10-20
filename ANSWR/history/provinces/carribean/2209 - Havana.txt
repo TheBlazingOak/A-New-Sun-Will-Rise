@@ -1,6 +1,7 @@
 owner = SCO
 controller = SCO
 add_core = CUB
+add_core = ATC
 trade_goods = tobacco
 life_rating = 35
 naval_base = 1

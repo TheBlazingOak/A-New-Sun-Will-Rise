@@ -1067,7 +1067,7 @@ political_decisions = {
                     is_capital = yes
                     NOT = { life_rating = 38 }
                 }
-                263 = { #Dublin
+                273 = { #Cardiff
                     owned_by = THIS
                     is_capital = yes
                     NOT = { life_rating = 38 }
@@ -1134,7 +1134,7 @@ political_decisions = {
                         province_id = 375
                         province_id = 387
                         province_id = 521
-                        province_id = 263
+                        province_id = 273
                         province_id = 269
                         province_id = 343
                         province_id = 876

@@ -66,7 +66,9 @@ From;To;Type;Through;Data;Comment
 # European Straits
 #
 256;270;sea;2737;0;Irish Strait
-334;372;sea;2711;0; resund
+273;299;sea;2726;0;Cardiff to Plymouth
+265;274;sea;2738;0;Wexford to Cardigan
+334;372;sea;2711;0;Copenhagen-Malmo
 335;374;sea;2710;0;Bornholmsf rjan
 353;349;sea;2709;0; selsund
 353;358;sea;2709;0;Strait of Riga
@@ -99,7 +101,9 @@ From;To;Type;Through;Data;Comment
 267;1724;sea;2735;0;Inverness - Orkney Strait
 780;782;land;2762;0;Mostar Bay
 #301;400;sea;2724;0;UK - France Strait
-288;290;land;2732;0;Lincoln Strait
+288;290;land;2732;0;Horncastle Strait
+281;290;sea;2732;0;New Yorkshire to Horncastle
+300;293;sea;2723;0;Stales to Chelmsford
 427;425;land;3328;0;Parii-Melun
 408;425;land;3328;0;Parii-Chalons
 426;425;land;3328;0;Parii-Chartres

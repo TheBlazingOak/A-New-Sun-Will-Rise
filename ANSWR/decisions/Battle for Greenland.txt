@@ -66,4 +66,23 @@ political_decisions = {
         }
         ai_will_do = { factor = 1 }
     }
+    buy_nyverden ={
+        picture = greenland
+        potential = {
+            2636 = { owned_by = THIS }
+            1541 = { owned_by = THIS }
+            1652 = { owned_by = SAP }
+            has_country_flag = greenhome
+            NOT = {has_country_flag = buy_nyverden }
+        }
+        allow = {
+            prestige = 5
+            treasury = 20000
+        }
+        effect = {
+            set_country_flag = buy_nyverden
+            SAP = { country_event = 52820 }
+        }
+        ai_will_do = { factor = 1 }
+    }
 }

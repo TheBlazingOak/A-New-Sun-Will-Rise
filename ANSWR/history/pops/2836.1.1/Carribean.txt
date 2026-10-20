@@ -263,39 +263,29 @@
 #The Bahamas (20000/5000 POPS)
 2219 = {
     aristocrats = {
-        culture = caribeno
-        religion = catholic
+        culture = norwegian
+        religion = the_broken
         size = 500
     }
-
     clergymen = {
-        culture = caribeno
-        religion = catholic
+        culture = norwegian
+        religion = the_broken
         size = 100
     }
-
     artisans = {
-        culture = caribeno
-        religion = catholic
+        culture = norwegian
+        religion = the_broken
         size = 525
     }
-
     soldiers = {
-        culture = caribeno
-        religion = catholic
+        culture = norwegian
+        religion = the_broken
         size = 500
     }
-
     farmers = {
-        culture = caribeno
-        religion = catholic
-        size = 1240
-    }
-
-    farmers = {
-        culture = caribeno
-        religion = catholic
-        size = 5879
+        culture = norwegian
+        religion = the_broken
+        size = 15879
     }
 }
 #Greater Antilles
@@ -890,198 +880,133 @@
 #Haitia Under Norge-Svea
 #Port au Prince (312000/78000 POPS)
 2213 = {
-
     bureaucrats = {
-        culture = danish
-        religion = catholic
-        size = 1500
+        culture = norwegian
+        religion = the_broken
+        size = 2500
     }
-
     aristocrats = {
-        culture = danish
-        religion = catholic
+        culture = norwegian
+        religion = the_broken
         size = 3825
     }
-
     officers = {
-        culture = danish
-        religion = catholic
+        culture = norwegian
+        religion = the_broken
         size = 450
     }
-
     clergymen = {
-        culture = danish
-        religion = catholic
-        size = 1750
+        culture = norwegian
+        religion = the_broken
+        size = 2750
     }
-
     artisans = {
-        culture = danish
-        religion = catholic
+        culture = norwegian
+        religion = the_broken
         size = 14050
     }
-
     soldiers = {
-        culture = danish
-        religion = catholic
+        culture = norwegian
+        religion = the_broken
         size = 6000
     }
-
     farmers = {
-        culture = caribeno
-        religion = catholic
-        size = 88300
+        culture = norwegian
+        religion = the_broken
+        size = 178300
     }
 }
 #Cap Haitien (204000/51000 POPS)
 2215 = {
     aristocrats = {
-        culture = danish
-        religion = catholic
+        culture = norwegian
+        religion = the_broken
         size = 2550
     }
-
     clergymen = {
-        culture = danish
-        religion = catholic
+        culture = norwegian
+        religion = the_broken
         size = 750
     }
-
     artisans = {
-        culture = danish
-        religion = catholic
+        culture = norwegian
+        religion = the_broken
         size = 12550
     }
-
     soldiers = {
-        culture = danish
-        religion = catholic
+        culture = norwegian
+        religion = the_broken
         size = 3000
     }
-
     farmers = {
-        culture = caribeno
-        religion = catholic
+        culture = norwegian
+        religion = the_broken
         size = 66825
     }
-
 }
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
     aristocrats = {
-        culture = danish
-        religion = catholic
-        size = 700
+        culture = norwegian
+        religion = the_broken
+        size = 1700
     }
-
     bureaucrats = {
-        culture = danish
-        religion = catholic
-        size = 25
+        culture = norwegian
+        religion = the_broken
+        size = 225
     }
-
     clergymen = {
-        culture = danish
-        religion = catholic
-        size = 100
+        culture = norwegian
+        religion = the_broken
+        size = 1100
     }
-
     artisans = {
-        culture = danish
-        religion = catholic
-        size = 350
+        culture = norwegian
+        religion = the_broken
+        size = 1350
     }
-
     soldiers = {
-        culture = danish
-        religion = catholic
-        size = 75
+        culture = norwegian
+        religion = the_broken
+        size = 6175
     }
-
     farmers = {
-        culture = danish
-        religion = catholic
-        size = 62375
-    }
-
-    clergymen = {
-        culture = caribeno
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = caribeno
-        religion = catholic
-        size = 500
-    }
-
-    soldiers = {
-        culture = caribeno
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = caribeno
-        religion = catholic
-        size = 45350
+        culture = norwegian
+        religion = the_broken
+        size = 92375
     }
 }
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
     aristocrats = {
-        culture = danish
-        religion = catholic
-        size = 550
+        culture = norwegian
+        religion = the_broken
+        size = 1550
     }
-
     clergymen = {
-        culture = danish
-        religion = catholic
-        size = 100
+        culture = norwegian
+        religion = the_broken
+        size = 1000
     }
-
-    artisans = {
-        culture = danish
-        religion = catholic
-        size = 400
-    }
-
-    soldiers = {
-        culture = danish
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = danish
-        religion = catholic
-        size = 15175
-    }
-
     clergymen = {
-        culture = caribeno
-        religion = catholic
-        size = 50
+        culture = norwegian
+        religion = the_broken
+        size = 850
     }
-
     artisans = {
-        culture = caribeno
-        religion = catholic
-        size = 300
+        culture = norwegian
+        religion = the_broken
+        size = 7300
     }
-
     soldiers = {
-        culture = caribeno
-        religion = catholic
-        size = 75
+        culture = norwegian
+        religion = the_broken
+        size = 3175
     }
-
     farmers = {
-        culture = caribeno
-        religion = catholic
-        size = 30575
+        culture = norwegian
+        religion = the_broken
+        size = 45575
     }
-
 }
